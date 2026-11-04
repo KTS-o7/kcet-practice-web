@@ -31,7 +31,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -66,7 +69,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -103,7 +109,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -138,7 +147,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -175,7 +187,10 @@
    "key_official": true,
    "blind_haiku": 3,
    "verify": "key_confirmed",
-   "notes": "Transcription exact; layers lie in series along the axis so one compound lens gives 1 image; key cell A1=1 re-read in both key files."
+   "notes": "Transcription exact; layers lie in series along the axis so one compound lens gives 1 image; key cell A1=1 re-read in both key files.",
+   "solver_agrees": [
+    "sonnet"
+   ]
   }
  },
  {
@@ -210,7 +225,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -245,7 +263,10 @@
    "key_official": true,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -280,7 +301,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -315,7 +339,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -350,7 +377,10 @@
    "key_official": true,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -385,7 +415,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -420,7 +453,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -455,7 +491,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -490,7 +529,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -525,7 +567,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -560,7 +605,10 @@
    "key_official": true,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -597,7 +645,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -632,7 +683,10 @@
    "key_official": true,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -669,7 +723,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -774,7 +831,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -811,7 +871,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -846,7 +909,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "key_confirmed",
-   "notes": "Transcription exact; n proportional to tan(theta) for same current, so 3:1; key cell A1=2 confirmed."
+   "notes": "Transcription exact; n proportional to tan(theta) for same current, so 3:1; key cell A1=2 confirmed.",
+   "solver_agrees": [
+    "sonnet"
+   ]
   }
  },
  {
@@ -883,7 +949,10 @@
    "key_official": true,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -918,7 +987,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -953,7 +1025,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -990,7 +1065,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1025,7 +1103,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1060,7 +1141,10 @@
    "key_official": true,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1095,7 +1179,10 @@
    "key_official": true,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1130,7 +1217,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1165,7 +1255,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1200,7 +1293,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1235,7 +1331,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "key_confirmed",
-   "notes": "Transcription exact; hydrogen level gaps too small for X-ray energies; key 4 matches."
+   "notes": "Transcription exact; hydrogen level gaps too small for X-ray energies; key 4 matches.",
+   "solver_agrees": [
+    "sonnet"
+   ]
   }
  },
  {
@@ -1270,7 +1369,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1305,7 +1407,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1340,7 +1445,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1375,7 +1483,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1410,7 +1521,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1445,7 +1559,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1480,7 +1597,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1515,7 +1635,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1550,7 +1673,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1587,7 +1713,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1622,7 +1751,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1657,7 +1789,10 @@
    "key_official": true,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1692,7 +1827,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1727,7 +1865,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1762,7 +1903,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1797,7 +1941,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1832,7 +1979,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1869,7 +2019,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1904,7 +2057,10 @@
    "key_official": true,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1941,7 +2097,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1976,7 +2135,10 @@
    "key_official": true,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -2011,7 +2173,10 @@
    "key_official": true,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -2046,7 +2211,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -2081,7 +2249,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -2116,7 +2287,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  }
 ]

@@ -34,7 +34,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -71,7 +74,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -106,7 +112,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -141,7 +150,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -176,7 +188,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -211,7 +226,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -246,7 +264,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -281,7 +302,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -316,7 +340,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -351,7 +378,10 @@
    "key_official": true,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -386,7 +416,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -421,7 +454,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -456,7 +492,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -491,7 +530,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -526,7 +568,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -561,7 +606,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -596,7 +644,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -631,7 +682,10 @@
    "key_official": true,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -668,7 +722,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -703,7 +760,10 @@
    "key_official": true,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -739,7 +799,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -774,7 +837,10 @@
    "key_official": true,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -809,7 +875,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -846,7 +915,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -883,7 +955,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -918,7 +993,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -955,7 +1033,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -990,7 +1071,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1025,7 +1109,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1060,7 +1147,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1095,7 +1185,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1130,7 +1223,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1165,7 +1261,10 @@
    "key_official": true,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1200,7 +1299,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1237,7 +1339,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1272,7 +1377,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1307,7 +1415,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1342,7 +1453,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1377,7 +1491,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1412,7 +1529,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1447,7 +1567,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1482,7 +1605,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "key_confirmed",
-   "notes": "Transcription exact; official key A=4 (D) read correctly. Strictly a convex mirror gives a virtual image at f/2 so no option is physically right, D is the official answer."
+   "notes": "Transcription exact; official key A=4 (D) read correctly. Strictly a convex mirror gives a virtual image at f/2 so no option is physically right, D is the official answer.",
+   "solver_agrees": [
+    "sonnet"
+   ]
   }
  },
  {
@@ -1517,7 +1643,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1552,7 +1681,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1587,7 +1719,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1622,7 +1757,10 @@
    "key_official": true,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1657,7 +1795,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1692,7 +1833,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1727,7 +1871,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1762,7 +1909,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1797,7 +1947,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1832,7 +1985,10 @@
    "key_official": true,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1867,7 +2023,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1902,7 +2061,10 @@
    "key_official": true,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1937,7 +2099,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1973,7 +2138,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -2008,7 +2176,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -2043,7 +2214,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -2078,7 +2252,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -2113,7 +2290,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  }
 ]

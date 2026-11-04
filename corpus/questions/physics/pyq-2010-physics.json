@@ -31,7 +31,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -66,7 +69,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -97,15 +103,15 @@
   "images": [
    "pyq-2010-physics-003.png"
   ],
-  "status": "verified",
+  "status": "flagged",
   "in_syllabus": true,
   "checks": {
    "key_official": true,
    "blind_haiku": 0,
    "verify": "disputed",
    "notes": "Key cell (A1 Q3 = 3, both a and b) re-read correctly; transcription matches. Relative to the table the ball stays put without friction (a) and is dragged slightly forward with friction, so b (moves left) is false; only a) is physically correct.",
-   "disputed": true,
-   "status_reason": "official key kept; Sonnet disagrees"
+   "solver_agrees": [],
+   "status_reason": "blind solver and key disagree"
   }
  },
  {
@@ -142,7 +148,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -177,7 +186,10 @@
    "key_official": true,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -214,7 +226,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -249,7 +264,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -284,7 +302,10 @@
    "key_official": true,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -319,7 +340,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -354,7 +378,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -389,7 +416,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -424,7 +454,10 @@
    "key_official": true,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -459,7 +492,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -494,7 +530,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -529,7 +568,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -564,7 +606,10 @@
    "key_official": true,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -599,7 +644,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -634,7 +682,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -669,7 +720,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -706,7 +760,10 @@
    "key_official": true,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -743,7 +800,10 @@
    "key_official": true,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -780,7 +840,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -815,7 +878,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -850,7 +916,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -885,7 +954,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -920,7 +992,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -955,7 +1030,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -992,7 +1070,10 @@
    "key_official": true,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1027,7 +1108,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1062,7 +1146,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1099,7 +1186,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1134,7 +1224,10 @@
    "key_official": true,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1163,15 +1256,15 @@
    3
   ],
   "images": [],
-  "status": "verified",
+  "status": "flagged",
   "in_syllabus": true,
   "checks": {
    "key_official": true,
    "blind_haiku": 2,
    "verify": "disputed",
    "notes": "Key cell (A1 Q33 = 4, i.e. 17) re-read correctly; transcription matches. d=5 um, d/lambda=8 so n=8 falls at 90 deg and is not observable; maxima n=0,+-1..+-7 = 15. Key apparently counted n=+-8.",
-   "disputed": true,
-   "status_reason": "official key kept; Sonnet disagrees"
+   "solver_agrees": [],
+   "status_reason": "blind solver and key disagree"
   }
  },
  {
@@ -1206,7 +1299,10 @@
    "key_official": true,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1243,7 +1339,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1316,7 +1415,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1351,7 +1453,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1388,7 +1493,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1423,7 +1531,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1460,7 +1571,10 @@
    "key_official": true,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1497,7 +1611,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1532,7 +1649,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1567,7 +1687,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1602,7 +1725,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1639,7 +1765,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1674,7 +1803,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1709,7 +1841,10 @@
    "key_official": true,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1744,7 +1879,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1779,7 +1917,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1814,7 +1955,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1851,7 +1995,10 @@
    "key_official": true,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1886,7 +2033,10 @@
    "key_official": true,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1921,7 +2071,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1956,7 +2109,10 @@
    "key_official": true,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1991,7 +2147,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -2026,7 +2185,10 @@
    "key_official": true,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -2097,7 +2259,10 @@
    "key_official": true,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -2132,7 +2297,10 @@
    "key_official": true,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  }
 ]

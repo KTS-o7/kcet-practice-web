@@ -31,7 +31,10 @@
    "key_official": false,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -66,7 +69,10 @@
    "key_official": false,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -101,7 +107,10 @@
    "key_official": false,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -139,7 +148,10 @@
    "key_official": false,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -174,7 +186,10 @@
    "key_official": false,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -209,7 +224,10 @@
    "key_official": false,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -244,7 +262,10 @@
    "key_official": false,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -279,7 +300,10 @@
    "key_official": false,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -314,7 +338,10 @@
    "key_official": false,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -349,7 +376,10 @@
    "key_official": false,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -384,7 +414,10 @@
    "key_official": false,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -419,7 +452,10 @@
    "key_official": false,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -456,7 +492,10 @@
    "key_official": false,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -491,7 +530,10 @@
    "key_official": false,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -526,7 +568,10 @@
    "key_official": false,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -561,7 +606,10 @@
    "key_official": false,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -596,7 +644,10 @@
    "key_official": false,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -633,7 +684,10 @@
    "key_official": false,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -668,7 +722,10 @@
    "key_official": false,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -703,7 +760,10 @@
    "key_official": false,
    "blind_haiku": 0,
    "verify": "key_confirmed",
-   "notes": "Cu/HCl on diazonium salt is the Gattermann reaction; transcription matches page 5; key (ii) read correctly."
+   "notes": "Cu/HCl on diazonium salt is the Gattermann reaction; transcription matches page 5; key (ii) read correctly.",
+   "solver_agrees": [
+    "sonnet"
+   ]
   }
  },
  {
@@ -738,7 +798,10 @@
    "key_official": false,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -773,7 +836,10 @@
    "key_official": false,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -810,7 +876,10 @@
    "key_official": false,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -847,7 +916,10 @@
    "key_official": false,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -882,7 +954,10 @@
    "key_official": false,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -919,7 +994,10 @@
    "key_official": false,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -955,7 +1033,8 @@
    "blind_haiku": 1,
    "verify": "disputed",
    "notes": "Key (iii) read correctly and transcription matches p.6, but amide+LiAlH4 (and nitrile+LiAlH4, printed 'nitrite') also keeps carbon count, so the question is ambiguous; NCERT key says Gabriel (iii).",
-   "status_reason": "solver disagrees with unofficial key"
+   "solver_agrees": [],
+   "status_reason": "blind solver and key disagree"
   }
  }
 ]

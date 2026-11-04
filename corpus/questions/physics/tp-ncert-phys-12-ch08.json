@@ -31,7 +31,10 @@
    "key_official": false,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -67,7 +70,8 @@
    "blind_haiku": 2,
    "verify": "disputed",
    "notes": "Key image reads 8.2 (b) (confirmed). Transcription matches page. Perfect reflector needs E=0 at wall, so reflected wave is -E0 i cos(kz+wt), option (c); (b) has no phase flip.",
-   "status_reason": "solver disagrees with unofficial key"
+   "solver_agrees": [],
+   "status_reason": "blind solver and key disagree"
   }
  },
  {
@@ -102,7 +106,10 @@
    "key_official": false,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -138,7 +145,8 @@
    "blind_haiku": 2,
    "verify": "disputed",
    "notes": "Key image reads 8.4 (d) (confirmed). Transcription matches page. I proportional to P and E^2, so E scales as sqrt(P): 50 W gives E/sqrt2, option (c); key's sqrt2 E is wrong.",
-   "status_reason": "solver disagrees with unofficial key"
+   "solver_agrees": [],
+   "status_reason": "blind solver and key disagree"
   }
  },
  {
@@ -173,7 +181,10 @@
    "key_official": false,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -208,7 +219,10 @@
    "key_official": false,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -243,7 +257,10 @@
    "key_official": false,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  }
 ]

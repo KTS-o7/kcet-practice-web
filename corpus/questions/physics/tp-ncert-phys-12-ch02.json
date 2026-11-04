@@ -33,7 +33,10 @@
    "key_official": false,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -68,7 +71,10 @@
    "key_official": false,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -105,7 +111,10 @@
    "key_official": false,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -140,7 +149,10 @@
    "key_official": false,
    "blind_haiku": 3,
    "verify": "key_confirmed",
-   "notes": "Transcription matches page image; E=0 inside conductor implies constant potential, so S1 is cause of S2 (C), matching key."
+   "notes": "Transcription matches page image; E=0 inside conductor implies constant potential, so S1 is cause of S2 (C), matching key.",
+   "solver_agrees": [
+    "sonnet"
+   ]
   }
  },
  {
@@ -175,7 +187,10 @@
    "key_official": false,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -212,7 +227,10 @@
    "key_official": false,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  }
 ]

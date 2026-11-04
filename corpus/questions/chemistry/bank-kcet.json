@@ -22248,7 +22248,7 @@
    2
   ],
   "images": [],
-  "status": "verified",
+  "status": "flagged",
   "in_syllabus": true,
   "topic": "d-Block Melting Points",
   "difficulty": "medium",
@@ -22282,7 +22282,8 @@
     "url": "",
     "note": "V = 2183 K vs Cr = 2180 K, so vanadium is nominally higher, but NCERT and every coaching module credit chromium with the 3d melting-point crown and the exam answer follows that convention. Examon's key (Cr) stands.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "status_reason": "strict rule: solver and original key did not agree (external source confirmed the published key); corrected answer kept for review"
   }
  },
  {

@@ -31,7 +31,10 @@
    "key_official": false,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -66,7 +69,10 @@
    "key_official": false,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -101,7 +107,10 @@
    "key_official": false,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -138,7 +147,10 @@
    "key_official": false,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -175,7 +187,10 @@
    "key_official": false,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -212,7 +227,10 @@
    "key_official": false,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -247,7 +265,10 @@
    "key_official": false,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -282,7 +303,10 @@
    "key_official": false,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -319,7 +343,10 @@
    "key_official": false,
    "blind_haiku": 1,
    "verify": "key_confirmed",
-   "notes": "Transcription matches image; A > C > B by alkene stability (isobutene > propene > ethene); key iv agrees."
+   "notes": "Transcription matches image; A > C > B by alkene stability (isobutene > propene > ethene); key iv agrees.",
+   "solver_agrees": [
+    "sonnet"
+   ]
   }
  },
  {
@@ -354,7 +381,10 @@
    "key_official": false,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  }
 ]

@@ -31,7 +31,10 @@
    "key_official": false,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -68,7 +71,10 @@
    "key_official": false,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -105,7 +111,10 @@
    "key_official": false,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -142,7 +151,10 @@
    "key_official": false,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -179,7 +191,10 @@
    "key_official": false,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -216,7 +231,10 @@
    "key_official": false,
    "blind_haiku": 1,
    "verify": "key_confirmed",
-   "notes": "Transcription exact; feasible region unbounded (strip between parallel lines extends upward), F=3x-4y decreases without bound along (1,2), so minimum does not exist; key D (p.302 key image) correct."
+   "notes": "Transcription exact; feasible region unbounded (strip between parallel lines extends upward), F=3x-4y decreases without bound along (1,2), so minimum does not exist; key D (p.302 key image) correct.",
+   "solver_agrees": [
+    "sonnet"
+   ]
   }
  },
  {
@@ -251,7 +269,10 @@
    "key_official": false,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -286,7 +307,10 @@
    "key_official": false,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -322,6 +346,9 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ],
    "status_reason": "duplicate of pyq-2020-mathematics-048"
   }
  }

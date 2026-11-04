@@ -4,8 +4,8 @@ Usage: python3 -I scripts/assemble.py            (all jobs with a verify.json)
 Status rules:
 - grace / dropped in the key                      -> dropped (no correct answer exists)
 - reconcile left the question unresolved           -> flagged
-- official key (KEA): verified; if Sonnet still disagrees -> verified + disputed, listed in review.md
-- unofficial key: verified only if a blind solver agreed with the key; otherwise flagged (hidden) and listed
+- any key (official or not): live ONLY if a blind solver (Haiku, Sonnet re-solve, or proofread re-solve) chose an accepted option;
+  otherwise flagged (hidden) and listed in review.md. If the text was fixed after Haiku solved it, Haiku's answer doesn't count.
 - mechanical failures (not 4 options, bad answer index, missing image, LaTeX that KaTeX rejects) -> flagged
 Duplicates across sources (same normalised stem + options): the PYQ copy wins, others are dropped.
 """
@@ -64,6 +64,7 @@ def main():
         qs = load(os.path.join(wd, "questions.json"))["questions"]
         key = load(os.path.join(wd, "key.json"))["answers"]
         solve = load(os.path.join(wd, "solve.json"), {"answers": {}})["answers"]
+        sonnet = load(os.path.join(wd, "sonnet.json"), {"answers": {}}).get("answers", {})
         verify = {str(i["number"]): i for i in load(vpath, {"items": []}).get("items", [])}
         cross = {str(i["number"]): i for i in load(os.path.join(wd, "crosscheck.json"), {"items": []}).get("items", [])}
         for u in load(os.path.join(wd, "reconcile_summary.json"), {}).get("unresolved", []):
@@ -101,12 +102,25 @@ def main():
                 status, reason = "flagged", "no key entry"
             elif ILLEGIBLE.search(q.get("stem", "") + " ".join(q.get("options") or [])):
                 status, reason = "flagged", "text not fully legible in source"
-            elif (v and v["verdict"] == "disputed") or (cx and cx.get("key_agrees") is False):
-                if official:
-                    checks["disputed"] = True
-                    reason = "official key kept; Sonnet disagrees"
-                else:
-                    status, reason = "flagged", "solver disagrees with unofficial key"
+            else:
+                # Live only if an independent blind solver's answer is one of the key's accepted options.
+                # Computed from the solver files themselves, not from the verifier's verdict label.
+                haiku_c = s.get("choice")
+                sonnet_c = (sonnet.get(n) or {}).get("choice")
+                cx_c = (cx or {}).get("solve")
+                text_fixed = bool(v and v.get("verdict") == "transcription_fixed")
+                agree_sources = []
+                if haiku_c in accepted and not text_fixed:
+                    agree_sources.append("haiku")
+                if sonnet_c in accepted:
+                    agree_sources.append("sonnet")
+                if cx_c in accepted:
+                    agree_sources.append("proofread")
+                if cx and cx.get("key_agrees") is False:
+                    agree_sources = []
+                checks["solver_agrees"] = agree_sources
+                if not agree_sources:
+                    status, reason = "flagged", "blind solver and key disagree"
             opts = q.get("options") or []
             if status != "dropped" and (len(opts) != 4 or any(not str(o).strip() for o in opts) or any(a not in range(4) for a in accepted)):
                 status, reason = "flagged", "mechanical: options/answer"
@@ -136,6 +150,23 @@ def main():
                 review.append((qid, status, reason, src, k, v))
         out_by_file[(subj, job["id"])] = rows
 
+    # Final gate for the examon import: live only when a blind solver agreed with examon's own key.
+    # Questions whose key was wrong and got corrected (formula / external source) are hidden under the strict rule.
+    for ep in sorted(glob.glob(os.path.join(ROOT, "corpus/questions/*/bank-kcet.json"))):
+        recs = json.load(open(ep))
+        changed = False
+        for rec in recs:
+            solver = str(rec.get("checks", {}).get("solver") or "")
+            if rec.get("status") == "verified" and not solver.startswith("minimax"):
+                rec["status"] = "flagged"
+                rec["checks"]["status_reason"] = f"strict rule: solver and original key did not agree ({solver}); corrected answer kept for review"
+                review.append((rec["id"], "flagged", "examon key was wrong; corrected answer available", rec["source"], {}, {"note": rec["checks"].get("adjudication_reason", "")}))
+                changed = True
+        if changed:
+            with open(ep, "w") as fh:
+                json.dump(recs, fh, indent=1, ensure_ascii=False)
+                fh.write("\n")
+
     # LaTeX check across everything that would go live
     flat = [(f, i, r) for f, rs in out_by_file.items() for i, r in enumerate(rs) if r["status"] == "verified"]
     texts = [r["stem"] + "\n" + "\n".join(r["options"]) for _, _, r in flat]
@@ -155,11 +186,11 @@ def main():
 
     with open(os.path.join(ROOT, "corpus/review.md"), "w") as f:
         f.write("# Questions that need a human look\n\n")
-        f.write("Flagged = hidden from practice until fixed. Disputed = live (official KEA key), but the AI checker disagreed.\n")
+        f.write("Flagged = hidden from practice until fixed. A question is live only when a blind solver agreed with its answer key.\n")
         f.write("Fix by editing the question's JSON in corpus/questions/ (stem/options/answer/status) and redeploying.\n\n")
         f.write("| Question | Status | Why | Source | Key | Checker |\n|---|---|---|---|---|---|\n")
         for qid, status, reason, src, k, v in sorted(review, key=lambda r: r[0]):
-            label = "disputed (live)" if status == "verified" else status
+            label = status
             note = (v or {}).get("note", "").replace("|", "/")
             f.write(f"| {qid} | {label} | {reason} | {src['file']} p.{src['page']} | {k.get('raw', '')} | {note} |\n")
         f.write("\n## Transcriber notes (informational)\n\n")

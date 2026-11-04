@@ -32,7 +32,10 @@
    "blind_haiku": 3,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -68,7 +71,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -104,7 +110,10 @@
    "blind_haiku": 2,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -140,7 +149,10 @@
    "blind_haiku": 2,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -176,7 +188,10 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -213,7 +228,10 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -250,7 +268,11 @@
    "verify": "agreed",
    "notes": "",
    "proofread": "fixed",
-   "proofread_changes": "stem: \"fifth power is initial\" -> \"fifth power of its initial\""
+   "proofread_changes": "stem: \"fifth power is initial\" -> \"fifth power of its initial\"",
+   "solver_agrees": [
+    "haiku",
+    "proofread"
+   ]
   }
  },
  {
@@ -286,7 +308,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -322,7 +347,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -358,7 +386,10 @@
    "blind_haiku": 2,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -395,7 +426,11 @@
    "verify": "agreed",
    "notes": "",
    "proofread": "fixed",
-   "proofread_changes": "stem: added missing word \"volume\""
+   "proofread_changes": "stem: added missing word \"volume\"",
+   "solver_agrees": [
+    "haiku",
+    "proofread"
+   ]
   }
  },
  {
@@ -431,7 +466,10 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -467,7 +505,10 @@
    "blind_haiku": 2,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -503,7 +544,10 @@
    "blind_haiku": 3,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -540,7 +584,11 @@
    "verify": "agreed",
    "notes": "",
    "proofread": "fixed",
-   "proofread_changes": "stem: hexamine -> hexaamine"
+   "proofread_changes": "stem: hexamine -> hexaamine",
+   "solver_agrees": [
+    "haiku",
+    "proofread"
+   ]
   }
  },
  {
@@ -579,7 +627,10 @@
    "verify": "key_confirmed",
    "notes": "Tertiary (i) and secondary (ii) halides are faster in SN1; option 4 matches key.",
    "proofread": "fixed",
-   "proofread_changes": "figure: removed stray orbital-box artefact from image (not in original)"
+   "proofread_changes": "figure: removed stray orbital-box artefact from image (not in original)",
+   "solver_agrees": [
+    "sonnet"
+   ]
   }
  },
  {
@@ -615,7 +666,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -652,7 +706,11 @@
    "verify": "agreed",
    "notes": "",
    "proofread": "fixed",
-   "proofread_changes": "stem: \"reaction for it\" -> \"reason for it\""
+   "proofread_changes": "stem: \"reaction for it\" -> \"reason for it\"",
+   "solver_agrees": [
+    "haiku",
+    "proofread"
+   ]
   }
  },
  {
@@ -689,7 +747,11 @@
    "verify": "agreed",
    "notes": "",
    "proofread": "fixed",
-   "proofread_changes": "options 0 and 3: dichloride -> dichlorido"
+   "proofread_changes": "options 0 and 3: dichloride -> dichlorido",
+   "solver_agrees": [
+    "haiku",
+    "proofread"
+   ]
   }
  },
  {
@@ -725,7 +787,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -762,7 +827,11 @@
    "verify": "agreed",
    "notes": "",
    "proofread": "fixed",
-   "proofread_changes": "stem: removed duplicated \"at\""
+   "proofread_changes": "stem: removed duplicated \"at\"",
+   "solver_agrees": [
+    "haiku",
+    "proofread"
+   ]
   }
  },
  {
@@ -798,7 +867,10 @@
    "blind_haiku": 2,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -839,7 +911,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -875,7 +950,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -911,7 +989,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -947,7 +1028,10 @@
    "blind_haiku": 2,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -983,7 +1067,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1019,7 +1106,10 @@
    "blind_haiku": 3,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1055,7 +1145,10 @@
    "blind_haiku": 3,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1091,7 +1184,10 @@
    "blind_haiku": 3,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1127,7 +1223,10 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1163,7 +1262,10 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1199,7 +1301,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1272,7 +1377,11 @@
    "verify": "agreed",
    "notes": "",
    "proofread": "fixed",
-   "proofread_changes": "stem: \"purines bases\" -> \"purine bases\""
+   "proofread_changes": "stem: \"purines bases\" -> \"purine bases\"",
+   "solver_agrees": [
+    "haiku",
+    "proofread"
+   ]
   }
  },
  {
@@ -1308,7 +1417,10 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1344,7 +1456,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1380,7 +1495,10 @@
    "blind_haiku": 2,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1416,7 +1534,10 @@
    "blind_haiku": 2,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1452,7 +1573,10 @@
    "blind_haiku": 2,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1488,7 +1612,10 @@
    "blind_haiku": 3,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1524,7 +1651,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1561,7 +1691,10 @@
    "blind_haiku": 2,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1597,7 +1730,10 @@
    "blind_haiku": 2,
    "verify": "key_confirmed",
    "notes": "Low solubility in water (carbonic acid/bicarbonate buffer) matches key; blind solver had picked acidic nature.",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "sonnet"
+   ]
   }
  },
  {
@@ -1635,7 +1771,10 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1671,7 +1810,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1707,7 +1849,10 @@
    "blind_haiku": 3,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1743,7 +1888,10 @@
    "blind_haiku": 3,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1779,7 +1927,10 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1817,7 +1968,10 @@
    "blind_haiku": 3,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1853,7 +2007,10 @@
    "blind_haiku": 2,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1889,7 +2046,10 @@
    "blind_haiku": 2,
    "verify": "key_confirmed",
    "notes": "1 + 4x2 = 9 atoms; matches key.",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "sonnet"
+   ]
   }
  },
  {
@@ -1925,7 +2085,10 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1961,7 +2124,10 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1997,7 +2163,10 @@
    "blind_haiku": 2,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -2033,7 +2202,10 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -2069,7 +2241,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -2105,7 +2280,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -2141,7 +2319,10 @@
    "blind_haiku": 3,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -2177,7 +2358,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  }
 ]

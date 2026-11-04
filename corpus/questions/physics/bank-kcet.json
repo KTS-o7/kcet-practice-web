@@ -31958,7 +31958,7 @@
    0
   ],
   "images": [],
-  "status": "verified",
+  "status": "flagged",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -31994,7 +31994,8 @@
     "derivation": "S = 4.0*(100-25.0)/25.0 = 12",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
   }
  },
  {
@@ -32023,7 +32024,7 @@
    3
   ],
   "images": [],
-  "status": "verified",
+  "status": "flagged",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -32059,7 +32060,8 @@
     "derivation": "S = 6.0*(100-30.0)/30.0 = 14",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
   }
  },
  {
@@ -32088,7 +32090,7 @@
    2
   ],
   "images": [],
-  "status": "verified",
+  "status": "flagged",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -32124,7 +32126,8 @@
     "derivation": "S = 8.0*(100-35.0)/35.0 = 14.86",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
   }
  },
  {
@@ -32153,7 +32156,7 @@
    0
   ],
   "images": [],
-  "status": "verified",
+  "status": "flagged",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -32189,7 +32192,8 @@
     "derivation": "S = 10.0*(100-40.0)/40.0 = 15",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
   }
  },
  {
@@ -32218,7 +32222,7 @@
    3
   ],
   "images": [],
-  "status": "verified",
+  "status": "flagged",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -32254,7 +32258,8 @@
     "derivation": "S = 4.0*(100-45.0)/45.0 = 4.889",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
   }
  },
  {
@@ -32283,7 +32288,7 @@
    3
   ],
   "images": [],
-  "status": "verified",
+  "status": "flagged",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -32312,7 +32317,8 @@
     "derivation": "S = 6.0*(100-50.0)/50.0 = 6",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
   }
  },
  {
@@ -32341,7 +32347,7 @@
    0
   ],
   "images": [],
-  "status": "verified",
+  "status": "flagged",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -32377,7 +32383,8 @@
     "derivation": "S = 8.0*(100-55.0)/55.0 = 6.545",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
   }
  },
  {
@@ -32406,7 +32413,7 @@
    1
   ],
   "images": [],
-  "status": "verified",
+  "status": "flagged",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -32442,7 +32449,8 @@
     "derivation": "S = 10.0*(100-60.0)/60.0 = 6.667",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
   }
  },
  {
@@ -32471,7 +32479,7 @@
    1
   ],
   "images": [],
-  "status": "verified",
+  "status": "flagged",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -32507,7 +32515,8 @@
     "derivation": "S = 4.0*(100-65.0)/65.0 = 2.154",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
   }
  },
  {
@@ -32536,7 +32545,7 @@
    2
   ],
   "images": [],
-  "status": "verified",
+  "status": "flagged",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -32572,7 +32581,8 @@
     "derivation": "S = 6.0*(100-70.0)/70.0 = 2.571",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
   }
  },
  {
@@ -37303,7 +37313,7 @@
    2
   ],
   "images": [],
-  "status": "verified",
+  "status": "flagged",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -37339,7 +37349,8 @@
     "derivation": "S = 6.0*(100-27.0)/27.0 = 16.22",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
   }
  },
  {
@@ -37368,7 +37379,7 @@
    1
   ],
   "images": [],
-  "status": "verified",
+  "status": "flagged",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -37404,7 +37415,8 @@
     "derivation": "S = 8.0*(100-32.0)/32.0 = 17",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
   }
  },
  {
@@ -37433,7 +37445,7 @@
    1
   ],
   "images": [],
-  "status": "verified",
+  "status": "flagged",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -37469,7 +37481,8 @@
     "derivation": "S = 10.0*(100-37.0)/37.0 = 17.03",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
   }
  },
  {
@@ -37498,7 +37511,7 @@
    3
   ],
   "images": [],
-  "status": "verified",
+  "status": "flagged",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -37534,7 +37547,8 @@
     "derivation": "S = 4.0*(100-42.0)/42.0 = 5.524",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
   }
  },
  {
@@ -37563,7 +37577,7 @@
    1
   ],
   "images": [],
-  "status": "verified",
+  "status": "flagged",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -37599,7 +37613,8 @@
     "derivation": "S = 6.0*(100-47.0)/47.0 = 6.766",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
   }
  },
  {
@@ -37628,7 +37643,7 @@
    0
   ],
   "images": [],
-  "status": "verified",
+  "status": "flagged",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -37664,7 +37679,8 @@
     "derivation": "S = 8.0*(100-52.0)/52.0 = 7.385",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
   }
  },
  {
@@ -37693,7 +37709,7 @@
    2
   ],
   "images": [],
-  "status": "verified",
+  "status": "flagged",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -37729,7 +37745,8 @@
     "derivation": "S = 10.0*(100-57.0)/57.0 = 7.544",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
   }
  },
  {
@@ -37758,7 +37775,7 @@
    3
   ],
   "images": [],
-  "status": "verified",
+  "status": "flagged",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -37794,7 +37811,8 @@
     "derivation": "S = 4.0*(100-62.0)/62.0 = 2.452",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
   }
  },
  {
@@ -37823,7 +37841,7 @@
    1
   ],
   "images": [],
-  "status": "verified",
+  "status": "flagged",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -37859,7 +37877,8 @@
     "derivation": "S = 6.0*(100-67.0)/67.0 = 2.955",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
   }
  },
  {
@@ -37888,7 +37907,7 @@
    3
   ],
   "images": [],
-  "status": "verified",
+  "status": "flagged",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -37924,7 +37943,8 @@
     "derivation": "S = 8.0*(100-72.0)/72.0 = 3.111",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
   }
  },
  {
@@ -43620,7 +43640,7 @@
    3
   ],
   "images": [],
-  "status": "verified",
+  "status": "flagged",
   "in_syllabus": true,
   "topic": "Dipole field-potential relation on axial line",
   "difficulty": "hard",
@@ -43656,7 +43676,8 @@
     "derivation": "E/V = 2/r = 2/0.2 = 10",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
   }
  },
  {
@@ -43925,7 +43946,7 @@
    2
   ],
   "images": [],
-  "status": "verified",
+  "status": "flagged",
   "in_syllabus": true,
   "topic": "Dipole field-potential relation on axial line",
   "difficulty": "hard",
@@ -43961,7 +43982,8 @@
     "derivation": "E/V = 2/r = 2/0.2 = 10",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
   }
  },
  {
@@ -44230,7 +44252,7 @@
    3
   ],
   "images": [],
-  "status": "verified",
+  "status": "flagged",
   "in_syllabus": true,
   "topic": "Dipole field-potential relation on axial line",
   "difficulty": "hard",
@@ -44266,7 +44288,8 @@
     "derivation": "E/V = 2/r = 2/0.2 = 10",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
   }
  },
  {
@@ -48983,7 +49006,7 @@
    3
   ],
   "images": [],
-  "status": "verified",
+  "status": "flagged",
   "in_syllabus": true,
   "topic": "Dipole field-potential relation on axial line",
   "difficulty": "hard",
@@ -49019,7 +49042,8 @@
     "derivation": "E/V = 2/r = 2/0.2 = 10",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
   }
  },
  {
@@ -49288,7 +49312,7 @@
    2
   ],
   "images": [],
-  "status": "verified",
+  "status": "flagged",
   "in_syllabus": true,
   "topic": "Dipole field-potential relation on axial line",
   "difficulty": "hard",
@@ -49317,7 +49341,8 @@
     "derivation": "E/V = 2/r = 2/0.2 = 10",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
   }
  },
  {
@@ -49499,7 +49524,7 @@
    3
   ],
   "images": [],
-  "status": "verified",
+  "status": "flagged",
   "in_syllabus": true,
   "topic": "Dipole field-potential relation on axial line",
   "difficulty": "hard",
@@ -49529,7 +49554,8 @@
     "derivation": "E/V = 2/r = 2/0.2 = 10",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
   }
  },
  {
@@ -49558,7 +49584,7 @@
    0
   ],
   "images": [],
-  "status": "verified",
+  "status": "flagged",
   "in_syllabus": true,
   "topic": "Dipole field-potential relation on axial line",
   "difficulty": "hard",
@@ -49588,7 +49614,8 @@
     "derivation": "E/V = 2/r = 2/0.25 = 8",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
   }
  },
  {

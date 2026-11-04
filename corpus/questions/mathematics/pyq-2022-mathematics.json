@@ -33,7 +33,11 @@
    "verify": "agreed",
    "notes": "",
    "proofread": "fixed",
-   "proofread_changes": "stem: added missing 'lies is'; option A 'Eight' -> 'Eighth'"
+   "proofread_changes": "stem: added missing 'lies is'; option A 'Eight' -> 'Eighth'",
+   "solver_agrees": [
+    "haiku",
+    "proofread"
+   ]
   }
  },
  {
@@ -69,7 +73,10 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -106,7 +113,11 @@
    "verify": "agreed",
    "notes": "",
    "proofread": "fixed",
-   "proofread_changes": "stem: added missing 'are'"
+   "proofread_changes": "stem: added missing 'are'",
+   "solver_agrees": [
+    "haiku",
+    "proofread"
+   ]
   }
  },
  {
@@ -178,7 +189,10 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -215,7 +229,11 @@
    "verify": "agreed",
    "notes": "",
    "proofread": "fixed",
-   "proofread_changes": "stem: 'point' -> 'points'"
+   "proofread_changes": "stem: 'point' -> 'points'",
+   "solver_agrees": [
+    "haiku",
+    "proofread"
+   ]
   }
  },
  {
@@ -251,7 +269,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -287,7 +308,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -323,7 +347,10 @@
    "blind_haiku": 3,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -360,7 +387,11 @@
    "verify": "agreed",
    "notes": "",
    "proofread": "fixed",
-   "proofread_changes": "stem: added missing 'and'"
+   "proofread_changes": "stem: added missing 'and'",
+   "solver_agrees": [
+    "haiku",
+    "proofread"
+   ]
   }
  },
  {
@@ -396,7 +427,10 @@
    "blind_haiku": 2,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -433,7 +467,11 @@
    "verify": "agreed",
    "notes": "",
    "proofread": "fixed",
-   "proofread_changes": "stem: '1'->'I', 'identify'->'identity'"
+   "proofread_changes": "stem: '1'->'I', 'identify'->'identity'",
+   "solver_agrees": [
+    "haiku",
+    "proofread"
+   ]
   }
  },
  {
@@ -469,7 +507,10 @@
    "blind_haiku": 2,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -506,7 +547,11 @@
    "verify": "agreed",
    "notes": "",
    "proofread": "fixed",
-   "proofread_changes": "stem: 'value' -> 'values'"
+   "proofread_changes": "stem: 'value' -> 'values'",
+   "solver_agrees": [
+    "haiku",
+    "proofread"
+   ]
   }
  },
  {
@@ -542,7 +587,10 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -578,7 +626,10 @@
    "blind_haiku": 3,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -614,7 +665,10 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -650,7 +704,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -686,7 +743,10 @@
    "blind_haiku": 3,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -722,7 +782,10 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -758,7 +821,10 @@
    "blind_haiku": 2,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -794,7 +860,10 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -830,7 +899,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -866,7 +938,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -902,7 +977,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -938,7 +1016,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -974,7 +1055,10 @@
    "blind_haiku": 2,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1010,7 +1094,10 @@
    "blind_haiku": 3,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1046,7 +1133,10 @@
    "blind_haiku": 2,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1082,7 +1172,10 @@
    "blind_haiku": 2,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1118,7 +1211,10 @@
    "blind_haiku": 3,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1154,7 +1250,10 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1190,7 +1289,10 @@
    "blind_haiku": 3,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1226,7 +1328,10 @@
    "blind_haiku": 3,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1262,7 +1367,10 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1298,7 +1406,10 @@
    "blind_haiku": 3,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1334,7 +1445,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1373,7 +1487,10 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1480,7 +1597,11 @@
    "verify": "agreed",
    "notes": "",
    "proofread": "fixed",
-   "proofread_changes": "stem: 'Then sum' -> 'The sum'"
+   "proofread_changes": "stem: 'Then sum' -> 'The sum'",
+   "solver_agrees": [
+    "haiku",
+    "proofread"
+   ]
   }
  },
  {
@@ -1516,7 +1637,10 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1552,7 +1676,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1624,7 +1751,11 @@
    "verify": "agreed",
    "notes": "",
    "proofread": "fixed",
-   "proofread_changes": "stem: 'most' -> 'atmost'"
+   "proofread_changes": "stem: 'most' -> 'atmost'",
+   "solver_agrees": [
+    "haiku",
+    "proofread"
+   ]
   }
  },
  {
@@ -1661,7 +1792,11 @@
    "verify": "agreed",
    "notes": "",
    "proofread": "fixed",
-   "proofread_changes": "stem: added 'whose'"
+   "proofread_changes": "stem: added 'whose'",
+   "solver_agrees": [
+    "haiku",
+    "proofread"
+   ]
   }
  },
  {
@@ -1697,7 +1832,10 @@
    "blind_haiku": 2,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1768,7 +1906,10 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1804,7 +1945,10 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1840,7 +1984,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1876,7 +2023,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1912,7 +2062,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1948,7 +2101,10 @@
    "blind_haiku": 2,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1984,7 +2140,10 @@
    "blind_haiku": 3,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -2020,7 +2179,10 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -2049,7 +2211,7 @@
    0
   ],
   "images": [],
-  "status": "verified",
+  "status": "flagged",
   "in_syllabus": true,
   "checks": {
    "key_official": true,
@@ -2057,8 +2219,8 @@
    "verify": "disputed",
    "notes": "Key cell (row 57, D3) re-read as 1 = option 31 (official KEA, likely excluding empty set). Question transcription verified. Odd numbers {1,3,5,7,9} give 2^5=32 subsets incl. the empty set (vacuously only odd); the D3 paper's own solution also says 32, so key looks wrong/arguable.",
    "proofread": "matched_ok",
-   "disputed": true,
-   "status_reason": "official key kept; Sonnet disagrees"
+   "solver_agrees": [],
+   "status_reason": "blind solver and key disagree"
   }
  },
  {
@@ -2094,7 +2256,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -2131,7 +2296,11 @@
    "verify": "agreed",
    "notes": "",
    "proofread": "fixed",
-   "proofread_changes": "option B '[-2,1)' (duplicate of C) -> '[-2,0)'"
+   "proofread_changes": "option B '[-2,1)' (duplicate of C) -> '[-2,0)'",
+   "solver_agrees": [
+    "haiku",
+    "proofread"
+   ]
   }
  },
  {
@@ -2168,7 +2337,11 @@
    "verify": "agreed",
    "notes": "",
    "proofread": "fixed",
-   "proofread_changes": "options A,B: 'form' -> 'from'"
+   "proofread_changes": "options A,B: 'form' -> 'from'",
+   "solver_agrees": [
+    "haiku",
+    "proofread"
+   ]
   }
  }
 ]

@@ -33,7 +33,10 @@
    "key_official": false,
    "blind_haiku": 0,
    "verify": "key_confirmed",
-   "notes": "Blind disagreement was solver noise; transcription correct, key (c) matches my answer."
+   "notes": "Blind disagreement was solver noise; transcription correct, key (c) matches my answer.",
+   "solver_agrees": [
+    "sonnet"
+   ]
   }
  },
  {
@@ -69,7 +72,8 @@
    "blind_haiku": 2,
    "verify": "disputed",
    "notes": "Transcription and key reading (a) verified. 1e4 A = 1 micron is comparable to visible wavelengths so diffraction gives coloured fringes (c); NCERT key (a) looks wrong.",
-   "status_reason": "solver disagrees with unofficial key"
+   "solver_agrees": [],
+   "status_reason": "blind solver and key disagree"
   }
  },
  {
@@ -104,7 +108,10 @@
    "key_official": false,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -139,7 +146,10 @@
    "key_official": false,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -177,7 +187,8 @@
    "blind_haiku": 1,
    "verify": "disputed",
    "notes": "Transcription and key reading (d) verified. P2 is a minimum so no light reaches the hole and the second screen is dark (b); NCERT key (d) looks wrong.",
-   "status_reason": "solver disagrees with unofficial key"
+   "solver_agrees": [],
+   "status_reason": "blind solver and key disagree"
   }
  }
 ]

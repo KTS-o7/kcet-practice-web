@@ -33,7 +33,10 @@
    "key_official": false,
    "blind_haiku": 1,
    "verify": "key_confirmed",
-   "notes": "Transcription matches page; q1 is negative, Q attracts it toward +x so force increases along +x."
+   "notes": "Transcription matches page; q1 is negative, Q attracts it toward +x so force increases along +x.",
+   "solver_agrees": [
+    "sonnet"
+   ]
   }
  },
  {
@@ -70,7 +73,10 @@
    "key_official": false,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -107,7 +113,10 @@
    "key_official": false,
    "blind_haiku": 3,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -144,7 +153,10 @@
    "key_official": false,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -181,7 +193,10 @@
    "key_official": false,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -216,7 +231,10 @@
    "key_official": false,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -252,7 +270,8 @@
    "blind_haiku": 3,
    "verify": "disputed",
    "notes": "Key image reads 1.7 (a) (official NCERT answer), transcription correct. But all charge lies on one side of the flat-face plane, so at an outside point on a diameter the field has radial and out-of-plane components; not perpendicular, tilted away from the diameter (d). Official key is likely idealised/wrong.",
-   "status_reason": "solver disagrees with unofficial key"
+   "solver_agrees": [],
+   "status_reason": "blind solver and key disagree"
   }
  }
 ]

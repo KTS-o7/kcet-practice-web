@@ -33,7 +33,10 @@
    "key_official": false,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -68,7 +71,10 @@
    "key_official": false,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -105,7 +111,10 @@
    "key_official": false,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -142,7 +151,10 @@
    "key_official": false,
    "blind_haiku": 2,
    "verify": "key_confirmed",
-   "notes": "Cycle A->B->C->D->A is anticlockwise on P-V, area 2V0*P0, so W=-2P0V0; transcription matches page."
+   "notes": "Cycle A->B->C->D->A is anticlockwise on P-V, area 2V0*P0, so W=-2P0V0; transcription matches page.",
+   "solver_agrees": [
+    "sonnet"
+   ]
   }
  },
  {
@@ -177,7 +189,10 @@
    "key_official": false,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -212,7 +227,10 @@
    "key_official": false,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  }
 ]

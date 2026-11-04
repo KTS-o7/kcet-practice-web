@@ -31,7 +31,10 @@
    "key_official": false,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -60,13 +63,15 @@
    0
   ],
   "images": [],
-  "status": "verified",
+  "status": "flagged",
   "in_syllabus": true,
   "checks": {
    "key_official": false,
    "blind_haiku": 2,
    "verify": "key_confirmed",
-   "notes": "Transcription matches page 1-2; key page reads 5.2 (a). My pick (b) is also physically true, but the question is single-answer and the NCERT key says (a); not clearly wrong, keep key."
+   "notes": "Transcription matches page 1-2; key page reads 5.2 (a). My pick (b) is also physically true, but the question is single-answer and the NCERT key says (a); not clearly wrong, keep key.",
+   "solver_agrees": [],
+   "status_reason": "blind solver and key disagree"
   }
  },
  {
@@ -102,6 +107,9 @@
    "blind_haiku": 3,
    "verify": "key_confirmed",
    "notes": "Initial solve.json disagreed; transcription correct, my solve is (c) matching key 5.3 (c).",
+   "solver_agrees": [
+    "sonnet"
+   ],
    "status_reason": "duplicate of pyq-2020-physics-030"
   }
  },
@@ -137,7 +145,10 @@
    "key_official": false,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -172,7 +183,10 @@
    "key_official": false,
    "blind_haiku": 1,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  }
 ]

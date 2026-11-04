@@ -32,7 +32,10 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -69,7 +72,11 @@
    "verify": "agreed",
    "notes": "",
    "proofread": "fixed",
-   "proofread_changes": "\"of support\" -> \"to support\""
+   "proofread_changes": "\"of support\" -> \"to support\"",
+   "solver_agrees": [
+    "haiku",
+    "proofread"
+   ]
   }
  },
  {
@@ -106,7 +113,11 @@
    "verify": "agreed",
    "notes": "",
    "proofread": "fixed",
-   "proofread_changes": "\"drops is\" -> \"drop is\""
+   "proofread_changes": "\"drops is\" -> \"drop is\"",
+   "solver_agrees": [
+    "haiku",
+    "proofread"
+   ]
   }
  },
  {
@@ -142,7 +153,10 @@
    "blind_haiku": 2,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -178,7 +192,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -215,7 +232,11 @@
    "verify": "agreed",
    "notes": "",
    "proofread": "fixed",
-   "proofread_changes": "\"moto\" -> \"motor\""
+   "proofread_changes": "\"moto\" -> \"motor\"",
+   "solver_agrees": [
+    "haiku",
+    "proofread"
+   ]
   }
  },
  {
@@ -252,7 +273,11 @@
    "verify": "agreed",
    "notes": "",
    "proofread": "fixed",
-   "proofread_changes": "charge +a -> +q"
+   "proofread_changes": "charge +a -> +q",
+   "solver_agrees": [
+    "haiku",
+    "proofread"
+   ]
   }
  },
  {
@@ -288,7 +313,10 @@
    "blind_haiku": 2,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -324,7 +352,10 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -360,7 +391,10 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -396,7 +430,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -433,7 +470,11 @@
    "verify": "agreed",
    "notes": "",
    "proofread": "fixed",
-   "proofread_changes": "option D \"fields does\" -> \"field does\""
+   "proofread_changes": "option D \"fields does\" -> \"field does\"",
+   "solver_agrees": [
+    "haiku",
+    "proofread"
+   ]
   }
  },
  {
@@ -470,7 +511,11 @@
    "verify": "agreed",
    "notes": "",
    "proofread": "fixed",
-   "proofread_changes": "mobility 2.5e-6 -> 2.5e6 (original has positive exponent)"
+   "proofread_changes": "mobility 2.5e-6 -> 2.5e6 (original has positive exponent)",
+   "solver_agrees": [
+    "haiku",
+    "proofread"
+   ]
   }
  },
  {
@@ -507,7 +552,11 @@
    "verify": "agreed",
    "notes": "",
    "proofread": "fixed",
-   "proofread_changes": "option \"GA\" -> \"Ga\""
+   "proofread_changes": "option \"GA\" -> \"Ga\"",
+   "solver_agrees": [
+    "haiku",
+    "proofread"
+   ]
   }
  },
  {
@@ -579,7 +628,11 @@
    "verify": "agreed",
    "notes": "",
    "proofread": "fixed",
-   "proofread_changes": "\"electron revolve\" -> \"electrons revolve\""
+   "proofread_changes": "\"electron revolve\" -> \"electrons revolve\"",
+   "solver_agrees": [
+    "haiku",
+    "proofread"
+   ]
   }
  },
  {
@@ -615,7 +668,10 @@
    "blind_haiku": 2,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -651,7 +707,10 @@
    "blind_haiku": 3,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -688,7 +747,11 @@
    "verify": "agreed",
    "notes": "",
    "proofread": "fixed",
-   "proofread_changes": "\"form the battery\" -> \"from\""
+   "proofread_changes": "\"form the battery\" -> \"from\"",
+   "solver_agrees": [
+    "haiku",
+    "proofread"
+   ]
   }
  },
  {
@@ -724,7 +787,10 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -760,7 +826,10 @@
    "blind_haiku": 2,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -796,7 +865,10 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -832,7 +904,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -868,7 +943,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -905,7 +983,11 @@
    "verify": "agreed",
    "notes": "",
    "proofread": "fixed",
-   "proofread_changes": "\"wore\" -> \"wire\""
+   "proofread_changes": "\"wore\" -> \"wire\"",
+   "solver_agrees": [
+    "haiku",
+    "proofread"
+   ]
   }
  },
  {
@@ -941,7 +1023,10 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -977,7 +1062,10 @@
    "blind_haiku": 2,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1013,7 +1101,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1049,7 +1140,10 @@
    "blind_haiku": 2,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1085,7 +1179,10 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1121,7 +1218,10 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1158,7 +1258,11 @@
    "verify": "agreed",
    "notes": "",
    "proofread": "fixed",
-   "proofread_changes": "power -4.5 -> -4.5 D"
+   "proofread_changes": "power -4.5 -> -4.5 D",
+   "solver_agrees": [
+    "haiku",
+    "proofread"
+   ]
   }
  },
  {
@@ -1194,7 +1298,10 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1230,7 +1337,10 @@
    "blind_haiku": 2,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1266,7 +1376,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1302,7 +1415,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1339,7 +1455,11 @@
    "verify": "agreed",
    "notes": "",
    "proofread": "fixed",
-   "proofread_changes": "\"form\" -> \"from\""
+   "proofread_changes": "\"form\" -> \"from\"",
+   "solver_agrees": [
+    "haiku",
+    "proofread"
+   ]
   }
  },
  {
@@ -1375,7 +1495,10 @@
    "blind_haiku": 3,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1412,7 +1535,11 @@
    "verify": "agreed",
    "notes": "",
    "proofread": "fixed",
-   "proofread_changes": "\"Fraunhoffer\" -> \"Fraunhofer\""
+   "proofread_changes": "\"Fraunhoffer\" -> \"Fraunhofer\"",
+   "solver_agrees": [
+    "haiku",
+    "proofread"
+   ]
   }
  },
  {
@@ -1448,7 +1575,10 @@
    "blind_haiku": 3,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1484,7 +1614,10 @@
    "blind_haiku": 2,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1520,7 +1653,10 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1556,7 +1692,10 @@
    "blind_haiku": 3,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1593,7 +1732,11 @@
    "verify": "agreed",
    "notes": "",
    "proofread": "fixed",
-   "proofread_changes": "\"principle\" -> \"principal\""
+   "proofread_changes": "\"principle\" -> \"principal\"",
+   "solver_agrees": [
+    "haiku",
+    "proofread"
+   ]
   }
  },
  {
@@ -1629,7 +1772,10 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1665,7 +1811,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1701,7 +1850,10 @@
    "blind_haiku": 2,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1737,7 +1889,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1773,7 +1928,10 @@
    "blind_haiku": 3,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1809,7 +1967,10 @@
    "blind_haiku": 3,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1845,7 +2006,10 @@
    "blind_haiku": 3,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1883,7 +2047,10 @@
    "blind_haiku": 0,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1920,7 +2087,11 @@
    "verify": "agreed",
    "notes": "",
    "proofread": "fixed",
-   "proofread_changes": "\"mass unit length\" -> \"mass per unit length\"; current symbol T -> I"
+   "proofread_changes": "\"mass unit length\" -> \"mass per unit length\"; current symbol T -> I",
+   "solver_agrees": [
+    "haiku",
+    "proofread"
+   ]
   }
  },
  {
@@ -1956,7 +2127,10 @@
    "blind_haiku": 2,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -1992,7 +2166,10 @@
    "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -2029,7 +2206,11 @@
    "verify": "agreed",
    "notes": "",
    "proofread": "fixed",
-   "proofread_changes": "angle 0 deg -> theta deg"
+   "proofread_changes": "angle 0 deg -> theta deg",
+   "solver_agrees": [
+    "haiku",
+    "proofread"
+   ]
   }
  },
  {
@@ -2065,7 +2246,10 @@
    "blind_haiku": 3,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -2103,7 +2287,10 @@
    "blind_haiku": 2,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -2140,7 +2327,11 @@
    "verify": "agreed",
    "notes": "",
    "proofread": "fixed",
-   "proofread_changes": "\"lease\" -> \"least\""
+   "proofread_changes": "\"lease\" -> \"least\"",
+   "solver_agrees": [
+    "haiku",
+    "proofread"
+   ]
   }
  },
  {
@@ -2176,7 +2367,10 @@
    "blind_haiku": 3,
    "verify": "agreed",
    "notes": "",
-   "proofread": "matched_ok"
+   "proofread": "matched_ok",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  }
 ]

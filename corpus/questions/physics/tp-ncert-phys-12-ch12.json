@@ -31,7 +31,10 @@
    "key_official": false,
    "blind_haiku": 2,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -66,7 +69,10 @@
    "key_official": false,
    "blind_haiku": 3,
    "verify": "key_confirmed",
-   "notes": "Transcription verified; electron frame is non-inertial."
+   "notes": "Transcription verified; electron frame is non-inertial.",
+   "solver_agrees": [
+    "sonnet"
+   ]
   }
  },
  {
@@ -101,7 +107,10 @@
    "key_official": false,
    "blind_haiku": 2,
    "verify": "key_confirmed",
-   "notes": "Key (a) read correctly from k0-68 text/image; non-central force from e-e repulsion."
+   "notes": "Key (a) read correctly from k0-68 text/image; non-central force from e-e repulsion.",
+   "solver_agrees": [
+    "sonnet"
+   ]
   }
  },
  {
@@ -136,7 +145,10 @@
    "key_official": false,
    "blind_haiku": 1,
    "verify": "key_confirmed",
-   "notes": "Key (a); true ground state has L=0, Bohr value hbar is wrong. Transcription verified."
+   "notes": "Key (a); true ground state has L=0, Bohr value hbar is wrong. Transcription verified.",
+   "solver_agrees": [
+    "sonnet"
+   ]
   }
  },
  {
@@ -171,7 +183,10 @@
    "key_official": false,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  },
  {
@@ -206,7 +221,10 @@
    "key_official": false,
    "blind_haiku": 1,
    "verify": "key_confirmed",
-   "notes": "Transcription verified; max KE loss 10.2 eV."
+   "notes": "Transcription verified; max KE loss 10.2 eV.",
+   "solver_agrees": [
+    "sonnet"
+   ]
   }
  },
  {
@@ -241,7 +259,10 @@
    "key_official": false,
    "blind_haiku": 0,
    "verify": "agreed",
-   "notes": ""
+   "notes": "",
+   "solver_agrees": [
+    "haiku"
+   ]
   }
  }
 ]
