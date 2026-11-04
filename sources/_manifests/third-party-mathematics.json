@@ -1,0 +1,689 @@
+[
+  {
+    "path": "third-party/mathematics/ncert-exemplar-11/keep201.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/mathematics/keep201.pdf",
+    "fetched_at": "2026-11-04T17:15:49Z",
+    "sha256": "e4fcbe0d7b0ebc38cdeda178c78a639be6a631ed65db63409988130f5f854f26",
+    "bytes": 2084901,
+    "pages": 18,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems, Mathematics Class XI (official NCERT, 2025-26 edition)",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Sets"
+    ],
+    "approx_questions": 18,
+    "has_answer_key": false,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Chapter file: Exemplar XI ch. Sets. Contains exercise MCQ/FIB/TF/SA/LA questions; worked solutions only for the in-text Examples. Exercise answers are NOT in this file: see companion answer key ncert-exemplar-11/keep217.pdf. approx_questions counts '(d)' option markers (MCQ proxy, includes example items)."
+  },
+  {
+    "path": "third-party/mathematics/ncert-exemplar-11/keep202.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/mathematics/keep202.pdf",
+    "fetched_at": "2026-11-04T17:15:49Z",
+    "sha256": "982c2353b6631b1acd5c39e91a9cfdaff1ac70d89aad02c17e3eb85624f613de",
+    "bytes": 1786194,
+    "pages": 15,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems, Mathematics Class XI (official NCERT, 2025-26 edition)",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Relations and Functions"
+    ],
+    "approx_questions": 15,
+    "has_answer_key": false,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Chapter file: Exemplar XI ch. Relations and Functions. Contains exercise MCQ/FIB/TF/SA/LA questions; worked solutions only for the in-text Examples. Exercise answers are NOT in this file: see companion answer key ncert-exemplar-11/keep217.pdf. approx_questions counts '(d)' option markers (MCQ proxy, includes example items)."
+  },
+  {
+    "path": "third-party/mathematics/ncert-exemplar-11/keep203.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/mathematics/keep203.pdf",
+    "fetched_at": "2026-11-04T17:15:49Z",
+    "sha256": "6f5bd8e29f511aa3da3e964fcd5f05c27d1b04346a520d3c18dd31ce79c0e628",
+    "bytes": 3028385,
+    "pages": 27,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems, Mathematics Class XI (official NCERT, 2025-26 edition)",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Trigonometric Functions"
+    ],
+    "approx_questions": 37,
+    "has_answer_key": false,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Chapter file: Exemplar XI ch. Trigonometric Functions. Contains exercise MCQ/FIB/TF/SA/LA questions; worked solutions only for the in-text Examples. Exercise answers are NOT in this file: see companion answer key ncert-exemplar-11/keep217.pdf. approx_questions counts '(d)' option markers (MCQ proxy, includes example items)."
+  },
+  {
+    "path": "third-party/mathematics/ncert-exemplar-11/keep204.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/mathematics/keep204.pdf",
+    "fetched_at": "2026-11-04T17:15:49Z",
+    "sha256": "b46ca76b0dd826e143080999dd5b10758e110347ee6a644253c148467f468153",
+    "bytes": 1465299,
+    "pages": 12,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems, Mathematics Class XI (official NCERT, 2025-26 edition)",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Principle of Mathematical Induction"
+    ],
+    "approx_questions": 5,
+    "has_answer_key": false,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Chapter file: Exemplar XI ch. Principle of Mathematical Induction. Contains exercise MCQ/FIB/TF/SA/LA questions; worked solutions only for the in-text Examples. Exercise answers are NOT in this file: see companion answer key ncert-exemplar-11/keep217.pdf. approx_questions counts '(d)' option markers (MCQ proxy, includes example items)."
+  },
+  {
+    "path": "third-party/mathematics/ncert-exemplar-11/keep205.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/mathematics/keep205.pdf",
+    "fetched_at": "2026-11-04T17:15:49Z",
+    "sha256": "e3cd009f0a51cd2a1ccb5503a0a27ab1399743db584ce395e131ce0940ca3a9f",
+    "bytes": 2839250,
+    "pages": 25,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems, Mathematics Class XI (official NCERT, 2025-26 edition)",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Complex Numbers and Quadratic Equations"
+    ],
+    "approx_questions": 25,
+    "has_answer_key": false,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Chapter file: Exemplar XI ch. Complex Numbers and Quadratic Equations. Contains exercise MCQ/FIB/TF/SA/LA questions; worked solutions only for the in-text Examples. Exercise answers are NOT in this file: see companion answer key ncert-exemplar-11/keep217.pdf. approx_questions counts '(d)' option markers (MCQ proxy, includes example items)."
+  },
+  {
+    "path": "third-party/mathematics/ncert-exemplar-11/keep206.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/mathematics/keep206.pdf",
+    "fetched_at": "2026-11-04T17:15:49Z",
+    "sha256": "8906b7666ea558f47b1b76ffd266050358510a1fd1a0d899b3b8730990dcdfee",
+    "bytes": 1906749,
+    "pages": 16,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems, Mathematics Class XI (official NCERT, 2025-26 edition)",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Linear Inequalities"
+    ],
+    "approx_questions": 18,
+    "has_answer_key": false,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Chapter file: Exemplar XI ch. Linear Inequalities. Contains exercise MCQ/FIB/TF/SA/LA questions; worked solutions only for the in-text Examples. Exercise answers are NOT in this file: see companion answer key ncert-exemplar-11/keep217.pdf. approx_questions counts '(d)' option markers (MCQ proxy, includes example items)."
+  },
+  {
+    "path": "third-party/mathematics/ncert-exemplar-11/keep207.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/mathematics/keep207.pdf",
+    "fetched_at": "2026-11-04T17:15:49Z",
+    "sha256": "3792108024c660145560600f9153349a6e87ed3032df5f93efa7a097094a6c52",
+    "bytes": 1747349,
+    "pages": 15,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems, Mathematics Class XI (official NCERT, 2025-26 edition)",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Permutations and Combinations"
+    ],
+    "approx_questions": 23,
+    "has_answer_key": false,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Chapter file: Exemplar XI ch. Permutations and Combinations. Contains exercise MCQ/FIB/TF/SA/LA questions; worked solutions only for the in-text Examples. Exercise answers are NOT in this file: see companion answer key ncert-exemplar-11/keep217.pdf. approx_questions counts '(d)' option markers (MCQ proxy, includes example items)."
+  },
+  {
+    "path": "third-party/mathematics/ncert-exemplar-11/keep208.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/mathematics/keep208.pdf",
+    "fetched_at": "2026-11-04T17:15:49Z",
+    "sha256": "c99f5a4644ee9a758f51f8926df4455f8d89dee91485a3501ce90464f3d69587",
+    "bytes": 2101088,
+    "pages": 18,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems, Mathematics Class XI (official NCERT, 2025-26 edition)",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Binomial Theorem"
+    ],
+    "approx_questions": 12,
+    "has_answer_key": false,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Chapter file: Exemplar XI ch. Binomial Theorem. Contains exercise MCQ/FIB/TF/SA/LA questions; worked solutions only for the in-text Examples. Exercise answers are NOT in this file: see companion answer key ncert-exemplar-11/keep217.pdf. approx_questions counts '(d)' option markers (MCQ proxy, includes example items)."
+  },
+  {
+    "path": "third-party/mathematics/ncert-exemplar-11/keep209.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/mathematics/keep209.pdf",
+    "fetched_at": "2026-11-04T17:15:49Z",
+    "sha256": "fae1d2931dc9571f538ff0720af1e208e3181f1a2e5baddf45447ff4097b4dd8",
+    "bytes": 2082158,
+    "pages": 18,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems, Mathematics Class XI (official NCERT, 2025-26 edition)",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Sequences and Series"
+    ],
+    "approx_questions": 20,
+    "has_answer_key": false,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Chapter file: Exemplar XI ch. Sequences and Series. Contains exercise MCQ/FIB/TF/SA/LA questions; worked solutions only for the in-text Examples. Exercise answers are NOT in this file: see companion answer key ncert-exemplar-11/keep217.pdf. approx_questions counts '(d)' option markers (MCQ proxy, includes example items)."
+  },
+  {
+    "path": "third-party/mathematics/ncert-exemplar-11/keep210.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/mathematics/keep210.pdf",
+    "fetched_at": "2026-11-04T17:15:49Z",
+    "sha256": "3399ed5750f7a95e4cc28228c5b6333da750ad56f97e0d1818deaa8f136d9b66",
+    "bytes": 2407235,
+    "pages": 21,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems, Mathematics Class XI (official NCERT, 2025-26 edition)",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Straight Lines"
+    ],
+    "approx_questions": 30,
+    "has_answer_key": false,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Chapter file: Exemplar XI ch. Straight Lines. Contains exercise MCQ/FIB/TF/SA/LA questions; worked solutions only for the in-text Examples. Exercise answers are NOT in this file: see companion answer key ncert-exemplar-11/keep217.pdf. approx_questions counts '(d)' option markers (MCQ proxy, includes example items)."
+  },
+  {
+    "path": "third-party/mathematics/ncert-exemplar-11/keep211.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/mathematics/keep211.pdf",
+    "fetched_at": "2026-11-04T17:15:49Z",
+    "sha256": "4e8bd68f79a25178691fa7ffb3676f759463b459098600ad01afe1ba112610a8",
+    "bytes": 2608654,
+    "pages": 22,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems, Mathematics Class XI (official NCERT, 2025-26 edition)",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Conic Sections"
+    ],
+    "approx_questions": 18,
+    "has_answer_key": false,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Chapter file: Exemplar XI ch. Conic Sections. Contains exercise MCQ/FIB/TF/SA/LA questions; worked solutions only for the in-text Examples. Exercise answers are NOT in this file: see companion answer key ncert-exemplar-11/keep217.pdf. approx_questions counts '(d)' option markers (MCQ proxy, includes example items)."
+  },
+  {
+    "path": "third-party/mathematics/ncert-exemplar-11/keep212.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/mathematics/keep212.pdf",
+    "fetched_at": "2026-11-04T17:15:49Z",
+    "sha256": "e5375a7b3823e5c2496817be06cc73596657fa50ec7c9865e86fdd06362feebe",
+    "bytes": 2032452,
+    "pages": 17,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems, Mathematics Class XI (official NCERT, 2025-26 edition)",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Introduction to Three Dimensional Geometry"
+    ],
+    "approx_questions": 19,
+    "has_answer_key": false,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Chapter file: Exemplar XI ch. Introduction to Three Dimensional Geometry. Contains exercise MCQ/FIB/TF/SA/LA questions; worked solutions only for the in-text Examples. Exercise answers are NOT in this file: see companion answer key ncert-exemplar-11/keep217.pdf. approx_questions counts '(d)' option markers (MCQ proxy, includes example items)."
+  },
+  {
+    "path": "third-party/mathematics/ncert-exemplar-11/keep213.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/mathematics/keep213.pdf",
+    "fetched_at": "2026-11-04T17:15:49Z",
+    "sha256": "bf835a3d2656d1057f83eeb16aae14337c2f91883bb35278b92613443fad7f52",
+    "bytes": 2406847,
+    "pages": 21,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems, Mathematics Class XI (official NCERT, 2025-26 edition)",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Limits and Derivatives"
+    ],
+    "approx_questions": 32,
+    "has_answer_key": false,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Chapter file: Exemplar XI ch. Limits and Derivatives. Contains exercise MCQ/FIB/TF/SA/LA questions; worked solutions only for the in-text Examples. Exercise answers are NOT in this file: see companion answer key ncert-exemplar-11/keep217.pdf. approx_questions counts '(d)' option markers (MCQ proxy, includes example items)."
+  },
+  {
+    "path": "third-party/mathematics/ncert-exemplar-11/keep214.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/mathematics/keep214.pdf",
+    "fetched_at": "2026-11-04T17:15:49Z",
+    "sha256": "0bcca173430201872845b8c9eb951a12f02e88882b8262a4cbeb9b5361d9adea",
+    "bytes": 2634985,
+    "pages": 24,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems, Mathematics Class XI (official NCERT, 2025-26 edition)",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Mathematical Reasoning"
+    ],
+    "approx_questions": 25,
+    "has_answer_key": false,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Chapter file: Exemplar XI ch. Mathematical Reasoning. Contains exercise MCQ/FIB/TF/SA/LA questions; worked solutions only for the in-text Examples. Exercise answers are NOT in this file: see companion answer key ncert-exemplar-11/keep217.pdf. approx_questions counts '(d)' option markers (MCQ proxy, includes example items)."
+  },
+  {
+    "path": "third-party/mathematics/ncert-exemplar-11/keep215.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/mathematics/keep215.pdf",
+    "fetched_at": "2026-11-04T17:15:49Z",
+    "sha256": "3fdf45591676e200bed7f896a7b8cccf61c9e2d4222766d5cdfc4382c2364f7d",
+    "bytes": 1671272,
+    "pages": 14,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems, Mathematics Class XI (official NCERT, 2025-26 edition)",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Statistics"
+    ],
+    "approx_questions": 19,
+    "has_answer_key": false,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Chapter file: Exemplar XI ch. Statistics. Contains exercise MCQ/FIB/TF/SA/LA questions; worked solutions only for the in-text Examples. Exercise answers are NOT in this file: see companion answer key ncert-exemplar-11/keep217.pdf. approx_questions counts '(d)' option markers (MCQ proxy, includes example items)."
+  },
+  {
+    "path": "third-party/mathematics/ncert-exemplar-11/keep216.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/mathematics/keep216.pdf",
+    "fetched_at": "2026-11-04T17:15:49Z",
+    "sha256": "1ee7c3671b0717d14204e84bbe2b82bc54701235c1646e944326a66e056aad47",
+    "bytes": 2166365,
+    "pages": 19,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems, Mathematics Class XI (official NCERT, 2025-26 edition)",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Probability"
+    ],
+    "approx_questions": 24,
+    "has_answer_key": false,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Chapter file: Exemplar XI ch. Probability. Contains exercise MCQ/FIB/TF/SA/LA questions; worked solutions only for the in-text Examples. Exercise answers are NOT in this file: see companion answer key ncert-exemplar-11/keep217.pdf. approx_questions counts '(d)' option markers (MCQ proxy, includes example items)."
+  },
+  {
+    "path": "third-party/mathematics/ncert-exemplar-11/keep217.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/mathematics/keep217.pdf",
+    "fetched_at": "2026-11-04T17:15:49Z",
+    "sha256": "841627f966f04957a510f1cdc2c77b315753421c1322bfb85cf8feb215991411",
+    "bytes": 2072622,
+    "pages": 18,
+    "kind": "answer_key",
+    "source": "NCERT Exemplar Problems, Mathematics Class XI (official NCERT, 2025-26 edition)",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Sets",
+      "Relations and Functions",
+      "Trigonometric Functions",
+      "Principle of Mathematical Induction",
+      "Complex Numbers and Quadratic Equations",
+      "Linear Inequalities",
+      "Permutations and Combinations",
+      "Binomial Theorem",
+      "Sequences and Series",
+      "Straight Lines",
+      "Conic Sections",
+      "Introduction to Three Dimensional Geometry",
+      "Limits and Derivatives",
+      "Mathematical Reasoning",
+      "Statistics",
+      "Probability"
+    ],
+    "approx_questions": 0,
+    "has_answer_key": true,
+    "has_solutions": false,
+    "text_layer": true,
+    "notes": "Answer key for all Class XI exemplar exercises (chapters 1-16, numbered per chapter exercise 1.3...16.3). Answers only, no solutions. Covers MCQ, FIB, TF, SA, LA answers."
+  },
+  {
+    "path": "third-party/mathematics/ncert-exemplar-12/leep201.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/mathematics/leep201.pdf",
+    "fetched_at": "2026-11-04T17:15:49Z",
+    "sha256": "e2b1f249049c85bc517e8b7e862b5f2baefb938d76dfc6147a5eab9414ae804c",
+    "bytes": 1151672,
+    "pages": 17,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems, Mathematics Class XII (official NCERT, 2025-26 edition)",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Relations and Functions"
+    ],
+    "approx_questions": 27,
+    "has_answer_key": false,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Chapter file: Exemplar XII ch. Relations and Functions. Contains exercise MCQ/FIB/TF/SA/LA questions; worked solutions only for the in-text Examples. Exercise answers are NOT in this file: see companion answer key ncert-exemplar-12/leep216.pdf. approx_questions counts '(d)' option markers (MCQ proxy, includes example items)."
+  },
+  {
+    "path": "third-party/mathematics/ncert-exemplar-12/leep202.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/mathematics/leep202.pdf",
+    "fetched_at": "2026-11-04T17:15:49Z",
+    "sha256": "38e1ff27555c519fadc09e29d6d9a323ebeffa07c25e2ff2faded22101d6f6ca",
+    "bytes": 1631547,
+    "pages": 24,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems, Mathematics Class XII (official NCERT, 2025-26 edition)",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Inverse Trigonometric Functions"
+    ],
+    "approx_questions": 44,
+    "has_answer_key": false,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Chapter file: Exemplar XII ch. Inverse Trigonometric Functions. Contains exercise MCQ/FIB/TF/SA/LA questions; worked solutions only for the in-text Examples. Exercise answers are NOT in this file: see companion answer key ncert-exemplar-12/leep216.pdf. approx_questions counts '(d)' option markers (MCQ proxy, includes example items)."
+  },
+  {
+    "path": "third-party/mathematics/ncert-exemplar-12/leep203.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/mathematics/leep203.pdf",
+    "fetched_at": "2026-11-04T17:15:49Z",
+    "sha256": "4c33fa1d7081ef11efd77655416abf6b89259966c34a6935c0adcd947657799a",
+    "bytes": 1517723,
+    "pages": 23,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems, Mathematics Class XII (official NCERT, 2025-26 edition)",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Matrices"
+    ],
+    "approx_questions": 20,
+    "has_answer_key": false,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Chapter file: Exemplar XII ch. Matrices. Contains exercise MCQ/FIB/TF/SA/LA questions; worked solutions only for the in-text Examples. Exercise answers are NOT in this file: see companion answer key ncert-exemplar-12/leep216.pdf. approx_questions counts '(d)' option markers (MCQ proxy, includes example items)."
+  },
+  {
+    "path": "third-party/mathematics/ncert-exemplar-12/leep204.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/mathematics/leep204.pdf",
+    "fetched_at": "2026-11-04T17:15:49Z",
+    "sha256": "85152fa809976fb68fa93e57f02e636a8cfde311521837575d16ff83cbb32a03",
+    "bytes": 1429365,
+    "pages": 21,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems, Mathematics Class XII (official NCERT, 2025-26 edition)",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Determinants"
+    ],
+    "approx_questions": 16,
+    "has_answer_key": false,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Chapter file: Exemplar XII ch. Determinants. Contains exercise MCQ/FIB/TF/SA/LA questions; worked solutions only for the in-text Examples. Exercise answers are NOT in this file: see companion answer key ncert-exemplar-12/leep216.pdf. approx_questions counts '(d)' option markers (MCQ proxy, includes example items)."
+  },
+  {
+    "path": "third-party/mathematics/ncert-exemplar-12/leep205.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/mathematics/leep205.pdf",
+    "fetched_at": "2026-11-04T17:15:49Z",
+    "sha256": "d3da8f8357b20d1eff7a03571561775adbba3e5842d034d8150159d4a3e461e5",
+    "bytes": 2079553,
+    "pages": 31,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems, Mathematics Class XII (official NCERT, 2025-26 edition)",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Continuity and Differentiability"
+    ],
+    "approx_questions": 31,
+    "has_answer_key": false,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Chapter file: Exemplar XII ch. Continuity and Differentiability. Contains exercise MCQ/FIB/TF/SA/LA questions; worked solutions only for the in-text Examples. Exercise answers are NOT in this file: see companion answer key ncert-exemplar-12/leep216.pdf. approx_questions counts '(d)' option markers (MCQ proxy, includes example items)."
+  },
+  {
+    "path": "third-party/mathematics/ncert-exemplar-12/leep206.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/mathematics/leep206.pdf",
+    "fetched_at": "2026-11-04T17:15:49Z",
+    "sha256": "5a68fff92ca166cdc133afea8a7262a255eb648819a6801316176ef6ecce50c7",
+    "bytes": 1820561,
+    "pages": 26,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems, Mathematics Class XII (official NCERT, 2025-26 edition)",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Application of Derivatives"
+    ],
+    "approx_questions": 31,
+    "has_answer_key": false,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Chapter file: Exemplar XII ch. Application of Derivatives. Contains exercise MCQ/FIB/TF/SA/LA questions; worked solutions only for the in-text Examples. Exercise answers are NOT in this file: see companion answer key ncert-exemplar-12/leep216.pdf. approx_questions counts '(d)' option markers (MCQ proxy, includes example items)."
+  },
+  {
+    "path": "third-party/mathematics/ncert-exemplar-12/leep207.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/mathematics/leep207.pdf",
+    "fetched_at": "2026-11-04T17:15:49Z",
+    "sha256": "a97674b8288fd6831287eb5062fc74f28c9cc8e0726142574c1ef34d0c7da4e7",
+    "bytes": 1823073,
+    "pages": 27,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems, Mathematics Class XII (official NCERT, 2025-26 edition)",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Integrals"
+    ],
+    "approx_questions": 20,
+    "has_answer_key": false,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Chapter file: Exemplar XII ch. Integrals. Contains exercise MCQ/FIB/TF/SA/LA questions; worked solutions only for the in-text Examples. Exercise answers are NOT in this file: see companion answer key ncert-exemplar-12/leep216.pdf. approx_questions counts '(d)' option markers (MCQ proxy, includes example items)."
+  },
+  {
+    "path": "third-party/mathematics/ncert-exemplar-12/leep208.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/mathematics/leep208.pdf",
+    "fetched_at": "2026-11-04T17:15:49Z",
+    "sha256": "7434f0f55b197e2b498427f981653bac6bd2bbd7c609c09c41d840e0edbb2f87",
+    "bytes": 870094,
+    "pages": 9,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems, Mathematics Class XII (official NCERT, 2025-26 edition)",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Application of Integrals"
+    ],
+    "approx_questions": 15,
+    "has_answer_key": false,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Chapter file: Exemplar XII ch. Application of Integrals. Contains exercise MCQ/FIB/TF/SA/LA questions; worked solutions only for the in-text Examples. Exercise answers are NOT in this file: see companion answer key ncert-exemplar-12/leep216.pdf. approx_questions counts '(d)' option markers (MCQ proxy, includes example items)."
+  },
+  {
+    "path": "third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/mathematics/leep209.pdf",
+    "fetched_at": "2026-11-04T17:15:49Z",
+    "sha256": "715d7f837d6464c3d0cf17d03b203a5e472679d6329f418ba6a15601314533b5",
+    "bytes": 1658452,
+    "pages": 25,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems, Mathematics Class XII (official NCERT, 2025-26 edition)",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Differential Equations"
+    ],
+    "approx_questions": 55,
+    "has_answer_key": false,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Chapter file: Exemplar XII ch. Differential Equations. Contains exercise MCQ/FIB/TF/SA/LA questions; worked solutions only for the in-text Examples. Exercise answers are NOT in this file: see companion answer key ncert-exemplar-12/leep216.pdf. approx_questions counts '(d)' option markers (MCQ proxy, includes example items)."
+  },
+  {
+    "path": "third-party/mathematics/ncert-exemplar-12/leep210.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/mathematics/leep210.pdf",
+    "fetched_at": "2026-11-04T17:15:49Z",
+    "sha256": "1bdec4fed495d58e0950893d9e53d7f7915b3d9e2bdea9034c2c765d7536c7ee",
+    "bytes": 1116473,
+    "pages": 16,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems, Mathematics Class XII (official NCERT, 2025-26 edition)",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Vector Algebra"
+    ],
+    "approx_questions": 29,
+    "has_answer_key": false,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Chapter file: Exemplar XII ch. Vector Algebra. Contains exercise MCQ/FIB/TF/SA/LA questions; worked solutions only for the in-text Examples. Exercise answers are NOT in this file: see companion answer key ncert-exemplar-12/leep216.pdf. approx_questions counts '(d)' option markers (MCQ proxy, includes example items)."
+  },
+  {
+    "path": "third-party/mathematics/ncert-exemplar-12/leep211.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/mathematics/leep211.pdf",
+    "fetched_at": "2026-11-04T17:15:49Z",
+    "sha256": "b73c10edad7619f8dc38755208113b7283d648c4c1ef42b701f33b260566daf9",
+    "bytes": 1514429,
+    "pages": 21,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems, Mathematics Class XII (official NCERT, 2025-26 edition)",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Three Dimensional Geometry"
+    ],
+    "approx_questions": 15,
+    "has_answer_key": false,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Chapter file: Exemplar XII ch. Three Dimensional Geometry. Contains exercise MCQ/FIB/TF/SA/LA questions; worked solutions only for the in-text Examples. Exercise answers are NOT in this file: see companion answer key ncert-exemplar-12/leep216.pdf. approx_questions counts '(d)' option markers (MCQ proxy, includes example items)."
+  },
+  {
+    "path": "third-party/mathematics/ncert-exemplar-12/leep212.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/mathematics/leep212.pdf",
+    "fetched_at": "2026-11-04T17:15:49Z",
+    "sha256": "5ea2270def96c6a031292c94ae5c8c4bac0d18911744f2ff151e2bf25ec2dd59",
+    "bytes": 1591474,
+    "pages": 17,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems, Mathematics Class XII (official NCERT, 2025-26 edition)",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Linear Programming"
+    ],
+    "approx_questions": 12,
+    "has_answer_key": false,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Chapter file: Exemplar XII ch. Linear Programming. Contains exercise MCQ/FIB/TF/SA/LA questions; worked solutions only for the in-text Examples. Exercise answers are NOT in this file: see companion answer key ncert-exemplar-12/leep216.pdf. approx_questions counts '(d)' option markers (MCQ proxy, includes example items)."
+  },
+  {
+    "path": "third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/mathematics/leep213.pdf",
+    "fetched_at": "2026-11-04T17:15:49Z",
+    "sha256": "eef9739c623a7f1e4b7718e08822d1306d4a48363b5b5fba81f38dd36e9c28ce",
+    "bytes": 1940811,
+    "pages": 29,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems, Mathematics Class XII (official NCERT, 2025-26 edition)",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Probability"
+    ],
+    "approx_questions": 48,
+    "has_answer_key": false,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Chapter file: Exemplar XII ch. Probability. Contains exercise MCQ/FIB/TF/SA/LA questions; worked solutions only for the in-text Examples. Exercise answers are NOT in this file: see companion answer key ncert-exemplar-12/leep216.pdf. approx_questions counts '(d)' option markers (MCQ proxy, includes example items)."
+  },
+  {
+    "path": "third-party/mathematics/ncert-exemplar-12/leep216.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/mathematics/leep216.pdf",
+    "fetched_at": "2026-11-04T17:15:49Z",
+    "sha256": "1a753cef5cb42da5158b937145bf052a4ab978719425c10f5324224b10cf0f4c",
+    "bytes": 1291741,
+    "pages": 19,
+    "kind": "answer_key",
+    "source": "NCERT Exemplar Problems, Mathematics Class XII (official NCERT, 2025-26 edition)",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Relations and Functions",
+      "Inverse Trigonometric Functions",
+      "Matrices",
+      "Determinants",
+      "Continuity and Differentiability",
+      "Application of Derivatives",
+      "Integrals",
+      "Application of Integrals",
+      "Differential Equations",
+      "Vector Algebra",
+      "Three Dimensional Geometry",
+      "Linear Programming",
+      "Probability"
+    ],
+    "approx_questions": 0,
+    "has_answer_key": true,
+    "has_solutions": false,
+    "text_layer": true,
+    "notes": "Answer key for all Class XII exemplar exercises (chapters 1-13, numbered per chapter exercise 1.3...13.3). Answers only, no solutions. Covers MCQ, FIB, TF, SA, LA answers."
+  },
+  {
+    "path": "third-party/mathematics/collegedekho-kcet-sample-2025-maths/sample-kcet-2025-maths-question-paper-and-answer-key.pdf",
+    "url": "https://static.collegedekho.com/media/uploads/2025/03/19/sample-kcet-2025-maths-question-paper-and-answer-key-pdf.pdf",
+    "fetched_at": "2026-11-04T17:17:35Z",
+    "sha256": "5d162a15453837a86a043bb2309b40f865b73e68f778ce31c5850f69a64e87d1",
+    "bytes": 204354,
+    "pages": 5,
+    "kind": "combined",
+    "source": "CollegeDekho: Sample KCET 2025 Maths Question Paper and Answer Key (free PDF)",
+    "exam_style": "KCET",
+    "chapters": [
+      "Sets, Relations and Functions",
+      "Complex Numbers",
+      "Matrices and Determinants",
+      "Limits and Continuity",
+      "Differentiation",
+      "Integration",
+      "Differential Equations",
+      "Vector Algebra",
+      "Probability",
+      "Coordinate Geometry",
+      "Binomial Theorem",
+      "Linear Programming",
+      "Statistics",
+      "Area under Curves",
+      "Permutations and Combinations"
+    ],
+    "approx_questions": 15,
+    "has_answer_key": true,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Short sample paper, 15 MCQs (A)-(D) each with inline answer and solution. Chapters from the question headers. Small set."
+  },
+  {
+    "path": "third-party/mathematics/deeksha-kcet-mock-solutions/mock-test-1-sol.pdf",
+    "url": "https://deekshalearning.com/wp-content/uploads/2024/03/Mock-Test-1-Sol-PDF.pdf",
+    "fetched_at": "2026-11-04T17:17:35Z",
+    "sha256": "08dca5cdac79d27827b3c7af31eccf1a04d739f259677618e230c22a0ac2a357",
+    "bytes": 1862489,
+    "pages": 53,
+    "kind": "combined",
+    "source": "Deeksha House: Abhyas KCET 2024 Mock Test 1 (questions with solutions)",
+    "exam_style": "KCET",
+    "chapters": [
+      "Complete KCET syllabus (Mathematics Q61-120)"
+    ],
+    "approx_questions": 60,
+    "has_answer_key": true,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Full 180-question KCET-pattern mock (C+M+P, 3 hours). Maths is Q61-120 (60 MCQs, options (a)-(d)). Each item has an 'Ans:' line and a worked Sol; answer table also at the end of the Maths block. Use only the Maths part; Chemistry/Physics are out of scope for this folder."
+  },
+  {
+    "path": "third-party/mathematics/deeksha-kcet-mock-solutions/abhyas-kcet-2024-mock-test-2-sol.pdf",
+    "url": "https://deekshalearning.com/wp-content/uploads/2024/03/Abhyas-KCET-2024-Mock-Test-2-Solution.pdf",
+    "fetched_at": "2026-11-04T17:17:35Z",
+    "sha256": "468653533c26b4e1dc0343d4c19e1506e62991b8a3072233dbc5f53b318bd6fe",
+    "bytes": 1712341,
+    "pages": 48,
+    "kind": "combined",
+    "source": "Deeksha House: Abhyas KCET 2024 Mock Test 2 (questions with solutions)",
+    "exam_style": "KCET",
+    "chapters": [
+      "Complete KCET syllabus (Mathematics Q61-120)"
+    ],
+    "approx_questions": 60,
+    "has_answer_key": true,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Full 180-question KCET-pattern mock (C+M+P, 3 hours). Maths is Q61-120 (60 MCQs, options (a)-(d)). Each item has an 'Ans:' line and a worked Sol; answer table also at the end of the Maths block. Use only the Maths part; Chemistry/Physics are out of scope for this folder."
+  }
+]

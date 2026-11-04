@@ -1,0 +1,667 @@
+[
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/chemistry/ncert-exemplar-11/keep501.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/chemistry/keep501.pdf",
+    "fetched_at": "2026-11-04T17:18:36Z",
+    "sha256": "49cef7ecd41993069bc6d5ef5cdb8bbab930e46d1ef6df30a986d715e01779a9",
+    "bytes": 1485787,
+    "pages": 13,
+    "kind": "combined",
+    "source": "NCERT Exemplar Problems Class XI Chemistry",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Some Basic Concepts of Chemistry"
+    ],
+    "approx_questions": 26,
+    "has_answer_key": true,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Official NCERT Exemplar Problems (English). Chapter PDF; MCQ Type-I answers in an ANSWERS section at end of file, with hints/solutions. approx_questions = count of answer lines in that section (MCQ and other types, approximate). "
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/chemistry/ncert-exemplar-11/keep502.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/chemistry/keep502.pdf",
+    "fetched_at": "2026-11-04T17:18:36Z",
+    "sha256": "c1bf646646d1203af097a26e2c98716dcd3e58f5ab436fd84ed0ad60784d4eb4",
+    "bytes": 1760194,
+    "pages": 13,
+    "kind": "combined",
+    "source": "NCERT Exemplar Problems Class XI Chemistry",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Structure of Atom"
+    ],
+    "approx_questions": 24,
+    "has_answer_key": true,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Official NCERT Exemplar Problems (English). Chapter PDF; MCQ Type-I answers in an ANSWERS section at end of file, with hints/solutions. approx_questions = count of answer lines in that section (MCQ and other types, approximate). "
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/chemistry/ncert-exemplar-11/keep503.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/chemistry/keep503.pdf",
+    "fetched_at": "2026-11-04T17:18:36Z",
+    "sha256": "e86caa08dfd1524bd9417ff59cca39fb946edd224b4c605f6946d4526eb8ae82",
+    "bytes": 1452898,
+    "pages": 12,
+    "kind": "combined",
+    "source": "NCERT Exemplar Problems Class XI Chemistry",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Classification of Elements and Periodicity in Properties"
+    ],
+    "approx_questions": 22,
+    "has_answer_key": true,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Official NCERT Exemplar Problems (English). Chapter PDF; MCQ Type-I answers in an ANSWERS section at end of file, with hints/solutions. approx_questions = count of answer lines in that section (MCQ and other types, approximate). Chapter heading for this file was not parsed; mapped by NCERT chapter order."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/chemistry/keep504.pdf",
+    "fetched_at": "2026-11-04T17:18:36Z",
+    "sha256": "50b0bd8323bc922661cbe99aae7a310e9f79363d69e0176068c48420ccb60cbf",
+    "bytes": 1731287,
+    "pages": 14,
+    "kind": "combined",
+    "source": "NCERT Exemplar Problems Class XI Chemistry",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Chemical Bonding and Molecular Structure"
+    ],
+    "approx_questions": 37,
+    "has_answer_key": true,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Official NCERT Exemplar Problems (English). Chapter PDF; MCQ Type-I answers in an ANSWERS section at end of file, with hints/solutions. approx_questions = count of answer lines in that section (MCQ and other types, approximate). "
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/chemistry/ncert-exemplar-11/keep505.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/chemistry/keep505.pdf",
+    "fetched_at": "2026-11-04T17:18:36Z",
+    "sha256": "fa31c42b8e8b22a88f1fa6f0acfc2a347f1ddf1e6572bfc77fa774bea32dbb0b",
+    "bytes": 1682791,
+    "pages": 15,
+    "kind": "combined",
+    "source": "NCERT Exemplar Problems Class XI Chemistry",
+    "exam_style": "NCERT",
+    "chapters": [
+      "States of Matter"
+    ],
+    "approx_questions": 23,
+    "has_answer_key": true,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Official NCERT Exemplar Problems (English). Chapter PDF; MCQ Type-I answers in an ANSWERS section at end of file, with hints/solutions. approx_questions = count of answer lines in that section (MCQ and other types, approximate). "
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/chemistry/ncert-exemplar-11/keep506.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/chemistry/keep506.pdf",
+    "fetched_at": "2026-11-04T17:18:36Z",
+    "sha256": "bd8a74db749fdff5cedd0e7f9532cff61c1c8562297565ac7c367727f91b3a55",
+    "bytes": 1916846,
+    "pages": 18,
+    "kind": "combined",
+    "source": "NCERT Exemplar Problems Class XI Chemistry",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Thermodynamics"
+    ],
+    "approx_questions": 22,
+    "has_answer_key": true,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Official NCERT Exemplar Problems (English). Chapter PDF; MCQ Type-I answers in an ANSWERS section at end of file, with hints/solutions. approx_questions = count of answer lines in that section (MCQ and other types, approximate). "
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/chemistry/keep507.pdf",
+    "fetched_at": "2026-11-04T17:18:36Z",
+    "sha256": "a43aae86d87f87382004e2e26135ca01012a1b7bbd51b12992b1c46387bccaf1",
+    "bytes": 1838375,
+    "pages": 18,
+    "kind": "combined",
+    "source": "NCERT Exemplar Problems Class XI Chemistry",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Equilibrium"
+    ],
+    "approx_questions": 20,
+    "has_answer_key": true,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Official NCERT Exemplar Problems (English). Chapter PDF; MCQ Type-I answers in an ANSWERS section at end of file, with hints/solutions. approx_questions = count of answer lines in that section (MCQ and other types, approximate). "
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/chemistry/ncert-exemplar-11/keep508.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/chemistry/keep508.pdf",
+    "fetched_at": "2026-11-04T17:18:36Z",
+    "sha256": "f6344c81064d8aa1a03c16ae7229ca5a8ae22f75be4eeb7adbafec27cf37a7f2",
+    "bytes": 1308040,
+    "pages": 9,
+    "kind": "combined",
+    "source": "NCERT Exemplar Problems Class XI Chemistry",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Redox Reactions"
+    ],
+    "approx_questions": 20,
+    "has_answer_key": true,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Official NCERT Exemplar Problems (English). Chapter PDF; MCQ Type-I answers in an ANSWERS section at end of file, with hints/solutions. approx_questions = count of answer lines in that section (MCQ and other types, approximate). "
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/chemistry/ncert-exemplar-11/keep509.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/chemistry/keep509.pdf",
+    "fetched_at": "2026-11-04T17:18:36Z",
+    "sha256": "e57cc0fca4bbc381b40f286a82fd73ccd6789d509ba507614e109ee364f5e8fd",
+    "bytes": 1505164,
+    "pages": 12,
+    "kind": "combined",
+    "source": "NCERT Exemplar Problems Class XI Chemistry",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Hydrogen"
+    ],
+    "approx_questions": 29,
+    "has_answer_key": true,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Official NCERT Exemplar Problems (English). Chapter PDF; MCQ Type-I answers in an ANSWERS section at end of file, with hints/solutions. approx_questions = count of answer lines in that section (MCQ and other types, approximate). "
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/chemistry/ncert-exemplar-11/keep510.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/chemistry/keep510.pdf",
+    "fetched_at": "2026-11-04T17:18:36Z",
+    "sha256": "16ad6e42b62b342ef7f36c86f82c74454dafc44f4cf811fc61e39056dbe75403",
+    "bytes": 1270836,
+    "pages": 9,
+    "kind": "combined",
+    "source": "NCERT Exemplar Problems Class XI Chemistry",
+    "exam_style": "NCERT",
+    "chapters": [
+      "s-Block Elements"
+    ],
+    "approx_questions": 30,
+    "has_answer_key": true,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Official NCERT Exemplar Problems (English). Chapter PDF; MCQ Type-I answers in an ANSWERS section at end of file, with hints/solutions. approx_questions = count of answer lines in that section (MCQ and other types, approximate). Chapter heading for this file was not parsed; mapped by NCERT chapter order."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/chemistry/ncert-exemplar-11/keep511.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/chemistry/keep511.pdf",
+    "fetched_at": "2026-11-04T17:18:36Z",
+    "sha256": "0276f4575fa0bc352e51a7102086208c95d9f108123e6aac8c2cd2be2ef80453",
+    "bytes": 1358125,
+    "pages": 10,
+    "kind": "combined",
+    "source": "NCERT Exemplar Problems Class XI Chemistry",
+    "exam_style": "NCERT",
+    "chapters": [
+      "p-Block Elements"
+    ],
+    "approx_questions": 23,
+    "has_answer_key": true,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Official NCERT Exemplar Problems (English). Chapter PDF; MCQ Type-I answers in an ANSWERS section at end of file, with hints/solutions. approx_questions = count of answer lines in that section (MCQ and other types, approximate). Chapter heading for this file was not parsed; mapped by NCERT chapter order."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/chemistry/ncert-exemplar-11/keep512.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/chemistry/keep512.pdf",
+    "fetched_at": "2026-11-04T17:18:36Z",
+    "sha256": "0d47bcf8923eb6542edc91b36776a151853d2e24d2cbd68b28cab223526c7eda",
+    "bytes": 2060412,
+    "pages": 17,
+    "kind": "combined",
+    "source": "NCERT Exemplar Problems Class XI Chemistry",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Organic Chemistry: Some Basic Principles and Techniques"
+    ],
+    "approx_questions": 30,
+    "has_answer_key": true,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Official NCERT Exemplar Problems (English). Chapter PDF; MCQ Type-I answers in an ANSWERS section at end of file, with hints/solutions. approx_questions = count of answer lines in that section (MCQ and other types, approximate). "
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/chemistry/ncert-exemplar-11/keep513.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/chemistry/keep513.pdf",
+    "fetched_at": "2026-11-04T17:18:36Z",
+    "sha256": "7aad8766dbe74a5d3a7ff1a4095a035b22413a134fb4b394b8b573288e04bd4a",
+    "bytes": 1862277,
+    "pages": 15,
+    "kind": "combined",
+    "source": "NCERT Exemplar Problems Class XI Chemistry",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Hydrocarbons"
+    ],
+    "approx_questions": 23,
+    "has_answer_key": true,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Official NCERT Exemplar Problems (English). Chapter PDF; MCQ Type-I answers in an ANSWERS section at end of file, with hints/solutions. approx_questions = count of answer lines in that section (MCQ and other types, approximate). "
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/chemistry/ncert-exemplar-11/keep514.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/chemistry/keep514.pdf",
+    "fetched_at": "2026-11-04T17:18:36Z",
+    "sha256": "1041829a025e82a9555e8e3b8c0f2709078aec54536c9bb8e0b2fca6c0847279",
+    "bytes": 1318165,
+    "pages": 10,
+    "kind": "combined",
+    "source": "NCERT Exemplar Problems Class XI Chemistry",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Environmental Chemistry"
+    ],
+    "approx_questions": 23,
+    "has_answer_key": true,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Official NCERT Exemplar Problems (English). Chapter PDF; MCQ Type-I answers in an ANSWERS section at end of file, with hints/solutions. approx_questions = count of answer lines in that section (MCQ and other types, approximate). "
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/chemistry/ncert-exemplar-12/leep501.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/chemistry/leep501.pdf",
+    "fetched_at": "2026-11-04T17:18:36Z",
+    "sha256": "821c4b4f08ba11ee972d18e133edb0fabcf038efa5091fbf6b326ae3cba03347",
+    "bytes": 4886949,
+    "pages": 16,
+    "kind": "combined",
+    "source": "NCERT Exemplar Problems Class XII Chemistry",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Solid State"
+    ],
+    "approx_questions": 58,
+    "has_answer_key": true,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Official NCERT Exemplar Problems (English). Chapter PDF; MCQ Type-I answers in an ANSWERS section at end of file, with hints/solutions. approx_questions = count of answer lines in that section (MCQ and other types, approximate). "
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/chemistry/leep502.pdf",
+    "fetched_at": "2026-11-04T17:18:36Z",
+    "sha256": "0403fb49b0f389b1753d6aba0e956cbf8f45f2df35444daa2e904464c82fea76",
+    "bytes": 499277,
+    "pages": 16,
+    "kind": "combined",
+    "source": "NCERT Exemplar Problems Class XII Chemistry",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Solutions"
+    ],
+    "approx_questions": 39,
+    "has_answer_key": true,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Official NCERT Exemplar Problems (English). Chapter PDF; MCQ Type-I answers in an ANSWERS section at end of file, with hints/solutions. approx_questions = count of answer lines in that section (MCQ and other types, approximate). "
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/chemistry/ncert-exemplar-12/leep503.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/chemistry/leep503.pdf",
+    "fetched_at": "2026-11-04T17:18:36Z",
+    "sha256": "391638626f71c092c50daff55972ce2fe475c5465c71deb473d8cb2a8cff4c8d",
+    "bytes": 638819,
+    "pages": 14,
+    "kind": "combined",
+    "source": "NCERT Exemplar Problems Class XII Chemistry",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Electrochemistry"
+    ],
+    "approx_questions": 37,
+    "has_answer_key": true,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Official NCERT Exemplar Problems (English). Chapter PDF; MCQ Type-I answers in an ANSWERS section at end of file, with hints/solutions. approx_questions = count of answer lines in that section (MCQ and other types, approximate). "
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/chemistry/leep504.pdf",
+    "fetched_at": "2026-11-04T17:18:36Z",
+    "sha256": "ffb290227fbed65297dc7fb0bdb6412c00e05417623750f1ae5a7094270d6d36",
+    "bytes": 282027,
+    "pages": 16,
+    "kind": "combined",
+    "source": "NCERT Exemplar Problems Class XII Chemistry",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Chemical Kinetics"
+    ],
+    "approx_questions": 37,
+    "has_answer_key": true,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Official NCERT Exemplar Problems (English). Chapter PDF; MCQ Type-I answers in an ANSWERS section at end of file, with hints/solutions. approx_questions = count of answer lines in that section (MCQ and other types, approximate). "
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/chemistry/ncert-exemplar-12/leep505.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/chemistry/leep505.pdf",
+    "fetched_at": "2026-11-04T17:18:36Z",
+    "sha256": "ca9b94c313c733d6653bfe248a921a1e6b42ca48e640fa6d61b986929b487e86",
+    "bytes": 178177,
+    "pages": 14,
+    "kind": "combined",
+    "source": "NCERT Exemplar Problems Class XII Chemistry",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Surface Chemistry"
+    ],
+    "approx_questions": 42,
+    "has_answer_key": true,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Official NCERT Exemplar Problems (English). Chapter PDF; MCQ Type-I answers in an ANSWERS section at end of file, with hints/solutions. approx_questions = count of answer lines in that section (MCQ and other types, approximate). "
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/chemistry/ncert-exemplar-12/leep506.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/chemistry/leep506.pdf",
+    "fetched_at": "2026-11-04T17:18:36Z",
+    "sha256": "a4271c7d4272785c6662a9b979957c2fc6cda6b5f3c285955df5d073913352e6",
+    "bytes": 171596,
+    "pages": 13,
+    "kind": "combined",
+    "source": "NCERT Exemplar Problems Class XII Chemistry",
+    "exam_style": "NCERT",
+    "chapters": [
+      "General Principles and Processes of Isolation of Elements"
+    ],
+    "approx_questions": 36,
+    "has_answer_key": true,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Official NCERT Exemplar Problems (English). Chapter PDF; MCQ Type-I answers in an ANSWERS section at end of file, with hints/solutions. approx_questions = count of answer lines in that section (MCQ and other types, approximate). "
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/chemistry/ncert-exemplar-12/leep507.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/chemistry/leep507.pdf",
+    "fetched_at": "2026-11-04T17:18:36Z",
+    "sha256": "aa5c5c6237f8a7faf89e614d8588c022b2fbb84b6cb367552d920445415efb70",
+    "bytes": 184293,
+    "pages": 15,
+    "kind": "combined",
+    "source": "NCERT Exemplar Problems Class XII Chemistry",
+    "exam_style": "NCERT",
+    "chapters": [
+      "p-Block Elements"
+    ],
+    "approx_questions": 48,
+    "has_answer_key": true,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Official NCERT Exemplar Problems (English). Chapter PDF; MCQ Type-I answers in an ANSWERS section at end of file, with hints/solutions. approx_questions = count of answer lines in that section (MCQ and other types, approximate). Chapter heading for this file was not parsed; mapped by NCERT chapter order."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/chemistry/leep508.pdf",
+    "fetched_at": "2026-11-04T17:18:36Z",
+    "sha256": "ac9738289e82aec86d53566dcb0296707cce028253136e3947c04b7916df6b25",
+    "bytes": 164204,
+    "pages": 15,
+    "kind": "combined",
+    "source": "NCERT Exemplar Problems Class XII Chemistry",
+    "exam_style": "NCERT",
+    "chapters": [
+      "d and f Block Elements"
+    ],
+    "approx_questions": 36,
+    "has_answer_key": true,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Official NCERT Exemplar Problems (English). Chapter PDF; MCQ Type-I answers in an ANSWERS section at end of file, with hints/solutions. approx_questions = count of answer lines in that section (MCQ and other types, approximate). Chapter heading for this file was not parsed; mapped by NCERT chapter order."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/chemistry/ncert-exemplar-12/leep509.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/chemistry/leep509.pdf",
+    "fetched_at": "2026-11-04T17:18:36Z",
+    "sha256": "64c240e79c6b5594324a5988715992f1a2e19648e2f44862e9f10312063c0176",
+    "bytes": 239522,
+    "pages": 13,
+    "kind": "combined",
+    "source": "NCERT Exemplar Problems Class XII Chemistry",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Coordination Compounds"
+    ],
+    "approx_questions": 33,
+    "has_answer_key": true,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Official NCERT Exemplar Problems (English). Chapter PDF; MCQ Type-I answers in an ANSWERS section at end of file, with hints/solutions. approx_questions = count of answer lines in that section (MCQ and other types, approximate). "
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/chemistry/leep510.pdf",
+    "fetched_at": "2026-11-04T17:18:36Z",
+    "sha256": "52fd5be7ee6d4623488b47915b11e6960315bceb9ae53cabe3dede1376d04ea5",
+    "bytes": 405188,
+    "pages": 21,
+    "kind": "combined",
+    "source": "NCERT Exemplar Problems Class XII Chemistry",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Haloalkanes and Haloarenes"
+    ],
+    "approx_questions": 55,
+    "has_answer_key": true,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Official NCERT Exemplar Problems (English). Chapter PDF; MCQ Type-I answers in an ANSWERS section at end of file, with hints/solutions. approx_questions = count of answer lines in that section (MCQ and other types, approximate). "
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/chemistry/ncert-exemplar-12/leep511.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/chemistry/leep511.pdf",
+    "fetched_at": "2026-11-04T17:18:36Z",
+    "sha256": "67c6d6d22f3031771c99003673f0243919e7bea093870d71ef318bd4cfbaf970",
+    "bytes": 281300,
+    "pages": 14,
+    "kind": "combined",
+    "source": "NCERT Exemplar Problems Class XII Chemistry",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Alcohols, Phenols and Ethers"
+    ],
+    "approx_questions": 31,
+    "has_answer_key": true,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Official NCERT Exemplar Problems (English). Chapter PDF; MCQ Type-I answers in an ANSWERS section at end of file, with hints/solutions. approx_questions = count of answer lines in that section (MCQ and other types, approximate). "
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/chemistry/ncert-exemplar-12/leep512.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/chemistry/leep512.pdf",
+    "fetched_at": "2026-11-04T17:18:36Z",
+    "sha256": "fc4c2593dae500265fddf56ea63434664ef457c373211356ec7615981bf848a1",
+    "bytes": 361269,
+    "pages": 12,
+    "kind": "combined",
+    "source": "NCERT Exemplar Problems Class XII Chemistry",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Aldehydes, Ketones and Carboxylic Acids"
+    ],
+    "approx_questions": 26,
+    "has_answer_key": true,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Official NCERT Exemplar Problems (English). Chapter PDF; MCQ Type-I answers in an ANSWERS section at end of file, with hints/solutions. approx_questions = count of answer lines in that section (MCQ and other types, approximate). "
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/chemistry/leep513.pdf",
+    "fetched_at": "2026-11-04T17:18:36Z",
+    "sha256": "d90518047bd44b19f3749841fe98197fb29cefe7ba72bab9a7e09728f066da95",
+    "bytes": 538011,
+    "pages": 22,
+    "kind": "combined",
+    "source": "NCERT Exemplar Problems Class XII Chemistry",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Amines"
+    ],
+    "approx_questions": 44,
+    "has_answer_key": true,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Official NCERT Exemplar Problems (English). Chapter PDF; MCQ Type-I answers in an ANSWERS section at end of file, with hints/solutions. approx_questions = count of answer lines in that section (MCQ and other types, approximate). "
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/chemistry/leep514.pdf",
+    "fetched_at": "2026-11-04T17:18:36Z",
+    "sha256": "41639bfb3d4ccda5603811015fa6906dca15a1c84b2061746166a52f08782bbd",
+    "bytes": 295875,
+    "pages": 15,
+    "kind": "combined",
+    "source": "NCERT Exemplar Problems Class XII Chemistry",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Biomolecules"
+    ],
+    "approx_questions": 35,
+    "has_answer_key": true,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Official NCERT Exemplar Problems (English). Chapter PDF; MCQ Type-I answers in an ANSWERS section at end of file, with hints/solutions. approx_questions = count of answer lines in that section (MCQ and other types, approximate). "
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/chemistry/ncert-exemplar-12/leep515.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/chemistry/leep515.pdf",
+    "fetched_at": "2026-11-04T17:18:36Z",
+    "sha256": "de14b142d777a148afb74eb37e32222ff245187045d4c4749bf17a0cf4fb6dd8",
+    "bytes": 195709,
+    "pages": 11,
+    "kind": "combined",
+    "source": "NCERT Exemplar Problems Class XII Chemistry",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Polymers"
+    ],
+    "approx_questions": 26,
+    "has_answer_key": true,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Official NCERT Exemplar Problems (English). Chapter PDF; MCQ Type-I answers in an ANSWERS section at end of file, with hints/solutions. approx_questions = count of answer lines in that section (MCQ and other types, approximate). "
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/chemistry/ncert-exemplar-12/leep516.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/chemistry/leep516.pdf",
+    "fetched_at": "2026-11-04T17:18:36Z",
+    "sha256": "f462baa57221c7f70d3a13b29aac19902954d26f473204afb4635d35ae0822b6",
+    "bytes": 213849,
+    "pages": 16,
+    "kind": "combined",
+    "source": "NCERT Exemplar Problems Class XII Chemistry",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Chemistry in Everyday Life"
+    ],
+    "approx_questions": 43,
+    "has_answer_key": true,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Official NCERT Exemplar Problems (English). Chapter PDF; MCQ Type-I answers in an ANSWERS section at end of file, with hints/solutions. approx_questions = count of answer lines in that section (MCQ and other types, approximate). "
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/chemistry/ncert-exemplar-12/leep517.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/chemistry/leep517.pdf",
+    "fetched_at": "2026-11-04T17:18:36Z",
+    "sha256": "77708e5152db0b5dda3f12388251df984aa52f19791a34dd9e2f5a78402eaca0",
+    "bytes": 214212,
+    "pages": 12,
+    "kind": "combined",
+    "source": "NCERT Exemplar Problems Class XII Chemistry (model papers)",
+    "exam_style": "NCERT",
+    "chapters": [
+      "full syllabus (model paper)"
+    ],
+    "approx_questions": 30,
+    "has_answer_key": true,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "NCERT model question paper with marking scheme and worked solutions, 30 numbered questions (mixed MCQ, SA, LA, AR), not a pure MCQ bank. Model Question Paper I (Chemistry, Class XII)."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/chemistry/ncert-exemplar-12/leep518.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/chemistry/leep518.pdf",
+    "fetched_at": "2026-11-04T17:18:36Z",
+    "sha256": "3c662887590733a53a0f231bbd3de82898fd7647b16870dde18e6e244f83f759",
+    "bytes": 236538,
+    "pages": 11,
+    "kind": "combined",
+    "source": "NCERT Exemplar Problems Class XII Chemistry (model papers)",
+    "exam_style": "NCERT",
+    "chapters": [
+      "full syllabus (model paper)"
+    ],
+    "approx_questions": 30,
+    "has_answer_key": true,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "NCERT model question paper with marking scheme and worked solutions, 30 numbered questions (mixed MCQ, SA, LA, AR), not a pure MCQ bank. Model Question Paper II (Chemistry, Class XII)."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/chemistry/aglasem-kpuc2-chemistry-mcq/dblock-mcq-with-answers.pdf",
+    "url": "https://cdn.aglasem.com/aglasem-doc/6205c06a-a1e7-11f1-8e0b-0aa932765c8b/6205c06a-a1e7-11f1-8e0b-0aa932765c8b.pdf",
+    "fetched_at": "2026-11-04T17:18:36Z",
+    "sha256": "046b6753325a88a4615db7b6e7e91a454856039a66e41183ee17111938b1e19b",
+    "bytes": 336791,
+    "pages": 17,
+    "kind": "combined",
+    "source": "AglaSem Docs (copy of Govt of Karnataka DSEPU II PUC chapter MCQ set)",
+    "exam_style": "other",
+    "chapters": [
+      "d and f Block Elements (Unit 04)"
+    ],
+    "approx_questions": 97,
+    "has_answer_key": true,
+    "has_solutions": false,
+    "text_layer": true,
+    "notes": "Header: Government of Karnataka, Dept of School Education (Pre-University), 'Chapterwise multiple choice questions for competitive exam', II PUC Chemistry. Answer key at end ('ANSWER KEY:' numbered list). Approx = answer-key count. Hosted by third party; provenance = Govt header."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/chemistry/aglasem-kpuc2-chemistry-qb-2026/kpuc2-qb-2026-chemistry.pdf",
+    "url": "https://cdn.aglasem.com/aglasem-doc/1a270c8a-a206-11f1-a45d-0aa932765c8b/1a270c8a-a206-11f1-a45d-0aa932765c8b.pdf",
+    "fetched_at": "2026-11-04T17:18:36Z",
+    "sha256": "4c40575e63832afbfa96a28af97bfdede873ea41b45ece7eb8e01fab9a22f00e",
+    "bytes": 4169821,
+    "pages": 252,
+    "kind": "combined",
+    "source": "AglaSem Docs (copy of KSEAB/DSEPU 2025-26 II PUC Chemistry question bank)",
+    "exam_style": "other",
+    "chapters": [
+      "full II PUC Chemistry syllabus (chapter-wise and topic-wise)"
+    ],
+    "approx_questions": 678,
+    "has_answer_key": true,
+    "has_solutions": true,
+    "text_layer": true,
+    "notes": "Official-looking Govt of Karnataka 2025-26 II PUC Question Bank (subject code 34), 252 pages. Contains MCQ sections with 'KEY ANSWERS FOR MULTIPLE CHOICE QUESTIONS' blocks (about 678 answer letters found by text match; approximate) and model answers. Mixed-type bank: MCQ, fill-in-blank, short/long answer. Title/filename says 2026; document internally says 2025-26."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/chemistry/aglasem-kpuc1-chemistry-mcq/equilibrium-mcq-with-answers.pdf",
+    "url": "https://cdn.aglasem.com/aglasem-doc/4480e696-a1e7-11f1-87bb-0aa932765c8b/4480e696-a1e7-11f1-87bb-0aa932765c8b.pdf",
+    "fetched_at": "2026-11-04T17:18:36Z",
+    "sha256": "3bc12ef367ecd50c5e179618d9ae44367a1d80648bb09c14dbc059bdf1ddfb0d",
+    "bytes": 1153752,
+    "pages": 14,
+    "kind": "combined",
+    "source": "AglaSem Docs (Karnataka 1st PUC chapter MCQ set)",
+    "exam_style": "other",
+    "chapters": [
+      "Equilibrium"
+    ],
+    "approx_questions": 76,
+    "has_answer_key": true,
+    "has_solutions": false,
+    "text_layer": true,
+    "notes": "Karnataka 1st PUC Chemistry Equilibrium MCQ set, 14 pages, answer key ('Answer Key:') at end, 76 numbered answers. Provenance: third-party aglasem page; document header not checked in detail."
+  }
+]

@@ -1,0 +1,2102 @@
+[
+ {
+  "id": "pyq-2025-mathematics-001",
+  "subject": "mathematics",
+  "chapter": "sets",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 1,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If $A=\\{x: x \\text{ is an integer and } x^2-9=0\\}$\n\n$B=\\{x: x \\text{ is a natural number and } 2\\le x<5\\}$\n\n$C=\\{x: x \\text{ is a prime number}\\le 4\\}$\n\nThen $(B-C)\\cup A$ is,",
+  "options": [
+   "$\\{-3,3,4\\}$",
+   "$\\{2,3,4\\}$",
+   "$\\{3,4,5\\}$",
+   "$\\{2,3,5\\}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-002",
+  "subject": "mathematics",
+  "chapter": "sets",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 2,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "A and B are two sets having 3 and 6 elements respectively. Consider the following statements.\n\nStatement (I): Minimum number of elements in $A\\cup B$ is 3\n\nStatement (II): Maximum number of elements in $A\\cap B$ is 3\n\nWhich of the following is correct?",
+  "options": [
+   "Statement (I) is true, statement (II) is false",
+   "Statement (I) is false, statement (II) is true",
+   "Both statements (I) and (II) are true",
+   "Both statements (I) and (II) are false"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-003",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions-11",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 3,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "Domain of the function $f$, given by $f(x)=\\dfrac{1}{\\sqrt{(x-2)(x-5)}}$ is",
+  "options": [
+   "$(-\\infty, 2]\\cup[5,\\infty)$",
+   "$(-\\infty, 2)\\cup(5,\\infty)$",
+   "$(-\\infty, 3)\\cup[5,\\infty)$",
+   "$(-\\infty, 3]\\cup(5,\\infty)$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-004",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 4,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If $f(x)=\\sin[\\pi^2]x-\\sin[-\\pi^2]x$, where $[x]$ = greatest integer $\\le x$, then which of the following is not true?",
+  "options": [
+   "$f(0)=0$",
+   "$f\\left(\\frac{\\pi}{2}\\right)=1$",
+   "$f\\left(\\frac{\\pi}{4}\\right)=1+\\frac{1}{\\sqrt{2}}$",
+   "$f(\\pi)=-1$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-005",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 5,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "Which of the following is not correct?",
+  "options": [
+   "$\\cos 5\\pi=\\cos 4\\pi$",
+   "$\\sin 2\\pi=\\sin(-2\\pi)$",
+   "$\\sin 4\\pi=\\sin 6\\pi$",
+   "$\\tan 45^\\circ=\\tan(-315^\\circ)$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-006",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 6,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If $\\cos x+\\cos^2 x=1$, then the value of $\\sin^2 x+\\sin^4 x$ is",
+  "options": [
+   "-1",
+   "1",
+   "0",
+   "2"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-007",
+  "subject": "mathematics",
+  "chapter": "statistics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 7,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "The mean deviation about the mean for the data $4, 7, 8, 9, 10, 12, 13, 17$ is",
+  "options": [
+   "10",
+   "3",
+   "8.5",
+   "4.03"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-008",
+  "subject": "mathematics",
+  "chapter": "probability-11",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 8,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "A random experiment has five outcomes $w_1, w_2, w_3, w_4$ and $w_5$. The probabilities of the occurrence of the outcomes $w_1, w_2, w_4$ and $w_5$ are respectively $\\frac{1}{6}$, $a$, $b$ and $\\frac{1}{12}$ such that $12a+12b-1=0$. Then the probabilities of occurrence of the outcome $w_3$ is",
+  "options": [
+   "$\\frac{2}{3}$",
+   "$\\frac{1}{3}$",
+   "$\\frac{1}{6}$",
+   "$\\frac{1}{12}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-009",
+  "subject": "mathematics",
+  "chapter": "probability-11",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 9,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "A die has two faces each with number '1', three faces each with number '2' and one face with number '3'. If the die is rolled once, then $P(1 \\text{ or } 3)$ is",
+  "options": [
+   "$\\frac{2}{3}$",
+   "$\\frac{1}{2}$",
+   "$\\frac{1}{3}$",
+   "$\\frac{1}{6}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-010",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 10,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "Let $A=\\{a,b,c\\}$, then the number of equivalence relations on $A$ containing $(b,c)$ is",
+  "options": [
+   "1",
+   "3",
+   "2",
+   "4"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-011",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 11,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "Let the functions \"f\" and \"g\" be $f:\\left[0,\\frac{\\pi}{2}\\right]\\to\\mathbb{R}$ given by $f(x)=\\sin x$ and $g:\\left[0,\\frac{\\pi}{2}\\right]\\to\\mathbb{R}$ given by $g(x)=\\cos x$, where $\\mathbb{R}$ is the set of real numbers. Consider the following statements:\n\nStatement (I): $f$ and $g$ are one-one\n\nStatement (II): $f+g$ is one-one\n\nWhich of the following is correct?",
+  "options": [
+   "Statement (I) is true, statement (II) is false",
+   "Statement (I) is false, statement (II) is true",
+   "Both statements (I) and (II) are true",
+   "Both statements (I) and (II) are false"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-012",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 12,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "$\\sec^2(\\tan^{-1}2)+\\operatorname{cosec}^2(\\cot^{-1}3)=$",
+  "options": [
+   "1",
+   "5",
+   "15",
+   "10"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-013",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 13,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "$2\\cos^{-1}x=\\sin^{-1}\\left(2x\\sqrt{1-x^2}\\right)$ is valid for all values of '$x$' satisfying",
+  "options": [
+   "$0\\le x\\le\\frac{1}{\\sqrt{2}}$",
+   "$-1\\le x\\le 1$",
+   "$0\\le x\\le 1$",
+   "$\\frac{1}{\\sqrt{2}}\\le x\\le 1$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-014",
+  "subject": "mathematics",
+  "chapter": "linear-programming",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 14,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "Consider the following statements:\n\nStatement (I): In a LPP, the objective function is always linear.\n\nStatement (II): In a LPP, the linear inequalities on variables are called constraints.\n\nWhich of the following is correct?",
+  "options": [
+   "Statement (I) is true, Statement (II) is true",
+   "Statement (I) is true, Statement (II) is false",
+   "Both Statements (I) and (II) are false",
+   "Statement (I) is false, Statement (II) is true"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-015",
+  "subject": "mathematics",
+  "chapter": "linear-programming",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 15,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "The maximum value of $z=3x+4y$, subject to the constraints $x+y\\le 40$, $x+2y\\le 60$ and $x, y\\ge 0$ is",
+  "options": [
+   "130",
+   "120",
+   "140",
+   "40"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-016",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 16,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "Consider the following statements.\n\nStatement (I): If $E$ and $F$ are two independent events, then $E'$ and $F'$ are also independent.\n\nStatement (II): Two mutually exclusive events with non-zero probabilities of occurrence cannot be independent.\n\nWhich of the following is correct?",
+  "options": [
+   "Statement (I) is true and statement (II) is false",
+   "Statement (I) is false and statement (II) is true",
+   "Both the statements are true",
+   "Both the statements are false"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-017",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 17,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If $A$ and $B$ are two non-mutually exclusive events such that $P(A|B)=P(B|A)$, then",
+  "options": [
+   "$A\\subset B$ but $A\\ne B$",
+   "$A=B$",
+   "$A\\cap B=\\phi$",
+   "$P(A)=P(B)$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-018",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 18,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If $A$ and $B$ are two events such that $A\\subset B$ and $P(B)\\ne 0$, then which of the following is correct?",
+  "options": [
+   "$P(A|B)=\\frac{P(B)}{P(A)}$",
+   "$P(A|B)<P(A)$",
+   "$P(A|B)\\ge P(A)$",
+   "$P(A)=P(B)$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-019",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 19,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "Meera visits only one of the two temples $A$ and $B$ in her locality. Probability that she visits temple $A$ is $\\frac{2}{5}$. If she visits temple $A$, $\\frac{1}{3}$ is the probability that she meets her friend, whereas it is $\\frac{2}{7}$ if she visits temple $B$. Meera met her friend at one of the two temples. The probability that she met her at temple $B$ is",
+  "options": [
+   "$\\frac{7}{16}$",
+   "$\\frac{5}{16}$",
+   "$\\frac{3}{16}$",
+   "$\\frac{9}{16}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-020",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 20,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If $Z_1$ and $Z_2$ are two non-zero complex numbers, then which of the following is not true?",
+  "options": [
+   "$\\overline{Z_1+Z_2}=\\overline{Z_1}+\\overline{Z_2}$",
+   "$|Z_1Z_2|=|Z_1|\\cdot|Z_2|$",
+   "$\\overline{Z_1Z_2}=\\overline{Z_1}\\cdot\\overline{Z_2}$",
+   "$|Z_1+Z_2|\\ge|Z_1|+|Z_2|$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-021",
+  "subject": "mathematics",
+  "chapter": "linear-inequalities",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 21,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "Consider the following statements:\n\nStatement(I): The set of all solutions of the linear inequalities $3x+8<17$ and $2x+8\\ge 12$ are $x<3$ and $x\\ge 2$ respectively.\n\nStatement(II): The common set of solutions of linear inequalities $3x+8<17$ and $2x+8\\ge 12$ is $(2,3)$.\n\nWhich of the following is true?",
+  "options": [
+   "Statement (I) is true but statement (II) is false",
+   "Statement (I) is false but statement (II) is true",
+   "Both the statements are true",
+   "Both the statements are false"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-022",
+  "subject": "mathematics",
+  "chapter": "permutations-and-combinations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 22,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "The number of four digit even number that can be formed using the digits $0, 1, 2$ and $3$ without repetition is",
+  "options": [
+   "6",
+   "10",
+   "4",
+   "12"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-023",
+  "subject": "mathematics",
+  "chapter": "permutations-and-combinations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 23,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "The number of diagonals that can be drawn in an octagon is",
+  "options": [
+   "15",
+   "20",
+   "28",
+   "30"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-024",
+  "subject": "mathematics",
+  "chapter": "binomial-theorem",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 24,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If the number of terms in the binomial expansion of $(2x+3)^{3n}$ is 22, then the value of $n$ is",
+  "options": [
+   "8",
+   "6",
+   "7",
+   "9"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-025",
+  "subject": "mathematics",
+  "chapter": "sequences-and-series",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 25,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If $4^{th}$, $10^{th}$ and $16^{th}$ terms of a G.P. are $x$, $y$ and $z$ respectively, then",
+  "options": [
+   "$z=\\sqrt{xy}$",
+   "$y=\\sqrt{xz}$",
+   "$x=\\sqrt{yz}$",
+   "$y=\\frac{x+z}{2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-026",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 26,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If $A$ is a square matrix such that $A^2=A$, then $(I-A)^3$ is",
+  "options": [
+   "$I-A$",
+   "$A-I$",
+   "$I+A$",
+   "$-I-A$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-027",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 27,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If $A$ and $B$ are two matrices such that $AB$ is an identity matrix and the order of matrix $B$ is $3\\times 4$, then the order of matrix $A$ is",
+  "options": [
+   "$3\\times 4$",
+   "$3\\times 3$",
+   "$4\\times 3$",
+   "$4\\times 4$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-028",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 28,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "Which of the following statements is not correct?",
+  "options": [
+   "A row matrix has only one row",
+   "A diagonal matrix has all diagonal elements equal to zero",
+   "A symmetric matrix $A$ is a square matrix satisfying $A'=A$.",
+   "A skew symmetric matrix has all diagonal elements equal to zero"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-029",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 29,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If a matrix $A=\\begin{bmatrix}1&1\\\\1&1\\end{bmatrix}$ satisfies $A^6=kA'$, then the value of $k$ is",
+  "options": [
+   "32",
+   "1",
+   "$\\frac{1}{32}$",
+   "6"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-030",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 30,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If $A=\\begin{bmatrix}k&2\\\\2&k\\end{bmatrix}$ and $|A^3|=125$, then the value of $k$ is",
+  "options": [
+   "$\\pm 2$",
+   "$\\pm 3$",
+   "$-5$",
+   "$-4$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-031",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 31,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If $A$ is a square matrix satisfying the equation $A^2-5A+7I=0$, where $I$ is the identity matrix and $0$ is null matrix of same order, then $A^{-1}=$",
+  "options": [
+   "$\\frac{1}{7}(5I-A)$",
+   "$\\frac{1}{7}(A-5I)$",
+   "$7(5I-A)$",
+   "$\\frac{1}{5}(7I-A)$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-032",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 32,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If $A$ is a square matrix of order $3\\times 3$, $\\det A=3$, then the value of $\\det(3A^{-1})$ is",
+  "options": [
+   "$\\frac{1}{3}$",
+   "3",
+   "27",
+   "9"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-033",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 33,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If $B=\\begin{bmatrix}1&3\\\\1&\\alpha\\end{bmatrix}$ be the adjoint of a matrix $A$ and $|A|=2$, then the value of $\\alpha$ is",
+  "options": [
+   "4",
+   "5",
+   "2",
+   "3"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-034",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 34,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "The system of equations $4x+6y=5$ and $8x+12y=10$ has",
+  "options": [
+   "No solution",
+   "Infinitely many solutions",
+   "A unique solution",
+   "Only two solutions"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-035",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 35,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If $\\vec{a}=\\hat{i}+2\\hat{j}+\\hat{k}$, $\\vec{b}=\\hat{i}-\\hat{j}+4\\hat{k}$ and $\\vec{c}=\\hat{i}+\\hat{j}+\\hat{k}$ are such that $\\vec{a}+\\lambda\\vec{b}$ is perpendicular to $\\vec{c}$, then the value of $\\lambda$ is",
+  "options": [
+   "1",
+   "$\\pm 1$",
+   "-1",
+   "0"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-036",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 36,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If $|\\vec{a}|=10$, $|\\vec{b}|=2$ and $\\vec{a}\\cdot\\vec{b}=12$, then the value of $|\\vec{a}\\times\\vec{b}|$ is",
+  "options": [
+   "5",
+   "10",
+   "14",
+   "16"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-037",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 37,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "Consider the following statements:\n\nStatement (I): If either $|\\vec{a}|=0$ or $|\\vec{b}|=0$, then $\\vec{a}\\cdot\\vec{b}=0$.\n\nStatement (II): If $\\vec{a}\\times\\vec{b}=\\vec{0}$, then $\\vec{a}$ is perpendicular to $\\vec{b}$.\n\nWhich of the following is correct?",
+  "options": [
+   "Statement (I) is true but Statement (II) is false",
+   "Statement (I) is false but Statement (II) is true",
+   "Both Statement (I) and Statement (II) are true",
+   "Both Statement (I) and Statement (II) are false"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-038",
+  "subject": "mathematics",
+  "chapter": "three-dimensional-geometry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 38,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 19,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If a line makes angles $90^\\circ$, $60^\\circ$ and $\\theta$ with $x$, $y$ and $z$ axes respectively, where $\\theta$ is acute, then the value of $\\theta$ is",
+  "options": [
+   "$\\frac{\\pi}{6}$",
+   "$\\frac{\\pi}{4}$",
+   "$\\frac{\\pi}{3}$",
+   "$\\frac{\\pi}{2}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-039",
+  "subject": "mathematics",
+  "chapter": "three-dimensional-geometry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 39,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 19,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "The equation of the line through the point $(0,1,2)$ and perpendicular to the line $\\frac{x-1}{2}=\\frac{y+1}{3}=\\frac{z-1}{-2}$ is",
+  "options": [
+   "$\\frac{x}{3}=\\frac{y-1}{4}=\\frac{z-2}{-3}$",
+   "$\\frac{x}{-3}=\\frac{y-1}{4}=\\frac{z-2}{3}$",
+   "$\\frac{x}{3}=\\frac{y-1}{4}=\\frac{z-2}{3}$",
+   "$\\frac{x}{3}=\\frac{y-1}{-4}=\\frac{z-2}{3}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-040",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 40,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 19,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "A line passes through $(-1,-3)$ and perpendicular to $x+6y=5$. Its $x$ intercept is",
+  "options": [
+   "$\\frac{1}{2}$",
+   "$-\\frac{1}{2}$",
+   "-2",
+   "2"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-041",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 41,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 19,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "The length of the latus rectum of $x^2+3y^2=12$ is",
+  "options": [
+   "$\\frac{2}{3}$ units",
+   "$\\frac{1}{3}$ units",
+   "$\\frac{4}{\\sqrt{3}}$ units",
+   "24 units"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-042",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 42,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 21,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "$\\lim_{x\\to 1}\\dfrac{x^4-\\sqrt{x}}{\\sqrt{x}-1}$ is",
+  "options": [
+   "0",
+   "7",
+   "does not exist",
+   "$\\frac{1}{2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-043",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 43,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 21,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If $y=\\dfrac{\\cos x}{1+\\sin x}$, then\n\n(a) $\\dfrac{dy}{dx}=\\dfrac{-1}{1+\\sin x}$\n\n(b) $\\dfrac{dy}{dx}=\\dfrac{1}{1+\\sin x}$\n\n(c) $\\dfrac{dy}{dx}=-\\dfrac{1}{2}\\sec^2\\left(\\dfrac{\\pi}{4}-\\dfrac{x}{2}\\right)$\n\n(d) $\\dfrac{dy}{dx}=\\dfrac{1}{2}\\sec^2\\left(\\dfrac{\\pi}{4}-\\dfrac{x}{2}\\right)$",
+  "options": [
+   "Only b is correct",
+   "Only a is correct",
+   "Both a and c are correct",
+   "Both b and d are correct"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-044",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 44,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 21,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "Match the following:\n\nIn the following, $[x]$ denotes the greatest integer less than or equal to $x$.\n\n| Column-I | Column-II |\n|---|---|\n| (a) $x\\lvert x\\rvert$ | (i) continuous in $(-1,1)$ |\n| (b) $\\sqrt{\\lvert x\\rvert}$ | (ii) differentiable in $(-1,1)$ |\n| (c) $x+[x]$ | (iii) strictly increasing in $(-1,1)$ |\n| (d) $\\lvert x-1\\rvert+\\lvert x+1\\rvert$ | (iv) not differentiable at, at least one point in $(-1,1)$ |",
+  "options": [
+   "a - i, b - ii, c - iv, d - iii",
+   "a - iv, b - iii, c - i, d - ii",
+   "a - ii, b - iv, c - iii, d - i",
+   "a - iii, b - ii, c - iv, d - i"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-045",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 45,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 23,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "The function $f(x)=\\begin{cases}e^x+ax, & x<0\\\\ b(x-1)^2, & x\\ge 0\\end{cases}$ is differentiable at $x=0$. Then",
+  "options": [
+   "$a=1,\\ b=1$",
+   "$a=3,\\ b=1$",
+   "$a=-3,\\ b=1$",
+   "$a=3,\\ b=-1$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-046",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 46,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 23,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "A function $f(x)=\\begin{cases}\\dfrac{e^{1/x}-1}{e^{1/x}+1}, & x\\ne 0\\\\ 0, & x=0\\end{cases}$ is",
+  "options": [
+   "continuous at $x=0$",
+   "not continuous at $x=0$",
+   "differentiable at $x=0$",
+   "differentiable at $x=0$, but not continuous at $x=0$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-047",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 47,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 23,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If $y=a\\sin^3 t$, $x=a\\cos^3 t$, then $\\dfrac{dy}{dx}$ at $t=\\dfrac{3\\pi}{4}$ is",
+  "options": [
+   "-1",
+   "$\\frac{1}{\\sqrt{3}}$",
+   "$-\\sqrt{3}$",
+   "1"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-048",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 48,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 23,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "The derivative of $\\sin x$ with respect to $\\log x$ is",
+  "options": [
+   "$\\cos x$",
+   "$x\\cos x$",
+   "$\\frac{\\cos x}{\\log x}$",
+   "$\\frac{\\cos x}{x}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-049",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 49,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 25,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "The minimum value of $1-\\sin x$ is",
+  "options": [
+   "0",
+   "-1",
+   "1",
+   "2"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-050",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 50,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 25,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "The function $f(x)=\\tan x-x$",
+  "options": [
+   "always increases",
+   "always decreases",
+   "never increases",
+   "neither increases nor decreases"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-051",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 51,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 25,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "The value of $\\int\\dfrac{dx}{(x+1)(x+2)}$ is",
+  "options": [
+   "$\\log\\left|\\frac{x-1}{x+2}\\right|+c$",
+   "$\\log\\left|\\frac{x-1}{x-2}\\right|+c$",
+   "$\\log\\left|\\frac{x+2}{x+1}\\right|+c$",
+   "$\\log\\left|\\frac{x+1}{x+2}\\right|+c$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-052",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 52,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 25,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "The value of $\\int_{-1}^{1}\\sin^5 x\\cos^4 x\\,dx$ is",
+  "options": [
+   "$-\\pi/2$",
+   "$\\pi$",
+   "$\\pi/2$",
+   "0"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-053",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 53,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 25,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "The value of $\\int_{0}^{2\\pi}\\sqrt{1+\\sin\\left(\\frac{x}{2}\\right)}\\,dx$ is",
+  "options": [
+   "8",
+   "4",
+   "2",
+   "0"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-054",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 54,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 27,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "$\\int\\dfrac{dx}{x^2(x^4+1)^{3/4}}$ equals",
+  "options": [
+   "$\\left(\\frac{x^4+1}{x^4}\\right)^{1/4}+c$",
+   "$(x^4+1)^{1/4}+c$",
+   "$-(x^4+1)^{1/4}+c$",
+   "$-\\left(\\frac{x^4+1}{x^4}\\right)^{1/4}+c$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-055",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 55,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 27,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "$\\int_{0}^{1}\\log\\left(\\frac{1}{x}-1\\right)dx$ is",
+  "options": [
+   "1",
+   "0",
+   "$\\log_e 2$",
+   "$\\log_e\\left(\\frac{1}{2}\\right)$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-056",
+  "subject": "mathematics",
+  "chapter": "application-of-integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 56,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 27,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "The area bounded by the curve $y=\\sin\\left(\\frac{x}{3}\\right)$, $x$ axis, the lines $x=0$ and $x=3\\pi$ is",
+  "options": [
+   "9 sq. units",
+   "$\\frac{1}{3}$ sq. units",
+   "6 sq. units",
+   "3 sq. units"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-057",
+  "subject": "mathematics",
+  "chapter": "application-of-integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 57,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 27,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "The area of the region bounded by the curve $y=x^2$ and the line $y=16$ is",
+  "options": [
+   "$\\frac{32}{3}$ sq. units",
+   "$\\frac{256}{3}$ sq. units",
+   "$\\frac{64}{3}$ sq. units",
+   "$\\frac{128}{3}$ sq. units"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-058",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 58,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 27,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "General solution of the differential equation $\\dfrac{dy}{dx}+y\\tan x=\\sec x$ is",
+  "options": [
+   "$y\\sec x=\\tan x+c$",
+   "$y\\tan x=\\sec x+c$",
+   "$\\operatorname{cosec} x=y\\tan x+c$",
+   "$x\\sec x=\\tan y+c$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-059",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 59,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 29,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If 'a' and 'b' are the order and degree respectively of the differentiable equation $\\left(\\dfrac{d^2y}{dx^2}\\right)^2+\\left(\\dfrac{dy}{dx}\\right)^3+x^4=0$, then $a-b=$ \\_\\_\\_\\_\\_\\_\\_\\_",
+  "options": [
+   "1",
+   "2",
+   "-1",
+   "0"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-mathematics-060",
+  "subject": "mathematics",
+  "chapter": "three-dimensional-geometry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 60,
+   "file": "sources/pyq/2025/mathematics/2025-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 29,
+   "key_file": "sources/pyq/2025/mathematics/2025-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "The distance of the point $P(-3, 4, 5)$ from $yz$ plane is",
+  "options": [
+   "4 units",
+   "5 units",
+   "-3 units",
+   "3 units"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

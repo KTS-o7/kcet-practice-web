@@ -1,0 +1,75 @@
+{
+  "_about": "Authoritative external sources used to adjudicate Examon's answer key independently of the solver agents. Each entry names a question id, the externally established correct answer, and where it comes from. Applied by scripts/build_bank_corpus.py --apply-external.",
+  "checked_on": "2026-11-04",
+  "entries": [
+    {
+      "id": "examon-kcet-phy-pyq25-001",
+      "correct_index": 0,
+      "correct_text": "$\\mu=\\cot\\theta$",
+      "source": "Official KCET 2025 Physics (Code D4) question paper with answer key",
+      "url": "https://media.getmyuni.com/assets/downloadables/c512d3a8-55f3-4845-8e80-7263a1980bde.pdf",
+      "note": "Official key: Q1 -> option 1 (mu = cot theta). String at O makes angle theta with the vertical: T2 sin(theta) = Mg, T1 = T2 cos(theta), f = mu Mg -> mu = cot(theta). Examon's key (tan theta) is wrong; the official KEA answer is option A.",
+      "examon_key_was_wrong": true
+    },
+    {
+      "id": "examon-kcet-che-batch02-022",
+      "correct_index": 2,
+      "correct_text": "(C2H5)2NH > (C2H5)3N > C2H5NH2 > NH3",
+      "source": "NCERT Class 12 Chemistry Part II, Unit 9 (Amines), p. 269 - basicity of alkyl amines in aqueous solution",
+      "url": "https://ncert.nic.in/textbook/pdf/lech204.pdf",
+      "note": "NCERT verbatim: '(C2H5)2NH > (C2H5)3N > C2H5NH2 > NH3 (CH3)2NH > CH3NH2 > (CH3)3N > NH3'. Examon's key used the methyl-series order for the ethyl series, which NCERT says changes. Examon's key is wrong.",
+      "examon_key_was_wrong": true
+    },
+    {
+      "id": "examon-kcet-che-hard-267",
+      "correct_index": 2,
+      "correct_text": "+3, 1 unpaired electron",
+      "source": "NCERT Class 12 Chemistry (Unit 8, coordination compounds) and the NCERT Chemistry lab manual experiment on potassium trioxalatoferrate(III)",
+      "url": "https://www.drcarman.info/qcalabbk/chap13.pdf",
+      "note": "NCERT's spectrochemical series ranks oxalate above F- and H2O, and for a d5 ion (Fe3+) the inner-orbital d2sp3 case leaves one unpaired electron. The NCERT lab manual measures ferrioxalate at about 1.73 BM, i.e. one unpaired electron. Examon's key (+3, 5) is wrong.",
+      "examon_key_was_wrong": true
+    },
+    {
+      "id": "examon-kcet-che-wave3-03-012",
+      "correct_index": 2,
+      "correct_text": "Cr",
+      "source": "NCERT Class 12 Chemistry d- and f-block table + exam convention",
+      "note": "V = 2183 K vs Cr = 2180 K, so vanadium is nominally higher, but NCERT and every coaching module credit chromium with the 3d melting-point crown and the exam answer follows that convention. Examon's key (Cr) stands.",
+      "examon_key_was_wrong": false
+    },
+    {
+      "id": "examon-kcet-che-wave3-03-029",
+      "correct_index": null,
+      "correct_text": "Be and Al",
+      "source": "NCERT Class 11 Chemistry, p-block, diagonal relationship",
+      "note": "Genuinely ambiguous: NCERT's Li-Mg diagonal relationship is the first example NCERT gives, but NCERT's Be-Al discussion also covers nitrides (Be3N2 and AlN form on heating with nitrogen). Examon's key (Li and Mg) is plausible and the solver's (Be and Al) is also defensible, so this one is left flagged for a human call rather than silently picked.",
+      "examon_key_was_wrong": null
+    }
+  ],
+  "families": [
+    {
+      "name": "meter bridge, hard batch",
+      "match": "question id matches examon-kcet-phy-hard-1(01|02|03|04|05|07|08|09|10) or examon-kcet-phy-hard-2(01|02|03|04|05|06|07|08|09|10)",
+      "rule": "Balance point measured from the end adjacent to the known resistance R, so S = R * (100 - l) / l. Confirmed against CBSE Tuts, Shaalaa and GeeksforGeeks derivations of the meter bridge balance condition, and against Examon's own core-bank items which use this same convention (they key 7.5, 2.67 and 6 ohm for the same kind of question).",
+      "examon_key_was_wrong": true
+    },
+    {
+      "name": "Nernst equation, very hard batch",
+      "match": "question topic is 'Nernst equation for a non-standard galvanic cell'",
+      "rule": "E = E0 - (0.0591/n) log Q, with Q written from the cell as written. Every item in this family keys a value computed with the sign or the reaction quotient reversed.",
+      "examon_key_was_wrong": true
+    },
+    {
+      "name": "tangent to a circle, greater positive p",
+      "match": "question topic is 'Tangent condition for a line and a circle'",
+      "rule": "|a*x0 + b*y0 - p| / sqrt(a^2+b^2) = r gives two values of p; the 'greater positive' one is the larger. Examon keys the other root or the centre value.",
+      "examon_key_was_wrong": true
+    },
+    {
+      "name": "dipole E/V ratio",
+      "match": "question topic is 'Dipole field-potential relation on axial line'",
+      "rule": "Axial short dipole: E = 2kp/r^3 and V = kp/r^2, so E/V = 2/r. Examon keys 2/r^2 or 2/r with r in the wrong unit.",
+      "examon_key_was_wrong": true
+    }
+  ]
+}

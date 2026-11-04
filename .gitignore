@@ -1,0 +1,11 @@
+work/
+*.db
+*.db-shm
+*.db-wal
+web/node_modules/
+web/dist/
+dist/
+.env
+HANDOVER.md
+.DS_Store
+.scratch/

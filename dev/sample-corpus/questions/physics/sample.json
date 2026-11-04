@@ -1,0 +1,1742 @@
+[
+ {
+  "id": "sample-phys-001",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 1,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Two point charges $q_1 = 2\\,\\mu C$ and $q_2 = -3\\,\\mu C$ are placed $r = 0.3\\,\\text{m}$ apart. The magnitude of the force between them is\n\n$$F = \\frac{1}{4\\pi\\varepsilon_0}\\frac{|q_1 q_2|}{r^2}$$",
+  "options": [
+   "$0.6\\,\\text{N}$",
+   "$0.3\\,\\text{N}$",
+   "$6\\,\\text{N}$",
+   "$0.06\\,\\text{N}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-002",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 2,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Sample question 2: a body of mass $m$ moves with velocity $v$. Its kinetic energy is",
+  "options": [
+   "$mv$",
+   "$\\frac{1}{2}mv^2$",
+   "$mv^2$",
+   "$2mv^2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-003",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 3,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "A wire of resistance $R = 12\\,\\Omega$ is bent into a circle. The effective resistance between two diametrically opposite points is",
+  "options": [
+   "$3\\,\\Omega$",
+   "$6\\,\\Omega$",
+   "$12\\,\\Omega$",
+   "$24\\,\\Omega$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-004",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 4,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Two point charges $q_1 = 2\\,\\mu C$ and $q_2 = -3\\,\\mu C$ are placed $r = 0.3\\,\\text{m}$ apart. The magnitude of the force between them is\n\n$$F = \\frac{1}{4\\pi\\varepsilon_0}\\frac{|q_1 q_2|}{r^2}$$",
+  "options": [
+   "$0.6\\,\\text{N}$",
+   "$0.3\\,\\text{N}$",
+   "$6\\,\\text{N}$",
+   "$0.06\\,\\text{N}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-005",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 5,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Sample question 5: a body of mass $m$ moves with velocity $v$. Its kinetic energy is",
+  "options": [
+   "$mv$",
+   "$\\frac{1}{2}mv^2$",
+   "$mv^2$",
+   "$2mv^2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-006",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 6,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "A wire of resistance $R = 12\\,\\Omega$ is bent into a circle. The effective resistance between two diametrically opposite points is",
+  "options": [
+   "$3\\,\\Omega$",
+   "$6\\,\\Omega$",
+   "$12\\,\\Omega$",
+   "$24\\,\\Omega$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-007",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 7,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Two point charges $q_1 = 2\\,\\mu C$ and $q_2 = -3\\,\\mu C$ are placed $r = 0.3\\,\\text{m}$ apart. The magnitude of the force between them is\n\n$$F = \\frac{1}{4\\pi\\varepsilon_0}\\frac{|q_1 q_2|}{r^2}$$",
+  "options": [
+   "$0.6\\,\\text{N}$",
+   "$0.3\\,\\text{N}$",
+   "$6\\,\\text{N}$",
+   "$0.06\\,\\text{N}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-008",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 8,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Sample question 8: a body of mass $m$ moves with velocity $v$. Its kinetic energy is",
+  "options": [
+   "$mv$",
+   "$\\frac{1}{2}mv^2$",
+   "$mv^2$",
+   "$2mv^2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-009",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 9,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "A wire of resistance $R = 12\\,\\Omega$ is bent into a circle. The effective resistance between two diametrically opposite points is",
+  "options": [
+   "$3\\,\\Omega$",
+   "$6\\,\\Omega$",
+   "$12\\,\\Omega$",
+   "$24\\,\\Omega$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-010",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 10,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Two point charges $q_1 = 2\\,\\mu C$ and $q_2 = -3\\,\\mu C$ are placed $r = 0.3\\,\\text{m}$ apart. The magnitude of the force between them is\n\n$$F = \\frac{1}{4\\pi\\varepsilon_0}\\frac{|q_1 q_2|}{r^2}$$",
+  "options": [
+   "$0.6\\,\\text{N}$",
+   "$0.3\\,\\text{N}$",
+   "$6\\,\\text{N}$",
+   "$0.06\\,\\text{N}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-011",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 11,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Sample question 11: a body of mass $m$ moves with velocity $v$. Its kinetic energy is",
+  "options": [
+   "$mv$",
+   "$\\frac{1}{2}mv^2$",
+   "$mv^2$",
+   "$2mv^2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-012",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 12,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "A wire of resistance $R = 12\\,\\Omega$ is bent into a circle. The effective resistance between two diametrically opposite points is",
+  "options": [
+   "$3\\,\\Omega$",
+   "$6\\,\\Omega$",
+   "$12\\,\\Omega$",
+   "$24\\,\\Omega$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-013",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 13,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Two point charges $q_1 = 2\\,\\mu C$ and $q_2 = -3\\,\\mu C$ are placed $r = 0.3\\,\\text{m}$ apart. The magnitude of the force between them is\n\n$$F = \\frac{1}{4\\pi\\varepsilon_0}\\frac{|q_1 q_2|}{r^2}$$",
+  "options": [
+   "$0.6\\,\\text{N}$",
+   "$0.3\\,\\text{N}$",
+   "$6\\,\\text{N}$",
+   "$0.06\\,\\text{N}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-014",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 14,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Sample question 14: a body of mass $m$ moves with velocity $v$. Its kinetic energy is",
+  "options": [
+   "$mv$",
+   "$\\frac{1}{2}mv^2$",
+   "$mv^2$",
+   "$2mv^2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-015",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 15,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "A wire of resistance $R = 12\\,\\Omega$ is bent into a circle. The effective resistance between two diametrically opposite points is",
+  "options": [
+   "$3\\,\\Omega$",
+   "$6\\,\\Omega$",
+   "$12\\,\\Omega$",
+   "$24\\,\\Omega$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-016",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 16,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Two point charges $q_1 = 2\\,\\mu C$ and $q_2 = -3\\,\\mu C$ are placed $r = 0.3\\,\\text{m}$ apart. The magnitude of the force between them is\n\n$$F = \\frac{1}{4\\pi\\varepsilon_0}\\frac{|q_1 q_2|}{r^2}$$",
+  "options": [
+   "$0.6\\,\\text{N}$",
+   "$0.3\\,\\text{N}$",
+   "$6\\,\\text{N}$",
+   "$0.06\\,\\text{N}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-017",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 17,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Sample question 17: a body of mass $m$ moves with velocity $v$. Its kinetic energy is",
+  "options": [
+   "$mv$",
+   "$\\frac{1}{2}mv^2$",
+   "$mv^2$",
+   "$2mv^2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-018",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 18,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "A wire of resistance $R = 12\\,\\Omega$ is bent into a circle. The effective resistance between two diametrically opposite points is",
+  "options": [
+   "$3\\,\\Omega$",
+   "$6\\,\\Omega$",
+   "$12\\,\\Omega$",
+   "$24\\,\\Omega$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-019",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 19,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Two point charges $q_1 = 2\\,\\mu C$ and $q_2 = -3\\,\\mu C$ are placed $r = 0.3\\,\\text{m}$ apart. The magnitude of the force between them is\n\n$$F = \\frac{1}{4\\pi\\varepsilon_0}\\frac{|q_1 q_2|}{r^2}$$",
+  "options": [
+   "$0.6\\,\\text{N}$",
+   "$0.3\\,\\text{N}$",
+   "$6\\,\\text{N}$",
+   "$0.06\\,\\text{N}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-020",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 20,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Sample question 20: a body of mass $m$ moves with velocity $v$. Its kinetic energy is",
+  "options": [
+   "$mv$",
+   "$\\frac{1}{2}mv^2$",
+   "$mv^2$",
+   "$2mv^2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-021",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 21,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "A wire of resistance $R = 12\\,\\Omega$ is bent into a circle. The effective resistance between two diametrically opposite points is",
+  "options": [
+   "$3\\,\\Omega$",
+   "$6\\,\\Omega$",
+   "$12\\,\\Omega$",
+   "$24\\,\\Omega$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-022",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 22,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Two point charges $q_1 = 2\\,\\mu C$ and $q_2 = -3\\,\\mu C$ are placed $r = 0.3\\,\\text{m}$ apart. The magnitude of the force between them is\n\n$$F = \\frac{1}{4\\pi\\varepsilon_0}\\frac{|q_1 q_2|}{r^2}$$",
+  "options": [
+   "$0.6\\,\\text{N}$",
+   "$0.3\\,\\text{N}$",
+   "$6\\,\\text{N}$",
+   "$0.06\\,\\text{N}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-023",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 23,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Sample question 23: a body of mass $m$ moves with velocity $v$. Its kinetic energy is",
+  "options": [
+   "$mv$",
+   "$\\frac{1}{2}mv^2$",
+   "$mv^2$",
+   "$2mv^2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-024",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 24,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "A wire of resistance $R = 12\\,\\Omega$ is bent into a circle. The effective resistance between two diametrically opposite points is",
+  "options": [
+   "$3\\,\\Omega$",
+   "$6\\,\\Omega$",
+   "$12\\,\\Omega$",
+   "$24\\,\\Omega$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-025",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 25,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Two point charges $q_1 = 2\\,\\mu C$ and $q_2 = -3\\,\\mu C$ are placed $r = 0.3\\,\\text{m}$ apart. The magnitude of the force between them is\n\n$$F = \\frac{1}{4\\pi\\varepsilon_0}\\frac{|q_1 q_2|}{r^2}$$",
+  "options": [
+   "$0.6\\,\\text{N}$",
+   "$0.3\\,\\text{N}$",
+   "$6\\,\\text{N}$",
+   "$0.06\\,\\text{N}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-026",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 26,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Sample question 26: a body of mass $m$ moves with velocity $v$. Its kinetic energy is",
+  "options": [
+   "$mv$",
+   "$\\frac{1}{2}mv^2$",
+   "$mv^2$",
+   "$2mv^2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-027",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 27,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "A wire of resistance $R = 12\\,\\Omega$ is bent into a circle. The effective resistance between two diametrically opposite points is",
+  "options": [
+   "$3\\,\\Omega$",
+   "$6\\,\\Omega$",
+   "$12\\,\\Omega$",
+   "$24\\,\\Omega$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-028",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 28,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Two point charges $q_1 = 2\\,\\mu C$ and $q_2 = -3\\,\\mu C$ are placed $r = 0.3\\,\\text{m}$ apart. The magnitude of the force between them is\n\n$$F = \\frac{1}{4\\pi\\varepsilon_0}\\frac{|q_1 q_2|}{r^2}$$",
+  "options": [
+   "$0.6\\,\\text{N}$",
+   "$0.3\\,\\text{N}$",
+   "$6\\,\\text{N}$",
+   "$0.06\\,\\text{N}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-029",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 29,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Sample question 29: a body of mass $m$ moves with velocity $v$. Its kinetic energy is",
+  "options": [
+   "$mv$",
+   "$\\frac{1}{2}mv^2$",
+   "$mv^2$",
+   "$2mv^2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-030",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 30,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "A wire of resistance $R = 12\\,\\Omega$ is bent into a circle. The effective resistance between two diametrically opposite points is",
+  "options": [
+   "$3\\,\\Omega$",
+   "$6\\,\\Omega$",
+   "$12\\,\\Omega$",
+   "$24\\,\\Omega$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-031",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 31,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Two point charges $q_1 = 2\\,\\mu C$ and $q_2 = -3\\,\\mu C$ are placed $r = 0.3\\,\\text{m}$ apart. The magnitude of the force between them is\n\n$$F = \\frac{1}{4\\pi\\varepsilon_0}\\frac{|q_1 q_2|}{r^2}$$",
+  "options": [
+   "$0.6\\,\\text{N}$",
+   "$0.3\\,\\text{N}$",
+   "$6\\,\\text{N}$",
+   "$0.06\\,\\text{N}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-032",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 32,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Sample question 32: a body of mass $m$ moves with velocity $v$. Its kinetic energy is",
+  "options": [
+   "$mv$",
+   "$\\frac{1}{2}mv^2$",
+   "$mv^2$",
+   "$2mv^2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-033",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 33,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "A wire of resistance $R = 12\\,\\Omega$ is bent into a circle. The effective resistance between two diametrically opposite points is",
+  "options": [
+   "$3\\,\\Omega$",
+   "$6\\,\\Omega$",
+   "$12\\,\\Omega$",
+   "$24\\,\\Omega$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-034",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 34,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Two point charges $q_1 = 2\\,\\mu C$ and $q_2 = -3\\,\\mu C$ are placed $r = 0.3\\,\\text{m}$ apart. The magnitude of the force between them is\n\n$$F = \\frac{1}{4\\pi\\varepsilon_0}\\frac{|q_1 q_2|}{r^2}$$",
+  "options": [
+   "$0.6\\,\\text{N}$",
+   "$0.3\\,\\text{N}$",
+   "$6\\,\\text{N}$",
+   "$0.06\\,\\text{N}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-035",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 35,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Sample question 35: a body of mass $m$ moves with velocity $v$. Its kinetic energy is",
+  "options": [
+   "$mv$",
+   "$\\frac{1}{2}mv^2$",
+   "$mv^2$",
+   "$2mv^2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-036",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 36,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "A wire of resistance $R = 12\\,\\Omega$ is bent into a circle. The effective resistance between two diametrically opposite points is",
+  "options": [
+   "$3\\,\\Omega$",
+   "$6\\,\\Omega$",
+   "$12\\,\\Omega$",
+   "$24\\,\\Omega$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-037",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 37,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Two point charges $q_1 = 2\\,\\mu C$ and $q_2 = -3\\,\\mu C$ are placed $r = 0.3\\,\\text{m}$ apart. The magnitude of the force between them is\n\n$$F = \\frac{1}{4\\pi\\varepsilon_0}\\frac{|q_1 q_2|}{r^2}$$",
+  "options": [
+   "$0.6\\,\\text{N}$",
+   "$0.3\\,\\text{N}$",
+   "$6\\,\\text{N}$",
+   "$0.06\\,\\text{N}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-038",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 38,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Sample question 38: a body of mass $m$ moves with velocity $v$. Its kinetic energy is",
+  "options": [
+   "$mv$",
+   "$\\frac{1}{2}mv^2$",
+   "$mv^2$",
+   "$2mv^2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-039",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 39,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "A wire of resistance $R = 12\\,\\Omega$ is bent into a circle. The effective resistance between two diametrically opposite points is",
+  "options": [
+   "$3\\,\\Omega$",
+   "$6\\,\\Omega$",
+   "$12\\,\\Omega$",
+   "$24\\,\\Omega$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-040",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 40,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Two point charges $q_1 = 2\\,\\mu C$ and $q_2 = -3\\,\\mu C$ are placed $r = 0.3\\,\\text{m}$ apart. The magnitude of the force between them is\n\n$$F = \\frac{1}{4\\pi\\varepsilon_0}\\frac{|q_1 q_2|}{r^2}$$",
+  "options": [
+   "$0.6\\,\\text{N}$",
+   "$0.3\\,\\text{N}$",
+   "$6\\,\\text{N}$",
+   "$0.06\\,\\text{N}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-041",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 41,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Sample question 41: a body of mass $m$ moves with velocity $v$. Its kinetic energy is",
+  "options": [
+   "$mv$",
+   "$\\frac{1}{2}mv^2$",
+   "$mv^2$",
+   "$2mv^2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-042",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 42,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "A wire of resistance $R = 12\\,\\Omega$ is bent into a circle. The effective resistance between two diametrically opposite points is",
+  "options": [
+   "$3\\,\\Omega$",
+   "$6\\,\\Omega$",
+   "$12\\,\\Omega$",
+   "$24\\,\\Omega$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-043",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 43,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Two point charges $q_1 = 2\\,\\mu C$ and $q_2 = -3\\,\\mu C$ are placed $r = 0.3\\,\\text{m}$ apart. The magnitude of the force between them is\n\n$$F = \\frac{1}{4\\pi\\varepsilon_0}\\frac{|q_1 q_2|}{r^2}$$",
+  "options": [
+   "$0.6\\,\\text{N}$",
+   "$0.3\\,\\text{N}$",
+   "$6\\,\\text{N}$",
+   "$0.06\\,\\text{N}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-044",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 44,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Sample question 44: a body of mass $m$ moves with velocity $v$. Its kinetic energy is",
+  "options": [
+   "$mv$",
+   "$\\frac{1}{2}mv^2$",
+   "$mv^2$",
+   "$2mv^2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-045",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 45,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "A wire of resistance $R = 12\\,\\Omega$ is bent into a circle. The effective resistance between two diametrically opposite points is",
+  "options": [
+   "$3\\,\\Omega$",
+   "$6\\,\\Omega$",
+   "$12\\,\\Omega$",
+   "$24\\,\\Omega$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-046",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 46,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Two point charges $q_1 = 2\\,\\mu C$ and $q_2 = -3\\,\\mu C$ are placed $r = 0.3\\,\\text{m}$ apart. The magnitude of the force between them is\n\n$$F = \\frac{1}{4\\pi\\varepsilon_0}\\frac{|q_1 q_2|}{r^2}$$",
+  "options": [
+   "$0.6\\,\\text{N}$",
+   "$0.3\\,\\text{N}$",
+   "$6\\,\\text{N}$",
+   "$0.06\\,\\text{N}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-047",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 47,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Sample question 47: a body of mass $m$ moves with velocity $v$. Its kinetic energy is",
+  "options": [
+   "$mv$",
+   "$\\frac{1}{2}mv^2$",
+   "$mv^2$",
+   "$2mv^2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-048",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 48,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "A wire of resistance $R = 12\\,\\Omega$ is bent into a circle. The effective resistance between two diametrically opposite points is",
+  "options": [
+   "$3\\,\\Omega$",
+   "$6\\,\\Omega$",
+   "$12\\,\\Omega$",
+   "$24\\,\\Omega$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-049",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 49,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Two point charges $q_1 = 2\\,\\mu C$ and $q_2 = -3\\,\\mu C$ are placed $r = 0.3\\,\\text{m}$ apart. The magnitude of the force between them is\n\n$$F = \\frac{1}{4\\pi\\varepsilon_0}\\frac{|q_1 q_2|}{r^2}$$",
+  "options": [
+   "$0.6\\,\\text{N}$",
+   "$0.3\\,\\text{N}$",
+   "$6\\,\\text{N}$",
+   "$0.06\\,\\text{N}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-050",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 50,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Sample question 50: a body of mass $m$ moves with velocity $v$. Its kinetic energy is",
+  "options": [
+   "$mv$",
+   "$\\frac{1}{2}mv^2$",
+   "$mv^2$",
+   "$2mv^2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-051",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 51,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "A wire of resistance $R = 12\\,\\Omega$ is bent into a circle. The effective resistance between two diametrically opposite points is",
+  "options": [
+   "$3\\,\\Omega$",
+   "$6\\,\\Omega$",
+   "$12\\,\\Omega$",
+   "$24\\,\\Omega$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-052",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 52,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Two point charges $q_1 = 2\\,\\mu C$ and $q_2 = -3\\,\\mu C$ are placed $r = 0.3\\,\\text{m}$ apart. The magnitude of the force between them is\n\n$$F = \\frac{1}{4\\pi\\varepsilon_0}\\frac{|q_1 q_2|}{r^2}$$",
+  "options": [
+   "$0.6\\,\\text{N}$",
+   "$0.3\\,\\text{N}$",
+   "$6\\,\\text{N}$",
+   "$0.06\\,\\text{N}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-053",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 53,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Sample question 53: a body of mass $m$ moves with velocity $v$. Its kinetic energy is",
+  "options": [
+   "$mv$",
+   "$\\frac{1}{2}mv^2$",
+   "$mv^2$",
+   "$2mv^2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-054",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 54,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "A wire of resistance $R = 12\\,\\Omega$ is bent into a circle. The effective resistance between two diametrically opposite points is",
+  "options": [
+   "$3\\,\\Omega$",
+   "$6\\,\\Omega$",
+   "$12\\,\\Omega$",
+   "$24\\,\\Omega$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-055",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 55,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Two point charges $q_1 = 2\\,\\mu C$ and $q_2 = -3\\,\\mu C$ are placed $r = 0.3\\,\\text{m}$ apart. The magnitude of the force between them is\n\n$$F = \\frac{1}{4\\pi\\varepsilon_0}\\frac{|q_1 q_2|}{r^2}$$",
+  "options": [
+   "$0.6\\,\\text{N}$",
+   "$0.3\\,\\text{N}$",
+   "$6\\,\\text{N}$",
+   "$0.06\\,\\text{N}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-056",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 56,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Sample question 56: a body of mass $m$ moves with velocity $v$. Its kinetic energy is",
+  "options": [
+   "$mv$",
+   "$\\frac{1}{2}mv^2$",
+   "$mv^2$",
+   "$2mv^2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-057",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 57,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "A wire of resistance $R = 12\\,\\Omega$ is bent into a circle. The effective resistance between two diametrically opposite points is",
+  "options": [
+   "$3\\,\\Omega$",
+   "$6\\,\\Omega$",
+   "$12\\,\\Omega$",
+   "$24\\,\\Omega$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-058",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 58,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Two point charges $q_1 = 2\\,\\mu C$ and $q_2 = -3\\,\\mu C$ are placed $r = 0.3\\,\\text{m}$ apart. The magnitude of the force between them is\n\n$$F = \\frac{1}{4\\pi\\varepsilon_0}\\frac{|q_1 q_2|}{r^2}$$",
+  "options": [
+   "$0.6\\,\\text{N}$",
+   "$0.3\\,\\text{N}$",
+   "$6\\,\\text{N}$",
+   "$0.06\\,\\text{N}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-059",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 59,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "Sample question 59: a body of mass $m$ moves with velocity $v$. Its kinetic energy is",
+  "options": [
+   "$mv$",
+   "$\\frac{1}{2}mv^2$",
+   "$mv^2$",
+   "$2mv^2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-phys-060",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2099 (sample)",
+   "year": 2099,
+   "version": "A1",
+   "number": 60,
+   "file": "",
+   "page": 1,
+   "key_file": ""
+  },
+  "stem": "A wire of resistance $R = 12\\,\\Omega$ is bent into a circle. The effective resistance between two diametrically opposite points is",
+  "options": [
+   "$3\\,\\Omega$",
+   "$6\\,\\Omega$",
+   "$12\\,\\Omega$",
+   "$24\\,\\Omega$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ }
+]

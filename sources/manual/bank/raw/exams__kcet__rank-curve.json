@@ -1,0 +1,37 @@
+{
+  "source": "KCET 2025 engineering marks-vs-rank analysis (synthesised from CollegeDekho, Shiksha, Careers360)",
+  "sourceUrl": "https://www.collegedekho.com/news/expected-rank-for-100-marks-in-kcet-2025-64935/",
+  "year": 2025,
+  "notes": "Based on published KCET 2025 engineering rank analyses across ~3.12 lakh candidates. Anchors: 100 marks → ~10k–20k rank; 90 → ~35k; 140 → ~1.5k; 150 → ~300; 180 → rank 1. KCET's OFFICIAL rank uses a 50/50 composite of normalised KCET marks and 12th PCM board marks — enter both above for the composite percentile. The 'score only' curve below assumes average board performance.",
+  "inputs": [
+    { "key": "score", "label": "KCET score", "placeholder": "out of 180", "min": 0, "max": 180, "primary": true },
+    { "key": "board", "label": "12th PCM aggregate", "placeholder": "% out of 100", "min": 0, "max": 100, "optional": true, "suffix": "%" }
+  ],
+  "composite": {
+    "formula": "weighted-percent-average",
+    "weights": { "score": 0.5, "board": 0.5 },
+    "scoreMax": 180,
+    "boardMax": 100,
+    "label": "KCET composite (50% KCET · 50% board)"
+  },
+  "totalCandidates": 312000,
+  "curve": [
+    { "marks": 0,   "percentile": 0 },
+    { "marks": 30,  "percentile": 40 },
+    { "marks": 40,  "percentile": 53 },
+    { "marks": 50,  "percentile": 66 },
+    { "marks": 60,  "percentile": 75 },
+    { "marks": 70,  "percentile": 82.8 },
+    { "marks": 80,  "percentile": 85.9 },
+    { "marks": 90,  "percentile": 89.1 },
+    { "marks": 100, "percentile": 95.3 },
+    { "marks": 110, "percentile": 96.9 },
+    { "marks": 120, "percentile": 97.8 },
+    { "marks": 130, "percentile": 98.9 },
+    { "marks": 140, "percentile": 99.53 },
+    { "marks": 150, "percentile": 99.906 },
+    { "marks": 160, "percentile": 99.975 },
+    { "marks": 170, "percentile": 99.997 },
+    { "marks": 180, "percentile": 99.9997 }
+  ]
+}

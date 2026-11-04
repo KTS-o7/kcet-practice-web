@@ -1,0 +1,618 @@
+[
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/physics/ncert-exemplar-12/leep101.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/physics/leep101.pdf",
+    "fetched_at": "2026-11-04T17:17:19Z",
+    "sha256": "561a56b8c0d354f2e3c7161b86939bdb832d9179935d35e68e8b2c493d9cd074",
+    "bytes": 192273,
+    "pages": 9,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems Physics Class XII",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Class XII Ch 1: Electric Charges and Fields"
+    ],
+    "approx_questions": 15,
+    "has_answer_key": true,
+    "has_solutions": false,
+    "text_layer": true,
+    "notes": "Questions only (MCQ I/II/III and others). Answers are in companion ncert-exemplar-12/leep117.pdf. approx_questions = count of answer entries for this chapter, not verified by hand."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/physics/ncert-exemplar-12/leep102.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/physics/leep102.pdf",
+    "fetched_at": "2026-11-04T17:17:19Z",
+    "sha256": "3c90e27357e297f42bde4f0a852f8c728834784b13133d4ad28991413352692e",
+    "bytes": 146105,
+    "pages": 6,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems Physics Class XII",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Class XII Ch 2: Electrostatic Potential and Capacitance"
+    ],
+    "approx_questions": 13,
+    "has_answer_key": true,
+    "has_solutions": false,
+    "text_layer": true,
+    "notes": "Questions only (MCQ I/II/III and others). Answers are in companion ncert-exemplar-12/leep117.pdf. approx_questions = count of answer entries for this chapter, not verified by hand."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/physics/ncert-exemplar-12/leep103.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/physics/leep103.pdf",
+    "fetched_at": "2026-11-04T17:17:19Z",
+    "sha256": "35836007e0bc0f3ee8b6571199c686058f2208efc0f4b5d8d673184a5465bdbb",
+    "bytes": 140710,
+    "pages": 6,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems Physics Class XII",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Class XII Ch 3: Current Electricity"
+    ],
+    "approx_questions": 12,
+    "has_answer_key": true,
+    "has_solutions": false,
+    "text_layer": true,
+    "notes": "Questions only (MCQ I/II/III and others). Answers are in companion ncert-exemplar-12/leep117.pdf. approx_questions = count of answer entries for this chapter, not verified by hand."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/physics/ncert-exemplar-12/leep104.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/physics/leep104.pdf",
+    "fetched_at": "2026-11-04T17:17:19Z",
+    "sha256": "56577b422bfe1f54da621880e7d4ac65065917ef604d0ec61f54c71e450e0793",
+    "bytes": 139033,
+    "pages": 6,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems Physics Class XII",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Class XII Ch 4: Moving Charges and Magnetism"
+    ],
+    "approx_questions": 13,
+    "has_answer_key": true,
+    "has_solutions": false,
+    "text_layer": true,
+    "notes": "Questions only (MCQ I/II/III and others). Answers are in companion ncert-exemplar-12/leep117.pdf. approx_questions = count of answer entries for this chapter, not verified by hand."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/physics/ncert-exemplar-12/leep105.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/physics/leep105.pdf",
+    "fetched_at": "2026-11-04T17:17:19Z",
+    "sha256": "e058ee98ee5cc229d79af6d5a208a792c5b8b3dfc5cc76096febb777d2923e12",
+    "bytes": 122462,
+    "pages": 5,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems Physics Class XII",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Class XII Ch 5: Magnetism and Matter"
+    ],
+    "approx_questions": 10,
+    "has_answer_key": true,
+    "has_solutions": false,
+    "text_layer": true,
+    "notes": "Questions only (MCQ I/II/III and others). Answers are in companion ncert-exemplar-12/leep117.pdf. approx_questions = count of answer entries for this chapter, not verified by hand."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/physics/ncert-exemplar-12/leep106.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/physics/leep106.pdf",
+    "fetched_at": "2026-11-04T17:17:19Z",
+    "sha256": "ec6e9d4851f79dabbfac38c08372834901961b569148fd6ee162d5dcc796fbcc",
+    "bytes": 152106,
+    "pages": 7,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems Physics Class XII",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Class XII Ch 6: Electromagnetic Induction"
+    ],
+    "approx_questions": 10,
+    "has_answer_key": true,
+    "has_solutions": false,
+    "text_layer": true,
+    "notes": "Questions only (MCQ I/II/III and others). Answers are in companion ncert-exemplar-12/leep117.pdf. approx_questions = count of answer entries for this chapter, not verified by hand."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/physics/ncert-exemplar-12/leep107.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/physics/leep107.pdf",
+    "fetched_at": "2026-11-04T17:17:19Z",
+    "sha256": "2915c5a731908012817cc11a77ca7179bad6482b9a90cf5dd138322b16f4ebf9",
+    "bytes": 134313,
+    "pages": 7,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems Physics Class XII",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Class XII Ch 7: Alternating Current"
+    ],
+    "approx_questions": 15,
+    "has_answer_key": true,
+    "has_solutions": false,
+    "text_layer": true,
+    "notes": "Questions only (MCQ I/II/III and others). Answers are in companion ncert-exemplar-12/leep117.pdf. approx_questions = count of answer entries for this chapter, not verified by hand."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/physics/ncert-exemplar-12/leep108.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/physics/leep108.pdf",
+    "fetched_at": "2026-11-04T17:17:19Z",
+    "sha256": "9e967a419a0d46b82256938fd5ed93866be0db1bf86089fa944dcfc8cf5a2b70",
+    "bytes": 141739,
+    "pages": 7,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems Physics Class XII",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Class XII Ch 8: Electromagnetic Waves"
+    ],
+    "approx_questions": 15,
+    "has_answer_key": true,
+    "has_solutions": false,
+    "text_layer": true,
+    "notes": "Questions only (MCQ I/II/III and others). Answers are in companion ncert-exemplar-12/leep117.pdf. approx_questions = count of answer entries for this chapter, not verified by hand."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/physics/ncert-exemplar-12/leep109.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/physics/leep109.pdf",
+    "fetched_at": "2026-11-04T17:17:19Z",
+    "sha256": "74353fa95afb77c38d8cba8470f432782ac6db63eba80a9f2afd52b2dfafc4bf",
+    "bytes": 142709,
+    "pages": 8,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems Physics Class XII",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Class XII Ch 9: Ray Optics and Optical Instruments"
+    ],
+    "approx_questions": 16,
+    "has_answer_key": true,
+    "has_solutions": false,
+    "text_layer": true,
+    "notes": "Questions only (MCQ I/II/III and others). Answers are in companion ncert-exemplar-12/leep117.pdf. approx_questions = count of answer entries for this chapter, not verified by hand."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/physics/ncert-exemplar-12/leep110.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/physics/leep110.pdf",
+    "fetched_at": "2026-11-04T17:17:19Z",
+    "sha256": "544ef93a921d6d0ea650112ddb993d21dbefe2c66d793a26839fa035f1d3ce2a",
+    "bytes": 130231,
+    "pages": 6,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems Physics Class XII",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Class XII Ch 10: Wave Optics"
+    ],
+    "approx_questions": 9,
+    "has_answer_key": true,
+    "has_solutions": false,
+    "text_layer": true,
+    "notes": "Questions only (MCQ I/II/III and others). Answers are in companion ncert-exemplar-12/leep117.pdf. approx_questions = count of answer entries for this chapter, not verified by hand."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/physics/ncert-exemplar-12/leep111.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/physics/leep111.pdf",
+    "fetched_at": "2026-11-04T17:17:19Z",
+    "sha256": "d1b1f9e6d97878d7097abcec6048c2bd286eeb187132b09fc846b7207e42f3b3",
+    "bytes": 135015,
+    "pages": 7,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems Physics Class XII",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Class XII Ch 11: Dual Nature of Radiation and Matter"
+    ],
+    "approx_questions": 13,
+    "has_answer_key": true,
+    "has_solutions": false,
+    "text_layer": true,
+    "notes": "Questions only (MCQ I/II/III and others). Answers are in companion ncert-exemplar-12/leep117.pdf. approx_questions = count of answer entries for this chapter, not verified by hand."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/physics/ncert-exemplar-12/leep112.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/physics/leep112.pdf",
+    "fetched_at": "2026-11-04T17:17:19Z",
+    "sha256": "13f913803cd7a900e60e895c7daaac96475aeca57779a1d54b671a16995b4fef",
+    "bytes": 122778,
+    "pages": 6,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems Physics Class XII",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Class XII Ch 12: Atoms"
+    ],
+    "approx_questions": 13,
+    "has_answer_key": true,
+    "has_solutions": false,
+    "text_layer": true,
+    "notes": "Questions only (MCQ I/II/III and others). Answers are in companion ncert-exemplar-12/leep117.pdf. approx_questions = count of answer entries for this chapter, not verified by hand."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/physics/ncert-exemplar-12/leep113.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/physics/leep113.pdf",
+    "fetched_at": "2026-11-04T17:17:19Z",
+    "sha256": "6c7ac8e71eb4ec483b1e5e1a47da84749bf5f80cdcfeaadddc6d4b821168946f",
+    "bytes": 125249,
+    "pages": 6,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems Physics Class XII",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Class XII Ch 13: Nuclei"
+    ],
+    "approx_questions": 11,
+    "has_answer_key": true,
+    "has_solutions": false,
+    "text_layer": true,
+    "notes": "Questions only (MCQ I/II/III and others). Answers are in companion ncert-exemplar-12/leep117.pdf. approx_questions = count of answer entries for this chapter, not verified by hand."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/physics/ncert-exemplar-12/leep114.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/physics/leep114.pdf",
+    "fetched_at": "2026-11-04T17:17:19Z",
+    "sha256": "a50f9dd2778dd270b34d0391a2dcf413a6ad17ceb8cdd16091f049aaa58b9222",
+    "bytes": 162483,
+    "pages": 11,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems Physics Class XII",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Class XII Ch 14: Semiconductor Electronics"
+    ],
+    "approx_questions": 16,
+    "has_answer_key": true,
+    "has_solutions": false,
+    "text_layer": true,
+    "notes": "Questions only (MCQ I/II/III and others). Answers are in companion ncert-exemplar-12/leep117.pdf. approx_questions = count of answer entries for this chapter, not verified by hand."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/physics/ncert-exemplar-12/leep115.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/physics/leep115.pdf",
+    "fetched_at": "2026-11-04T17:17:19Z",
+    "sha256": "f7f0e97fbd74219999d81b1f0c0c17e3799f526809dcbe786afa163fc26dccfc",
+    "bytes": 132584,
+    "pages": 8,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems Physics Class XII",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Class XII Ch 15: Communication Systems"
+    ],
+    "approx_questions": 15,
+    "has_answer_key": true,
+    "has_solutions": false,
+    "text_layer": true,
+    "notes": "Questions only (MCQ I/II/III and others). Answers are in companion ncert-exemplar-12/leep117.pdf. approx_questions = count of answer entries for this chapter, not verified by hand."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/physics/ncert-exemplar-12/leep117.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXII/physics/leep117.pdf",
+    "fetched_at": "2026-11-04T17:17:19Z",
+    "sha256": "5d001571f8cafd1a061214d502338f0154c52e2776fbf8f7919afc14f42e6d72",
+    "bytes": 735946,
+    "pages": 92,
+    "kind": "answer_key",
+    "source": "NCERT Exemplar Problems Physics Class XII",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Class XII Ch 1: Electric Charges and Fields",
+      "Class XII Ch 2: Electrostatic Potential and Capacitance",
+      "Class XII Ch 3: Current Electricity",
+      "Class XII Ch 4: Moving Charges and Magnetism",
+      "Class XII Ch 5: Magnetism and Matter",
+      "Class XII Ch 6: Electromagnetic Induction",
+      "Class XII Ch 7: Alternating Current",
+      "Class XII Ch 8: Electromagnetic Waves",
+      "Class XII Ch 9: Ray Optics and Optical Instruments",
+      "Class XII Ch 10: Wave Optics",
+      "Class XII Ch 11: Dual Nature of Radiation and Matter",
+      "Class XII Ch 12: Atoms",
+      "Class XII Ch 13: Nuclei",
+      "Class XII Ch 14: Semiconductor Electronics",
+      "Class XII Ch 15: Communication Systems"
+    ],
+    "approx_questions": 200,
+    "has_answer_key": true,
+    "has_solutions": false,
+    "text_layer": true,
+    "notes": "Answer key only (option letter per question number, e.g. 1.1 (a)). No worked solutions. Companion to leep101-leep115. approx_questions = count of answer entries matching the numbered (a)-(d) pattern."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/physics/ncert-exemplar-11/keep302.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/physics/keep302.pdf",
+    "fetched_at": "2026-11-04T17:17:19Z",
+    "sha256": "92403de3957b975d2d019255a26ec6f915080269b317a3ae776edfa94f9c226f",
+    "bytes": 1151362,
+    "pages": 8,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems Physics Class XI",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Class XI Ch 2: Units and Measurement"
+    ],
+    "approx_questions": 23,
+    "has_answer_key": true,
+    "has_solutions": false,
+    "text_layer": true,
+    "notes": "Questions only. Answers are in companion ncert-exemplar-11/keep316.pdf. approx_questions = count of answer entries for this chapter, not verified by hand."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/physics/ncert-exemplar-11/keep303.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/physics/keep303.pdf",
+    "fetched_at": "2026-11-04T17:17:19Z",
+    "sha256": "5814f8471cc9e047cf95dda76f9d750e00f7ffe4d17370b2e7708f9637b054c9",
+    "bytes": 1032885,
+    "pages": 6,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems Physics Class XI",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Class XI Ch 3: Motion in a Straight Line"
+    ],
+    "approx_questions": 15,
+    "has_answer_key": true,
+    "has_solutions": false,
+    "text_layer": true,
+    "notes": "Questions only. Answers are in companion ncert-exemplar-11/keep316.pdf. approx_questions = count of answer entries for this chapter, not verified by hand."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/physics/ncert-exemplar-11/keep304.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/physics/keep304.pdf",
+    "fetched_at": "2026-11-04T17:17:19Z",
+    "sha256": "8752d0000d712e1f605f733d572c63d98f743d052986d06a7e5e03734bd83d35",
+    "bytes": 3331634,
+    "pages": 10,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems Physics Class XI",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Class XI Ch 4: Motion in a Plane"
+    ],
+    "approx_questions": 22,
+    "has_answer_key": true,
+    "has_solutions": false,
+    "text_layer": true,
+    "notes": "Questions only. Answers are in companion ncert-exemplar-11/keep316.pdf. approx_questions = count of answer entries for this chapter, not verified by hand."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/physics/ncert-exemplar-11/keep305.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/physics/keep305.pdf",
+    "fetched_at": "2026-11-04T17:17:19Z",
+    "sha256": "61ebeb99639c0662a6819157981dc8a52d2297d627fa457dede3fb884a3fe974",
+    "bytes": 1263687,
+    "pages": 9,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems Physics Class XI",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Class XI Ch 5: Laws of Motion"
+    ],
+    "approx_questions": 19,
+    "has_answer_key": true,
+    "has_solutions": false,
+    "text_layer": true,
+    "notes": "Questions only. Answers are in companion ncert-exemplar-11/keep316.pdf. approx_questions = count of answer entries for this chapter, not verified by hand."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/physics/ncert-exemplar-11/keep306.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/physics/keep306.pdf",
+    "fetched_at": "2026-11-04T17:17:19Z",
+    "sha256": "6d98486da615217fead2fc651f696d9eb54f1b8d8cd47458f1660f4d3aa2e9b9",
+    "bytes": 1451345,
+    "pages": 12,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems Physics Class XI",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Class XI Ch 6: Work, Energy and Power"
+    ],
+    "approx_questions": 30,
+    "has_answer_key": true,
+    "has_solutions": false,
+    "text_layer": true,
+    "notes": "Questions only. Answers are in companion ncert-exemplar-11/keep316.pdf. approx_questions = count of answer entries for this chapter, not verified by hand."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/physics/ncert-exemplar-11/keep307.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/physics/keep307.pdf",
+    "fetched_at": "2026-11-04T17:17:19Z",
+    "sha256": "d80d6ef3e4cba482a1ea125176fd06b4f01f247dd364c72620523703dac09168",
+    "bytes": 1118695,
+    "pages": 7,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems Physics Class XI",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Class XI Ch 7: System of Particles and Rotational Motion"
+    ],
+    "approx_questions": 15,
+    "has_answer_key": true,
+    "has_solutions": false,
+    "text_layer": true,
+    "notes": "Questions only. Answers are in companion ncert-exemplar-11/keep316.pdf. approx_questions = count of answer entries for this chapter, not verified by hand."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/physics/ncert-exemplar-11/keep308.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/physics/keep308.pdf",
+    "fetched_at": "2026-11-04T17:17:19Z",
+    "sha256": "974fd85397cbaf1913caa94f53a7f9ed8a6b8c46384c9cbd58b759005dc57116",
+    "bytes": 1165756,
+    "pages": 8,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems Physics Class XI",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Class XI Ch 8: Gravitation"
+    ],
+    "approx_questions": 18,
+    "has_answer_key": true,
+    "has_solutions": false,
+    "text_layer": true,
+    "notes": "Questions only. Answers are in companion ncert-exemplar-11/keep316.pdf. approx_questions = count of answer entries for this chapter, not verified by hand."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/physics/ncert-exemplar-11/keep309.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/physics/keep309.pdf",
+    "fetched_at": "2026-11-04T17:17:19Z",
+    "sha256": "3a5e6c63a348cbf758c3e0200a2e4496625a39c2b522b600cf046729313099ca",
+    "bytes": 1127759,
+    "pages": 7,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems Physics Class XI",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Class XI Ch 9: Mechanical Properties of Solids"
+    ],
+    "approx_questions": 15,
+    "has_answer_key": true,
+    "has_solutions": false,
+    "text_layer": true,
+    "notes": "Questions only. Answers are in companion ncert-exemplar-11/keep316.pdf. approx_questions = count of answer entries for this chapter, not verified by hand."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/physics/ncert-exemplar-11/keep310.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/physics/keep310.pdf",
+    "fetched_at": "2026-11-04T17:17:19Z",
+    "sha256": "c92231ddd36020543ba203ce4ed9a5cd8626f600e95b5156a89c3ce004c2047d",
+    "bytes": 962811,
+    "pages": 5,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems Physics Class XI",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Class XI Ch 10: Mechanical Properties of Fluids"
+    ],
+    "approx_questions": 12,
+    "has_answer_key": true,
+    "has_solutions": false,
+    "text_layer": true,
+    "notes": "Questions only. Answers are in companion ncert-exemplar-11/keep316.pdf. approx_questions = count of answer entries for this chapter, not verified by hand."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/physics/ncert-exemplar-11/keep311.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/physics/keep311.pdf",
+    "fetched_at": "2026-11-04T17:17:19Z",
+    "sha256": "5bd126acea6821040594822b80f6b9d0f1c9a01fa30f40cb9263fa5abcc16f56",
+    "bytes": 1042688,
+    "pages": 6,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems Physics Class XI",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Class XI Ch 11: Thermal Properties of Matter"
+    ],
+    "approx_questions": 12,
+    "has_answer_key": true,
+    "has_solutions": false,
+    "text_layer": true,
+    "notes": "Questions only. Answers are in companion ncert-exemplar-11/keep316.pdf. approx_questions = count of answer entries for this chapter, not verified by hand."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/physics/ncert-exemplar-11/keep312.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/physics/keep312.pdf",
+    "fetched_at": "2026-11-04T17:17:19Z",
+    "sha256": "1fd355b5cbfdedd689a22b5fe761b680c41ea20ab012154fc0e9bec15fb47e6b",
+    "bytes": 1121646,
+    "pages": 7,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems Physics Class XI",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Class XI Ch 12: Thermodynamics"
+    ],
+    "approx_questions": 14,
+    "has_answer_key": true,
+    "has_solutions": false,
+    "text_layer": true,
+    "notes": "Questions only. Answers are in companion ncert-exemplar-11/keep316.pdf. approx_questions = count of answer entries for this chapter, not verified by hand."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/physics/ncert-exemplar-11/keep313.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/physics/keep313.pdf",
+    "fetched_at": "2026-11-04T17:17:19Z",
+    "sha256": "bead76ae95fd7ef09f03b76c57a3902ecab3b8198f24a10b17c1632a7362d78a",
+    "bytes": 1104896,
+    "pages": 7,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems Physics Class XI",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Class XI Ch 13: Kinetic Theory"
+    ],
+    "approx_questions": 13,
+    "has_answer_key": true,
+    "has_solutions": false,
+    "text_layer": true,
+    "notes": "Questions only. Answers are in companion ncert-exemplar-11/keep316.pdf. approx_questions = count of answer entries for this chapter, not verified by hand."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/physics/ncert-exemplar-11/keep314.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/physics/keep314.pdf",
+    "fetched_at": "2026-11-04T17:17:19Z",
+    "sha256": "1656dc85f2f1e7a5485d416341612a797c944414b20d16739b58fce37388e148",
+    "bytes": 1194305,
+    "pages": 8,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems Physics Class XI",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Class XI Ch 14: Oscillations"
+    ],
+    "approx_questions": 21,
+    "has_answer_key": true,
+    "has_solutions": false,
+    "text_layer": true,
+    "notes": "Questions only. Answers are in companion ncert-exemplar-11/keep316.pdf. approx_questions = count of answer entries for this chapter, not verified by hand."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/physics/ncert-exemplar-11/keep315.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/physics/keep315.pdf",
+    "fetched_at": "2026-11-04T17:17:19Z",
+    "sha256": "bc69a86ae7a64dc2f3cad6710f09e35e8c301d16ec1e9efe2560779db3e13777",
+    "bytes": 1175092,
+    "pages": 8,
+    "kind": "question_bank",
+    "source": "NCERT Exemplar Problems Physics Class XI",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Class XI Ch 15: Waves"
+    ],
+    "approx_questions": 22,
+    "has_answer_key": true,
+    "has_solutions": false,
+    "text_layer": true,
+    "notes": "Questions only. Answers are in companion ncert-exemplar-11/keep316.pdf. approx_questions = count of answer entries for this chapter, not verified by hand."
+  },
+  {
+    "path": "/Users/kts/Documents/side-projects/kcet-practice-web/sources/third-party/physics/ncert-exemplar-11/keep316.pdf",
+    "url": "https://ncert.nic.in/pdf/publication/exemplarproblem/classXI/physics/keep316.pdf",
+    "fetched_at": "2026-11-04T17:17:19Z",
+    "sha256": "aeb6a3b2d170e84362941a119fe255a44c373540295ceb4e26141b33d1c3ccb7",
+    "bytes": 5358496,
+    "pages": 68,
+    "kind": "answer_key",
+    "source": "NCERT Exemplar Problems Physics Class XI",
+    "exam_style": "NCERT",
+    "chapters": [
+      "Class XI Ch 2: Units and Measurement",
+      "Class XI Ch 3: Motion in a Straight Line",
+      "Class XI Ch 4: Motion in a Plane",
+      "Class XI Ch 5: Laws of Motion",
+      "Class XI Ch 6: Work, Energy and Power",
+      "Class XI Ch 7: System of Particles and Rotational Motion",
+      "Class XI Ch 8: Gravitation",
+      "Class XI Ch 9: Mechanical Properties of Solids",
+      "Class XI Ch 10: Mechanical Properties of Fluids",
+      "Class XI Ch 11: Thermal Properties of Matter",
+      "Class XI Ch 12: Thermodynamics",
+      "Class XI Ch 13: Kinetic Theory",
+      "Class XI Ch 14: Oscillations",
+      "Class XI Ch 15: Waves"
+    ],
+    "approx_questions": 251,
+    "has_answer_key": true,
+    "has_solutions": false,
+    "text_layer": true,
+    "notes": "Answer key only (option letter per question number). Covers Ch 2-15; Ch 1 (Introduction) has no question set in exemplar. No worked solutions. approx_questions = count of answer entries matching the numbered (a)-(d) pattern."
+  }
+]

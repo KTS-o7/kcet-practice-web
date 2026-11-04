@@ -1,0 +1,51 @@
+{
+  "source": "KCET 2024 Round 1 engineering cutoffs (General Merit, Karnataka state quota)",
+  "sourceUrl": "https://cetonline.karnataka.gov.in/",
+  "year": 2024,
+  "category": "General Merit (GM)",
+  "scope": "engineering",
+  "rankBasis": "composite",
+  "notes": "Cutoffs are from KEA's published Round 1 allotment data for KCET 2024, General Merit category. Real cutoffs vary by category (2A, 3A, 3B, SC, ST), region, and round. Treat these as indicative, not guaranteed.",
+  "bands": [
+    {
+      "id": "elite-cse",
+      "tone": "elite",
+      "maxRank": 2500,
+      "name": "Elite CSE at top colleges",
+      "description": "Computer Science / AI / DS at RVCE, BMS, MSRIT, PES — the most competitive seats in Karnataka. Requires a near-top General Merit rank.",
+      "examples": ["RVCE CSE", "BMS CSE", "MSRIT CSE / AIML", "PES ECE"]
+    },
+    {
+      "id": "top-core",
+      "tone": "strong",
+      "maxRank": 7500,
+      "name": "Top core branches or tier-2 CSE",
+      "description": "ECE / Mech / Civil at the top private colleges above, plus CSE at BIT, Dayananda Sagar, and similar tier-2 colleges in Bengaluru.",
+      "examples": ["RVCE Mech", "BMS ECE", "MSRIT Civil", "BIT CSE", "DSCE CSE"]
+    },
+    {
+      "id": "competitive",
+      "tone": "good",
+      "maxRank": 25000,
+      "name": "Competitive engineering seats",
+      "description": "Core branches at tier-2 private colleges in Bengaluru, Mangalore, Mysuru. Many full private-college programs open up here.",
+      "examples": ["BIT Mech / ECE", "DSCE branches", "New Horizon CSE", "Sir MVIT CSE"]
+    },
+    {
+      "id": "general-access",
+      "tone": "moderate",
+      "maxRank": 80000,
+      "name": "General engineering access",
+      "description": "Most engineering seats at private colleges across Karnataka become accessible. Includes niche programs, affiliated colleges, and non-metro colleges.",
+      "examples": ["Private colleges statewide", "Affiliated VTU colleges"]
+    },
+    {
+      "id": "narrow",
+      "tone": "needs-work",
+      "maxRank": 999999,
+      "name": "Narrow chances via General Merit alone",
+      "description": "Consider category quota (if applicable), management or NRI quota, COMEDK, other state CETs, or a retake with more focused prep. Reservation categories (SC/ST/2A/3A/3B) have more relaxed cutoffs.",
+      "examples": []
+    }
+  ]
+}

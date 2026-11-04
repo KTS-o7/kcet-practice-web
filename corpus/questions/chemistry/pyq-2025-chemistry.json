@@ -1,0 +1,2116 @@
+[
+ {
+  "id": "pyq-2025-chemistry-001",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 1,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which of the following methods of expressing concentration are unitless?",
+  "options": [
+   "Molality and Molarity",
+   "Mole fraction and Mass percent (W/W)",
+   "Molality and Mole fraction",
+   "Mass percent (W/W) and Molality"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-002",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 2,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Select the INCORRECT statement/s from the following:\n\n(a) 22 books have infinite significant figures.\n\n(b) In the answer of calculation $2.5 \\times 1.25$ has four significant figures.\n\n(c) Zero's preceding to first non-zero digit are significant.\n\n(d) In the answer of calculation $12.11 + 18.0 + 1.012$ has three significant figures",
+  "options": [
+   "(a) and (b) only",
+   "(b), (c) and (d)",
+   "(b) and (c) only",
+   "(b) and (d) only"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-003",
+  "subject": "chemistry",
+  "chapter": "classification-of-elements-and-periodicity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 3,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Given below are the atomic masses of the elements:\n\n| Element: | Li | Na | Cl | K | Ca | Br | Sr | I | Ba |\n|---|---|---|---|---|---|---|---|---|---|\n| Atomic Mass ($\\mathrm{g\\,mol^{-1}}$): | 7 | 23 | 35.5 | 39 | 40 | 80 | 88 | 127 | 137 |\n\nWhich of the following doesn't form triad?",
+  "options": [
+   "Li, Na, K",
+   "Ba, Sr, Ca",
+   "Cl, Br, I",
+   "Cl, K, Ca"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-004",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 4,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The change in hybridisation (if any) of the 'Al' atom in the following reaction is\n\n$\\mathrm{AlCl_3 + Cl^- \\rightarrow AlCl_4^-}$",
+  "options": [
+   "$sp^3$ to $sp^2$",
+   "No change in the hybridisation state",
+   "$sp^2$ to $sp^3$",
+   "$sp^3$ to $sp^3d$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-005",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 5,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Match List-I with List-II and select the correct option:\n\n| List-I (Molecule / ion) | List-II (Bond order) |\n|---|---|\n| (a) $\\mathrm{NO}$ | (i) 1.5 |\n| (b) $\\mathrm{CO}$ | (ii) 2.0 |\n| (c) $\\mathrm{O_2^-}$ | (iii) 2.5 |\n| (d) $\\mathrm{O_2}$ | (iv) 3.0 |",
+  "options": [
+   "a – iv, b – iii, c – ii, d – i",
+   "a – iii, b – iv, c – i, d – ii",
+   "a – i, b – iv, c – iii, d – ii",
+   "a – ii, b – iii, c – iv, d – i"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-006",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 6,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The electronic configuration of X and Y are given below:\n\nX: $1s^2\\,2s^2\\,2p^6\\,3s^2\\,3p^3$\n\nY: $1s^2\\,2s^2\\,2p^6\\,3s^2\\,3p^5$\n\nWhich of the following is the correct molecular formula and type of bond formed between X and Y?",
+  "options": [
+   "$\\mathrm{X_2Y}$, covalent bond",
+   "$\\mathrm{X_3Y}$, ionic bond",
+   "$\\mathrm{X_2Y_3}$, coordinate bond",
+   "$\\mathrm{XY_3}$, covalent bond"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-007",
+  "subject": "chemistry",
+  "chapter": "redox-reactions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 7,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Match List – I with List – II\n\n| List-I (Types of redox reactions) | List-II (Examples) |\n|---|---|\n| (a) Combination reaction | (i) $\\mathrm{Cl_{2(g)} + 2Br^-_{(aq)} \\rightarrow 2Cl^-_{(aq)} + Br_{2(l)}}$ |\n| (b) Decomposition reaction | (ii) $\\mathrm{2H_2O_{2(aq)} \\rightarrow 2H_2O_{(l)} + O_{2(g)}}$ |\n| (c) Displacement reaction | (iii) $\\mathrm{CH_{4(g)} + 2O_{2(g)} \\xrightarrow{\\Delta} CO_{2(g)} + 2H_2O_{(l)}}$ |\n| (d) Disproportionation reaction | (iv) $\\mathrm{2H_2O_{(l)} \\xrightarrow{\\Delta} 2H_{2(g)} + O_{2(g)}}$ |\n\nChoose the correct answer from the options given below.",
+  "options": [
+   "a – iii, b – ii, c – i, d – iv",
+   "a – iv, b – iii, c – i, d – ii",
+   "a – ii, b – i, c – iv, d – iii",
+   "a – iii, b – iv, c – i, d – ii"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-008",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 8,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In the following pairs, the one in which both transition metal ions are colourless is",
+  "options": [
+   "$\\mathrm{Ti^{4+}, Cu^{2+}}$",
+   "$\\mathrm{Sc^{3+}, Zn^{2+}}$",
+   "$\\mathrm{V^{2+}, Ti^{3+}}$",
+   "$\\mathrm{Zn^{2+}, Mn^{2+}}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-009",
+  "subject": "chemistry",
+  "chapter": "redox-reactions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 9,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In the reaction between hydrogen sulphide and acidified permanganate solution,",
+  "options": [
+   "$\\mathrm{H_2S}$ is oxidised to S, $\\mathrm{MnO_4^-}$ is reduced to $\\mathrm{Mn^{2+}}$",
+   "$\\mathrm{H_2S}$ is reduced to S, $\\mathrm{MnO_4^-}$ is oxidised to $\\mathrm{Mn^{2+}}$",
+   "$\\mathrm{H_2S}$ is oxidised to $\\mathrm{SO_2}$, $\\mathrm{MnO_4^-}$ is reduced to $\\mathrm{MnO_2}$",
+   "$\\mathrm{H_2S}$ is reduced to $\\mathrm{SO_2}$, $\\mathrm{MnO_4^-}$ is oxidised to $\\mathrm{Mn^{2+}}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-010",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 10,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A member of the Lanthanoid series which is well known to exhibit +4 oxidation state is",
+  "options": [
+   "Cerium",
+   "Samarium",
+   "Europium",
+   "Erbium"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-011",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 11,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In which of the following pairs, both the elements do not have $(n - 1)\\,d^{10}\\,ns^2$ configuration?",
+  "options": [
+   "Ag, Cu",
+   "Cu, Zn",
+   "Zn, Cd",
+   "Cd, Hg"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-012",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 12,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A ligand which has two different donor atoms and either of the two ligates with the central metal atom/ion in the complex is called ______",
+  "options": [
+   "Ambidentate ligand",
+   "Chelate ligand",
+   "Unidentate ligand",
+   "Polydentate ligand"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-013",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 13,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which of the following statements are true about $\\mathrm{[NiCl_4]^{2-}}$?\n\n(a) The complex has tetrahedral geometry.\n\n(b) Co-ordination number of Ni is 2 and oxidation state is +4.\n\n(c) The complex is $sp^3$ hybridised.\n\n(d) It is a high spin complex.\n\n(e) The complex is paramagnetic.",
+  "options": [
+   "a, b, c and d",
+   "a, c, d and e",
+   "a, b, d and e",
+   "b, c, d and e"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-014",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 14,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which formula and its name combination is incorrect?",
+  "options": [
+   "$\\mathrm{[Pt(NH_3)_2Cl(NO_2)]}$ Diamine chloridonitrito – N – platinum(II)",
+   "$\\mathrm{K_3[Cr(C_2O_4)_3]}$, Potassium trioxalatochromate(III)",
+   "$\\mathrm{[CoCl_2(en)_2]Cl}$, Dichloridobis(ethane-1,2-diamine) cobalt(III) chloride",
+   "$\\mathrm{[Co(NH_3)_5(CO_3)]Cl}$, Pentaamine carbonylcobalt(III) chloride"
+  ],
+  "answer": 0,
+  "accepted": [
+   0,
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-015",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 15,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In the complex ion $\\mathrm{[Fe(C_2O_4)_3]^{3-}}$, the Co-ordination number of Fe is",
+  "options": [
+   "3",
+   "4",
+   "5",
+   "6"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-016",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 16,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Match List – I with List – II for the following reaction pattern\n\n$\\mathrm{Glucose \\xrightarrow{Reagent} Product \\longrightarrow Structural\\ prediction}$\n\n| List – I (Reagents) | List – II (Structural prediction) |\n|---|---|\n| (a) Acetic anhydride | (i) Glucose has an aldehyde group |\n| (b) Bromine water | (ii) Glucose has a straight chain of six carbon atoms |\n| (c) Hydroiodic acid | (iii) Glucose has five hydroxyl groups |\n| (d) Hydrogen cyanide | (iv) Glucose has a carbonyl group |\n\nChoose the correct answer from the options given below.",
+  "options": [
+   "a – iii, b – ii, c – i, d – iv",
+   "a – iv, b – iii, c – ii, d – i",
+   "a – iii, b – i, c – ii, d – iv",
+   "a – i, b – ii, c – iii, d – iv"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-017",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 17,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The correct sequence of $\\alpha$ – amino acid, hormone, vitamin, carbohydrates respectively is",
+  "options": [
+   "Aspartic acid, Insulin, Ascorbic acid, rhamnose",
+   "Thiamine, Thyroxine, Vitamin A, Glucose",
+   "Glutamine, Insulin, Aspartic acid, Fructose",
+   "Arginine, Testosterone, Glutamic acid, Maltose"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-018",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 18,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which examples of carbohydrates exhibit $\\alpha$ – link ($\\alpha$ – glycosidic link) in their structure?",
+  "options": [
+   "Glucose and Fructose",
+   "Maltose and Lactose",
+   "Amylose and Amylopectin",
+   "Cellulose and Glycogen"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-019",
+  "subject": "chemistry",
+  "chapter": "redox-reactions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 19,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In the titration of potassium permanganate ($\\mathrm{KMnO_4}$) against Ferrous ammonium sulphate (FAS) solution, dilute sulphuric acid but not nitric acid is used to maintain acidic medium, because",
+  "options": [
+   "Nitric acid is a weak acid than sulphuric acid",
+   "It is difficult to identify the end point",
+   "Nitric acid doesn't act as an indicator",
+   "Nitric acid itself is an oxidising agent"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-020",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-11",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 20,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The group reagent $\\mathrm{NH_4Cl(s)}$ and aqueous $\\mathrm{NH_3}$ will precipitate which of the following ion?",
+  "options": [
+   "$\\mathrm{Ca^{2+}}$",
+   "$\\mathrm{NH_4^+}$",
+   "$\\mathrm{Al^{3+}}$",
+   "$\\mathrm{Ba^{2+}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-021",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 21,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In the preparation of sodium fusion extract, the purpose of fusing organic compound with a piece of sodium metal is to",
+  "options": [
+   "Decrease the melting point of the compound",
+   "Convert the organic compound into vapour state",
+   "Convert the elements of the compound from covalent form to ionic form",
+   "Convert the elements of the compound from ionic form to covalent form"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-022",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 22,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The sodium fusion extract is boiled with concentrated nitric acid while testing for halogens. By doing so, it",
+  "options": [
+   "decomposes $\\mathrm{Na_2S}$ and $\\mathrm{NaCN}$, if formed",
+   "helps in precipitation of $\\mathrm{AgCl}$",
+   "increases the solubility of $\\mathrm{AgCl}$",
+   "increases the concentration of $\\mathrm{NO_3^-}$ ion"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-023",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 23,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which of the following is not an aromatic compound?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2025-chemistry-023.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-024",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 24,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The IUPAC name of the given organic compound is\n\n$\\mathrm{HC{\\equiv}C{-}CH{=}CH{-}CH{=}CH_2}$",
+  "options": [
+   "Hexa – 3, 5 – dien – 1 – yne",
+   "Hexa – 1 – yn – 3, 5 – diene",
+   "Hexa – 5 – yn – 1, 3 – diene",
+   "Hexa – 1, 3 – dien – 5 – yne"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "key_confirmed",
+   "notes": "Transcription matches; tie {1,3,5} so double bonds get lowest locants: hexa-1,3-dien-5-yne (option 4)."
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-025",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 25,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Among the following, identify the compound that is not an isomer of hexane",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2025-chemistry-025.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-026",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 26,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The organic compound (structure shown in the figure) can be classified as ______",
+  "options": [
+   "Alkyl halide",
+   "Allylic halide",
+   "Benzyl halide",
+   "Aryl halide"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2025-chemistry-026.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-027",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 27,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Chlorobenzene reacts with bromine gas in the presence of Anhyd $\\mathrm{AlBr_3}$ to yield p-Bromochlorobenzene. This reaction is classified as ______",
+  "options": [
+   "Addition reaction",
+   "Elimination reaction",
+   "Nucleophilic substitution reaction",
+   "Electrophilic substitution reaction"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-028",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 28,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The organometallic compound $\\mathrm{(CH_3)_3CMgBr}$ on reaction with $\\mathrm{D_2O}$ produces ______",
+  "options": [
+   "$\\mathrm{(CH_3)_3CD}$",
+   "$\\mathrm{(CH_3)_3COD}$",
+   "$\\mathrm{(CD_3)_3CD}$",
+   "$\\mathrm{(CD_3)_3COD}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-029",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 29,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The major product formed when 1 – Bromo – 3 – Chlorocyclobutane reacts with metallic sodium in dry ether is",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2025-chemistry-029.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-030",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 30,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Ethyl alcohol is heated with concentrated sulphuric acid at 413 K. The major product formed is",
+  "options": [
+   "$\\mathrm{CH_3COOC_2H_5}$",
+   "$\\mathrm{C_2H_5{-}O{-}C_2H_5}$",
+   "$\\mathrm{CH_3{-}O{-}C_3H_7}$",
+   "$\\mathrm{CH_2{=}CH_2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-031",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 31,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Phenol can be distinguished from propanol by using the reagent",
+  "options": [
+   "Sodium metal",
+   "Bromine water",
+   "Iron metal",
+   "Iodine in alcohol"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-032",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 32,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Match the following with their pKa values.\n\n| Acid | pKa |\n|---|---|\n| (I) Phenol | (a) 16 |\n| (II) p-Nitrophenol | (b) 0.78 |\n| (III) Ethyl alcohol | (c) 10 |\n| (IV) Picric acid | (d) 7.1 |",
+  "options": [
+   "I – b, II – a, III – d, IV – c",
+   "I – c, II – d, III – a, IV – b",
+   "I – a, II – d, III – c, IV – b",
+   "I – a, II – b, III – c, IV – d"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-033",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 33,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 19,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "$\\mathrm{(CH_3)_3C{-}OCH_3 + HI \\longrightarrow A + B}$. A and B respectively are",
+  "options": [
+   "$\\mathrm{A = CH_3OH,\\ B = (CH_3)_3C{-}OH}$",
+   "$\\mathrm{A = CH_3{-}I,\\ B = (CH_3)_3C{-}OH}$",
+   "$\\mathrm{A = CH_3OH,\\ B = (CH_3)_3C{-}I}$",
+   "$\\mathrm{A = CH_3{-}I,\\ B = (CH_3)_3C{-}I}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-034",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 34,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 19,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Oxidation of Toluene with chromyl chloride followed by hydrolysis gives Benzaldehyde. This reaction is known as ______",
+  "options": [
+   "Cannizzaro Reaction",
+   "Etard Reaction",
+   "Kolbe reaction",
+   "Stephen reaction"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-035",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 35,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 19,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Statement-I: Reduction of ester by DIBAL-H followed by hydrolysis gives aldehyde.\n\nStatement-II: Oxidation of benzyl alcohol with aqueous $\\mathrm{KMnO_4}$ leads to the formation Benzaldehyde.\n\nAmong the above statements, identify the correct statement.",
+  "options": [
+   "Both statements-I and II are true",
+   "Both statements-I and II are false",
+   "Statement-I is true but statement-II is false",
+   "Statement-I is false but statement-II is true"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-036",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 36,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 19,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Arrange the following compounds in their decreasing order of reactivity towards Nucleophilic addition reaction.\n\n$\\mathrm{CH_3COCH_3, CH_3COC_2H_5, CH_3CHO}$",
+  "options": [
+   "$\\mathrm{CH_3CHO > CH_3COC_2H_5 > CH_3COCH_3}$",
+   "$\\mathrm{CH_3CHO > CH_3COCH_3 > CH_3COC_2H_5}$",
+   "$\\mathrm{CH_3COCH_3 > CH_3CHO > CH_3COC_2H_5}$",
+   "$\\mathrm{CH_3COC_2H_5 > CH_3COCH_3 > CH_3CHO}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-037",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 37,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 21,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which of the following has most acidic Hydrogen?",
+  "options": [
+   "Chloroacetic acid",
+   "Propanoic acid",
+   "Dichloroacetic acid",
+   "Trichloroacetic acid"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-038",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 38,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 21,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which of the following reagents are suitable to differentiate Aniline and N-methylaniline chemically?",
+  "options": [
+   "Chloroform and Alcoholic potassium hydroxide",
+   "Acetic anhydride",
+   "$\\mathrm{Br_2}$ water",
+   "Conc. Hydrochloric acid and anhydrous zinc chloride"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-039",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 39,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 21,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which of the following reaction/s does not yield an amine?\n\nI. $\\mathrm{R-X + NH_3 \\xrightarrow[(alc)]{\\Delta}}$\n\nII. $\\mathrm{R-C\\equiv N \\xrightarrow[Na(Hg)/C_2H_5OH]{H_2/Ni}}$\n\nIII. $\\mathrm{R-C\\equiv N + H_2O \\xrightarrow{H^+}}$\n\nIV. $\\mathrm{R{-}C(=O){-}NH_2 + 4[H] \\xrightarrow[ii)\\;H_3O^+]{i)\\;LiAlH_4}}$",
+  "options": [
+   "Both II and IV",
+   "Both I and III",
+   "Only II",
+   "Only III"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-040",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 40,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 21,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Match the compounds given in List-I with the items given in List-II.\n\n| List-I | List-II |\n|---|---|\n| (I) Benzenesulphonyl Chloride | (a) Zwitterion |\n| (II) Sulphanilic acid | (b) Hinsberg reagent |\n| (III) Alkyl Diazonium salts | (c) Dyes |\n| (IV) Aryl Diazonium salts | (d) Conversion to alcohols |",
+  "options": [
+   "I – b, II – a, III – d, IV – c",
+   "I – c, II – b, III – a, IV – d",
+   "I – a, II – c, III – b, IV – d",
+   "I – c, II – a, III – d, IV – b"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-041",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 41,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 23,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The number of orbitals associated with 'N' shell of an atom is",
+  "options": [
+   "4",
+   "16",
+   "32",
+   "3"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-042",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 42,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 23,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "According to the Heisenberg's Uncertainty principle, the value of $\\Delta v.\\Delta x$ for an object whose mass is $10^{-6}$ kg is ($h = 6.626 \\times 10^{-34}$ Js)",
+  "options": [
+   "$5.2 \\times 10^{-29}\\,\\mathrm{m^{-2}s^{-1}}$",
+   "$3.0 \\times 10^{-24}\\,\\mathrm{m^{-2}s^{-1}}$",
+   "$4.0 \\times 10^{-26}\\,\\mathrm{m^{-2}s^{-1}}$",
+   "$3.5 \\times 10^{-25}\\,\\mathrm{m^{-2}s^{-1}}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-043",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 43,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 23,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Given below are two statements.\n\nStatement-I: Adiabatic work done is positive when work is done on the system and internal energy of the system increases\n\nStatement-II: No work is done during free expansion of an ideal gas\n\nIn the light of the above statements, choose the correct answer from the options given below.",
+  "options": [
+   "Both Statement-I and Statement-II are true",
+   "Both Statement-I and Statement-II are false",
+   "Statement-I is true but Statement-II is false",
+   "Statement-I is false but Statement-II is true"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-044",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 44,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 23,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which one of the following reactions has $\\Delta H = \\Delta U$?",
+  "options": [
+   "$\\mathrm{N_2(g) + 3H_2(g) \\rightleftharpoons 2NH_3(g)}$",
+   "$\\mathrm{CaCO_3(s) \\xrightarrow{\\Delta} CaO(s) + CO_2(g)}$",
+   "$\\mathrm{C_6H_6(l) + \\frac{15}{2}O_2(g) \\rightarrow 6CO_2(g) + 3H_2O(l)}$",
+   "$\\mathrm{2HI(g) \\rightleftharpoons H_2(g) + I_2(g)}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-045",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 45,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 25,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Identify the incorrect statements among the following:\n\n(a) All enthalpies of fusion are positive.\n\n(b) The magnitude of enthalpy change does not depend on the strength of the intermolecular interactions in the substance undergoing phase transformations.\n\n(c) When a chemical reaction is reversed, the value of $\\Delta_rH^\\circ$ is reversed in sign.\n\n(d) The change in enthalpy is dependent of path between initial state (reactants) and final state (products).\n\n(e) For most of the ionic compounds, $\\Delta_{sol}H^\\circ$ is negative.",
+  "options": [
+   "a and c only",
+   "a, b and d",
+   "b, d and e",
+   "a, d and e"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-046",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 46,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 25,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which of the following statements is/are true about equilibrium?\n\n(a) Equilibrium is possible only in a closed system at a given temperature\n\n(b) All the measurable properties of the system remain constant at equilibrium.\n\n(c) Equilibrium constant for the reverse reaction is the inverse of the equilibrium constant for the reaction in the forward direction.",
+  "options": [
+   "Only a",
+   "Only b",
+   "Only c",
+   "a, b and c"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-047",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 47,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 25,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "According to Le Chatelier's principle, in the reaction $\\mathrm{CO(g) + 3H_2(g) \\rightleftharpoons CH_4(g) + H_2O(g)}$, the formation of methane is favoured by\n\n(a) increasing the concentration of $\\mathrm{CO}$\n\n(b) increasing the concentration of $\\mathrm{H_2O}$\n\n(c) decreasing the concentration of $\\mathrm{CH_4}$\n\n(d) decreasing the concentration of $\\mathrm{H_2}$",
+  "options": [
+   "a and b",
+   "a and c",
+   "b and d",
+   "a and d"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-048",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 48,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 25,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The equilibrium constant at 298K for the reaction $\\mathrm{A + B \\rightleftharpoons C + D}$ is 100. If the initial concentrations of all the four species were 1M each, then equilibrium concentration of D (in $\\mathrm{mol\\,L^{-1}}$) will be",
+  "options": [
+   "0.818",
+   "0.182",
+   "1.818",
+   "1.182"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-049",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 49,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 27,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Among the following 0.1 m aqueous solutions, which one will exhibit the lowest boiling point elevation, assuming complete ionization of the compounds in solution?",
+  "options": [
+   "Sodium chloride",
+   "Aluminium chloride",
+   "Aluminium sulphate",
+   "Potassium sulphate"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-050",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 50,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 27,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Variation of solubility with temperature T for a gas in liquid is shown by the following graphs. The correct representation is",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2025-chemistry-050.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-051",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 51,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 27,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "$\\mathrm{180\\,g}$ of glucose, $\\mathrm{C_6H_{12}O_6}$, is dissolved in 1 kg of water in a vessel. The temperature at which water boils at 1.013 bar is ______ (given, $K_b$ for water is $0.52\\,\\mathrm{K\\,kg\\,mol^{-1}}$. Boiling point for pure water is 373.15 K)",
+  "options": [
+   "373.202 K",
+   "373.67 K",
+   "373.15 K",
+   "373.0 K"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-052",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 52,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 27,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $\\mathrm{N_2}$ gas is bubbled through water at 293 K, how many moles of $\\mathrm{N_2}$ gas would dissolve in 1 litre of water? Assume that $\\mathrm{N_2}$ exerts a partial pressure of 0.987 bar.\n\n[Given $K_H$ for $\\mathrm{N_2}$ at 293 K is 76.48 K bar]",
+  "options": [
+   "$7.16 \\times 10^{-3}$",
+   "$0.716 \\times 10^{-3}$",
+   "$7.16 \\times 10^{-5}$",
+   "$7.16 \\times 10^{-4}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1,
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-053",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 53,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 27,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The correct statement/s about Galvanic cell is/are\n\n(a) Current flows from cathode to anode\n\n(b) Anode is positive terminal\n\n(c) If $E_{cell} < 0$, then it is spontaneous reaction\n\n(d) Cathode is positive terminal",
+  "options": [
+   "b only",
+   "a and b only",
+   "a, b and c",
+   "a and d only"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-054",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 54,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 29,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The electronic conductance depends on",
+  "options": [
+   "Size of the ions",
+   "Nature of electrolyte added",
+   "The number of valence electrons per atom",
+   "Concentration of the electrolyte"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-055",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 55,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 29,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "For a given half cell, $\\mathrm{Al^{3+} + 3e^- \\rightarrow Al}$ on increasing the concentration of aluminium ion, the electrode potential will",
+  "options": [
+   "Increase",
+   "Decrease",
+   "No change",
+   "First increase then decrease"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-056",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 56,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 29,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Match the following and select the correct option for the quantity of electricity, in $\\mathrm{C\\,mol^{-1}}$, required to deposit various metals at cathode.\n\n| List-I | List-II |\n|---|---|\n| (a) $\\mathrm{Ag^+}$ | (i) $386000\\ \\mathrm{C\\,mol^{-1}}$ |\n| (b) $\\mathrm{Mg^{2+}}$ | (ii) $289500\\ \\mathrm{C\\,mol^{-1}}$ |\n| (c) $\\mathrm{Al^{3+}}$ | (iii) $96500\\ \\mathrm{C\\,mol^{-1}}$ |\n| (d) $\\mathrm{Ti^{4+}}$ | (iv) $193000\\ \\mathrm{C\\,mol^{-1}}$ |",
+  "options": [
+   "a – i, b – ii, c – iii, d – iv",
+   "a – ii, b – i, c – iv, d – iii",
+   "a – iii, b – iv, c – ii, d – i",
+   "a – iv, b – iii, c – i, d – ii"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-057",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 57,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 29,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Catalysts are used to increase the rate of a chemical reaction. Because it",
+  "options": [
+   "Increases the potential energy barrier",
+   "Increases the activation energy of the reaction",
+   "Decreases the activation energy of the reaction",
+   "Brings about improper orientation of reactant molecules"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-058",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 58,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 29,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Half-life of a first order reaction is 20 seconds and initial concentration of reactant is $0.2\\,\\mathrm{M}$. The concentration of reactant left after 80 seconds is",
+  "options": [
+   "$0.2\\,\\mathrm{M}$",
+   "$0.1\\,\\mathrm{M}$",
+   "$0.05\\,\\mathrm{M}$",
+   "$0.0125\\,\\mathrm{M}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-059",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 59,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 31,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In the given graph, $E_a$ for the reverse reaction will be",
+  "options": [
+   "$305\\,\\mathrm{KJ}$",
+   "$125\\,\\mathrm{KJ}$",
+   "$215\\,\\mathrm{KJ}$",
+   "$90\\,\\mathrm{KJ}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2025-chemistry-059.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "key_confirmed",
+   "notes": "Transcription matches; reverse Ea = 215 - 90 = 125 kJ (option 2)."
+  }
+ },
+ {
+  "id": "pyq-2025-chemistry-060",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 60,
+   "file": "sources/pyq/2025/chemistry/2025-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 31,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "For the reaction $\\mathrm{2N_2O_{5(g)} \\rightarrow 4NO_{2(g)} + O_{2(g)}}$ initial concentration of $\\mathrm{N_2O_5}$ is $2.0\\,\\mathrm{mol\\,L^{-1}}$ and after 300 min, it is reduced to $1.4\\,\\mathrm{mol\\,L^{-1}}$. The rate of production of $\\mathrm{NO_2}$ (in $\\mathrm{mol\\,L^{-1}\\,min^{-1}}$) is",
+  "options": [
+   "$4 \\times 10^{-3}$",
+   "$2.5 \\times 10^{-4}$",
+   "$4 \\times 10^{-4}$",
+   "$2.5 \\times 10^{-3}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

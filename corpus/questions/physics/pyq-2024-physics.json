@@ -1,0 +1,2131 @@
+[
+ {
+  "id": "pyq-2024-physics-001",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 1,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "An equiconvex lens of radius of curvature $14\\,\\mathrm{cm}$ is made up of two different materials. Left half and right half of vertical portion is made up of material of refractive index $1.5$ and $1.2$ respectively as shown in the figure. If a point object is placed at a distance of $40\\,\\mathrm{cm}$, calculate the image distance.",
+  "options": [
+   "$25\\,\\mathrm{cm}$",
+   "$50\\,\\mathrm{cm}$",
+   "$35\\,\\mathrm{cm}$",
+   "$40\\,\\mathrm{cm}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2024-physics-001.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-002",
+  "subject": "physics",
+  "chapter": "waves",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 2,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A galaxy is moving away from the Earth so that a spectral line at $600\\,\\mathrm{nm}$ is observed at $601\\,\\mathrm{nm}$. Then the speed of the galaxy with respect to the Earth is",
+  "options": [
+   "$500\\,\\mathrm{km\\,s^{-1}}$",
+   "$50\\,\\mathrm{km\\,s^{-1}}$",
+   "$200\\,\\mathrm{km\\,s^{-1}}$",
+   "$20\\,\\mathrm{km\\,s^{-1}}$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2024-physics-003",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 3,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Three polaroid sheets are co-axially placed as indicated in the diagram. Pass axes of polaroids 2 and 3 make $30^\\circ$ and $90^\\circ$ with pass axis of polaroid sheet 1. If $I_0$ is the intensity of the incident unpolarised light entering sheet 1, the intensity of the emergent light through sheet 3 is",
+  "options": [
+   "zero",
+   "$\\frac{3I_0}{32}$",
+   "$\\frac{3I_0}{8}$",
+   "$\\frac{3I_0}{16}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2024-physics-003.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-004",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 4,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In Young's double slit experiment, an electron beam is used to produce interference fringes of width $\\beta_1$. Now the electron beam is replaced by a beam of protons with the same experimental set-up and same speed. The fringe width obtained is $\\beta_2$. The correct relation between $\\beta_1$ and $\\beta_2$ is",
+  "options": [
+   "$\\beta_1 = \\beta_2$",
+   "No fringes are formed",
+   "$\\beta_1 < \\beta_2$",
+   "$\\beta_1 > \\beta_2$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2024-physics-005",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 5,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Light of energy E falls normally on a metal of work function $\\frac{E}{3}$. The kinetic energies (K) of the photo electrons are",
+  "options": [
+   "$K = \\frac{2E}{3}$",
+   "$K = \\frac{E}{3}$",
+   "$0 \\le K \\le \\frac{2E}{3}$",
+   "$0 \\le K \\le \\frac{E}{3}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-006",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 6,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The photoelectric work function for photo metal is $2.4\\,\\mathrm{eV}$. Among the four wavelengths, the wavelength of light for which photo-emission does not take place is",
+  "options": [
+   "$200\\,\\mathrm{nm}$",
+   "$300\\,\\mathrm{nm}$",
+   "$700\\,\\mathrm{nm}$",
+   "$400\\,\\mathrm{nm}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-007",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 7,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In alpha particle scattering experiment, if $v$ is the initial velocity of the particle, then the distance of closest approach is $d$. If the velocity is doubled, then the distance of closest approach becomes",
+  "options": [
+   "$4d$",
+   "$2d$",
+   "$\\frac{d}{2}$",
+   "$\\frac{d}{4}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-008",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 8,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The ratio of area of first excited state to ground state of orbit of hydrogen atom is",
+  "options": [
+   "1 : 16",
+   "1 : 4",
+   "4 : 1",
+   "16 : 1"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-009",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 9,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The ratio of volume of $\\mathrm{Al}^{27}$ nucleus to its surface area is (Given $R_0 = 1.2 \\times 10^{-15}\\,\\mathrm{m}$)",
+  "options": [
+   "$2.1 \\times 10^{-15}\\,\\mathrm{m}$",
+   "$1.3 \\times 10^{-15}\\,\\mathrm{m}$",
+   "$0.22 \\times 10^{-15}\\,\\mathrm{m}$",
+   "$1.2 \\times 10^{-15}\\,\\mathrm{m}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-010",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 10,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Consider the nuclear fission reaction ${}^{1}_{0}\\mathrm{n} + {}^{235}_{92}\\mathrm{U} \\rightarrow {}^{144}_{56}\\mathrm{Ba} + {}^{89}_{36}\\mathrm{Kr} + 3\\,{}^{1}_{0}\\mathrm{n}$. Assuming all the kinetic energy is carried away by the fast neutrons only and total binding energies of ${}^{235}_{92}\\mathrm{U}$, ${}^{144}_{56}\\mathrm{Ba}$ and ${}^{89}_{36}\\mathrm{Kr}$ to be $1800\\,\\mathrm{MeV}$, $1200\\,\\mathrm{MeV}$ and $780\\,\\mathrm{MeV}$ respectively, the average kinetic energy carried by each fast neutron is (in MeV)",
+  "options": [
+   "200",
+   "180",
+   "67",
+   "60"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-011",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 11,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The natural logarithm of the activity $R$ of a radioactive sample varies with time $t$ as shown. At $t = 0$, there are $N_0$ undecayed nuclei. Then $N_0$ is equal to [Take $e^2 = 7.5$]",
+  "options": [
+   "7,500",
+   "3,500",
+   "75,000",
+   "1,50,000"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [
+   "pyq-2024-physics-011.png"
+  ],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2024-physics-012",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 12,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Depletion region in an unbiased semiconductor diode is a region consisting of",
+  "options": [
+   "both free electrons and holes",
+   "neither free electrons nor holes",
+   "only free electrons",
+   "only holes"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-013",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 13,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The upper level of valence band and lower level of conduction band overlap in the case of",
+  "options": [
+   "silicon",
+   "copper",
+   "carbon",
+   "germanium"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-014",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 14,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In the diagram shown, the Zener diode has a reverse breakdown voltage of $V_Z$. The current through the load resistance $R_L$ is $I_L$. The current through the Zener diode is",
+  "options": [
+   "$\\frac{V_o - V_Z}{R_S}$",
+   "$\\frac{V_o - V_Z}{R_L}$",
+   "$\\frac{V_Z}{R_L}$",
+   "$\\left(\\frac{V_o - V_Z}{R_S}\\right) - I_L$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [
+   "pyq-2024-physics-014.png"
+  ],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2024-physics-015",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 15,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A p-n junction diode is connected to a battery of emf $5.7\\,\\mathrm{V}$ in series with a resistance $5\\,\\mathrm{k\\Omega}$ such that it is forward biased. If the barrier potential of the diode is $0.7\\,\\mathrm{V}$, neglecting the diode resistance, the current in the circuit is",
+  "options": [
+   "$1.14\\,\\mathrm{mA}$",
+   "$1\\,\\mathrm{mA}$",
+   "$1\\,\\mathrm{A}$",
+   "$1.14\\,\\mathrm{A}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-016",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 16,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A block of certain mass is placed on a rough inclined plane. The angle between the plane and the horizontal is $30^\\circ$. The coefficients of static and kinetic frictions between the block and the inclined plane are $0.6$ and $0.5$ respectively. Then the magnitude of the acceleration of the block is [Take $g = 10\\,\\mathrm{m\\,s^{-2}}$]",
+  "options": [
+   "$2\\,\\mathrm{m\\,s^{-2}}$",
+   "zero",
+   "$0.196\\,\\mathrm{m\\,s^{-2}}$",
+   "$0.67\\,\\mathrm{m\\,s^{-2}}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2024-physics-016.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-017",
+  "subject": "physics",
+  "chapter": "work-energy-and-power",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 17,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A particle of mass $500\\,\\mathrm{g}$ is at rest. It is free to move along a straight line. The power delivered to the particle varies with time according to the following graph: The momentum of the particle at $t = 5\\,\\mathrm{s}$ is",
+  "options": [
+   "$2\\sqrt{5}\\,\\mathrm{N\\,s}$",
+   "$5\\sqrt{2}\\,\\mathrm{N\\,s}$",
+   "$5\\,\\mathrm{N\\,s}$",
+   "$5.5\\,\\mathrm{N\\,s}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2024-physics-017.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-018",
+  "subject": "physics",
+  "chapter": "units-and-measurement",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 18,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Dimensional formula for activity of a radioactive substance is",
+  "options": [
+   "$M^0L^1T^{-1}$",
+   "$M^0L^{-1}T^0$",
+   "$M^0L^0T^{-1}$",
+   "$M^{-1}L^0T^0$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-019",
+  "subject": "physics",
+  "chapter": "motion-in-a-plane",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 19,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "An athlete runs along a circular track of diameter $80\\,\\mathrm{m}$. The distance travelled and the magnitude of displacement of the athlete when he covers $\\frac{3}{4}$th of the circle is (in m)",
+  "options": [
+   "$60\\pi,\\ 40\\sqrt{2}$",
+   "$40\\pi,\\ 60\\sqrt{2}$",
+   "$120\\pi,\\ 80\\sqrt{2}$",
+   "$80\\pi,\\ 120\\sqrt{2}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-020",
+  "subject": "physics",
+  "chapter": "motion-in-a-plane",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 20,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Among the given pair of vectors, the resultant of two vectors can never be 3 units. The vectors are",
+  "options": [
+   "1 unit and 2 units",
+   "2 units and 5 units",
+   "3 units and 6 units",
+   "4 units and 8 units"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-021",
+  "subject": "physics",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 21,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A ceiling fan is rotating around a fixed axle as shown. The direction of angular velocity is along ____________.",
+  "options": [
+   "$+\\hat{j}$",
+   "$-\\hat{j}$",
+   "$+\\hat{k}$",
+   "$-\\hat{k}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2024-physics-021.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-022",
+  "subject": "physics",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 22,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A body of mass $1\\,\\mathrm{kg}$ is suspended by a weightless string which passes over a frictionless pulley of mass $2\\,\\mathrm{kg}$ as shown in the figure. The mass is released from a height of $1.6\\,\\mathrm{m}$ from the ground. With what velocity does it strike the ground ?",
+  "options": [
+   "$16\\,\\mathrm{m\\,s^{-1}}$",
+   "$8\\,\\mathrm{m\\,s^{-1}}$",
+   "$4\\sqrt{2}\\,\\mathrm{m\\,s^{-1}}$",
+   "$4\\,\\mathrm{m\\,s^{-1}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2,
+   3
+  ],
+  "images": [
+   "pyq-2024-physics-022.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-023",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 23,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "What is the value of acceleration due to gravity at a height equal to half the radius of the Earth, from its surface ?",
+  "options": [
+   "$4.4\\,\\mathrm{m\\,s^{-2}}$",
+   "$6.5\\,\\mathrm{m\\,s^{-2}}$",
+   "zero",
+   "$9.8\\,\\mathrm{m\\,s^{-2}}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-024",
+  "subject": "physics",
+  "chapter": "mechanical-properties-of-solids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 24,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A thick metal wire of density $\\rho$ and length '$L$' is hung from a rigid support. The increase in length of the wire due to its own weight is ($Y$ = Young's modulus of the material of the wire)",
+  "options": [
+   "$\\frac{\\rho g L}{Y}$",
+   "$\\frac{1}{2}\\frac{\\rho g L^2}{Y}$",
+   "$\\frac{\\rho g L^2}{Y}$",
+   "$\\frac{1}{4Y}\\rho g L^2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-025",
+  "subject": "physics",
+  "chapter": "mechanical-properties-of-fluids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 25,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Water flows through a horizontal pipe of varying cross-section at a rate of $0.314\\,\\mathrm{m^3\\,s^{-1}}$. The velocity of water at a point where the radius of the pipe is $10\\,\\mathrm{cm}$ is",
+  "options": [
+   "$0.1\\,\\mathrm{m\\,s^{-1}}$",
+   "$1\\,\\mathrm{m\\,s^{-1}}$",
+   "$10\\,\\mathrm{m\\,s^{-1}}$",
+   "$100\\,\\mathrm{m\\,s^{-1}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-026",
+  "subject": "physics",
+  "chapter": "thermal-properties-of-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 26,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A solid cube of mass $m$ at a temperature $\\theta_0$ is heated at a constant rate. It becomes liquid at temperature $\\theta_1$ and vapour at temperature $\\theta_2$. Let $s_1$ and $s_2$ be specific heats in its solid and liquid states respectively. If $L_f$ and $L_v$ are latent heats of fusion and vaporisation respectively, then the minimum heat energy supplied to the cube until it vaporises is",
+  "options": [
+   "$ms_1(\\theta_1 - \\theta_0) + ms_2(\\theta_2 - \\theta_1)$",
+   "$mL_f + ms_2(\\theta_2 - \\theta_1) + mL_v$",
+   "$ms_1(\\theta_1 - \\theta_0) + mL_f + ms_2(\\theta_2 - \\theta_1) + mL_v$",
+   "$ms_1(\\theta_1 - \\theta_0) + mL_f + ms_2(\\theta_2 - \\theta_0) + mL_v$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-027",
+  "subject": "physics",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 27,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "One mole of an ideal monatomic gas is taken round the cyclic process MNOM. The work done by the gas is",
+  "options": [
+   "$4.5\\,P_0V_0$",
+   "$4\\,P_0V_0$",
+   "$9\\,P_0V_0$",
+   "$2\\,P_0V_0$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2024-physics-027.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-028",
+  "subject": "physics",
+  "chapter": "kinetic-theory",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 28,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The ratio of molar specific heats of oxygen is",
+  "options": [
+   "1.4",
+   "1.67",
+   "1.33",
+   "1.28"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-029",
+  "subject": "physics",
+  "chapter": "oscillations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 29,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "For a particle executing simple harmonic motion (SHM), at its mean position",
+  "options": [
+   "velocity is zero and acceleration is maximum",
+   "velocity is maximum and acceleration is zero",
+   "both velocity and acceleration are maximum",
+   "both velocity and acceleration are zero"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-030",
+  "subject": "physics",
+  "chapter": "waves",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 30,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A motor-cyclist moving towards a huge cliff with a speed of $18\\,\\mathrm{km\\,h^{-1}}$, blows a horn of source frequency $325\\,\\mathrm{Hz}$. If the speed of the sound in air is $330\\,\\mathrm{m\\,s^{-1}}$, the number of beats heard by him is",
+  "options": [
+   "5",
+   "4",
+   "10",
+   "7"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-031",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 31,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A body has a charge of $-3.2\\,\\mu\\mathrm{C}$. The number of excess electrons it has is",
+  "options": [
+   "$5.12 \\times 10^{25}$",
+   "$5 \\times 10^{12}$",
+   "$2 \\times 10^{13}$",
+   "$5.12 \\times 10^{13}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-032",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 32,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A point charge A of $+10\\,\\mu\\mathrm{C}$ and another point charge B of $+20\\,\\mu\\mathrm{C}$ are kept $1\\,\\mathrm{m}$ apart in free space. The electrostatic force on A due to B is $\\vec{F}_1$ and the electrostatic force on B due to A is $\\vec{F}_2$. Then",
+  "options": [
+   "$\\vec{F}_1 = -2\\vec{F}_2$",
+   "$\\vec{F}_1 = -\\vec{F}_2$",
+   "$2\\vec{F}_1 = -\\vec{F}_2$",
+   "$\\vec{F}_1 = \\vec{F}_2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-033",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 33,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A uniform electric field $E = 3 \\times 10^5\\,\\mathrm{NC^{-1}}$ is acting along the positive Y-axis. The electric flux through a rectangle of area $10\\,\\mathrm{cm} \\times 30\\,\\mathrm{cm}$ whose plane is parallel to the Z-X plane is :",
+  "options": [
+   "$12 \\times 10^3\\,\\mathrm{V\\,m}$",
+   "$9 \\times 10^3\\,\\mathrm{V\\,m}$",
+   "$15 \\times 10^3\\,\\mathrm{V\\,m}$",
+   "$18 \\times 10^3\\,\\mathrm{V\\,m}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-034",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 34,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The total electric flux through a closed spherical surface of radius '$r$' enclosing an electric dipole of dipole moment $2aq$ is (Given $\\varepsilon_0$ = permittivity of free space)",
+  "options": [
+   "zero",
+   "$\\frac{q}{\\varepsilon_0}$",
+   "$\\frac{2q}{\\varepsilon_0}$",
+   "$\\frac{8\\pi r^2 q}{\\varepsilon_0}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-035",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 35,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Under electrostatic condition of a charged conductor, which among the following statements is true ?",
+  "options": [
+   "The electric field on the surface of a charged conductor is $\\frac{\\sigma}{2\\varepsilon_0}$, where $\\sigma$ is the surface charge density.",
+   "The electric potential inside a charged conductor is always zero.",
+   "Any excess charge resides on the surface of the conductor.",
+   "The net electric field is tangential to the surface of the conductor."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-036",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 36,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A cube of side $1\\,\\mathrm{cm}$ contains $100$ molecules each having an induced dipole moment of $0.2 \\times 10^{-6}\\,\\mathrm{C\\,m}$ in an external electric field of $4\\,\\mathrm{NC^{-1}}$. The electric susceptibility of the material is ______ $\\mathrm{C^2\\,N^{-1}\\,m^{-2}}$.",
+  "options": [
+   "50",
+   "5",
+   "0.5",
+   "0.05"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-037",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 37,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A capacitor of capacitance $5\\,\\mu\\mathrm{F}$ is charged by a battery of emf $10\\,\\mathrm{V}$. At an instant of time, the potential difference across the capacitor is $4\\,\\mathrm{V}$ and the time rate of change of potential difference across the capacitor is $0.6\\,\\mathrm{V\\,s^{-1}}$. Then the time rate at which energy is stored in the capacitor at that instant is",
+  "options": [
+   "$12\\,\\mu\\mathrm{W}$",
+   "$3\\,\\mu\\mathrm{W}$",
+   "zero",
+   "$30\\,\\mu\\mathrm{W}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-038",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 38,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "$\\vec{E}$ is the electric field inside a conductor whose material has conductivity $\\sigma$ and resistivity $\\rho$. The current density inside the conductor is $\\vec{j}$. The correct form of Ohm's law is",
+  "options": [
+   "$\\vec{E} = \\sigma \\vec{j}$",
+   "$\\vec{j} = \\rho \\vec{E}$",
+   "$\\vec{E} = \\rho \\vec{j}$",
+   "$\\vec{E} \\cdot \\vec{j} = \\rho$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-039",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 39,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In the circuit shown, the end A is at potential $V_0$ and end B is grounded. The electric current $I$ indicated in the circuit is",
+  "options": [
+   "$\\frac{V_0}{R}$",
+   "$\\frac{2V_0}{R}$",
+   "$\\frac{3V_0}{R}$",
+   "$\\frac{V_0}{3R}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2024-physics-039.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-040",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 40,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The electric current flowing through a given conductor varies with time as shown in the graph below. The number of free electrons which flow through a given cross-section of the conductor in the time interval $0 \\le t \\le 20\\,\\mathrm{s}$ is",
+  "options": [
+   "$3.125 \\times 10^{19}$",
+   "$1.6 \\times 10^{19}$",
+   "$6.25 \\times 10^{18}$",
+   "$1.625 \\times 10^{18}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2024-physics-040.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-041",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 41,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The I - V graph for a conductor at two different temperatures $100^\\circ\\mathrm{C}$ and $400^\\circ\\mathrm{C}$ is as shown in the figure. The temperature coefficient of resistance of the conductor is about (in per degree Celsius)",
+  "options": [
+   "$3 \\times 10^{-3}$",
+   "$6 \\times 10^{-3}$",
+   "$9 \\times 10^{-3}$",
+   "$12 \\times 10^{-3}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2024-physics-041.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-042",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 42,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "An electric bulb of $60\\,\\mathrm{W}$, $120\\,\\mathrm{V}$ is to be connected to $220\\,\\mathrm{V}$ source. What resistance should be connected in series with the bulb, so that the bulb glows properly ?",
+  "options": [
+   "$50\\,\\Omega$",
+   "$100\\,\\Omega$",
+   "$200\\,\\Omega$",
+   "$288\\,\\Omega$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-043",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 43,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In an experiment to determine the temperature coefficient of resistance of a conductor, a coil of wire X is immersed in a liquid. It is heated by an external agent. A meter bridge set up is used to determine resistance of the coil X at different temperatures. The balancing points measured at temperatures $t_1 = 0^\\circ\\mathrm{C}$ and $t_2 = 100^\\circ\\mathrm{C}$ are $50\\,\\mathrm{cm}$ and $60\\,\\mathrm{cm}$ respectively. If the standard resistance taken out is $S = 4\\,\\Omega$ in both trials, the temperature coefficient of the coil is",
+  "options": [
+   "$0.05\\,^\\circ\\mathrm{C}^{-1}$",
+   "$0.02\\,^\\circ\\mathrm{C}^{-1}$",
+   "$0.005\\,^\\circ\\mathrm{C}^{-1}$",
+   "$2.0\\,^\\circ\\mathrm{C}^{-1}$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [
+   "pyq-2024-physics-043.png"
+  ],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2024-physics-044",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 44,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A moving electron produces",
+  "options": [
+   "only electric field",
+   "both electric and magnetic field",
+   "only magnetic field",
+   "neither electric nor magnetic field"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-045",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 45,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A coil having $9$ turns carrying a current produces magnetic field $B_1$ at the centre. Now the coil is rewounded into $3$ turns carrying same current. Then the magnetic field at the centre $B_2 =$ ______",
+  "options": [
+   "$\\frac{B_1}{9}$",
+   "$9B_1$",
+   "$3B_1$",
+   "$\\frac{B_1}{3}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-046",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 46,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A particle of specific charge $\\frac{q}{m} = \\pi\\,\\mathrm{C\\,kg^{-1}}$ is projected from the origin towards positive x-axis with the velocity $10\\,\\mathrm{m\\,s^{-1}}$ in a uniform magnetic field $\\vec{B} = -2\\hat{k}\\,\\mathrm{T}$. The velocity $\\vec{v}$ of particle after time $t = \\frac{1}{12}\\,\\mathrm{s}$ will be (in $\\mathrm{m\\,s^{-1}}$)",
+  "options": [
+   "$5(\\hat{i} + \\hat{j})$",
+   "$5(\\hat{i} + \\sqrt{3}\\,\\hat{j})$",
+   "$5(\\sqrt{3}\\,\\hat{i} - \\hat{j})$",
+   "$5(\\sqrt{3}\\,\\hat{i} + \\hat{j})$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-047",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 47,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The magnetic field at the centre of a circular coil of radius $R$ carrying current $I$ is $64$ times the magnetic field at a distance $x$ on its axis from the centre of the coil. Then the value of $x$ is",
+  "options": [
+   "$\\frac{R}{4}\\sqrt{15}$",
+   "$R\\sqrt{3}$",
+   "$\\frac{R}{4}$",
+   "$R\\sqrt{15}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-048",
+  "subject": "physics",
+  "chapter": "magnetism-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 48,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Magnetic hysterisis is exhibited by ______ magnetic materials.",
+  "options": [
+   "only para",
+   "only dia",
+   "only ferro",
+   "both para and ferro"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2024-physics-049",
+  "subject": "physics",
+  "chapter": "magnetism-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 49,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Magnetic susceptibility of Mg at $300\\,\\mathrm{K}$ is $1.2 \\times 10^{-5}$. What is its susceptibility at $200\\,\\mathrm{K}$ ?",
+  "options": [
+   "$18 \\times 10^{-5}$",
+   "$180 \\times 10^{-5}$",
+   "$1.8 \\times 10^{-5}$",
+   "$0.18 \\times 10^{-5}$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2024-physics-050",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 50,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A uniform magnetic field of strength $B = 2\\,\\mathrm{mT}$ exists vertically downwards. These magnetic field lines pass through a closed surface as shown in the figure. The closed surface consists of a hemisphere $S_1$, a right circular cone $S_2$ and a circular surface $S_3$. The magnetic flux through $S_1$ and $S_2$ are respectively",
+  "options": [
+   "$\\Phi_{S_1} = -20\\,\\mu\\mathrm{Wb},\\ \\Phi_{S_2} = +20\\,\\mu\\mathrm{Wb}$",
+   "$\\Phi_{S_1} = +20\\,\\mu\\mathrm{Wb},\\ \\Phi_{S_2} = -20\\,\\mu\\mathrm{Wb}$",
+   "$\\Phi_{S_1} = -40\\,\\mu\\mathrm{Wb},\\ \\Phi_{S_2} = +40\\,\\mu\\mathrm{Wb}$",
+   "$\\Phi_{S_1} = +40\\,\\mu\\mathrm{Wb},\\ \\Phi_{S_2} = -40\\,\\mu\\mathrm{Wb}$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [
+   "pyq-2024-physics-050.png"
+  ],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2024-physics-051",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 51,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In the figure, a conducting ring of certain resistance is falling towards a current carrying straight long conductor. The ring and conductor are in the same plane. Then the",
+  "options": [
+   "induced electric current is zero",
+   "induced electric current is anticlockwise",
+   "induced electric current is clockwise",
+   "ring will come to rest"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2024-physics-051.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-052",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 52,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "An induced current of $2\\,\\mathrm{A}$ flows through a coil. The resistance of the coil is $10\\,\\Omega$. What is the change in magnetic flux associated with the coil in $1\\,\\mathrm{ms}$ ?",
+  "options": [
+   "$0.2 \\times 10^{-2}\\,\\mathrm{Wb}$",
+   "$2 \\times 10^{-2}\\,\\mathrm{Wb}$",
+   "$22 \\times 10^{-2}\\,\\mathrm{Wb}$",
+   "$0.22 \\times 10^{-2}\\,\\mathrm{Wb}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-053",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 53,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A square loop of side length '$a$' is moving away from an infinitely long current carrying conductor at a constant speed '$v$' as shown. Let '$x$' be the instantaneous distance between the long conductor and side AB. The mutual inductance (M) of the square loop – long conductor pair changes with time (t) according to which of the following graphs ?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2024-physics-053.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-054",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 54,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 16,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which of the following combinations should be selected for better tuning of an LCR circuit used for communication ?",
+  "options": [
+   "$R = 20\\,\\Omega$, $L = 1.5\\,\\mathrm{H}$, $C = 35\\,\\mu\\mathrm{F}$",
+   "$R = 25\\,\\Omega$, $L = 2.5\\,\\mathrm{H}$, $C = 45\\,\\mu\\mathrm{F}$",
+   "$R = 25\\,\\Omega$, $L = 1.5\\,\\mathrm{H}$, $C = 45\\,\\mu\\mathrm{F}$",
+   "$R = 15\\,\\Omega$, $L = 3.5\\,\\mathrm{H}$, $C = 30\\,\\mu\\mathrm{F}$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2024-physics-055",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 55,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 16,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In an LCR series circuit, the value of only capacitance $C$ is varied. The resulting variation of resonance frequency $f_0$ as a function of $C$ can be represented as",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2024-physics-055.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-056",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 56,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 16,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The figure shows variation of $R$, $X_L$ and $X_C$ with frequency '$f$' in a series LCR circuit. Then for what frequency point is the circuit capacitive ?",
+  "options": [
+   "B",
+   "D",
+   "A",
+   "C"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2024-physics-056.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-057",
+  "subject": "physics",
+  "chapter": "electromagnetic-waves",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 57,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Electromagnetic waves are incident normally on a perfectly reflecting surface having surface area $A$. If $I$ is the intensity of the incident electromagnetic radiation and $c$ is the speed of light in vacuum, the force exerted by the electromagnetic wave on the reflecting surface is",
+  "options": [
+   "$\\frac{2IA}{c}$",
+   "$\\frac{IA}{c}$",
+   "$\\frac{IA}{2c}$",
+   "$\\frac{I}{2Ac}$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2024-physics-058",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 58,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The final image formed by an astronomical telescope is",
+  "options": [
+   "real, erect and diminished",
+   "virtual, inverted and diminished",
+   "real, inverted and magnified",
+   "virtual, inverted and magnified"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-059",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 59,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If the angle of minimum deviation is equal to angle of a prism for an equilateral prism, then the speed of light inside the prism is ______ .",
+  "options": [
+   "$3 \\times 10^8\\,\\mathrm{m\\,s^{-1}}$",
+   "$2\\sqrt{3} \\times 10^8\\,\\mathrm{m\\,s^{-1}}$",
+   "$\\sqrt{3} \\times 10^8\\,\\mathrm{m\\,s^{-1}}$",
+   "$\\frac{\\sqrt{3}}{2} \\times 10^8\\,\\mathrm{m\\,s^{-1}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-physics-060",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 60,
+   "file": "sources/pyq/2024/physics/2024-physics-question_paper-A2-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2024/physics/2024-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A luminous point object $O$ is placed at a distance $2R$ from the spherical boundary separating two transparent media of refractive indices $n_1$ and $n_2$ as shown, where $R$ is the radius of curvature of the spherical surface. If $n_1 = \\frac{4}{3}$, $n_2 = \\frac{3}{2}$ and $R = 10\\,\\mathrm{cm}$, the image is obtained at a distance from $P$ equal to",
+  "options": [
+   "$30\\,\\mathrm{cm}$ in the rarer medium",
+   "$30\\,\\mathrm{cm}$ in the denser medium",
+   "$18\\,\\mathrm{cm}$ in the rarer medium",
+   "$18\\,\\mathrm{cm}$ in the denser medium"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2024-physics-060.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

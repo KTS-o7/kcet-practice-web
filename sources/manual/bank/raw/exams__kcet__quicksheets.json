@@ -1,0 +1,3499 @@
+[
+  {
+    "id": "kcet-qs-phy-current-electricity",
+    "examId": "kcet",
+    "subject": "physics",
+    "chapter": "Current Electricity",
+    "band": "HIGH",
+    "summary": "Ohm's law, resistor networks, Kirchhoff, Wheatstone bridge, potentiometer, meter bridge, drift velocity, internal resistance, and EMF/terminal-voltage distinctions.",
+    "formulas": [
+      {
+        "name": "Ohm's law",
+        "expr": "$V = IR$"
+      },
+      {
+        "name": "Resistance from resistivity",
+        "expr": "$R = \\rho L/A$",
+        "note": "Stretching a wire uniformly: $R \\propto L^2$ (since $V$ constant)."
+      },
+      {
+        "name": "Drift velocity",
+        "expr": "$v_d = I/(nAe) = eE\\tau/m$"
+      },
+      {
+        "name": "Current density",
+        "expr": "$J = \\sigma E = nev_d$"
+      },
+      {
+        "name": "Series / Parallel",
+        "expr": "$R_s = \\sum R_i,\\; 1/R_p = \\sum 1/R_i$"
+      },
+      {
+        "name": "Terminal voltage",
+        "expr": "$V = \\varepsilon - Ir$",
+        "note": "On charging: $V = \\varepsilon + Ir$."
+      },
+      {
+        "name": "Kirchhoff's laws",
+        "expr": "$\\sum I = 0$ at junction; $\\sum V = 0$ around loop"
+      },
+      {
+        "name": "Wheatstone balance",
+        "expr": "$P/Q = R/S$",
+        "note": "No current through galvanometer at balance."
+      },
+      {
+        "name": "Meter bridge",
+        "expr": "$R = S \\cdot l/(100-l)$",
+        "note": "$l$ in cm, balancing length from $R$ side."
+      },
+      {
+        "name": "Potentiometer",
+        "expr": "$\\varepsilon_1/\\varepsilon_2 = l_1/l_2$"
+      },
+      {
+        "name": "Power dissipated",
+        "expr": "$P = I^2R = V^2/R = VI$"
+      },
+      {
+        "name": "Temperature coefficient",
+        "expr": "$R_T = R_0[1 + \\alpha(T - T_0)]$"
+      }
+    ],
+    "shortcuts": [
+      "Balanced Wheatstone: P/Q = R/S — the galvanometer arm collapses; ignore the middle resistor in any further network calc.",
+      "Equal resistors in parallel: R_each/N. For N=2 equal: product/sum shortcut R/2.",
+      "Cells in series: EMF adds, r adds. Cells in parallel (identical): EMF same, r/N.",
+      "For maximum power transfer, external R = internal r; then P_max = \\varepsilon^2/(4r).",
+      "Potentiometer is a NULL method — no current drawn, so it measures true EMF (not terminal V).",
+      "If wire stretched to n times length (volume constant): new R = n^2 × R_old.",
+      "Meter bridge unknowns go on the LEFT gap by convention; if balancing length > 50 cm, unknown < known.",
+      "For a cube of 12 equal R's across body diagonal: R_eq = 5R/6; across face diagonal: 3R/4; across edge: 7R/12."
+    ],
+    "traps": [
+      "V_terminal = EMF − I·r (minus, while discharging). Students often write plus.",
+      "Ammeter has LOW resistance (in series); voltmeter has HIGH resistance (in parallel). Swapping them burns the meter.",
+      "Drift velocity is of the order of mm/s, but signal travels at ~c because the field propagates, not the electrons.",
+      "In potentiometer, increasing driver cell EMF shifts balance length — it doesn't mean the measured EMF changed.",
+      "Resistivity ρ is material property; resistance R depends on geometry. Don't conflate.",
+      "Power rating on a bulb is at rated voltage; actual P = V_applied^2 / R_bulb, NOT the label value if voltage differs.",
+      "Kirchhoff's voltage law: be consistent with sign when traversing EMF (− to + is +ε; + to − is −ε)."
+    ],
+    "examDayCheck": [
+      "Read all circuit diagrams left-to-right; mark current directions before writing KVL.",
+      "If a Wheatstone is balanced, delete the galvanometer branch immediately.",
+      "For cells questions: check if it's discharge (V = ε − Ir) or charging (V = ε + Ir).",
+      "When asked for 'heat produced in time t', use H = I^2Rt (Joule), not just P.",
+      "Units: resistivity Ω·m, conductivity S/m, current density A/m^2."
+    ]
+  },
+  {
+    "id": "kcet-qs-phy-electrostatics",
+    "examId": "kcet",
+    "subject": "physics",
+    "chapter": "Electrostatics",
+    "band": "HIGH",
+    "summary": "Coulomb's law, electric field/potential, Gauss's law, capacitors, dielectrics, energy storage, and potential energy of dipole/charge configurations.",
+    "formulas": [
+      {
+        "name": "Coulomb's law",
+        "expr": "$F = \\dfrac{1}{4\\pi\\varepsilon_0}\\dfrac{q_1q_2}{r^2}$"
+      },
+      {
+        "name": "Electric field (point charge)",
+        "expr": "$E = \\dfrac{kq}{r^2}$",
+        "note": "$k = 9\\times 10^9$ N·m²/C²."
+      },
+      {
+        "name": "Potential (point charge)",
+        "expr": "$V = kq/r$"
+      },
+      {
+        "name": "Dipole field (axial / equatorial)",
+        "expr": "$E_{ax} = 2kp/r^3,\\; E_{eq} = kp/r^3$"
+      },
+      {
+        "name": "Torque on dipole",
+        "expr": "$\\vec\\tau = \\vec p \\times \\vec E$; $U = -\\vec p\\cdot\\vec E$"
+      },
+      {
+        "name": "Gauss's law",
+        "expr": "$\\oint \\vec E\\cdot d\\vec A = q_{enc}/\\varepsilon_0$"
+      },
+      {
+        "name": "Field of infinite sheet / line / shell",
+        "expr": "$\\sigma/2\\varepsilon_0$ (sheet); $\\lambda/(2\\pi\\varepsilon_0 r)$ (line); $kQ/r^2$ outside, 0 inside (shell)"
+      },
+      {
+        "name": "Parallel-plate capacitor",
+        "expr": "$C = \\varepsilon_0 A/d$; with dielectric $C = K\\varepsilon_0 A/d$"
+      },
+      {
+        "name": "Series / Parallel C",
+        "expr": "$1/C_s = \\sum 1/C_i;\\; C_p = \\sum C_i$"
+      },
+      {
+        "name": "Energy stored",
+        "expr": "$U = \\tfrac12 CV^2 = \\tfrac12 QV = Q^2/(2C)$"
+      },
+      {
+        "name": "Energy density",
+        "expr": "$u = \\tfrac12 \\varepsilon_0 E^2$"
+      },
+      {
+        "name": "Force between plates",
+        "expr": "$F = Q^2/(2\\varepsilon_0 A) = \\tfrac12 \\varepsilon_0 E^2 A$"
+      }
+    ],
+    "shortcuts": [
+      "Inside a conductor in electrostatic equilibrium: E = 0; surface is equipotential; charge resides on outer surface.",
+      "Connected in SERIES, capacitors store the SAME charge; in PARALLEL, the SAME voltage.",
+      "Battery CONNECTED + dielectric inserted: V fixed, C↑, Q↑, U↑. Battery DISCONNECTED + dielectric: Q fixed, C↑, V↓, U↓.",
+      "Dipole in uniform E: net force = 0, only torque. In non-uniform E: also net force toward stronger field.",
+      "Shell theorem: treat a uniformly charged spherical shell as a point charge at its centre — but ONLY for points OUTSIDE.",
+      "If two charged drops merge (volume conservative): new radius R' = n^(1/3)·R; V' = n^(2/3)·V.",
+      "Equipotential surfaces are always ⟂ to E-field lines. Work done moving a charge along an equipotential = 0."
+    ],
+    "traps": [
+      "Flux through a closed surface depends ONLY on enclosed charge — external charges contribute 0 net flux (they create field but zero net flux).",
+      "Electric field is a vector; potential is scalar. Two points can have same V but different E (and vice versa).",
+      "W = q(V_A − V_B) moves charge from A to B; sign matters. Positive external work is needed to move +q against E.",
+      "Capacitance depends only on geometry + dielectric, NEVER on charge or voltage applied.",
+      "Dielectric strength ≠ dielectric constant. Strength is breakdown field (V/m); constant K is dimensionless.",
+      "Electrostatic PE of a system = sum over PAIRS, not over charges — for 3 charges, you have 3 pairs.",
+      "At the centre of a uniformly charged ring, E = 0 but V ≠ 0 (V = kQ/R)."
+    ],
+    "examDayCheck": [
+      "Sketch field lines before computing — they reveal symmetry for Gauss's law.",
+      "For capacitor changes: first decide 'battery connected?' → that fixes V or Q.",
+      "Units: flux in N·m²/C or V·m; capacitance in Farad = C/V.",
+      "K (dielectric constant) always ≥ 1; it multiplies C and divides E/V inside.",
+      "For dipole, memorise factor 2 for axial and identify 'ideal' (point) dipole vs physical."
+    ]
+  },
+  {
+    "id": "kcet-qs-phy-laws-of-motion",
+    "examId": "kcet",
+    "subject": "physics",
+    "chapter": "Laws of Motion",
+    "band": "HIGH",
+    "summary": "Newton's laws, friction, pulleys, pseudo-forces in non-inertial frames, circular motion, and free-body diagrams for coupled systems.",
+    "formulas": [
+      {
+        "name": "Newton's 2nd law",
+        "expr": "$\\vec F_{net} = m\\vec a = d\\vec p/dt$"
+      },
+      {
+        "name": "Friction (kinetic / static-max)",
+        "expr": "$f_k = \\mu_k N,\\; f_{s,max} = \\mu_s N$"
+      },
+      {
+        "name": "Angle of friction / repose",
+        "expr": "$\\tan\\theta = \\mu_s$"
+      },
+      {
+        "name": "Incline with friction",
+        "expr": "$a = g(\\sin\\theta - \\mu\\cos\\theta)$ (sliding down)"
+      },
+      {
+        "name": "Atwood machine",
+        "expr": "$a = \\dfrac{(m_1-m_2)g}{m_1+m_2};\\; T = \\dfrac{2m_1m_2 g}{m_1+m_2}$"
+      },
+      {
+        "name": "Centripetal force",
+        "expr": "$F_c = mv^2/r = m\\omega^2 r$"
+      },
+      {
+        "name": "Conical pendulum",
+        "expr": "$T\\cos\\theta = mg,\\; T\\sin\\theta = m\\omega^2 r$"
+      },
+      {
+        "name": "Banking (no friction)",
+        "expr": "$\\tan\\theta = v^2/(rg)$"
+      },
+      {
+        "name": "Banking (with friction, max v)",
+        "expr": "$v_{max}^2 = rg\\dfrac{\\mu+\\tan\\theta}{1-\\mu\\tan\\theta}$"
+      },
+      {
+        "name": "Impulse–momentum",
+        "expr": "$\\vec J = \\int \\vec F\\, dt = \\Delta \\vec p$"
+      },
+      {
+        "name": "Pseudo-force (in frame with a)",
+        "expr": "$F_{pseudo} = -m\\vec a_{frame}$"
+      }
+    ],
+    "shortcuts": [
+      "In a connected-block problem, treat the whole system to get a, then isolate one block for T.",
+      "If μ·cotθ ≥ 1, block will NOT slide on its own down an incline (static friction holds).",
+      "For a body on a rough incline pushed UP: a = −g(sinθ + μcosθ). Deceleration is larger than smooth case.",
+      "In a lift accelerating UP at a: apparent weight = m(g+a); DOWN: m(g−a); free-fall: 0.",
+      "Minimum speed at top of vertical loop: v_top = √(gR). At bottom then: v_bot = √(5gR).",
+      "Rope/string assumed massless & inextensible unless told otherwise → tension same throughout, accelerations linked.",
+      "Friction is self-adjusting up to f_s,max — don't set f = μN when object is static and another force is smaller."
+    ],
+    "traps": [
+      "Static friction acts OPPOSITE to intended (or impending) motion, not actual motion.",
+      "On a rough horizontal surface, minimum force to MOVE a block = μ_s mg, but once moving, only μ_k mg maintains motion.",
+      "Normal force ≠ mg when surface is inclined or vertical acceleration is non-zero (e.g., lift, inclined plane, banked road).",
+      "Centripetal 'force' is a requirement, not a new force — it's provided by tension/friction/gravity/normal.",
+      "Banking angle design is for ONE speed only (optimum). Above/below needs friction.",
+      "In Atwood problems, T is SAME magnitude on both sides for an ideal pulley but its direction differs per block.",
+      "Newton's 3rd-law pair acts on DIFFERENT bodies — never cancel them in a single FBD."
+    ],
+    "examDayCheck": [
+      "Draw the FBD for EACH body separately. Label only forces ACTING ON that body.",
+      "Pick a sensible axis (along incline, for instance) to minimise component algebra.",
+      "Check: does a come out negative? If so, either direction assumption was wrong, or motion doesn't start.",
+      "g = 10 m/s² unless stated; mass in kg, F in N. Always verify units.",
+      "For circular motion, identify what PROVIDES the centripetal force before writing equations."
+    ]
+  },
+  {
+    "id": "kcet-qs-phy-work-energy-power",
+    "examId": "kcet",
+    "subject": "physics",
+    "chapter": "Work, Energy & Power",
+    "band": "HIGH",
+    "summary": "Work-energy theorem, conservative forces, potential energy, elastic vs inelastic collisions, power, and spring energy.",
+    "formulas": [
+      {
+        "name": "Work done by constant force",
+        "expr": "$W = \\vec F\\cdot\\vec d = Fd\\cos\\theta$"
+      },
+      {
+        "name": "Work-energy theorem",
+        "expr": "$W_{net} = \\Delta KE = \\tfrac12 m(v^2 - u^2)$"
+      },
+      {
+        "name": "Kinetic energy (p-form)",
+        "expr": "$KE = p^2/(2m)$"
+      },
+      {
+        "name": "Gravitational PE (near Earth)",
+        "expr": "$U = mgh$"
+      },
+      {
+        "name": "Spring PE",
+        "expr": "$U = \\tfrac12 kx^2$"
+      },
+      {
+        "name": "Power",
+        "expr": "$P = dW/dt = \\vec F\\cdot \\vec v$"
+      },
+      {
+        "name": "1-D elastic collision",
+        "expr": "$v_1' = \\dfrac{m_1-m_2}{m_1+m_2}u_1 + \\dfrac{2m_2}{m_1+m_2}u_2$"
+      },
+      {
+        "name": "Coefficient of restitution",
+        "expr": "$e = -\\dfrac{v_1'-v_2'}{u_1-u_2}$"
+      },
+      {
+        "name": "Perfectly inelastic",
+        "expr": "$v = \\dfrac{m_1u_1+m_2u_2}{m_1+m_2}$"
+      },
+      {
+        "name": "Loss in KE (perfectly inelastic)",
+        "expr": "$\\Delta KE = \\tfrac12 \\dfrac{m_1m_2}{m_1+m_2}(u_1-u_2)^2$"
+      }
+    ],
+    "shortcuts": [
+      "Elastic collision, equal masses, second at rest: they swap velocities (v1'=0, v2'=u1).",
+      "Elastic collision, heavy hits light at rest: light flies off at ≈ 2u; heavy barely slows.",
+      "Elastic, light hits heavy at rest: light rebounds with ~ −u; heavy barely moves.",
+      "Conservative force ⇔ closed-loop work = 0 ⇔ F = −dU/dx. Gravity, spring, electrostatic: conservative. Friction, viscous: NOT.",
+      "For variable F(x): W = ∫F dx (area under F-x curve). For F(t): use impulse for Δp, then work–energy.",
+      "Fractional KE transfer in elastic collision (target at rest): 4m1m2/(m1+m2)^2 — max when m1 = m2 (100% transfer).",
+      "If asked 'minimum v at bottom so particle completes vertical circle': answer √(5gR); if 'just crosses horizontal diameter': √(3gR)."
+    ],
+    "traps": [
+      "Work done by a centripetal force = 0 (force ⟂ displacement). Same for normal force on a sliding body, tension in a circular swing.",
+      "KE cannot be negative. PE can be (just depends on reference).",
+      "Momentum is conserved in EVERY collision (if external F = 0). KE conserved ONLY in elastic collisions.",
+      "Spring PE = ½kx² regardless of direction of stretch (x could be negative but x² is positive).",
+      "Power 'P' in a machine lifting mass m at constant v up against gravity: P = mgv — not mav (a=0).",
+      "Friction always does negative work on the moving body; but it can do POSITIVE work on the body it drags along (e.g., conveyor belt).",
+      "'Average power' ≠ F·v_avg in general; use W_total / t_total."
+    ],
+    "examDayCheck": [
+      "Decide: is the force conservative? If yes, use energy conservation — it's faster than force + kinematics.",
+      "For collisions, list conservation laws BEFORE plugging: momentum always; KE only if elastic.",
+      "Check: is the answer in Joules (work/energy) or Watts (power)?",
+      "If PE reference isn't specified, set it where convenient (usually lowest point) — final answer is Δ, not U.",
+      "For a pulley/spring system, energy conservation is usually faster than Newton's laws."
+    ]
+  },
+  {
+    "id": "kcet-qs-phy-rotational-motion",
+    "examId": "kcet",
+    "subject": "physics",
+    "chapter": "Rotational Motion",
+    "band": "HIGH",
+    "summary": "Moment of inertia, torque, angular momentum, rolling without slipping, parallel/perpendicular axis theorems, and rotational KE.",
+    "formulas": [
+      {
+        "name": "Torque",
+        "expr": "$\\vec\\tau = \\vec r\\times\\vec F = I\\vec\\alpha$"
+      },
+      {
+        "name": "Angular momentum",
+        "expr": "$\\vec L = \\vec r\\times\\vec p = I\\vec\\omega$"
+      },
+      {
+        "name": "Rotational KE",
+        "expr": "$KE_{rot} = \\tfrac12 I\\omega^2 = L^2/(2I)$"
+      },
+      {
+        "name": "Parallel axis",
+        "expr": "$I = I_{cm} + Md^2$"
+      },
+      {
+        "name": "Perpendicular axis (planar)",
+        "expr": "$I_z = I_x + I_y$"
+      },
+      {
+        "name": "I of common bodies (about CM axis)",
+        "expr": "Ring $MR^2$; Disc $\\tfrac12 MR^2$; Solid sphere $\\tfrac25 MR^2$; Hollow sphere $\\tfrac23 MR^2$; Rod (perp, centre) $ML^2/12$"
+      },
+      {
+        "name": "Rolling KE",
+        "expr": "$KE = \\tfrac12 Mv^2(1 + I_{cm}/MR^2)$"
+      },
+      {
+        "name": "Rolling constraint",
+        "expr": "$v_{cm} = R\\omega$"
+      },
+      {
+        "name": "Angular impulse",
+        "expr": "$\\int \\tau\\, dt = \\Delta L$"
+      },
+      {
+        "name": "Power (rotational)",
+        "expr": "$P = \\tau\\omega$"
+      },
+      {
+        "name": "Acceleration down incline (rolling)",
+        "expr": "$a = g\\sin\\theta/(1 + I/MR^2)$"
+      }
+    ],
+    "shortcuts": [
+      "Rolling down an incline: Solid sphere (fastest) > Solid cylinder > Hollow sphere > Hollow cylinder (slowest). Order = (1 + I/MR²) smaller → faster.",
+      "For a body 'rolling without slipping', friction does ZERO work (point of contact is momentarily at rest).",
+      "If external torque = 0, L is conserved — skater pulling arms in: I↓ so ω↑, KE↑ (work done by muscles).",
+      "Parallel axis: d is distance from CM-axis to new parallel axis. Only applies if axes are parallel.",
+      "Perpendicular axis applies ONLY to planar (2D) laminae. Useful: for a ring about diameter, I = MR²/2.",
+      "For a uniform rod of length L about end (perpendicular): I = ML²/3 (via parallel axis from centre).",
+      "Rolling starts pure slipping; friction converts translational → rotational until v = Rω — then steady rolling."
+    ],
+    "traps": [
+      "Moment of inertia depends on axis chosen — always specify axis before computing.",
+      "Torque is r × F, not F × r (direction matters). Use right-hand rule.",
+      "Angular velocity ω is same for all points on a rigid body; linear v = ωr differs with r.",
+      "A body can have zero angular momentum about one axis but non-zero about another (choose axis wisely).",
+      "Centre of mass of a uniform body isn't always at geometric centre when mass distribution is non-uniform.",
+      "KE of rolling body is NOT just ½mv² — add ½Iω². Total = ½mv²(1 + I/mR²).",
+      "In pure rolling, point of contact's velocity = 0 (not just small), and top point's velocity = 2v_cm."
+    ],
+    "examDayCheck": [
+      "For ring/disc/sphere I questions: recite 'ring MR², disc MR²/2, solid sphere 2MR²/5, hollow 2MR²/3'.",
+      "Check axis: if not through CM, use parallel axis (add Md²).",
+      "For rolling questions, always check 'without slipping' condition before applying v = Rω.",
+      "If torque about a point is 0, L about THAT point is conserved — even if other forces act.",
+      "Units: I in kg·m²; τ in N·m; L in kg·m²/s or J·s."
+    ]
+  },
+  {
+    "id": "kcet-qs-phy-gravitation",
+    "examId": "kcet",
+    "subject": "physics",
+    "chapter": "Gravitation",
+    "band": "HIGH",
+    "summary": "Newton's law of gravitation, g variation with altitude/depth/latitude, orbital mechanics, escape velocity, Kepler's laws, and gravitational PE.",
+    "formulas": [
+      {
+        "name": "Newton's law",
+        "expr": "$F = G m_1 m_2 / r^2$",
+        "note": "$G = 6.67\\times 10^{-11}$ N·m²/kg²."
+      },
+      {
+        "name": "g at surface",
+        "expr": "$g = GM/R^2$"
+      },
+      {
+        "name": "g at height h",
+        "expr": "$g_h = g(1 - 2h/R)$ for $h\\ll R$; exactly $g R^2/(R+h)^2$"
+      },
+      {
+        "name": "g at depth d",
+        "expr": "$g_d = g(1 - d/R)$"
+      },
+      {
+        "name": "Orbital velocity",
+        "expr": "$v_o = \\sqrt{GM/r}$"
+      },
+      {
+        "name": "Escape velocity",
+        "expr": "$v_e = \\sqrt{2GM/R} = \\sqrt{2gR}$",
+        "note": "≈ 11.2 km/s from Earth."
+      },
+      {
+        "name": "Time period (orbit)",
+        "expr": "$T = 2\\pi\\sqrt{r^3/GM}$ (Kepler's 3rd)"
+      },
+      {
+        "name": "Gravitational PE (two masses)",
+        "expr": "$U = -Gm_1m_2/r$"
+      },
+      {
+        "name": "Total energy in orbit",
+        "expr": "$E = -GMm/(2r) = -\\tfrac12 |U|$"
+      },
+      {
+        "name": "Kepler's 2nd (areal velocity)",
+        "expr": "$dA/dt = L/(2m) = \\text{const}$"
+      },
+      {
+        "name": "Gravitational field / potential",
+        "expr": "$I = -GM/r^2,\\; V = -GM/r$"
+      }
+    ],
+    "shortcuts": [
+      "v_e = √2 × v_o — escape speed is √2 times orbital speed at same radius.",
+      "Geostationary orbit: T = 24 h, r ≈ 42 000 km from Earth's centre (~36 000 km altitude), equatorial, west-to-east.",
+      "Energy to move satellite from orbit r₁ to r₂: ΔE = (GMm/2)(1/r₁ − 1/r₂).",
+      "At height h = R (one Earth-radius up), g reduces to g/4.",
+      "At depth d = R/2, g drops to g/2. At centre (d = R): g = 0.",
+      "Weight at equator < weight at pole (Earth's rotation and bulge). Δg ≈ Rω²cos²λ.",
+      "For a binary-star or two-body orbit, use reduced mass μ = m₁m₂/(m₁+m₂) and total separation."
+    ],
+    "traps": [
+      "U_gravitational is NEGATIVE for bound systems. U = 0 at infinity by convention.",
+      "Escape velocity is INDEPENDENT of angle of projection (as long as no air) and of projectile mass.",
+      "Kepler's 3rd law: T² ∝ a³ where a is SEMI-MAJOR axis (not radius for elliptic orbit).",
+      "At orbital height, satellite is NOT weightless — it's in free-fall toward Earth; gravity provides centripetal force.",
+      "Shell theorem: inside a uniform spherical shell, gravitational field = 0 (but potential is constant, non-zero).",
+      "Don't mix g (acceleration, m/s²) with G (universal constant, N·m²/kg²).",
+      "Orbital speed DECREASES with radius (v ∝ 1/√r) — higher orbit means slower but longer period."
+    ],
+    "examDayCheck": [
+      "Check: is the question using R (Earth radius) or r (orbit radius)? They differ when satellite is at height h.",
+      "For energy questions, remember total E < 0 for bound, = 0 at escape, > 0 for unbound.",
+      "g at pole > g at equator; g decreases both with altitude and depth (at different rates).",
+      "Kepler: same orbit → equal areas in equal times. Planet moves fastest at perihelion, slowest at aphelion.",
+      "Units: G in N·m²/kg²; g in m/s²; v_e in km/s (Earth's is 11.2)."
+    ]
+  },
+  {
+    "id": "kcet-qs-phy-magnetic-effects",
+    "examId": "kcet",
+    "subject": "physics",
+    "chapter": "Magnetic Effects of Current & Magnetism",
+    "band": "HIGH",
+    "summary": "Biot-Savart, Ampere's law, force on current-carrying wires and charged particles, solenoid/toroid fields, moving-coil galvanometer, and magnetic materials.",
+    "formulas": [
+      {
+        "name": "Biot-Savart law",
+        "expr": "$dB = \\dfrac{\\mu_0}{4\\pi}\\dfrac{I\\, d\\vec l\\times\\hat r}{r^2}$"
+      },
+      {
+        "name": "Field of long straight wire",
+        "expr": "$B = \\mu_0 I/(2\\pi r)$"
+      },
+      {
+        "name": "Circular loop (centre)",
+        "expr": "$B = \\mu_0 I/(2R)$; on axis: $B = \\mu_0 IR^2/[2(R^2+x^2)^{3/2}]$"
+      },
+      {
+        "name": "Solenoid (inside, long)",
+        "expr": "$B = \\mu_0 n I$",
+        "note": "$n$ = turns/metre."
+      },
+      {
+        "name": "Toroid",
+        "expr": "$B = \\mu_0 N I/(2\\pi r)$"
+      },
+      {
+        "name": "Ampere's law",
+        "expr": "$\\oint \\vec B\\cdot d\\vec l = \\mu_0 I_{enc}$"
+      },
+      {
+        "name": "Force on charge",
+        "expr": "$\\vec F = q\\vec v\\times\\vec B$"
+      },
+      {
+        "name": "Radius of circular path",
+        "expr": "$r = mv/(qB);\\; T = 2\\pi m/(qB)$"
+      },
+      {
+        "name": "Force on wire",
+        "expr": "$\\vec F = I\\vec L\\times\\vec B$"
+      },
+      {
+        "name": "Force between parallel wires",
+        "expr": "$F/L = \\mu_0 I_1 I_2/(2\\pi d)$",
+        "note": "Attractive if currents same direction."
+      },
+      {
+        "name": "Torque on coil / magnetic moment",
+        "expr": "$\\vec\\tau = \\vec m\\times\\vec B;\\; m = NIA$"
+      },
+      {
+        "name": "Galvanometer to ammeter / voltmeter",
+        "expr": "$S = GI_g/(I-I_g)$ (shunt); $R = V/I_g - G$ (series)"
+      }
+    ],
+    "shortcuts": [
+      "Right-hand rule: thumb = I, fingers curl = B direction for a wire. For a loop, fingers = I, thumb = north pole (m direction).",
+      "Parallel currents ATTRACT; antiparallel REPEL (mnemonic: 'like-minded friends hug').",
+      "Inside a long solenoid, B is uniform and axial; outside, B ≈ 0.",
+      "A charged particle entering B with v ⟂ B: circular motion (constant speed). v ∥ B: straight line. General: helix.",
+      "Velocity selector: qE = qvB → v = E/B. Only this speed passes through undeviated.",
+      "Cyclotron frequency: f = qB/(2πm) — independent of radius or energy (for non-relativistic).",
+      "For a bar magnet, neutral points lie on the equatorial line (in Earth's field) at distance where B_magnet = B_Horizontal.",
+      "Period of oscillation of a magnet in Earth's field: T = 2π√(I/MB_H)."
+    ],
+    "traps": [
+      "Magnetic force does NO work on a charged particle (F ⟂ v always). Speed constant; only direction changes.",
+      "Solenoid formula B = μ₀nI requires 'long' solenoid and points INSIDE (not at ends — there B is halved).",
+      "Biot-Savart's dB at a point on a wire's own extension = 0 (sin 0° = 0).",
+      "An ammeter has LOW resistance (shunt in parallel); a voltmeter has HIGH resistance (series with coil). Don't swap.",
+      "Magnetic moment m of a loop = N·I·A (include number of turns N).",
+      "Earth's magnetic north pole is a magnetic SOUTH (since it attracts a compass's north). Dip angle δ, not inclination.",
+      "Diamagnetic substances have χ < 0 (slightly); paramagnetic χ > 0 (small); ferromagnetic χ ≫ 1."
+    ],
+    "examDayCheck": [
+      "Identify geometry: straight wire, loop, solenoid, toroid — each has a specific B formula.",
+      "For charged particles in B: write qvB = mv²/r to get r; T = 2πm/(qB) is velocity-independent.",
+      "Check direction with right-hand rule; ×/⊙ for into/out of page.",
+      "Shunt formula: S < G (shunt is small); voltmeter series R ≫ G.",
+      "Units: B in Tesla (T), m in A·m², μ₀ = 4π×10⁻⁷ T·m/A."
+    ]
+  },
+  {
+    "id": "kcet-qs-phy-em-induction-ac",
+    "examId": "kcet",
+    "subject": "physics",
+    "chapter": "Electromagnetic Induction & AC",
+    "band": "HIGH",
+    "summary": "Faraday's/Lenz's laws, motional EMF, self and mutual inductance, LR/LC/LCR circuits, AC power, resonance, and transformers.",
+    "formulas": [
+      {
+        "name": "Faraday's law",
+        "expr": "$\\varepsilon = -d\\Phi_B/dt$"
+      },
+      {
+        "name": "Motional EMF",
+        "expr": "$\\varepsilon = BLv$"
+      },
+      {
+        "name": "Self-inductance EMF & energy",
+        "expr": "$\\varepsilon = -L\\, dI/dt;\\; U_L = \\tfrac12 LI^2$"
+      },
+      {
+        "name": "Solenoid self-inductance",
+        "expr": "$L = \\mu_0 n^2 A l$"
+      },
+      {
+        "name": "Mutual inductance",
+        "expr": "$\\varepsilon_2 = -M\\, dI_1/dt;\\; M = k\\sqrt{L_1 L_2}$"
+      },
+      {
+        "name": "LR growth / decay",
+        "expr": "$I(t) = I_0(1 - e^{-t/\\tau}),\\; \\tau = L/R$"
+      },
+      {
+        "name": "AC (sinusoidal)",
+        "expr": "$V = V_0\\sin\\omega t,\\; V_{rms} = V_0/\\sqrt2$"
+      },
+      {
+        "name": "Reactances",
+        "expr": "$X_L = \\omega L,\\; X_C = 1/(\\omega C)$"
+      },
+      {
+        "name": "LCR impedance",
+        "expr": "$Z = \\sqrt{R^2 + (X_L - X_C)^2}$"
+      },
+      {
+        "name": "Power factor",
+        "expr": "$\\cos\\phi = R/Z;\\; P_{avg} = V_{rms}I_{rms}\\cos\\phi$"
+      },
+      {
+        "name": "Resonance",
+        "expr": "$\\omega_0 = 1/\\sqrt{LC};\\; Q = \\omega_0 L/R$"
+      },
+      {
+        "name": "Transformer",
+        "expr": "$V_s/V_p = N_s/N_p = I_p/I_s$ (ideal)"
+      }
+    ],
+    "shortcuts": [
+      "Lenz's law = energy conservation: induced current OPPOSES the change in flux. Memorise direction, don't re-derive.",
+      "At resonance in LCR: X_L = X_C, Z = R (minimum), I = maximum, power factor = 1.",
+      "Purely inductive or purely capacitive circuit: avg power = 0 (phase ±90°).",
+      "Transformer: step-up (N_s > N_p) → V up, I down. Step-down: opposite.",
+      "RMS = Peak/√2 for sinusoidal AC. For full-wave rectified: same. For half-wave: I_0/2 (mean), I_0/2 (rms).",
+      "Skin effect: at HF, current flows on surface — use stranded wires.",
+      "Eddy currents: minimised by laminating the iron core (transformer/motor), so currents can't loop freely."
+    ],
+    "traps": [
+      "Sign: Faraday ε = −dΦ/dt. The minus encodes Lenz — don't drop it.",
+      "Induced current direction OPPOSES change in flux, not flux itself — flux decreasing → induced current sustains it.",
+      "In a DC circuit at STEADY STATE: inductor = wire (X_L = 0); capacitor = open (X_C = ∞).",
+      "Motional EMF BLv requires B ⟂ v ⟂ L (all mutually perpendicular). Otherwise use components.",
+      "Peak-to-peak ≠ peak ≠ rms. For V_0 = 100 V peak: peak-to-peak = 200 V, rms ≈ 70.7 V.",
+      "In LCR, at resonance I max but it doesn't mean V max across each element — V_L = V_C individually can be many times V_source.",
+      "Transformer doesn't work on DC — only changing flux induces EMF in secondary."
+    ],
+    "examDayCheck": [
+      "If asked about 'induced EMF', always check flux change first, then direction via Lenz.",
+      "In AC questions: identify L, C, R, frequency → compute X_L, X_C → Z, I, phase.",
+      "For transformer: energy conservation means V_p·I_p = V_s·I_s (ideal).",
+      "Resonance peaks — off-resonance, current drops sharply (sharpness = Q-factor).",
+      "Units: L in Henry (H), Φ in Weber (Wb = V·s), EMF in Volt."
+    ]
+  },
+  {
+    "id": "kcet-qs-phy-ray-optics",
+    "examId": "kcet",
+    "subject": "physics",
+    "chapter": "Ray Optics",
+    "band": "MEDIUM",
+    "summary": "Reflection, refraction, lens/mirror formula, total internal reflection, prism dispersion, and optical instruments.",
+    "formulas": [
+      {
+        "name": "Mirror formula",
+        "expr": "$1/v + 1/u = 1/f$"
+      },
+      {
+        "name": "Lens formula",
+        "expr": "$1/v - 1/u = 1/f$"
+      },
+      {
+        "name": "Magnification",
+        "expr": "$m = v/u$ (lens); $m = -v/u$ (mirror)"
+      },
+      {
+        "name": "Lensmaker's equation",
+        "expr": "$\\dfrac{1}{f} = (n-1)\\left(\\dfrac{1}{R_1} - \\dfrac{1}{R_2}\\right)$"
+      },
+      {
+        "name": "Refraction at spherical surface",
+        "expr": "$\\dfrac{n_2}{v} - \\dfrac{n_1}{u} = \\dfrac{n_2-n_1}{R}$"
+      },
+      {
+        "name": "Snell's law",
+        "expr": "$n_1\\sin i = n_2\\sin r$"
+      },
+      {
+        "name": "Critical angle (TIR)",
+        "expr": "$\\sin\\theta_c = n_2/n_1$ (n_1 > n_2)"
+      },
+      {
+        "name": "Prism deviation",
+        "expr": "$\\delta = i_1 + i_2 - A$; at min: $\\delta_m = 2i - A$, $n = \\sin\\tfrac{A+\\delta_m}{2}/\\sin\\tfrac{A}{2}$"
+      },
+      {
+        "name": "Power of lens",
+        "expr": "$P = 1/f$ (dioptre, f in metres)"
+      },
+      {
+        "name": "Combined lenses",
+        "expr": "$1/f = 1/f_1 + 1/f_2;\\; P = P_1+P_2$"
+      },
+      {
+        "name": "Microscope magnification",
+        "expr": "$M = (v_o/u_o)(1 + D/f_e)$ (near point)"
+      },
+      {
+        "name": "Telescope magnification",
+        "expr": "$M = f_o/f_e$ (normal); $(f_o/f_e)(1 + f_e/D)$ (near point)"
+      }
+    ],
+    "shortcuts": [
+      "Sign convention: distances measured from optical centre/pole, along incident light direction = positive; opposite = negative. Heights above axis = positive.",
+      "Converging lens/mirror: f > 0. Diverging: f < 0. For mirror, concave f < 0 (new convention) BUT NCERT + KCET uses 'concave f < 0' — follow NCERT Cartesian.",
+      "If image is REAL, v is positive for lens (opposite side), negative for mirror (same side).",
+      "TIR requires denser → rarer AND i > θ_c. Used in optical fibres, prisms.",
+      "Apparent depth: d_app = d_real × (n_obs/n_medium). Pool looks shallower when viewed from air.",
+      "Combination of thin lenses in contact: powers add directly. Separated by d: 1/f = 1/f₁ + 1/f₂ − d/(f₁f₂).",
+      "For a prism of small angle A: δ ≈ (n−1)A. Chromatic dispersion: δ_V > δ_R (violet bends more)."
+    ],
+    "traps": [
+      "Sign convention in lens formula: distances measured from optical centre in direction of light are positive. Apply consistently — mixing conventions gives wrong sign of f.",
+      "Mirror formula has +1/u and +1/v; lens formula has −1/u (NOT +). Don't conflate.",
+      "Focal length of a lens depends on surrounding medium! If n_lens = n_medium, f → ∞ (no refraction).",
+      "A concave mirror produces a VIRTUAL image when object is between pole and focus — erect and magnified.",
+      "Power of a diverging lens is NEGATIVE.",
+      "Image at least distance of distinct vision (D=25cm) gives maximum M for microscope/simple magnifier.",
+      "Prism: minimum deviation ≠ 0 deviation. At min deviation, i = e, ray inside is parallel to base."
+    ],
+    "examDayCheck": [
+      "Draw a quick ray diagram even for MCQ — reveals sign of magnification and real/virtual.",
+      "Check: is it a mirror or lens formula? Mirror uses +, lens uses − for 1/u.",
+      "For combination: add powers (not focal lengths).",
+      "For TIR: first check denser→rarer before computing θ_c.",
+      "Units: f in cm (typical); P = 1/f where f MUST be in metres → dioptre."
+    ]
+  },
+  {
+    "id": "kcet-qs-phy-wave-optics",
+    "examId": "kcet",
+    "subject": "physics",
+    "chapter": "Wave Optics",
+    "band": "MEDIUM",
+    "summary": "Huygens' principle, interference (Young's experiment), diffraction, polarisation, and thin-film/resolving-power basics.",
+    "formulas": [
+      {
+        "name": "Fringe width (YDSE)",
+        "expr": "$\\beta = \\lambda D/d$"
+      },
+      {
+        "name": "Path diff to phase diff",
+        "expr": "$\\phi = (2\\pi/\\lambda)\\Delta x$"
+      },
+      {
+        "name": "Maxima / minima (YDSE)",
+        "expr": "$\\Delta x = n\\lambda$ (max); $(n+\\tfrac12)\\lambda$ (min)"
+      },
+      {
+        "name": "Intensity in interference",
+        "expr": "$I = I_1 + I_2 + 2\\sqrt{I_1I_2}\\cos\\phi$"
+      },
+      {
+        "name": "Single-slit diffraction",
+        "expr": "$a\\sin\\theta = n\\lambda$ (minima); central max width $= 2\\lambda D/a$"
+      },
+      {
+        "name": "Brewster's law",
+        "expr": "$\\tan\\theta_B = n$"
+      },
+      {
+        "name": "Malus's law",
+        "expr": "$I = I_0\\cos^2\\theta$"
+      },
+      {
+        "name": "Resolving power (microscope / telescope)",
+        "expr": "$\\Delta x_{min} = 1.22\\lambda/(2NA);\\; \\Delta\\theta_{min} = 1.22\\lambda/D$"
+      },
+      {
+        "name": "Thin film (reflected, normal)",
+        "expr": "$2\\mu t = (n+\\tfrac12)\\lambda$ (constructive, w/ phase change at top)"
+      },
+      {
+        "name": "Frequency (wave)",
+        "expr": "$f = c/\\lambda$ (vacuum); wavelength changes in medium, frequency stays the same"
+      }
+    ],
+    "shortcuts": [
+      "Fringe width β ∝ λD/d. Increase D → wider fringes. Use denser medium (λ↓) → narrower.",
+      "When YDSE is immersed in water (n=4/3): β decreases by factor 4/3.",
+      "Central maximum in YDSE is BRIGHT (zero path difference). Shift of pattern due to slab of thickness t: Δy = (μ−1)tD/d.",
+      "In single-slit, central maximum is 2× wider than side maxima and carries ~84% of intensity.",
+      "Unpolarised light through a polariser → intensity halves (I_0/2). Then Malus applies for subsequent analyser.",
+      "Brewster angle: reflected light fully polarised (⟂ plane of incidence). θ_B + θ_r = 90°.",
+      "Wavelength in medium: λ_m = λ_vacuum / n. Frequency unchanged across boundary."
+    ],
+    "traps": [
+      "β = λD/d — small d gives WIDE fringes. Students often think opposite.",
+      "In single-slit diffraction, minima are at a·sinθ = nλ (NOT maxima). In YDSE (double-slit) n·λ gives MAXIMA.",
+      "Intensity in YDSE: I_max = 4I_0 (if I_1 = I_2 = I_0) and I_min = 0. Ratio I_max:I_min = (√I_1+√I_2)²:(√I_1−√I_2)².",
+      "Brewster's angle depends on wavelength (via n) — not a single universal value.",
+      "Polarisation needs TRANSVERSE waves — light yes, sound no. Used to prove light is transverse.",
+      "'Coherent sources' means constant phase difference — NOT zero phase difference.",
+      "Resolving power improves with LARGER aperture (D) and SHORTER wavelength (λ)."
+    ],
+    "examDayCheck": [
+      "Memorise β = λD/d — the single most-tested YDSE formula.",
+      "Check: is it YDSE (n·λ = max) or single-slit (a·sinθ = n·λ for minima)?",
+      "For polariser stack: I_0 → I_0/2 after 1st (unpolarised). Then Malus for each subsequent.",
+      "When medium changes (immersed, slab), update λ_medium = λ_vacuum/n.",
+      "Units: λ in nm or Å (1 Å = 0.1 nm); D in metres; d usually in mm."
+    ]
+  },
+  {
+    "id": "kcet-qs-phy-atoms-nuclei",
+    "examId": "kcet",
+    "subject": "physics",
+    "chapter": "Atoms & Nuclei",
+    "band": "MEDIUM",
+    "summary": "Bohr model, hydrogen spectral series, nuclear composition, binding energy, radioactive decay, and mass-energy relation.",
+    "formulas": [
+      {
+        "name": "Bohr radius (hydrogen)",
+        "expr": "$r_n = n^2 a_0,\\; a_0 = 0.529$ Å"
+      },
+      {
+        "name": "Bohr energy",
+        "expr": "$E_n = -13.6\\,Z^2/n^2$ eV"
+      },
+      {
+        "name": "Velocity in nth orbit",
+        "expr": "$v_n = (Z/n)\\cdot c/137$"
+      },
+      {
+        "name": "Rydberg formula",
+        "expr": "$1/\\lambda = R Z^2(1/n_1^2 - 1/n_2^2)$",
+        "note": "$R = 1.097\\times 10^7$ m⁻¹."
+      },
+      {
+        "name": "Hydrogen series",
+        "expr": "Lyman (n→1, UV); Balmer (n→2, visible); Paschen (n→3, IR)"
+      },
+      {
+        "name": "De Broglie in Bohr orbit",
+        "expr": "$2\\pi r = n\\lambda;\\; mvr = nh/(2\\pi)$"
+      },
+      {
+        "name": "Mass-energy",
+        "expr": "$E = \\Delta m\\, c^2$",
+        "note": "1 u = 931.5 MeV/c²."
+      },
+      {
+        "name": "Binding energy",
+        "expr": "$BE = [Z m_p + (A-Z)m_n - M_{nucleus}]c^2$"
+      },
+      {
+        "name": "Radioactive decay",
+        "expr": "$N = N_0 e^{-\\lambda t};\\; t_{1/2} = \\ln 2/\\lambda$"
+      },
+      {
+        "name": "Mean life",
+        "expr": "$\\tau = 1/\\lambda = t_{1/2}/\\ln 2$"
+      },
+      {
+        "name": "Activity",
+        "expr": "$A = \\lambda N = A_0 e^{-\\lambda t}$"
+      }
+    ],
+    "shortcuts": [
+      "Bohr ground state H: E = −13.6 eV, r = 0.529 Å. For He⁺ (Z=2): E × 4, r × 1/2.",
+      "Ionisation energy of H = 13.6 eV; excitation to n=2 takes 10.2 eV (Lyman-α).",
+      "Number of spectral lines from n-th level = n(n−1)/2.",
+      "Half-life → 1/2 every t_{1/2}. After n half-lives: fraction left = (1/2)^n.",
+      "BE per nucleon peaks at ~A=56 (Fe). Fission of heavy AND fusion of light both release energy.",
+      "α-decay: A−4, Z−2. β⁻-decay: A same, Z+1. γ-decay: no change in A, Z.",
+      "De Broglie: λ = h/p. Electron accelerated through V volts: λ = 12.27/√V Å."
+    ],
+    "traps": [
+      "E_n for H is NEGATIVE (bound state). n=∞ → E=0 (free electron).",
+      "Bohr model applies STRICTLY only to hydrogenic (one-electron) atoms: H, He⁺, Li²⁺.",
+      "In transition n_i → n_f, emitted photon energy = E_i − E_f. Make sure n_f < n_i for emission.",
+      "Rydberg's formula gives 1/λ, not λ directly. And the larger quantum number MUST be n_2.",
+      "Mass defect is always POSITIVE (bound nucleus is lighter than free constituents).",
+      "Half-life is CONSTANT for given nuclide — not affected by temperature, pressure, or chemical state.",
+      "Number of α + β emissions: compare initial (A₀, Z₀) to final. Δα = ΔA/4, then Δβ⁻ from Z."
+    ],
+    "examDayCheck": [
+      "Quick lookup: 13.6/n² eV for H energies.",
+      "For transitions: compute E_photon = |ΔE|, then λ = hc/E (hc ≈ 1240 eV·nm).",
+      "For half-life problems: after nT half-lives, N = N₀/2ⁿ.",
+      "For BE/nucleon: higher means more stable — Fe (A=56) is peak.",
+      "Units: Å for atomic radii; eV for atomic energies; MeV for nuclear."
+    ]
+  },
+  {
+    "id": "kcet-qs-phy-thermodynamics",
+    "examId": "kcet",
+    "subject": "physics",
+    "chapter": "Thermodynamics",
+    "band": "MEDIUM",
+    "summary": "First and second laws, isothermal/adiabatic/isobaric/isochoric processes, heat engines, Carnot cycle, refrigerator efficiency, and entropy basics.",
+    "formulas": [
+      {
+        "name": "First law",
+        "expr": "$\\Delta U = Q - W$",
+        "note": "Sign convention: W done BY gas is positive."
+      },
+      {
+        "name": "Work done by gas",
+        "expr": "$W = \\int p\\, dV$"
+      },
+      {
+        "name": "Isothermal (ideal gas)",
+        "expr": "$W = nRT\\ln(V_2/V_1);\\; \\Delta U = 0;\\; Q = W$"
+      },
+      {
+        "name": "Adiabatic",
+        "expr": "$pV^\\gamma = \\text{const};\\; TV^{\\gamma-1} = \\text{const};\\; W = \\dfrac{p_1V_1 - p_2V_2}{\\gamma-1}$"
+      },
+      {
+        "name": "Isobaric",
+        "expr": "$W = p\\Delta V;\\; Q = nC_p\\Delta T$"
+      },
+      {
+        "name": "Isochoric",
+        "expr": "$W = 0;\\; Q = \\Delta U = nC_v\\Delta T$"
+      },
+      {
+        "name": "Mayer's relation",
+        "expr": "$C_p - C_v = R$"
+      },
+      {
+        "name": "γ = C_p/C_v",
+        "expr": "$\\gamma = 5/3$ (monatomic), $7/5$ (diatomic), $4/3$ (polyatomic)"
+      },
+      {
+        "name": "Carnot efficiency",
+        "expr": "$\\eta = 1 - T_c/T_h$"
+      },
+      {
+        "name": "Refrigerator COP",
+        "expr": "$\\beta = Q_c/W = T_c/(T_h - T_c)$"
+      },
+      {
+        "name": "Heat engine efficiency (general)",
+        "expr": "$\\eta = 1 - Q_c/Q_h = W/Q_h$"
+      }
+    ],
+    "shortcuts": [
+      "Adiabatic: Q = 0, so ΔU = −W. In EXPANSION, gas cools; in COMPRESSION, gas heats.",
+      "Isothermal: ΔU = 0 (ideal gas), so Q = W. Slow process in contact with reservoir.",
+      "Cyclic process: ΔU = 0 over a cycle, so Q_net = W_net = area enclosed on p-V diagram.",
+      "Carnot's η depends only on temperatures (in Kelvin), not on working substance.",
+      "Monatomic gas: C_v = 3R/2, C_p = 5R/2, γ = 5/3. Diatomic: C_v = 5R/2, C_p = 7R/2, γ = 7/5.",
+      "Slope on p-V: adiabatic > isothermal. Adiabatic is steeper (factor γ).",
+      "Refrigerator: COP can be > 1 (β is NOT an efficiency). Max COP is Carnot: T_c/(T_h−T_c)."
+    ],
+    "traps": [
+      "In the first law Q = ΔU + W (Physics convention, W by gas) — don't confuse with chemistry convention (W on gas).",
+      "Adiabatic means Q = 0 (NOT isothermal). Often confused.",
+      "Internal energy U of ideal gas depends ONLY on T — for isothermal, ΔU = 0 even if V, p change.",
+      "Carnot η uses temperatures in KELVIN, not Celsius. η = 1 − T_c/T_h.",
+      "Free expansion into vacuum: W = 0, Q = 0 → ΔU = 0, T constant (for ideal gas).",
+      "Work done ON gas is NEGATIVE of work done BY gas. Be consistent.",
+      "No engine can have η = 100% (would violate 2nd law). A reversible engine between T_h, T_c has max η = 1 − T_c/T_h."
+    ],
+    "examDayCheck": [
+      "Identify process FIRST: isothermal/adiabatic/isobaric/isochoric. That fixes which quantity is 0.",
+      "Check: Kelvin for Carnot; don't plug °C.",
+      "For p-V cycles: area enclosed = net W. Clockwise = heat engine (W > 0); counter = refrigerator.",
+      "If asked 'what's ΔU' — for ideal gas, only T matters. ΔU = nC_v ΔT.",
+      "Units: R = 8.314 J/(mol·K); Q, W, U in Joules; T in Kelvin."
+    ]
+  },
+  {
+    "id": "kcet-qs-phy-oscillations-waves",
+    "examId": "kcet",
+    "subject": "physics",
+    "chapter": "Oscillations & Waves",
+    "band": "MEDIUM",
+    "summary": "SHM kinematics, energy, pendulum/spring oscillators, superposition, beats, standing waves, Doppler effect, and wave speed on strings/in gases.",
+    "formulas": [
+      {
+        "name": "SHM displacement",
+        "expr": "$x = A\\sin(\\omega t + \\phi)$"
+      },
+      {
+        "name": "Velocity / acceleration",
+        "expr": "$v = \\omega\\sqrt{A^2-x^2};\\; a = -\\omega^2 x$"
+      },
+      {
+        "name": "Spring-mass period",
+        "expr": "$T = 2\\pi\\sqrt{m/k}$"
+      },
+      {
+        "name": "Simple pendulum",
+        "expr": "$T = 2\\pi\\sqrt{L/g}$"
+      },
+      {
+        "name": "Energy in SHM",
+        "expr": "$E = \\tfrac12 m\\omega^2 A^2$; KE max at x=0, PE max at x=±A"
+      },
+      {
+        "name": "Wave speed (string)",
+        "expr": "$v = \\sqrt{T/\\mu}$",
+        "note": "$\\mu$ = linear mass density."
+      },
+      {
+        "name": "Wave speed (gas)",
+        "expr": "$v = \\sqrt{\\gamma P/\\rho} = \\sqrt{\\gamma RT/M}$"
+      },
+      {
+        "name": "Wave equation",
+        "expr": "$y = A\\sin(\\omega t - kx);\\; k = 2\\pi/\\lambda,\\; \\omega = 2\\pi f$"
+      },
+      {
+        "name": "Standing wave (string fixed both ends)",
+        "expr": "$f_n = nv/(2L)$"
+      },
+      {
+        "name": "Closed pipe (one end)",
+        "expr": "$f_n = (2n-1)v/(4L)$ (odd harmonics only)"
+      },
+      {
+        "name": "Beats",
+        "expr": "$f_{beat} = |f_1 - f_2|$"
+      },
+      {
+        "name": "Doppler (general)",
+        "expr": "$f' = f\\dfrac{v \\pm v_o}{v \\mp v_s}$",
+        "note": "Top sign: observer toward source / source toward observer."
+      }
+    ],
+    "shortcuts": [
+      "In SHM, at x = A/2: KE = 3E/4, PE = E/4.",
+      "For two springs in parallel: k_eff = k₁ + k₂; in series: 1/k_eff = 1/k₁ + 1/k₂.",
+      "A simple pendulum's T is INDEPENDENT of mass. In a lift accelerating up at a: T = 2π√(L/(g+a)).",
+      "Open pipe: all harmonics (f, 2f, 3f, ...). Closed pipe: only odd (f, 3f, 5f, ...).",
+      "String vibration modes: n loops in length L → λ = 2L/n; frequency n·(v/2L).",
+      "Beats heard when two frequencies differ by < ~10 Hz. Above that, ear hears them separately.",
+      "Doppler: frequency INCREASES when observer and source approach; DECREASES on separation. No shift if motion is perpendicular."
+    ],
+    "traps": [
+      "SHM requires F = −kx (restoring, linearly proportional). Pendulum only SHM for small θ (sin θ ≈ θ).",
+      "In SHM, acceleration is MAX at extremes (x = ±A), ZERO at mean (x = 0). Velocity is opposite.",
+      "For a vertical spring with mass: new equilibrium is mg/k below natural length, but T is still 2π√(m/k).",
+      "Wave speed v on a string doesn't depend on frequency — only on tension and linear density.",
+      "Speed of sound in a gas is INDEPENDENT of pressure (at fixed T) but depends on T: v ∝ √T.",
+      "Beats: if tuning fork filed → f↑. Two forks beat at 4 Hz: unknown could be f±4, not just one.",
+      "Doppler formula sign: depends on convention — check toward/away for source AND observer separately."
+    ],
+    "examDayCheck": [
+      "SHM period questions: identify k or L/g, then T = 2π√(m/k) or 2π√(L/g).",
+      "For waves on strings/pipes, count nodes/antinodes from diagram to get mode number.",
+      "Doppler: write general formula, plug signs based on 'approaching = +' rule.",
+      "Beat frequency = |difference| of two frequencies.",
+      "Units: ω in rad/s, f in Hz, T in s. k = 2π/λ is wave number, not spring constant — context matters."
+    ]
+  },
+  {
+    "id": "kcet-qs-phy-dual-nature",
+    "examId": "kcet",
+    "subject": "physics",
+    "chapter": "Dual Nature of Matter & Radiation",
+    "band": "MEDIUM",
+    "summary": "Photoelectric effect, Einstein's equation, threshold/work function, de Broglie wavelength, and matter-wave experiments.",
+    "formulas": [
+      {
+        "name": "Photon energy",
+        "expr": "$E = h\\nu = hc/\\lambda$"
+      },
+      {
+        "name": "Einstein's photoelectric equation",
+        "expr": "$KE_{max} = h\\nu - \\phi = h(\\nu - \\nu_0)$"
+      },
+      {
+        "name": "Stopping potential",
+        "expr": "$eV_0 = KE_{max} = h\\nu - \\phi$"
+      },
+      {
+        "name": "Threshold frequency / wavelength",
+        "expr": "$\\nu_0 = \\phi/h;\\; \\lambda_0 = hc/\\phi$"
+      },
+      {
+        "name": "De Broglie wavelength",
+        "expr": "$\\lambda = h/p = h/(mv)$"
+      },
+      {
+        "name": "Electron accelerated through V",
+        "expr": "$\\lambda = 12.27/\\sqrt V$ Å"
+      },
+      {
+        "name": "Photon momentum",
+        "expr": "$p = h/\\lambda = E/c$"
+      },
+      {
+        "name": "Intensity ∝ photon flux",
+        "expr": "$I = N h\\nu /(A t)$"
+      },
+      {
+        "name": "Convenient constant",
+        "expr": "$hc \\approx 1240$ eV·nm"
+      }
+    ],
+    "shortcuts": [
+      "Photoelectric emission happens only when ν ≥ ν₀ (frequency threshold), regardless of intensity.",
+      "Increasing intensity (same ν): MORE photoelectrons (higher current) but SAME KE_max.",
+      "Increasing frequency: SAME number of electrons per photon absorbed, but HIGHER KE_max.",
+      "Stopping potential V₀ depends ONLY on frequency and metal (work function), NOT on intensity.",
+      "De Broglie: λ = h/p. For massive, slow particles λ is vanishingly small; for electrons λ is Å scale.",
+      "At same KE, λ_electron > λ_proton (since p = √(2mKE), smaller m → smaller p → larger λ).",
+      "Photon has zero rest mass but momentum p = E/c = h/λ."
+    ],
+    "traps": [
+      "Work function φ (eV) and threshold wavelength λ₀ are INVERSELY related: larger φ ↔ smaller λ₀.",
+      "Photoelectric effect is INSTANTANEOUS — no time lag, disproving the wave-only model of light.",
+      "KE_max (not 'KE'): photoelectrons have a SPECTRUM of KE from 0 to KE_max (those at surface have max).",
+      "Classical wave theory CANNOT explain threshold frequency, instant emission, or KE independent of intensity.",
+      "De Broglie works for all matter but measurable only for small m (electrons yes; cricket ball no).",
+      "Momentum of photon: p = h/λ. Don't use mv (m_rest = 0).",
+      "Convert units: 1 eV = 1.6×10⁻¹⁹ J; hc ≈ 1240 eV·nm. Keep all quantities in same unit family."
+    ],
+    "examDayCheck": [
+      "Identify 'above or below threshold?' — if ν < ν₀, no emission no matter the intensity.",
+      "For stopping potential: eV₀ = hν − φ. Graph V₀ vs ν is a straight line of slope h/e.",
+      "For de Broglie, compute p first (from KE or direct), then λ = h/p.",
+      "Quick: electron through V volts → λ = 12.27/√V Å.",
+      "Units: φ in eV (typical), λ in nm or Å, h = 6.63×10⁻³⁴ J·s = 4.14×10⁻¹⁵ eV·s."
+    ]
+  },
+  {
+    "id": "kcet-qs-che-haloalkanes-haloarenes",
+    "examId": "kcet",
+    "subject": "chemistry",
+    "chapter": "Haloalkanes & Haloarenes",
+    "band": "HIGH",
+    "summary": "SN1/SN2/E1/E2 mechanics, reagent matching, and the special inertness of haloarenes.",
+    "formulas": [
+      {
+        "name": "SN2 mechanism",
+        "expr": "Nu$^-$ + R-X $\\rightarrow$ [Nu...R...X]$^\\ddagger$ $\\rightarrow$ Nu-R + X$^-$",
+        "note": "One step, backside attack, Walden inversion, 2nd-order kinetics."
+      },
+      {
+        "name": "SN1 mechanism",
+        "expr": "R-X $\\rightarrow$ R$^+$ + X$^-$ (slow); R$^+$ + Nu$^-$ $\\rightarrow$ R-Nu",
+        "note": "Two-step, racemisation, 1st-order; carbocation stability controls rate."
+      },
+      {
+        "name": "Saytzeff elimination",
+        "expr": "E1/E2 give the MORE substituted (stable) alkene as major"
+      },
+      {
+        "name": "Hofmann elimination",
+        "expr": "Bulky base (t-BuO$^-$) $\\rightarrow$ LESS substituted alkene"
+      },
+      {
+        "name": "Finkelstein",
+        "expr": "R-Cl/Br + NaI $\\xrightarrow{\\text{acetone}}$ R-I + NaCl/Br$\\downarrow$"
+      },
+      {
+        "name": "Swarts",
+        "expr": "R-Br + AgF/Hg$_2$F$_2$ $\\rightarrow$ R-F"
+      },
+      {
+        "name": "Wurtz",
+        "expr": "2 R-X + 2 Na $\\xrightarrow{\\text{dry ether}}$ R-R + 2 NaX"
+      },
+      {
+        "name": "Wurtz-Fittig",
+        "expr": "Ar-X + R-X + 2 Na $\\rightarrow$ Ar-R (alkyl aryl)"
+      },
+      {
+        "name": "Fittig",
+        "expr": "2 Ar-X + 2 Na $\\rightarrow$ Ar-Ar (biaryl)"
+      },
+      {
+        "name": "Sandmeyer",
+        "expr": "ArN$_2^+$ + CuCl/CuBr/CuCN $\\rightarrow$ Ar-Cl/Br/CN"
+      },
+      {
+        "name": "Gattermann",
+        "expr": "ArN$_2^+$ + Cu/HCl or HBr $\\rightarrow$ Ar-Cl/Br (poorer yield than Sandmeyer)"
+      },
+      {
+        "name": "Dipole moment order",
+        "expr": "$\\mu$: CH$_3$Cl > CH$_3$F > CH$_3$Br > CH$_3$I"
+      }
+    ],
+    "shortcuts": [
+      "SN2 rate: CH$_3$X > 1° > 2° > 3° (steric); SN1 rate is the REVERSE (cation stability).",
+      "Leaving group ability: I > Br > Cl > F (bigger, weaker C-X; F is worst LG).",
+      "Polar protic solvent (H$_2$O, ROH) favours SN1/E1; polar aprotic (DMSO, DMF, acetone) favours SN2.",
+      "Allyl/benzyl halides: undergo BOTH SN1 and SN2 readily (resonance-stabilised cation AND unhindered).",
+      "Vinyl and aryl halides: INERT to SN1/SN2 (sp$^2$ C, partial double-bond character, back-donation).",
+      "Chlorobenzene EAS: -Cl is o/p-directing but deactivating (resonance donor, inductive withdrawer).",
+      "DDT = dichlorodiphenyltrichloroethane; Freon = CF$_2$Cl$_2$ (ozone killer); CHCl$_3$ stored in dark (phosgene)."
+    ],
+    "traps": [
+      "Anti-Markovnikov addition is HBr-only (peroxide/Kharasch effect); HCl and HI do NOT show it.",
+      "Nucleophilicity vs basicity in polar protic: I$^-$ > Br$^-$ > Cl$^-$ > F$^-$ (opposite of gas phase).",
+      "Aryl halides react with strong base (NaNH$_2$) via BENZYNE, not SN2.",
+      "Neopentyl halide (CH$_3$)$_3$CCH$_2$X is 1° but DOES NOT do SN2 (β-steric block).",
+      "CHCl$_3$ + aq. NaOH + RNH$_2$ $\\rightarrow$ RNC (carbylamine) — only 1° amines.",
+      "Racemic mixture is optically INACTIVE; meso is also inactive (internal plane)."
+    ],
+    "examDayCheck": [
+      "Read 1°/2°/3° + solvent polarity $\\rightarrow$ pick SN1 vs SN2 in one glance.",
+      "Benzyl/allyl = 'best of both worlds'; vinyl/aryl = 'does nothing'.",
+      "If base is bulky $\\rightarrow$ Hofmann; if base is small $\\rightarrow$ Saytzeff.",
+      "Ar-N$_2^+$ at 0–5 °C: Cl/Br/CN needs Cu (Sandmeyer); I needs just KI."
+    ]
+  },
+  {
+    "id": "kcet-qs-che-alcohols-phenols-ethers",
+    "examId": "kcet",
+    "subject": "chemistry",
+    "chapter": "Alcohols, Phenols & Ethers",
+    "band": "HIGH",
+    "summary": "Acidity ladder, Lucas test, Williamson synthesis, Reimer–Tiemann and Kolbe — all reagent-match gold.",
+    "formulas": [
+      {
+        "name": "Acidity order",
+        "expr": "RCOOH > H$_2$CO$_3$ > ArOH > H$_2$O > ROH > HC$\\equiv$CH"
+      },
+      {
+        "name": "Lucas test (anhyd. ZnCl$_2$/HCl)",
+        "expr": "3° ROH: instant turbidity; 2°: 5–10 min; 1°: no reaction at RT"
+      },
+      {
+        "name": "Victor Meyer",
+        "expr": "1° ROH $\\rightarrow$ blood-red; 2° $\\rightarrow$ blue; 3° $\\rightarrow$ colourless"
+      },
+      {
+        "name": "Williamson ether synth",
+        "expr": "R-ONa + R$'$-X $\\rightarrow$ R-O-R$'$ + NaX (SN2; must use 1° R$'$-X)"
+      },
+      {
+        "name": "Kolbe's rxn (phenol)",
+        "expr": "PhONa + CO$_2$ $\\xrightarrow{125\\text{°C}, 4\\text{ atm}}$ salicylic acid (o-OH-C$_6$H$_4$-COOH)"
+      },
+      {
+        "name": "Reimer–Tiemann",
+        "expr": "PhOH + CHCl$_3$ + NaOH $\\rightarrow$ salicylaldehyde (o-OH-C$_6$H$_4$-CHO)"
+      },
+      {
+        "name": "Dehydration order",
+        "expr": "Ease: 3° > 2° > 1° (E1; conc. H$_2$SO$_4$, 443 K for 1°; 373 K for 3°)"
+      },
+      {
+        "name": "Esterification",
+        "expr": "RCOOH + R$'$OH $\\underset{\\text{H}_2\\text{SO}_4}{\\rightleftharpoons}$ RCOOR$'$ + H$_2$O (Fischer)"
+      },
+      {
+        "name": "Oxidation",
+        "expr": "1° $\\xrightarrow{\\text{PCC}}$ RCHO; 1° $\\xrightarrow{\\text{KMnO}_4}$ RCOOH; 2° $\\rightarrow$ ketone; 3° resists"
+      }
+    ],
+    "shortcuts": [
+      "Phenol > alcohol in acidity: phenoxide is resonance-stabilised; alkoxide is not.",
+      "Electron-withdrawing groups (NO$_2$, especially o/p) INCREASE phenol acidity; alkyl groups decrease.",
+      "p-nitrophenol > m-nitrophenol acidity (resonance vs only inductive).",
+      "Williamson for 3°-alkyl ethers: use 3°-ONa + 1°-X (NOT 1°-ONa + 3°-X $\\rightarrow$ elimination).",
+      "Anisole (PhOMe) EAS: o/p directing, activating (stronger than -OH? No, -OH is stronger donor).",
+      "Glycerol + KHSO$_4$ $\\rightarrow$ acrolein (CH$_2$=CH-CHO); sweet smell, test for glycerol.",
+      "Lucas works only on ROH soluble in reagent (≤ C$_6$); larger alcohols are insoluble."
+    ],
+    "traps": [
+      "Phenol does NOT react with NaHCO$_3$ (not acidic enough); RCOOH does — CO$_2$ evolved distinguishes them.",
+      "Ethers are CLEAVED by HI (not HCl/HBr at RT): R-O-R$'$ + HI $\\rightarrow$ R-I + R$'$OH (I$^-$ attacks less hindered).",
+      "Anisole + HI: gives CH$_3$I + PhOH (NOT PhI + MeOH — aryl C-O is stronger).",
+      "Phenol + Br$_2$ (aq) $\\rightarrow$ 2,4,6-tribromophenol instantly (white ppt); in CS$_2$ gives mono-Br.",
+      "Glycol (1,2-diol) + HIO$_4$ $\\rightarrow$ cleaves C-C between OHs (Malaprade); used in carbohydrates.",
+      "Peroxide in old ether: tests positive with KI/starch; distil carefully — explosion risk."
+    ],
+    "examDayCheck": [
+      "Acidity fastest sort: -NO$_2$/-COOH/-X on ring pushes acidity UP; -OCH$_3$/-CH$_3$ pushes DOWN.",
+      "Lucas: 3° = immediate, 2° = wait, 1° = never (at RT).",
+      "Williamson: always pair 1°-halide with the hindered alkoxide.",
+      "Kolbe = salicylic acid (COOH); Reimer–Tiemann = salicylaldehyde (CHO) — don't swap."
+    ]
+  },
+  {
+    "id": "kcet-qs-che-aldehydes-ketones-carboxylic-acids",
+    "examId": "kcet",
+    "subject": "chemistry",
+    "chapter": "Aldehydes, Ketones & Carboxylic Acids",
+    "band": "HIGH",
+    "summary": "Named reactions factory: Cannizzaro, Aldol, Clemmensen, Wolff-Kishner, HVZ, Rosenmund, Stephen.",
+    "formulas": [
+      {
+        "name": "Aldol condensation",
+        "expr": "2 CH$_3$CHO $\\xrightarrow{\\text{dil. NaOH}}$ CH$_3$CH(OH)CH$_2$CHO $\\xrightarrow{\\Delta}$ CH$_3$CH=CHCHO (crotonaldehyde)"
+      },
+      {
+        "name": "Cannizzaro",
+        "expr": "2 HCHO + NaOH $\\rightarrow$ HCOONa + CH$_3$OH (no $\\alpha$-H; disproportionation)"
+      },
+      {
+        "name": "Crossed Cannizzaro",
+        "expr": "HCHO + PhCHO + NaOH $\\rightarrow$ HCOONa + PhCH$_2$OH"
+      },
+      {
+        "name": "Clemmensen",
+        "expr": ">C=O $\\xrightarrow{\\text{Zn-Hg / conc. HCl}}$ -CH$_2$- (acid-stable substrates)"
+      },
+      {
+        "name": "Wolff-Kishner",
+        "expr": ">C=O + H$_2$NNH$_2$ / KOH, ethylene glycol, $\\Delta$ $\\rightarrow$ -CH$_2$- (base-stable substrates)"
+      },
+      {
+        "name": "Rosenmund",
+        "expr": "RCOCl + H$_2$ / Pd-BaSO$_4$ (poisoned w/ S/quinoline) $\\rightarrow$ RCHO + HCl"
+      },
+      {
+        "name": "Stephen",
+        "expr": "RCN + SnCl$_2$/HCl, then H$_2$O $\\rightarrow$ RCHO"
+      },
+      {
+        "name": "HVZ",
+        "expr": "RCH$_2$COOH + X$_2$/red-P $\\rightarrow$ RCHX-COOH (works on $\\alpha$-C)"
+      },
+      {
+        "name": "Etard",
+        "expr": "Toluene + CrO$_2$Cl$_2$/CS$_2$ $\\rightarrow$ benzaldehyde (stops at CHO)"
+      },
+      {
+        "name": "Gatterman-Koch",
+        "expr": "Benzene + CO + HCl / anhyd. AlCl$_3$/CuCl $\\rightarrow$ PhCHO"
+      },
+      {
+        "name": "Acidity of acids",
+        "expr": "HCOOH > CH$_3$COOH > CH$_3$CH$_2$COOH (alkyl +I decreases acidity)"
+      },
+      {
+        "name": "$\\alpha$-halo acid acidity",
+        "expr": "Cl$_3$CCOOH > Cl$_2$CHCOOH > ClCH$_2$COOH > CH$_3$COOH"
+      }
+    ],
+    "shortcuts": [
+      "Tollens' (Ag$^+$/NH$_3$) mirror: aldehydes YES, ketones NO, HCOOH/HCOOR YES.",
+      "Fehling's/Benedict's (Cu$^{2+}$, alkaline tartrate): aliphatic CHO YES; aromatic CHO NO; ketones NO.",
+      "Iodoform test (I$_2$/NaOH) positive: CH$_3$CO- group OR CH$_3$CH(OH)- group (ethanol, acetone, acetaldehyde YES; methanol, formaldehyde NO).",
+      "Nucleophilic addition at C=O: aldehydes > ketones (steric + +I of alkyl).",
+      "Acid derivative reactivity toward nucleophiles: RCOCl > (RCO)$_2$O > RCOOR$'$ > RCONH$_2$.",
+      "Decarboxylation: RCOONa + NaOH/CaO (soda-lime), $\\Delta$ $\\rightarrow$ RH + Na$_2$CO$_3$.",
+      "o/p substituents: -NO$_2$ on benzoic acid increases acidity most at p; -OMe decreases at p."
+    ],
+    "traps": [
+      "Benzaldehyde fails Fehling's (no aliphatic $\\alpha$-H/aromatic) but passes Tollens'.",
+      "Formic acid (HCOOH) reduces Tollens', Fehling's AND decolourises KMnO$_4$ — it's an aldehyde-acid hybrid.",
+      "Cannizzaro needs NO $\\alpha$-H (HCHO, PhCHO, (CH$_3$)$_3$CCHO); aldol needs $\\alpha$-H.",
+      "Clemmensen fails with -NO$_2$, -OH (acid-sensitive); Wolff-Kishner fails with base-sensitive groups.",
+      "Schiff's reagent: aldehydes restore pink; acetone does NOT (but cyclohexanone sometimes does weakly).",
+      "Acetic acid freezes at 16.6 °C ('glacial'); melting point is NOT 0 °C.",
+      "2,4-DNP (Brady's): gives orange-yellow ppt with ALL aldehydes & ketones — detect carbonyl, not distinguish."
+    ],
+    "examDayCheck": [
+      "Tollens' distinguishes CHO from C=O; iodoform distinguishes CH$_3$CO- or CH$_3$CH(OH)-.",
+      "Cannizzaro vs Aldol: no $\\alpha$-H → Cannizzaro; has $\\alpha$-H → Aldol.",
+      "Clemmensen = acid; Wolff-Kishner = base. Pick the one your substrate tolerates.",
+      "Order reactivity of acid derivatives: Cl > anhydride > ester > amide."
+    ]
+  },
+  {
+    "id": "kcet-qs-che-amines",
+    "examId": "kcet",
+    "subject": "chemistry",
+    "chapter": "Amines",
+    "band": "HIGH",
+    "summary": "Basicity orders, Hinsberg, carbylamine, diazotisation — the small-chapter-big-marks specialist.",
+    "formulas": [
+      {
+        "name": "Gabriel phthalimide",
+        "expr": "Phthalimide-K + R-X $\\rightarrow$ N-alkyl phthalimide $\\xrightarrow{\\text{H}_3\\text{O}^+ / \\text{NH}_2\\text{NH}_2}$ R-NH$_2$ (only 1°, NO aryl)"
+      },
+      {
+        "name": "Hofmann bromamide",
+        "expr": "RCONH$_2$ + Br$_2$ + 4 KOH $\\rightarrow$ R-NH$_2$ + 2 KBr + K$_2$CO$_3$ + 2 H$_2$O (loses 1 C)"
+      },
+      {
+        "name": "Carbylamine",
+        "expr": "R-NH$_2$ + CHCl$_3$ + 3 KOH $\\rightarrow$ R-NC + 3 KCl + 3 H$_2$O (1° amines only, foul smell)"
+      },
+      {
+        "name": "Hinsberg (PhSO$_2$Cl)",
+        "expr": "1° $\\rightarrow$ sulfonamide soluble in KOH; 2° $\\rightarrow$ insoluble sulfonamide; 3° $\\rightarrow$ no reaction"
+      },
+      {
+        "name": "Diazotisation",
+        "expr": "Ar-NH$_2$ + NaNO$_2$ + 2 HCl $\\xrightarrow{0-5\\text{°C}}$ ArN$_2^+$Cl$^-$ + NaCl + 2 H$_2$O"
+      },
+      {
+        "name": "Azo coupling",
+        "expr": "ArN$_2^+$ + PhOH/PhNMe$_2$ $\\rightarrow$ p-Ar-N=N-C$_6$H$_4$-OH/NMe$_2$ (orange/red dye)"
+      },
+      {
+        "name": "Aliphatic + HNO$_2$",
+        "expr": "R-NH$_2$ + HNO$_2$ $\\rightarrow$ R-OH + N$_2$$\\uparrow$ + H$_2$O"
+      }
+    ],
+    "shortcuts": [
+      "Basicity in GAS phase: 3° > 2° > 1° > NH$_3$ (pure +I effect).",
+      "Basicity in AQUEOUS phase: (CH$_3$)$_2$NH > CH$_3$NH$_2$ > (CH$_3$)$_3$N > NH$_3$ (+I vs H-bonding vs steric).",
+      "For ethyl: (C$_2$H$_5$)$_2$NH > (C$_2$H$_5$)$_3$N > C$_2$H$_5$NH$_2$ > NH$_3$ (memory: '2° highest').",
+      "Aromatic amines MUCH less basic than aliphatic: lone pair conjugated into ring (resonance).",
+      "Aniline basicity: p-toluidine > aniline > p-nitroaniline (EWG destabilises ArNH$_3^+$).",
+      "Aniline does NOT undergo Friedel-Crafts (AlCl$_3$ binds N; ring deactivated by ArNH$_3^+$)."
+    ],
+    "traps": [
+      "3° amines give NO reaction in Hinsberg test (no N-H); they dissolve in acid — separable by shaking with HCl.",
+      "Carbylamine (isocyanide) test detects 1° amines ONLY, not 2° or 3°.",
+      "Aryl diazonium is STABLE at 0–5 °C; aliphatic diazonium decomposes instantly → alcohol + N$_2$.",
+      "Reduction of -NO$_2$: Sn/HCl or Fe/HCl gives Ar-NH$_2$; Zn/NH$_4$Cl gives hydroxylamine Ar-NHOH; Zn/NaOH gives azo/hydrazo intermediates.",
+      "Aniline + Br$_2$ (aq) $\\rightarrow$ 2,4,6-tribromoaniline (white ppt) — acetylation (to acetanilide) first enables mono-bromination.",
+      "Gabriel gives ONLY 1° aliphatic amines; fails for Ar-NH$_2$ (aryl halide doesn't do SN2)."
+    ],
+    "examDayCheck": [
+      "Basicity in water: 2° > 1° > 3° (methyl) or 2° > 3° > 1° (ethyl).",
+      "Hinsberg: 1° dissolves in KOH, 2° does not, 3° doesn't react.",
+      "Below 5 °C — ArN$_2^+$ is your exam-time gateway to -Cl/-Br/-I/-CN/-OH/-H/azo dye.",
+      "Hofmann bromamide loses a carbon; Gabriel keeps the carbon count."
+    ]
+  },
+  {
+    "id": "kcet-qs-che-biomolecules",
+    "examId": "kcet",
+    "subject": "chemistry",
+    "chapter": "Biomolecules",
+    "band": "HIGH",
+    "summary": "Sugars, amino acids, proteins, nucleic acids, vitamins — pure memorisation; 100% from NCERT.",
+    "formulas": [
+      {
+        "name": "Glucose formula",
+        "expr": "C$_6$H$_{12}$O$_6$ (aldohexose, D-glucose, dextrorotatory)"
+      },
+      {
+        "name": "Fructose",
+        "expr": "C$_6$H$_{12}$O$_6$ (ketohexose, D-fructose, laevorotatory — hence 'invert sugar')"
+      },
+      {
+        "name": "Sucrose hydrolysis",
+        "expr": "Sucrose + H$_2$O $\\rightarrow$ glucose + fructose; [α]: +66.5° $\\rightarrow$ -20° (inversion)"
+      },
+      {
+        "name": "Glycosidic bond",
+        "expr": "Maltose: α-1,4; Lactose: β-1,4 (gal-glu); Sucrose: α-1,2 (glu-fru); Cellulose: β-1,4; Starch/glycogen: α-1,4 + α-1,6 branches"
+      },
+      {
+        "name": "Peptide bond",
+        "expr": "-CONH- formed between $\\alpha$-COOH of one AA and $\\alpha$-NH$_2$ of next (dehydration)"
+      },
+      {
+        "name": "Amino acid zwitterion",
+        "expr": "H$_3$N$^+$-CHR-COO$^-$ (isoelectric point pI: neutral form dominant)"
+      },
+      {
+        "name": "DNA bases",
+        "expr": "Purines: A, G; Pyrimidines: C, T (U in RNA); pair: A=T (2 H-bonds), G≡C (3 H-bonds)"
+      }
+    ],
+    "shortcuts": [
+      "Reducing sugars: glucose, fructose, maltose, lactose (free CHO/OH at anomeric C) — positive to Tollens'/Fehling's.",
+      "Non-reducing: SUCROSE only (both anomeric OH locked in glycosidic bond).",
+      "Fructose is a KETOSE but still reduces Tollens' (tautomerises to aldose in base).",
+      "Starch = amylose (linear α-1,4) + amylopectin (branched); glycogen = highly branched animal starch.",
+      "Cellulose has β-1,4 — humans lack β-glucosidase, cows/termites have microbes.",
+      "Essential AAs (must eat): 'PVT TIM HALL' — Phe, Val, Thr, Trp, Ile, Met, His, Arg*, Leu, Lys (Arg partially).",
+      "Secondary structure $\\alpha$-helix/β-sheet — stabilised by H-bonds; tertiary by S-S, ionic, H-bonds."
+    ],
+    "traps": [
+      "Vitamin B$_{12}$ contains Co (cobalt), NOT Zn or Fe. Haem has Fe; chlorophyll has Mg.",
+      "Scurvy = Vit C (water-soluble); Rickets = Vit D (fat-soluble); Beriberi = Vit B$_1$; Pellagra = Vit B$_3$.",
+      "Fat-soluble vitamins: A, D, E, K ('ADEK'). Rest are water-soluble (B complex, C).",
+      "Glucose exists as 36% $\\alpha$-pyranose, 64% $\\beta$-pyranose in solution — NOT open-chain (explains why glucose doesn't give NaHSO$_3$ adduct or Schiff's test).",
+      "DNA: 2'-deoxyribose + A/G/C/T; RNA: ribose + A/G/C/U (U replaces T).",
+      "Denaturation breaks 2°/3°/4° (H-bonds, disulfide) but NOT 1° (peptide bonds intact).",
+      "Enzymes are globular proteins (except ribozymes = RNA); their activity is pH/T sensitive."
+    ],
+    "examDayCheck": [
+      "Sucrose = only common non-reducing sugar; hydrolysis = 'invert sugar'.",
+      "B$_{12}$ has Co; haemoglobin has Fe; chlorophyll has Mg.",
+      "Glycogen = animal storage; starch = plant storage; cellulose = plant structure.",
+      "A-T (2 H-bonds), G-C (3 H-bonds) — GC-rich DNA is more stable."
+    ]
+  },
+  {
+    "id": "kcet-qs-che-d-f-block",
+    "examId": "kcet",
+    "subject": "chemistry",
+    "chapter": "d- and f-Block Elements",
+    "band": "HIGH",
+    "summary": "Colour, magnetism, oxidation-state trends, lanthanoid contraction, K$_2$Cr$_2$O$_7$ and KMnO$_4$ reactions.",
+    "formulas": [
+      {
+        "name": "Spin-only magnetic moment",
+        "expr": "$\\mu_s = \\sqrt{n(n+2)}$ BM, n = unpaired electrons",
+        "note": "Mn$^{2+}$ (d$^5$): n=5, $\\mu$=5.92 BM"
+      },
+      {
+        "name": "KMnO$_4$ half-rxn (acidic)",
+        "expr": "MnO$_4^-$ + 8H$^+$ + 5e$^-$ $\\rightarrow$ Mn$^{2+}$ + 4H$_2$O (n=5)"
+      },
+      {
+        "name": "KMnO$_4$ in neutral/alkaline",
+        "expr": "MnO$_4^-$ + 2H$_2$O + 3e$^-$ $\\rightarrow$ MnO$_2$ + 4OH$^-$ (n=3)"
+      },
+      {
+        "name": "K$_2$Cr$_2$O$_7$ half-rxn",
+        "expr": "Cr$_2$O$_7^{2-}$ + 14H$^+$ + 6e$^-$ $\\rightarrow$ 2Cr$^{3+}$ + 7H$_2$O (n=6)"
+      },
+      {
+        "name": "Chromate-dichromate equilibrium",
+        "expr": "2 CrO$_4^{2-}$ + 2H$^+$ $\\rightleftharpoons$ Cr$_2$O$_7^{2-}$ + H$_2$O (yellow $\\leftrightarrow$ orange)"
+      },
+      {
+        "name": "Lanthanoid contraction",
+        "expr": "Gradual decrease in atomic/ionic radius from La to Lu (poor 4f shielding)"
+      }
+    ],
+    "shortcuts": [
+      "Colour of Mn: Mn$^{2+}$ pale pink, Mn$^{3+}$ violet, MnO$_2$ black, MnO$_4^{2-}$ green, MnO$_4^-$ purple.",
+      "Colour of Cr: Cr$^{2+}$ blue, Cr$^{3+}$ green/violet, CrO$_4^{2-}$ yellow, Cr$_2$O$_7^{2-}$ orange.",
+      "Colour of 3d ions (aq): Ti$^{3+}$ purple, V$^{3+}$ green, Cr$^{3+}$ violet, Mn$^{2+}$ pink, Fe$^{2+}$ pale green, Fe$^{3+}$ yellow, Co$^{2+}$ pink, Ni$^{2+}$ green, Cu$^{2+}$ blue, Zn$^{2+}$ colourless.",
+      "Colourless 3d ions: Sc$^{3+}$ (d$^0$), Ti$^{4+}$ (d$^0$), Zn$^{2+}$ (d$^{10}$), Cu$^+$ (d$^{10}$) — no d–d transition.",
+      "Highest oxidation state of 3d: Mn = +7, Fe = +6, after Fe it drops. Ru, Os go to +8.",
+      "Transition-metal trends: max OS up to Mn, then drops; successive IEs small; most form complexes; most are paramagnetic.",
+      "Lanthanoid contraction effect: Zr ≈ Hf radius; 4d and 5d same-group similar size — hard to separate."
+    ],
+    "traps": [
+      "KMnO$_4$ is PURPLE because of charge-transfer (LMCT), NOT d–d (Mn is d$^0$ in +7).",
+      "Cu$^{2+}$ (d$^9$) has 1 unpaired $\\rightarrow$ paramagnetic, BLUE; Cu$^+$ (d$^{10}$) colourless but less stable in water (disproportionates to Cu + Cu$^{2+}$).",
+      "Zn, Cd, Hg are NOT typical transition metals (d$^{10}$ in ground state and all common OS — no partial d).",
+      "Hg is LIQUID at RT; Ag has highest electrical/thermal conductivity (not Cu!).",
+      "Lanthanoids show +3 as stable state (some show +2/+4: Ce$^{4+}$, Eu$^{2+}$, Yb$^{2+}$, Tb$^{4+}$).",
+      "Actinoids are more reactive & show wider oxidation states than lanthanoids due to poorer 5f shielding.",
+      "K$_2$Cr$_2$O$_7$ is a primary standard (not KMnO$_4$ — it's non-stoichiometric with MnO$_2$ impurity)."
+    ],
+    "examDayCheck": [
+      "Colour from d–d $\\rightarrow$ need partial d. d$^0$ and d$^{10}$ are colourless (except LMCT species like MnO$_4^-$).",
+      "$\\mu = \\sqrt{n(n+2)}$; n = 1,2,3,4,5 gives 1.73, 2.83, 3.87, 4.90, 5.92 BM.",
+      "K$_2$Cr$_2$O$_7$ n=6 (Cr$^{6+}$ → Cr$^{3+}$); KMnO$_4$ acidic n=5 (Mn$^{7+}$ → Mn$^{2+}$).",
+      "Lanthanoid contraction makes 4d ≈ 5d radii — key to Zr/Hf, Nb/Ta similarity."
+    ]
+  },
+  {
+    "id": "kcet-qs-che-redox-electrochemistry",
+    "examId": "kcet",
+    "subject": "chemistry",
+    "chapter": "Redox & Electrochemistry",
+    "band": "HIGH",
+    "summary": "Nernst, Kohlrausch, Faraday; battery chemistry and corrosion. Easy marks if equations are automatic.",
+    "formulas": [
+      {
+        "name": "Nernst (25 °C)",
+        "expr": "E = E° - \\dfrac{0.0591}{n}\\log Q"
+      },
+      {
+        "name": "$\\Delta$G° from E°",
+        "expr": "$\\Delta$G° = -nFE°_{cell}"
+      },
+      {
+        "name": "Equilibrium constant",
+        "expr": "\\log K = \\dfrac{n\\,E°_{cell}}{0.0591}"
+      },
+      {
+        "name": "Faraday's 1st law",
+        "expr": "m = Z\\,I\\,t = \\dfrac{M\\,I\\,t}{n\\,F}  \\quad (F = 96{,}500 \\text{ C})"
+      },
+      {
+        "name": "Molar conductivity",
+        "expr": "\\Lambda_m = \\dfrac{\\kappa \\times 1000}{c} \\; (\\text{S cm}^2\\,\\text{mol}^{-1})"
+      },
+      {
+        "name": "Kohlrausch (limiting)",
+        "expr": "\\Lambda_m^{\\infty} = \\nu_+ \\lambda_+^{\\infty} + \\nu_- \\lambda_-^{\\infty}"
+      },
+      {
+        "name": "Degree of dissociation",
+        "expr": "\\alpha = \\dfrac{\\Lambda_m}{\\Lambda_m^{\\infty}}"
+      },
+      {
+        "name": "Conductivity vs resistivity",
+        "expr": "\\kappa = \\dfrac{1}{\\rho} = \\dfrac{l}{R \\cdot A}"
+      }
+    ],
+    "shortcuts": [
+      "Positive E° = reduction favoured (oxidising agent); more positive = stronger oxidiser. F$_2$ strongest (+2.87 V).",
+      "For concentration cell: E = (0.0591/n) log(C$_{\\text{anode}}$ / C$_{\\text{cathode}}$) — runs till concentrations equalise.",
+      "1 F deposits 1 mol of monovalent metal (Ag, Na); 2 F for divalent (Cu, Zn); 3 F for Al.",
+      "Strong electrolytes: $\\Lambda_m$ rises slightly on dilution (Debye-Hückel-Onsager); weak: rises SHARPLY near infinite dilution.",
+      "Order of $\\lambda^{\\infty}$: H$^+$ (349.8) > OH$^-$ (198.6) > others (Grotthuss proton hopping).",
+      "Sacrificial protection: Zn/Mg protects Fe (Zn oxidises preferentially — galvanisation).",
+      "Lead storage: Pb + PbO$_2$ + H$_2$SO$_4$ discharging; charging reverses it. H$_2$SO$_4$ density drops on discharge."
+    ],
+    "traps": [
+      "Salt bridge prevents accumulation of charge and maintains electrical neutrality — it does NOT carry electrons.",
+      "In electrolytic cell, cathode is -, anode is +. In galvanic, cathode is +, anode is -. (Cathode = reduction always.)",
+      "On aqueous electrolysis of NaCl (brine), CATHODE gives H$_2$ (not Na — H$_2$O has lower reduction potential... actually higher/less negative); ANODE gives Cl$_2$ (overvoltage effect beats O$_2$).",
+      "Standard hydrogen electrode: Pt, H$_2$ (1 atm), H$^+$ (1 M), E° = 0 (defined).",
+      "$\\Delta$G° = -nFE°: if E°_{cell} > 0 (spontaneous) then $\\Delta$G° < 0 and K > 1.",
+      "Fuel cell efficiency > engine (70% vs 40%); H$_2$-O$_2$ gives water — no pollution.",
+      "Corrosion: Fe $\\rightarrow$ Fe$^{2+}$ at anode (pit); O$_2$ + H$_2$O + 4e$^-$ $\\rightarrow$ 4OH$^-$ at cathode (rim)."
+    ],
+    "examDayCheck": [
+      "Nernst at 25 °C: coefficient is 0.0591/n — commit to memory.",
+      "$\\Delta$G° = -nFE°; positive E° $\\Rightarrow$ negative $\\Delta$G° $\\Rightarrow$ spontaneous.",
+      "1 F = 96500 C deposits 1 equivalent (Eq = M/n).",
+      "Salt bridge = charge neutrality, NOT electron flow."
+    ]
+  },
+  {
+    "id": "kcet-qs-che-chemical-kinetics",
+    "examId": "kcet",
+    "subject": "chemistry",
+    "chapter": "Chemical Kinetics",
+    "band": "HIGH",
+    "summary": "Integrated rate laws, half-life tricks, Arrhenius — pure plug-and-chug once you've memorised four formulae.",
+    "formulas": [
+      {
+        "name": "Rate law",
+        "expr": "r = k[A]^x[B]^y; \\;\\text{order} = x+y"
+      },
+      {
+        "name": "First-order integrated",
+        "expr": "k = \\dfrac{2.303}{t}\\log\\dfrac{[A]_0}{[A]}"
+      },
+      {
+        "name": "First-order half-life",
+        "expr": "t_{1/2} = \\dfrac{0.693}{k} \\; (\\text{independent of }[A]_0)"
+      },
+      {
+        "name": "Zero-order",
+        "expr": "[A] = [A]_0 - kt; \\; t_{1/2} = \\dfrac{[A]_0}{2k}"
+      },
+      {
+        "name": "Second-order (single)",
+        "expr": "\\dfrac{1}{[A]} - \\dfrac{1}{[A]_0} = kt; \\; t_{1/2} = \\dfrac{1}{k[A]_0}"
+      },
+      {
+        "name": "Arrhenius",
+        "expr": "k = A\\,e^{-E_a/RT}"
+      },
+      {
+        "name": "Arrhenius two-T form",
+        "expr": "\\log\\dfrac{k_2}{k_1} = \\dfrac{E_a}{2.303\\,R}\\left(\\dfrac{1}{T_1} - \\dfrac{1}{T_2}\\right)"
+      },
+      {
+        "name": "Collision theory",
+        "expr": "k = P\\,Z\\,e^{-E_a/RT} \\; (\\text{P = steric factor})"
+      }
+    ],
+    "shortcuts": [
+      "Units of k: zero = mol L$^{-1}$ s$^{-1}$; first = s$^{-1}$; second = L mol$^{-1}$ s$^{-1}$; n-th = L$^{n-1}$ mol$^{1-n}$ s$^{-1}$.",
+      "Half-life shortcuts: n = half-lives; amount left = $[A]_0/2^n$ (first-order only — but for any order, after 1 t$_{1/2}$, half remains).",
+      "For 99% completion (first-order): t = 2 × t$_{99\\%} / 2$; use t = (2.303/k)log(100/1) = 4.606/k ≈ 6.64 × t$_{1/2}$.",
+      "For 10× rise in T (or typical 10 K): rate roughly doubles (rule of thumb, $E_a$ ≈ 50 kJ/mol).",
+      "If order is 0 in a species, changing its conc does NOT change rate; doubling species of order n multiplies rate by 2$^n$.",
+      "Pseudo first-order: one reactant in huge excess (e.g., water in ester hydrolysis).",
+      "Elementary step: order = molecularity. Complex reactions: order $\\neq$ molecularity (can be fractional or zero)."
+    ],
+    "traps": [
+      "Molecularity is for elementary reactions only, always a whole positive integer; order is experimentally determined and can be zero, fractional, or negative.",
+      "For a zero-order reaction, rate is independent of conc but NOT independent of time ([A] drops linearly).",
+      "t$_{1/2}$ of first-order depends ONLY on k, not on starting concentration.",
+      "Activation energy $E_a$ is the SAME for forward and reverse in absolute terms only if $\\Delta H = 0$; generally $E_{a,f} - E_{a,r} = \\Delta H$.",
+      "Catalyst lowers $E_a$ for BOTH forward and reverse equally — doesn't shift equilibrium, just reaches it faster.",
+      "Rate constant depends on T (Arrhenius) and catalyst; NOT on concentration.",
+      "Graph: ln k vs 1/T is linear with slope $-E_a/R$."
+    ],
+    "examDayCheck": [
+      "First-order: t$_{1/2}$ = 0.693/k; use log form for percentage decomposition.",
+      "For 'how many half-lives?': remaining = $[A]_0/2^n$ — solve for n.",
+      "Arrhenius: higher $E_a$ $\\Rightarrow$ more T-sensitive. Doubling T can shoot k up hugely.",
+      "Order from units of k: s$^{-1}$ = first; L mol$^{-1}$ s$^{-1}$ = second."
+    ]
+  },
+  {
+    "id": "kcet-qs-che-solutions",
+    "examId": "kcet",
+    "subject": "chemistry",
+    "chapter": "Solutions",
+    "band": "HIGH",
+    "summary": "Raoult, colligative properties, van't Hoff — numeric gold. Four questions are almost guaranteed.",
+    "formulas": [
+      {
+        "name": "Molality (m)",
+        "expr": "m = \\dfrac{\\text{moles solute}}{\\text{kg solvent}} \\; (\\text{T-independent})"
+      },
+      {
+        "name": "Molarity (M)",
+        "expr": "M = \\dfrac{\\text{moles solute}}{\\text{L solution}} \\; (\\text{T-dependent})"
+      },
+      {
+        "name": "Mole fraction",
+        "expr": "x_A = \\dfrac{n_A}{n_A + n_B}"
+      },
+      {
+        "name": "Raoult's law",
+        "expr": "p_A = x_A \\cdot p_A° ; \\; p_{total} = x_A p_A° + x_B p_B°"
+      },
+      {
+        "name": "Relative lowering of VP",
+        "expr": "\\dfrac{p° - p}{p°} = x_{solute} = \\dfrac{w_B M_A}{w_A M_B}"
+      },
+      {
+        "name": "Boiling-point elevation",
+        "expr": "\\Delta T_b = K_b \\cdot m \\cdot i"
+      },
+      {
+        "name": "Freezing-point depression",
+        "expr": "\\Delta T_f = K_f \\cdot m \\cdot i"
+      },
+      {
+        "name": "Osmotic pressure",
+        "expr": "\\pi = i \\cdot C \\cdot R \\cdot T"
+      },
+      {
+        "name": "van't Hoff factor",
+        "expr": "i = 1 + (n-1)\\alpha \\;(\\text{diss.}); \\; i = 1 - \\dfrac{\\alpha}{n}(n-1) \\; (\\text{assoc.})"
+      },
+      {
+        "name": "Henry's law",
+        "expr": "p = K_H \\cdot x \\; (\\text{solubility of gas in liquid})"
+      }
+    ],
+    "shortcuts": [
+      "Ideal solution: $\\Delta$H$_{mix}$ = 0, $\\Delta$V$_{mix}$ = 0, obeys Raoult at all x (e.g., n-hexane + n-heptane).",
+      "Positive deviation: weaker A-B interaction, +ve $\\Delta$H$_{mix}$, $p_{obs} > p_{Raoult}$ (e.g., ethanol + acetone, CHCl$_3$ + C$_2$H$_5$OH).",
+      "Negative deviation: stronger A-B (H-bond), -ve $\\Delta$H$_{mix}$, $p_{obs} < p_{Raoult}$ (e.g., CHCl$_3$ + acetone, HNO$_3$ + H$_2$O).",
+      "K$_b$ (H$_2$O) = 0.52 K kg/mol; K$_f$ (H$_2$O) = 1.86 K kg/mol — memorise.",
+      "Van't Hoff i: NaCl = 2, CaCl$_2$ = 3, K$_4$[Fe(CN)$_6$] = 5, glucose/urea = 1. Incomplete diss: use $\\alpha$.",
+      "For dimerising solute (e.g., RCOOH in benzene), i < 1.",
+      "Osmotic pressure is the only colligative property accurate at low M (measurable for biomolecules)."
+    ],
+    "traps": [
+      "Molarity changes with T (solution volume changes); molality does NOT (uses mass).",
+      "Max boiling azeotrope = -ve deviation (HNO$_3$ 68% + H$_2$O, HCl 20.2% + H$_2$O).",
+      "Min boiling azeotrope = +ve deviation (ethanol 95.6% + H$_2$O).",
+      "Osmotic pressure $\\pi$ uses MOLARITY, not molality (unlike $\\Delta T_b$, $\\Delta T_f$).",
+      "Isotonic = same $\\pi$; hypertonic shrinks cell (plasmolysis); hypotonic swells cell.",
+      "Henry's K$_H$ INCREASES with T for gases (gas solubility DECREASES with T — warm soda goes flat).",
+      "For 2% NaCl (i=2) and 1.8% glucose (i=1) both ≈ isotonic — don't forget i when comparing."
+    ],
+    "examDayCheck": [
+      "Freezing-point / boiling-point: always include i × K × m.",
+      "$\\pi$ = iCRT — uses R in the units that match (0.0821 L atm/K/mol typical).",
+      "K$_b$(H$_2$O) = 0.52; K$_f$(H$_2$O) = 1.86.",
+      "Raoult: positive deviation → min BP azeotrope; negative → max BP azeotrope."
+    ]
+  },
+  {
+    "id": "kcet-qs-che-coordination-compounds",
+    "examId": "kcet",
+    "subject": "chemistry",
+    "chapter": "Coordination Compounds",
+    "band": "MEDIUM",
+    "summary": "Werner, IUPAC nomenclature, CFT splitting, isomerism, magnetism — algorithmic once you know the rules.",
+    "formulas": [
+      {
+        "name": "Crystal Field Stabilisation Energy",
+        "expr": "\\text{CFSE (oct)} = (-0.4 n_{t_{2g}} + 0.6 n_{e_g})\\,\\Delta_o"
+      },
+      {
+        "name": "$\\Delta_o$ vs $\\Delta_t$",
+        "expr": "\\Delta_t = \\dfrac{4}{9}\\Delta_o \\; (\\text{tetrahedral splitting is smaller})"
+      },
+      {
+        "name": "EAN rule",
+        "expr": "\\text{EAN} = Z - \\text{oxid. state} + 2\\times(\\text{CN})"
+      },
+      {
+        "name": "Spin-only moment",
+        "expr": "\\mu = \\sqrt{n(n+2)} \\text{ BM}"
+      },
+      {
+        "name": "Isomer count",
+        "expr": "[\\text{Ma}_4\\text{b}_2] \\text{ oct: 2 (cis/trans)}; \\; [\\text{Ma}_3\\text{b}_3]: 2 (\\text{fac/mer})"
+      }
+    ],
+    "shortcuts": [
+      "Spectrochemical series (weak to strong): I$^-$ < Br$^-$ < S$^{2-}$ < SCN$^-$ < Cl$^-$ < F$^-$ < OH$^-$ < H$_2$O < NH$_3$ < en < NO$_2^-$ < CN$^-$ < CO.",
+      "Strong field ligands (CN$^-$, CO, NO$_2^-$, en, NH$_3$) cause low-spin, pairing; weak field (H$_2$O, F$^-$, Cl$^-$) high-spin.",
+      "[Fe(CN)$_6$]$^{4-}$: low-spin, d$^6$, DIAMAGNETIC (0 unpaired); [Fe(H$_2$O)$_6$]$^{2+}$: high-spin, 4 unpaired.",
+      "Tetrahedral complexes are ALWAYS high-spin ($\\Delta_t < P$); sq planar usually low-spin (d$^8$: Ni$^{2+}$, Pt$^{2+}$, Pd$^{2+}$).",
+      "Colours from d-d: Cu(H$_2$O)$_6^{2+}$ blue; + NH$_3$ $\\rightarrow$ deep blue Cu(NH$_3$)$_4^{2+}$ (stronger field, shorter wavelength absorbed).",
+      "Chelate effect: en ligand gives bigger K than two NH$_3$ (entropy win).",
+      "Ambidentate: -NO$_2$ (nitro) vs -ONO (nitrito); -SCN (thiocyanato-S) vs -NCS (thiocyanato-N)."
+    ],
+    "traps": [
+      "IUPAC: write cation first, anion second; within formula, ligands alphabetically; Greek prefixes don't affect order.",
+      "En counts as 2 coordination sites (bidentate), but one ligand in naming (bis for complicated, di for simple).",
+      "Geometrical isomerism needs $\\geq$ 2 different ligands; [Ma$_6$] or [Mab$_5$] cannot show it.",
+      "Optical isomerism in octahedral: common in [M(en)$_3$]$^{n+}$ and cis-[M(en)$_2$X$_2$]; trans usually has plane of symmetry.",
+      "[Ni(CN)$_4$]$^{2-}$: d$^8$, sq planar, diamagnetic; [NiCl$_4$]$^{2-}$: d$^8$, tetrahedral, paramagnetic (2 unpaired).",
+      "Charge of complex ion: $\\sum$(oxid. state of M) + $\\sum$(charges of ligands) = overall charge.",
+      "Back-bonding: CO is $\\sigma$-donor + $\\pi$-acceptor; makes M-C bond short and M-O stretch lower."
+    ],
+    "examDayCheck": [
+      "IUPAC: alphabetical ligands, oxidation state in Roman, complex cation before anion.",
+      "Strong ligand = low-spin; tetrahedral = always high-spin.",
+      "Cis-[Ma$_2$b$_2$] sq planar is optically inactive; cis-[M(en)$_2$b$_2$] oct is chiral.",
+      "$\\mu$ = $\\sqrt{n(n+2)}$ gives 0/1.73/2.83/3.87/4.90/5.92 BM for n=0..5."
+    ]
+  },
+  {
+    "id": "kcet-qs-che-chemical-bonding-molecular-structure",
+    "examId": "kcet",
+    "subject": "chemistry",
+    "chapter": "Chemical Bonding & Molecular Structure",
+    "band": "MEDIUM",
+    "summary": "VSEPR geometry, hybridisation, MO diagrams, dipole, bond order — NCERT visual memory.",
+    "formulas": [
+      {
+        "name": "Formal charge",
+        "expr": "\\text{FC} = V - \\dfrac{B}{2} - L \\; (V=\\text{valence e}^-, B=\\text{bond e}^-, L=\\text{lone e}^-)"
+      },
+      {
+        "name": "Bond order (MO)",
+        "expr": "\\text{BO} = \\dfrac{N_b - N_a}{2}"
+      },
+      {
+        "name": "Bond order (Lewis)",
+        "expr": "\\text{BO} = \\dfrac{\\text{total bonds in all res. structures}}{\\text{number of res. structures}}"
+      },
+      {
+        "name": "Hybridisation shortcut",
+        "expr": "h = \\dfrac{1}{2}(V + M - C + A)",
+        "note": "V=valence e-, M=monovalent atoms, C=cation, A=anion charge"
+      },
+      {
+        "name": "Dipole moment",
+        "expr": "\\mu = q \\cdot d \\; ; \\; 1\\,\\text{D} = 3.336 \\times 10^{-30}\\,\\text{C·m}"
+      }
+    ],
+    "shortcuts": [
+      "VSEPR geometries: 2=linear (sp), 3=trigonal planar (sp$^2$), 4=tetrahedral (sp$^3$), 5=trigonal bipyramidal (sp$^3$d), 6=octahedral (sp$^3$d$^2$).",
+      "With lone pairs: AX$_4$ = tet; AX$_3$E = pyramidal (NH$_3$); AX$_2$E$_2$ = bent (H$_2$O); AX$_5$E = sq pyramidal; AX$_4$E$_2$ = sq planar.",
+      "Bond angles compressed by lone pairs: CH$_4$ (109.5°) > NH$_3$ (107°) > H$_2$O (104.5°).",
+      "MO: N$_2$ BO=3, paramagnetic? NO (diamagnetic); O$_2$ BO=2, paramagnetic (2 unpaired in $\\pi^*$).",
+      "MO ordering: up to N$_2$, $\\sigma_{2p_z}$ ABOVE $\\pi_{2p}$; from O$_2$ onward, $\\sigma_{2p_z}$ BELOW $\\pi_{2p}$.",
+      "Polarity: symmetric molecules with equal bonds $\\Rightarrow$ $\\mu$ = 0 (CO$_2$, BF$_3$, CH$_4$, SF$_6$).",
+      "H-bonding strength: F-H > O-H > N-H; ortho-nitrophenol has intra H-bond (lower BP than para-isomer)."
+    ],
+    "traps": [
+      "CO$_2$ is linear, $\\mu$ = 0; H$_2$O is bent, $\\mu$ = 1.84 D. SO$_2$ is bent (lone pair), $\\mu$ ≠ 0.",
+      "NH$_3$ dipole > NF$_3$ dipole (lone pair aligns WITH N-H bonds but OPPOSES N-F bonds).",
+      "Hybridisation changes with geometry, not bonding. In graphite C is sp$^2$; diamond sp$^3$.",
+      "BeCl$_2$ in vapour is linear (sp), but in solid is polymeric (sp$^3$, chain).",
+      "Ne$_2$ bond order = 0 (N$_b$ = N$_a$), so Ne$_2$ doesn't exist as a bonded molecule.",
+      "Fajan's rule: more covalent if cation small/high-charge, anion large/high-charge. AgCl has more covalent character than NaCl.",
+      "sp$^3$d uses d orbital for expansion (SF$_4$, PCl$_5$) — only possible from period 3 onwards (d orbitals needed)."
+    ],
+    "examDayCheck": [
+      "Count lone pairs + bond pairs = hybridisation: 2→sp, 3→sp$^2$, 4→sp$^3$, 5→sp$^3$d, 6→sp$^3$d$^2$.",
+      "O$_2$ is paramagnetic in MO theory (2 unpaired); N$_2$ is diamagnetic.",
+      "Bond length inversely related to bond order: triple < double < single.",
+      "H-bond > dipole-dipole > London dispersion."
+    ]
+  },
+  {
+    "id": "kcet-qs-che-chemical-thermodynamics",
+    "examId": "kcet",
+    "subject": "chemistry",
+    "chapter": "Chemical Thermodynamics",
+    "band": "MEDIUM",
+    "summary": "First and second laws, state functions, Hess's law, spontaneity criterion. Numerical-heavy.",
+    "formulas": [
+      {
+        "name": "First law",
+        "expr": "\\Delta U = q + w \\; (w = -P_{ext}\\Delta V \\text{ for P-V work})"
+      },
+      {
+        "name": "Enthalpy",
+        "expr": "H = U + PV; \\; \\Delta H = \\Delta U + \\Delta n_g RT"
+      },
+      {
+        "name": "Heat capacity",
+        "expr": "q = n\\,C_p\\,\\Delta T \\; (\\text{const P});\\; q = n\\,C_v\\,\\Delta T \\; (\\text{const V})"
+      },
+      {
+        "name": "C$_p$ − C$_v$",
+        "expr": "C_p - C_v = R \\; (\\text{ideal gas, per mole})"
+      },
+      {
+        "name": "Isothermal reversible (ideal gas)",
+        "expr": "w = -nRT\\ln\\dfrac{V_2}{V_1} = -nRT\\ln\\dfrac{P_1}{P_2}"
+      },
+      {
+        "name": "Adiabatic reversible",
+        "expr": "PV^{\\gamma} = \\text{const}; \\; TV^{\\gamma-1} = \\text{const}; \\; T^{\\gamma}P^{1-\\gamma} = \\text{const}"
+      },
+      {
+        "name": "Entropy change",
+        "expr": "\\Delta S = \\dfrac{q_{rev}}{T}; \\; \\Delta S_{universe} = \\Delta S_{sys} + \\Delta S_{surr} > 0 \\text{ for spontaneous}"
+      },
+      {
+        "name": "Gibbs energy",
+        "expr": "\\Delta G = \\Delta H - T\\Delta S; \\; \\Delta G < 0 \\Rightarrow \\text{spontaneous}"
+      },
+      {
+        "name": "Gibbs and K",
+        "expr": "\\Delta G° = -RT\\ln K = -2.303\\,RT\\log K"
+      }
+    ],
+    "shortcuts": [
+      "State functions: U, H, S, G, T, P, V. Path functions: q, w.",
+      "Signs: work ON system is +; heat ABSORBED is +. Expansion does - work on system.",
+      "$\\Delta$H > 0 endothermic; $\\Delta$H < 0 exothermic. $\\Delta$S > 0 when disorder rises (gas formation, dissolution of most salts).",
+      "Spontaneity by $\\Delta$H, $\\Delta$S: $\\Delta$H<0,$\\Delta$S>0 always spontaneous; $\\Delta$H>0,$\\Delta$S<0 never; mixed cases depend on T.",
+      "For ideal gas isothermal: $\\Delta$U = 0, $\\Delta$H = 0, q = -w.",
+      "Hess: $\\Delta$H total = $\\sum\\Delta$H steps, regardless of path.",
+      "Bond enthalpy: $\\Delta_r H$ = $\\sum$(bonds broken) - $\\sum$(bonds formed)."
+    ],
+    "traps": [
+      "Combustion gives $\\Delta$H$_c$, always negative; formation of an element in std state = 0 by definition.",
+      "$\\Delta$S fusion (solid$\\rightarrow$liquid) and vapourisation are positive; freezing, condensation negative.",
+      "For reversible adiabatic process, $\\Delta$S$_{sys}$ = 0 (no heat exchange, q$_{rev}$ = 0).",
+      "$\\Delta$G° at equilibrium = 0 (at the point where Q = K), but $\\Delta$G° refers to standard conditions and is generally NOT zero.",
+      "Enthalpy of neutralisation (strong acid + strong base) = -57.1 kJ/mol (const); weak acid gives less (some E used to ionise).",
+      "Third law: entropy of perfect crystal at 0 K = 0. Residual entropy exists for imperfect solids (e.g., CO).",
+      "$\\Delta$H = $\\Delta$U only when $\\Delta$n$_g$ = 0 (e.g., H$_2$ + Cl$_2$ $\\rightarrow$ 2HCl; 2 mol gas both sides)."
+    ],
+    "examDayCheck": [
+      "Spontaneous: $\\Delta$G < 0. Equilibrium: $\\Delta$G = 0. Non-spontaneous: $\\Delta$G > 0.",
+      "Isothermal ideal: $\\Delta$U = 0, q = -w = nRT ln(V$_2$/V$_1$).",
+      "Adiabatic: q = 0, so $\\Delta$U = w.",
+      "$\\Delta$G° = -RT ln K — use to go between K and standard free energy."
+    ]
+  },
+  {
+    "id": "kcet-qs-che-equilibrium",
+    "examId": "kcet",
+    "subject": "chemistry",
+    "chapter": "Equilibrium",
+    "band": "MEDIUM",
+    "summary": "K$_p$/K$_c$, Le Chatelier, pH/pOH, buffers, K$_{sp}$ and common-ion — quick numerics.",
+    "formulas": [
+      {
+        "name": "K$_p$ and K$_c$",
+        "expr": "K_p = K_c (RT)^{\\Delta n_g}"
+      },
+      {
+        "name": "Reaction quotient",
+        "expr": "Q_c = \\dfrac{[\\text{products}]}{[\\text{reactants}]}; \\; Q<K \\Rightarrow \\text{forward shift}"
+      },
+      {
+        "name": "Kw",
+        "expr": "K_w = [\\text{H}^+][\\text{OH}^-] = 10^{-14} \\text{ at 25 °C}"
+      },
+      {
+        "name": "pH",
+        "expr": "\\text{pH} = -\\log[\\text{H}^+]; \\; \\text{pH + pOH} = 14 \\text{ at 25 °C}"
+      },
+      {
+        "name": "Henderson (acidic buffer)",
+        "expr": "\\text{pH} = \\text{p}K_a + \\log\\dfrac{[\\text{salt}]}{[\\text{acid}]}"
+      },
+      {
+        "name": "Henderson (basic buffer)",
+        "expr": "\\text{pOH} = \\text{p}K_b + \\log\\dfrac{[\\text{salt}]}{[\\text{base}]}"
+      },
+      {
+        "name": "K$_a$ and K$_b$ (conj)",
+        "expr": "K_a \\cdot K_b = K_w"
+      },
+      {
+        "name": "K$_{sp}$",
+        "expr": "K_{sp} = [\\text{A}^{n+}]^m[\\text{B}^{m-}]^n \\; \\text{for A}_m\\text{B}_n"
+      },
+      {
+        "name": "Solubility S",
+        "expr": "\\text{For A}_m\\text{B}_n: K_{sp} = m^m n^n S^{m+n}"
+      }
+    ],
+    "shortcuts": [
+      "Le Chatelier: increase P favours side with FEWER moles of gas; increase T favours endothermic direction.",
+      "Adding inert gas at const V: no shift (partial pressures unchanged); at const P: shift toward more moles.",
+      "Catalyst: reaches equilibrium faster, DOES NOT shift position.",
+      "Salt of SA + SB (NaCl): neutral; SA + WB (NH$_4$Cl): acidic; WA + SB (CH$_3$COONa): basic; WA + WB: depends on K$_a$ vs K$_b$.",
+      "Common-ion effect: adding common ion SUPPRESSES dissociation/solubility (e.g., CH$_3$COOH + CH$_3$COONa).",
+      "Ionic product IP vs K$_{sp}$: IP > K$_{sp}$ $\\Rightarrow$ precipitation; IP < K$_{sp}$ $\\Rightarrow$ more can dissolve.",
+      "Buffer capacity is MAX when pH = pK$_a$ (i.e., [salt] = [acid])."
+    ],
+    "traps": [
+      "K depends only on T; not on concentrations or pressures.",
+      "For gaseous reactions where $\\Delta n_g = 0$, K$_p$ = K$_c$.",
+      "pH < 7 does not always mean acidic — only at 25 °C. K$_w$ rises with T, so neutral pH at 60 °C is < 7.",
+      "Dilution shifts salt solubility by the common-ion law, but adding a DIFFERENT ion may also shift (salt effect — advanced).",
+      "Conjugate base of very strong acid (HCl) is a very WEAK base (Cl$^-$) — essentially neutral.",
+      "Buffer range: pK$_a$ $\\pm$ 1; outside that, buffer fails.",
+      "K$_a$ of H$_2$S: first stage K$_{a1}$ ≈ 10$^{-7}$, second K$_{a2}$ ≈ 10$^{-14}$; use in sulfide precipitation problems."
+    ],
+    "examDayCheck": [
+      "Henderson: pH = pK$_a$ + log([salt]/[acid]). At pH = pK$_a$, salt = acid.",
+      "K$_p$ = K$_c$(RT)$^{\\Delta n}$ — sign of $\\Delta n$ matters.",
+      "K$_{sp}$ for A$_2$B: 4S$^3$; for AB$_2$: 4S$^3$; for A$_2$B$_3$: 108 S$^5$.",
+      "pH + pOH = 14 (25 °C); neutral = 7."
+    ]
+  },
+  {
+    "id": "kcet-qs-che-general-organic-chemistry",
+    "examId": "kcet",
+    "subject": "chemistry",
+    "chapter": "General Organic Chemistry",
+    "band": "HIGH",
+    "summary": "Electronic effects, stability orders, IUPAC, reactive intermediates — the skeleton of every organic question.",
+    "formulas": [
+      {
+        "name": "Inductive effect (I)",
+        "expr": "-I: -NO_2 > -CN > -F > -Cl > -Br > -I > -COOH > -OH; \\; +I: -C(CH_3)_3 > -CH(CH_3)_2 > -C_2H_5 > -CH_3"
+      },
+      {
+        "name": "Resonance effect (R/M)",
+        "expr": "+R (donate): -OH, -OR, -NH_2, -NR_2, -halogens; \\; -R (withdraw): -NO_2, -CN, -CHO, -COR, -COOH"
+      },
+      {
+        "name": "Hyperconjugation",
+        "expr": "\\text{No. of } \\alpha\\text{-H directly donates to C}^+ \\text{ or to ring via H-C bond break-free delocalisation}"
+      },
+      {
+        "name": "Carbocation stability",
+        "expr": "\\text{Allyl, benzyl} > 3° > 2° > 1° > \\text{methyl} > \\text{vinyl}"
+      },
+      {
+        "name": "Carbanion stability",
+        "expr": "\\text{Methyl} > 1° > 2° > 3° \\; (\\text{REVERSE of cation})"
+      },
+      {
+        "name": "Free radical stability",
+        "expr": "\\text{Allyl, benzyl} > 3° > 2° > 1° > \\text{methyl}"
+      }
+    ],
+    "shortcuts": [
+      "Acidity of RCOOH: EWG at $\\alpha$-C increases acidity (Cl$_3$CCOOH > CCl$_2$HCOOH > CClH$_2$COOH > CH$_3$COOH).",
+      "Basicity of amines (aq): 2° > 1° > 3° for Me-amines (steric + solvation trade-off).",
+      "EAS directors: ACTIVATING o/p: -OH, -OR, -NH$_2$, -NR$_2$, -R, -Ar. DEACTIVATING o/p: halogens (lone pair donates by R, but -I stronger). DEACTIVATING m: -NO$_2$, -CN, -CHO, -COR, -COOH, -SO$_3$H, -NH$_3^+$, -CF$_3$.",
+      "Acidity ordering: RCOOH > H$_2$CO$_3$ > ArOH > H$_2$O > ROH > HC$\\equiv$CH > H$_2$ > NH$_3$ > CH$_4$.",
+      "IUPAC priority (for principal chain): COOH > COOR > COCl > CONH$_2$ > CN > CHO > C=O > OH > NH$_2$ > C=C > C$\\equiv$C > halogen.",
+      "Degree of unsaturation: DoU = (2C + 2 + N - H - X)/2; used to guess presence of rings/double bonds.",
+      "Aromaticity (Hückel): planar, cyclic, conjugated, (4n+2) $\\pi$ electrons (n=0,1,2,...)."
+    ],
+    "traps": [
+      "Halogens are o/p directors AND ring deactivators — resonance donor but stronger inductive withdrawer.",
+      "-NH$_2$ activates ring strongly, but PROTONATED -NH$_3^+$ (in acidic Friedel-Crafts) deactivates strongly and becomes m-director.",
+      "Hyperconjugation counts $\\alpha$-H (on sp$^3$ C next to positive/unsaturated C), not $\\beta$-H.",
+      "Tautomerism needs $\\alpha$-H (keto-enol); acetone (has $\\alpha$-H) tautomerises, but 2,2-dimethylpropanal does not.",
+      "Benzyne intermediate: symmetric, so in NaNH$_2$ cleavage of chlorobenzene, nucleophile can attach at either C of triple bond $\\rightarrow$ isomeric products.",
+      "Most-stable resonance structure: max covalent bonds, min charge separation, negative charge on more-EN atom.",
+      "Electromeric effect is TEMPORARY (present only when an attacking reagent is there); mesomeric is PERMANENT."
+    ],
+    "examDayCheck": [
+      "Acidity ladder: RCOOH > ArOH > H$_2$O > ROH > HCCH > NH$_3$.",
+      "Cation stability: 3° > 2° > 1° (hyperconjugation + +I).",
+      "o/p directors = activating EXCEPT halogens (deactivating o/p).",
+      "Aromatic: planar, cyclic, continuous $\\pi$, (4n+2) electrons."
+    ]
+  },
+  {
+    "id": "kcet-qs-che-hydrocarbons",
+    "examId": "kcet",
+    "subject": "chemistry",
+    "chapter": "Hydrocarbons",
+    "band": "MEDIUM",
+    "summary": "Alkanes-alkenes-alkynes-benzene reagent match; Markovnikov, ozonolysis, Wurtz, Kolbe, Lindlar.",
+    "formulas": [
+      {
+        "name": "Markovnikov",
+        "expr": "CH_3CH=CH_2 + HBr \\rightarrow CH_3CHBrCH_3 \\; (\\text{H to less-subst, X to more-subst})"
+      },
+      {
+        "name": "Anti-Markovnikov (Kharasch)",
+        "expr": "CH_3CH=CH_2 + HBr/\\text{peroxide} \\rightarrow CH_3CH_2CH_2Br \\; (\\text{HBr only})"
+      },
+      {
+        "name": "Ozonolysis",
+        "expr": "R_2C=CR_2' \\xrightarrow{O_3, Zn/H_2O} R_2C=O + O=CR_2' \\; (\\text{reductive}) \\;"
+      },
+      {
+        "name": "Lindlar catalyst",
+        "expr": "RC\\equiv CR' + H_2 \\xrightarrow{Pd/CaCO_3, quinoline} cis\\text{-alkene}"
+      },
+      {
+        "name": "Birch reduction",
+        "expr": "Benzene + Na/liq.NH_3 + EtOH \\rightarrow 1{,}4\\text{-cyclohexadiene}"
+      },
+      {
+        "name": "Friedel-Crafts alkylation",
+        "expr": "Ar\\text{-H} + R\\text{-X} \\xrightarrow{AlCl_3} Ar\\text{-R} \\; (\\text{needs activated or benzene; fails on deactivated or aniline})"
+      },
+      {
+        "name": "Friedel-Crafts acylation",
+        "expr": "Ar\\text{-H} + RCOCl \\xrightarrow{AlCl_3} Ar\\text{-COR} \\; (\\text{no rearrangement, stops at mono})"
+      },
+      {
+        "name": "Kolbe electrolysis",
+        "expr": "2 RCOONa \\xrightarrow{electrolysis} R\\text{-R} + 2 CO_2 + 2 Na + H_2"
+      },
+      {
+        "name": "Decarboxylation (soda-lime)",
+        "expr": "RCOONa + NaOH/CaO \\xrightarrow{\\Delta} RH + Na_2CO_3"
+      }
+    ],
+    "shortcuts": [
+      "Baeyer's reagent (dilute alkaline KMnO$_4$, cold): decolourised by alkenes/alkynes (forms diol/diketone); alkanes inert.",
+      "Br$_2$/CCl$_4$ test: decolourises with C=C and C$\\equiv$C; alkanes/aromatics don't.",
+      "Terminal alkyne: has acidic C-H ($\\alpha$-H on sp C); gives white ppt with AgNO$_3$/NH$_3$ (Ag acetylide) and red with Cu$_2$Cl$_2$/NH$_3$.",
+      "Internal alkyne: NO reaction with Tollens'-like tests (no acidic H).",
+      "Ozonolysis tells position of C=C: products $\\leftrightarrow$ two halves of original alkene.",
+      "Benzene EAS rank: HNO$_3$/H$_2$SO$_4$ (nitration); conc. H$_2$SO$_4$ (sulfonation); Cl$_2$/AlCl$_3$ (halog.); RCl/AlCl$_3$ (alkyl.); RCOCl/AlCl$_3$ (acyl.).",
+      "Alkanes: highly symmetric, low BP; branching lowers BP; n-C$_n$H$_{2n+2}$."
+    ],
+    "traps": [
+      "Markovnikov applies to unsymmetrical additions of HX, H$_2$O, etc.; symmetric reagents (Cl$_2$, Br$_2$) give no regiochemistry issue.",
+      "Anti-Markov only with HBr + peroxide. HCl and HI peroxide don't flip (bond-dissociation energies wrong).",
+      "Lindlar is for cis (syn addition, poisoned); Na/liq.NH$_3$ gives TRANS alkene (anti-addition).",
+      "Ozonolysis of alkyne gives carboxylic acids (oxidative) or aldehydes (reductive with Zn/H$_2$O).",
+      "Friedel-Crafts fails on aniline (AlCl$_3$ complexes with N) and strongly deactivated rings (nitrobenzene, benzoic acid).",
+      "Carbocation rearrangement in FC alkylation: 1° $\\rightarrow$ 2° $\\rightarrow$ 3° (via H/alkyl shift) — acylation does NOT.",
+      "Benzene ring does NOT decolourise Br$_2$ water (aromatic; stable $\\pi$); it substitutes only with Lewis acid."
+    ],
+    "examDayCheck": [
+      "Markov = H to H-rich C; Anti-Markov = HBr + peroxide only.",
+      "Terminal alkyne: white ppt w/ Tollens'-like (Ag); internal: silent.",
+      "Ozonolysis reductive (Zn/H$_2$O) $\\Rightarrow$ aldehydes/ketones; oxidative (H$_2$O$_2$) $\\Rightarrow$ acids/ketones.",
+      "Lindlar = cis; Na/liq.NH$_3$ = trans."
+    ]
+  },
+  {
+    "id": "kcet-qs-che-atomic-structure",
+    "examId": "kcet",
+    "subject": "chemistry",
+    "chapter": "Atomic Structure",
+    "band": "MEDIUM",
+    "summary": "Bohr, de Broglie, uncertainty, quantum numbers, Aufbau/Hund/Pauli — plug-and-chug numerics.",
+    "formulas": [
+      {
+        "name": "Bohr radius",
+        "expr": "r_n = 0.529 \\dfrac{n^2}{Z} \\text{ Å}"
+      },
+      {
+        "name": "Bohr energy",
+        "expr": "E_n = -13.6 \\dfrac{Z^2}{n^2} \\text{ eV} = -2.178\\times 10^{-18} \\dfrac{Z^2}{n^2} \\text{ J}"
+      },
+      {
+        "name": "Rydberg",
+        "expr": "\\dfrac{1}{\\lambda} = R_H Z^2 \\left(\\dfrac{1}{n_1^2} - \\dfrac{1}{n_2^2}\\right); \\; R_H = 1.097\\times 10^7 \\text{ m}^{-1}"
+      },
+      {
+        "name": "de Broglie",
+        "expr": "\\lambda = \\dfrac{h}{p} = \\dfrac{h}{mv}"
+      },
+      {
+        "name": "Heisenberg",
+        "expr": "\\Delta x \\cdot \\Delta p \\geq \\dfrac{h}{4\\pi}"
+      },
+      {
+        "name": "Number of orbitals",
+        "expr": "\\text{in shell } n: n^2 \\text{ orbitals, } 2n^2 \\text{ electrons}"
+      },
+      {
+        "name": "Photon energy",
+        "expr": "E = h\\nu = \\dfrac{hc}{\\lambda}"
+      }
+    ],
+    "shortcuts": [
+      "Quantum numbers: n (1,2,3..), l (0 to n-1), m$_l$ (-l to +l), m$_s$ ($\\pm$1/2).",
+      "Subshell capacity: s=2, p=6, d=10, f=14 (from orbitals x 2).",
+      "Aufbau: 1s, 2s, 2p, 3s, 3p, 4s, 3d, 4p, 5s, 4d, 5p, 6s, 4f, 5d, 6p, 7s.",
+      "(n+l) rule: lower (n+l) fills first; if tie, lower n first. Explains 4s before 3d.",
+      "Exceptions: Cr [Ar]3d$^5$4s$^1$, Cu [Ar]3d$^{10}$4s$^1$ (half/full d more stable).",
+      "Hydrogen spectrum series: Lyman (UV, n$_1$=1), Balmer (visible, n$_1$=2), Paschen (IR, n$_1$=3), Brackett (n$_1$=4), Pfund (n$_1$=5).",
+      "H-alpha (Balmer, n=3→2): $\\lambda$=656.3 nm (red)."
+    ],
+    "traps": [
+      "Photoelectric effect: depends on FREQUENCY (not intensity) above threshold $\\nu_0$; below $\\nu_0$, no electrons regardless of intensity.",
+      "de Broglie applicable to all matter but significant only for small m, high v (electrons, not macroscopic).",
+      "Bohr model works only for H-like ions (single e$^-$): H, He$^+$, Li$^{2+}$, etc. Multi-electron atoms need screening.",
+      "Quantum mechanical orbital SHAPE: s (spherical), p (dumbbell), d (4 lobes or donut), f (complex).",
+      "Node count: total nodes = n-1; angular = l; radial = n-l-1.",
+      "Isoelectronic species (same electron count): O$^{2-}$, F$^-$, Ne, Na$^+$, Mg$^{2+}$, Al$^{3+}$ all have 10 e$^-$.",
+      "Pauli: no two electrons in atom can have all four q.n. same; so max 2 electrons per orbital (opposite spins)."
+    ],
+    "examDayCheck": [
+      "Balmer is visible; Lyman is UV; Paschen/Brackett/Pfund are IR.",
+      "de Broglie: $\\lambda = h/mv$ (bigger m or v $\\Rightarrow$ smaller $\\lambda$).",
+      "Orbitals in shell n: $n^2$. Electrons: $2n^2$.",
+      "Cr and Cu are the classic exceptions to Aufbau — half-filled/filled d."
+    ]
+  },
+  {
+    "id": "kcet-qs-mat-integrals",
+    "examId": "kcet",
+    "subject": "mathematics",
+    "chapter": "Integrals",
+    "band": "HIGH",
+    "summary": "Standard integral table, definite-integral properties (King's rule), by-parts (ILATE) and special forms — highest-yield Math chapter in KCET.",
+    "formulas": [
+      {
+        "name": "Power",
+        "expr": "$\\int x^n\\,dx = \\dfrac{x^{n+1}}{n+1}+C,\\; n\\ne-1$"
+      },
+      {
+        "name": "Log & exp",
+        "expr": "$\\int\\frac{1}{x}dx=\\ln|x|+C;\\;\\int e^{ax}dx=\\frac{e^{ax}}{a}+C;\\;\\int a^x dx=\\frac{a^x}{\\ln a}+C$"
+      },
+      {
+        "name": "Trig (memorise block)",
+        "expr": "$\\int\\sec^2 x\\,dx=\\tan x;\\;\\int\\csc^2 x\\,dx=-\\cot x;\\;\\int\\sec x\\tan x\\,dx=\\sec x$"
+      },
+      {
+        "name": "Log-sec / log-tan",
+        "expr": "$\\int\\tan x\\,dx=\\ln|\\sec x|+C;\\;\\int\\sec x\\,dx=\\ln|\\sec x+\\tan x|+C$"
+      },
+      {
+        "name": "1/(a²+x²) family",
+        "expr": "$\\int\\dfrac{dx}{a^2+x^2}=\\tfrac{1}{a}\\tan^{-1}\\tfrac{x}{a};\\;\\int\\dfrac{dx}{a^2-x^2}=\\tfrac{1}{2a}\\ln\\left|\\tfrac{a+x}{a-x}\\right|$"
+      },
+      {
+        "name": "Root-forms",
+        "expr": "$\\int\\dfrac{dx}{\\sqrt{a^2-x^2}}=\\sin^{-1}\\tfrac{x}{a};\\;\\int\\dfrac{dx}{\\sqrt{x^2\\pm a^2}}=\\ln|x+\\sqrt{x^2\\pm a^2}|$"
+      },
+      {
+        "name": "√ quadratic",
+        "expr": "$\\int\\sqrt{a^2-x^2}\\,dx=\\tfrac{x}{2}\\sqrt{a^2-x^2}+\\tfrac{a^2}{2}\\sin^{-1}\\tfrac{x}{a}+C$"
+      },
+      {
+        "name": "By parts (ILATE)",
+        "expr": "$\\int u\\,dv = uv-\\int v\\,du$",
+        "note": "Order: Inverse-trig, Log, Algebraic, Trig, Exponential"
+      },
+      {
+        "name": "e^x special",
+        "expr": "$\\int e^x[f(x)+f'(x)]\\,dx = e^x f(x)+C$"
+      },
+      {
+        "name": "King's rule",
+        "expr": "$\\int_a^b f(x)\\,dx = \\int_a^b f(a+b-x)\\,dx$"
+      },
+      {
+        "name": "Even/odd",
+        "expr": "$\\int_{-a}^a f(x)\\,dx = 2\\int_0^a f\\; (\\text{even}),\\; =0\\;(\\text{odd})$"
+      },
+      {
+        "name": "Walli's formula",
+        "expr": "$\\int_0^{\\pi/2}\\sin^n x\\,dx=\\int_0^{\\pi/2}\\cos^n x\\,dx = \\dfrac{(n-1)(n-3)\\cdots}{n(n-2)\\cdots}\\times\\begin{cases}\\tfrac{\\pi}{2}&n\\,\\text{even}\\\\1&n\\,\\text{odd}\\end{cases}$"
+      },
+      {
+        "name": "Periodic",
+        "expr": "$\\int_0^{nT} f(x)\\,dx = n\\int_0^T f(x)\\,dx$ if $f$ has period $T$"
+      },
+      {
+        "name": "Partial fractions",
+        "expr": "$\\dfrac{1}{(x-a)(x-b)} = \\dfrac{1}{a-b}\\left[\\dfrac{1}{x-a}-\\dfrac{1}{x-b}\\right]$"
+      }
+    ],
+    "shortcuts": [
+      "Standard Result: $\\int_0^{\\pi/2} \\frac{\\sin^n x}{\\sin^n x + \\cos^n x} dx = \\frac{\\pi}{4}$ (Works for any n, even fractional).",
+      "Leibniz Rule: $\\frac{d}{dx} \\int_{a(x)}^{b(x)} f(t) dt = f(b(x))b'(x) - f(a(x))a'(x)$.",
+      "See ∫dx/(a²+x²)^(3/2) → substitute x = a tan θ (denominator becomes a³ sec³ θ).",
+      "See ∫dx/(a²−x²)^(3/2) → substitute x = a sin θ.",
+      "∫₀^{π/2} sinⁿx/(sinⁿx+cosⁿx) dx = π/4 by King's rule — answer is independent of n.",
+      "If integrand is f(sin²x, cos²x)·sec²x, divide N and D by cos²x and sub t = tan x.",
+      "For ∫(px+q)/(ax²+bx+c) dx — split as A·d/dx(denom) + B·(const).",
+      "∫xⁿe^x dx: Iₙ = xⁿe^x − nIₙ₋₁ (reduction).",
+      "Symmetric trig limits: ∫₀^π x·f(sin x) dx = (π/2)∫₀^π f(sin x) dx.",
+      "Don't split a log/inverse-trig integrand — apply by-parts with dv = dx (ILATE puts them first)."
+    ],
+    "traps": [
+      "∫dx/x = ln|x|+C — absolute value is required; missing bars loses a mark.",
+      "∫sec x dx ≠ ln|sec x|; it is ln|sec x + tan x| (confused with ∫tan x).",
+      "King's rule needs the limits to be fixed numbers — not valid for indefinite integrals.",
+      "In Walli's, when n is odd the factor π/2 is NOT included.",
+      "Periodicity integral shortcut fails unless lower limit is a multiple of T (shift first if not).",
+      "∫_{-a}^{a} (odd)·(even) dx = 0 because product is odd — don't compute brute-force.",
+      "After a substitution, always transform the limits; don't back-substitute then re-plug."
+    ],
+    "examDayCheck": [
+      "Scan each integral for symmetry (odd/even) and King's rule before touching the pen.",
+      "If there's an e^x factor, look for f(x)+f'(x) structure — collapses to e^x f(x).",
+      "ILATE order: if 'ln x' or 'tan⁻¹ x' is present, it is u.",
+      "Always add +C on indefinite integrals (KCET graders sometimes include decoy options).",
+      "For ∫1/(ax²+bx+c) dx, complete the square FIRST — then match the standard form."
+    ]
+  },
+  {
+    "id": "kcet-qs-mat-applications-of-derivatives",
+    "examId": "kcet",
+    "subject": "mathematics",
+    "chapter": "Applications of Derivatives",
+    "band": "HIGH",
+    "summary": "Tangent/normal, monotonicity, maxima-minima, approximation — 3–4 direct questions per paper.",
+    "formulas": [
+      {
+        "name": "Slope of tangent",
+        "expr": "$m_T = \\left.\\dfrac{dy}{dx}\\right|_{(x_0,y_0)}$"
+      },
+      {
+        "name": "Tangent & normal",
+        "expr": "$y-y_0 = m_T(x-x_0);\\;\\; y-y_0 = -\\dfrac{1}{m_T}(x-x_0)$"
+      },
+      {
+        "name": "Angle between curves",
+        "expr": "$\\tan\\theta = \\left|\\dfrac{m_1-m_2}{1+m_1 m_2}\\right|$"
+      },
+      {
+        "name": "Increasing / decreasing",
+        "expr": "$f'(x)>0 \\Rightarrow \\text{incr};\\; f'(x)<0 \\Rightarrow \\text{decr on interval}$"
+      },
+      {
+        "name": "Critical points",
+        "expr": "$f'(x)=0\\text{ or undefined}$"
+      },
+      {
+        "name": "Second-derivative test",
+        "expr": "$f''(c)>0:\\text{min};\\;f''(c)<0:\\text{max};\\;f''(c)=0:\\text{inconclusive}$"
+      },
+      {
+        "name": "Approximation",
+        "expr": "$f(x+\\Delta x) \\approx f(x)+f'(x)\\Delta x;\\;\\; \\Delta y \\approx dy = f'(x)\\,dx$"
+      },
+      {
+        "name": "Rate of change",
+        "expr": "$\\dfrac{dA}{dt} = \\dfrac{dA}{dr}\\cdot\\dfrac{dr}{dt}$"
+      },
+      {
+        "name": "Mean Value Theorem",
+        "expr": "$\\exists c\\in(a,b):\\; f'(c)=\\dfrac{f(b)-f(a)}{b-a}$"
+      },
+      {
+        "name": "Rolle's",
+        "expr": "$f(a)=f(b),\\,f$ cts & diff $\\Rightarrow \\exists c:\\,f'(c)=0$"
+      },
+      {
+        "name": "Sphere / cone / cylinder",
+        "expr": "$V_{\\text{sph}}=\\tfrac{4}{3}\\pi r^3,\\;S=4\\pi r^2;\\;V_{\\text{cone}}=\\tfrac{1}{3}\\pi r^2 h;\\;V_{\\text{cyl}}=\\pi r^2 h$"
+      }
+    ],
+    "shortcuts": [
+      "Tangent parallel to x-axis ⇒ dy/dx = 0; parallel to y-axis ⇒ dx/dy = 0 (or m_T = ∞).",
+      "For 'shortest distance from point to curve' problems, minimise d² (not d) to avoid square roots.",
+      "If f'(x) doesn't change sign at a critical point, it's neither max nor min (inflection).",
+      "For closed interval absolute max/min, evaluate at endpoints AND critical points.",
+      "Sphere/cube 'relative error' shortcut: ΔV/V = 3·Δr/r (or 3·Δa/a).",
+      "Minimum surface-area cylinder of fixed volume: h = 2r (diameter = height).",
+      "Volume of box from square sheet of side a, cut squares of side x: V = x(a−2x)²; max at x = a/6."
+    ],
+    "traps": [
+      "f'(c)=0 is NECESSARY but not sufficient for extrema — check sign of f'' or sign change.",
+      "A function can be increasing even where f'(x) = 0 at a single point (e.g., x³ at 0).",
+      "Slope of tangent to x = f(y) is dy/dx = 1/f'(y) — not f'(y).",
+      "Angle between curves is measured at their POINT OF INTERSECTION — solve the system first.",
+      "MVT needs continuity on [a,b] AND differentiability on (a,b) — strict-vs-closed distinction.",
+      "Increasing on an OPEN interval allows f'(x) ≥ 0 (equality at isolated points is fine)."
+    ],
+    "examDayCheck": [
+      "Rate problem: write the relation, differentiate w.r.t. t, THEN substitute known values.",
+      "Maxima/minima word problem: write the target function in one variable before differentiating.",
+      "Check if the question asks for slope, tangent equation, or normal equation — don't conflate.",
+      "Read 'strictly increasing' vs 'monotonically increasing' — affects equality sign on f'."
+    ]
+  },
+  {
+    "id": "kcet-qs-mat-limits-continuity-differentiability",
+    "examId": "kcet",
+    "subject": "mathematics",
+    "chapter": "Limits, Continuity & Differentiability",
+    "band": "HIGH",
+    "summary": "Standard limits, L'Hôpital, continuity/differentiability piecewise checks — 3–4 Qs each KCET.",
+    "formulas": [
+      {
+        "name": "Basic trig limits",
+        "expr": "$\\lim_{x\\to 0}\\dfrac{\\sin x}{x}=1;\\;\\lim_{x\\to 0}\\dfrac{\\tan x}{x}=1;\\;\\lim_{x\\to 0}\\dfrac{1-\\cos x}{x^2}=\\tfrac{1}{2}$"
+      },
+      {
+        "name": "Exp/log limits",
+        "expr": "$\\lim_{x\\to 0}\\dfrac{e^x-1}{x}=1;\\;\\lim_{x\\to 0}\\dfrac{\\ln(1+x)}{x}=1;\\;\\lim_{x\\to 0}\\dfrac{a^x-1}{x}=\\ln a$"
+      },
+      {
+        "name": "Power limit",
+        "expr": "$\\lim_{x\\to a}\\dfrac{x^n-a^n}{x-a} = n\\,a^{n-1}$"
+      },
+      {
+        "name": "e-form",
+        "expr": "$\\lim_{x\\to 0}(1+x)^{1/x}=e;\\;\\lim_{x\\to\\infty}\\left(1+\\tfrac{1}{x}\\right)^x=e$"
+      },
+      {
+        "name": "1^∞ shortcut",
+        "expr": "$\\lim f(x)^{g(x)} = e^{\\lim g(x)[f(x)-1]}$ when $f\\to1$, $g\\to\\infty$"
+      },
+      {
+        "name": "L'Hôpital",
+        "expr": "$\\lim\\dfrac{f}{g}=\\lim\\dfrac{f'}{g'}$ (0/0 or ∞/∞ only)"
+      },
+      {
+        "name": "Continuity at a",
+        "expr": "$\\lim_{x\\to a^-}f(x)=\\lim_{x\\to a^+}f(x)=f(a)$"
+      },
+      {
+        "name": "Differentiability",
+        "expr": "$f'(a^-)=f'(a^+)$ must both exist & be equal (also implies continuous)"
+      },
+      {
+        "name": "Sandwich theorem",
+        "expr": "$g\\le f\\le h,\\;\\lim g = \\lim h = L \\Rightarrow \\lim f = L$"
+      }
+    ],
+    "shortcuts": [
+      "Expansion Snippets: $\\sin x \\approx x - x^3/6$, $\\cos x \\approx 1 - x^2/2$, $e^x \\approx 1 + x + x^2/2$.",
+      "Standard Limit: $\\lim_{x\\to 0} \\frac{1-\\cos mx}{x^2} = \\frac{m^2}{2}$.",
+      "Any trig-in-trig limit (sin/tan of f(x) → 0): replace sin(f) ≈ f, tan(f) ≈ f.",
+      "cos(f) ≈ 1 − f²/2 for f → 0 — use for 1−cos forms.",
+      "1^∞ form: compute limit of exponent · (base − 1).",
+      "|x|, [x] (greatest integer), {x} (fractional) are prime continuity-check targets — always test both sides.",
+      "Rational limit at infinity: divide numerator & denominator by highest power of x.",
+      "If f is differentiable, it IS continuous — but not vice-versa. So checking differentiability also settles continuity.",
+      "For piecewise f, solve LHL=RHL=f(a) for continuity; then LHD=RHD for differentiability."
+    ],
+    "traps": [
+      "L'Hôpital applies ONLY to 0/0 or ∞/∞ — don't apply to 2/0 or 0/∞.",
+      "lim sin(1/x) as x → 0 does NOT exist (oscillates).",
+      "|x| is continuous at 0 but NOT differentiable at 0 — classic KCET decoy.",
+      "Greatest integer [x] is discontinuous at every integer (not just some).",
+      "Differentiability does not guarantee f' is continuous (but is rare on KCET).",
+      "After using L'Hôpital, if the new form is still 0/0, you may need to reapply — don't stop at first step."
+    ],
+    "examDayCheck": [
+      "Identify the indeterminate form first (0/0, ∞−∞, 1^∞, 0·∞) — method follows from form.",
+      "For word-form limits, rewrite in terms of basic known limits before brute forcing.",
+      "Continuity at endpoints of a piecewise definition — check the matching pieces only.",
+      "If a parameter is in the problem (find k making f continuous), set LHL = RHL = f(a)."
+    ]
+  },
+  {
+    "id": "kcet-qs-mat-matrices",
+    "examId": "kcet",
+    "subject": "mathematics",
+    "chapter": "Matrices",
+    "band": "HIGH",
+    "summary": "Algebra of matrices, types (symmetric, skew, orthogonal), inverse via adjoint — reliable 2–3 Qs.",
+    "formulas": [
+      {
+        "name": "(AB)ᵀ",
+        "expr": "$(AB)^T = B^T A^T;\\;(ABC)^T = C^T B^T A^T$"
+      },
+      {
+        "name": "Inverse",
+        "expr": "$(AB)^{-1} = B^{-1}A^{-1};\\;(A^{-1})^T = (A^T)^{-1}$"
+      },
+      {
+        "name": "Symmetric / skew",
+        "expr": "$A=A^T\\text{(sym)};\\;A=-A^T\\text{(skew, diagonal = 0)}$"
+      },
+      {
+        "name": "Any square matrix decomposition",
+        "expr": "$A = \\tfrac{1}{2}(A+A^T)+\\tfrac{1}{2}(A-A^T)$ (sym + skew)"
+      },
+      {
+        "name": "Orthogonal",
+        "expr": "$AA^T = I \\Rightarrow A^{-1} = A^T,\\;\\det A = \\pm 1$"
+      },
+      {
+        "name": "Inverse via adjoint",
+        "expr": "$A^{-1} = \\dfrac{1}{\\det A}\\,\\text{adj}(A)$ (requires $\\det A\\ne0$)"
+      },
+      {
+        "name": "Adj properties",
+        "expr": "$A\\cdot\\text{adj}(A) = \\det(A)\\cdot I;\\;|\\text{adj}(A)| = |A|^{n-1}$ for $n\\times n$"
+      },
+      {
+        "name": "Idempotent / involutory",
+        "expr": "$A^2 = A\\text{ (idemp)};\\; A^2 = I\\text{ (involut)};\\; A^2 = 0\\text{ (nilpotent)}$"
+      },
+      {
+        "name": "Order of A^k",
+        "expr": "$(A^k)^T = (A^T)^k;\\;(A^{-1})^k = (A^k)^{-1}$"
+      }
+    ],
+    "shortcuts": [
+      "Cayley-Hamilton for 2x2: $A^2 - (\\text{tr } A)A + |A|I = 0$. Use this to find $A^{-1}$ or high powers of A instantly.",
+      "Skew-symmetric matrix of odd order has det = 0 (so non-invertible, always).",
+      "For 2×2 inverse: $A^{-1} = \\tfrac{1}{ad-bc}\\begin{pmatrix}d & -b\\\\-c & a\\end{pmatrix}$ — swap diag, flip sign of off-diag.",
+      "Number of symmetric n×n matrices with entries in {0,1,...,k}: (k+1)^(n(n+1)/2).",
+      "A + Aᵀ is always symmetric; A − Aᵀ always skew. Use to break into parts.",
+      "If A is skew of even order, trace = 0 automatically; det = (det A)².",
+      "A² = A and invertible ⇒ A = I."
+    ],
+    "traps": [
+      "Matrix multiplication is NOT commutative: AB ≠ BA in general.",
+      "(A+B)² ≠ A²+2AB+B² unless AB = BA.",
+      "Inverse only exists if |A| ≠ 0 — always check.",
+      "(A−¹)ᵀ = (Aᵀ)−¹ — order of operations matters.",
+      "A skew-symmetric matrix has all diagonal entries equal to 0 — not just 'some'.",
+      "|kA| = kⁿ|A| for an n×n matrix (not just k|A|)."
+    ],
+    "examDayCheck": [
+      "For 'find k such that A is singular', set det(A) = 0 and solve.",
+      "Check order compatibility BEFORE multiplying: (m×n)(n×p) = m×p.",
+      "'Idempotent' keywords ⇒ A² = A; 'involutory' ⇒ A² = I.",
+      "Read whether matrix is 2×2 or 3×3 carefully — formulas differ."
+    ]
+  },
+  {
+    "id": "kcet-qs-mat-determinants",
+    "examId": "kcet",
+    "subject": "mathematics",
+    "chapter": "Determinants",
+    "band": "HIGH",
+    "summary": "Expansion, row/column operations, properties, solving linear systems (Cramer, matrix method).",
+    "formulas": [
+      {
+        "name": "2×2",
+        "expr": "$\\det\\begin{pmatrix}a&b\\\\c&d\\end{pmatrix} = ad-bc$"
+      },
+      {
+        "name": "3×3 (Sarrus-like)",
+        "expr": "$\\det A = a_{11}(a_{22}a_{33}-a_{23}a_{32})-a_{12}(\\cdots)+a_{13}(\\cdots)$"
+      },
+      {
+        "name": "Property — transpose",
+        "expr": "$\\det(A^T) = \\det A$"
+      },
+      {
+        "name": "Property — swap rows",
+        "expr": "$\\det$ changes sign when 2 rows (or cols) are swapped"
+      },
+      {
+        "name": "Row scaling",
+        "expr": "$\\det(kR_i) = k\\det(A);\\;\\det(kA)=k^n\\det(A)$"
+      },
+      {
+        "name": "Singular if…",
+        "expr": "$\\det = 0$ iff rows/cols are linearly dependent"
+      },
+      {
+        "name": "Product rule",
+        "expr": "$\\det(AB) = \\det A\\cdot\\det B;\\;\\det(A^{-1})=1/\\det A$"
+      },
+      {
+        "name": "Cramer's rule",
+        "expr": "$x = \\dfrac{\\Delta_x}{\\Delta},\\; y = \\dfrac{\\Delta_y}{\\Delta}$ (Δ ≠ 0)"
+      },
+      {
+        "name": "Area of triangle",
+        "expr": "$\\text{Area} = \\tfrac{1}{2}\\left|\\det\\begin{pmatrix}x_1&y_1&1\\\\x_2&y_2&1\\\\x_3&y_3&1\\end{pmatrix}\\right|$"
+      },
+      {
+        "name": "Collinearity",
+        "expr": "Same determinant = 0 ⇒ points collinear"
+      },
+      {
+        "name": "Eqn of line through 2 points",
+        "expr": "$\\begin{vmatrix}x&y&1\\\\x_1&y_1&1\\\\x_2&y_2&1\\end{vmatrix}=0$"
+      }
+    ],
+    "shortcuts": [
+      "Cyclic Determinant: $\\begin{vmatrix} 1 & 1 & 1 \\\\ a & b & c \\\\ a^2 & b^2 & c^2 \\end{vmatrix} = (a-b)(b-c)(c-a)$. Use to solve algebra-heavy determinants in seconds.",
+      "For determinants with 1's in a row/column, expand along that line — kills the arithmetic.",
+      "Always try R₂ → R₂ − R₁ or C₂ → C₂ − C₁ first on algebraic dets — often produces zeros.",
+      "If a row/column equals (sum of others) × constant, det = 0 instantly.",
+      "det(adj A) = |A|^(n−1); det(adj(adj A)) = |A|^((n−1)²).",
+      "For 3×3 with cyclic entries (a,b,c in rotations) — factor using a+b+c.",
+      "Area of parallelogram with sides u,v = |det[u v]|."
+    ],
+    "traps": [
+      "Determinant is a NUMBER, not a matrix — answer can be negative.",
+      "|kA| = kⁿ|A|, not k|A|.",
+      "If Δ = 0 and one Δₓ ≠ 0, system is INCONSISTENT (not infinite solutions).",
+      "If Δ = Δₓ = Δ_y = Δ_z = 0, system may have infinite solutions OR inconsistent — needs rank check.",
+      "Row operation R_i → R_i + kR_j keeps det unchanged; R_i → kR_i multiplies det by k.",
+      "Area formula has ½ and absolute value — forgetting either is a classic 1-mark loss."
+    ],
+    "examDayCheck": [
+      "Expand along the row/column with most zeros or unit entries.",
+      "Always write the sign pattern +/−/+ for cofactor expansion.",
+      "For 'find k for consistency', set Δ = 0 and solve.",
+      "Check: if any two rows/cols identical → det = 0, no computation needed."
+    ]
+  },
+  {
+    "id": "kcet-qs-mat-probability",
+    "examId": "kcet",
+    "subject": "mathematics",
+    "chapter": "Probability",
+    "band": "HIGH",
+    "summary": "Conditional prob., Bayes, independence, binomial distribution, mean/variance — 3–4 Qs per paper.",
+    "formulas": [
+      {
+        "name": "Basic",
+        "expr": "$P(A\\cup B) = P(A)+P(B)-P(A\\cap B)$"
+      },
+      {
+        "name": "Conditional",
+        "expr": "$P(A|B) = \\dfrac{P(A\\cap B)}{P(B)}$"
+      },
+      {
+        "name": "Multiplication rule",
+        "expr": "$P(A\\cap B) = P(A)\\,P(B|A)$"
+      },
+      {
+        "name": "Independence",
+        "expr": "$P(A\\cap B) = P(A)\\,P(B) \\iff A,B \\text{ independent}$"
+      },
+      {
+        "name": "Total probability",
+        "expr": "$P(A) = \\sum_i P(E_i)\\,P(A|E_i)$"
+      },
+      {
+        "name": "Bayes theorem",
+        "expr": "$P(E_i|A) = \\dfrac{P(E_i)\\,P(A|E_i)}{\\sum_j P(E_j)\\,P(A|E_j)}$"
+      },
+      {
+        "name": "Binomial pmf",
+        "expr": "$P(X=r) = \\binom{n}{r}p^r q^{n-r},\\; q=1-p$"
+      },
+      {
+        "name": "Binomial mean & variance",
+        "expr": "$\\mu = np;\\; \\sigma^2 = npq;\\; \\sigma = \\sqrt{npq}$"
+      },
+      {
+        "name": "Complement",
+        "expr": "$P(\\text{at least one}) = 1 - P(\\text{none})$"
+      },
+      {
+        "name": "Odds",
+        "expr": "Odds in favour = $P(A):P(A^c)$"
+      }
+    ],
+    "shortcuts": [
+      "'At least one' problems → compute complement (no successes) and subtract from 1.",
+      "Bayes setup: numerator = prior × likelihood; denominator = sum of all such products.",
+      "For 3-coin/5-coin 'exactly k heads' — use binomial C(n,k)(1/2)ⁿ.",
+      "Sum of variances for two independent variables: Var(X+Y) = Var(X)+Var(Y).",
+      "If P(A|B) = P(A), A and B are independent — useful test.",
+      "Two-dice sum = k has P = (# ways)/36; memorise: 7→6/36, 6 or 8→5/36, 5 or 9→4/36.",
+      "Expected value of sum = sum of expected values (no independence needed)."
+    ],
+    "traps": [
+      "Mutually exclusive ≠ independent — usually opposites! Two events that can't both occur are usually dependent.",
+      "P(A|B) ≠ P(B|A) — Bayes is about swapping these.",
+      "In binomial, p + q = 1, but np × nq is NOT npq (variance is npq, not (np)(nq)).",
+      "'Without replacement' breaks independence — adjust the second probability.",
+      "Odds 3:2 means P = 3/5 (not 3/2) — convert carefully.",
+      "For dice problems, the sample space has 36 outcomes (not 11 or 12 despite sum ranging 2–12)."
+    ],
+    "examDayCheck": [
+      "Read 'exactly' vs 'at least' vs 'at most' carefully.",
+      "Check: if the problem gives you P(A|B), Bayes might be required to find P(B|A).",
+      "Binomial? Confirm fixed n, fixed p, independent trials, only 2 outcomes per trial.",
+      "Variance of binomial: np(1−p) — not np nor n p²."
+    ]
+  },
+  {
+    "id": "kcet-qs-mat-trigonometric-functions",
+    "examId": "kcet",
+    "subject": "mathematics",
+    "chapter": "Trigonometric Functions",
+    "band": "MEDIUM",
+    "summary": "Compound/double/half-angle identities, general solutions, sine/cosine rule.",
+    "formulas": [
+      {
+        "name": "Pythagorean",
+        "expr": "$\\sin^2\\theta+\\cos^2\\theta=1;\\;1+\\tan^2=\\sec^2;\\;1+\\cot^2=\\csc^2$"
+      },
+      {
+        "name": "Compound angles",
+        "expr": "$\\sin(A\\pm B)=\\sin A\\cos B\\pm\\cos A\\sin B$"
+      },
+      {
+        "name": "Compound (cos/tan)",
+        "expr": "$\\cos(A\\pm B)=\\cos A\\cos B\\mp\\sin A\\sin B;\\;\\tan(A\\pm B)=\\dfrac{\\tan A\\pm\\tan B}{1\\mp\\tan A\\tan B}$"
+      },
+      {
+        "name": "Double angle",
+        "expr": "$\\sin 2A = 2\\sin A\\cos A;\\;\\cos 2A = \\cos^2 A-\\sin^2 A = 1-2\\sin^2 A = 2\\cos^2 A-1$"
+      },
+      {
+        "name": "Double-angle tan",
+        "expr": "$\\tan 2A = \\dfrac{2\\tan A}{1-\\tan^2 A};\\;\\sin 2A = \\dfrac{2t}{1+t^2},\\;\\cos 2A=\\dfrac{1-t^2}{1+t^2},\\; t=\\tan A$"
+      },
+      {
+        "name": "Half angle",
+        "expr": "$\\sin^2\\tfrac{A}{2}=\\dfrac{1-\\cos A}{2};\\;\\cos^2\\tfrac{A}{2}=\\dfrac{1+\\cos A}{2}$"
+      },
+      {
+        "name": "Triple",
+        "expr": "$\\sin 3A = 3\\sin A-4\\sin^3 A;\\;\\cos 3A = 4\\cos^3 A-3\\cos A$"
+      },
+      {
+        "name": "Sum ↔ product",
+        "expr": "$\\sin C+\\sin D=2\\sin\\tfrac{C+D}{2}\\cos\\tfrac{C-D}{2};\\;\\cos C+\\cos D=2\\cos\\tfrac{C+D}{2}\\cos\\tfrac{C-D}{2}$"
+      },
+      {
+        "name": "Product ↔ sum",
+        "expr": "$2\\sin A\\cos B = \\sin(A+B)+\\sin(A-B)$"
+      },
+      {
+        "name": "General solutions",
+        "expr": "$\\sin\\theta=\\sin\\alpha\\Rightarrow\\theta=n\\pi+(-1)^n\\alpha;\\;\\cos\\theta=\\cos\\alpha\\Rightarrow\\theta=2n\\pi\\pm\\alpha;\\;\\tan\\theta=\\tan\\alpha\\Rightarrow\\theta=n\\pi+\\alpha$"
+      },
+      {
+        "name": "Sine / cosine rule",
+        "expr": "$\\dfrac{a}{\\sin A}=\\dfrac{b}{\\sin B}=\\dfrac{c}{\\sin C}=2R;\\;a^2=b^2+c^2-2bc\\cos A$"
+      }
+    ],
+    "shortcuts": [
+      "Memorise specific values: $\\sin 15^\\circ = \\cos 75^\\circ = \\frac{\\sqrt{3}-1}{2\\sqrt{2}}$, $\\cos 15^\\circ = \\sin 75^\\circ = \\frac{\\sqrt{3}+1}{2\\sqrt{2}}$, $\\tan 15^\\circ = 2-\\sqrt{3}$, $\\tan 75^\\circ = 2+\\sqrt{3}$.",
+      "a sin x + b cos x = R sin(x+φ), where R = √(a²+b²), tan φ = b/a. Max value = R.",
+      "sin(A+B)·sin(A−B) = sin²A − sin²B = cos²B − cos²A.",
+      "For 'max of A sin²x + B cos²x' — answer is max(A,B); min is min(A,B).",
+      "If sin A = sin B ⇒ A+B = π OR A = B (don't lose one!).",
+      "t-method (t = tan(x/2)) turns any rational trig integral into rational in t.",
+      "cos 36° = (√5+1)/4 · ? — memorise: cos 36° = (1+√5)/4, sin 18° = (√5−1)/4."
+    ],
+    "traps": [
+      "sin(−θ) = −sin θ (odd), cos(−θ) = cos θ (even) — flip sign rule is for sine only.",
+      "General solution of sin θ = 0 is θ = nπ (NOT 2nπ).",
+      "cos 2A has THREE forms — pick the one with only sin² or only cos² depending on what's asked.",
+      "Max of a sin x + b cos x is √(a²+b²), not a+b.",
+      "sin²A + cos²B ≠ 1 in general (only when A = B).",
+      "In ambiguous triangle case (SSA), two solutions may exist — check both."
+    ],
+    "examDayCheck": [
+      "Any 'eliminate θ' problem → use Pythagorean identity after expressing cos and sin.",
+      "General solution questions — always include the integer n and the ± / (−1)ⁿ factor as appropriate.",
+      "Convert degrees to radians for calculus-related trig Qs (π rad = 180°).",
+      "Check the principal value range before writing answer: sin θ = 1/2 principal = π/6, not 5π/6."
+    ]
+  },
+  {
+    "id": "kcet-qs-mat-inverse-trigonometric-functions",
+    "examId": "kcet",
+    "subject": "mathematics",
+    "chapter": "Inverse Trigonometric Functions",
+    "band": "MEDIUM",
+    "summary": "Principal values, identities, addition formulas — 1–2 Qs but almost always present.",
+    "formulas": [
+      {
+        "name": "Principal ranges",
+        "expr": "$\\sin^{-1}:[-\\tfrac{\\pi}{2},\\tfrac{\\pi}{2}];\\;\\cos^{-1}:[0,\\pi];\\;\\tan^{-1}:(-\\tfrac{\\pi}{2},\\tfrac{\\pi}{2})$"
+      },
+      {
+        "name": "Complementary",
+        "expr": "$\\sin^{-1}x+\\cos^{-1}x=\\tfrac{\\pi}{2};\\;\\tan^{-1}x+\\cot^{-1}x=\\tfrac{\\pi}{2};\\;\\sec^{-1}x+\\csc^{-1}x=\\tfrac{\\pi}{2}$"
+      },
+      {
+        "name": "Negatives",
+        "expr": "$\\sin^{-1}(-x)=-\\sin^{-1}x;\\;\\cos^{-1}(-x)=\\pi-\\cos^{-1}x;\\;\\tan^{-1}(-x)=-\\tan^{-1}x$"
+      },
+      {
+        "name": "Sum of arctan",
+        "expr": "$\\tan^{-1}x+\\tan^{-1}y = \\tan^{-1}\\dfrac{x+y}{1-xy}$ (if $xy<1$)"
+      },
+      {
+        "name": "Sum — add π correction",
+        "expr": "$\\tan^{-1}x+\\tan^{-1}y = \\pi+\\tan^{-1}\\dfrac{x+y}{1-xy}$ (if $x,y>0$, $xy>1$)"
+      },
+      {
+        "name": "2 tan⁻¹",
+        "expr": "$2\\tan^{-1}x = \\tan^{-1}\\dfrac{2x}{1-x^2} = \\sin^{-1}\\dfrac{2x}{1+x^2} = \\cos^{-1}\\dfrac{1-x^2}{1+x^2}$"
+      },
+      {
+        "name": "3 tan⁻¹",
+        "expr": "$3\\tan^{-1}x = \\tan^{-1}\\dfrac{3x-x^3}{1-3x^2}$"
+      },
+      {
+        "name": "Key conversions",
+        "expr": "$\\sin^{-1}x = \\tan^{-1}\\dfrac{x}{\\sqrt{1-x^2}};\\;\\cos^{-1}x = \\tan^{-1}\\dfrac{\\sqrt{1-x^2}}{x}$"
+      }
+    ],
+    "shortcuts": [
+      "See 2x/(1−x²) → rewrite as tan(2tan⁻¹x). Similarly (1−x²)/(1+x²) → cos(2tan⁻¹x).",
+      "Before combining tan⁻¹ values, check if xy < 1 or > 1 — different formula branch.",
+      "If sin⁻¹x + sin⁻¹y appears, square both sides and use Pythagorean to reduce.",
+      "sin(cos⁻¹x) = √(1−x²); tan(sin⁻¹x) = x/√(1−x²) — derive from right triangle mentally.",
+      "For inequalities with inverse trig — use monotonicity: sin⁻¹ is ↑, cos⁻¹ is ↓ on their principal ranges."
+    ],
+    "traps": [
+      "tan⁻¹(tan x) = x ONLY if x ∈ (−π/2, π/2) — outside, add/subtract π.",
+      "sin⁻¹(sin x) = x ONLY if x ∈ [−π/2, π/2] — outside, it's π − x or reflection.",
+      "cos⁻¹(−x) = π − cos⁻¹x (not −cos⁻¹x like sine).",
+      "Sum formula for tan⁻¹ changes by +π or −π depending on signs of x, y — don't ignore.",
+      "sin⁻¹x + cos⁻¹x = π/2 is ALWAYS true for x ∈ [−1,1] — no restriction needed.",
+      "sin⁻¹x domain is [−1, 1], not ℝ — values outside give no real answer."
+    ],
+    "examDayCheck": [
+      "Sketch the principal-value branch on a number line before answering.",
+      "If the question uses an unusual angle, convert using complementary or negative-argument rule.",
+      "Remember sin⁻¹x ∈ [−π/2, π/2] even if the argument came from a larger x (unusual).",
+      "For 'Find x: sin⁻¹x + sin⁻¹(2x) = π/2' types — apply sin⁻¹A + cos⁻¹A = π/2 trick."
+    ]
+  },
+  {
+    "id": "kcet-qs-mat-complex-numbers-quadratic-equations",
+    "examId": "kcet",
+    "subject": "mathematics",
+    "chapter": "Complex Numbers & Quadratic Equations",
+    "band": "MEDIUM",
+    "summary": "Modulus-argument, De Moivre, cube roots of unity, nature of roots, Vieta's.",
+    "formulas": [
+      {
+        "name": "Modulus / arg",
+        "expr": "$|z| = \\sqrt{a^2+b^2};\\;\\arg z = \\tan^{-1}(b/a)$ (adjust quadrant)"
+      },
+      {
+        "name": "Polar",
+        "expr": "$z = r(\\cos\\theta+i\\sin\\theta) = re^{i\\theta}$"
+      },
+      {
+        "name": "Conjugate",
+        "expr": "$\\overline{z}=a-bi;\\;z\\overline{z}=|z|^2$"
+      },
+      {
+        "name": "De Moivre",
+        "expr": "$(\\cos\\theta+i\\sin\\theta)^n = \\cos n\\theta+i\\sin n\\theta$"
+      },
+      {
+        "name": "Cube roots of unity",
+        "expr": "$1,\\omega,\\omega^2;\\;1+\\omega+\\omega^2=0;\\;\\omega^3=1$"
+      },
+      {
+        "name": "n-th roots",
+        "expr": "$z^{1/n} = r^{1/n}\\left[\\cos\\tfrac{\\theta+2k\\pi}{n}+i\\sin\\tfrac{\\theta+2k\\pi}{n}\\right],\\;k=0,\\ldots,n-1$"
+      },
+      {
+        "name": "Quadratic roots",
+        "expr": "$x = \\dfrac{-b\\pm\\sqrt{D}}{2a},\\;D = b^2-4ac$"
+      },
+      {
+        "name": "Sum / product",
+        "expr": "$\\alpha+\\beta = -b/a;\\;\\alpha\\beta = c/a$"
+      },
+      {
+        "name": "Nature (real coef)",
+        "expr": "$D>0$: distinct real; $D=0$: equal; $D<0$: complex conj"
+      },
+      {
+        "name": "Quadratic from roots",
+        "expr": "$x^2-(\\alpha+\\beta)x+\\alpha\\beta = 0$"
+      },
+      {
+        "name": "Cubic sums",
+        "expr": "$\\alpha^2+\\beta^2 = (\\alpha+\\beta)^2-2\\alpha\\beta;\\;\\alpha^3+\\beta^3 = (\\alpha+\\beta)^3-3\\alpha\\beta(\\alpha+\\beta)$"
+      }
+    ],
+    "shortcuts": [
+      "|z₁+z₂|² + |z₁−z₂|² = 2(|z₁|²+|z₂|²) — parallelogram law.",
+      "|z₁·z₂| = |z₁|·|z₂|; arg(z₁z₂) = arg z₁ + arg z₂.",
+      "ω² is conjugate of ω; |ω| = 1; (1+ω)(1+ω²) = 1.",
+      "i^(4k) = 1, i^(4k+1) = i, i^(4k+2) = −1, i^(4k+3) = −i — just reduce exponent mod 4.",
+      "Roots common between two quadratics — use subtract & equate method.",
+      "If one root of real-coef quadratic is complex a+bi, other must be a−bi."
+    ],
+    "traps": [
+      "arg z must be adjusted for quadrant — tan⁻¹(b/a) alone is not enough (e.g., z = −1 has arg = π, not 0).",
+      "De Moivre is valid only for integer n (or rational with care about branches).",
+      "Sum of n-th roots of unity = 0 (not 1) for n ≥ 2.",
+      "If D ≥ 0 and coefficients real, roots are real — don't write complex form.",
+      "α²+β² is (α+β)² − 2αβ — sign of 2 is minus, students write plus.",
+      "|z−z₀| = r is a CIRCLE, not a line — classic locus trap."
+    ],
+    "examDayCheck": [
+      "For |z−a| = |z−b|, locus is perpendicular bisector of segment ab.",
+      "Check if question asks for modulus, argument, or the complex number itself.",
+      "When multiplying in polar form, multiply moduli and ADD arguments.",
+      "Before solving D<0 quadratic, confirm coefficients are real (else conjugate rule fails)."
+    ]
+  },
+  {
+    "id": "kcet-qs-mat-vectors",
+    "examId": "kcet",
+    "subject": "mathematics",
+    "chapter": "Vectors",
+    "band": "MEDIUM",
+    "summary": "Dot/cross products, projections, angle, coplanarity — 2–3 Qs; overlap with 3D geometry.",
+    "formulas": [
+      {
+        "name": "Magnitude",
+        "expr": "$|\\vec a| = \\sqrt{a_1^2+a_2^2+a_3^2}$"
+      },
+      {
+        "name": "Dot product",
+        "expr": "$\\vec a\\cdot\\vec b = |\\vec a||\\vec b|\\cos\\theta = a_1b_1+a_2b_2+a_3b_3$"
+      },
+      {
+        "name": "Cross product",
+        "expr": "$\\vec a\\times\\vec b = \\begin{vmatrix}\\hat i&\\hat j&\\hat k\\\\a_1&a_2&a_3\\\\b_1&b_2&b_3\\end{vmatrix};\\;|\\vec a\\times\\vec b|=|\\vec a||\\vec b|\\sin\\theta$"
+      },
+      {
+        "name": "Angle between vectors",
+        "expr": "$\\cos\\theta = \\dfrac{\\vec a\\cdot\\vec b}{|\\vec a||\\vec b|}$"
+      },
+      {
+        "name": "Unit vector",
+        "expr": "$\\hat a = \\vec a/|\\vec a|$"
+      },
+      {
+        "name": "Projection",
+        "expr": "$\\text{proj}_{\\vec b}\\vec a = \\dfrac{\\vec a\\cdot\\vec b}{|\\vec b|}$ (scalar)"
+      },
+      {
+        "name": "Area of triangle",
+        "expr": "$\\tfrac{1}{2}|\\vec{AB}\\times\\vec{AC}|$"
+      },
+      {
+        "name": "Area of parallelogram",
+        "expr": "$|\\vec a\\times\\vec b|$ or $\\tfrac{1}{2}|\\vec{d_1}\\times\\vec{d_2}|$ for diagonals"
+      },
+      {
+        "name": "Scalar triple product",
+        "expr": "$[\\vec a\\,\\vec b\\,\\vec c] = \\vec a\\cdot(\\vec b\\times\\vec c) = \\det\\begin{pmatrix}a_1&a_2&a_3\\\\b_1&b_2&b_3\\\\c_1&c_2&c_3\\end{pmatrix}$"
+      },
+      {
+        "name": "Volume of parallelepiped",
+        "expr": "$V = |[\\vec a\\,\\vec b\\,\\vec c]|$"
+      },
+      {
+        "name": "Coplanarity",
+        "expr": "$[\\vec a\\,\\vec b\\,\\vec c] = 0$"
+      }
+    ],
+    "shortcuts": [
+      "Perpendicular check: a·b = 0. Parallel check: a×b = 0.",
+      "Direction of a×b by right-hand rule; |a×b| = area of parallelogram on a,b.",
+      "Projection SCALAR = (a·b)/|b|; projection VECTOR = [(a·b)/|b|²]·b.",
+      "For tetrahedron volume = (1/6)|[AB AC AD]|.",
+      "Section formula (internal, ratio m:n): r = (mb + na)/(m+n).",
+      "a × (b × c) = (a·c)b − (a·b)c (BAC−CAB rule)."
+    ],
+    "traps": [
+      "Dot product is commutative; cross product is ANTI-commutative (a×b = −b×a).",
+      "|a×b|² + |a·b|² = |a|²|b|² — Pythagoras of vector products.",
+      "Scalar triple product sign flips on swapping any two vectors.",
+      "a×a = 0 (not 1 or |a|²).",
+      "cos θ formula needs magnitudes — forgetting denominator is #1 error.",
+      "Unit vector requires dividing EACH component, not just one — always check magnitude = 1."
+    ],
+    "examDayCheck": [
+      "Draw a rough mental diagram — especially for 'find angle' or 'find projection'.",
+      "For 'coplanar' question, set scalar triple product = 0 and solve.",
+      "For 'perpendicular to both' keywords — cross product gives direction.",
+      "Angle comes out obtuse? You might need π − θ depending on what 'angle between lines' means."
+    ]
+  },
+  {
+    "id": "kcet-qs-mat-three-dimensional-geometry",
+    "examId": "kcet",
+    "subject": "mathematics",
+    "chapter": "Three-Dimensional Geometry",
+    "band": "MEDIUM",
+    "summary": "Line & plane equations, angles, distances (point-plane, skew-line SD) — 2–3 Qs.",
+    "formulas": [
+      {
+        "name": "Distance in 3D",
+        "expr": "$d = \\sqrt{(x_2-x_1)^2+(y_2-y_1)^2+(z_2-z_1)^2}$"
+      },
+      {
+        "name": "Direction ratios ↔ cosines",
+        "expr": "$l = a/\\sqrt{a^2+b^2+c^2};\\;l^2+m^2+n^2=1$"
+      },
+      {
+        "name": "Line (vector form)",
+        "expr": "$\\vec r = \\vec a + \\lambda\\vec b$"
+      },
+      {
+        "name": "Line (cartesian)",
+        "expr": "$\\dfrac{x-x_1}{a} = \\dfrac{y-y_1}{b} = \\dfrac{z-z_1}{c}$"
+      },
+      {
+        "name": "Plane (vector)",
+        "expr": "$\\vec r\\cdot\\vec n = d$"
+      },
+      {
+        "name": "Plane (cartesian)",
+        "expr": "$ax+by+cz = d$"
+      },
+      {
+        "name": "Intercept form",
+        "expr": "$\\dfrac{x}{a}+\\dfrac{y}{b}+\\dfrac{z}{c}=1$"
+      },
+      {
+        "name": "Angle between lines",
+        "expr": "$\\cos\\theta = \\dfrac{\\vec{b_1}\\cdot\\vec{b_2}}{|\\vec{b_1}||\\vec{b_2}|}$"
+      },
+      {
+        "name": "Angle between planes",
+        "expr": "$\\cos\\theta = \\dfrac{\\vec{n_1}\\cdot\\vec{n_2}}{|\\vec{n_1}||\\vec{n_2}|}$"
+      },
+      {
+        "name": "Angle line ↔ plane",
+        "expr": "$\\sin\\theta = \\dfrac{\\vec b\\cdot\\vec n}{|\\vec b||\\vec n|}$ (note: sin, not cos)"
+      },
+      {
+        "name": "Distance point ↔ plane",
+        "expr": "$d = \\dfrac{|ax_1+by_1+cz_1-d|}{\\sqrt{a^2+b^2+c^2}}$"
+      },
+      {
+        "name": "Shortest distance (skew lines)",
+        "expr": "$\\text{SD} = \\dfrac{|(\\vec{a_2}-\\vec{a_1})\\cdot(\\vec{b_1}\\times\\vec{b_2})|}{|\\vec{b_1}\\times\\vec{b_2}|}$"
+      },
+      {
+        "name": "SD for parallel lines",
+        "expr": "$\\text{SD} = \\dfrac{|(\\vec{a_2}-\\vec{a_1})\\times\\vec b|}{|\\vec b|}$"
+      }
+    ],
+    "shortcuts": [
+      "Perpendicular from point to plane: foot = point − d·(unit normal).",
+      "Plane through 3 points: use det|{x−x₁, y−y₁, z−z₁; …; …}| = 0.",
+      "Two planes parallel: normals proportional. Perpendicular: n₁·n₂ = 0.",
+      "For coplanar lines (point-line pair a₁, b₁ and a₂, b₂): check (a₂−a₁)·(b₁×b₂) = 0.",
+      "Image of point in plane: P' = P − 2·[(P·n−d)/|n|²]·n.",
+      "If line is parallel to plane, b·n = 0."
+    ],
+    "traps": [
+      "Angle between a LINE and a PLANE uses sin θ (not cos θ) — because angle complements the normal angle.",
+      "Direction cosines satisfy l²+m²+n² = 1 — direction ratios DO NOT.",
+      "Point-to-plane distance uses |…|; don't drop the absolute value.",
+      "Lines being perpendicular means a₁a₂+b₁b₂+c₁c₂ = 0 (direction ratios dot-product).",
+      "Two lines may be non-parallel AND non-intersecting → skew. Don't assume intersecting.",
+      "If b₁ × b₂ = 0, lines are parallel — use parallel-line SD formula, not skew."
+    ],
+    "examDayCheck": [
+      "For angle between line and plane, apply sin θ = (b·n)/(|b||n|) — answer is the complement.",
+      "Convert between vector and cartesian forms smoothly — check whether question demands which.",
+      "For 'coplanar' with 4 points, use scalar triple product of 3 vectors = 0.",
+      "For 'foot of perpendicular' from point to line, parameterise the line and set vector orthogonality."
+    ]
+  },
+  {
+    "id": "kcet-qs-mat-coordinate-geometry-lines-circles-conics",
+    "examId": "kcet",
+    "subject": "mathematics",
+    "chapter": "Coordinate Geometry (Lines, Circles, Conics)",
+    "band": "MEDIUM",
+    "summary": "Straight lines, circles, parabola/ellipse/hyperbola — 2–3 Qs; formula-dense.",
+    "formulas": [
+      {
+        "name": "Distance formula",
+        "expr": "$d = \\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}$"
+      },
+      {
+        "name": "Section (internal)",
+        "expr": "$P = \\left(\\dfrac{mx_2+nx_1}{m+n},\\dfrac{my_2+ny_1}{m+n}\\right)$"
+      },
+      {
+        "name": "Slope",
+        "expr": "$m = \\dfrac{y_2-y_1}{x_2-x_1};\\;\\tan\\theta = \\left|\\dfrac{m_1-m_2}{1+m_1 m_2}\\right|$"
+      },
+      {
+        "name": "Line forms",
+        "expr": "$y-y_1 = m(x-x_1);\\;y = mx+c;\\;\\tfrac{x}{a}+\\tfrac{y}{b}=1$"
+      },
+      {
+        "name": "Distance point ↔ line",
+        "expr": "$d = \\dfrac{|ax_1+by_1+c|}{\\sqrt{a^2+b^2}}$"
+      },
+      {
+        "name": "Circle (standard)",
+        "expr": "$(x-h)^2+(y-k)^2 = r^2;\\;x^2+y^2+2gx+2fy+c=0,\\;\\text{center}=(-g,-f),\\;r=\\sqrt{g^2+f^2-c}$"
+      },
+      {
+        "name": "Parabola y² = 4ax",
+        "expr": "Vertex $(0,0)$, focus $(a,0)$, directrix $x=-a$, latus rectum $=4a$"
+      },
+      {
+        "name": "Tangent to y²=4ax",
+        "expr": "$y = mx+\\dfrac{a}{m};\\;ty = x+at^2\\text{ at }(at^2,2at)$"
+      },
+      {
+        "name": "Ellipse",
+        "expr": "$\\dfrac{x^2}{a^2}+\\dfrac{y^2}{b^2}=1;\\;e = \\sqrt{1-b^2/a^2};\\;\\text{foci }(\\pm ae,0)$"
+      },
+      {
+        "name": "Hyperbola",
+        "expr": "$\\dfrac{x^2}{a^2}-\\dfrac{y^2}{b^2}=1;\\;e = \\sqrt{1+b^2/a^2};\\;\\text{asymptotes }y=\\pm\\tfrac{b}{a}x$"
+      },
+      {
+        "name": "Tangent to ellipse",
+        "expr": "$\\dfrac{xx_1}{a^2}+\\dfrac{yy_1}{b^2}=1;\\;y = mx\\pm\\sqrt{a^2m^2+b^2}$"
+      }
+    ],
+    "shortcuts": [
+      "For tangent to y² = 4ax at point (at², 2at): ty = x + at² — memorise.",
+      "Two lines are perpendicular ⇔ m₁m₂ = −1. Parallel ⇔ m₁ = m₂.",
+      "Angle between diagonals of ax²+bxy+cy²=0: tan θ = |2√(h²−ab)/(a+b)| where h=b/2.",
+      "Circle with diameter endpoints (x₁,y₁), (x₂,y₂): (x−x₁)(x−x₂)+(y−y₁)(y−y₂)=0.",
+      "Common chord of two circles S₁ = 0, S₂ = 0 is S₁−S₂ = 0.",
+      "For ellipse: sum of focal distances = 2a. For hyperbola: difference = 2a."
+    ],
+    "traps": [
+      "For circle x²+y²+2gx+2fy+c=0: centre is (−g,−f), NOT (g,f).",
+      "Radius of circle requires g²+f²−c ≥ 0 — if negative, no real circle.",
+      "Ellipse e < 1; parabola e = 1; hyperbola e > 1 — classic comparison.",
+      "For horizontal ellipse (a > b), foci on x-axis. For vertical (b > a), foci on y-axis — swap formulas.",
+      "Latus rectum of parabola y²=4ax is 4a (length); endpoints (a, ±2a).",
+      "Slope formula breaks for vertical lines (x₁=x₂) — handle separately."
+    ],
+    "examDayCheck": [
+      "Identify conic type before applying formula — quick sketch helps.",
+      "For 'find circle through 3 points' — plug each into x²+y²+2gx+2fy+c=0 and solve 3×3 system.",
+      "Read 'tangent at point' vs 'tangent from external point' — use different forms.",
+      "Don't confuse 'directrix' (a line) with 'axis' (another line through focus)."
+    ]
+  },
+  {
+    "id": "kcet-qs-mat-differential-equations",
+    "examId": "kcet",
+    "subject": "mathematics",
+    "chapter": "Differential Equations",
+    "band": "MEDIUM",
+    "summary": "Variable-separable, linear, homogeneous — 2–3 Qs; formula-heavy.",
+    "formulas": [
+      {
+        "name": "Order & degree",
+        "expr": "Order = highest derivative; degree = power of highest derivative (after clearing radicals)"
+      },
+      {
+        "name": "Variable separable",
+        "expr": "$\\dfrac{dy}{dx} = f(x)g(y) \\Rightarrow \\int\\dfrac{dy}{g(y)} = \\int f(x)\\,dx$"
+      },
+      {
+        "name": "Homogeneous",
+        "expr": "$\\dfrac{dy}{dx} = F(y/x)$ → substitute $y = vx$"
+      },
+      {
+        "name": "Linear (in y)",
+        "expr": "$\\dfrac{dy}{dx}+P(x)y = Q(x);\\;\\text{IF} = e^{\\int P\\,dx};\\;y\\cdot\\text{IF} = \\int Q\\cdot\\text{IF}\\,dx + C$"
+      },
+      {
+        "name": "Linear (in x)",
+        "expr": "$\\dfrac{dx}{dy}+P(y)x = Q(y);\\;\\text{IF} = e^{\\int P\\,dy}$"
+      },
+      {
+        "name": "Bernoulli",
+        "expr": "$\\dfrac{dy}{dx}+Py = Qy^n$ → divide by $y^n$, let $v = y^{1-n}$"
+      },
+      {
+        "name": "General exact",
+        "expr": "$M\\,dx + N\\,dy = 0$ is exact if $\\partial M/\\partial y = \\partial N/\\partial x$"
+      }
+    ],
+    "shortcuts": [
+      "If dy/dx + Py = Q doesn't work, flip: dx/dy + P'x = Q' might be linear.",
+      "Before integrating-factor, make coefficient of dy/dx equal to 1.",
+      "For homogeneous test: replace x → λx, y → λy; if equation unchanged, homogeneous.",
+      "Family 'x²+y² = C': differentiate to get xdx+ydy = 0 — use for isocline questions.",
+      "Family of concentric circles ⇒ ODE is 2xy/(y²−x²) = dy/dx style (trajectories).",
+      "'Growth/decay' problems: dN/dt = kN ⇒ N = N₀e^(kt)."
+    ],
+    "traps": [
+      "'Degree' is defined ONLY after the equation is polynomial in derivatives (clear fractional powers first).",
+      "Integrating factor e^(∫P dx): forget to include constant — but here we DON'T add +C inside the exponent.",
+      "If the DE has y in a transcendental function (e.g., sin y), it's neither linear nor Bernoulli.",
+      "'Solution' means general (+ C) unless a boundary condition is given (particular).",
+      "Order of (y'')² + y' = x is 2 (not 4); degree is 2.",
+      "When separating variables, ensure the variables are fully separated before integrating (no mixed terms left)."
+    ],
+    "examDayCheck": [
+      "Classify the DE first: separable > homogeneous > linear > Bernoulli > exact.",
+      "IF technique: write IF·y = ∫(IF·Q)dx + C — forgetting C loses particular solutions.",
+      "For initial-value problem, substitute x₀, y₀ into general solution to find C.",
+      "Double-check: order = highest derivative; degree = exponent on that highest derivative term."
+    ]
+  },
+  {
+    "id": "kcet-qs-mat-sequences-series",
+    "examId": "kcet",
+    "subject": "mathematics",
+    "chapter": "Sequences & Series",
+    "band": "MEDIUM",
+    "summary": "AP, GP, HP, AM-GM-HM inequality, special series sums.",
+    "formulas": [
+      {
+        "name": "AP",
+        "expr": "$T_n = a+(n-1)d;\\;S_n = \\tfrac{n}{2}[2a+(n-1)d] = \\tfrac{n}{2}(a+\\ell)$"
+      },
+      {
+        "name": "GP",
+        "expr": "$T_n = ar^{n-1};\\;S_n = \\dfrac{a(r^n-1)}{r-1};\\;S_\\infty = \\dfrac{a}{1-r}\\,(|r|<1)$"
+      },
+      {
+        "name": "HP",
+        "expr": "Reciprocals are in AP; $T_n$ of HP = $\\dfrac{1}{\\text{AP term}}$"
+      },
+      {
+        "name": "Means (a,b)",
+        "expr": "$A = \\tfrac{a+b}{2};\\;G = \\sqrt{ab};\\;H = \\dfrac{2ab}{a+b};\\;A\\ge G\\ge H;\\;G^2 = AH$"
+      },
+      {
+        "name": "Sum of n naturals",
+        "expr": "$\\sum n = \\tfrac{n(n+1)}{2}$"
+      },
+      {
+        "name": "Sum of squares",
+        "expr": "$\\sum n^2 = \\tfrac{n(n+1)(2n+1)}{6}$"
+      },
+      {
+        "name": "Sum of cubes",
+        "expr": "$\\sum n^3 = \\left[\\tfrac{n(n+1)}{2}\\right]^2 = (\\sum n)^2$"
+      },
+      {
+        "name": "Arithmetic-geometric",
+        "expr": "Terms: $a, (a+d)r, (a+2d)r^2,\\ldots$; use $S - rS$ trick"
+      }
+    ],
+    "shortcuts": [
+      "For 'three numbers in AP': take (a−d), a, (a+d). For GP: (a/r), a, (ar). For HP: reciprocals in AP.",
+      "If sum of n consecutive terms of an AP appears, use S_n/n = average = middle term (if n odd).",
+      "Telescoping: 1/[n(n+1)] = 1/n − 1/(n+1); sum collapses.",
+      "AM ≥ GM equality iff all terms equal — useful for optimisation.",
+      "Sum of first n odd naturals = n². Sum of first n even naturals = n(n+1).",
+      "Geometric infinite sum only valid for |r| < 1 — check this before applying."
+    ],
+    "traps": [
+      "'Three numbers in GP' — don't take (a−d, a, a+d). That's AP.",
+      "G² = AH relates the three means, not A² = GH.",
+      "Sum of infinite GP is finite only if |r| < 1 strictly.",
+      "In an AP, T_n − T_{n−1} = d (constant difference) — not ratio.",
+      "Sum formula for AP uses n/2, not n. And last term is a+(n−1)d, not a+nd.",
+      "Sum of cubes = (sum of n)² is special — don't confuse with sum of squares."
+    ],
+    "examDayCheck": [
+      "Identify sequence type by checking differences (AP) or ratios (GP) of first few terms.",
+      "For 'nth term' questions — use T_n formula; for 'sum', use S_n.",
+      "For infinite sum, always confirm |r| < 1.",
+      "If problem has AM, GM, HM — use relations between them; don't compute independently."
+    ]
+  },
+  {
+    "id": "kcet-qs-mat-sets-relations-functions",
+    "examId": "kcet",
+    "subject": "mathematics",
+    "chapter": "Sets, Relations & Functions",
+    "band": "MEDIUM",
+    "summary": "Set operations, equivalence relations, function types (1-1, onto), compositions.",
+    "formulas": [
+      {
+        "name": "De Morgan",
+        "expr": "$(A\\cup B)^c = A^c\\cap B^c;\\;(A\\cap B)^c = A^c\\cup B^c$"
+      },
+      {
+        "name": "|A ∪ B|",
+        "expr": "$|A\\cup B| = |A|+|B|-|A\\cap B|$"
+      },
+      {
+        "name": "|A ∪ B ∪ C|",
+        "expr": "$|A|+|B|+|C|-|A\\cap B|-|B\\cap C|-|A\\cap C|+|A\\cap B\\cap C|$"
+      },
+      {
+        "name": "Power set",
+        "expr": "$|P(A)| = 2^{|A|}$"
+      },
+      {
+        "name": "Relations — equivalence",
+        "expr": "Reflexive + Symmetric + Transitive"
+      },
+      {
+        "name": "# relations on A (|A|=n)",
+        "expr": "$2^{n^2}$; reflexive: $2^{n^2-n}$; symmetric: $2^{n(n+1)/2}$"
+      },
+      {
+        "name": "Function composition",
+        "expr": "$(f\\circ g)(x) = f(g(x))$"
+      },
+      {
+        "name": "Inverse",
+        "expr": "$f^{-1}\\circ f = f\\circ f^{-1} = I;\\;(f\\circ g)^{-1}=g^{-1}\\circ f^{-1}$"
+      },
+      {
+        "name": "Injective (1-1)",
+        "expr": "$f(x_1) = f(x_2) \\Rightarrow x_1 = x_2$"
+      },
+      {
+        "name": "Surjective (onto)",
+        "expr": "Range = Codomain"
+      },
+      {
+        "name": "Bijective",
+        "expr": "Both injective and surjective"
+      }
+    ],
+    "shortcuts": [
+      "# functions from A to B (|A|=m, |B|=n) = nᵐ. # one-one (if m≤n) = n!/(n−m)!. # onto: inclusion–exclusion.",
+      "f(x) strictly monotonic ⇒ injective (and hence invertible on its range).",
+      "To test 1-1 algebraically: solve f(x₁)=f(x₂); to test onto: solve y=f(x) for x.",
+      "If f has inverse, graph of f⁻¹ is reflection of f across y = x.",
+      "Even function f(−x) = f(x); odd f(−x) = −f(x); any f = even + odd parts.",
+      "R equivalence ⇒ partitions A into equivalence classes."
+    ],
+    "traps": [
+      "(A∩B)^c = A^c ∪ B^c — not A^c ∩ B^c.",
+      "{∅} ≠ ∅ — {∅} has one element, ∅ has zero.",
+      "A reflexive relation on n elements must have at least n pairs (all (a,a)).",
+      "Symmetric but not reflexive relations exist — check carefully.",
+      "f: A → B can be onto only if |A| ≥ |B|; 1-1 only if |A| ≤ |B|.",
+      "If codomain isn't specified, 'onto' is ambiguous — assume range = codomain."
+    ],
+    "examDayCheck": [
+      "For relation problems, list the pairs and check each property individually.",
+      "Venn diagram: draw for 2-set and 3-set cardinality Qs.",
+      "Composition order: f∘g means g first then f.",
+      "For 'find inverse of f(x)', swap x ↔ y then solve for y."
+    ]
+  },
+  {
+    "id": "kcet-qs-mat-permutations-combinations",
+    "examId": "kcet",
+    "subject": "mathematics",
+    "chapter": "Permutations & Combinations",
+    "band": "MEDIUM",
+    "summary": "Arrangement vs selection, restricted permutations, combinations identities.",
+    "formulas": [
+      {
+        "name": "Permutations",
+        "expr": "$^nP_r = \\dfrac{n!}{(n-r)!}$"
+      },
+      {
+        "name": "Combinations",
+        "expr": "$^nC_r = \\dfrac{n!}{r!(n-r)!}$"
+      },
+      {
+        "name": "Symmetry",
+        "expr": "$^nC_r = {^nC_{n-r}};\\;\\sum_{r=0}^n {^nC_r} = 2^n$"
+      },
+      {
+        "name": "Pascal",
+        "expr": "$^nC_r + {^nC_{r-1}} = {^{n+1}C_r}$"
+      },
+      {
+        "name": "Arrangements with repetition",
+        "expr": "Words from $n$ letters of which some repeat $p, q, \\ldots$: $\\dfrac{n!}{p!\\,q!\\cdots}$"
+      },
+      {
+        "name": "Circular permutations",
+        "expr": "$(n-1)!$; if reflections equivalent (bead): $\\tfrac{(n-1)!}{2}$"
+      },
+      {
+        "name": "Selection from r kinds",
+        "expr": "# ways to pick $r$ from $\\infty$ of $n$ kinds: $^{n+r-1}C_r$"
+      },
+      {
+        "name": "Derangements",
+        "expr": "$D_n = n!\\sum_{k=0}^n \\dfrac{(-1)^k}{k!}$"
+      }
+    ],
+    "shortcuts": [
+      "Dictionary Rank of a word: Count letters alphabetically smaller to the right, multiply by factorial of remaining positions, divide by factorials of repeating letters.",
+      "'At least one' = Total − None.",
+      "Word-making 'no two X together' → arrange others first (M slots), then insert Xs into (M+1) gaps: C(M+1, k).",
+      "Seating around round table: fix 1 person → (n−1)! linear arrangements of rest.",
+      "Choosing and arranging: pick with C, arrange with P or factorial.",
+      "Number of rectangles in m×n grid = C(m+1,2)·C(n+1,2). Squares = Σ k·(equiv).",
+      "# divisors of N = (a+1)(b+1)... where N = p^a·q^b·..."
+    ],
+    "traps": [
+      "P = 'order matters'; C = 'order doesn't'. Read carefully — 'committee' (C), 'ranking' (P).",
+      "0! = 1 (definition).",
+      "With identical items, divide by each repetition factorial — easy to miss one.",
+      "Circular: (n−1)! is for distinguishable seats; clasped necklace divides by 2.",
+      "'At least' vs 'exactly' — different approaches.",
+      "nPr = 0 if r > n; nCr = 0 if r > n."
+    ],
+    "examDayCheck": [
+      "Does 'order matter'? If yes → permutation; if no → combination.",
+      "Are repetitions allowed? Changes formula drastically.",
+      "Is the arrangement linear or circular? Halving for necklaces.",
+      "Check restrictive conditions (e.g., 'E always before R') — divide by 2."
+    ]
+  },
+  {
+    "id": "kcet-qs-mat-binomial-theorem",
+    "examId": "kcet",
+    "subject": "mathematics",
+    "chapter": "Binomial Theorem",
+    "band": "MEDIUM",
+    "summary": "Expansion, general/middle term, coefficient properties.",
+    "formulas": [
+      {
+        "name": "Binomial expansion",
+        "expr": "$(a+b)^n = \\sum_{r=0}^n {^nC_r}\\,a^{n-r}b^r$"
+      },
+      {
+        "name": "General term",
+        "expr": "$T_{r+1} = {^nC_r}\\,a^{n-r}b^r$"
+      },
+      {
+        "name": "Middle term",
+        "expr": "$n$ even: one middle = $T_{n/2+1}$; $n$ odd: two middles $T_{(n+1)/2},\\,T_{(n+3)/2}$"
+      },
+      {
+        "name": "Sum of coeffs",
+        "expr": "Put $a=b=1$: $\\sum {^nC_r} = 2^n$"
+      },
+      {
+        "name": "Alternating sum",
+        "expr": "$\\sum (-1)^r\\,{^nC_r} = 0$ for $n\\ge 1$"
+      },
+      {
+        "name": "Odd = even sum",
+        "expr": "$\\sum_{\\text{odd }r}{^nC_r} = \\sum_{\\text{even }r}{^nC_r} = 2^{n-1}$"
+      },
+      {
+        "name": "Greatest term index",
+        "expr": "Solve $\\dfrac{T_{r+1}}{T_r} = \\dfrac{(n-r+1)b}{r\\,a} \\ge 1$"
+      },
+      {
+        "name": "Generalised (|x|<1)",
+        "expr": "$(1+x)^n = 1 + nx + \\tfrac{n(n-1)}{2!}x^2 + \\cdots$ (any real $n$)"
+      }
+    ],
+    "shortcuts": [
+      "Term independent of x: set exponent of x in T_{r+1} to 0; solve for r.",
+      "Coefficient of x^k in (1+x)^n · (1+x)^m = C(n+m, k) (Vandermonde).",
+      "For (a+b)^n, if you want term with 'x^k', substitute actual powers and find r.",
+      "Ratio of consecutive binomial coefficients: C(n,r+1)/C(n,r) = (n−r)/(r+1).",
+      "If (1+x)^n = ΣaᵣX^r, Σr·aᵣ = n·2^(n−1).",
+      "(1+x)^(1/2) ≈ 1 + x/2 − x²/8 + ... for small x (physics approximations)."
+    ],
+    "traps": [
+      "Middle term: single if n even, TWO middle terms if n odd — students often write only one.",
+      "T_{r+1} has ^nCr, power n−r on first term, r on second — keep the indexing straight.",
+      "'Coefficient' and 'term' differ — coefficient is the number multiplying the variable.",
+      "Term independent of x has x^0, not x^1.",
+      "For (1+x)^n binomial expansion is finite if n is a non-negative integer, infinite otherwise.",
+      "For (a−b)^n, don't forget the alternating signs: T_{r+1} has (−1)^r factor."
+    ],
+    "examDayCheck": [
+      "Write out T_{r+1} with indices explicit before trying to find any specific term.",
+      "For 'term independent of x' or 'coefficient of x^k' — set up exponent equation first.",
+      "Middle term(s): check if n is even or odd — different number of middle terms.",
+      "Substituting x = 1 gives sum of all coefficients; x = −1 gives alternating sum."
+    ]
+  },
+  {
+    "id": "kcet-qs-mat-applications-of-integrals",
+    "examId": "kcet",
+    "subject": "mathematics",
+    "chapter": "Applications of Integrals",
+    "band": "MEDIUM",
+    "summary": "Area under/between curves using definite integrals — 1–2 Qs, high-yield if practiced.",
+    "formulas": [
+      {
+        "name": "Area under curve (x-axis)",
+        "expr": "$A = \\int_a^b y\\,dx = \\int_a^b f(x)\\,dx$"
+      },
+      {
+        "name": "Area under curve (y-axis)",
+        "expr": "$A = \\int_c^d x\\,dy$"
+      },
+      {
+        "name": "Between two curves",
+        "expr": "$A = \\int_a^b [f(x)-g(x)]\\,dx$ when $f\\ge g$"
+      },
+      {
+        "name": "Symmetric region",
+        "expr": "$A = 2\\int_0^a f(x)\\,dx$ if $f$ even"
+      },
+      {
+        "name": "Circle x²+y²=a²",
+        "expr": "Area = $\\pi a^2$"
+      },
+      {
+        "name": "Ellipse x²/a²+y²/b²=1",
+        "expr": "Area = $\\pi ab$"
+      },
+      {
+        "name": "Parabola y²=4ax, chord x=c",
+        "expr": "Area between parabola and chord $= \\tfrac{2}{3}\\cdot\\text{base}\\cdot\\text{height}$"
+      },
+      {
+        "name": "Cardioid r = a(1+cosθ)",
+        "expr": "Area = $\\tfrac{3\\pi a^2}{2}$"
+      }
+    ],
+    "shortcuts": [
+      "Always sketch region before setting up integral — identifies which curve is 'top' vs 'bottom'.",
+      "For intersection points, equate the curves first.",
+      "If region crosses x-axis, split integral — absolute value or sign handled separately.",
+      "Symmetric regions: integrate over half and double to reduce computation.",
+      "Parabola-chord 'two-thirds rule': area = (2/3) × (base) × (height).",
+      "For revolution-like keywords, Pappus's theorem (if ever needed): V = 2π·(distance from centroid to axis)·area."
+    ],
+    "traps": [
+      "Area must be non-negative — if ∫f < 0, area is |∫f|.",
+      "Identify which curve is 'upper' — swapping gives negative answer.",
+      "When integrating wrt y, limits must be y-values (not x).",
+      "For region bounded by curve & axis, area = |∫y dx|; for region between two curves, use differences.",
+      "Splitting by intersection: if curves intersect more than twice, MULTIPLE subintervals.",
+      "Don't forget factor of 2 for symmetric full-region integrals."
+    ],
+    "examDayCheck": [
+      "Sketch the region — where curves cross, which is on top.",
+      "Set up one integral per subregion; add with correct signs.",
+      "Check: does the answer make dimensional sense? (Should be positive.)",
+      "For circles/ellipses, use π·a·b shortcut if the region is the full conic."
+    ]
+  }
+]

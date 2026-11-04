@@ -1,0 +1,2141 @@
+[
+ {
+  "id": "pyq-2025-physics-001",
+  "subject": "physics",
+  "chapter": "units-and-measurement",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 1,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which of the following expressions can be deduced on the basis of dimensional analysis? (All symbols have their usual meanings)",
+  "options": [
+   "$s = ut + \\frac{1}{2}at^{2}$",
+   "$x = A\\cos\\omega t$",
+   "$N = N_{0}e^{-\\lambda t}$",
+   "$F = 6\\pi\\eta r v$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2025-physics-002",
+  "subject": "physics",
+  "chapter": "motion-in-a-straight-line",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 2,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Two stones begin to fall from rest from the same height, with the second stone starting to fall '$\\Delta t$' seconds after the first falls from rest. The distance of separation between the two stones becomes 'H', '$t_{0}$' seconds after the first stone starts its motion. Then $t_{0}$ is equal to",
+  "options": [
+   "$\\frac{H}{g\\Delta t}$",
+   "$\\frac{H}{\\Delta t} + \\frac{\\Delta t}{2g}$",
+   "$\\frac{H}{g\\Delta t} - \\frac{\\Delta t}{2}$",
+   "$\\frac{H}{g\\Delta t} + \\frac{\\Delta t}{2}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-003",
+  "subject": "physics",
+  "chapter": "motion-in-a-plane",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 3,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In the projectile motion of a particle on a level ground, which of the following remains constant with reference to time and position?",
+  "options": [
+   "Vertical component of the velocity of the projectile",
+   "Average velocity between any two points on the path",
+   "Horizontal component of velocity",
+   "Angle between the instantaneous velocity with the horizontal"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-004",
+  "subject": "physics",
+  "chapter": "motion-in-a-plane",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 4,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A particle is in uniform circular motion. The equation of its trajectory is given by $(x - 2)^{2} + y^{2} = 25$, where $x$ and $y$ are in meter. The speed of the particle is $2\\ \\mathrm{m\\,s^{-1}}$. When the particle attains the lowest '$y$' co-ordinate, the acceleration of the particle is (in $\\mathrm{m\\,s^{-2}}$)",
+  "options": [
+   "$0.4\\,\\hat{i}$",
+   "$0.4\\,\\hat{j}$",
+   "$0.8\\,\\hat{i}$",
+   "$0.8\\,\\hat{j}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-005",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 5,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A wooden block of mass $M$ lies on a rough floor. Another wooden block of the same mass is hanging from the point O through strings as shown in the figure. To achieve equilibrium, the co-efficient of static friction between the block on the floor with the floor itself is",
+  "options": [
+   "$\\mu = \\cos\\theta$",
+   "$\\mu = \\cot\\theta$",
+   "$\\mu = \\sin\\theta$",
+   "$\\mu = \\tan\\theta$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2025-physics-005.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-006",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 6,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A block of certain mass is placed on a rough floor. The coefficients of static and kinetic friction between the block and the floor are $0.4$ and $0.25$ respectively. A constant horizontal force $F = 20\\ \\mathrm{N}$ acts on it so that the velocity of the block varies with time according to the following graph. The mass of the block is nearly (Take $g \\simeq 10\\ \\mathrm{m\\,s^{-2}}$)",
+  "options": [
+   "$2.2\\ \\mathrm{kg}$",
+   "$4.4\\ \\mathrm{kg}$",
+   "$1.2\\ \\mathrm{kg}$",
+   "$1.0\\ \\mathrm{kg}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2025-physics-006.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-007",
+  "subject": "physics",
+  "chapter": "work-energy-and-power",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 7,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A body of mass $0.25\\ \\mathrm{kg}$ travels along a straight line from $x = 0$ to $x = 2\\ \\mathrm{m}$ with a speed $\\upsilon = k x^{3/2}$ where $k = 2$ SI units. The work done by the net force during this displacement is",
+  "options": [
+   "$4\\ \\mathrm{J}$",
+   "$8\\ \\mathrm{J}$",
+   "$16\\ \\mathrm{J}$",
+   "$32\\ \\mathrm{J}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-008",
+  "subject": "physics",
+  "chapter": "work-energy-and-power",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 8,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "During an elastic collision between two bodies, which of the following statements are correct?\n\nI. The initial kinetic energy is equal to the final kinetic energy of the system.\n\nII. The linear momentum is conserved.\n\nIII. The kinetic energy during $\\Delta t$ (the collision time) is not conserved.",
+  "options": [
+   "I and II only",
+   "II and III only",
+   "I and III only",
+   "I, II and III"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-009",
+  "subject": "physics",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 9,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Three particles of mass $1\\ \\mathrm{kg}$, $2\\ \\mathrm{kg}$ and $3\\ \\mathrm{kg}$ are placed at the vertices $A$, $B$ and $C$ respectively of an equilateral triangle $ABC$ of side $1\\ \\mathrm{m}$. The centre of mass of the system from vertex $A$ (located at origin) is",
+  "options": [
+   "$(0,0)$",
+   "$\\left(\\frac{7}{12}, \\frac{3\\sqrt{3}}{12}\\right)$",
+   "$\\left(\\frac{9}{12}, \\frac{3\\sqrt{3}}{12}\\right)$",
+   "$\\left(\\frac{7}{12}, \\frac{6+3\\sqrt{3}}{12}\\right)$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-010",
+  "subject": "physics",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 10,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Two fly wheels are connected by a non-slipping belt as shown in the figure. $I_{1} = 4\\ \\mathrm{kg\\,m^{2}}$, $r_{1} = 20\\ \\mathrm{cm}$, $I_{2} = 20\\ \\mathrm{kg\\,m^{2}}$ and $r_{2} = 30\\ \\mathrm{cm}$. A torque of $10\\ \\mathrm{N\\,m}$ is applied on the smaller wheel. Then match the entries of column I with appropriate entries of column II.\n\n| I | Quantities | II | Their numerical values (in SI units) |\n|---|---|---|---|\n| (a) | Angular acceleration of smaller wheel | (i) | $\\frac{5}{3}$ |\n| (b) | Torque on the larger wheel | (ii) | $\\frac{100}{3}$ |\n| (c) | Angular acceleration of larger wheel | (iii) | $\\frac{5}{2}$ |",
+  "options": [
+   "a – iii, b – ii, c – i",
+   "a – ii, b – iii, c – i",
+   "a – iii, b – i, c – ii",
+   "a – ii, b – i, c – iii"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2025-physics-010.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-011",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 11,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $r_{p}, v_{p}, L_{p}$ and $r_{a}, v_{a}, L_{a}$ are radii, velocities and angular momenta of a planet at perihelion and aphelion of its elliptical orbit around the Sun respectively, then",
+  "options": [
+   "$r_{p} < r_{a},\\ v_{p} < v_{a},\\ L_{a} < L_{p}$",
+   "$r_{p} > r_{a},\\ v_{p} > v_{a},\\ L_{a} > L_{p}$",
+   "$r_{p} < r_{a},\\ v_{p} > v_{a},\\ L_{a} = L_{p}$",
+   "$r_{p} > r_{a},\\ v_{p} < v_{a},\\ L_{a} = L_{p}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-012",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 12,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The total energy of a satellite in a circular orbit at a distance $(R + h)$ from the center of the Earth varies as\n\n[$R$ is the radius of the Earth and $h$ is the height of the orbit from Earth's surface]",
+  "options": [
+   "$\\frac{1}{(R+h)}$",
+   "$-\\frac{1}{(R+h)}$",
+   "$\\frac{1}{(R+h)^{2}}$",
+   "$-\\frac{1}{(R+h)^{2}}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-013",
+  "subject": "physics",
+  "chapter": "mechanical-properties-of-solids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 13,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Two wires $A$ and $B$ are made of same material. Their diameters are in the ratio of $1:2$ and lengths are in the ratio of $1:3$. If they are stretched by the same force, then increase in their lengths will be in the ratio of",
+  "options": [
+   "$4 : 3$",
+   "$3 : 4$",
+   "$2 : 3$",
+   "$3 : 2$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-014",
+  "subject": "physics",
+  "chapter": "mechanical-properties-of-fluids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 14,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A horizontal pipe carries water in a streamlined flow. At a point along the pipe, where the cross-sectional area is $10\\ \\mathrm{cm^{2}}$, the velocity of water is $1\\ \\mathrm{m\\,s^{-1}}$ and the pressure is $2000\\ \\mathrm{Pa}$. What is the pressure of water at another point where the cross-sectional area is $5\\ \\mathrm{cm^{2}}$?\n\n[Density of water = $1000\\ \\mathrm{kg\\,m^{-3}}$]",
+  "options": [
+   "$200\\ \\mathrm{Pa}$",
+   "$300\\ \\mathrm{Pa}$",
+   "$400\\ \\mathrm{Pa}$",
+   "$500\\ \\mathrm{Pa}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-015",
+  "subject": "physics",
+  "chapter": "thermal-properties-of-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 15,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Three metal rods of the same material and identical in all respects are joined as shown in the figure. The temperatures at the ends of these rods are maintained as indicated. Assuming no heat energy loss occurs through the curved surfaces of the rods, the temperature at the junction $x$ is",
+  "options": [
+   "$45^{\\circ}\\mathrm{C}$",
+   "$60^{\\circ}\\mathrm{C}$",
+   "$30^{\\circ}\\mathrm{C}$",
+   "$20^{\\circ}\\mathrm{C}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2025-physics-015.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-016",
+  "subject": "physics",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 16,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A gas is taken from state A to state B along two different paths 1 and 2. The heat absorbed and work done by the system along these two paths are $Q_{1}$ and $Q_{2}$ and $W_{1}$ and $W_{2}$ respectively. Then",
+  "options": [
+   "$Q_{1} = Q_{2}$",
+   "$W_{1} = W_{2}$",
+   "$Q_{1} - W_{1} = Q_{2} - W_{2}$",
+   "$Q_{1} + W_{1} = Q_{2} + W_{2}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-017",
+  "subject": "physics",
+  "chapter": "kinetic-theory",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 17,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "At $27^{\\circ}\\mathrm{C}$ temperature, the mean kinetic energy of the atoms of an ideal gas is $E_{1}$. If the temperature is increased to $327^{\\circ}\\mathrm{C}$, then the mean kinetic energy of the atoms will be",
+  "options": [
+   "$\\frac{E_{1}}{2}$",
+   "$\\frac{E_{1}}{\\sqrt{2}}$",
+   "$\\sqrt{2}\\,E_{1}$",
+   "$2E_{1}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-018",
+  "subject": "physics",
+  "chapter": "oscillations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 18,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The variations of kinetic energy $K(x)$, potential energy $U(x)$ and total energy as a function of displacement of a particle in SHM is as shown in the figure. The value of $|x_{0}|$ is",
+  "options": [
+   "$\\frac{A}{2}$",
+   "$2A$",
+   "$\\frac{A}{\\sqrt{2}}$",
+   "$\\sqrt{2}\\,A$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2025-physics-018.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-019",
+  "subject": "physics",
+  "chapter": "waves",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 19,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The angle between the particle velocity and wave velocity in a transverse wave is [except when the particle passes through the mean position]",
+  "options": [
+   "Zero radian",
+   "$\\frac{\\pi}{4}$ radian",
+   "$\\frac{\\pi}{2}$ radian",
+   "$\\pi$ radian"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-020",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 20,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A metallic sphere of radius $R$ carrying a charge $q$ is kept at certain distance from another metallic sphere of radius $R/4$ carrying a charge $Q$. What is the electric flux at any point inside the metallic sphere of radius $R$ due to the sphere of radius $R/4$?",
+  "options": [
+   "$\\frac{Q}{\\varepsilon_{0}}$",
+   "$\\frac{Q}{\\varepsilon_{0}} - \\frac{q}{\\varepsilon_{0}}$",
+   "Zero",
+   "$\\frac{q}{\\varepsilon_{0}} - \\frac{Q}{\\varepsilon_{0}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2025-physics-020.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-021",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 21,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "You are given a dipole of charge $+q$ and $-q$ separated by a distance $2R$. A sphere 'A' of radius '$R$' passes through the centre of the dipole as shown below and another sphere 'B' of radius '$2R$' passes through the charge $+q$. Then the electric flux through the sphere A is",
+  "options": [
+   "$-\\frac{q}{\\varepsilon_{0}}$",
+   "$\\frac{q}{\\varepsilon_{0}}$",
+   "Zero",
+   "$\\frac{2q}{\\varepsilon_{0}}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2025-physics-021.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-022",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 22,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A potential at a point A is $-3\\ \\mathrm{V}$ and that at another point B is $5\\ \\mathrm{V}$. What is the work done in carrying a charge of $5\\ \\mathrm{m\\,C}$ from B to A?",
+  "options": [
+   "$-40\\ \\mathrm{J}$",
+   "$-0.04\\ \\mathrm{J}$",
+   "$-0.4\\ \\mathrm{J}$",
+   "$-4\\ \\mathrm{J}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-023",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 23,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Charges are uniformly spread on the surface of a conducting sphere. The electric field from the centre of sphere to a point outside the sphere varies with distance $r$ from the centre as",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2025-physics-023.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-024",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 24,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Match Column-I with Column-II related to an electric dipole of dipole moment $\\vec{p}$ that is placed in a uniform electric field $\\vec{E}$.\n\n| Column – I (Angle between $\\vec{p}$ and $\\vec{E}$) | Column – II (Potential energy of the dipole) |\n|---|---|\n| a) $180^{\\circ}$ | i) $-pE$ |\n| b) $120^{\\circ}$ | ii) $pE$ |\n| c) $90^{\\circ}$ | iii) $\\frac{1}{2}pE$ |\n| | iv) Zero |",
+  "options": [
+   "a – ii, b – iii, c – iv",
+   "a – i, b – ii, c – iii",
+   "a – ii, b – iii, c – i",
+   "a – ii, b – i, c – iv"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-025",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 25,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which of the following statements is not true?",
+  "options": [
+   "Electric field is always perpendicular to an equipotential surface.",
+   "Work done to move a charge on an equipotential surface is not zero",
+   "Equipotential surfaces are the surfaces where the potential is constant",
+   "Equipotential surfaces for a uniform electric field are parallel and equidistant from each other."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-026",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 26,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 19,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which of the following is a correct statement?",
+  "options": [
+   "Gauss's law is true for any closed surface",
+   "Gauss's law is true for any open surface",
+   "Gauss's law is not applicable when charges are not symmetrically distributed over a closed surface.",
+   "Gauss's law does not hold good for a charge situated outside the Gaussian surface."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-027",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 27,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 19,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In the following circuit, the terminal voltage across the cell is",
+  "options": [
+   "$0.52\\ \\mathrm{V}$",
+   "$1.68\\ \\mathrm{V}$",
+   "$1.95\\ \\mathrm{V}$",
+   "$2.71\\ \\mathrm{V}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2025-physics-027.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-028",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 28,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 19,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Two cells of emfs $E_{1}$ and $E_{2}$ and internal resistances $r_{1}$ and $r_{2}$ ($E_{2} > E_{1}$ and $r_{2} > r_{1}$) respectively, are connected in parallel as shown in figure. The equivalent emf of the combination is $E_{eq}$. Then",
+  "options": [
+   "$E_{1} < E_{eq} < E_{2}$ and $E_{eq}$ is nearer $E_{1}$",
+   "$E_{1} < E_{eq} < E_{2}$ and $E_{eq}$ is nearer $E_{2}$",
+   "$E_{eq} > E_{2}$",
+   "$E_{eq} < E_{1}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2025-physics-028.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-029",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 29,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 21,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The variations of resistivity $\\rho$ with absolute temperature $T$ for three different materials $X$, $Y$ and $Z$ are shown in the graph below. Identify the materials $X$, $Y$ and $Z$.",
+  "options": [
+   "X – copper, Y – nichrome, Z – semiconductor",
+   "X – copper, Y – semiconductor, Z – nichrome",
+   "X – semiconductor, Y – nichrome, Z – copper",
+   "X – nichrome, Y – copper, Z – semiconductor"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2025-physics-029.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "key_confirmed",
+   "notes": "Transcription exact; initial solve misread X/Y; X lowest-rho steep rise = copper, Y high intercept small slope = nichrome, Z = semiconductor; matches key."
+  }
+ },
+ {
+  "id": "pyq-2025-physics-030",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 30,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 21,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Given, a current carrying wire of non-uniform cross-section, which of the following is constant throughout the length of wire?",
+  "options": [
+   "Current, electric field and drift speed",
+   "Drift speed",
+   "Current and drift speed",
+   "Current only"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-031",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 31,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 21,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The graph between variation of resistance of a metal wire as a function of its diameter keeping other parameters like length and temperature constant is",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2025-physics-031.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-032",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 32,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 23,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Two thin long parallel wires separated by a distance '$r$' from each other in vacuum carry a current of $I$ ampere in opposite directions. Then, they will",
+  "options": [
+   "Attract each other with a force per unit length of $\\frac{\\mu_{0}I^{2}}{2\\pi r^{2}}$",
+   "Attract each other with a force per unit length of $\\frac{\\mu_{0}I^{2}}{2\\pi r}$",
+   "Repel each other with a force per unit length of $\\frac{\\mu_{0}I^{2}}{2\\pi r}$",
+   "Repel each other with a force per unit length of $\\frac{\\mu_{0}I^{2}}{2\\pi r^{2}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-033",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 33,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 23,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A solenoid is $1\\ \\mathrm{m}$ long and $4\\ \\mathrm{cm}$ in diameter. It has five layers of windings of $1000$ turns each and carries a current of $7\\ \\mathrm{A}$. The magnetic field at the centre of the solenoid is",
+  "options": [
+   "$439.6\\ \\mathrm{T}$",
+   "$0.4396 \\times 10^{-5}\\ \\mathrm{T}$",
+   "$4.396 \\times 10^{-2}\\ \\mathrm{T}$",
+   "$43.96 \\times 10^{-2}\\ \\mathrm{T}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-034",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 34,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 23,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Two similar galvanometers are converted into an ammeter and a milliammeter. The shunt resistance of ammeter as compared to the shunt resistance of milliammeter will be",
+  "options": [
+   "Equal",
+   "Zero",
+   "More",
+   "Less"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-035",
+  "subject": "physics",
+  "chapter": "magnetism-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 35,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 23,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which of the following statements is true in respect of diamagnetic substances?",
+  "options": [
+   "Susceptibility is small and negative",
+   "They are feebly attracted by magnets",
+   "Permeability is greater than 1000",
+   "Susceptibility decreases with temperature."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-036",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 36,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 25,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Identify the correct statement",
+  "options": [
+   "The magnetic field inside a solenoid is non-uniform",
+   "A current carrying conductor produces an electric field around it.",
+   "A straight current carrying conductor has circular magnetic field lines around it.",
+   "The direction of magnetic field due to a current element is given by Flemings Left Hand Rule"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-037",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 37,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 25,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which of the following graphs represents the variation of magnetic field $B$ with perpendicular distance '$r$' from an infinitely long, straight conductor carrying current?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2025-physics-037.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-038",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 38,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 25,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If we consider an electron and a photon of same de-Broglie wavelength, then they will have same",
+  "options": [
+   "Momentum",
+   "Angular momentum",
+   "Energy",
+   "Velocity"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-039",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 39,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 27,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The anode voltage of a photocell is kept fixed. The frequency of the light falling on the cathode is gradually increased. Then the correct graph which shows the variation of photo current $I$ with the frequency $\\nu$ of incident light is",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2025-physics-039.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-040",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 40,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 27,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "When a bar magnet is pushed towards the coil, along its axis, as shown in the figure, the galvanometer pointer deflects towards $X$. When this magnet is pulled away from the coil, the galvanometer pointer",
+  "options": [
+   "deflects towards $X$",
+   "deflects towards $X^{1}$",
+   "does not deflect",
+   "oscillates"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2025-physics-040.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-041",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 41,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 27,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A square loop of side $2\\ \\mathrm{m}$ lies in the Y-Z plane in a region having a magnetic field $\\vec{B} = (5\\hat{i} + 3\\hat{j} - 4\\hat{k})\\ \\mathrm{T}$. The magnitude of magnetic flux through the square loop is",
+  "options": [
+   "$10\\ \\mathrm{Wb}$",
+   "$20\\ \\mathrm{Wb}$",
+   "$12\\ \\mathrm{Wb}$",
+   "$16\\ \\mathrm{Wb}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-042",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 42,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 29,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In domestic electric mains supply, the voltage and the current are",
+  "options": [
+   "AC voltage and AC current",
+   "AC voltage and DC current",
+   "DC voltage and DC current",
+   "DC voltage and AC current"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-043",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 43,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 29,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A sinusoidal voltage produced by an AC generator at any instant $t$ is given by an equation $V = 311\\sin 314\\,t$. The rms value of voltage and frequency are respectively",
+  "options": [
+   "$200\\ \\mathrm{V},\\ 100\\ \\mathrm{Hz}$",
+   "$200\\ \\mathrm{V},\\ 50\\ \\mathrm{Hz}$",
+   "$220\\ \\mathrm{V},\\ 100\\ \\mathrm{Hz}$",
+   "$220\\ \\mathrm{V},\\ 50\\ \\mathrm{Hz}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-044",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 44,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 29,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A series LCR circuit containing an AC source of $100\\ \\mathrm{V}$ has an inductor and a capacitor of reactances $24\\ \\Omega$ and $16\\ \\Omega$ respectively. If a resistance of $6\\ \\Omega$ is connected in series, then the potential difference across the series combination of inductor and capacitor only is",
+  "options": [
+   "$40\\ \\mathrm{V}$",
+   "$80\\ \\mathrm{V}$",
+   "$400\\ \\mathrm{V}$",
+   "$8\\ \\mathrm{V}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-045",
+  "subject": "physics",
+  "chapter": "electromagnetic-waves",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 45,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 29,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Match the following types of waves with their wavelength ranges.\n\n| Waves | Wavelength ranges |\n|---|---|\n| i. Microwave | (a) $700\\ \\mathrm{nm}$ to $400\\ \\mathrm{nm}$ |\n| ii. Visible light | (b) $1\\ \\mathrm{nm}$ to $10^{-3}\\ \\mathrm{nm}$ |\n| iii. Ultraviolet | (c) $0.1\\ \\mathrm{m}$ to $1\\,\\mathrm{mm}$ |\n| iv. X-rays | (d) $400\\ \\mathrm{nm}$ to $1\\ \\mathrm{nm}$ |",
+  "options": [
+   "i – a, ii – d, iii – b, iv – c",
+   "i – c, ii – a, iii – d, iv – b",
+   "i – d, ii – b, iii – c, iv – a",
+   "i – b, ii – c, iii – a, iv – d"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-046",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 46,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 29,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A ray of light passes from vacuum into a medium of refractive index $n$. If the angle of incidence is twice the angle of refraction, then the angle of incidence in terms of refractive index is",
+  "options": [
+   "$\\cos^{-1}\\left(\\frac{n}{2}\\right)$",
+   "$\\sin^{-1}\\left(\\frac{n}{2}\\right)$",
+   "$2\\cos^{-1}\\left(\\frac{n}{2}\\right)$",
+   "$2\\sin^{-1}\\left(\\frac{n}{2}\\right)$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-047",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 47,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 31,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A convex lens has power $P$. It is cut into two halves along its principal axis. Further one piece (out of two halves) is cut into two halves perpendicular to the principal axis as shown in figure. Choose the incorrect option for the reported lens pieces",
+  "options": [
+   "Power of $L_{1}$ is $\\frac{P}{2}$",
+   "Power of $L_{2}$ is $\\frac{P}{2}$",
+   "Power of $L_{3}$ is $\\frac{P}{2}$",
+   "Power of $L_{1}$ is $P$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2025-physics-047.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "key_confirmed",
+   "notes": "Transcription exact; L1 (half lens) has power P so 'L1 is P/2' is the incorrect statement; matches key."
+  }
+ },
+ {
+  "id": "pyq-2025-physics-048",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 48,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 31,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The image formed by an objective lens of a compound microscope is",
+  "options": [
+   "Virtual and diminished",
+   "Real and diminished",
+   "Real and enlarged",
+   "Virtual and enlarged"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-049",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 49,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 31,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $r$ and $r^{1}$ denote the angles inside the prism having angle of prism $50^{\\circ}$ considering that during interval of time from $t = 0$ to $t = t$, $r$ varies with time as $r = 10^{\\circ} + t^{2}$. During this time $r^{1}$ will vary with time as",
+  "options": [
+   "$40^{\\circ} - t^{2}$",
+   "$40^{\\circ} + t^{2}$",
+   "$50^{\\circ} - t^{2}$",
+   "$50^{\\circ} + t^{2}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2025-physics-049.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-050",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 50,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 33,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $AB$ is incident plane wave front then refracted wave front is $(n_{2} > n_{1})$",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2025-physics-050.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-051",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 51,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 33,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The total energy carried by the light wave when it travels from a rarer to a non-reflecting and non-absorbing medium",
+  "options": [
+   "decreases",
+   "remains same",
+   "increases",
+   "either increases or decreases depending upon angle of incidence"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-052",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 52,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 35,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If the radius of first Bohr orbit is $r$, then the radius of the second Bohr orbit will be",
+  "options": [
+   "$2r$",
+   "$8r$",
+   "$4r$",
+   "$2\\sqrt{2}\\,r$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-053",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 53,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 35,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Match the following types of nuclei with examples shown\n\n| Column-I | Column-II |\n|---|---|\n| (A) Isotopes | (i) ${}_{3}\\mathrm{Li}^{7}$, ${}_{4}\\mathrm{Be}^{7}$ |\n| (B) Isobars | (ii) ${}_{8}\\mathrm{O}^{18}$, ${}_{9}\\mathrm{F}^{19}$ |\n| (C) Isotones | (iii) ${}_{1}\\mathrm{H}^{1}$, ${}_{1}\\mathrm{H}^{2}$ |",
+  "options": [
+   "A – iii, B – i, C – ii",
+   "A – ii, B – iii, C – i",
+   "A – i, B – iii, C – ii",
+   "A – iii, B – ii, C – i"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-054",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 54,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 35,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which of the following statements is incorrect with reference to 'Nuclear force'?",
+  "options": [
+   "Potential energy is minimum, if the separation between the nucleons is $0.8\\ \\mathrm{fm}$",
+   "Nuclear force becomes attractive for nucleon distances larger than $0.8\\ \\mathrm{fm}$",
+   "Nuclear force becomes repulsive for nucleon distances less than $0.8\\ \\mathrm{fm}$",
+   "Nuclear force is always attractive"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-055",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 55,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 35,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The range of electrical conductivity ($\\sigma$) and resistivity ($\\rho$) for metals, among the following, is",
+  "options": [
+   "$\\rho \\rightarrow 10^{-2} - 10^{-8}\\ \\Omega\\mathrm{m}$, $\\sigma \\rightarrow 10^{2} - 10^{8}\\ \\mathrm{S\\,m^{-1}}$",
+   "$\\rho \\rightarrow 10^{-5} - 10^{6}\\ \\Omega\\mathrm{m}$, $\\sigma \\rightarrow 10^{5} - 10^{-6}\\ \\mathrm{S\\,m^{-1}}$",
+   "$\\rho \\rightarrow 10^{11} - 10^{19}\\ \\Omega\\mathrm{m}$, $\\sigma \\rightarrow 10^{-11} - 10^{-19}\\ \\mathrm{S\\,m^{-1}}$",
+   "$\\rho \\rightarrow 10^{2} - 10^{8}\\ \\Omega\\mathrm{m}$, $\\sigma \\rightarrow 10^{-2} - 10^{-8}\\ \\mathrm{S\\,m^{-1}}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-056",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 56,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 35,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which of the following statements is correct for an n-type semiconductor?",
+  "options": [
+   "The donor energy level lies just below the bottom of the conduction band",
+   "The donor energy level lies closely above the top of the valence band",
+   "The donor energy level lies at the half way mark of forbidden energy gap",
+   "The donor energy level does not exist"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-057",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 57,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 37,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The circuit shown in the figure contains two ideal diodes $D_{1}$ and $D_{2}$. If a cell of emf $3\\ \\mathrm{V}$ and negligible internal resistance is connected as shown, then the current through $70\\ \\Omega$ resistance (in ampere) is",
+  "options": [
+   "0",
+   "0.01",
+   "0.02",
+   "0.03"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2025-physics-057.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-058",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 58,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 37,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In determining the refractive index of a glass slab using a travelling microscope, the following readings are tabulated.\n\n(a) Reading of travelling microscope for ink mark = $5.123\\ \\mathrm{cm}$\n\n(b) Reading of travelling microscope for ink mark through glass slab = $6.123\\ \\mathrm{cm}$\n\n(c) Reading of travelling microscope for chalk dust on glass slab = $8.123\\ \\mathrm{cm}$\n\nFrom the data, the refractive index of a glass slab is",
+  "options": [
+   "1.390",
+   "1.500",
+   "1.601",
+   "1.399"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-059",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 59,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 39,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In an experiment to determine the figure of merit of a galvanometer by half deflection method, a student constructed the following circuit.\n\nHe unplugged a resistance of $5200\\ \\Omega$ in $R$. When $K_{1}$ is closed and $K_{2}$ is open, the deflection observed in the galvanometer is $26$ div. When $K_{2}$ is also closed and a resistance of $90\\ \\Omega$ is removed in $S$, the deflection becomes $13$ div. The resistance of galvanometer is nearly",
+  "options": [
+   "$116.0\\ \\Omega$",
+   "$45.0\\ \\Omega$",
+   "$103.0\\ \\Omega$",
+   "$91.6\\ \\Omega$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2025-physics-059.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2025-physics-060",
+  "subject": "physics",
+  "chapter": "mechanical-properties-of-fluids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2025",
+   "year": 2025,
+   "version": "A1",
+   "number": 60,
+   "file": "sources/pyq/2025/physics/2025-physics-question_paper-A1-aglasem.pdf",
+   "page": 39,
+   "key_file": "sources/pyq/2025/physics/2025-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "While determining the coefficient of viscosity of the given liquid, a spherical steel ball sinks by a distance $h = 0.9\\ \\mathrm{m}$. The radius of the ball is $r = \\sqrt{3} \\times 10^{-3}\\ \\mathrm{m}$. The time taken by the ball to sink in three trials are tabulated as follows.\n\n| Trial No. | Time taken by the ball to fall by h (in second) |\n|---|---|\n| 1. | 2.75 |\n| 2. | 2.65 |\n| 3. | 2.70 |\n\nThe difference between the densities of the steel ball and the liquid is $7000\\ \\mathrm{kg\\,m^{-3}}$. If $g = 10.0\\ \\mathrm{m\\,s^{-2}}$, then the coefficient of viscosity of the given liquid at room temperature is",
+  "options": [
+   "$0.28\\ \\mathrm{Pa\\,s}$",
+   "$0.14\\ \\mathrm{Pa\\,s}$",
+   "$0.14 \\times 10^{-3}\\ \\mathrm{Pa\\,s}$",
+   "$14\\ \\mathrm{Pa\\,s}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

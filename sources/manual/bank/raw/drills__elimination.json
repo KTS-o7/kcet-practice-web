@@ -1,0 +1,1290 @@
+[
+  {
+    "id": "elim-001",
+    "subject": "physics",
+    "technique": "dimensional",
+    "stem": "The kinetic energy of a particle of mass $m$ moving with speed $v$ is best given by which expression?",
+    "options": [
+      "$\\frac{1}{2} m v$",
+      "$\\frac{1}{2} m v^{2}$",
+      "$\\frac{1}{2} m^{2} v$",
+      "$\\frac{1}{2} m / v^{2}$"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      0,
+      2,
+      3
+    ],
+    "why": "Energy has dimensions $[M L^{2} T^{-2}]$. Option A gives $[M L T^{-1}]$ (momentum), C gives $[M^{2} L T^{-1}]$, and D gives $[M T^{2} L^{-2}]$. Only B carries $m v^{2}$, the correct energy units."
+  },
+  {
+    "id": "elim-002",
+    "subject": "physics",
+    "technique": "dimensional",
+    "stem": "The time period $T$ of a simple pendulum of length $L$ under gravity $g$ must be proportional to:",
+    "options": [
+      "$L g$",
+      "$\\sqrt{L g}$",
+      "$\\sqrt{L / g}$",
+      "$L / g$"
+    ],
+    "answerIndex": 2,
+    "eliminate": [
+      0,
+      1,
+      3
+    ],
+    "why": "$T$ has units of seconds. $L/g$ has units $[T^{2}]$, so $\\sqrt{L/g}$ has units of time. $L g$ has $[L^{2} T^{-2}]$, $\\sqrt{L g}$ has $[L T^{-1}]$ (a speed), and $L/g$ has $[T^{2}]$. Only C matches time."
+  },
+  {
+    "id": "elim-003",
+    "subject": "physics",
+    "technique": "dimensional",
+    "stem": "Which of the following has the same dimensions as the Planck constant $h$?",
+    "options": [
+      "Linear momentum",
+      "Angular momentum",
+      "Force",
+      "Power"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      0,
+      2,
+      3
+    ],
+    "why": "$h$ has units of $\\text{J} \\cdot \\text{s} = [M L^{2} T^{-1}]$, which is the dimension of angular momentum ($L = I\\omega$). Linear momentum is $[M L T^{-1}]$, force is $[M L T^{-2}]$, power is $[M L^{2} T^{-3}]$."
+  },
+  {
+    "id": "elim-004",
+    "subject": "physics",
+    "technique": "dimensional",
+    "stem": "The escape velocity from a planet of mass $M$ and radius $R$ must depend on $G$, $M$, $R$ as:",
+    "options": [
+      "$\\sqrt{G M R}$",
+      "$\\sqrt{G M / R}$",
+      "$G M / R^{2}$",
+      "$G M / R$"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      0,
+      2,
+      3
+    ],
+    "why": "Velocity needs units $[L T^{-1}]$. $GM/R$ gives $[L^{2} T^{-2}]$ — a speed squared — so its square root is a speed. $GM/R^{2}$ is an acceleration, $\\sqrt{GMR}$ has the wrong exponents on $R$. The real constant is $\\sqrt{2}$, but dimensionally only B works."
+  },
+  {
+    "id": "elim-005",
+    "subject": "physics",
+    "technique": "dimensional",
+    "stem": "The SI unit of the coefficient of viscosity $\\eta$ is:",
+    "options": [
+      "$\\text{kg} \\cdot \\text{m} \\cdot \\text{s}^{-1}$",
+      "$\\text{kg} \\cdot \\text{m}^{-1} \\cdot \\text{s}^{-1}$",
+      "$\\text{kg} \\cdot \\text{m}^{-2} \\cdot \\text{s}^{-1}$",
+      "$\\text{kg} \\cdot \\text{m} \\cdot \\text{s}^{-2}$"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      0,
+      2,
+      3
+    ],
+    "why": "From $F = \\eta A \\, dv/dy$, $\\eta = F / (A \\cdot dv/dy)$, giving $[M L^{-1} T^{-1}]$ = $\\text{Pa} \\cdot \\text{s}$. Option D is a force (newton), A is momentum, C has the wrong length exponent."
+  },
+  {
+    "id": "elim-006",
+    "subject": "physics",
+    "technique": "extremes",
+    "stem": "A car accelerates uniformly from rest to $20 \\text{ m/s}$ in $10$ seconds. The distance covered in this time is approximately:",
+    "options": [
+      "$10 \\text{ m}$",
+      "$100 \\text{ m}$",
+      "$200 \\text{ m}$",
+      "$2000 \\text{ m}$"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      0,
+      3
+    ],
+    "why": "Order-of-magnitude sanity: average speed is $10 \\text{ m/s}$ for $10$ s, so distance $\\approx 100$ m. $10$ m would require average speed $1$ m/s (absurdly slow) and $2000$ m would need average speed $200$ m/s (far above the final speed). The extremes eliminate themselves; the real answer is $\\tfrac{1}{2}(20)(10) = 100$ m."
+  },
+  {
+    "id": "elim-007",
+    "subject": "chemistry",
+    "technique": "extremes",
+    "stem": "The pH of $0.01 \\text{ M}$ HCl (a strong acid) in water is closest to:",
+    "options": [
+      "$0$",
+      "$2$",
+      "$7$",
+      "$12$"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      2,
+      3
+    ],
+    "why": "A strong acid cannot have pH $\\geq 7$ in ordinary aqueous conditions — that eliminates $7$ and $12$ (basic). Between $0$ and $2$: $[\\text{H}^{+}] = 0.01 \\implies \\text{pH} = -\\log(10^{-2}) = 2$. Extremes rule out the basic options instantly."
+  },
+  {
+    "id": "elim-008",
+    "subject": "mathematics",
+    "technique": "extremes",
+    "stem": "The value of $\\sin 31^{\\circ}$ is approximately:",
+    "options": [
+      "$0.05$",
+      "$0.52$",
+      "$0.87$",
+      "$1.15$"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      0,
+      3
+    ],
+    "why": "Sine is always between $-1$ and $1$, so $1.15$ is impossible. Also $\\sin 30^{\\circ} = 0.5$ exactly, so $\\sin 31^{\\circ}$ must be just above $0.5$, not $0.05$ or $0.87$ ($\\sin 60^{\\circ}$). Bounding by known anchors kills the extremes."
+  },
+  {
+    "id": "elim-009",
+    "subject": "physics",
+    "technique": "extremes",
+    "stem": "A pendulum on Earth has a period of $2.0$ s. On the Moon (gravity $\\approx 1/6$ of Earth's), its period is approximately:",
+    "options": [
+      "$0.8 \\text{ s}$",
+      "$2.0 \\text{ s}$",
+      "$4.9 \\text{ s}$",
+      "$12 \\text{ s}$"
+    ],
+    "answerIndex": 2,
+    "eliminate": [
+      0,
+      1,
+      3
+    ],
+    "why": "Weaker gravity makes a pendulum swing slower, so the period must increase — rule out $0.8$ and $2.0$ s immediately. $T \\propto 1/\\sqrt{g}$, so $T$ grows by $\\sqrt{6} \\approx 2.45$ times, giving $\\sim 4.9$ s. A $6\\times$ increase ($12$ s) is the trap that ignores the square root."
+  },
+  {
+    "id": "elim-010",
+    "subject": "mathematics",
+    "technique": "option-pair",
+    "stem": "The derivative of $f(x) = \\cos x$ at $x = 0$ is:",
+    "options": [
+      "$-1$",
+      "$0$",
+      "$1$",
+      "Undefined"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      0,
+      2
+    ],
+    "why": "The options $-1$ and $+1$ are a classic sign-flip trap pair — the setter wants you to confuse $\\sin$ and $-\\sin$. Since $\\cos x$ has a maximum at $x=0$, its slope is $0$ (horizontal tangent), so both signed options are decoys. $f'(x) = -\\sin x$, $f'(0) = 0$."
+  },
+  {
+    "id": "elim-011",
+    "subject": "physics",
+    "technique": "option-pair",
+    "stem": "A convex lens of focal length $20$ cm forms a real image at $40$ cm from the lens. Using the Cartesian sign convention, the object distance $u$ is:",
+    "options": [
+      "$+40 \\text{ cm}$",
+      "$-40 \\text{ cm}$",
+      "$+20 \\text{ cm}$",
+      "$-20 \\text{ cm}$"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      0,
+      2
+    ],
+    "why": "The sign-pair $\\pm 40$ is the live pair — the magnitude is fixed by the lens equation, only the sign is in play. In the Cartesian convention, a real object is always on the incoming side, giving $u < 0$. Positive-$u$ options are the standard distractors; $\\pm 20$ conflates $u$ with $f$."
+  },
+  {
+    "id": "elim-012",
+    "subject": "chemistry",
+    "technique": "option-pair",
+    "stem": "The equilibrium constant $K_{c}$ at $298$ K for a reaction with $\\Delta G^{\\circ} = -5.7 \\text{ kJ/mol}$ is approximately (use $RT \\approx 2.48$ kJ/mol):",
+    "options": [
+      "$0.1$",
+      "$10$",
+      "$0.01$",
+      "$100$"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      0,
+      2
+    ],
+    "why": "The options form two reciprocal pairs: $\\{0.1, 10\\}$ and $\\{0.01, 100\\}$. A negative $\\Delta G^{\\circ}$ means the forward reaction is favourable, so $K > 1$ — kill $0.1$ and $0.01$. Then $\\ln K = -\\Delta G^{\\circ}/RT = 5.7/2.48 \\approx 2.3$, so $K \\approx e^{2.3} \\approx 10$."
+  },
+  {
+    "id": "elim-013",
+    "subject": "general",
+    "technique": "none-all-stats",
+    "stem": "Which of the following statements about Newton's laws is correct?",
+    "options": [
+      "An object in motion stays in motion unless acted on by a force.",
+      "Force equals mass times acceleration.",
+      "For every action there is an equal and opposite reaction.",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "eliminate": [],
+    "why": "When three specific statements are all textbook-standard and mutually consistent, 'All of the above' is statistically the heavy favourite — setters rarely bother including 'All' unless it is the key. Here each of the three restates one of Newton's laws correctly, so D is right. Heuristic: if you can verify two of the three options as true, 'All of the above' usually wins."
+  },
+  {
+    "id": "elim-014",
+    "subject": "general",
+    "technique": "none-all-stats",
+    "stem": "Which of the following is NOT a noble gas?",
+    "options": [
+      "Helium",
+      "Neon",
+      "Nitrogen",
+      "None of the above"
+    ],
+    "answerIndex": 2,
+    "eliminate": [
+      3
+    ],
+    "why": "'None of the above' is the trap here, not the key. The stem asks which is NOT a noble gas; if 'None' were correct, all three listed would have to be noble gases — but nitrogen is clearly not. Heuristic: when 'None of the above' contradicts a single easy-to-verify exception, 'None' is a distractor."
+  },
+  {
+    "id": "elim-015",
+    "subject": "biology",
+    "technique": "none-all-stats",
+    "stem": "Which of the following is a function of the liver?",
+    "options": [
+      "Bile production",
+      "Detoxification of drugs",
+      "Glycogen storage",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "eliminate": [],
+    "why": "Three concrete, textbook-valid liver functions are listed, and none contradicts the others. When every specific option is independently true and 'All of the above' is offered, it is correct the large majority of the time in PYQ banks. Verify two quickly (bile, glycogen) and pick D with confidence."
+  },
+  {
+    "id": "elim-016",
+    "subject": "physics",
+    "technique": "dimensional",
+    "stem": "Work done by a constant force $\\vec{F}$ over a displacement $\\vec{d}$ must have the form:",
+    "options": [
+      "$F / d$",
+      "$F \\cdot d$",
+      "$F \\cdot d^{2}$",
+      "$F^{2} \\cdot d$"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      0,
+      2,
+      3
+    ],
+    "why": "Work is energy, dimensions $[M L^{2} T^{-2}]$. Force is $[M L T^{-2}]$ and displacement is $[L]$, so $F \\cdot d$ gives exactly $[M L^{2} T^{-2}]$. $F/d$ is $[M T^{-2}]$ (a spring constant), $F d^{2}$ over-counts length, and $F^{2} d$ has the wrong mass exponent."
+  },
+  {
+    "id": "elim-017",
+    "subject": "physics",
+    "technique": "dimensional",
+    "stem": "The momentum of a photon of wavelength $\\lambda$ (Planck constant $h$) is dimensionally:",
+    "options": [
+      "$h \\lambda$",
+      "$h / \\lambda$",
+      "$h / \\lambda^{2}$",
+      "$h \\lambda^{2}$"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      0,
+      2,
+      3
+    ],
+    "why": "Momentum is $[M L T^{-1}]$. $h$ has dimensions $[M L^{2} T^{-1}]$ and $\\lambda$ is $[L]$, so $h/\\lambda$ gives $[M L T^{-1}]$ — momentum. $h\\lambda$ gives $[M L^{3} T^{-1}]$, $h/\\lambda^{2}$ is $[M T^{-1}]$, and $h\\lambda^{2}$ is far off. Only B matches, which is the de Broglie relation $p = h/\\lambda$."
+  },
+  {
+    "id": "elim-018",
+    "subject": "physics",
+    "technique": "dimensional",
+    "stem": "Pressure $P$ in SI units can be written as:",
+    "options": [
+      "$\\text{N} \\cdot \\text{m}$",
+      "$\\text{N} / \\text{m}$",
+      "$\\text{N} / \\text{m}^{2}$",
+      "$\\text{N} \\cdot \\text{m}^{2}$"
+    ],
+    "answerIndex": 2,
+    "eliminate": [
+      0,
+      1,
+      3
+    ],
+    "why": "Pressure is force per area, so its SI unit is $\\text{N}/\\text{m}^{2} = \\text{Pa}$. $\\text{N} \\cdot \\text{m}$ is a torque (or energy), $\\text{N}/\\text{m}$ is a spring constant or surface tension, $\\text{N} \\cdot \\text{m}^{2}$ has no standard physical meaning. Only C has the right $[M L^{-1} T^{-2}]$ dimensions."
+  },
+  {
+    "id": "elim-019",
+    "subject": "physics",
+    "technique": "dimensional",
+    "stem": "The torque $\\tau$ acting on a rigid body has the same dimensions as:",
+    "options": [
+      "Force",
+      "Energy",
+      "Power",
+      "Angular velocity"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      0,
+      2,
+      3
+    ],
+    "why": "Torque is $\\vec{r} \\times \\vec{F}$, dimensions $[M L^{2} T^{-2}]$ — identical to energy. Numerically the units (N·m vs J) match too. Force is $[M L T^{-2}]$, power is $[M L^{2} T^{-3}]$, angular velocity is $[T^{-1}]$. Only energy shares torque's dimensions, though physically they describe different quantities."
+  },
+  {
+    "id": "elim-020",
+    "subject": "physics",
+    "technique": "dimensional",
+    "stem": "In a circuit, the magnetic flux $\\Phi$ through a loop has SI units:",
+    "options": [
+      "Tesla ($\\text{T}$)",
+      "Weber ($\\text{Wb} = \\text{T} \\cdot \\text{m}^{2}$)",
+      "Henry ($\\text{H}$)",
+      "Volt ($\\text{V}$)"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      0,
+      2,
+      3
+    ],
+    "why": "Flux is magnetic field times area: $\\Phi = B \\cdot A$, so its unit is tesla · metre² = weber. Tesla alone is just field, henry is inductance ($\\text{Wb}/\\text{A}$), and volt is induced EMF ($d\\Phi/dt$, with a time division). Faraday's law $\\varepsilon = -d\\Phi/dt$ confirms Wb has units of V·s."
+  },
+  {
+    "id": "elim-021",
+    "subject": "physics",
+    "technique": "dimensional",
+    "stem": "The induced EMF in a coil is given by $\\varepsilon = -N \\, d\\Phi/dt$. Its SI unit reduces to:",
+    "options": [
+      "$\\text{T} \\cdot \\text{m}^{2} / \\text{s}$",
+      "$\\text{T} \\cdot \\text{m}$",
+      "$\\text{T} / \\text{s}$",
+      "$\\text{T} \\cdot \\text{m}^{2} \\cdot \\text{s}$"
+    ],
+    "answerIndex": 0,
+    "eliminate": [
+      1,
+      2,
+      3
+    ],
+    "why": "EMF has units of volts. Flux $\\Phi$ is $\\text{T} \\cdot \\text{m}^{2}$ (weber), and dividing by time gives $\\text{T} \\cdot \\text{m}^{2}/\\text{s} = \\text{Wb}/\\text{s} = \\text{V}$. The other options either drop the area, mishandle the time, or multiply by seconds instead of dividing. Only A matches a voltage."
+  },
+  {
+    "id": "elim-022",
+    "subject": "chemistry",
+    "technique": "dimensional",
+    "stem": "The gas constant $R$ appears in $PV = nRT$. Its SI units are:",
+    "options": [
+      "$\\text{J} \\cdot \\text{K} \\cdot \\text{mol}$",
+      "$\\text{J} \\cdot \\text{K}^{-1} \\cdot \\text{mol}^{-1}$",
+      "$\\text{J} \\cdot \\text{K}^{-1}$",
+      "$\\text{Pa} \\cdot \\text{m}^{3}$"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      0,
+      2,
+      3
+    ],
+    "why": "$R = PV/(nT)$. $PV$ has units of energy (joules), $n$ is moles, $T$ is kelvin — giving $\\text{J} \\cdot \\text{K}^{-1} \\cdot \\text{mol}^{-1}$. Option C forgets the per-mole factor, A flips the exponents, and D is just energy (the product $PV$, not divided). Numerically $R \\approx 8.314 \\text{ J/(K·mol)}$."
+  },
+  {
+    "id": "elim-023",
+    "subject": "physics",
+    "technique": "dimensional",
+    "stem": "The thermal energy scale $k_{B} T$ (with $k_{B}$ the Boltzmann constant) has dimensions of:",
+    "options": [
+      "Temperature",
+      "Energy",
+      "Entropy",
+      "Power"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      0,
+      2,
+      3
+    ],
+    "why": "$k_{B}$ has units of $\\text{J}/\\text{K}$, so $k_{B} T$ has units of joules — an energy per particle. Entropy shares units with $k_{B}$ alone, not $k_{B} T$. Power requires a time in the denominator, and temperature cancels out when you multiply by $k_{B}$. This $k_{B}T \\approx 4 \\times 10^{-21}$ J at room temperature is the key thermal-energy benchmark."
+  },
+  {
+    "id": "elim-024",
+    "subject": "biology",
+    "technique": "option-pair",
+    "stem": "Enzyme kinetics reports $V_{\\max}$ as a rate of product formation. Which set of units is dimensionally consistent for $V_{\\max}$?",
+    "options": [
+      "$\\text{mol}/\\text{L}$",
+      "$\\text{mol}/(\\text{L} \\cdot \\text{s})$",
+      "$\\text{L}/\\text{s}$",
+      "$\\text{mol} \\cdot \\text{s}$"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      0,
+      2,
+      3
+    ],
+    "why": "The matched-magnitude pair $\\{\\text{mol}/\\text{L},\\ \\text{mol}/(\\text{L}\\cdot\\text{s})\\}$ is the live one: same substance quantity, differing only by a time factor. $V_{\\max}$ is a rate, so the per-second form wins; option A is a concentration ($K_{m}$), not a rate. $\\text{L}/\\text{s}$ is volumetric flow with no chemistry, and $\\text{mol}\\cdot\\text{s}$ multiplies time instead of dividing."
+  },
+  {
+    "id": "elim-025",
+    "subject": "physics",
+    "technique": "extremes",
+    "stem": "A typical household light bulb consumes roughly:",
+    "options": [
+      "$0.06 \\text{ W}$",
+      "$60 \\text{ W}$",
+      "$6000 \\text{ W}$",
+      "$600000 \\text{ W}$"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      0,
+      2,
+      3
+    ],
+    "why": "Order-of-magnitude anchor: household bulbs are labelled in tens of watts. $0.06$ W is a dim indicator LED, $6$ kW is a kitchen oven, and $600$ kW is industrial machinery. Among the four, only $60$ W is in the bulb regime. Extremes on both sides collapse the choice instantly."
+  },
+  {
+    "id": "elim-026",
+    "subject": "physics",
+    "technique": "extremes",
+    "stem": "The charge on a single electron is (in magnitude):",
+    "options": [
+      "$1.6 \\times 10^{-19} \\text{ C}$",
+      "$1.6 \\times 10^{-9} \\text{ C}$",
+      "$1.6 \\times 10^{-3} \\text{ C}$",
+      "$1.6 \\text{ C}$"
+    ],
+    "answerIndex": 0,
+    "eliminate": [
+      2,
+      3
+    ],
+    "why": "A single elementary charge must be absurdly small on everyday scales — $1.6$ C is enough to run an LED for a second, and $1.6 \\text{ mC}$ is a lightning-scale charge in miniature. Rule out A huge values immediately. $10^{-19}$ C is the standard textbook value; the $10^{-9}$ nanocoulomb option is the trap that confuses charge with charge per nanogram-scale object."
+  },
+  {
+    "id": "elim-027",
+    "subject": "mathematics",
+    "technique": "extremes",
+    "stem": "The probability of rolling at least one six in two independent rolls of a fair die is closest to:",
+    "options": [
+      "$-0.3$",
+      "$0.31$",
+      "$0.33$",
+      "$1.2$"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      0,
+      3
+    ],
+    "why": "Any probability must lie in $[0, 1]$, so $-0.3$ and $1.2$ are impossible regardless of the calculation. Between the two plausible values: $P(\\text{no six}) = (5/6)^{2} = 25/36$, so $P(\\text{at least one}) = 11/36 \\approx 0.306$. The naïve answer $2 \\cdot 1/6 = 1/3 \\approx 0.333$ double-counts the both-sixes case — a trap."
+  },
+  {
+    "id": "elim-028",
+    "subject": "biology",
+    "technique": "extremes",
+    "stem": "The resting membrane potential of a typical neuron is approximately:",
+    "options": [
+      "$-70 \\text{ V}$",
+      "$-70 \\text{ mV}$",
+      "$+70 \\text{ V}$",
+      "$+700 \\text{ mV}$"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      0,
+      2,
+      3
+    ],
+    "why": "Membrane potentials are in the tens of millivolts, never in volts — a 70 V gradient across a 5 nm membrane would shred the cell. Resting neurons are also inside-negative relative to outside, ruling out the positive options. That leaves $-70$ mV, the classic textbook value driven by the K$^{+}$ equilibrium potential."
+  },
+  {
+    "id": "elim-029",
+    "subject": "chemistry",
+    "technique": "extremes",
+    "stem": "The pH of pure water at $25^{\\circ}$C is:",
+    "options": [
+      "$-1$",
+      "$0$",
+      "$7$",
+      "$14$"
+    ],
+    "answerIndex": 2,
+    "eliminate": [
+      0,
+      1,
+      3
+    ],
+    "why": "The pH scale in water runs roughly $0$ to $14$, and neutral water sits in the middle. $-1$ violates the standard pH range; $0$ is a strong acid like $1$ M HCl; $14$ is $1$ M NaOH. Neutral pure water with $[\\text{H}^{+}] = [\\text{OH}^{-}] = 10^{-7}$ M gives pH $= 7$ exactly. Extremes on both sides drop out."
+  },
+  {
+    "id": "elim-030",
+    "subject": "physics",
+    "technique": "extremes",
+    "stem": "The speed of light in vacuum is closest to:",
+    "options": [
+      "$3 \\times 10^{3} \\text{ m/s}$",
+      "$3 \\times 10^{5} \\text{ m/s}$",
+      "$3 \\times 10^{8} \\text{ m/s}$",
+      "$3 \\times 10^{12} \\text{ m/s}$"
+    ],
+    "answerIndex": 2,
+    "eliminate": [
+      0,
+      1,
+      3
+    ],
+    "why": "$3 \\times 10^{3}$ m/s is a bullet, $3 \\times 10^{5}$ m/s is still subluminal by three orders of magnitude, and $3 \\times 10^{12}$ m/s exceeds $c$ — a physical impossibility for any signal. Only $3 \\times 10^{8}$ m/s ($c$) survives as the universal speed limit. Memorise this as an order-of-magnitude anchor for optics questions."
+  },
+  {
+    "id": "elim-031",
+    "subject": "mathematics",
+    "technique": "none-all-stats",
+    "stem": "Which of the following is true about the definite integral $\\int_{0}^{1} x^{2} \\, dx$?",
+    "options": [
+      "Its value is non-negative.",
+      "It equals $\\tfrac{1}{3}$.",
+      "It is bounded above by $1$ (the area of the unit square over $[0,1]$).",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "eliminate": [],
+    "why": "Each specific statement is independently verifiable: $x^{2} \\geq 0$ on $[0,1]$ makes the integral non-negative; $[x^{3}/3]_{0}^{1} = 1/3$; and the unit-square area bounds it above by $1$. With three textbook-consistent true statements, 'All of the above' is the statistical favourite and is correct here. Heuristic: confirm two of three, then commit to D."
+  },
+  {
+    "id": "elim-032",
+    "subject": "physics",
+    "technique": "option-pair",
+    "stem": "In a DC circuit, doubling the resistance while keeping the voltage constant changes the current by a factor of:",
+    "options": [
+      "$2$",
+      "$\\tfrac{1}{2}$",
+      "$4$",
+      "$\\tfrac{1}{4}$"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      2,
+      3
+    ],
+    "why": "The reciprocal pair $\\{2, 1/2\\}$ is the live one — Ohm's law $I = V/R$ means doubling $R$ must halve $I$, not multiply by 4. The $\\{4, 1/4\\}$ pair is the trap for anyone who confuses $I \\propto 1/R$ with $I \\propto 1/R^{2}$ (a power-dissipation confusion). Sign and scaling: inverse-linear, so $1/2$."
+  },
+  {
+    "id": "elim-033",
+    "subject": "mathematics",
+    "technique": "option-pair",
+    "stem": "$\\log_{10}(1/1000)$ equals:",
+    "options": [
+      "$3$",
+      "$-3$",
+      "$\\tfrac{1}{3}$",
+      "$-\\tfrac{1}{3}$"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      0,
+      2,
+      3
+    ],
+    "why": "Two decoy pairs here: $\\{3, -3\\}$ (integer exponents) and $\\{1/3, -1/3\\}$ (reciprocal trap — confusing the log's argument with its value). Since $1/1000 = 10^{-3}$, $\\log_{10}(10^{-3}) = -3$. A value less than 1 must have a negative log base-10, killing both positive options immediately."
+  },
+  {
+    "id": "elim-034",
+    "subject": "chemistry",
+    "technique": "option-pair",
+    "stem": "A solution is prepared by dissolving $0.1$ mol of solute in enough water to make $500$ mL of solution. Its molarity is:",
+    "options": [
+      "$0.05 \\text{ M}$",
+      "$0.2 \\text{ M}$",
+      "$0.5 \\text{ M}$",
+      "$2 \\text{ M}$"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      0,
+      3
+    ],
+    "why": "The pair $\\{0.05, 0.2\\}$ differs by exactly a factor of 4, the same ratio that trips students who multiply $0.1 \\times 500$ instead of dividing by $0.5$ L. The pair $\\{0.5, 2\\}$ ignores the mole count entirely. Correct: $0.1 \\text{ mol} / 0.5 \\text{ L} = 0.2 \\text{ M}$. When in doubt, check units: molarity is mol/L."
+  },
+  {
+    "id": "elim-035",
+    "subject": "physics",
+    "technique": "option-pair",
+    "stem": "An object is thrown vertically upward at $10 \\text{ m/s}$. Taking upward as positive, its velocity after $2$ s (with $g = 10 \\text{ m/s}^{2}$) is:",
+    "options": [
+      "$+10 \\text{ m/s}$",
+      "$-10 \\text{ m/s}$",
+      "$+30 \\text{ m/s}$",
+      "$-30 \\text{ m/s}$"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      0,
+      2
+    ],
+    "why": "The sign-pair $\\pm 10$ is live — after $2$ s, the object has already passed its peak (reached at $1$ s) and is falling, so velocity is negative. $v = u - gt = 10 - 10 \\cdot 2 = -10$ m/s. The $\\pm 30$ pair confuses subtraction with addition. Extreme magnitudes + wrong signs are both traps."
+  },
+  {
+    "id": "elim-036",
+    "subject": "mathematics",
+    "technique": "option-pair",
+    "stem": "The area enclosed between $y = x$ and $y = x^{2}$ from $x = 0$ to $x = 1$ is:",
+    "options": [
+      "$\\tfrac{1}{6}$",
+      "$-\\tfrac{1}{6}$",
+      "$\\tfrac{1}{3}$",
+      "$\\tfrac{1}{2}$"
+    ],
+    "answerIndex": 0,
+    "eliminate": [
+      1,
+      2,
+      3
+    ],
+    "why": "An enclosed area must be non-negative, eliminating $-1/6$ — that's the trap from integrating the 'wrong way'. Between $0$ and $1$, $x \\geq x^{2}$, so area $= \\int_{0}^{1} (x - x^{2}) dx = 1/2 - 1/3 = 1/6$. $1/3$ is just $\\int x^{2}$ alone, and $1/2$ is just $\\int x$ alone — both forget to subtract."
+  },
+  {
+    "id": "elim-037",
+    "subject": "biology",
+    "technique": "none-all-stats",
+    "stem": "Which of the following is/are components of a nucleotide?",
+    "options": [
+      "A nitrogenous base",
+      "A pentose sugar",
+      "A phosphate group",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "eliminate": [],
+    "why": "Every nucleotide — in DNA, RNA, ATP, NAD — is by definition base + sugar + phosphate. All three listed are independently and textbook-correctly components, with no contradiction between them. When each specific option is verifiable and 'All of the above' is offered, the statistical expectation in PYQs is that D wins. Confirm two, pick D."
+  },
+  {
+    "id": "elim-038",
+    "subject": "chemistry",
+    "technique": "none-all-stats",
+    "stem": "Which of the following is NOT an alkaline earth metal?",
+    "options": [
+      "Calcium",
+      "Magnesium",
+      "Sodium",
+      "None of the above"
+    ],
+    "answerIndex": 2,
+    "eliminate": [
+      3
+    ],
+    "why": "'None of the above' would require all three listed to be alkaline earth metals. But sodium is group 1 (alkali metal), not group 2 — an immediate, easy exception. Heuristic: when 'None' is offered on a NOT-question and a single clear counterexample exists, 'None' is the distractor. The correct answer is sodium."
+  },
+  {
+    "id": "elim-039",
+    "subject": "physics",
+    "technique": "none-all-stats",
+    "stem": "Which of the following is a vector quantity?",
+    "options": [
+      "Force",
+      "Velocity",
+      "Acceleration",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "eliminate": [],
+    "why": "Force, velocity, and acceleration all carry direction as well as magnitude — textbook vector quantities. When three specific, cleanly-defined options each independently satisfy the stem and 'All of the above' is present, the intended answer is almost always D. Quick check: each has a clearly needed direction (where does it push, which way is it going), so all qualify."
+  },
+  {
+    "id": "elim-040",
+    "subject": "general",
+    "technique": "none-all-stats",
+    "stem": "Which of the following is NOT a SI base unit?",
+    "options": [
+      "Metre",
+      "Kilogram",
+      "Newton",
+      "None of the above"
+    ],
+    "answerIndex": 2,
+    "eliminate": [
+      3
+    ],
+    "why": "The seven SI base units are metre, kilogram, second, ampere, kelvin, mole, candela. Newton is derived ($\\text{kg} \\cdot \\text{m}/\\text{s}^{2}$), not base. 'None of the above' would require all three listed to be base units, which fails instantly on newton. Heuristic for NOT-questions with 'None': find one clear counterexample and 'None' collapses."
+  },
+  {
+    "id": "elim-041",
+    "subject": "physics",
+    "technique": "limiting-cases",
+    "stem": "A simple pendulum has period $T_E$ on Earth and $T_M$ on the Moon (where $g_M = g_E/6$). What is $T_M$?",
+    "options": [
+      "$T_E/\\sqrt{6}$",
+      "$T_E/6$",
+      "$6\\,T_E$",
+      "$\\sqrt{6}\\,T_E$"
+    ],
+    "answerIndex": 3,
+    "eliminate": [
+      0,
+      1
+    ],
+    "why": "Weaker gravity means longer period ($T \\propto 1/\\sqrt{g}$). Any option that SHRINKS the period as $g$ decreases fails the limit. Between the two growing options, the scaling is $\\sqrt{6}$, not $6$."
+  },
+  {
+    "id": "elim-042",
+    "subject": "physics",
+    "technique": "limiting-cases",
+    "stem": "Two capacitors $C_1$ and $C_2$ are in series. What does the equivalent capacitance approach as $C_2 \\to \\infty$?",
+    "options": [
+      "$0$",
+      "$C_1$",
+      "$C_1 + C_2$",
+      "$C_1 C_2$"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      0,
+      2,
+      3
+    ],
+    "why": "When one capacitor is infinite it becomes a wire — series equivalent reduces to the other capacitor alone. Only $C_1$ satisfies this limit. The $C_1+C_2$ option is the parallel formula (distractor); $C_1C_2$ has wrong units."
+  },
+  {
+    "id": "elim-043",
+    "subject": "mathematics",
+    "technique": "limiting-cases",
+    "stem": "Which expression equals $\\lim_{n \\to \\infty} \\left(1 + \\frac{1}{n}\\right)^n$?",
+    "options": [
+      "$1$",
+      "$e$",
+      "$0$",
+      "$\\infty$"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      0,
+      2,
+      3
+    ],
+    "why": "At $n=1$ the value is $2$, at $n=10$ it is $\\approx 2.59$, at $n=100$ it is $\\approx 2.70$ — the sequence is monotone increasing and bounded. It cannot go to $1$, $0$, or $\\infty$. The defining limit of $e$."
+  },
+  {
+    "id": "elim-044",
+    "subject": "chemistry",
+    "technique": "limiting-cases",
+    "stem": "For an ideal gas at fixed $T$, as pressure $P \\to 0$, the compressibility factor $Z = PV/nRT$ approaches:",
+    "options": [
+      "$0$",
+      "$1$",
+      "$\\infty$",
+      "$-1$"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      0,
+      2,
+      3
+    ],
+    "why": "At very low pressure, real gases behave ideally, so $Z \\to 1$ by definition. $Z = 0$ would mean zero volume; $Z = \\infty$ is unphysical; $Z < 0$ is impossible since all terms are positive."
+  },
+  {
+    "id": "elim-045",
+    "subject": "physics",
+    "technique": "limiting-cases",
+    "stem": "Gravitational force between two point masses at separation $r$. What happens to $F$ as $r \\to \\infty$?",
+    "options": [
+      "$F \\to \\infty$",
+      "$F \\to$ finite non-zero",
+      "$F \\to 0$",
+      "$F \\to -\\infty$"
+    ],
+    "answerIndex": 2,
+    "eliminate": [
+      0,
+      1,
+      3
+    ],
+    "why": "Newton's law: $F = Gm_1m_2/r^2$. Any inverse-square law vanishes at infinity — only $F \\to 0$ is consistent. The $r^2$ in the denominator makes it impossible for $F$ to stay finite at infinity."
+  },
+  {
+    "id": "elim-046",
+    "subject": "mathematics",
+    "technique": "back-solve",
+    "stem": "Which value of $x$ satisfies $\\log_2 x + \\log_4 x = 3$?",
+    "options": [
+      "$x = 2$",
+      "$x = 4$",
+      "$x = 6$",
+      "$x = 8$"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      0,
+      2,
+      3
+    ],
+    "why": "Plug options in. For $x=4$: $\\log_2 4 + \\log_4 4 = 2 + 1 = 3$. ✓ For $x=8$: $3 + 1.5 = 4.5$; $x=2$: $1 + 0.5 = 1.5$; $x=6$: not clean. Back-solving is faster than converting bases and solving algebraically."
+  },
+  {
+    "id": "elim-047",
+    "subject": "mathematics",
+    "technique": "back-solve",
+    "stem": "Which of the following is a root of $x^3 - 6x^2 + 11x - 6 = 0$?",
+    "options": [
+      "$x = 4$",
+      "$x = -1$",
+      "$x = 2$",
+      "$x = 5$"
+    ],
+    "answerIndex": 2,
+    "eliminate": [
+      0,
+      1,
+      3
+    ],
+    "why": "Test options directly. $x = 2$: $8 - 24 + 22 - 6 = 0$. ✓ $x=4$ gives $6$; $x=-1$ gives $-24$; $x=5$ gives $24$. Synthetic/trial is faster than factoring blind; the roots of the polynomial are $1, 2, 3$."
+  },
+  {
+    "id": "elim-048",
+    "subject": "chemistry",
+    "technique": "back-solve",
+    "stem": "pH of a buffer made from equal volumes of $0.1$ M acetic acid and $0.1$ M sodium acetate? ($pK_a = 4.74$)",
+    "options": [
+      "$3.74$",
+      "$4.74$",
+      "$5.74$",
+      "$7.00$"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      0,
+      2,
+      3
+    ],
+    "why": "Henderson-Hasselbalch: $\\text{pH} = pK_a + \\log([\\text{A}^-]/[\\text{HA}])$. With equal concentrations, $\\log(1) = 0$, so pH = $pK_a = 4.74$. Back-substituting quickly distinguishes the three near-neighbours that look plausible."
+  },
+  {
+    "id": "elim-049",
+    "subject": "physics",
+    "technique": "back-solve",
+    "stem": "A particle moves with $v = u + at$. If $u = 2$ m/s and $a = 3$ m/s², at what $t$ is $v = 14$ m/s?",
+    "options": [
+      "$t = 2$ s",
+      "$t = 3$ s",
+      "$t = 4$ s",
+      "$t = 5$ s"
+    ],
+    "answerIndex": 2,
+    "eliminate": [
+      0,
+      1,
+      3
+    ],
+    "why": "Plug into $v = u + at$: for $t=4$: $2 + 3(4) = 14$. ✓ For the others: $t=2$ gives $8$, $t=3$ gives $11$, $t=5$ gives $17$. Options one step off are classic decoys — substitute, don't algebra-solve."
+  },
+  {
+    "id": "elim-050",
+    "subject": "mathematics",
+    "technique": "back-solve",
+    "stem": "Which pair $(x, y)$ satisfies BOTH $3x - 2y = 5$ and $x + y = 5$?",
+    "options": [
+      "$(2, 3)$",
+      "$(3, 2)$",
+      "$(1, 4)$",
+      "$(4, 1)$"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      0,
+      2,
+      3
+    ],
+    "why": "Test each in both equations. $(3,2)$: $3·3-2·2=5$ ✓, $3+2=5$ ✓. $(2,3)$: $3·2-2·3=0$ ✗. $(1,4)$: $3·1-2·4=-5$ ✗. $(4,1)$: $3·4-2·1=10$ ✗. Substitution is faster than eliminating variables — especially when options are integer-valued."
+  },
+  {
+    "id": "elim-051",
+    "subject": "mathematics",
+    "technique": "sign-domain",
+    "stem": "Which of the following CANNOT be a probability?",
+    "options": [
+      "$0$",
+      "$0.73$",
+      "$-0.25$",
+      "$1$"
+    ],
+    "answerIndex": 2,
+    "eliminate": [
+      0,
+      1,
+      3
+    ],
+    "why": "Probabilities live in $[0, 1]$. Any negative value is immediately out. $0$ (impossible event) and $1$ (certain event) are both valid boundary cases. Always eliminate out-of-range options first on probability questions."
+  },
+  {
+    "id": "elim-052",
+    "subject": "physics",
+    "technique": "sign-domain",
+    "stem": "A ball is dropped from rest and takes $t$ seconds to hit the ground. Which is a valid value of $t$?",
+    "options": [
+      "$-2$ s",
+      "$0$ s",
+      "$1.4$ s",
+      "$\\sqrt{-1}$ s"
+    ],
+    "answerIndex": 2,
+    "eliminate": [
+      0,
+      1,
+      3
+    ],
+    "why": "Time of flight is strictly positive and real. Negative, zero (didn't fall), and imaginary times are all non-physical. The sign/domain filter eliminates 3 of 4 options before you use $t = \\sqrt{2h/g}$."
+  },
+  {
+    "id": "elim-053",
+    "subject": "chemistry",
+    "technique": "sign-domain",
+    "stem": "A solution has $[\\text{H}^+] = 10^{-5}$ M. Its pH is:",
+    "options": [
+      "$-5$",
+      "$5$",
+      "$18$",
+      "$\\log(-5)$"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      0,
+      2,
+      3
+    ],
+    "why": "pH is bounded by $[0, 14]$ in aqueous chemistry. $-5$ and $18$ are outside this window and can be eliminated without calculation. $\\log$ of a negative number isn't real. Correct answer $5$ follows from $-\\log(10^{-5})$."
+  },
+  {
+    "id": "elim-054",
+    "subject": "mathematics",
+    "technique": "sign-domain",
+    "stem": "The value of $\\sin 75°$ is closest to:",
+    "options": [
+      "$0.26$",
+      "$0.97$",
+      "$1.03$",
+      "$1.73$"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      2,
+      3
+    ],
+    "why": "$|\\sin \\theta| \\leq 1$ for all real $\\theta$. Both $1.03$ and $1.73$ violate the bound and must be wrong. Between $0.26$ and $0.97$: $75°$ is close to $90°$ where sine approaches $1$, so $0.97$ fits (actual $\\approx 0.966$)."
+  },
+  {
+    "id": "elim-055",
+    "subject": "biology",
+    "technique": "sign-domain",
+    "stem": "What is a plausible value for the resting membrane potential of a typical neuron?",
+    "options": [
+      "$+70$ mV",
+      "$-70$ mV",
+      "$-700$ mV",
+      "$0$ mV"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      0,
+      2,
+      3
+    ],
+    "why": "Resting membrane potential is always NEGATIVE (inside relative to outside, K+ gradient dominates) and on the order of tens of mV. $+70$ is the wrong sign, $-700$ is ten times too large (lipid-bilayer breakdown), $0$ would mean no gradient — all non-physical."
+  },
+  {
+    "id": "elim-056",
+    "subject": "physics",
+    "technique": "symmetry",
+    "stem": "Two resistors $R_1$ and $R_2$ are in parallel. Which expression gives the equivalent resistance?",
+    "options": [
+      "$R_1 + R_2$",
+      "$\\dfrac{R_1 R_2}{R_1 + R_2}$",
+      "$\\dfrac{R_1}{R_1 + R_2}$",
+      "$\\dfrac{R_1 - R_2}{2}$"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      2,
+      3
+    ],
+    "why": "The physics is symmetric in $R_1$ and $R_2$: swapping them mustn't change the answer. Options 3 and 4 both change sign/value when swapped, so they are wrong without any calculation. Option 1 is the series formula (dimensional but wrong context); option 2 is the symmetric correct answer."
+  },
+  {
+    "id": "elim-057",
+    "subject": "physics",
+    "technique": "symmetry",
+    "stem": "Two identical positive charges sit on the x-axis at $x = -a$ and $x = +a$. What is the electric field at the origin?",
+    "options": [
+      "$kQ/a^2$ pointing $+x$",
+      "$kQ/a^2$ pointing $-x$",
+      "Zero",
+      "$2kQ/a^2$ pointing $+x$"
+    ],
+    "answerIndex": 2,
+    "eliminate": [
+      0,
+      1,
+      3
+    ],
+    "why": "The configuration is symmetric about the origin. By symmetry, the field from the left charge must exactly cancel the field from the right charge at the midpoint. Any non-zero answer violates this symmetry and is wrong."
+  },
+  {
+    "id": "elim-058",
+    "subject": "mathematics",
+    "technique": "symmetry",
+    "stem": "If $f(x, y) = x^2 + y^2 - 2xy + 3$, which of these is ALSO equal to $f(y, x)$?",
+    "options": [
+      "$x^2 - y^2 + 3$",
+      "$(x - y)^2 + 3$",
+      "$2xy + 3$",
+      "$x^2 + y^2 + 3$"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      0,
+      2,
+      3
+    ],
+    "why": "$f(x,y) = f(y,x)$ — the function is symmetric in $x$ and $y$ because swapping them gives the same expression. $(x-y)^2 = (y-x)^2$, so option 2 preserves symmetry. Options 1 and 4 differ from the given expression; option 3 drops the squared terms."
+  },
+  {
+    "id": "elim-059",
+    "subject": "chemistry",
+    "technique": "symmetry",
+    "stem": "In a Mendelian dihybrid cross $AaBb \\times AaBb$, swapping the labels of the two genes ($A \\leftrightarrow B$) shouldn't change the phenotype ratio. Which ratio is symmetric under this swap?",
+    "options": [
+      "$9 : 3 : 3 : 1$",
+      "$9 : 3 : 1 : 3$",
+      "$3 : 1 : 9 : 3$",
+      "$9 : 4 : 2 : 1$"
+    ],
+    "answerIndex": 0,
+    "eliminate": [
+      2,
+      3
+    ],
+    "why": "The two middle terms correspond to (dominant-A, recessive-B) and (recessive-A, dominant-B). Swapping the gene labels swaps those two, so the ratio must be symmetric under a 2↔3 swap. Only $9:3:3:1$ has this property; $3:1:9:3$ and $9:4:2:1$ break it."
+  },
+  {
+    "id": "elim-060",
+    "subject": "mathematics",
+    "technique": "special-values",
+    "stem": "Which expression is equivalent to $(x + 1)^3$?",
+    "options": [
+      "$x^3 + 3x^2 + 3x + 1$",
+      "$x^3 + x^2 + x + 1$",
+      "$x^3 + 3x + 1$",
+      "$x^3 + 3x^2 + 1$"
+    ],
+    "answerIndex": 0,
+    "eliminate": [
+      1,
+      2,
+      3
+    ],
+    "why": "Test at $x = 1$: $(1+1)^3 = 8$. Evaluate each option at $x=1$: option A gives $1+3+3+1 = 8$ ✓; option B gives $4$; option C gives $5$; option D gives $5$. Plugging a tidy value catches the wrong-expansion decoys instantly."
+  },
+  {
+    "id": "elim-061",
+    "subject": "mathematics",
+    "technique": "special-values",
+    "stem": "Which of these is the correct expansion of $\\sin(A + B)$?",
+    "options": [
+      "$\\sin A \\cos B + \\cos A \\sin B$",
+      "$\\sin A \\cos B - \\cos A \\sin B$",
+      "$\\cos A \\cos B - \\sin A \\sin B$",
+      "$\\sin A \\sin B + \\cos A \\cos B$"
+    ],
+    "answerIndex": 0,
+    "eliminate": [
+      1,
+      2,
+      3
+    ],
+    "why": "Test with $A = 0$: $\\sin(0 + B) = \\sin B$. Option A: $0 \\cdot \\cos B + 1 \\cdot \\sin B = \\sin B$ ✓. Option B gives $-\\sin B$; option C gives $\\cos B$ (the cosine formula); option D gives $\\cos B$. Special values nail the sign + formula match in seconds."
+  },
+  {
+    "id": "elim-062",
+    "subject": "physics",
+    "technique": "special-values",
+    "stem": "Which expression gives the kinetic energy of a particle?",
+    "options": [
+      "$\\tfrac{1}{2} m v^2$",
+      "$m v^2$",
+      "$\\tfrac{1}{2} m v$",
+      "$\\tfrac{1}{2} m^2 v$"
+    ],
+    "answerIndex": 0,
+    "eliminate": [
+      1,
+      2,
+      3
+    ],
+    "why": "Test with $m = 2$ kg, $v = 3$ m/s → expected KE = $9$ J. Option A: $0.5 \\cdot 2 \\cdot 9 = 9$ ✓. Option B: $18$; option C: $3$; option D: $6$. Plug a known numeric case instead of trying to remember the factor of 1/2."
+  },
+  {
+    "id": "elim-063",
+    "subject": "chemistry",
+    "technique": "special-values",
+    "stem": "For the reaction $N_2 + 3H_2 \\rightleftharpoons 2NH_3$, which expression gives $K_c$?",
+    "options": [
+      "$\\dfrac{[NH_3]^2}{[N_2][H_2]^3}$",
+      "$\\dfrac{[N_2][H_2]^3}{[NH_3]^2}$",
+      "$\\dfrac{[NH_3]}{[N_2][H_2]}$",
+      "$\\dfrac{[NH_3]^2}{[N_2][H_2]}$"
+    ],
+    "answerIndex": 0,
+    "eliminate": [
+      1,
+      2,
+      3
+    ],
+    "why": "Test with all concentrations = $1$ M → at standard state $K_c$ should equal $1/1 = 1$. Option A: $1^2/(1 \\cdot 1^3) = 1$ ✓. Option B gives $1$ too, so test with $[NH_3] = 2$: A gives $4$, B gives $1/4$ — products over reactants means A is right. Special values disambiguate the exponents and inversion trap."
+  },
+  {
+    "id": "elim-064",
+    "subject": "physics",
+    "technique": "conservation",
+    "stem": "A $2$-kg ball moving at $5$ m/s collides with a stationary $3$-kg ball. After a perfectly inelastic collision, the combined velocity is:",
+    "options": [
+      "$5$ m/s",
+      "$2$ m/s",
+      "$3$ m/s",
+      "$1$ m/s"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      0,
+      2,
+      3
+    ],
+    "why": "Conserve momentum: initial $= 2 \\cdot 5 + 3 \\cdot 0 = 10$ kg·m/s. Final $= (2+3) v$. So $v = 10/5 = 2$ m/s. Any option that violates $p_i = p_f$ (like $5$ m/s, which would mean the second mass doesn't slow the first) is immediately wrong."
+  },
+  {
+    "id": "elim-065",
+    "subject": "chemistry",
+    "technique": "conservation",
+    "stem": "Balance: $\\text{Al} + \\text{HCl} \\rightarrow \\text{AlCl}_3 + \\text{H}_2$. Which option has integer coefficients that conserve mass?",
+    "options": [
+      "$\\text{Al} + 3\\text{HCl} \\to \\text{AlCl}_3 + \\tfrac{3}{2}\\text{H}_2$",
+      "$2\\text{Al} + 6\\text{HCl} \\to 2\\text{AlCl}_3 + 3\\text{H}_2$",
+      "$\\text{Al} + \\text{HCl} \\to \\text{AlCl}_3 + \\text{H}_2$",
+      "$2\\text{Al} + 3\\text{HCl} \\to 2\\text{AlCl}_3 + \\text{H}_2$"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      2,
+      3
+    ],
+    "why": "Atoms must balance on both sides. Option C: Cl count is 1 vs 3 — violates conservation. Option D: Cl is 3 vs 6 — violates. Option A conserves but has a fraction; option B is the smallest integer form conserving Al (2=2), H (6=6), Cl (6=6). Conservation filter kills 3 and 4 before arithmetic."
+  },
+  {
+    "id": "elim-066",
+    "subject": "physics",
+    "technique": "conservation",
+    "stem": "In a radioactive $\\alpha$-decay $\\ce{^{238}_{92}U} \\to X + \\ce{^{4}_{2}He}$, what is nucleus $X$?",
+    "options": [
+      "$\\ce{^{234}_{90}Th}$",
+      "$\\ce{^{238}_{90}Th}$",
+      "$\\ce{^{234}_{92}U}$",
+      "$\\ce{^{242}_{94}Pu}$"
+    ],
+    "answerIndex": 0,
+    "eliminate": [
+      1,
+      2,
+      3
+    ],
+    "why": "Conserve mass number ($A$) and atomic number ($Z$). $A$: $238 = A_X + 4 \\Rightarrow A_X = 234$. $Z$: $92 = Z_X + 2 \\Rightarrow Z_X = 90$. Only $\\ce{^{234}_{90}Th}$ matches both. Options 2, 3, 4 violate one or both conservation laws."
+  },
+  {
+    "id": "elim-067",
+    "subject": "chemistry",
+    "technique": "conservation",
+    "stem": "In the half-reaction $\\text{MnO}_4^- + 8\\text{H}^+ + n\\,e^- \\rightarrow \\text{Mn}^{2+} + 4\\text{H}_2\\text{O}$ (acidic medium), $n$ must be:",
+    "options": [
+      "$3$",
+      "$4$",
+      "$5$",
+      "$7$"
+    ],
+    "answerIndex": 2,
+    "eliminate": [
+      0,
+      1,
+      3
+    ],
+    "why": "Conserve charge. Left side: $-1 + 8 + n(-1) = 7 - n$. Right side: $+2 + 0 = +2$. So $7 - n = 2 \\Rightarrow n = 5$. No other option balances charge. Also consistent with Mn going from $+7$ to $+2$ (5-electron reduction)."
+  },
+  {
+    "id": "elim-068",
+    "subject": "mathematics",
+    "technique": "parity",
+    "stem": "What is $\\displaystyle \\int_{-\\pi}^{\\pi} x^3 \\cos x \\, dx$?",
+    "options": [
+      "$0$",
+      "$2\\pi$",
+      "$\\pi^3$",
+      "$\\pi^4/4$"
+    ],
+    "answerIndex": 0,
+    "eliminate": [
+      1,
+      2,
+      3
+    ],
+    "why": "The integrand is $x^3 \\cos x$ — the product of an odd function ($x^3$) and an even function ($\\cos x$), which is odd. Any odd function integrated over a symmetric interval $[-a, a]$ equals zero. Parity kills every non-zero option in one second, with no computation."
+  },
+  {
+    "id": "elim-069",
+    "subject": "mathematics",
+    "technique": "parity",
+    "stem": "Which of the following is an ODD function?",
+    "options": [
+      "$f(x) = x^2 + 1$",
+      "$f(x) = \\cos x$",
+      "$f(x) = x + \\sin x$",
+      "$f(x) = |x|$"
+    ],
+    "answerIndex": 2,
+    "eliminate": [
+      0,
+      1,
+      3
+    ],
+    "why": "Odd means $f(-x) = -f(x)$. Test each: $x^2+1$ gives $f(-x)=f(x)$ (even); $\\cos x$ is even; $|x|$ is even; $x + \\sin x$ gives $f(-x) = -x - \\sin x = -f(x)$ ✓. The parity filter dispatches three options with a single sign-flip check per option."
+  },
+  {
+    "id": "elim-070",
+    "subject": "mathematics",
+    "technique": "parity",
+    "stem": "If $f(x) = g(x) + g(-x)$ where $g$ is any function, then $f$ is:",
+    "options": [
+      "Always odd",
+      "Always even",
+      "Always zero",
+      "Depends on $g$"
+    ],
+    "answerIndex": 1,
+    "eliminate": [
+      0,
+      2,
+      3
+    ],
+    "why": "Replace $x$ by $-x$: $f(-x) = g(-x) + g(-(-x)) = g(-x) + g(x) = f(x)$. So $f$ is always even, regardless of $g$. This is the canonical construction of the \"even part\" of any function. Parity gives a symbolic proof in one step."
+  }
+]

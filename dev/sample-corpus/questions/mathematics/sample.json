@@ -1,0 +1,722 @@
+[
+ {
+  "id": "sample-math-001",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "third-party",
+   "name": "Sample set",
+   "number": 1
+  },
+  "stem": "Evaluate $\\displaystyle\\int_0^{\\pi/2} \\sin^2 x\\,dx$.",
+  "options": [
+   "$\\pi/4$",
+   "$\\pi/2$",
+   "$1$",
+   "$0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-math-002",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "Sample set",
+   "number": 2
+  },
+  "stem": "Evaluate $\\displaystyle\\int_0^{\\pi/2} \\sin^2 x\\,dx$.",
+  "options": [
+   "$\\pi/4$",
+   "$\\pi/2$",
+   "$1$",
+   "$0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-math-003",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "third-party",
+   "name": "Sample set",
+   "number": 3
+  },
+  "stem": "Evaluate $\\displaystyle\\int_0^{\\pi/2} \\sin^2 x\\,dx$.",
+  "options": [
+   "$\\pi/4$",
+   "$\\pi/2$",
+   "$1$",
+   "$0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-math-004",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "Sample set",
+   "number": 4
+  },
+  "stem": "Evaluate $\\displaystyle\\int_0^{\\pi/2} \\sin^2 x\\,dx$.",
+  "options": [
+   "$\\pi/4$",
+   "$\\pi/2$",
+   "$1$",
+   "$0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-math-005",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "Sample set",
+   "number": 5
+  },
+  "stem": "Evaluate $\\displaystyle\\int_0^{\\pi/2} \\sin^2 x\\,dx$.",
+  "options": [
+   "$\\pi/4$",
+   "$\\pi/2$",
+   "$1$",
+   "$0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-math-006",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "third-party",
+   "name": "Sample set",
+   "number": 6
+  },
+  "stem": "Evaluate $\\displaystyle\\int_0^{\\pi/2} \\sin^2 x\\,dx$.",
+  "options": [
+   "$\\pi/4$",
+   "$\\pi/2$",
+   "$1$",
+   "$0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-math-007",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "third-party",
+   "name": "Sample set",
+   "number": 7
+  },
+  "stem": "Evaluate $\\displaystyle\\int_0^{\\pi/2} \\sin^2 x\\,dx$.",
+  "options": [
+   "$\\pi/4$",
+   "$\\pi/2$",
+   "$1$",
+   "$0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-math-008",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "third-party",
+   "name": "Sample set",
+   "number": 8
+  },
+  "stem": "Evaluate $\\displaystyle\\int_0^{\\pi/2} \\sin^2 x\\,dx$.",
+  "options": [
+   "$\\pi/4$",
+   "$\\pi/2$",
+   "$1$",
+   "$0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-math-009",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "third-party",
+   "name": "Sample set",
+   "number": 9
+  },
+  "stem": "Evaluate $\\displaystyle\\int_0^{\\pi/2} \\sin^2 x\\,dx$.",
+  "options": [
+   "$\\pi/4$",
+   "$\\pi/2$",
+   "$1$",
+   "$0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-math-010",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "Sample set",
+   "number": 10
+  },
+  "stem": "Evaluate $\\displaystyle\\int_0^{\\pi/2} \\sin^2 x\\,dx$.",
+  "options": [
+   "$\\pi/4$",
+   "$\\pi/2$",
+   "$1$",
+   "$0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-math-011",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "Sample set",
+   "number": 11
+  },
+  "stem": "Evaluate $\\displaystyle\\int_0^{\\pi/2} \\sin^2 x\\,dx$.",
+  "options": [
+   "$\\pi/4$",
+   "$\\pi/2$",
+   "$1$",
+   "$0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-math-012",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "third-party",
+   "name": "Sample set",
+   "number": 12
+  },
+  "stem": "Evaluate $\\displaystyle\\int_0^{\\pi/2} \\sin^2 x\\,dx$.",
+  "options": [
+   "$\\pi/4$",
+   "$\\pi/2$",
+   "$1$",
+   "$0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-math-013",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "third-party",
+   "name": "Sample set",
+   "number": 13
+  },
+  "stem": "Evaluate $\\displaystyle\\int_0^{\\pi/2} \\sin^2 x\\,dx$.",
+  "options": [
+   "$\\pi/4$",
+   "$\\pi/2$",
+   "$1$",
+   "$0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-math-014",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "Sample set",
+   "number": 14
+  },
+  "stem": "Evaluate $\\displaystyle\\int_0^{\\pi/2} \\sin^2 x\\,dx$.",
+  "options": [
+   "$\\pi/4$",
+   "$\\pi/2$",
+   "$1$",
+   "$0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-math-015",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "Sample set",
+   "number": 15
+  },
+  "stem": "Evaluate $\\displaystyle\\int_0^{\\pi/2} \\sin^2 x\\,dx$.",
+  "options": [
+   "$\\pi/4$",
+   "$\\pi/2$",
+   "$1$",
+   "$0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-math-016",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "third-party",
+   "name": "Sample set",
+   "number": 16
+  },
+  "stem": "Evaluate $\\displaystyle\\int_0^{\\pi/2} \\sin^2 x\\,dx$.",
+  "options": [
+   "$\\pi/4$",
+   "$\\pi/2$",
+   "$1$",
+   "$0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-math-017",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "third-party",
+   "name": "Sample set",
+   "number": 17
+  },
+  "stem": "Evaluate $\\displaystyle\\int_0^{\\pi/2} \\sin^2 x\\,dx$.",
+  "options": [
+   "$\\pi/4$",
+   "$\\pi/2$",
+   "$1$",
+   "$0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-math-018",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "Sample set",
+   "number": 18
+  },
+  "stem": "Evaluate $\\displaystyle\\int_0^{\\pi/2} \\sin^2 x\\,dx$.",
+  "options": [
+   "$\\pi/4$",
+   "$\\pi/2$",
+   "$1$",
+   "$0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-math-019",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "third-party",
+   "name": "Sample set",
+   "number": 19
+  },
+  "stem": "Evaluate $\\displaystyle\\int_0^{\\pi/2} \\sin^2 x\\,dx$.",
+  "options": [
+   "$\\pi/4$",
+   "$\\pi/2$",
+   "$1$",
+   "$0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-math-020",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "third-party",
+   "name": "Sample set",
+   "number": 20
+  },
+  "stem": "Evaluate $\\displaystyle\\int_0^{\\pi/2} \\sin^2 x\\,dx$.",
+  "options": [
+   "$\\pi/4$",
+   "$\\pi/2$",
+   "$1$",
+   "$0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-math-021",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "Sample set",
+   "number": 21
+  },
+  "stem": "Evaluate $\\displaystyle\\int_0^{\\pi/2} \\sin^2 x\\,dx$.",
+  "options": [
+   "$\\pi/4$",
+   "$\\pi/2$",
+   "$1$",
+   "$0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-math-022",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "Sample set",
+   "number": 22
+  },
+  "stem": "Evaluate $\\displaystyle\\int_0^{\\pi/2} \\sin^2 x\\,dx$.",
+  "options": [
+   "$\\pi/4$",
+   "$\\pi/2$",
+   "$1$",
+   "$0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-math-023",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "third-party",
+   "name": "Sample set",
+   "number": 23
+  },
+  "stem": "Evaluate $\\displaystyle\\int_0^{\\pi/2} \\sin^2 x\\,dx$.",
+  "options": [
+   "$\\pi/4$",
+   "$\\pi/2$",
+   "$1$",
+   "$0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-math-024",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "third-party",
+   "name": "Sample set",
+   "number": 24
+  },
+  "stem": "Evaluate $\\displaystyle\\int_0^{\\pi/2} \\sin^2 x\\,dx$.",
+  "options": [
+   "$\\pi/4$",
+   "$\\pi/2$",
+   "$1$",
+   "$0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-math-025",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "Sample set",
+   "number": 25
+  },
+  "stem": "Evaluate $\\displaystyle\\int_0^{\\pi/2} \\sin^2 x\\,dx$.",
+  "options": [
+   "$\\pi/4$",
+   "$\\pi/2$",
+   "$1$",
+   "$0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-math-026",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "Sample set",
+   "number": 26
+  },
+  "stem": "Evaluate $\\displaystyle\\int_0^{\\pi/2} \\sin^2 x\\,dx$.",
+  "options": [
+   "$\\pi/4$",
+   "$\\pi/2$",
+   "$1$",
+   "$0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-math-027",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "Sample set",
+   "number": 27
+  },
+  "stem": "Evaluate $\\displaystyle\\int_0^{\\pi/2} \\sin^2 x\\,dx$.",
+  "options": [
+   "$\\pi/4$",
+   "$\\pi/2$",
+   "$1$",
+   "$0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-math-028",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "third-party",
+   "name": "Sample set",
+   "number": 28
+  },
+  "stem": "Evaluate $\\displaystyle\\int_0^{\\pi/2} \\sin^2 x\\,dx$.",
+  "options": [
+   "$\\pi/4$",
+   "$\\pi/2$",
+   "$1$",
+   "$0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-math-029",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "Sample set",
+   "number": 29
+  },
+  "stem": "Evaluate $\\displaystyle\\int_0^{\\pi/2} \\sin^2 x\\,dx$.",
+  "options": [
+   "$\\pi/4$",
+   "$\\pi/2$",
+   "$1$",
+   "$0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ },
+ {
+  "id": "sample-math-030",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "Sample set",
+   "number": 30
+  },
+  "stem": "Evaluate $\\displaystyle\\int_0^{\\pi/2} \\sin^2 x\\,dx$.",
+  "options": [
+   "$\\pi/4$",
+   "$\\pi/2$",
+   "$1$",
+   "$0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true
+ }
+]

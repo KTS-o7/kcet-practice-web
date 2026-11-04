@@ -1,0 +1,254 @@
+[
+  {
+    "id": "phy-convex-concave-mirror",
+    "subject": "physics",
+    "left": {
+      "label": "Convex mirror",
+      "rule": "Always gives a virtual, erect, diminished image. Focal length is taken positive (new Cartesian). Image lies between pole and focus on the same side as the object.",
+      "example": "Vehicle side mirror — gives a wide field of view so every object appears smaller and farther."
+    },
+    "right": {
+      "label": "Concave mirror",
+      "rule": "Image character depends on object position: beyond C → real, inverted, diminished; between F and C → real, inverted, enlarged; inside F → virtual, erect, enlarged.",
+      "example": "Shaving mirror (object inside F) and torch reflector (source at F)."
+    },
+    "questionIds": [
+      "kcet-phy-batch04-001",
+      "kcet-phy-batch04-010",
+      "kcet-phy-ray-001",
+      "kcet-phy-wave2-03-003",
+      "kcet-phy-batch04-008"
+    ]
+  },
+  {
+    "id": "phy-emf-vs-terminal-voltage",
+    "subject": "physics",
+    "left": {
+      "label": "EMF (ε)",
+      "rule": "Energy per unit charge the source can deliver when NO current flows. Measured by a potentiometer (null method). Depends only on the cell chemistry.",
+      "example": "A fresh 1.5 V cell with open circuit reads 1.5 V across terminals — that is its EMF."
+    },
+    "right": {
+      "label": "Terminal voltage (V)",
+      "rule": "Voltage across the cell WHILE current flows: V = ε − Ir on discharge, V = ε + Ir on charging. Measured by a voltmeter. Drops as load increases.",
+      "example": "A car battery (ε = 12 V, r ≈ 0.05 Ω) delivering 100 A shows V = 12 − 5 = 7 V at the terminals while cranking."
+    },
+    "questionIds": [
+      "kcet-phy-cur-003",
+      "kcet-phy-pyq25-008",
+      "kcet-phy-batch01-010",
+      "kcet-phy-batch01-015",
+      "kcet-phy-batch01-005"
+    ]
+  },
+  {
+    "id": "chem-sn1-vs-sn2",
+    "subject": "chemistry",
+    "left": {
+      "label": "SN1",
+      "rule": "Two-step, carbocation intermediate. First-order kinetics: rate = k[RX]. Favoured by 3° substrates, polar protic solvents, and weak nucleophiles. Gives racemisation at chiral centres.",
+      "example": "Hydrolysis of tert-butyl bromide in aqueous ethanol — 3° carbocation is stable, so SN1 dominates."
+    },
+    "right": {
+      "label": "SN2",
+      "rule": "One-step, concerted backside attack. Second-order kinetics: rate = k[RX][Nu−]. Favoured by 1° substrates, polar aprotic solvents, and strong nucleophiles. Gives Walden inversion of configuration.",
+      "example": "Reaction of methyl bromide with OH− in DMF/acetone — unhindered substrate, strong nucleophile, clean inversion."
+    },
+    "questionIds": [
+      "kcet-che-halo-001",
+      "kcet-che-halo-002",
+      "kcet-che-halo-003",
+      "kcet-che-goc-002",
+      "kcet-che-batch01-006"
+    ]
+  },
+  {
+    "id": "chem-enthalpy-vs-entropy",
+    "subject": "chemistry",
+    "left": {
+      "label": "Enthalpy (ΔH)",
+      "rule": "Heat absorbed/released at constant pressure. Sign tells you if bonds were net made (exothermic, ΔH < 0) or broken (endothermic, ΔH > 0). Units kJ mol⁻¹.",
+      "example": "Combustion of methane: ΔH = −890 kJ mol⁻¹ — strongly exothermic because product bonds (C=O, O−H) are stronger than reactant bonds."
+    },
+    "right": {
+      "label": "Entropy (ΔS)",
+      "rule": "Change in the number of accessible microstates (disorder). ΔS > 0 when gases are produced, solids dissolve, or a system spreads out. Units J mol⁻¹ K⁻¹ — note the unit mismatch with ΔH.",
+      "example": "Melting of ice at 0 °C: ΔS > 0 (liquid water has more positional disorder than crystalline ice), ΔH > 0, and ΔG = 0 at equilibrium."
+    },
+    "questionIds": [
+      "kcet-che-thermo-001",
+      "kcet-che-thermo-002",
+      "kcet-che-thermo-003",
+      "kcet-che-batch05-018",
+      "kcet-che-batch05-019"
+    ]
+  },
+  {
+    "id": "phy-interference-vs-diffraction",
+    "subject": "physics",
+    "left": {
+      "label": "Interference",
+      "rule": "Superposition of waves from TWO (or few) coherent sources. Fringes are equally spaced with β = λD/d, and all bright fringes have the same intensity. Requires a constant phase relationship — ordinary bulbs cannot interfere.",
+      "example": "Young's double-slit with λ = 500 nm, d = 1 mm, D = 1 m gives β = 0.5 mm — the 7th bright fringe sits 3.5 mm from the centre, just as bright as the central one."
+    },
+    "right": {
+      "label": "Diffraction",
+      "rule": "Bending of a wave at an aperture or edge — effectively superposition from infinite secondary wavelets of ONE slit. Central maximum has width 2λD/a (twice the side-fringe width) and is far brighter; intensity of successive maxima falls off rapidly.",
+      "example": "Single slit, a = 0.1 mm, λ = 600 nm, D = 2 m → central max width = 2·λD/a = 24 mm. First minimum at sin θ = λ/a, not λ/d."
+    },
+    "questionIds": [
+      "kcet-phy-batch04-014",
+      "kcet-phy-batch04-015",
+      "kcet-phy-wavopt-001",
+      "kcet-phy-batch04-011",
+      "kcet-phy-wave2-03-009"
+    ]
+  },
+  {
+    "id": "phy-photoelectric-vs-compton",
+    "subject": "physics",
+    "left": {
+      "label": "Photoelectric effect",
+      "rule": "A photon is ABSORBED by a bound electron and the electron is ejected if hν ≥ φ₀. Max KE = hν − φ₀ depends on FREQUENCY, not intensity; stopping potential rises linearly with ν (slope h/e). Photocurrent ∝ intensity.",
+      "example": "Metal with φ₀ = 2 eV illuminated by λ = 400 nm (hν ≈ 3.1 eV): Kmax = 1.1 eV, V₀ = 1.1 V; doubling the bulb's intensity doubles the current but leaves V₀ unchanged."
+    },
+    "right": {
+      "label": "Compton effect",
+      "rule": "A photon SCATTERS off a (nearly) free electron — photon survives but with longer wavelength. Shift Δλ = (h/m_ec)(1 − cos θ) depends only on scattering angle, not on λ or the material. Compton wavelength h/m_ec ≈ 2.43 pm.",
+      "example": "X-ray of λ = 0.5 Å scatters at 90°: Δλ = 0.0243 Å, giving λ' = 0.5243 Å. No threshold — any photon scatters; at θ = 0 there is no shift."
+    },
+    "questionIds": [
+      "kcet-phy-dual-001",
+      "kcet-phy-batch04-021",
+      "kcet-phy-batch04-022",
+      "kcet-phy-batch04-028",
+      "kcet-phy-wave2-03-017"
+    ]
+  },
+  {
+    "id": "phy-self-vs-mutual-inductance",
+    "subject": "physics",
+    "left": {
+      "label": "Self-inductance (L)",
+      "rule": "Flux linkage of a coil with its OWN current: Nφ = Li, so induced emf = −L·di/dt. For a long solenoid L = μ₀N²A/ℓ. Energy stored = ½Li². Resists changes in its own current.",
+      "example": "50 mH coil with current rising from 3 A to 5 A in 0.2 s → induced emf = 0.05·(2/0.2) = 0.5 V; energy jumps from 0.225 J to 0.625 J."
+    },
+    "right": {
+      "label": "Mutual inductance (M)",
+      "rule": "Flux linkage of coil 2 due to the current in coil 1: N₂φ₂ = Mi₁, induced emf in coil 2 = −M·di₁/dt. For coaxial solenoids M = μ₀N₁N₂A/ℓ, and M = k√(L₁L₂) with k ≤ 1. Couples TWO circuits — basis of the transformer.",
+      "example": "Two coils with M = 0.2 H; primary current falls from 4 A to 0 in 0.1 s → emf induced in the secondary = 0.2·(4/0.1) = 8 V."
+    },
+    "questionIds": [
+      "kcet-phy-batch03-020",
+      "kcet-phy-batch03-021",
+      "kcet-phy-batch03-033",
+      "kcet-phy-wave2-02-026",
+      "kcet-phy-wave2-02-027"
+    ]
+  },
+  {
+    "id": "chem-ionic-vs-covalent-character",
+    "subject": "chemistry",
+    "left": {
+      "label": "Ionic character",
+      "rule": "Dominates when the cation is LARGE/low-charge and the anion is SMALL/low-charge, so polarisation is weak. Favoured by large electronegativity gap; gives high-melting solids that dissolve in water and conduct when molten. Lattice energy scales as |q⁺q⁻|/(r⁺ + r⁻).",
+      "example": "NaCl vs NaI: Na⁺ is the same, but Cl⁻ is smaller and less polarisable, so NaCl is more ionic (m.p. 801 °C) than NaI (m.p. 661 °C)."
+    },
+    "right": {
+      "label": "Covalent character (Fajan)",
+      "rule": "Rises when the cation is SMALL/highly-charged and the anion is LARGE/polarisable. Fajan's rules: more covalent → lower m.p., solubility in non-polar solvents, deeper colour. Polarising power ∝ charge/radius².",
+      "example": "AlCl₃ (Al³⁺ is small, high-charge) is covalent and sublimes at 180 °C and dissolves in benzene; compare with ionic NaCl. Similarly AgI is far more covalent than AgF."
+    },
+    "questionIds": [
+      "kcet-che-wave2-03-026",
+      "kcet-che-wave2-03-027",
+      "kcet-che-wave2-03-029",
+      "kcet-che-wave3-03-039",
+      "kcet-che-bond-004"
+    ]
+  },
+  {
+    "id": "chem-galvanic-vs-electrolytic-cell",
+    "subject": "chemistry",
+    "left": {
+      "label": "Galvanic (voltaic) cell",
+      "rule": "Converts chemical energy to electrical energy via a SPONTANEOUS redox reaction. E°cell > 0 and ΔG° = −nFE°cell < 0. Anode is NEGATIVE, cathode is POSITIVE. Nernst equation gives E under non-standard conditions.",
+      "example": "Daniell cell: Zn | Zn²⁺ ‖ Cu²⁺ | Cu with E°cell = 1.10 V. For n = 2, ΔG° = −2·96500·1.10 ≈ −212 kJ/mol; the cell discharges until equilibrium (log K = nE°/0.0591)."
+    },
+    "right": {
+      "label": "Electrolytic cell",
+      "rule": "Uses external electrical energy to drive a NON-SPONTANEOUS reaction (E°cell < 0). Anode is POSITIVE, cathode is NEGATIVE (opposite to galvanic). Faraday's laws: moles deposited = It/(nF). Basis of electroplating and metal extraction.",
+      "example": "Electrolysis of molten NaCl produces Na at the cathode and Cl₂ at the anode; 1 F (96500 C) deposits 23 g Na. Cu refining, Hall–Héroult Al process are other KCET-relevant examples."
+    },
+    "questionIds": [
+      "kcet-che-batch03-006",
+      "kcet-che-batch03-007",
+      "kcet-che-batch03-008",
+      "kcet-che-batch03-014",
+      "kcet-che-batch03-015"
+    ]
+  },
+  {
+    "id": "chem-lanthanide-vs-actinide-contraction",
+    "subject": "chemistry",
+    "left": {
+      "label": "Lanthanide contraction",
+      "rule": "Steady decrease in atomic/ionic radii across the 4f series (La → Lu) because 4f electrons shield the nuclear charge poorly. Consequences: Zr ≈ Hf radii, similar chemistry of 4d and 5d pairs, and higher densities of 5d metals.",
+      "example": "r(Zr) ≈ r(Hf) ≈ 159 pm — that is why separating Zr from Hf is very hard. Also explains why Ln³⁺ radii fall from La³⁺ (103 pm) to Lu³⁺ (86 pm)."
+    },
+    "right": {
+      "label": "Actinide contraction",
+      "rule": "Analogous contraction across the 5f series (Ac → Lr) but LARGER per-step shrinkage because 5f electrons shield even less effectively than 4f. Actinides also show more variable oxidation states (up to +7 in Np, Pu) and are all radioactive, unlike the mostly +3 lanthanides.",
+      "example": "Common oxidation state of Ln is +3; U shows +3, +4, +5, +6, and Np reaches +7. Actinide contraction is the reason later actinides are hard to isolate and characterise."
+    },
+    "questionIds": [
+      "kcet-che-df-002",
+      "kcet-che-batch04-009",
+      "kcet-che-batch04-010",
+      "kcet-che-batch04-015",
+      "kcet-che-wave3-03-011"
+    ]
+  },
+  {
+    "id": "mat-independent-vs-mutually-exclusive",
+    "subject": "mathematics",
+    "left": {
+      "label": "Independent events",
+      "rule": "Occurrence of one does NOT alter the probability of the other: P(A ∩ B) = P(A)·P(B), equivalently P(A|B) = P(A). Two events with positive probabilities CANNOT be both independent and mutually exclusive.",
+      "example": "Rolling two dice — 'die 1 shows 6' and 'die 2 shows 6' are independent: P(both) = (1/6)(1/6) = 1/36. If P(A) = 1/3, P(B) = 1/4, then P(A ∪ B) = 1/3 + 1/4 − 1/12 = 1/2."
+    },
+    "right": {
+      "label": "Mutually exclusive events",
+      "rule": "Both CANNOT happen together: A ∩ B = ∅, so P(A ∩ B) = 0 and P(A ∪ B) = P(A) + P(B). Knowing B occurred makes P(A|B) = 0 — which is the OPPOSITE of independence whenever P(A) > 0.",
+      "example": "Single card drawn from a deck: 'card is a heart' and 'card is a spade' are mutually exclusive, so P(heart ∪ spade) = 13/52 + 13/52 = 1/2. But 'heart' and 'king' are INDEPENDENT, not exclusive (king of hearts exists)."
+    },
+    "questionIds": [
+      "kcet-mat-batch04-003",
+      "kcet-mat-prob-002",
+      "kcet-mat-batch04-004",
+      "kcet-mat-batch04-010",
+      "kcet-mat-batch04-015"
+    ]
+  },
+  {
+    "id": "mat-singular-vs-nonsingular-matrix",
+    "subject": "mathematics",
+    "left": {
+      "label": "Singular matrix",
+      "rule": "A square matrix A with |A| = 0. It has NO inverse, its rows/columns are linearly dependent, and the system AX = B either has no solution or infinitely many. Adjoint exists but A·adj(A) = 0.",
+      "example": "A = ⎛1 2 3; 2 k 6; 3 6 9⎞ is singular when k = 4 (R₃ = 3R₁). Also ⎛x 2; 8 x⎞ is singular at x = ±4, so det = 0 gives x² = 16."
+    },
+    "right": {
+      "label": "Non-singular matrix",
+      "rule": "|A| ≠ 0, so A⁻¹ = adj(A)/|A| exists and is unique. Rows/columns are linearly independent; AX = B has a unique solution X = A⁻¹B. Key identities: |A⁻¹| = 1/|A|, |adj A| = |A|^{n−1}, |kA| = kⁿ|A|.",
+      "example": "A = ⎛2 3; 1 4⎞ has |A| = 5, so A⁻¹ = (1/5)⎛4 −3; −1 2⎞ and |A⁻¹| = 1/5. For a 3 × 3 with |A| = 4, |adj A| = 4² = 16."
+    },
+    "questionIds": [
+      "kcet-mat-batch03-006",
+      "kcet-mat-batch03-007",
+      "kcet-mat-batch03-022",
+      "kcet-mat-wave2-02-013",
+      "kcet-mat-wave3-02-016"
+    ]
+  }
+]

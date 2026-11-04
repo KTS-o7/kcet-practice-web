@@ -1,0 +1,542 @@
+{
+ "physics": [
+  {
+   "id": "units-and-measurement",
+   "name": "Units and Measurement",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "motion-in-a-straight-line",
+   "name": "Motion in a Straight Line",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "motion-in-a-plane",
+   "name": "Motion in a Plane",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "laws-of-motion",
+   "name": "Laws of Motion",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "work-energy-and-power",
+   "name": "Work, Energy and Power",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "system-of-particles-and-rotational-motion",
+   "name": "System of Particles and Rotational Motion",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "gravitation",
+   "name": "Gravitation",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "mechanical-properties-of-solids",
+   "name": "Mechanical Properties of Solids",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "mechanical-properties-of-fluids",
+   "name": "Mechanical Properties of Fluids",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "thermal-properties-of-matter",
+   "name": "Thermal Properties of Matter",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "thermodynamics",
+   "name": "Thermodynamics",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "kinetic-theory",
+   "name": "Kinetic Theory",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "oscillations",
+   "name": "Oscillations",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "waves",
+   "name": "Waves",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "electric-charges-and-fields",
+   "name": "Electric Charges and Fields",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "electrostatic-potential-and-capacitance",
+   "name": "Electrostatic Potential and Capacitance",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "current-electricity",
+   "name": "Current Electricity",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "moving-charges-and-magnetism",
+   "name": "Moving Charges and Magnetism",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "magnetism-and-matter",
+   "name": "Magnetism and Matter",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "electromagnetic-induction",
+   "name": "Electromagnetic Induction",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "alternating-current",
+   "name": "Alternating Current",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "electromagnetic-waves",
+   "name": "Electromagnetic Waves",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "ray-optics-and-optical-instruments",
+   "name": "Ray Optics and Optical Instruments",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "wave-optics",
+   "name": "Wave Optics",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "dual-nature-of-radiation-and-matter",
+   "name": "Dual Nature of Radiation and Matter",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "atoms",
+   "name": "Atoms",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "nuclei",
+   "name": "Nuclei",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "semiconductor-electronics",
+   "name": "Semiconductor Electronics",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "physical-world",
+   "name": "Physical World",
+   "class": 11,
+   "in_syllabus": false
+  },
+  {
+   "id": "communication-systems",
+   "name": "Communication Systems",
+   "class": 12,
+   "in_syllabus": false
+  }
+ ],
+ "chemistry": [
+  {
+   "id": "some-basic-concepts-of-chemistry",
+   "name": "Some Basic Concepts of Chemistry",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "structure-of-atom",
+   "name": "Structure of Atom",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "classification-of-elements-and-periodicity",
+   "name": "Classification of Elements and Periodicity",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "chemical-bonding-and-molecular-structure",
+   "name": "Chemical Bonding and Molecular Structure",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "thermodynamics",
+   "name": "Thermodynamics",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "equilibrium",
+   "name": "Equilibrium",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "redox-reactions",
+   "name": "Redox Reactions",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "organic-chemistry-basic-principles-and-techniques",
+   "name": "Organic Chemistry: Basic Principles and Techniques",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "hydrocarbons",
+   "name": "Hydrocarbons",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "solutions",
+   "name": "Solutions",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "electrochemistry",
+   "name": "Electrochemistry",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "chemical-kinetics",
+   "name": "Chemical Kinetics",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "the-d-and-f-block-elements",
+   "name": "The d- and f-Block Elements",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "coordination-compounds",
+   "name": "Coordination Compounds",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "haloalkanes-and-haloarenes",
+   "name": "Haloalkanes and Haloarenes",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "alcohols-phenols-and-ethers",
+   "name": "Alcohols, Phenols and Ethers",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "aldehydes-ketones-and-carboxylic-acids",
+   "name": "Aldehydes, Ketones and Carboxylic Acids",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "amines",
+   "name": "Amines",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "biomolecules",
+   "name": "Biomolecules",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "states-of-matter",
+   "name": "States of Matter",
+   "class": 11,
+   "in_syllabus": false
+  },
+  {
+   "id": "hydrogen",
+   "name": "Hydrogen",
+   "class": 11,
+   "in_syllabus": false
+  },
+  {
+   "id": "the-s-block-elements",
+   "name": "The s-Block Elements",
+   "class": 11,
+   "in_syllabus": false
+  },
+  {
+   "id": "the-p-block-elements-11",
+   "name": "The p-Block Elements",
+   "class": 11,
+   "in_syllabus": false
+  },
+  {
+   "id": "environmental-chemistry",
+   "name": "Environmental Chemistry",
+   "class": 11,
+   "in_syllabus": false
+  },
+  {
+   "id": "the-solid-state",
+   "name": "The Solid State",
+   "class": 12,
+   "in_syllabus": false
+  },
+  {
+   "id": "surface-chemistry",
+   "name": "Surface Chemistry",
+   "class": 12,
+   "in_syllabus": false
+  },
+  {
+   "id": "general-principles-and-processes-of-isolation-of-elements",
+   "name": "General Principles and Processes of Isolation of Elements",
+   "class": 12,
+   "in_syllabus": false
+  },
+  {
+   "id": "the-p-block-elements-12",
+   "name": "The p-Block Elements",
+   "class": 12,
+   "in_syllabus": false
+  },
+  {
+   "id": "polymers",
+   "name": "Polymers",
+   "class": 12,
+   "in_syllabus": false
+  },
+  {
+   "id": "chemistry-in-everyday-life",
+   "name": "Chemistry in Everyday Life",
+   "class": 12,
+   "in_syllabus": false
+  }
+ ],
+ "mathematics": [
+  {
+   "id": "sets",
+   "name": "Sets",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "relations-and-functions-11",
+   "name": "Relations and Functions",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "trigonometric-functions",
+   "name": "Trigonometric Functions",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "complex-numbers-and-quadratic-equations",
+   "name": "Complex Numbers and Quadratic Equations",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "linear-inequalities",
+   "name": "Linear Inequalities",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "permutations-and-combinations",
+   "name": "Permutations and Combinations",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "binomial-theorem",
+   "name": "Binomial Theorem",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "sequences-and-series",
+   "name": "Sequences and Series",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "straight-lines",
+   "name": "Straight Lines",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "conic-sections",
+   "name": "Conic Sections",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "introduction-to-three-dimensional-geometry",
+   "name": "Introduction to Three Dimensional Geometry",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "limits-and-derivatives",
+   "name": "Limits and Derivatives",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "statistics",
+   "name": "Statistics",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "probability-11",
+   "name": "Probability",
+   "class": 11,
+   "in_syllabus": true
+  },
+  {
+   "id": "relations-and-functions",
+   "name": "Relations and Functions",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "inverse-trigonometric-functions",
+   "name": "Inverse Trigonometric Functions",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "matrices",
+   "name": "Matrices",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "determinants",
+   "name": "Determinants",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "continuity-and-differentiability",
+   "name": "Continuity and Differentiability",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "application-of-derivatives",
+   "name": "Application of Derivatives",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "integrals",
+   "name": "Integrals",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "application-of-integrals",
+   "name": "Application of Integrals",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "differential-equations",
+   "name": "Differential Equations",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "vector-algebra",
+   "name": "Vector Algebra",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "three-dimensional-geometry",
+   "name": "Three Dimensional Geometry",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "linear-programming",
+   "name": "Linear Programming",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "probability",
+   "name": "Probability",
+   "class": 12,
+   "in_syllabus": true
+  },
+  {
+   "id": "principle-of-mathematical-induction",
+   "name": "Principle of Mathematical Induction",
+   "class": 11,
+   "in_syllabus": false
+  },
+  {
+   "id": "mathematical-reasoning",
+   "name": "Mathematical Reasoning",
+   "class": 11,
+   "in_syllabus": false
+  }
+ ]
+}

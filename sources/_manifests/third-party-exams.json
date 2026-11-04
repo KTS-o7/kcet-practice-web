@@ -1,0 +1,1130 @@
+[
+ {
+  "path": "sources/third-party/neet/2016-P1-B/neet-2016-phase1-B-question_paper-byjus.pdf",
+  "url": "https://cdn1.byjus.com/neet/wp-content/uploads/2018/03/12073230/NEET-2016-Question-Paper-Phase-1-Code-B-Q-X.pdf",
+  "fetched_at": "2026-11-04T17:26:30Z",
+  "sha256": "4308b5fe5427d2135acb2974cd4778f3a005914be9a9d1daef9b2647c759ab27",
+  "bytes": 5266379,
+  "pages": 38,
+  "kind": "question_paper",
+  "exam": "NEET",
+  "year": 2016,
+  "code": "Phase1-B",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Biology"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Bilingual English+Hindi booklet, 180 Qs (Chem 1-45, Bio 46-90, Phys 91-135? per key header; verify order). Paper copy hosted by Byjus."
+ },
+ {
+  "path": "sources/third-party/neet/2016-P1-B/neet-2016-phase1-B-answer_key-byjus.pdf",
+  "url": "https://cdn1.byjus.com/neet/wp-content/uploads/2018/03/10072943/NEET-2016-Answer-keys-Phase-1-Code-B-Q-X.pdf",
+  "fetched_at": "2026-11-04T17:26:30Z",
+  "sha256": "34797ca180055d50cd7bd8ff4793fb45a40e358eb10eabe034cf917db134a4b0",
+  "bytes": 325544,
+  "pages": 1,
+  "kind": "answer_key",
+  "exam": "NEET",
+  "year": 2016,
+  "code": "Phase1-B",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Biology"
+  ],
+  "official": true,
+  "text_layer": true,
+  "notes": "CBSE key for code B-Q-X as republished by Byjus (provenance not verified against cbseneet.nic.in). Contains Bonus / multi-answer entries."
+ },
+ {
+  "path": "sources/third-party/neet/2016-P2-BB/neet-2016-phase2-BB-question_paper-byjus.pdf",
+  "url": "https://cdn1.byjus.com/neet/wp-content/uploads/2018/03/12062621/NEET-2016-Question-Paper-Phase-2-Code-BB-QQ-XX.pdf",
+  "fetched_at": "2026-11-04T17:26:30Z",
+  "sha256": "57746217c9dcdfdb64288aa963e86164ffe9c94ffec7fc78b836bedc2df6525b",
+  "bytes": 2307416,
+  "pages": 19,
+  "kind": "question_paper",
+  "exam": "NEET",
+  "year": 2016,
+  "code": "Phase2-BB",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Biology"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Phase 2 (24 Jul 2016) code BB-QQ-XX. Paper copy hosted by Byjus."
+ },
+ {
+  "path": "sources/third-party/neet/2016-P2-BB/neet-2016-phase2-BB-answer_key-byjus.pdf",
+  "url": "https://cdn1.byjus.com/neet/wp-content/uploads/2018/03/10073131/NEET-2016-Answer-keys-Phase-2-Code-BB-QQ-XX.pdf",
+  "fetched_at": "2026-11-04T17:26:30Z",
+  "sha256": "24247d9a11d4b16074295b29471b787c2aed149f15b82ccae9b23b3ce99bd42c",
+  "bytes": 243287,
+  "pages": 1,
+  "kind": "answer_key",
+  "exam": "NEET",
+  "year": 2016,
+  "code": "Phase2-BB",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Biology"
+  ],
+  "official": true,
+  "text_layer": true,
+  "notes": "CBSE key for code BB-QQ-XX as republished by Byjus (provenance not verified)."
+ },
+ {
+  "path": "sources/third-party/neet/2017-B/neet-2017-B-question_paper-byjus.pdf",
+  "url": "https://cdn1.byjus.com/neet/wp-content/uploads/2018/03/08072849/neet-code-b-question-paper.pdf",
+  "fetched_at": "2026-11-04T17:26:30Z",
+  "sha256": "124c09b0054accec35cc236a769eb95a6654e7c59e6884ae17cfeb26dad16ec9",
+  "bytes": 2597135,
+  "pages": 21,
+  "kind": "question_paper",
+  "exam": "NEET",
+  "year": 2017,
+  "code": "B",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Biology"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "CBSE paper booklet code B, copy hosted by Byjus."
+ },
+ {
+  "path": "sources/third-party/neet/2017-B/neet-2017-B-answer_key-byjus.pdf",
+  "url": "https://cdn1.byjus.com/neet/wp-content/uploads/2018/03/08072809/neet-code-b-answer-key.pdf",
+  "fetched_at": "2026-11-04T17:26:30Z",
+  "sha256": "a3cfba8ff333ec47bfc57e3ed8319f2a30b924ca655d0a9cf56c023114a2a3ed",
+  "bytes": 447038,
+  "pages": 1,
+  "kind": "answer_key",
+  "exam": "NEET",
+  "year": 2017,
+  "code": "B",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Biology"
+  ],
+  "official": true,
+  "text_layer": true,
+  "notes": "CBSE key booklet code B as republished by Byjus (provenance not verified)."
+ },
+ {
+  "path": "sources/third-party/neet/2018-AA/neet-2018-AA-question_paper-careers360.pdf",
+  "url": "https://cache.careers360.mobi/media/private/ebooks/pdf/2025/Sep/13/E-1_set_AA.pdf",
+  "fetched_at": "2026-11-04T17:26:30Z",
+  "sha256": "305e91121edf28e563a8fb283f7a866a1f1fed9ee3430719e1292e6415f556b4",
+  "bytes": 443128,
+  "pages": 24,
+  "kind": "question_paper",
+  "exam": "NEET",
+  "year": 2018,
+  "code": "AA",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Biology"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "English set AA (code ACHLA), copy hosted by Careers360."
+ },
+ {
+  "path": "sources/third-party/neet/2018-AA/neet-2018-AA-answer_key-careers360.pdf",
+  "url": "https://cache.careers360.mobi/media/private/ebooks/pdf/2025/Sep/18/NEET-answer-key-2018-English-Code-AA_AJWeKFl.pdf",
+  "fetched_at": "2026-11-04T17:26:30Z",
+  "sha256": "e09ce4b74d1ef4e694b12bec152bfc44636ddf38b6bd7b0fd78d4ac8d81176f7",
+  "bytes": 45881,
+  "pages": 2,
+  "kind": "answer_key",
+  "exam": "NEET",
+  "year": 2018,
+  "code": "AA",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Biology"
+  ],
+  "official": true,
+  "text_layer": true,
+  "notes": "CBSE key (set AA) republished by Careers360; provenance not verified against cbseneet.nic.in."
+ },
+ {
+  "path": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf",
+  "url": "https://cache.careers360.mobi/media/private/ebooks/pdf/2025/Aug/21/final-neet-official-answer-key.pdf",
+  "fetched_at": "2026-11-04T17:26:30Z",
+  "sha256": "fdb593f365502c8e1aff61901eafbb2ddd235879d0ca651eb7ecd481b0275769",
+  "bytes": 121879,
+  "pages": 40,
+  "kind": "answer_key",
+  "exam": "NEET",
+  "year": 2019,
+  "code": "P1 (all books)",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Biology"
+  ],
+  "official": true,
+  "text_layer": true,
+  "notes": "NTA FINAL ANSWER KEYS header, all booklets incl. P1; hosted by Careers360. Some entries are F (dropped?)."
+ },
+ {
+  "path": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+  "url": "https://cache.careers360.mobi/media/private/ebooks/pdf/2025/Aug/21/P1-solution.pdf",
+  "fetched_at": "2026-11-04T17:26:30Z",
+  "sha256": "cfb7783eb2f31e7a70da467c093e2cb1d24fd7023e186371335509fbe0ee33d2",
+  "bytes": 3566426,
+  "pages": 37,
+  "kind": "solved_paper",
+  "exam": "NEET",
+  "year": 2019,
+  "code": "P1",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Biology"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Aakash answers & solutions for P1 (questions + answers). Cross-check vs NTA key not machine-verified (layout parse unreliable)."
+ },
+ {
+  "path": "sources/third-party/neet/2020-G1/neet-2020-G1-question_paper-aakash.pdf",
+  "url": "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/target_solutions/Paper_20201106054845_0.pdf",
+  "fetched_at": "2026-11-04T17:26:30Z",
+  "sha256": "b5d60d96f61522f2be85ce7086a99ba3a139ada136d377a34a9903eabe2b220c",
+  "bytes": 330815,
+  "pages": 24,
+  "kind": "question_paper",
+  "exam": "NEET",
+  "year": 2020,
+  "code": "G1",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Biology"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Original booklet G1 (13 Sep 2020), copy on Aakash."
+ },
+ {
+  "path": "sources/third-party/neet/2020-G1/neet-2020-G1-solved_paper-aakash.pdf",
+  "url": "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/sm_sa/Ans_Solutions_NEET2020_%28Code-G1%29.pdf",
+  "fetched_at": "2026-11-04T17:26:30Z",
+  "sha256": "23bd30f59454311a95d7532136119cc58954c291a0191fe7141cd4443d0f97ca",
+  "bytes": 3238115,
+  "pages": 34,
+  "kind": "solved_paper",
+  "exam": "NEET",
+  "year": 2020,
+  "code": "G1",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Biology"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Aakash answers & solutions G1. Official NTA 2020 key not found."
+ },
+ {
+  "path": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+  "url": "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/target_solutions/Paper_20211218095515.pdf",
+  "fetched_at": "2026-11-04T17:26:30Z",
+  "sha256": "e9acdfb29dfcff0a3a186819f7336330af4ce51855990d1081c78637b338587a",
+  "bytes": 947343,
+  "pages": 28,
+  "kind": "question_paper",
+  "exam": "NEET",
+  "year": 2021,
+  "code": "M4",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Biology"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Original booklet M4 (12 Sep 2021), copy on Aakash. Official key: neet-2021-allbooks-answer_key-nta.pdf in 2021-M4."
+ },
+ {
+  "path": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf",
+  "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2022/02/2022021699.pdf",
+  "fetched_at": "2026-11-04T17:26:30Z",
+  "sha256": "838e0ba080eb6b9639f12a1dcfb7f36cd8fe80dd5be11ee0be6d725e4c6f3ca9",
+  "bytes": 38417,
+  "pages": 24,
+  "kind": "answer_key",
+  "exam": "NEET",
+  "year": 2021,
+  "code": "M4 (all books M1-P6 etc)",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Biology"
+  ],
+  "official": true,
+  "text_layer": true,
+  "notes": "NTA Final Answer Keys, all books incl. M4. neet.nta.nic.in archive."
+ },
+ {
+  "path": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+  "url": "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/sm_sa/Code-Q1__Ques%20%26%20Ans_NEET-2022.pdf",
+  "fetched_at": "2026-11-04T17:26:30Z",
+  "sha256": "5dcc55552b5818851fc636bb7f08ae9981aa8c940656fb0efa67152ed5cd6216",
+  "bytes": 1150167,
+  "pages": 39,
+  "kind": "question_paper",
+  "exam": "NEET",
+  "year": 2022,
+  "code": "Q1",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Biology"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Aakash \"Questions & Answers\" Q1 (answers included, so effectively combined)."
+ },
+ {
+  "path": "sources/third-party/neet/2022-Q1/neet-2022-Q1-solved_paper-aakash.pdf",
+  "url": "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/sm_sa/Code-Q1__Qs%2BAns%2BSolution_NEET-2022.pdf",
+  "fetched_at": "2026-11-04T17:26:30Z",
+  "sha256": "dd49f2f658a9f9597d5af3a2674454781e5539236c0e06a3da1367ec4223ed97",
+  "bytes": 2159456,
+  "pages": 69,
+  "kind": "solved_paper",
+  "exam": "NEET",
+  "year": 2022,
+  "code": "Q1",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Biology"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Aakash solutions Q1. Answers match NTA final key for Q1 (194/194 machine compared)."
+ },
+ {
+  "path": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf",
+  "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2022/09/2022090743.pdf",
+  "fetched_at": "2026-11-04T17:26:30Z",
+  "sha256": "7c9a0bb06aadc1a23c3171524580a7ae2c2623729c891e3183596fcb4e58f1bb",
+  "bytes": 128335,
+  "pages": 32,
+  "kind": "answer_key",
+  "exam": "NEET",
+  "year": 2022,
+  "code": "Q1 (all sets)",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Biology"
+  ],
+  "official": true,
+  "text_layer": true,
+  "notes": "NTA Final Answer Key, all sets Q1..W6."
+ },
+ {
+  "path": "sources/third-party/neet/2023-E1/neet-2023-E1-solved_paper-aakash.pdf",
+  "url": "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/target_solutions/Qs%26Ans_NEET-2023%20%28Code-E1%29_Final.pdf",
+  "fetched_at": "2026-11-04T17:26:30Z",
+  "sha256": "9e95f105d336c95acd78e8ed4a05b2f2c7a21a9552d0e46f5d2e247bc02f5234",
+  "bytes": 3160074,
+  "pages": 43,
+  "kind": "solved_paper",
+  "exam": "NEET",
+  "year": 2023,
+  "code": "E1",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Biology"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Aakash Qs & Ans E1 (7 May 2023). Official NTA key not obtainable (exams.nta.ac.in unreachable, not on neet.nta.nic.in)."
+ },
+ {
+  "path": "sources/third-party/neet/2024-T1/neet-2024-T1-solved_paper-aakash.pdf",
+  "url": "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/target_solutions/Answers-and-Solutions_NEET-2024_Code-T1_FINAL.pdf",
+  "fetched_at": "2026-11-04T17:26:30Z",
+  "sha256": "aa0eea1f7433ca369eb3bb8087273dd347c7c345adc26a705b52a985976802e6",
+  "bytes": 3936670,
+  "pages": 83,
+  "kind": "solved_paper",
+  "exam": "NEET",
+  "year": 2024,
+  "code": "T1",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Biology"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Aakash FINAL answers & solutions T1 (5 May 2024). Official NTA key not obtainable. Includes the disputed Physics Q (check against NTA revised key)."
+ },
+ {
+  "path": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+  "url": "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/target_solutions/Answers-and-Solutions_NEET-2025_Code-45-PCB.pdf",
+  "fetched_at": "2026-11-04T17:26:30Z",
+  "sha256": "5d21dfeb7cf1b8944c38dfe8401aebaf2ab6c018b462ffe67899c17cd4575d4e",
+  "bytes": 3201442,
+  "pages": 76,
+  "kind": "solved_paper",
+  "exam": "NEET",
+  "year": 2025,
+  "code": "45",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Biology"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Aakash answers & solutions code 45 (4 May 2025). Machine compare vs NTA key: 3 mismatches of 178 (Q40,140,153; may be parse artefacts, verify)."
+ },
+ {
+  "path": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf",
+  "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2025/06/2025061450.pdf",
+  "fetched_at": "2026-11-04T17:26:30Z",
+  "sha256": "0f39fa779ce75ef5dd0767c4ad0dda26b46a3f821d7ea11bc6b5965e1e42c98a",
+  "bytes": 14406,
+  "pages": 4,
+  "kind": "answer_key",
+  "exam": "NEET",
+  "year": 2025,
+  "code": "45 (codes 45-48)",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Biology"
+  ],
+  "official": true,
+  "text_layer": true,
+  "notes": "NTA Final Answer Key, booklet codes 45-48."
+ },
+ {
+  "path": "sources/third-party/comedk/2018/comedk-2018-solved_paper-collegedekho.pdf",
+  "url": "https://media.collegedekho.com/media/uploads/2025/04/03/comedk-2018-question-paper.pdf",
+  "fetched_at": "2026-11-04T17:25:42+00:00",
+  "sha256": "823a2785fc71c11515c4fa5c795085d8b9e86da8067e2430c3b1b35a7d03cae3",
+  "bytes": 3577855,
+  "pages": 36,
+  "kind": "solved_paper",
+  "exam": "COMEDK",
+  "year": 2018,
+  "code": "2018",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Mathematics"
+  ],
+  "official": false,
+  "text_layer": false,
+  "notes": "Collegedekho 'Solved paper 2018' (paper+worked answers, 180 Q: P1-60,C61-120,M121-180). Answers are collegedekho solutions, not COMEDK official key. Image-only scan; needs OCR."
+ },
+ {
+  "path": "sources/third-party/comedk/2019/comedk-2019-solved_paper-collegedekho.pdf",
+  "url": "https://media.collegedekho.com/media/uploads/2025/04/03/comedk-2019-question-paper.pdf",
+  "fetched_at": "2026-11-04T17:25:42+00:00",
+  "sha256": "8df4bca236819518fde217ab18c104c9773b69e72719c11262ae130e93970cf2",
+  "bytes": 3695293,
+  "pages": 33,
+  "kind": "solved_paper",
+  "exam": "COMEDK",
+  "year": 2019,
+  "code": "2019",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Mathematics"
+  ],
+  "official": false,
+  "text_layer": false,
+  "notes": "Collegedekho solved paper 2019, 180 Q (60/60/60). Image-only scan."
+ },
+ {
+  "path": "sources/third-party/comedk/2020/comedk-2020-solved_paper-collegedekho.pdf",
+  "url": "https://media.collegedekho.com/media/uploads/2025/04/03/comedk-2020-question-paper.pdf",
+  "fetched_at": "2026-11-04T17:25:42+00:00",
+  "sha256": "770114d9eecca10f1607295f062d39e444353110482558ec777ae61185fb6ccd",
+  "bytes": 3323019,
+  "pages": 32,
+  "kind": "solved_paper",
+  "exam": "COMEDK",
+  "year": 2020,
+  "code": "2020",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Mathematics"
+  ],
+  "official": false,
+  "text_layer": false,
+  "notes": "Collegedekho solved paper 2020, 180 Q (60/60/60). Image-only scan."
+ },
+ {
+  "path": "sources/third-party/comedk/2021/comedk-2021-solved_paper-collegedekho.pdf",
+  "url": "https://media.collegedekho.com/media/uploads/2025/04/03/comedk-2021-question-paper.pdf",
+  "fetched_at": "2026-11-04T17:25:42+00:00",
+  "sha256": "ebe240a6dd44fd76c6c0600a7970a061ea9ecc0a513a89a788b5cb2621017332",
+  "bytes": 2894660,
+  "pages": 27,
+  "kind": "solved_paper",
+  "exam": "COMEDK",
+  "year": 2021,
+  "code": "2021",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Mathematics"
+  ],
+  "official": false,
+  "text_layer": false,
+  "notes": "Collegedekho solved paper 2021, 180 Q (60/60/60). Image-only scan."
+ },
+ {
+  "path": "sources/third-party/comedk/2022/comedk-2022-solved_paper-collegedekho.pdf",
+  "url": "https://media.collegedekho.com/media/uploads/2025/04/03/comedk-2022-question-paper.pdf",
+  "fetched_at": "2026-11-04T17:25:42+00:00",
+  "sha256": "5e0753e09e18f3dba16bb0a8ecaf62a99e085019d8d6f6a611059b5231676da2",
+  "bytes": 1044053,
+  "pages": 106,
+  "kind": "solved_paper",
+  "exam": "COMEDK",
+  "year": 2022,
+  "code": "2022",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Mathematics"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Collegedekho solved paper 2022, text format with 'Answer: X' + solution per Q; ~176 Q extracted (shifts likely merged); answers are third-party/possibly AI-generated, verify."
+ },
+ {
+  "path": "sources/third-party/comedk/2023-morning/comedk-2023-morning-solved_paper-collegedekho.pdf",
+  "url": "https://media.collegedekho.com/media/uploads/2025/04/03/comedk-2023-question-paper-morning-shift.pdf",
+  "fetched_at": "2026-11-04T17:25:42+00:00",
+  "sha256": "2196b95609f7b35209d28728d9256e4d32f8540d92e82302dbb8b384eb8258b9",
+  "bytes": 1832152,
+  "pages": 153,
+  "kind": "solved_paper",
+  "exam": "COMEDK",
+  "year": 2023,
+  "code": "2023-morning",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Mathematics"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Collegedekho 2023 morning solved paper, ~158 Q extracted (Physics/Chemistry/Maths). Third-party answers."
+ },
+ {
+  "path": "sources/third-party/comedk/2023-evening/comedk-2023-evening-solved_paper-collegedekho.pdf",
+  "url": "https://media.collegedekho.com/media/uploads/2025/04/03/comedk-2023-question-paper-evening-shift.pdf",
+  "fetched_at": "2026-11-04T17:25:42+00:00",
+  "sha256": "b90a95057b173ecc4938f9bd8bbb97dd5237a5c4ac9f914b79b2c6957c081bbd",
+  "bytes": 1415187,
+  "pages": 186,
+  "kind": "solved_paper",
+  "exam": "COMEDK",
+  "year": 2023,
+  "code": "2023-evening",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Mathematics"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Collegedekho 2023 evening solved paper, ~165 Q extracted. Third-party answers."
+ },
+ {
+  "path": "sources/third-party/comedk/2024-evening/comedk-2024-evening-solved_paper-collegedekho.pdf",
+  "url": "https://media.collegedekho.com/media/uploads/2025/04/03/comedk-2024-question-paper-evening-shift.pdf",
+  "fetched_at": "2026-11-04T17:25:42+00:00",
+  "sha256": "f873f1c8961611c6c13da53a78efd494d151e5d2316f1d3fdd7a7ac1147b46b3",
+  "bytes": 1240585,
+  "pages": 188,
+  "kind": "solved_paper",
+  "exam": "COMEDK",
+  "year": 2024,
+  "code": "2024-evening",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Mathematics"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Collegedekho 2024 evening solved paper, ~165 Q extracted. Third-party answers."
+ },
+ {
+  "path": "sources/third-party/comedk/2024-morning/comedk-2024-morning-solved_paper-collegedekho.pdf",
+  "url": "https://media.collegedekho.com/media/uploads/2025/04/03/comedk-2024-question-paper-physics-morning-shift.pdf",
+  "fetched_at": "2026-11-04T17:25:42+00:00",
+  "sha256": "02ade65096302d2c4953c96cb10eebc85bd4d107f1cd3759a4c43c2d278c82e2",
+  "bytes": 2923557,
+  "pages": 68,
+  "kind": "solved_paper",
+  "exam": "COMEDK",
+  "year": 2024,
+  "code": "2024-morning",
+  "subjects": [
+   "Physics"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Collegedekho 2024 morning shift, PHYSICS ONLY (~55 Q). Third-party answers."
+ },
+ {
+  "path": "sources/third-party/jee-main/2021-feb-24-s1/jee-main-2021-feb-24-s1-solved_paper-aakash.pdf",
+  "url": "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/sm_sa/Ans_Sol_JEE%28Main%29-2021_Phase-1_24-02-2021_Morning.pdf",
+  "fetched_at": "2026-11-04T17:28:47Z",
+  "sha256": "b47fb3ca054ce3bf0992952660b503303d89208cb5430c8ba69b7d9feb453080",
+  "bytes": 1214946,
+  "pages": 24,
+  "kind": "solved_paper",
+  "exam": "JEE-Main",
+  "year": 2021,
+  "code": "24-feb-2021 shift 1",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Mathematics"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Aakash combined paper+answers+solutions (no NTA key). 20 MCQ + numerical per subject; drop numerical."
+ },
+ {
+  "path": "sources/third-party/jee-main/2021-feb-26-s2/jee-main-2021-feb-26-s2-solved_paper-aakash.pdf",
+  "url": "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/sm_sa/Ans_Sol_JEE%28Main%29-2021_Phase-1_26-02-2021_Evening.pdf",
+  "fetched_at": "2026-11-04T17:28:47Z",
+  "sha256": "7957fcefcc1ca3d2bf082c27c59be1675be921beb7a5bcf45a8ecca1cb059456",
+  "bytes": 1430218,
+  "pages": 21,
+  "kind": "solved_paper",
+  "exam": "JEE-Main",
+  "year": 2021,
+  "code": "26-feb-2021 shift 2",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Mathematics"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Aakash combined paper+answers+solutions (no NTA key). 20 MCQ + numerical per subject; drop numerical."
+ },
+ {
+  "path": "sources/third-party/jee-main/2021-mar-16-s1/jee-main-2021-mar-16-s1-solved_paper-aakash.pdf",
+  "url": "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/sm_sa/Ans_Sol_JEE%28Main%29-2021_Phase-2_16-03-2021_Morning.pdf",
+  "fetched_at": "2026-11-04T17:28:47Z",
+  "sha256": "4d62ed441dbd307c7101c37f20b0f1e819a7aa96e377a9b5c80a27d0139fabc7",
+  "bytes": 2331017,
+  "pages": 23,
+  "kind": "solved_paper",
+  "exam": "JEE-Main",
+  "year": 2021,
+  "code": "16-mar-2021 shift 1",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Mathematics"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Aakash combined paper+answers+solutions (no NTA key). 20 MCQ + numerical per subject; drop numerical."
+ },
+ {
+  "path": "sources/third-party/jee-main/2021-mar-18-s2/jee-main-2021-mar-18-s2-solved_paper-aakash.pdf",
+  "url": "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/sm_sa/Ans_Sol_JEE%28Main%29-2021_Phase-2_18-03-2021_Evening.pdf",
+  "fetched_at": "2026-11-04T17:28:47Z",
+  "sha256": "8860aa70a5d11387392da80d4b9d8d3a00f1cb6151520fcdf21fd8bee0ad9d4e",
+  "bytes": 2347366,
+  "pages": 22,
+  "kind": "solved_paper",
+  "exam": "JEE-Main",
+  "year": 2021,
+  "code": "18-mar-2021 shift 2",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Mathematics"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Aakash combined paper+answers+solutions (no NTA key). 20 MCQ + numerical per subject; drop numerical."
+ },
+ {
+  "path": "sources/third-party/jee-main/2021-jul-25-s1/jee-main-2021-jul-25-s1-solved_paper-aakash.pdf",
+  "url": "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/sm_sa/Ans_Sol_JEE%28Main%29-2021_Phase-3_25-07-2021_Morning_0_0.pdf",
+  "fetched_at": "2026-11-04T17:28:47Z",
+  "sha256": "5cf051af2376881c19689e05d69700191c2ba817db63bda67e88a142f1eaa6ab",
+  "bytes": 2909189,
+  "pages": 23,
+  "kind": "solved_paper",
+  "exam": "JEE-Main",
+  "year": 2021,
+  "code": "25-jul-2021 shift 1",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Mathematics"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Aakash combined paper+answers+solutions (no NTA key). 20 MCQ + numerical per subject; drop numerical."
+ },
+ {
+  "path": "sources/third-party/jee-main/2021-jul-27-s2/jee-main-2021-jul-27-s2-solved_paper-aakash.pdf",
+  "url": "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/sm_sa/Ans_Sol_JEE%28Main%29-2021_Phase-3_27-07-2021_Evening.pdf",
+  "fetched_at": "2026-11-04T17:28:47Z",
+  "sha256": "e3776933733e44338af0c4fb485c0e8362d4cf4dbd7e3573980461ab9fe4294b",
+  "bytes": 2888861,
+  "pages": 23,
+  "kind": "solved_paper",
+  "exam": "JEE-Main",
+  "year": 2021,
+  "code": "27-jul-2021 shift 2",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Mathematics"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Aakash combined paper+answers+solutions (no NTA key). 20 MCQ + numerical per subject; drop numerical."
+ },
+ {
+  "path": "sources/third-party/jee-main/2021-aug-27-s1/jee-main-2021-aug-27-s1-solved_paper-aakash.pdf",
+  "url": "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/sm_sa/Ans%26Sol_JEE%28Main%29-2021_Phase-4_%2827-08-2021%29_Morning_0.pdf",
+  "fetched_at": "2026-11-04T17:28:47Z",
+  "sha256": "50898b34ef8052d270325a5a65233f66fb0623ff4dd1ebd4d6a19da28b233290",
+  "bytes": 3103379,
+  "pages": 24,
+  "kind": "solved_paper",
+  "exam": "JEE-Main",
+  "year": 2021,
+  "code": "27-aug-2021 shift 1",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Mathematics"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Aakash combined paper+answers+solutions (no NTA key). 20 MCQ + numerical per subject; drop numerical."
+ },
+ {
+  "path": "sources/third-party/jee-main/2021-aug-26-s2/jee-main-2021-aug-26-s2-solved_paper-aakash.pdf",
+  "url": "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/sm_sa/Ans%20%26%20Sol_JEE%28Main%29-2021_Phase-4_26-08-2021_Evening_0_0.pdf",
+  "fetched_at": "2026-11-04T17:28:47Z",
+  "sha256": "e0e77de9cbac15d4c3fea0574795a323a3d57dd5e143bb71bff81cef75a0eee7",
+  "bytes": 3860384,
+  "pages": 25,
+  "kind": "solved_paper",
+  "exam": "JEE-Main",
+  "year": 2021,
+  "code": "26-aug-2021 shift 2",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Mathematics"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Aakash combined paper+answers+solutions (no NTA key). 20 MCQ + numerical per subject; drop numerical."
+ },
+ {
+  "path": "sources/third-party/jee-main/2022-jun-24-s1/jee-main-2022-jun-24-s1-solved_paper-aakash.pdf",
+  "url": "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/sm_sa/Ans%20and%20Solution_JEE%28Main%29-2022_Phase-1_24-06-2022_M.pdf",
+  "fetched_at": "2026-11-04T17:28:47Z",
+  "sha256": "8b4dcc9b6cee2bc18b044f9e843bd9250987ff24a24cfd71a1aea30c87017716",
+  "bytes": 1973915,
+  "pages": 25,
+  "kind": "solved_paper",
+  "exam": "JEE-Main",
+  "year": 2022,
+  "code": "24-jun-2022 shift 1",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Mathematics"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Aakash combined paper+answers+solutions (no NTA key). 20 MCQ + numerical per subject; drop numerical."
+ },
+ {
+  "path": "sources/third-party/jee-main/2022-jun-26-s2/jee-main-2022-jun-26-s2-solved_paper-aakash.pdf",
+  "url": "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/sm_sa/Ans%26Sol_JEE%28Main%29-2022_Phase-1_26-06-2022_%28Evening%29.pdf",
+  "fetched_at": "2026-11-04T17:28:47Z",
+  "sha256": "6eeec569cc8b09f5413e2cea193bb49989bb4a561e9b205dcdde4a418948558c",
+  "bytes": 1191390,
+  "pages": 22,
+  "kind": "solved_paper",
+  "exam": "JEE-Main",
+  "year": 2022,
+  "code": "26-jun-2022 shift 2",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Mathematics"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Aakash combined paper+answers+solutions (no NTA key). 20 MCQ + numerical per subject; drop numerical."
+ },
+ {
+  "path": "sources/third-party/jee-main/2022-jul-25-s1/jee-main-2022-jul-25-s1-solved_paper-aakash.pdf",
+  "url": "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/sm_sa/Ans%26Sol_JEE%28Main%29-2022_%28Phase-2%29_%2825-07-2022%29_Morning_%28PCM%29_0.pdf",
+  "fetched_at": "2026-11-04T17:28:47Z",
+  "sha256": "5c75facb327cc52a155dd25dc1ef2a98c0dcd1c48a9e2b4fb618355fe5816d75",
+  "bytes": 2465676,
+  "pages": 26,
+  "kind": "solved_paper",
+  "exam": "JEE-Main",
+  "year": 2022,
+  "code": "25-jul-2022 shift 1",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Mathematics"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Aakash combined paper+answers+solutions (no NTA key). 20 MCQ + numerical per subject; drop numerical."
+ },
+ {
+  "path": "sources/third-party/jee-main/2022-jul-28-s2/jee-main-2022-jul-28-s2-solved_paper-aakash.pdf",
+  "url": "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/sm_sa/Ans%26Sol_JEE%28Main%29-2022_%28Phase-2%29_%2828-07-2022%29_Evening_%28PCM%29_0.pdf",
+  "fetched_at": "2026-11-04T17:28:47Z",
+  "sha256": "d945243c79e2a457053d8da593f75267cebb0104fdd8f87dcd4dcee98be148dd",
+  "bytes": 1825567,
+  "pages": 25,
+  "kind": "solved_paper",
+  "exam": "JEE-Main",
+  "year": 2022,
+  "code": "28-jul-2022 shift 2",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Mathematics"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Aakash combined paper+answers+solutions (no NTA key). 20 MCQ + numerical per subject; drop numerical."
+ },
+ {
+  "path": "sources/third-party/jee-main/2023-jan-24-s1/jee-main-2023-jan-24-s1-solved_paper-aakash.pdf",
+  "url": "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/target_solutions/Answer-and-Solutions_JEE_Main-2023_Ph-1_24-01-2023_Morning_shift-1.pdf",
+  "fetched_at": "2026-11-04T17:28:47Z",
+  "sha256": "a67a1caeb0700710a5c9eac4b623b9576ddb5eb3125b3c902f52a955a5ff700a",
+  "bytes": 2128962,
+  "pages": 24,
+  "kind": "solved_paper",
+  "exam": "JEE-Main",
+  "year": 2023,
+  "code": "24-jan-2023 shift 1",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Mathematics"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Aakash combined paper+answers+solutions (no NTA key). 20 MCQ + numerical per subject; drop numerical."
+ },
+ {
+  "path": "sources/third-party/jee-main/2023-jan-30-s2/jee-main-2023-jan-30-s2-solved_paper-aakash.pdf",
+  "url": "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/target_solutions/Answer-and-Solutions_JEE_Main-2023_Ph-1_30-01-2023_Evening-shift-2.pdf",
+  "fetched_at": "2026-11-04T17:28:47Z",
+  "sha256": "92ed661e5fafaf544226e9434fb5ea0bbc5f0c3c33e3e391e8a64e52c0c2659a",
+  "bytes": 1379374,
+  "pages": 24,
+  "kind": "solved_paper",
+  "exam": "JEE-Main",
+  "year": 2023,
+  "code": "30-jan-2023 shift 2",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Mathematics"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Aakash combined paper+answers+solutions (no NTA key). 20 MCQ + numerical per subject; drop numerical."
+ },
+ {
+  "path": "sources/third-party/jee-main/2023-apr-06-s1/jee-main-2023-apr-06-s1-solved_paper-aakash.pdf",
+  "url": "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/sm_sa/Ans%20%26%20Sol_JEE%28Main%29-2023_Ph-2_%2806-04-2023%29_Shift-1_%28Morning%29.pdf",
+  "fetched_at": "2026-11-04T17:28:47Z",
+  "sha256": "7f95a79fe9aab792556a6e4410864f7ce0f276c24481393c7ca8a429914800b6",
+  "bytes": 1168909,
+  "pages": 16,
+  "kind": "solved_paper",
+  "exam": "JEE-Main",
+  "year": 2023,
+  "code": "06-apr-2023 shift 1",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Mathematics"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "MEMORY-BASED reconstruction by Aakash (not verbatim NTA paper; ~57 of 60 MCQs present). Aakash combined paper+answers+solutions (no NTA key). 20 MCQ + numerical per subject; drop numerical."
+ },
+ {
+  "path": "sources/third-party/jee-main/2023-apr-11-s2/jee-main-2023-apr-11-s2-solved_paper-aakash.pdf",
+  "url": "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/sm_sa/Ans%20%26%20Sol_JEE%28Main%29-2023_Ph-2_%2811-04-2023%29_Shift-2_%28Evening%29.pdf",
+  "fetched_at": "2026-11-04T17:28:47Z",
+  "sha256": "33c40348d205e3cf47fa4aa032eb4d70e290180f1316076ce82981c308d964c7",
+  "bytes": 1069774,
+  "pages": 13,
+  "kind": "solved_paper",
+  "exam": "JEE-Main",
+  "year": 2023,
+  "code": "11-apr-2023 shift 2",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Mathematics"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "MEMORY-BASED reconstruction by Aakash (not verbatim NTA paper; ~57 of 60 MCQs present). Aakash combined paper+answers+solutions (no NTA key). 20 MCQ + numerical per subject; drop numerical."
+ },
+ {
+  "path": "sources/third-party/jee-main/2025-jan-22-s1/jee-main-2025-jan-22-s1-solved_paper-aakash.pdf",
+  "url": "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/target_solutions/Ans-and-Sol_JEE_Main-2025_Ph-1_22-01-2025_Morning_Revised.pdf",
+  "fetched_at": "2026-11-04T17:28:47Z",
+  "sha256": "cb5f2bf9e5f4c4028142ec107fdda948912f9cbbf3f060dd02c74188472d478c",
+  "bytes": 3107947,
+  "pages": 25,
+  "kind": "solved_paper",
+  "exam": "JEE-Main",
+  "year": 2025,
+  "code": "22-jan-2025 shift 1",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Mathematics"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Aakash combined paper+answers+solutions (no NTA key). 20 MCQ + numerical per subject; drop numerical."
+ },
+ {
+  "path": "sources/third-party/jee-main/2025-jan-28-s2/jee-main-2025-jan-28-s2-solved_paper-aakash.pdf",
+  "url": "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/target_solutions/Ans-and-Sol_JEE_Main-2025_Ph-1_28-01-2025_Evening.pdf",
+  "fetched_at": "2026-11-04T17:28:47Z",
+  "sha256": "c0c93757ec84bd963596f9bfdd837214cabc046c4c9e6265934c6b9fc4e19df3",
+  "bytes": 1405098,
+  "pages": 24,
+  "kind": "solved_paper",
+  "exam": "JEE-Main",
+  "year": 2025,
+  "code": "28-jan-2025 shift 2",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Mathematics"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Aakash combined paper+answers+solutions (no NTA key). 20 MCQ + numerical per subject; drop numerical."
+ },
+ {
+  "path": "sources/third-party/jee-main/2025-apr-02-s1/jee-main-2025-apr-02-s1-solved_paper-aakash.pdf",
+  "url": "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/target_solutions/Ans-and-Sol_JEE_Main_2025_Ph-2_02-04-2025_Morning.pdf",
+  "fetched_at": "2026-11-04T17:28:47Z",
+  "sha256": "7f8c6614195f8559705fcf4d467a19c6dc30e5fb9d6fd51c4dd86e5274433b3c",
+  "bytes": 1827087,
+  "pages": 21,
+  "kind": "solved_paper",
+  "exam": "JEE-Main",
+  "year": 2025,
+  "code": "02-apr-2025 shift 1",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Mathematics"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "MEMORY-BASED reconstruction by Aakash (not verbatim NTA paper; ~57 of 60 MCQs present). Aakash combined paper+answers+solutions (no NTA key). 20 MCQ + numerical per subject; drop numerical."
+ },
+ {
+  "path": "sources/third-party/jee-main/2025-apr-02-s2/jee-main-2025-apr-02-s2-solved_paper-aakash.pdf",
+  "url": "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/target_solutions/Ans-and-Sol_JEE_Main_2025_Ph-2_02-04-2025_Evening.pdf",
+  "fetched_at": "2026-11-04T17:28:47Z",
+  "sha256": "301e2046657154a2ceaefaea7984074231267bbb691d194581420efba3f47e2d",
+  "bytes": 2103616,
+  "pages": 21,
+  "kind": "solved_paper",
+  "exam": "JEE-Main",
+  "year": 2025,
+  "code": "02-apr-2025 shift 2",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Mathematics"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "MEMORY-BASED reconstruction by Aakash (not verbatim NTA paper; ~57 of 60 MCQs present). Aakash combined paper+answers+solutions (no NTA key). 20 MCQ + numerical per subject; drop numerical."
+ },
+ {
+  "path": "sources/third-party/jee-main/2024-feb-01-s1/jee-main-2024-feb-01-s1-solved_paper-resonance-math.pdf",
+  "url": "https://images.collegedunia.com/public/image/Feb_1_Shift_1_Mathematics_ddeddafccdda62746f5792e8eda233ba.pdf",
+  "fetched_at": "2026-11-04T17:28:47Z",
+  "sha256": "0a3cb025925a77c2a054e5f173842c638fc2fc07ff1bfc12d5f923e6b83dd7aa",
+  "bytes": 1599796,
+  "pages": 19,
+  "kind": "solved_paper",
+  "exam": "JEE-Main",
+  "year": 2024,
+  "code": "01-02-2024 shift 1",
+  "subjects": [
+   "Mathematics"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Resonance questions+answers+solutions, single subject file (hosted on collegedunia). No NTA key."
+ },
+ {
+  "path": "sources/third-party/jee-main/2024-feb-01-s1/jee-main-2024-feb-01-s1-solved_paper-resonance-phys.pdf",
+  "url": "https://images.collegedunia.com/public/image/Feb_1_Shift_1_Physics_59fbf3286cf7ee5570416d0ef5289645.pdf",
+  "fetched_at": "2026-11-04T17:28:47Z",
+  "sha256": "bc4ab944e97250754b20e784dceaae8c4e640a2c1867d2d83bba506a4bc5d26b",
+  "bytes": 1395194,
+  "pages": 15,
+  "kind": "solved_paper",
+  "exam": "JEE-Main",
+  "year": 2024,
+  "code": "01-02-2024 shift 1",
+  "subjects": [
+   "Physics"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Resonance questions+answers+solutions, single subject file (hosted on collegedunia). No NTA key."
+ },
+ {
+  "path": "sources/third-party/jee-main/2024-feb-01-s2/jee-main-2024-feb-01-s2-solved_paper-resonance-math.pdf",
+  "url": "https://images.collegedunia.com/public/image/Feb_1_Shift_2_Mathematics_e0c5b32bcc0007b71821d8b771983a8b.pdf",
+  "fetched_at": "2026-11-04T17:28:47Z",
+  "sha256": "450c8f845d9a210ffe7caff5f28df6d536e38c35690b1a3214a9ee1e2d517d99",
+  "bytes": 1643850,
+  "pages": 21,
+  "kind": "solved_paper",
+  "exam": "JEE-Main",
+  "year": 2024,
+  "code": "01-02-2024 shift 2",
+  "subjects": [
+   "Mathematics"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Resonance questions+answers+solutions, single subject file (hosted on collegedunia). No NTA key."
+ },
+ {
+  "path": "sources/third-party/jee-main/2024-feb-01-s2/jee-main-2024-feb-01-s2-solved_paper-resonance-phys.pdf",
+  "url": "https://images.collegedunia.com/public/image/Feb_1_Shift_2_Physics_010c772fb8575b56bd7461140fc67581.pdf",
+  "fetched_at": "2026-11-04T17:28:47Z",
+  "sha256": "9085ab42d578304ea9c46c240ea56631d9c6e008011148d1e057c2000428aaad",
+  "bytes": 1430555,
+  "pages": 15,
+  "kind": "solved_paper",
+  "exam": "JEE-Main",
+  "year": 2024,
+  "code": "01-02-2024 shift 2",
+  "subjects": [
+   "Physics"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Resonance questions+answers+solutions, single subject file (hosted on collegedunia). No NTA key."
+ },
+ {
+  "path": "sources/third-party/jee-main/2024-feb-01-s2/jee-main-2024-feb-01-s2-solved_paper-resonance-chem.pdf",
+  "url": "https://images.collegedunia.com/public/image/Feb_1_Shift_2_Chemistry_a3d2573c8277ba1473212fabf6ce9fed.pdf",
+  "fetched_at": "2026-11-04T17:28:47Z",
+  "sha256": "a7fd44d1a93b82d5edb7a60c71f85e08f8db70bfbb657cb692290faaa6842d99",
+  "bytes": 1581545,
+  "pages": 9,
+  "kind": "solved_paper",
+  "exam": "JEE-Main",
+  "year": 2024,
+  "code": "01-02-2024 shift 2",
+  "subjects": [
+   "Chemistry"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "Resonance questions+answers+solutions, single subject file (hosted on collegedunia). No NTA key."
+ },
+ {
+  "path": "sources/third-party/mht-cet/2023-infinitylearn/mht-cet-2023-compiled-solved_paper-infinitylearn.pdf",
+  "url": "https://infinitylearn.com/surge/wp-content/uploads/securepdfs/2024/03/MHT-CET-2023-Previous-Year-Paper-PDF.pdf",
+  "fetched_at": "2026-11-04T17:25:15+00:00",
+  "sha256": "8a1e7cbc4e7940c3dfedae0c848b79a64a8a6d23be0a1c12a0eeeeb6d378f5b8",
+  "bytes": 2592135,
+  "pages": 71,
+  "kind": "solved_paper",
+  "exam": "MHT-CET",
+  "year": 2023,
+  "code": "compiled-unspecified",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Mathematics"
+  ],
+  "official": false,
+  "text_layer": true,
+  "notes": "150 MCQs (50 each P/C/M) with Key and worked solution per question; compiled paper, shift/date not stated, probably recalled/reconstructed. Not official."
+ },
+ {
+  "path": "sources/third-party/mht-cet/2024-infinitylearn/mht-cet-2024-compiled-solved_paper-infinitylearn.pdf",
+  "url": "https://infinitylearn.com/surge/wp-content/uploads/securepdfs/2025/04/MHT-CET-2024-Previous-Year-Paper-PDF.pdf",
+  "fetched_at": "2026-11-04T17:25:15+00:00",
+  "sha256": "8a71b749adb02e534d1b3d51086891cde499b9e002d196a4e7d68385d86cce45",
+  "bytes": 7969395,
+  "pages": 32,
+  "kind": "solved_paper",
+  "exam": "MHT-CET",
+  "year": 2024,
+  "code": "compiled-unspecified",
+  "subjects": [
+   "Physics",
+   "Chemistry",
+   "Mathematics"
+  ],
+  "official": false,
+  "text_layer": false,
+  "notes": "150 MCQs (50 each P/C/M), image-only scan with answers+solutions inline (answer letters visible in solutions, e.g. \"150. (c)\"); shift/date not stated; needs OCR. Not official."
+ }
+]

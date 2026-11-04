@@ -1,0 +1,2086 @@
+[
+ {
+  "id": "pyq-2024-mathematics-001",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 1,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $2\\sin^{-1}x-3\\cos^{-1}x=4$, $x\\in[-1,1]$ then $2\\sin^{-1}x+3\\cos^{-1}x$ is equal to",
+  "options": [
+   "$\\frac{4-6\\pi}{5}$",
+   "$\\frac{6\\pi-4}{5}$",
+   "$\\frac{3\\pi}{2}$",
+   "0"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-002",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 2,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If A is a square matrix such that $A^2=A$, then $(I+A)^3$ is equal to",
+  "options": [
+   "$7A-I$",
+   "$7A$",
+   "$7A+I$",
+   "$I-7A$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-003",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 3,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $A=\\begin{bmatrix}1&1\\\\1&1\\end{bmatrix}$, then $A^{10}$ is equal to",
+  "options": [
+   "$2^8A$",
+   "$2^9A$",
+   "$2^{10}A$",
+   "$2^{11}A$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-004",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 4,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $f(x)=\\begin{vmatrix}x-3 & 2x^2-18 & 2x^3-81\\\\ x-5 & 2x^2-50 & 4x^3-500\\\\ 1 & 2 & 3\\end{vmatrix}$, then $f(1)\\cdot f(3)+f(3)\\cdot f(5)+f(5)\\cdot f(1)$ is",
+  "options": [
+   "$-1$",
+   "$0$",
+   "$1$",
+   "$2$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-005",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 5,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Let $(gof)(x)=\\sin x$ and $(fog)(x)=(\\sin\\sqrt{x})^2$. Then",
+  "options": [
+   "$f(x)=\\sin^2x,\\ g(x)=x$",
+   "$f(x)=\\sin\\sqrt{x},\\ g(x)=\\sqrt{x}$",
+   "$f(x)=\\sin^2x,\\ g(x)=\\sqrt{x}$",
+   "$f(x)=\\sin\\sqrt{x},\\ g(x)=x^2$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-006",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions-11",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 6,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Let $A=\\{2,3,4,5,\\ldots,16,17,18\\}$. Let $R$ be the relation on the set $A$ of ordered pairs of positive integers defined by $(a,b)\\,R\\,(c,d)$ if and only if $ad=bc$ for all $(a,b),(c,d)$ in $A\\times A$. Then the number of ordered pairs of the equivalence class of $(3,2)$ is",
+  "options": [
+   "4",
+   "5",
+   "6",
+   "7"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-007",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 7,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $\\cos^{-1}x+\\cos^{-1}y+\\cos^{-1}z=3\\pi$, then $x(y+z)+y(z+x)+z(x+y)$ equals to",
+  "options": [
+   "0",
+   "1",
+   "6",
+   "12"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-008",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 8,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The function $f(x)=|\\cos x|$ is",
+  "options": [
+   "everywhere continuous and differentiable",
+   "everywhere continuous but not differentiable at odd multiples of $\\frac{\\pi}{2}$",
+   "neither continuous nor differentiable at $(2n+1)\\frac{\\pi}{2}$, $n\\in\\mathbb{Z}$",
+   "not differentiable everywhere"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-009",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 9,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $y=2x^{3x}$, then $\\frac{dy}{dx}$ at $x=1$ is",
+  "options": [
+   "2",
+   "6",
+   "3",
+   "1"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-010",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 10,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Let the function satisfy the equation $f(x+y)=f(x)f(y)$ for all $x,y\\in\\mathbb{R}$, where $f(0)\\neq0$. If $f(5)=3$ and $f'(0)=2$, then $f'(5)$ is",
+  "options": [
+   "6",
+   "0",
+   "5",
+   "$-6$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-011",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 11,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The value of $C$ in $(0,2)$ satisfying the mean value theorem for the function $f(x)=x\\,(x-\\text{[hidden by QR code]})$, $x\\in[0,2]$ is equal to",
+  "options": [
+   "$\\frac{3}{4}$",
+   "$\\frac{4}{3}$",
+   "$\\frac{1}{3}$",
+   "$\\frac{2}{3}$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-012",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 12,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "$\\frac{d}{dx}\\left[\\cos^2\\left(\\cot^{-1}\\sqrt{\\frac{2+x}{2-x}}\\right)\\right]$ is",
+  "options": [
+   "$-\\frac{3}{4}$",
+   "$-\\frac{1}{2}$",
+   "$\\frac{1}{2}$",
+   "$\\frac{1}{4}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-013",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 13,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "For the function $f(x)=x^3-6x^2+12x-3$; $x=2$ is",
+  "options": [
+   "a point of minimum",
+   "a point of inflexion",
+   "not a critical point",
+   "a point of maximum"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-014",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 14,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The function $x^x$; $x>0$ is strictly increasing at",
+  "options": [
+   "$\\forall\\, x\\in\\mathbb{R}$",
+   "$x<\\frac{1}{e}$",
+   "$x>\\frac{1}{e}$",
+   "$x<0$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-015",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 15,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The maximum volume of the right circular cone with slant height 6 units is",
+  "options": [
+   "$4\\sqrt{3}\\,\\pi$ cubic units",
+   "$16\\sqrt{3}\\,\\pi$ cubic units",
+   "$3\\sqrt{3}\\,\\pi$ cubic units",
+   "$6\\sqrt{3}\\,\\pi$ cubic units"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-016",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 16,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $f(x)=xe^{x(1-x)}$ then $f(x)$ is",
+  "options": [
+   "increasing in $\\mathbb{R}$",
+   "decreasing in $\\mathbb{R}$",
+   "decreasing in $\\left[-\\frac{1}{2},1\\right]$",
+   "increasing in $\\left[-\\frac{1}{2},1\\right]$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-017",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 17,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "$\\int\\frac{\\sin x}{3+4\\cos^2x}\\,dx=$",
+  "options": [
+   "$-\\frac{1}{2\\sqrt{3}}\\tan^{-1}\\left(\\frac{2\\cos x}{\\sqrt{3}}\\right)+C$",
+   "$\\frac{1}{\\sqrt{3}}\\tan^{-1}\\left(\\frac{\\cos x}{3}\\right)+C$",
+   "$\\frac{1}{2\\sqrt{3}}\\tan^{-1}\\left(\\frac{\\cos x}{3}\\right)+C$",
+   "$-\\frac{1}{\\sqrt{3}}\\tan^{-1}\\left(\\frac{2\\cos x}{3}\\right)+C$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-018",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 18,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "$\\int_{-\\pi}^{\\pi}(1-x^2)\\sin x\\cdot\\cos^2x\\,dx=$",
+  "options": [
+   "$\\pi-\\frac{\\pi^2}{3}$",
+   "$2\\pi-\\pi^3$",
+   "$\\pi-\\frac{\\pi^3}{2}$",
+   "0"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-019",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 19,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "$\\int\\frac{1}{x\\left[6(\\log x)^2+7\\log x+2\\right]}\\,dx=$",
+  "options": [
+   "$\\frac{1}{2}\\log\\left|\\frac{2\\log x+1}{3\\log x+2}\\right|+C$",
+   "$\\log\\left|\\frac{2\\log x+1}{3\\log x+2}\\right|+C$",
+   "$\\log\\left|\\frac{3\\log x+2}{2\\log x+1}\\right|+C$",
+   "$\\frac{1}{2}\\log\\left|\\frac{3\\log x+2}{2\\log x+1}\\right|+C$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-020",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 20,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "$\\int\\frac{\\sin\\frac{5x}{2}}{\\sin\\frac{x}{2}}\\,dx=$",
+  "options": [
+   "$2x+\\sin x+2\\sin 2x+C$",
+   "$x+2\\sin x+2\\sin 2x+C$",
+   "$x+2\\sin x+\\sin 2x+C$",
+   "$2x+\\sin x+\\sin 2x+C$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-021",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 21,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "$\\int_{1}^{5}\\left(|x-3|+|1-x|\\right)dx=$",
+  "options": [
+   "12",
+   "$\\frac{5}{6}$",
+   "21",
+   "10"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-022",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 22,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "$\\lim_{n\\to\\infty}\\left(\\frac{n}{n^2+1^2}+\\frac{n}{n^2+2^2}+\\frac{n}{n^2+3^2}+\\ldots+\\frac{1}{5n}\\right)=$",
+  "options": [
+   "$\\frac{\\pi}{4}$",
+   "$\\tan^{-1}3$",
+   "$\\tan^{-1}2$",
+   "$\\frac{\\pi}{2}$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-023",
+  "subject": "mathematics",
+  "chapter": "application-of-integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 23,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The area of the region bounded by the line $y=3x$ and the curve $y=x^2$ in sq. units is",
+  "options": [
+   "10",
+   "$\\frac{9}{2}$",
+   "9",
+   "5"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-024",
+  "subject": "mathematics",
+  "chapter": "application-of-integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 24,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The area of the region bounded by the line $y=x$ and the curve $y=x^3$ is",
+  "options": [
+   "0·2 sq. units",
+   "0·3 sq. units",
+   "0·4 sq. units",
+   "0·5 sq. units"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-025",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 25,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The solution of $e^{\\frac{dy}{dx}}=x+1$, $y(0)=3$ is",
+  "options": [
+   "$y-2=x\\log x-x$",
+   "$y-x-3=x\\log x$",
+   "$y-x-3=(x+1)\\log(x+1)$",
+   "$y+x-3=(x+1)\\log(x+1)$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-026",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 26,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The family of curves whose x and y intercepts of a tangent at any point are respectively double the x and y coordinates of that point is",
+  "options": [
+   "$xy=C$",
+   "$x^2+y^2=C$",
+   "$x^2-y^2=C$",
+   "$\\frac{y}{x}=C$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-027",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 27,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The vectors $\\overrightarrow{AB}=3\\hat{i}+4\\hat{k}$ and $\\overrightarrow{AC}=5\\hat{i}-2\\hat{j}+4\\hat{k}$ are the sides of a $\\Delta$ ABC. The length of the median through A is",
+  "options": [
+   "$\\sqrt{18}$",
+   "$\\sqrt{72}$",
+   "$\\sqrt{33}$",
+   "$\\sqrt{288}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-028",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 28,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The volume of the parallelepiped whose co-terminous edges are $\\hat{j}+\\hat{k}$, $\\hat{i}+\\hat{k}$ and $\\hat{i}+\\hat{j}$ is",
+  "options": [
+   "6 cu.units",
+   "2 cu.units",
+   "4 cu.units",
+   "3 cu.units"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-029",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 29,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Let $\\vec{a}$ and $\\vec{b}$ be two unit vectors and $\\theta$ is the angle between them. Then $\\vec{a}+\\vec{b}$ is a unit vector if",
+  "options": [
+   "$\\theta=\\frac{\\pi}{4}$",
+   "$\\theta=\\frac{\\pi}{3}$",
+   "$\\theta=\\frac{2\\pi}{3}$",
+   "$\\theta=\\frac{\\pi}{2}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-030",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 30,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $\\vec{a},\\vec{b},\\vec{c}$ are three non-coplanar vectors and $\\vec{p},\\vec{q},\\vec{r}$ are vectors defined by $\\vec{p}=\\frac{\\vec{b}\\times\\vec{c}}{[\\vec{a}\\,\\vec{b}\\,\\vec{c}]}$, $\\vec{q}=\\frac{\\vec{c}\\times\\vec{a}}{[\\vec{a}\\,\\vec{b}\\,\\vec{c}]}$, $\\vec{r}=\\frac{\\vec{a}\\times\\vec{b}}{[\\vec{a}\\,\\vec{b}\\,\\vec{c}]}$, then $(\\vec{a}+\\vec{b})\\cdot\\vec{p}+(\\vec{b}+\\vec{c})\\cdot\\vec{q}+(\\vec{c}+\\vec{a})\\cdot\\vec{r}$ is",
+  "options": [
+   "0",
+   "1",
+   "2",
+   "3"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-031",
+  "subject": "mathematics",
+  "chapter": "three-dimensional-geometry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 31,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If lines $\\frac{x-1}{-3}=\\frac{y-2}{2k}=\\frac{z-3}{2}$ and $\\frac{x-1}{3k}=\\frac{y-5}{1}=\\frac{z-6}{-5}$ are mutually perpendicular, then $k$ is equal to",
+  "options": [
+   "$-\\frac{10}{7}$",
+   "$-\\frac{7}{10}$",
+   "$-10$",
+   "$-7$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-032",
+  "subject": "mathematics",
+  "chapter": "three-dimensional-geometry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 32,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The distance between the two planes $2x+3y+4z=4$ and $4x+6y+8z=12$ is",
+  "options": [
+   "2 units",
+   "8 units",
+   "$\\frac{2}{\\sqrt{29}}$ units",
+   "4 units"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-033",
+  "subject": "mathematics",
+  "chapter": "three-dimensional-geometry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 33,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The sine of the angle between the straight line $\\frac{x-2}{3}=\\frac{y-3}{4}=\\frac{4-z}{-5}$ and the plane $2x-2y+z=5$ is",
+  "options": [
+   "$\\frac{1}{5\\sqrt{2}}$",
+   "$\\frac{2}{5\\sqrt{2}}$",
+   "$\\frac{3}{50}$",
+   "$\\frac{3}{\\sqrt{50}}$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-034",
+  "subject": "mathematics",
+  "chapter": "three-dimensional-geometry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 34,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The equation $xy=0$ in three-dimensional space represents",
+  "options": [
+   "a pair of straight lines",
+   "a plane",
+   "a pair of planes at right angles",
+   "a pair of parallel planes"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-035",
+  "subject": "mathematics",
+  "chapter": "three-dimensional-geometry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 35,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The plane containing the point $(3,2,0)$ and the line $\\frac{x-3}{1}=\\frac{y-6}{5}=\\frac{z-4}{4}$ is",
+  "options": [
+   "$x-y+z=1$",
+   "$x+y+z=5$",
+   "$x+2y-z=1$",
+   "$2x-y+z=5$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-036",
+  "subject": "mathematics",
+  "chapter": "linear-programming",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 36,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Corner points of the feasible region for an LPP are $(0,2)$, $(3,0)$, $(6,0)$, $(6,8)$ and $(0,5)$. Let $z=4x+6y$ be the objective function. The minimum value of $z$ occurs at",
+  "options": [
+   "Only $(0,2)$",
+   "Only $(3,0)$",
+   "The mid-point of the line segment joining the points $(0,2)$ and $(3,0)$",
+   "Any point on the line segment joining the points $(0,2)$ and $(3,0)$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-037",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 37,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A die is thrown 10 times. The probability that an odd number will come up at least once is",
+  "options": [
+   "$\\frac{11}{1024}$",
+   "$\\frac{1013}{1024}$",
+   "$\\frac{1023}{1024}$",
+   "$\\frac{1}{1024}$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-038",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 38,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A random variable $X$ has the following probability distribution :\n\n| X | 0 | 1 | 2 |\n| --- | --- | --- | --- |\n| P(X) | $\\frac{25}{36}$ | $k$ | $\\frac{1}{36}$ |\n\nIf the mean of the random variable $X$ is $\\frac{1}{3}$, then the variance is",
+  "options": [
+   "$\\frac{1}{18}$",
+   "$\\frac{5}{18}$",
+   "$\\frac{7}{18}$",
+   "$\\frac{11}{18}$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-039",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 39,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If a random variable $X$ follows the binomial distribution with parameters $n=5$, $p$ and $P(X=2)=9P(X=3)$, then $p$ is equal to",
+  "options": [
+   "10",
+   "$\\frac{1}{10}$",
+   "5",
+   "$\\frac{1}{5}$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-040",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 40,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The real value of '$\\alpha$' for which $\\dfrac{1-i\\sin\\alpha}{1+2i\\sin\\alpha}$ is purely real is",
+  "options": [
+   "$(n+1)\\frac{\\pi}{2}$, $n\\in\\mathbb{N}$",
+   "$(2n+1)\\frac{\\pi}{2}$, $n\\in\\mathbb{N}$",
+   "$n\\pi$, $n\\in\\mathbb{N}$",
+   "$(2n-1)\\frac{\\pi}{2}$, $n\\in\\mathbb{N}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-041",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 41,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The length of a rectangle is five times the breadth. If the minimum perimeter of the rectangle is 180 cm, then",
+  "options": [
+   "Breadth $\\leq 15$ cm",
+   "Breadth $\\geq 15$ cm",
+   "Length $\\leq 15$ cm",
+   "Length $=15$ cm"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-042",
+  "subject": "mathematics",
+  "chapter": "permutations-and-combinations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 42,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The value of ${}^{49}C_3+{}^{48}C_3+{}^{47}C_3+{}^{46}C_3+{}^{45}C_3+{}^{45}C_4$ is",
+  "options": [
+   "${}^{50}C_4$",
+   "${}^{50}C_3$",
+   "${}^{50}C_2$",
+   "${}^{50}C_1$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-043",
+  "subject": "mathematics",
+  "chapter": "sets",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 43,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Two finite sets have $m$ and $n$ elements respectively. The total number of subsets of the first set is 56 more than the total number of subsets of the second set. The values of $m$ and $n$ respectively are",
+  "options": [
+   "7, 6",
+   "5, 1",
+   "6, 3",
+   "8, 7"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-044",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions-11",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 44,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $[x]^2-5[x]+6=0$, where $[x]$ denotes the greatest integer function, then",
+  "options": [
+   "$x\\in[3,4]$",
+   "$x\\in[2,4)$",
+   "$x\\in[2,3]$",
+   "$x\\in(2,3]$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-045",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 45,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If in two circles, arcs of the same length subtend angles $30^\\circ$ and $78^\\circ$ at the centre, then the ratio of their radii is",
+  "options": [
+   "$\\frac{5}{13}$",
+   "$\\frac{13}{5}$",
+   "$\\frac{13}{4}$",
+   "$\\frac{4}{13}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-046",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 46,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $\\Delta ABC$ is right angled at $C$, then the value of $\\tan A+\\tan B$ is",
+  "options": [
+   "$a+b$",
+   "$\\frac{a^2}{bc}$",
+   "$\\frac{c^2}{ab}$",
+   "$\\frac{b^2}{ac}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-047",
+  "subject": "mathematics",
+  "chapter": "binomial-theorem",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 47,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In the expansion of $(1+x)^n$ $\\frac{C_1}{C_0}+2\\frac{C_2}{C_1}+3\\frac{C_3}{C_2}+\\ldots+n\\frac{C_n}{C_{n-1}}$ is equal to",
+  "options": [
+   "$\\frac{n(n+1)}{2}$",
+   "$\\frac{n}{2}$",
+   "$\\frac{n+1}{2}$",
+   "$3n(n+1)$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-048",
+  "subject": "mathematics",
+  "chapter": "sequences-and-series",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 48,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $S_n$ stands for sum to n-terms of a G.P. with 'a' as the first term and 'r' as the common ratio then $S_n : S_{2n}$ is",
+  "options": [
+   "$r^n+1$",
+   "$\\frac{1}{r^n+1}$",
+   "$r^n-1$",
+   "$\\frac{1}{r^n-1}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-049",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 49,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If A.M. and G.M. of roots of a quadratic equation are 5 and 4 respectively, then the quadratic equation is",
+  "options": [
+   "$x^2-10x-16=0$",
+   "$x^2+10x+16=0$",
+   "$x^2+10x-16=0$",
+   "$x^2-10x+16=0$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-050",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 50,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The angle between the line $x+y=3$ and the line joining the points $(1,1)$ and $(-3,4)$ is",
+  "options": [
+   "$\\tan^{-1}(7)$",
+   "$\\tan^{-1}\\left(-\\frac{1}{7}\\right)$",
+   "$\\tan^{-1}\\left(\\frac{1}{7}\\right)$",
+   "$\\tan^{-1}\\left(\\frac{2}{7}\\right)$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-051",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 51,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The equation of parabola whose focus is $(6,0)$ and directrix is $x=-6$ is",
+  "options": [
+   "$y^2=24x$",
+   "$y^2=-24x$",
+   "$x^2=24y$",
+   "$x^2=-24y$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-052",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 52,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "$\\lim_{x\\to\\frac{\\pi}{4}}\\frac{\\sqrt{2}\\cos x-1}{\\cot x-1}$ is equal to",
+  "options": [
+   "2",
+   "$\\sqrt{2}$",
+   "$\\frac{1}{2}$",
+   "$\\frac{1}{\\sqrt{2}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-053",
+  "subject": "mathematics",
+  "chapter": "mathematical-reasoning",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 53,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The negation of the statement “For every real number x; $x^2+5$ is positive” is",
+  "options": [
+   "For every real number x; $x^2+5$ is not positive.",
+   "For every real number x; $x^2+5$ is negative.",
+   "There exists at least one real number x such that $x^2+5$ is not positive.",
+   "There exists at least one real number x such that $x^2+5$ is positive."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-054",
+  "subject": "mathematics",
+  "chapter": "statistics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 54,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Let $a$, $b$, $c$, $d$ and $e$ be the observations with mean $m$ and standard deviation $S$. The standard deviation of the observations $a+k$, $b+k$, $c+k$, $d+k$ and $e+k$ is",
+  "options": [
+   "$kS$",
+   "$S+k$",
+   "$\\frac{S}{k}$",
+   "$S$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-055",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 55,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Let $f:\\mathbb{R}\\to\\mathbb{R}$ be given by $f(x)=\\tan x$. Then $f^{-1}(1)$ is",
+  "options": [
+   "$\\frac{\\pi}{4}$",
+   "$\\{n\\pi+\\frac{\\pi}{4}:n\\in\\mathbb{Z}\\}$",
+   "$\\frac{\\pi}{3}$",
+   "$\\{n\\pi+\\frac{\\pi}{3}:n\\in\\mathbb{Z}\\}$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-056",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 56,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Let $f:\\mathbb{R}\\to\\mathbb{R}$ be defined by $f(x)=x^2+1$. Then the pre images of 17 and $-3$ respectively are",
+  "options": [
+   "$\\phi$, $\\{4,-4\\}$",
+   "$\\{3,-3\\}$, $\\phi$",
+   "$\\{4,-4\\}$, $\\phi$",
+   "$\\{4,-4\\}$, $\\{2,-2\\}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-057",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 57,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $A=\\begin{vmatrix}x&1\\\\1&x\\end{vmatrix}$ and $B=\\begin{vmatrix}x&1&1\\\\1&x&1\\\\1&1&x\\end{vmatrix}$, then $\\frac{dB}{dx}$ is",
+  "options": [
+   "$3A$",
+   "$-3B$",
+   "$3B+1$",
+   "$1-3A$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-058",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 58,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Let $f(x)=\\begin{vmatrix}\\cos x & x & 1\\\\ 2\\sin x & x & 2x\\\\ \\sin x & x & x\\end{vmatrix}$. Then $\\lim_{x\\to0}\\frac{f(x)}{x^2}=$",
+  "options": [
+   "$-1$",
+   "$0$",
+   "$3$",
+   "$2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-059",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 59,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which one of the following observations is correct for the features of logarithm function to any base $b>1$?",
+  "options": [
+   "The domain of the logarithm function is $\\mathbb{R}$, the set of real numbers.",
+   "The range of the logarithm function is $\\mathbb{R}^+$, the set of all positive real numbers.",
+   "The point $(1,0)$ is always on the graph of the logarithm function.",
+   "The graph of the logarithm function is decreasing as we move from left to right."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2024-mathematics-060",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2024",
+   "year": 2024,
+   "version": "A2",
+   "number": 60,
+   "file": "sources/pyq/2024/mathematics/2024-mathematics-question_paper-A2-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $P=\\begin{bmatrix}1&\\alpha&3\\\\1&3&3\\\\2&4&4\\end{bmatrix}$ is the adjoint of a $3\\times3$ matrix $A$ and $|A|=4$, then $\\alpha$ is equal to",
+  "options": [
+   "4",
+   "5",
+   "11",
+   "0"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

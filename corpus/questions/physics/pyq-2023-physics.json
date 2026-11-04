@@ -1,0 +1,2135 @@
+[
+ {
+  "id": "pyq-2023-physics-001",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 1,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 1,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Ten identical cells each emf $2\\,\\mathrm{V}$ and internal resistances $1\\,\\Omega$ are connected in series with two cells wrongly connected. A resistor of $10\\,\\Omega$ is connected to the combination. What is the current through the resistor?",
+  "options": [
+   "$0.6\\,\\mathrm{A}$",
+   "$1.2\\,\\mathrm{A}$",
+   "$1.8\\,\\mathrm{A}$",
+   "$2.4\\,\\mathrm{A}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-002",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 2,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 1,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The equivalent resistance between the points A and B in the following circuit is",
+  "options": [
+   "$0.05\\,\\Omega$",
+   "$5\\,\\Omega$",
+   "$0.5\\,\\Omega$",
+   "$5.5\\,\\Omega$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2023-physics-002.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-003",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 3,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 1,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A charged particle is subjected to acceleration in a cyclotron as shown. The charged particle undergoes increase in its speed",
+  "options": [
+   "Inside $\\mathrm{D_1}$, $\\mathrm{D_2}$ and the gaps",
+   "Only inside $\\mathrm{D_1}$",
+   "Only in the gap between $\\mathrm{D_1}$ and $\\mathrm{D_2}$",
+   "Only inside $\\mathrm{D_2}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2023-physics-003.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-004",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 4,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 1,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The resistance of a carbon resistor is $4.7\\,\\mathrm{k\\Omega}\\pm5\\%$. The colour of the third band is",
+  "options": [
+   "violet",
+   "orange",
+   "gold",
+   "red"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-005",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 5,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 1,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The four bands of a colour coded resistor are of the colour grey, red, gold an gold. The value of the resistance of the resistor is",
+  "options": [
+   "$8.2\\,\\Omega\\pm5\\%$",
+   "$82\\,\\Omega\\pm5\\%$",
+   "$5.2\\,\\Omega\\pm5\\%$",
+   "$82\\,\\Omega\\pm10\\%$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-006",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 6,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A wire of resistance R is connected across a cell of emf $\\varepsilon$ and internal resistance r. The current through the circuit is I. In time t, the work done by battery to establish the current I is",
+  "options": [
+   "$IRt$",
+   "$I^{2}Rt$",
+   "$\\varepsilon It$",
+   "$\\frac{\\varepsilon^{2}t}{R}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-007",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 7,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "For a given electric current the drift velocity of conduction electrons in a copper wire is $v_d$ and their mobility is $\\mu$. When the current is increased at constant temperature",
+  "options": [
+   "$v_d$ decreases, $\\mu$ remains the same",
+   "$v_d$ remains the same, $\\mu$ decreases",
+   "$v_d$ increases, $\\mu$ remains the same",
+   "$v_d$ remains the same, $\\mu$ increases"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-008",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 8,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The torque acting on a magnetic dipole placed in uniform magnetic field is zero, when the angle between the dipole axis and the magnetic field is _____.",
+  "options": [
+   "$60^{\\circ}$",
+   "$90^{\\circ}$",
+   "zero",
+   "$45^{\\circ}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-009",
+  "subject": "physics",
+  "chapter": "magnetism-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 9,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The horizontal component of Earth's magnetic field at a place is $3\\times10^{-5}\\,\\mathrm{T}$. If the dip at the place is $45^{\\circ}$, the resultant magnetic field at that place is",
+  "options": [
+   "$\\frac{3}{2}\\sqrt{3}\\times10^{-5}\\,\\mathrm{T}$",
+   "$3\\sqrt{2}\\times10^{-5}\\,\\mathrm{T}$",
+   "$3\\times10^{-5}\\,\\mathrm{T}$",
+   "$\\frac{3}{\\sqrt{2}}\\times10^{-5}\\,\\mathrm{T}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-010",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 10,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A proton and an alpha-particle moving with the same velocity enter a uniform magnetic field with their velocities perpendicular to the magnetic field. The ratio of radii of their circular paths is",
+  "options": [
+   "4 : 1",
+   "1 : 2",
+   "2 : 1",
+   "1 : 4"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-011",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 11,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A moving coil galvanometer is converted into an ammeter of range 0 to 5 mA. The galvanometer resistance is $90\\,\\Omega$ and the shunt resistance has a value of $10\\,\\Omega$. If there are 50 divisions in the galvanometer turned ammeter on either sides of zero, its current sensitivity is",
+  "options": [
+   "$2\\times10^{4}\\,\\mathrm{A/div}$",
+   "$1\\times10^{5}\\,\\mathrm{div/A}$",
+   "$2\\times10^{4}\\,\\mathrm{div/A}$",
+   "$1\\times10^{5}\\,\\mathrm{A/div}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-012",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 12,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A positively charged particle of mass $m$ is passed through a velocity selector. It moves horizontally rightward without deviation along the line $y=\\frac{2mv}{qB}$ with a speed $v$. The electric field is vertically downwards and magnetic field is into the plane of the paper. Now, the electric field is switched off at $t=0$. The angular momentum of the charged particle about origin O at $t=\\frac{\\pi m}{qB}$ is",
+  "options": [
+   "zero",
+   "$\\frac{mE^{3}}{qB^{2}}$",
+   "$\\frac{mE^{2}}{qB^{3}}$",
+   "$\\frac{2mE^{2}}{qB^{3}}$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [
+   "pyq-2023-physics-012.png"
+  ],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2023-physics-013",
+  "subject": "physics",
+  "chapter": "magnetism-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 13,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The Curie temperatures of Cobalt and iron are 1400 K and 1000 K respectively. At $T=1600$ K, the ratio of magnetic susceptibility of Cobalt to that of iron is",
+  "options": [
+   "$\\frac{7}{5}$",
+   "$\\frac{5}{7}$",
+   "$\\frac{1}{3}$",
+   "3"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-014",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 14,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "An ideal transformer has a turns ratio of 10, when the primary is connected to 220 V, 50 Hz ac source, the power output is",
+  "options": [
+   "equal to power input",
+   "zero",
+   "10 times the power input",
+   "$\\frac{1}{10}$th the power input"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-015",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 15,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The current in a coil changes from 2A to 5A in 0.3s. The magnitude of emf induced in the coil is 1.0V. The value of self-inductance of the coil is",
+  "options": [
+   "$0.1\\,\\mathrm{mH}$",
+   "$0.2\\,\\mathrm{mH}$",
+   "$1.0\\,\\mathrm{mH}$",
+   "$100\\,\\mathrm{mH}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-016",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 16,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A metallic rod of length 1m held along east-west direction is allowed to fall down freely. Given horizontal component of earth's magnetic field $B_H=3\\times10^{-5}\\,\\mathrm{T}$. The emf induced in the rod at an instant $t=2\\,\\mathrm{s}$ after it is released is (Take $g=10\\,\\mathrm{m\\,s^{-2}}$)",
+  "options": [
+   "$3\\times10^{-4}\\,\\mathrm{V}$",
+   "$6\\times10^{-3}\\,\\mathrm{V}$",
+   "$6\\times10^{-4}\\,\\mathrm{V}$",
+   "$3\\times10^{-3}\\,\\mathrm{V}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-017",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 17,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A square loop of side 2cm enters a magnetic field with a constant speed of $2\\,\\mathrm{cm\\,s^{-1}}$ as shown. The front edge enters the field at $t=0\\,\\mathrm{s}$. Which of the following graph correctly depicts the induced emf in the loop? (Take clockwise direction positive)",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2023-physics-017.png",
+   "pyq-2023-physics-017-2.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-018",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 18,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In series LCR circuit at resonance, the phase difference between voltage and current is",
+  "options": [
+   "$\\frac{\\pi}{4}$",
+   "$\\frac{\\pi}{2}$",
+   "zero",
+   "$\\pi$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-019",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 19,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "An equiconvex lens made of glass of refractive index $\\frac{3}{2}$ has focal length f in air. It is completely immersed in water of refractive index $\\frac{4}{3}$. The percentage change in the focal length is",
+  "options": [
+   "4000% decrease",
+   "300% increase",
+   "400% increase",
+   "300% decrease"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-020",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 20,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A point object is moving at a constant speed of $1\\,\\mathrm{m\\,s^{-1}}$ along the principal axis of a convex lens of focal length $10\\,\\mathrm{cm}$. The speed of the image is also $1\\,\\mathrm{m\\,s^{-1}}$, when the object is at ____ cm from the optic centre of the lens.",
+  "options": [
+   "20",
+   "5",
+   "10",
+   "15"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-021",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 21,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "When light propagates through a given homogeneous medium, the velocities of",
+  "options": [
+   "primary wavefronts are greater than or equal to those of secondary wavelets.",
+   "primary wavefront and wavelets are equal.",
+   "primary wavefront are larger than those of secondary wavelets.",
+   "primary wavefronts are lesser than those of secondary wavelets."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-022",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 22,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Total impedance of a series LCR circuit varies with angular frequency of the AC source connected to it as shown in the graph. The quality factor $Q$ of the series LCR circuit is",
+  "options": [
+   "5",
+   "1",
+   "0.4",
+   "2.5"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2023-physics-022.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-023",
+  "subject": "physics",
+  "chapter": "electromagnetic-waves",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 23,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The ratio of the magnitudes of electric field to the magnetic field of an electromagnetic wave is of the order of",
+  "options": [
+   "$10^{-5}\\,\\mathrm{m\\,s^{-1}}$",
+   "$10^{8}\\,\\mathrm{m\\,s^{-1}}$",
+   "$10^{-8}\\,\\mathrm{m\\,s^{-1}}$",
+   "$10^{5}\\,\\mathrm{m\\,s^{-1}}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-024",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 24,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "For a point object, which of the following always produces virtual image in air?",
+  "options": [
+   "Convex mirror",
+   "Biconvex lens",
+   "Concave mirror",
+   "Plano-convex lens"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-025",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 25,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "For a given pair of transparent media, the critical angle for which colour is maximum?",
+  "options": [
+   "Blue",
+   "Violet",
+   "Green",
+   "Red"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-026",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 26,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In the Rutherford's alpha scattering experiment, as the impact parameter increases, the scattering angle of the alpha particle",
+  "options": [
+   "decreases",
+   "increases",
+   "remains the same",
+   "is always $90^{\\circ}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-027",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 27,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Three energy levels of hydrogen atom and the corresponding wavelength of the emitted radiation due to different electron transition are as shown. Then.",
+  "options": [
+   "$\\lambda_2=\\lambda_1+\\lambda_3$",
+   "$\\lambda_2=\\frac{\\lambda_1\\lambda_3}{\\lambda_1+\\lambda_3}$",
+   "$\\lambda_3=\\frac{\\lambda_1\\lambda_2}{\\lambda_1+\\lambda_2}$",
+   "$\\lambda_1=\\frac{\\lambda_2\\lambda_3}{\\lambda_2+\\lambda_3}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2023-physics-027.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-028",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 28,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "An unpolarised light of intensity $I$ is passed through two polaroids kept one after the other with their planes parallel to each other. The intensity of light emerging from second polaroid is $\\frac{I}{4}$. The angle between the pass axes of the polaroids is",
+  "options": [
+   "$60^{\\circ}$",
+   "$30^{\\circ}$",
+   "$45^{\\circ}$",
+   "$0^{\\circ}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-029",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 29,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In the Young's double slit experiment, the intensity of light passing through each of the two double slits is $2\\times10^{-2}\\,\\mathrm{Wm^{-2}}$. The screen-slit distance is very large in comparison with slit-slit distance. The fringe width is $\\beta$. The distance between the central maximum and a point P on the screen is $x=\\frac{\\beta}{3}$. Then the total light intensity at that point is",
+  "options": [
+   "$2\\times10^{-2}\\,\\mathrm{Wm^{-2}}$",
+   "$16\\times10^{-2}\\,\\mathrm{Wm^{-2}}$",
+   "$8\\times10^{-2}\\,\\mathrm{Wm^{-2}}$",
+   "$4\\times10^{-2}\\,\\mathrm{Wm^{-2}}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-030",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 30,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A $60\\,\\mathrm{W}$ source emits monochromatic light of wavelength $662.5\\,\\mathrm{nm}$. The number of photons emitted per second is",
+  "options": [
+   "$5\\times10^{26}$",
+   "$2\\times10^{29}$",
+   "$5\\times10^{17}$",
+   "$2\\times10^{20}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-031",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 31,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In an experiment to study photo-electric effect the observed variation of stopping potential with frequency of incident radiation is as shown in the figure. The slope and y-intercept are respectively",
+  "options": [
+   "$\\frac{h\\nu}{e},\\ -\\frac{h}{e}$",
+   "$h\\nu,\\ -h\\nu_0$",
+   "$\\frac{h}{e},\\ -\\frac{h\\nu_0}{e}$",
+   "$\\frac{h\\nu}{e},\\ \\nu_0$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2023-physics-031.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-032",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 32,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A full-wave rectifier with diodes $D_1$ and $D_2$ is used to rectify $50\\,\\mathrm{Hz}$ alternating voltage. The diode $D_1$ conducts ________ times in one second.",
+  "options": [
+   "75",
+   "50",
+   "100",
+   "25"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-033",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 33,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The truth table for the given circuit is",
+  "options": [
+   "| A | B | Y |\n|---|---|---|\n| 1 | 1 | 1 |\n| 1 | 0 | 1 |\n| 0 | 1 | 1 |\n| 0 | 0 | 1 |",
+   "| A | B | Y |\n|---|---|---|\n| 1 | 1 | 1 |\n| 1 | 0 | 1 |\n| 0 | 1 | 1 |\n| 0 | 0 | 0 |",
+   "| A | B | Y |\n|---|---|---|\n| 1 | 1 | 1 |\n| 1 | 0 | 1 |\n| 0 | 1 | 0 |\n| 0 | 0 | 1 |",
+   "| A | B | Y |\n|---|---|---|\n| 1 | 1 | 1 |\n| 1 | 0 | 0 |\n| 0 | 1 | 1 |\n| 0 | 0 | 1 |"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2023-physics-033.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-034",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 34,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The energy gap of an LED is $2.4\\,\\mathrm{eV}$. When the LED is switched 'ON', the momentum of the emitted photons is",
+  "options": [
+   "$1.28\\times10^{-11}\\,\\mathrm{kg\\,m\\,s^{-1}}$",
+   "$0.64\\times10^{-27}\\,\\mathrm{kg\\,m\\,s^{-1}}$",
+   "$1.28\\times10^{-27}\\,\\mathrm{kg\\,m\\,s^{-1}}$",
+   "$2.56\\times10^{-27}\\,\\mathrm{kg\\,m\\,s^{-1}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-035",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 35,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In the following equation representing $\\beta^{-}$ decay, the number of neutrons in the nucleus X is $^{210}_{83}\\mathrm{Bi}\\rightarrow \\mathrm{X}+\\mathrm{e}^{-1}+\\bar{\\nu}$",
+  "options": [
+   "125",
+   "84",
+   "126",
+   "127"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-036",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 36,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A nucleus. with mass number 220 initially at rest emits an alpha particle. If the Q value of reaction is $5.5\\,\\mathrm{MeV}$, calculate the value of kinetic energy of alpha particle.",
+  "options": [
+   "$7.4\\,\\mathrm{MeV}$",
+   "$4.5\\,\\mathrm{MeV}$",
+   "$6.5\\,\\mathrm{MeV}$",
+   "$5.4\\,\\mathrm{MeV}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-037",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 37,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A radioactive sample has half-life of 3 years. The time required for the activity of the sample to reduce to $\\frac{1}{5}$ th of its initial value is about",
+  "options": [
+   "15 years",
+   "5 years",
+   "10 years",
+   "7 years"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-038",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 38,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "When a p-n junction diode is in forward bias, which type of charge carriers flows in the connecting wire?",
+  "options": [
+   "Protons",
+   "Holes",
+   "Free electrons",
+   "Ions"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-039",
+  "subject": "physics",
+  "chapter": "work-energy-and-power",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 39,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A ball of mass $0.2\\,\\mathrm{kg}$ is thrown vertically down from a height of $10\\,\\mathrm{m}$. It collides with the floor and loses $50\\%$ of its energy and then rises back to the same height. The value of its initial velocity is",
+  "options": [
+   "$196\\,\\mathrm{m\\,s^{-1}}$",
+   "$20\\,\\mathrm{m\\,s^{-1}}$",
+   "zero",
+   "$14\\,\\mathrm{m\\,s^{-1}}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-040",
+  "subject": "physics",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 40,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The moment of inertia of a rigid body about an axis",
+  "options": [
+   "depends on the position of axis of rotation.",
+   "does not depend on its size.",
+   "does not depend on its mass.",
+   "does not depend on its shape."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-041",
+  "subject": "physics",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 41,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Seven identical discs are arranged in a planar pattern, so as to touch each other as shown in the figure. Each disc has mass $m$ radius $R$. What is the moment of inertia of system of six discs about an axis passing through the centre of central disc and normal to plane of all discs?",
+  "options": [
+   "$55\\,\\frac{mR^{2}}{2}$",
+   "$85\\,\\frac{mR^{2}}{2}$",
+   "$27mR^{2}$",
+   "$100mR^{2}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0,
+   2
+  ],
+  "images": [
+   "pyq-2023-physics-041.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-042",
+  "subject": "physics",
+  "chapter": "units-and-measurement",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 42,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The true length of a wire is 3.678 cm. When the length of this wire is measured using instrument A, the length of the wire is 3.5 cm When the length of the wire is measured using instrument B, it is found to have length 3.38 cm. Then the",
+  "options": [
+   "measurement with B is more accurate and precise.",
+   "measurement with A is more precise while measurement with B is more accurate.",
+   "measurement with A is more accurate and precise.",
+   "measurement with A is more accurate while measurement with B is more precise."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-043",
+  "subject": "physics",
+  "chapter": "motion-in-a-straight-line",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 43,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A body is moving along a straight line with initial velocity $v_0$. Its acceleration $a$ is constant. After $t$ seconds, its velocity becomes $v$. The average velocity of the body over the given time interval is",
+  "options": [
+   "$\\bar{v}=\\frac{v^{2}+v_0^{2}}{at}$",
+   "$\\bar{v}=\\frac{v^{2}-v_0^{2}}{2at}$",
+   "$\\bar{v}=\\frac{v^{2}-v_0^{2}}{at}$",
+   "$\\bar{v}=\\frac{v^{2}+v_0^{2}}{2at}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-044",
+  "subject": "physics",
+  "chapter": "motion-in-a-plane",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 44,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A particle is in uniform circular motion. Related to one complete revolution of the particle, which among the statements is incorrect?",
+  "options": [
+   "Average speed of the particle is zero.",
+   "Average velocity of the particle is zero.",
+   "Average acceleration of the particle is zero.",
+   "Displacement of the particle is zero."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-045",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 45,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A body of mass $10\\,\\mathrm{kg}$ is kept on a horizontal surface. The coefficient of kinetic friction between the body and the surface is $0.5$. A horizontal force of $60\\,\\mathrm{N}$ is applied on the body. The resulting acceleration of the body is about",
+  "options": [
+   "$6\\,\\mathrm{m\\,s^{-2}}$",
+   "zero",
+   "$1\\,\\mathrm{m\\,s^{-2}}$",
+   "$5\\,\\mathrm{m\\,s^{-2}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-046",
+  "subject": "physics",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 46,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The P-V diagram of a Carnot's engine is shown in the graph below. The engine uses 1 mole of an ideal gas as working substance. From the graph, the area enclosed by the P-V diagram is [The heat supplied to the gas is 8000 J ]",
+  "options": [
+   "3000 J",
+   "1000 J",
+   "1200 J",
+   "2000 J"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2023-physics-046.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-047",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 47,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "When a planet revolves around the Sun, in general, for the planet",
+  "options": [
+   "kinetic and potential energy of the planet are constant.",
+   "angular momentum about the Sun and aerial velocity of the planet are constant.",
+   "linear momentum and linear velocity are constant.",
+   "linear momentum and aerial velocity are constant."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-048",
+  "subject": "physics",
+  "chapter": "mechanical-properties-of-solids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 48,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A stretched wire of a material whose Young's modulus $Y = 2\\times10^{11}\\,\\mathrm{N\\,m^{-2}}$ has Poisson's ratio $0.25$. Its lateral strain $\\varepsilon_l = 10^{-3}$. The elastic energy density of the wire is",
+  "options": [
+   "$4\\times10^{5}\\,\\mathrm{Jm^{-3}}$",
+   "$8\\times10^{5}\\,\\mathrm{Jm^{-3}}$",
+   "$16\\times10^{5}\\,\\mathrm{Jm^{-3}}$",
+   "$1\\times10^{5}\\,\\mathrm{Jm^{-3}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-049",
+  "subject": "physics",
+  "chapter": "mechanical-properties-of-fluids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 49,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A closed water tank has cross-sectional area $A$. It has a small hole at a depth of $h$ from the free surface of water. The radius of the hole is $r$ so that $r\\ll\\sqrt{\\frac{A}{\\pi}}$. If $P_0$ is the pressure inside the tank above water level, and $P_a$ is the atmospheric pressure, the rate of flow of the water coming out of the hole is [$\\rho$ is the density of water]",
+  "options": [
+   "$\\pi r^{2}\\sqrt{2gH}$",
+   "$\\pi r^{2}\\sqrt{gh+\\frac{2(P_0-P_a)}{\\rho}}$",
+   "$\\pi r^{2}\\sqrt{2gh}$",
+   "$\\pi r^{2}\\sqrt{2gh+\\frac{2(P_0-P_a)}{\\rho}}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2023-physics-049.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-050",
+  "subject": "physics",
+  "chapter": "thermal-properties-of-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 50,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "$100\\,\\mathrm{g}$ of ice at $0^{\\circ}\\mathrm{C}$ is mixed with $100\\,\\mathrm{g}$ of water at $100^{\\circ}\\mathrm{C}$. The final temperature of the [Take $L_f=3.36\\times10^{5}\\,\\mathrm{J\\,kg^{-1}}$ and $S_w=4.2\\times10^{3}\\,\\mathrm{J\\,kg^{-1}\\,k^{-1}}$]",
+  "options": [
+   "$50^{\\circ}\\mathrm{C}$",
+   "$1^{\\circ}\\mathrm{C}$",
+   "$40^{\\circ}\\mathrm{C}$",
+   "$10^{\\circ}\\mathrm{C}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-051",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 51,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In the situation shown in the diagram, magnitude of $q\\ll|Q|$ and $r\\gg a$. The net force on the free charge $-q$ and net torque on it about O at the instant shown are respectively [$p=2aQ$ is the dipole moment]",
+  "options": [
+   "$-\\frac{1}{4\\pi\\varepsilon_0}\\frac{pq}{r^{2}}\\hat{k},\\ -\\frac{1}{4\\pi\\varepsilon_0}\\frac{pq}{r^{3}}\\hat{i}$",
+   "$\\frac{1}{4\\pi\\varepsilon_0}\\frac{pq}{r^{3}}\\hat{i},\\ +\\frac{1}{4\\pi\\varepsilon_0}\\frac{pq}{r^{2}}\\hat{k}$",
+   "$\\frac{1}{4\\pi\\varepsilon_0}\\frac{pq}{r^{3}}\\hat{i},\\ -\\frac{1}{4\\pi\\varepsilon_0}\\frac{pq}{r^{2}}\\hat{k}$",
+   "$\\frac{1}{4\\pi\\varepsilon_0}\\frac{pq}{r^{2}}\\hat{k},\\ \\frac{1}{4\\pi\\varepsilon_0}\\frac{pq}{r^{3}}\\hat{i}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2023-physics-051.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-052",
+  "subject": "physics",
+  "chapter": "kinetic-theory",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 52,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Pressure of ideal gas at constant volume is proportional to",
+  "options": [
+   "total energy of the gas",
+   "average kinetic energy of the molecules",
+   "force between the molecules",
+   "average potential energy of the molecules"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "disputed",
+   "notes": "Key cell A4 re-read as 1 (option A, total energy) and transcription is exact; but P = (2/3)(N/V)<KE> so average kinetic energy (B) is the direct answer (for an ideal gas total energy = KE too, so A is also arguable); third-party solution on the paper page also says B.",
+   "disputed": true,
+   "status_reason": "official key kept; Sonnet disagrees"
+  }
+ },
+ {
+  "id": "pyq-2023-physics-053",
+  "subject": "physics",
+  "chapter": "oscillations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 53,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A block of mass $m$ is connected to a light spring of force constant $k$. The system is placed inside a damping medium of damping constant $b$. The instantaneous values of displacement, acceleration and energy of the block are $x$, $a$ and $E$ respectively. The initial amplitude of oscillation is $A$ and $\\omega'$ is the angular frequency of oscillations. The incorrect expression related to the damped oscillations is",
+  "options": [
+   "$E=\\frac{1}{2}kA^{2}e^{-\\frac{bt}{m}}$",
+   "$m\\frac{d^{2}x}{dt^{2}}+b\\frac{dx}{dt}+kx=0$",
+   "$x=Ae^{-\\frac{b}{m}}\\cos(\\omega' t+\\phi)$",
+   "$\\omega'=\\sqrt{\\frac{k}{m}-\\frac{b^{2}}{4m^{2}}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-054",
+  "subject": "physics",
+  "chapter": "kinetic-theory",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 54,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The speed of sound in an ideal gas at a given temperature $T$ is $v$. The rms speed of gas molecules at that temperature is $v_{rms}$. The ratio of the velocities $v$ and $v_{rms}$ for helium and oxygen gases are $X$ and $X'$ respectively. Then $\\frac{X}{X'}$ is equal to",
+  "options": [
+   "$\\sqrt{\\frac{5}{21}}$",
+   "$\\frac{21}{5}$",
+   "$\\frac{21}{\\sqrt{5}}$",
+   "$\\frac{5}{\\sqrt{21}}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-055",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 55,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A positively charged glass rod is brought near uncharged metal sphere, which is mounted on an insulated stand. If the glass rod is removed, the net charge on the metal sphere is",
+  "options": [
+   "$1.6\\times10^{-19}\\,\\mathrm{C}$",
+   "Positive charge",
+   "Negative charge",
+   "Zero"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-056",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 56,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A parallel plate capacitor of capacitance $C_1$ with a dielectric slab in between its plates is connected to a battery. It has a potential difference $V_1$ across its plates. When the dielectric slab is removed, keeping the capacitor connected to the battery, the new capacitance and potential difference are $C_2$ and $V_2$ respectively. Then,",
+  "options": [
+   "$V_1<V_2,\\ C_1>C_2$",
+   "$V_1=V_2,\\ C_1>C_2$",
+   "$V_1=V_2,\\ C_1<C_2$",
+   "$V_1>V_2,\\ C_1>C_2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-057",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 57,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A cubical Gaussian surface has side of length $a=10\\,\\mathrm{cm}$. Electric field lines are parallel to $x-$axis as shown. The magnitudes of electric fields through surfaces ABCD and EFGH are $6\\,\\mathrm{kN\\,C^{-1}}$ and $9\\,\\mathrm{kN\\,C^{-1}}$ respectively. Then the total charge enclosed by the cube is [Take $\\varepsilon_0=9\\times10^{-12}\\,\\mathrm{F\\,m^{-1}}$]",
+  "options": [
+   "$-1.35\\,\\mathrm{nC}$",
+   "$0.27\\,\\mathrm{nC}$",
+   "$-0.27\\,\\mathrm{nC}$",
+   "$1.35\\,\\mathrm{nC}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2023-physics-057.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-058",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 58,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Electric field at a distance '$r$' from an infinitely long uniformly charged straight conductor, having linear charge density $\\lambda$ is $E_1$. Another uniformly charged conductor having same linear charge density $\\lambda$ is bent into a semicircle of radius '$r$'. The electric field at its centre is $-E_2$. Then",
+  "options": [
+   "$E_1=E_2$",
+   "$E_1=\\pi rE_2$",
+   "$E_2=\\pi rE_1$",
+   "$E_2=\\frac{E_1}{r}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-059",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 59,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Five capacitors each of value $1\\,\\mu\\mathrm{F}$ are connected as shown in the figure. The equivalent capacitance between A and B is",
+  "options": [
+   "$2\\,\\mu\\mathrm{F}$",
+   "$5\\,\\mu\\mathrm{F}$",
+   "$3\\,\\mu\\mathrm{F}$",
+   "$1\\,\\mu\\mathrm{F}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2023-physics-059.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-physics-060",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "A4",
+   "number": 60,
+   "file": "sources/pyq/2023/physics/2023-physics-question_paper-A4-collegedekho.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2023/physics/2023-physics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A uniform electric field vector $\\vec{E}$ exists along horizontal direction as shown. The electric potential at $A$ is $V_A$. A small point charge $q$ is slowly taken from $A$ to $B$ along the curved path as shown: The potential energy of the charge when it is at point $B$ is",
+  "options": [
+   "$q\\left[Ex-V_A\\right]$",
+   "$qEx$",
+   "$q\\left[V_A-Ex\\right]$",
+   "$q\\left[V_A+Ex\\right]$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2023-physics-060.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

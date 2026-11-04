@@ -1,0 +1,668 @@
+{
+ "2016-chemistry-byjus": {
+  "n_other": 60,
+  "n_kea": 60,
+  "diffs": [
+   {
+    "q": 12,
+    "kea": "14",
+    "byjus": "1",
+    "type": "kea_multi_other_subset",
+    "kea_provisional": "1"
+   },
+   {
+    "q": 18,
+    "kea": "G",
+    "byjus": "4",
+    "type": "kea_grace",
+    "kea_provisional": "4"
+   },
+   {
+    "q": 24,
+    "kea": "G",
+    "byjus": "4",
+    "type": "kea_grace",
+    "kea_provisional": "4"
+   },
+   {
+    "q": 42,
+    "kea": "G",
+    "byjus": "1",
+    "type": "kea_grace",
+    "kea_provisional": "1"
+   },
+   {
+    "q": 46,
+    "kea": "1",
+    "byjus": "4",
+    "type": "conflict",
+    "kea_provisional": "4"
+   },
+   {
+    "q": 51,
+    "kea": "234",
+    "byjus": "2",
+    "type": "kea_multi_other_subset",
+    "kea_provisional": "2"
+   },
+   {
+    "q": 56,
+    "kea": "14",
+    "byjus": "4",
+    "type": "kea_multi_other_subset",
+    "kea_provisional": "4"
+   }
+  ]
+ },
+ "2016-chemistry-vedantu": {
+  "n_other": 60,
+  "n_kea": 60,
+  "diffs": [
+   {
+    "q": 12,
+    "kea": "14",
+    "vedantu": "1",
+    "type": "kea_multi_other_subset",
+    "kea_provisional": "1"
+   },
+   {
+    "q": 18,
+    "kea": "G",
+    "vedantu": "4",
+    "type": "kea_grace",
+    "kea_provisional": "4"
+   },
+   {
+    "q": 24,
+    "kea": "G",
+    "vedantu": "4",
+    "type": "kea_grace",
+    "kea_provisional": "4"
+   },
+   {
+    "q": 42,
+    "kea": "G",
+    "vedantu": "1",
+    "type": "kea_grace",
+    "kea_provisional": "1"
+   },
+   {
+    "q": 46,
+    "kea": "1",
+    "vedantu": "4",
+    "type": "conflict",
+    "kea_provisional": "4"
+   },
+   {
+    "q": 51,
+    "kea": "234",
+    "vedantu": "2",
+    "type": "kea_multi_other_subset",
+    "kea_provisional": "2"
+   },
+   {
+    "q": 56,
+    "kea": "14",
+    "vedantu": "4",
+    "type": "kea_multi_other_subset",
+    "kea_provisional": "4"
+   }
+  ]
+ },
+ "2016-mathematics-byjus": {
+  "n_other": 59,
+  "n_kea": 60,
+  "diffs": []
+ },
+ "2016-mathematics-vedantu": {
+  "n_other": 60,
+  "n_kea": 60,
+  "diffs": [
+   {
+    "q": 14,
+    "kea": "3",
+    "vedantu": "1",
+    "type": "conflict",
+    "kea_provisional": "3"
+   },
+   {
+    "q": 31,
+    "kea": "2",
+    "vedantu": "1",
+    "type": "conflict",
+    "kea_provisional": "2"
+   },
+   {
+    "q": 41,
+    "kea": "3",
+    "vedantu": "4",
+    "type": "conflict",
+    "kea_provisional": "3"
+   },
+   {
+    "q": 46,
+    "kea": "134",
+    "vedantu": "4",
+    "type": "kea_multi_other_subset",
+    "kea_provisional": "4"
+   }
+  ]
+ },
+ "2016-physics-byjus": {
+  "n_other": 58,
+  "n_kea": 60,
+  "diffs": [
+   {
+    "q": 39,
+    "kea": "3",
+    "byjus": "2",
+    "type": "conflict",
+    "kea_provisional": "3"
+   }
+  ]
+ },
+ "2016-physics-vedantu": {
+  "n_other": 60,
+  "n_kea": 60,
+  "diffs": [
+   {
+    "q": 2,
+    "kea": "4",
+    "vedantu": "2",
+    "type": "conflict",
+    "kea_provisional": "4"
+   },
+   {
+    "q": 9,
+    "kea": "3",
+    "vedantu": "2",
+    "type": "conflict",
+    "kea_provisional": "3"
+   },
+   {
+    "q": 14,
+    "kea": "1",
+    "vedantu": "3",
+    "type": "conflict",
+    "kea_provisional": "1"
+   },
+   {
+    "q": 15,
+    "kea": "3",
+    "vedantu": "4",
+    "type": "conflict",
+    "kea_provisional": "3"
+   },
+   {
+    "q": 16,
+    "kea": "G",
+    "vedantu": "1",
+    "type": "kea_grace",
+    "kea_provisional": "4"
+   },
+   {
+    "q": 17,
+    "kea": "1",
+    "vedantu": "3",
+    "type": "conflict",
+    "kea_provisional": "1"
+   },
+   {
+    "q": 19,
+    "kea": "2",
+    "vedantu": "1",
+    "type": "conflict",
+    "kea_provisional": "2"
+   },
+   {
+    "q": 23,
+    "kea": "2",
+    "vedantu": "1",
+    "type": "conflict",
+    "kea_provisional": "2"
+   },
+   {
+    "q": 47,
+    "kea": "2",
+    "vedantu": "1",
+    "type": "conflict",
+    "kea_provisional": "2"
+   },
+   {
+    "q": 49,
+    "kea": "1",
+    "vedantu": "2",
+    "type": "conflict",
+    "kea_provisional": "1"
+   },
+   {
+    "q": 50,
+    "kea": "1234",
+    "vedantu": "3",
+    "type": "kea_multi_other_subset",
+    "kea_provisional": "2"
+   },
+   {
+    "q": 51,
+    "kea": "3",
+    "vedantu": "1",
+    "type": "conflict",
+    "kea_provisional": "3"
+   },
+   {
+    "q": 53,
+    "kea": "2",
+    "vedantu": "4",
+    "type": "conflict",
+    "kea_provisional": "2"
+   },
+   {
+    "q": 55,
+    "kea": "1",
+    "vedantu": "4",
+    "type": "conflict",
+    "kea_provisional": "1"
+   }
+  ]
+ },
+ "2017-chemistry-byjus": {
+  "n_other": 56,
+  "n_kea": 60,
+  "diffs": []
+ },
+ "2017-chemistry-vedantu": {
+  "n_other": 60,
+  "n_kea": 60,
+  "diffs": [
+   {
+    "q": 5,
+    "kea": "23",
+    "vedantu": "2",
+    "type": "kea_multi_other_subset",
+    "kea_provisional": "2"
+   },
+   {
+    "q": 9,
+    "kea": "4",
+    "vedantu": "3",
+    "type": "conflict",
+    "kea_provisional": "4"
+   },
+   {
+    "q": 27,
+    "kea": "12",
+    "vedantu": "1",
+    "type": "kea_multi_other_subset",
+    "kea_provisional": "2"
+   },
+   {
+    "q": 48,
+    "kea": "G",
+    "vedantu": "2",
+    "type": "kea_grace",
+    "kea_provisional": "G"
+   },
+   {
+    "q": 54,
+    "kea": "1",
+    "vedantu": "4",
+    "type": "conflict",
+    "kea_provisional": "1"
+   },
+   {
+    "q": 60,
+    "kea": "G",
+    "vedantu": "1",
+    "type": "kea_grace",
+    "kea_provisional": "1"
+   }
+  ]
+ },
+ "2017-mathematics-byjus": {
+  "n_other": 58,
+  "n_kea": 60,
+  "diffs": []
+ },
+ "2017-mathematics-vedantu": {
+  "n_other": 60,
+  "n_kea": 60,
+  "diffs": [
+   {
+    "q": 19,
+    "kea": "G",
+    "vedantu": "1",
+    "type": "kea_grace",
+    "kea_provisional": "4"
+   },
+   {
+    "q": 30,
+    "kea": "1",
+    "vedantu": "3",
+    "type": "conflict",
+    "kea_provisional": "1"
+   },
+   {
+    "q": 33,
+    "kea": "134",
+    "vedantu": "3",
+    "type": "kea_multi_other_subset",
+    "kea_provisional": "1"
+   },
+   {
+    "q": 56,
+    "kea": "2",
+    "vedantu": "1",
+    "type": "conflict",
+    "kea_provisional": "2"
+   }
+  ]
+ },
+ "2017-physics-byjus": {
+  "n_other": 59,
+  "n_kea": 60,
+  "diffs": [
+   {
+    "q": 29,
+    "kea": "1",
+    "byjus": "2",
+    "type": "conflict",
+    "kea_provisional": "1"
+   }
+  ]
+ },
+ "2017-physics-vedantu": {
+  "n_other": 60,
+  "n_kea": 60,
+  "diffs": [
+   {
+    "q": 1,
+    "kea": "G",
+    "vedantu": "*",
+    "type": "kea_grace",
+    "kea_provisional": "G"
+   },
+   {
+    "q": 7,
+    "kea": "3",
+    "vedantu": "1",
+    "type": "conflict",
+    "kea_provisional": "3"
+   },
+   {
+    "q": 26,
+    "kea": "1",
+    "vedantu": "4",
+    "type": "conflict",
+    "kea_provisional": "1"
+   },
+   {
+    "q": 29,
+    "kea": "1",
+    "vedantu": "2",
+    "type": "conflict",
+    "kea_provisional": "1"
+   }
+  ]
+ },
+ "2018-chemistry-byjus": {
+  "n_other": 60,
+  "n_kea": 60,
+  "diffs": []
+ },
+ "2018-chemistry-vedantu": {
+  "n_other": 59,
+  "n_kea": 60,
+  "diffs": [
+   {
+    "q": 49,
+    "kea": "3",
+    "vedantu": "1",
+    "type": "conflict",
+    "kea_provisional": null
+   }
+  ]
+ },
+ "2018-mathematics-byjus": {
+  "n_other": 58,
+  "n_kea": 60,
+  "diffs": []
+ },
+ "2018-physics-byjus": {
+  "n_other": 60,
+  "n_kea": 60,
+  "diffs": [
+   {
+    "q": 1,
+    "kea": "13",
+    "byjus": "3",
+    "type": "kea_multi_other_subset",
+    "kea_provisional": null
+   },
+   {
+    "q": 21,
+    "kea": "14",
+    "byjus": "3",
+    "type": "kea_multi_conflict",
+    "kea_provisional": null
+   },
+   {
+    "q": 42,
+    "kea": "4",
+    "byjus": "3",
+    "type": "conflict",
+    "kea_provisional": null
+   },
+   {
+    "q": 43,
+    "kea": "3",
+    "byjus": "1",
+    "type": "conflict",
+    "kea_provisional": null
+   },
+   {
+    "q": 45,
+    "kea": "2",
+    "byjus": "1",
+    "type": "conflict",
+    "kea_provisional": null
+   },
+   {
+    "q": 56,
+    "kea": "23",
+    "byjus": "1",
+    "type": "kea_multi_conflict",
+    "kea_provisional": null
+   },
+   {
+    "q": 58,
+    "kea": "1",
+    "byjus": "2",
+    "type": "conflict",
+    "kea_provisional": null
+   }
+  ]
+ },
+ "2019-mathematics-byjus": {
+  "n_other": 57,
+  "n_kea": 60,
+  "diffs": []
+ },
+ "2020-physics-deeksha": {
+  "n_other": 60,
+  "n_kea": 60,
+  "diffs": [
+   {
+    "q": 10,
+    "kea": "1",
+    "deeksha": "3",
+    "type": "conflict",
+    "kea_provisional": null
+   },
+   {
+    "q": 12,
+    "kea": "G",
+    "deeksha": "3",
+    "type": "kea_grace",
+    "kea_provisional": null
+   },
+   {
+    "q": 25,
+    "kea": "2",
+    "deeksha": "1",
+    "type": "conflict",
+    "kea_provisional": null
+   },
+   {
+    "q": 30,
+    "kea": "3",
+    "deeksha": "4",
+    "type": "conflict",
+    "kea_provisional": null
+   },
+   {
+    "q": 47,
+    "kea": "G",
+    "deeksha": "3",
+    "type": "kea_grace",
+    "kea_provisional": null
+   },
+   {
+    "q": 57,
+    "kea": "4",
+    "deeksha": "2",
+    "type": "conflict",
+    "kea_provisional": null
+   }
+  ]
+ },
+ "2021-chemistry-deeksha": {
+  "n_other": 60,
+  "n_kea": 60,
+  "diffs": [
+   {
+    "q": 6,
+    "kea": "34",
+    "deeksha": "3",
+    "type": "kea_multi_other_subset",
+    "kea_provisional": null
+   },
+   {
+    "q": 7,
+    "kea": "1",
+    "deeksha": "2",
+    "type": "conflict",
+    "kea_provisional": null
+   },
+   {
+    "q": 24,
+    "kea": "23",
+    "deeksha": "4",
+    "type": "kea_multi_conflict",
+    "kea_provisional": null
+   },
+   {
+    "q": 28,
+    "kea": "34",
+    "deeksha": "3",
+    "type": "kea_multi_other_subset",
+    "kea_provisional": null
+   },
+   {
+    "q": 42,
+    "kea": "123",
+    "deeksha": "3",
+    "type": "kea_multi_other_subset",
+    "kea_provisional": null
+   },
+   {
+    "q": 52,
+    "kea": "1",
+    "deeksha": "2",
+    "type": "conflict",
+    "kea_provisional": null
+   }
+  ]
+ },
+ "2021-mathematics-deeksha": {
+  "n_other": 58,
+  "n_kea": 60,
+  "diffs": [
+   {
+    "q": 36,
+    "kea": "1",
+    "deeksha": "2",
+    "type": "conflict",
+    "kea_provisional": null
+   },
+   {
+    "q": 44,
+    "kea": "G",
+    "deeksha": "1",
+    "type": "kea_grace",
+    "kea_provisional": null
+   },
+   {
+    "q": 47,
+    "kea": "23",
+    "deeksha": "3",
+    "type": "kea_multi_other_subset",
+    "kea_provisional": null
+   },
+   {
+    "q": 48,
+    "kea": "2",
+    "deeksha": "1",
+    "type": "conflict",
+    "kea_provisional": null
+   },
+   {
+    "q": 53,
+    "kea": "G",
+    "deeksha": "3",
+    "type": "kea_grace",
+    "kea_provisional": null
+   },
+   {
+    "q": 55,
+    "kea": "1",
+    "deeksha": "4",
+    "type": "conflict",
+    "kea_provisional": null
+   }
+  ]
+ },
+ "2021-physics-deeksha": {
+  "n_other": 58,
+  "n_kea": 60,
+  "diffs": [
+   {
+    "q": 8,
+    "kea": "24",
+    "deeksha": "2",
+    "type": "kea_multi_other_subset",
+    "kea_provisional": null
+   },
+   {
+    "q": 13,
+    "kea": "2",
+    "deeksha": "3",
+    "type": "conflict",
+    "kea_provisional": null
+   },
+   {
+    "q": 21,
+    "kea": "2",
+    "deeksha": "1",
+    "type": "conflict",
+    "kea_provisional": null
+   },
+   {
+    "q": 32,
+    "kea": "G",
+    "deeksha": "4",
+    "type": "kea_grace",
+    "kea_provisional": null
+   }
+  ]
+ }
+}
