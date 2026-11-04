@@ -1,0 +1,2130 @@
+[
+ {
+  "id": "pyq-2016-physics-001",
+  "subject": "physics",
+  "chapter": "motion-in-a-straight-line",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 1,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A body falls freely for 10 sec. Its average velocity during this journey (take $g = 10\\,\\mathrm{m\\,s^{-2}}$)",
+  "options": [
+   "$100\\,\\mathrm{m\\,s^{-1}}$",
+   "$10\\,\\mathrm{m\\,s^{-1}}$",
+   "$50\\,\\mathrm{m\\,s^{-1}}$",
+   "$5\\,\\mathrm{m\\,s^{-1}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-002",
+  "subject": "physics",
+  "chapter": "motion-in-a-plane",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 2,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Three projectiles A, B and C are projected at an angle of $30^\\circ$, $45^\\circ$, $60^\\circ$ respectively. If $R_A$, $R_B$ and $R_C$ are ranges of A, B and C respectively, then (velocity of projection is same for A, B & C)",
+  "options": [
+   "$R_A = R_B = R_C$",
+   "$R_A = R_C > R_B$",
+   "$R_A < R_B < R_C$",
+   "$R_A = R_C < R_B$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "key_confirmed",
+   "notes": "sin60=sin120 so R_A=R_C<R_B; key A1=4; transcription matches"
+  }
+ },
+ {
+  "id": "pyq-2016-physics-003",
+  "subject": "physics",
+  "chapter": "motion-in-a-plane",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 3,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The component of a vector $\\vec{r}$ along $x$-axis will have a maximum value if",
+  "options": [
+   "$\\vec{r}$ is along $+$ve $x$-axis",
+   "$\\vec{r}$ is along $+$ve $y$-axis",
+   "$\\vec{r}$ is along $-$ve $y$-axis",
+   "$\\vec{r}$ makes an angle of $45^\\circ$ with the $x$-axis"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-004",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 4,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Maximum acceleration of the train in which a 50 kg box lying on its floor will remain stationary (Given : Co-efficient of static friction between the box and the train's floor is 0.3 and $g = 10\\,\\mathrm{m\\,s^{-2}}$)",
+  "options": [
+   "$5.0\\,\\mathrm{m\\,s^{-2}}$",
+   "$3.0\\,\\mathrm{m\\,s^{-2}}$",
+   "$1.5\\,\\mathrm{m\\,s^{-2}}$",
+   "$15\\,\\mathrm{m\\,s^{-2}}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-005",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 5,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A 12 kg bomb at rest explodes into two pieces of 4 kg and 8 kg. If the momentum of 4 kg piece is $20\\,\\mathrm{N\\,s}$, the kinetic energy of the 8 kg piece is",
+  "options": [
+   "$25\\,\\mathrm{J}$",
+   "$20\\,\\mathrm{J}$",
+   "$50\\,\\mathrm{J}$",
+   "$40\\,\\mathrm{J}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-006",
+  "subject": "physics",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 6,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Which of the points is likely position of the centre of mass of the system shown in the figure ?",
+  "options": [
+   "A",
+   "D",
+   "B",
+   "C"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2016-physics-006.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "key_confirmed",
+   "notes": "COM shifts toward denser sand: D; key A1=2"
+  }
+ },
+ {
+  "id": "pyq-2016-physics-007",
+  "subject": "physics",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 7,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Three bodies a ring (R), a solid cylinder (C) and a solid sphere (S) having same mass and same radius roll down the inclined plane without slipping. They start from rest, if $v_R$, $v_C$ and $v_S$ are velocities of respective bodies on reaching the bottom of the plane, then",
+  "options": [
+   "$v_R = v_C = v_S$",
+   "$v_R > v_C > v_S$",
+   "$v_R < v_C < v_S$",
+   "$v_R = v_C > v_S$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-008",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 8,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Variation of acceleration due to gravity ($g$) with distance $x$ from the centre of the earth is best represented by ($R \\rightarrow$ Radius of the earth)",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2016-physics-008.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-009",
+  "subject": "physics",
+  "chapter": "mechanical-properties-of-solids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 9,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A spring is stretched by applying a load to its free end. The strain produced in the spring is",
+  "options": [
+   "Volumetric",
+   "Shear",
+   "Longitudinal & Shear",
+   "Longitudinal"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "key_confirmed",
+   "notes": "Spring stretch involves longitudinal and shear strain; key A1=3 re-read, matches"
+  }
+ },
+ {
+  "id": "pyq-2016-physics-010",
+  "subject": "physics",
+  "chapter": "mechanical-properties-of-fluids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 10,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "An ideal fluid flows through a pipe of circular cross section with diameters 5 cm and 10 cm as shown. The ratio of velocities of fluid at A and B is",
+  "options": [
+   "$4:1$",
+   "$1:4$",
+   "$2:1$",
+   "$1:2$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2016-physics-010.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-011",
+  "subject": "physics",
+  "chapter": "thermal-properties-of-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 11,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A pan filled with hot food cools from $94^\\circ$C to $86^\\circ$C in 2 minutes. When the room temperature is $20^\\circ$C. How long will it cool from $74^\\circ$C to $66^\\circ$C ?",
+  "options": [
+   "2 minutes",
+   "2.8 minutes",
+   "2.5 minutes",
+   "1.8 minutes"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-012",
+  "subject": "physics",
+  "chapter": "thermal-properties-of-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 12,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Four rods with different radii r and length $l$ are used to connect two heat reservoirs at different temperature. Which one will conduct most heat ?",
+  "options": [
+   "$r = 1\\,\\mathrm{cm},\\ l = 1\\,\\mathrm{m}$",
+   "$r = 1\\,\\mathrm{cm},\\ l = \\frac{1}{2}\\,\\mathrm{m}$",
+   "$r = 2\\,\\mathrm{cm},\\ l = 2\\,\\mathrm{m}$",
+   "$r = 2\\,\\mathrm{cm},\\ l = \\frac{1}{2}\\,\\mathrm{m}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-013",
+  "subject": "physics",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 13,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A Carnot engine working between $300\\,\\mathrm{K}$ and $400\\,\\mathrm{K}$ has $800\\,\\mathrm{J}$ of useful work. The amount of heat energy supplied to the engine from the source is",
+  "options": [
+   "$2400\\,\\mathrm{J}$",
+   "$3200\\,\\mathrm{J}$",
+   "$1200\\,\\mathrm{J}$",
+   "$3600\\,\\mathrm{J}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-014",
+  "subject": "physics",
+  "chapter": "oscillations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 14,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A particle executing SHM has a maximum speed of $0.5\\,\\mathrm{m\\,s^{-1}}$ and maximum acceleration of $1.0\\,\\mathrm{m\\,s^{-2}}$. The angular frequency of oscillation is",
+  "options": [
+   "$2\\,\\mathrm{rad\\,s^{-1}}$",
+   "$0.5\\,\\mathrm{rad\\,s^{-1}}$",
+   "$2\\pi\\,\\mathrm{rad\\,s^{-1}}$",
+   "$0.5\\pi\\,\\mathrm{rad\\,s^{-1}}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-015",
+  "subject": "physics",
+  "chapter": "waves",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 15,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A source of sound is moving with a velocity of $50\\,\\mathrm{m\\,s^{-1}}$ towards a stationary observer. The observer measures the frequency of sound as 500 Hz. The apparent frequency of sound as heard by the observer when source is moving away from him with the same speed is (Speed of sound at room temperature $350\\,\\mathrm{m\\,s^{-1}}$)",
+  "options": [
+   "400 Hz",
+   "666 Hz",
+   "375 Hz",
+   "177.5 Hz"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-016",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 16,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If there are only one type of charge in the universe, then ($\\vec{E} \\rightarrow$ Electric field, $\\vec{ds} \\rightarrow$ Area vector)",
+  "options": [
+   "$\\oint \\vec{E}\\cdot\\vec{ds} \\neq 0$ on any surface",
+   "$\\oint \\vec{E}\\cdot\\vec{ds}$ could not be defined",
+   "$\\oint E\\cdot ds = \\infty$ if charge is inside",
+   "$\\oint E\\cdot ds = 0$ if charge is outside, $= \\frac{q}{\\epsilon_0}$ if charge is inside"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2016-physics-017",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 17,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "An electron of mass $m$, charge $e$ falls through a distance $h$ meter in a uniform electric field $E$. Then time of fall",
+  "options": [
+   "$t = \\sqrt{\\frac{2hm}{eE}}$",
+   "$t = \\frac{2hm}{eE}$",
+   "$t = \\sqrt{\\frac{2eE}{hm}}$",
+   "$t = \\frac{2eE}{hm}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-018",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 18,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $\\vec{E}_{ax}$ and $\\vec{E}_{eq}$ represents electric field at a point on the axial and equatorial line of a dipole. If points are at a distance $r$ from the centre of the dipole, for $r \\gg a$",
+  "options": [
+   "$\\vec{E}_{ax} = \\vec{E}_{eq}$",
+   "$\\vec{E}_{ax} = -\\vec{E}_{eq}$",
+   "$\\vec{E}_{ax} = -2\\vec{E}_{eq}$",
+   "$\\vec{E}_{eq} = 2\\vec{E}_{ax}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-019",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 19,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Nature of equipotential surface for a point charge is",
+  "options": [
+   "Ellipsoid with charge at foci.",
+   "Sphere with charge at the centre of the sphere.",
+   "Sphere with charge on the surface of the sphere.",
+   "Plane with charge on the surface."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-020",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 20,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A particle of mass 1 gm and charge $1\\,\\mu\\mathrm{C}$ is held at rest on a frictionless horizontal surface at distance 1 m from the fixed charge $2\\,\\mathrm{mC}$. If the particle is released, it will be repelled. The speed of the particle when it is at a distance of 10 m from the fixed charge",
+  "options": [
+   "$60\\,\\mathrm{m\\,s^{-1}}$",
+   "$100\\,\\mathrm{m\\,s^{-1}}$",
+   "$90\\,\\mathrm{m\\,s^{-1}}$",
+   "$180\\,\\mathrm{m\\,s^{-1}}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-021",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 21,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A capacitor of $8\\,\\mathrm{F}$ is connected as shown. Charge on the plates of the capacitor",
+  "options": [
+   "$32\\,\\mathrm{C}$",
+   "$40\\,\\mathrm{C}$",
+   "$0\\,\\mathrm{C}$",
+   "$80\\,\\mathrm{C}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2016-physics-021.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-022",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 22,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Four metal plates are arranged as shown. Capacitance between X and Y ($A \\rightarrow$ Area of each plate, $d \\rightarrow$ distance between the plates)",
+  "options": [
+   "$\\frac{3}{2}\\,\\frac{\\epsilon_0 A}{d}$",
+   "$\\frac{2\\epsilon_0 A}{d}$",
+   "$\\frac{2}{3}\\,\\frac{\\epsilon_0 A}{d}$",
+   "$\\frac{3\\epsilon_0 A}{d}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2016-physics-022.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-023",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 23,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Mobility of free electrons in a conductor is",
+  "options": [
+   "directly proportional to electron density.",
+   "directly proportional to relaxation time.",
+   "inversely proportional to electron density.",
+   "inversely proportional to relaxation time."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-024",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 24,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Variation of resistance of the conductor with temperature is as shown. The temperature co-efficient ($\\alpha$) of the conductor is",
+  "options": [
+   "$\\frac{R_o}{m}$",
+   "$mR_o$",
+   "$m^2R_o$",
+   "$\\frac{m}{R_o}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2016-physics-024.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-025",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 25,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Potential difference between A and B in the following circuit",
+  "options": [
+   "$4\\,\\mathrm{V}$",
+   "$5.6\\,\\mathrm{V}$",
+   "$2.8\\,\\mathrm{V}$",
+   "$6\\,\\mathrm{V}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2016-physics-025.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-026",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 26,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "In the following network potential at 'O'",
+  "options": [
+   "$4\\,\\mathrm{V}$",
+   "$3\\,\\mathrm{V}$",
+   "$6\\,\\mathrm{V}$",
+   "$4.8\\,\\mathrm{V}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2016-physics-026.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-027",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 27,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Effective resistance between A and B in the following circuit",
+  "options": [
+   "$10\\,\\Omega$",
+   "$20\\,\\Omega$",
+   "$5\\,\\Omega$",
+   "$\\frac{20}{3}\\,\\Omega$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2016-physics-027.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-028",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 28,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Two heating coils of resistances $10\\,\\Omega$ and $20\\,\\Omega$ are connected in parallel and connected to a battery of emf $12\\,\\mathrm{V}$ and internal resistance $1\\,\\Omega$. The power consumed by them are in the ratio",
+  "options": [
+   "$1:4$",
+   "$1:3$",
+   "$2:1$",
+   "$4:1$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-029",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 29,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A proton is projected with a uniform velocity '$v$' along the axis of a current carrying solenoid, then",
+  "options": [
+   "the proton will be accelerated along the axis.",
+   "the proton path will be circular about the axis.",
+   "the proton move along helical path.",
+   "the proton will continue to move with velocity 'v' along the axis."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-030",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 30,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "In the cyclotron, as radius of the circular path of the charged particle increases ($\\omega$ = angular velocity, $v$ = linear velocity)",
+  "options": [
+   "both $\\omega$ and $v$ increases",
+   "$\\omega$ only increases, $v$ remains constant",
+   "$v$ increases, $\\omega$ remains constant",
+   "$v$ increases, $\\omega$ decreases"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-031",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 31,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A conducting wire carrying current is arranged as shown. The magnetic field at 'O'",
+  "options": [
+   "$\\frac{\\mu_0 i}{12}\\left[\\frac{1}{R_1}-\\frac{1}{R_2}\\right]$",
+   "$\\frac{\\mu_0 i}{12}\\left[\\frac{1}{R_1}+\\frac{1}{R_2}\\right]$",
+   "$\\frac{\\mu_0 i}{6}\\left[\\frac{1}{R_1}-\\frac{1}{R_2}\\right]$",
+   "$\\frac{\\mu_0 i}{6}\\left[\\frac{1}{R_1}+\\frac{1}{R_2}\\right]$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2016-physics-031.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-032",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 32,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The quantity of a charge that will be transferred by a current flow of 20 A over 1 hour 30 minutes period is",
+  "options": [
+   "$10.8 \\times 10^3\\,\\mathrm{C}$",
+   "$10.8 \\times 10^4\\,\\mathrm{C}$",
+   "$5.4 \\times 10^3\\,\\mathrm{C}$",
+   "$1.8 \\times 10^4\\,\\mathrm{C}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-033",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 33,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A galvanometer coil has a resistance of $50\\,\\Omega$ and the meter shows full scale deflection for a current of $5\\,\\mathrm{mA}$. This galvanometer is converted into voltmeter of range $0 - 20\\,\\mathrm{V}$ by connecting",
+  "options": [
+   "$3950\\,\\Omega$ in series with galvanometer",
+   "$4050\\,\\Omega$ in series with galvanometer",
+   "$3950\\,\\Omega$ in parallel with galvanometer",
+   "$4050\\,\\Omega$ in parallel with galvanometer"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-034",
+  "subject": "physics",
+  "chapter": "magnetism-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 34,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "$\\chi_1$ and $\\chi_2$ are susceptibility of a paramagnetic material at temperatures $T_1$K and $T_2$K respectively, then",
+  "options": [
+   "$\\chi_1 = \\chi_2$",
+   "$\\chi_1 T_1 = \\chi_2 T_2$",
+   "$\\chi_1 T_2 = \\chi_2 T_1$",
+   "$\\chi_1 \\sqrt{T_1} = \\chi_2 \\sqrt{T_2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-035",
+  "subject": "physics",
+  "chapter": "magnetism-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 35,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "At certain place, the horizontal component of earth's magnetic field is $3.0\\,\\mathrm{G}$ and the angle dip at that place is $30^\\circ$. The magnetic field of earth at that location",
+  "options": [
+   "$4.5\\,\\mathrm{G}$",
+   "$5.1\\,\\mathrm{G}$",
+   "$3.5\\,\\mathrm{G}$",
+   "$6.0\\,\\mathrm{G}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-036",
+  "subject": "physics",
+  "chapter": "communication-systems",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 36,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The process of super imposing message signal on high frequency carrier wave is called",
+  "options": [
+   "Amplification",
+   "Demodulation",
+   "Transmission",
+   "Modulation"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-037",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 37,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A long solenoid with 40 turns per cm carries a current of 1 A. The magnetic energy stored per unit volume is ________ $\\mathrm{J/m^3}$.",
+  "options": [
+   "$3.2\\pi$",
+   "$32\\pi$",
+   "$1.6\\pi$",
+   "$6.4\\pi$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "key_confirmed",
+   "notes": "u=B^2/2mu0=3.2pi J/m3; key A1=1"
+  }
+ },
+ {
+  "id": "pyq-2016-physics-038",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 38,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A wheel with 10 spokes each of length 'L' m is rotated with a uniform angular velocity '$\\omega$' in a plane normal to the magnetic field 'B'. The emf induced between the axle and the rim of the wheel.",
+  "options": [
+   "$\\frac{1}{2}N\\omega BL^2$",
+   "$\\frac{1}{2}\\omega BL^2$",
+   "$\\omega bL^2$",
+   "$N\\omega BL^2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-039",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 39,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The rms value of current in a 50 Hz AC circuit is $6\\,\\mathrm{A}$. The average value of AC current over a cycle is",
+  "options": [
+   "$6\\sqrt{2}$",
+   "$\\frac{3}{\\pi\\sqrt{2}}$",
+   "Zero",
+   "$\\frac{6}{\\pi\\sqrt{2}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-040",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 40,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A capacitor of capacitance $10\\,\\mu\\mathrm{F}$ is connected to an AC source and an AC Ammeter. If the source voltage varies as $V = 50\\sqrt{2}\\,\\sin 100t$, the reading of the ammeter is",
+  "options": [
+   "$50\\,\\mathrm{mA}$",
+   "$70.7\\,\\mathrm{mA}$",
+   "$5.0\\,\\mathrm{mA}$",
+   "$7.07\\,\\mathrm{mA}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-041",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 41,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "In a series L.C.R circuit, the potential drop across L, C and R respectively are 40 V, 120 V and 60 V. Then the source voltage is",
+  "options": [
+   "$220\\,\\mathrm{V}$",
+   "$160\\,\\mathrm{V}$",
+   "$180\\,\\mathrm{V}$",
+   "$100\\,\\mathrm{V}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-042",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 42,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "In a series L.C.R. circuit an alternating emf (v) and current (i) are given by the equation $v = v_0 \\sin \\omega t,\\ i = i_0 \\sin\\left(\\omega t + \\frac{\\pi}{3}\\right)$. The average power discipated in the circuit over a cycle of AC is",
+  "options": [
+   "$\\frac{v_0 i_0}{2}$",
+   "$\\frac{v_0 i_0}{4}$",
+   "$\\frac{\\sqrt{3}}{2}\\,v_0 i_0$",
+   "Zero"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-043",
+  "subject": "physics",
+  "chapter": "electromagnetic-waves",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 43,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Electromagnetic radiation used to sterilise milk is",
+  "options": [
+   "X-ray",
+   "$\\gamma$-ray",
+   "UV rays",
+   "Radiowaves"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-044",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 44,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A plane glass plate is placed over a various coloured letters (violet, green, yellow, red). The letter which appears to raised more",
+  "options": [
+   "Red",
+   "Yellow",
+   "Green",
+   "Violet"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-045",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 45,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A ray of light passes through four transparent media with refractive index $n_1$, $n_2$, $n_3$ and $n_4$ as shown. The surfaces of all media are parallel. If the emergent ray DE is parallel to incident ray AB, then",
+  "options": [
+   "$n_1 = n_4$",
+   "$n_2 = n_4$",
+   "$n_3 = n_4$",
+   "$n_1 = \\frac{n_2 + n_3 + n_4}{3}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2016-physics-045.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-046",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 46,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Focal length of a convex lens is $20\\,\\mathrm{cm}$ and its RI is 1.5. It produces an erect, enlarged image if the distance of the object from the lens is",
+  "options": [
+   "$40\\,\\mathrm{cm}$",
+   "$30\\,\\mathrm{cm}$",
+   "$15\\,\\mathrm{cm}$",
+   "$20\\,\\mathrm{cm}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-047",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 47,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A ray of light suffers a minimum deviation when incident on an equilateral prism of refractive index $\\sqrt{2}$. The angle of incidence is",
+  "options": [
+   "$30^\\circ$",
+   "$45^\\circ$",
+   "$60^\\circ$",
+   "$50^\\circ$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-048",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 48,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "In Young's double slit experiment the source is white light. One slit is covered with red filter and the other with blue filter. There shall be",
+  "options": [
+   "Alternate red & blue fringes",
+   "Alternate dark & pink fringes",
+   "Alternate dark & yellow fringes",
+   "No interference"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-049",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 49,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Light of wavelength $600\\,\\mathrm{nm}$ is incident normally on a slit of width $0.2\\,\\mathrm{mm}$. The angular width of central maxima in the diffraction pattern is (measured from minimum to minimum)",
+  "options": [
+   "$6 \\times 10^{-3}\\,\\mathrm{rad}$",
+   "$4 \\times 10^{-3}\\,\\mathrm{rad}$",
+   "$2.4 \\times 10^{-3}\\,\\mathrm{rad}$",
+   "$4.5 \\times 10^{-3}\\,\\mathrm{rad}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-050",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 50,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "For what distance is ray optics is good approximation when the aperture is $4\\,\\mathrm{mm}$ and the wavelength of light is $400\\,\\mathrm{nm}$ ?",
+  "options": [
+   "$24\\,\\mathrm{m}$",
+   "$40\\,\\mathrm{m}$",
+   "$18\\,\\mathrm{m}$",
+   "$30\\,\\mathrm{m}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-051",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 51,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The variation of photo-current with collector potential for different frequencies of incident radiation $\\nu_1$, $\\nu_2$ and $\\nu_3$ is as shown in the graph, then",
+  "options": [
+   "$\\nu_1 = \\nu_2 = \\nu_3$",
+   "$\\nu_1 > \\nu_2 > \\nu_3$",
+   "$\\nu_1 < \\nu_2 < \\nu_3$",
+   "$\\nu_3 = \\frac{\\nu_1 + \\nu_2}{2}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2016-physics-051.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-052",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 52,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The de Broglie wavelength of an electron accelerated to a potential of $400\\,\\mathrm{V}$ is approximately",
+  "options": [
+   "$0.03\\,\\mathrm{nm}$",
+   "$0.04\\,\\mathrm{nm}$",
+   "$0.12\\,\\mathrm{nm}$",
+   "$0.06\\,\\mathrm{nm}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-053",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 53,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Total energy of electron in an excited state of hydrogen atom is $-3.4\\,\\mathrm{eV}$. The kinetic and potential energy of electron in this state",
+  "options": [
+   "$K = -3.4\\,\\mathrm{eV}$, $U = -6.8\\,\\mathrm{eV}$",
+   "$K = 3.4\\,\\mathrm{eV}$, $U = -6.8\\,\\mathrm{eV}$",
+   "$K = -6.8\\,\\mathrm{eV}$, $U = +3.4\\,\\mathrm{eV}$",
+   "$K = +10.2\\,\\mathrm{eV}$, $U = -13.6\\,\\mathrm{eV}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-054",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 54,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "When electron jumps from $n = 4$ level to $n = 1$ level, the angular momentum of electron changes by",
+  "options": [
+   "$\\frac{h}{2\\pi}$",
+   "$\\frac{2h}{2\\pi}$",
+   "$\\frac{3h}{2\\pi}$",
+   "$\\frac{4h}{2\\pi}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-055",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 55,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A radio-active sample of half-life 10 days contains $1000\\,x$ nuclei. Number of original nuclei present after 5 days is",
+  "options": [
+   "$707\\,x$",
+   "$750\\,x$",
+   "$500\\,x$",
+   "$250\\,x$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-056",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 56,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "An element X decays into element Z by two-step process.\n\n$\\mathrm{X} \\rightarrow \\mathrm{Y} + {}^{4}_{2}\\mathrm{He}$\n\n$\\mathrm{Y} \\rightarrow \\mathrm{Z} + 2e^{-}$ then",
+  "options": [
+   "X & Z are isobars.",
+   "X & Y are isotopes.",
+   "X & Z are isotones.",
+   "X & Z are isotopes."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-057",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 57,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A nucleus of mass 20 u emits a $\\gamma$ photon of energy 6 MeV. If the emission assume to occur when nucleus is free and rest, then the nucleus will have kinetic energy nearest to (take $1\\,\\mathrm{u} = 1.6 \\times 10^{-27}\\,\\mathrm{kg}$)",
+  "options": [
+   "$10\\,\\mathrm{KeV}$",
+   "$1\\,\\mathrm{KeV}$",
+   "$0.1\\,\\mathrm{KeV}$",
+   "$100\\,\\mathrm{KeV}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-058",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 58,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Constant DC voltage is required from a variable AC voltage. Which of the following is correct order of operation ?",
+  "options": [
+   "Regulator, filter, rectifier",
+   "Rectifier, regulator, filter",
+   "Rectifier, filter, regulator",
+   "Filter, regulator, rectifier"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-059",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 59,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "In a transistor, the collector current varies by $0.49\\,\\mathrm{mA}$ and emitter current varies by $0.50\\,\\mathrm{mA}$. Current gain $\\beta$ measured is",
+  "options": [
+   "49",
+   "150",
+   "99",
+   "100"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-physics-060",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 60,
+   "file": "sources/pyq/2016/physics/2016-physics-question_paper-A1-educationobserver.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2016/physics/2016-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Identify the logic operation carried out by the following circuit.",
+  "options": [
+   "AND",
+   "NAND",
+   "NOR",
+   "OR"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2016-physics-060.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

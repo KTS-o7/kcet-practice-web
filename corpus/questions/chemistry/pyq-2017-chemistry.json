@@ -1,0 +1,2110 @@
+[
+ {
+  "id": "pyq-2017-chemistry-001",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 1,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "If $3.01\\times10^{20}$ molecules are removed from 98 mg of $\\mathrm{H_2SO_4}$, then number of moles of $\\mathrm{H_2SO_4}$ left are",
+  "options": [
+   "$0.1\\times10^{-3}\\,\\mathrm{mol}$",
+   "$0.5\\times10^{-3}\\,\\mathrm{mol}$",
+   "$1.66\\times10^{-3}\\,\\mathrm{mol}$",
+   "$9.95\\times10^{-2}\\,\\mathrm{mol}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-002",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 2,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The correct set of quantum number for the unpaired electrons of chlorine atom is",
+  "options": [
+   "$2,0,0,+\\frac{1}{2}$",
+   "$2,1,-1,+\\frac{1}{2}$",
+   "$3,1,1,\\pm\\frac{1}{2}$",
+   "$3,0,0,\\pm\\frac{1}{2}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-003",
+  "subject": "chemistry",
+  "chapter": "classification-of-elements-and-periodicity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 3,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The electronegativities of C, N, Si and P are in the order of",
+  "options": [
+   "$\\mathrm{P < Si < C < N}$",
+   "$\\mathrm{Si < P < N < C}$",
+   "$\\mathrm{Si < P < C < N}$",
+   "$\\mathrm{P < Si < N < C}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-004",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 4,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Which of the following structure of a molecule is expected to have three bond pairs and one lone pair of electrons ?",
+  "options": [
+   "Tetrahedral",
+   "Trigonal Planar",
+   "Pyramidal",
+   "Octahedral"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-005",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 5,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Which of the following is the correct electron dot structure of $\\mathrm{N_2O}$ molecule ?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1,
+   2
+  ],
+  "images": [
+   "pyq-2017-chemistry-005.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-006",
+  "subject": "chemistry",
+  "chapter": "states-of-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 6,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The pressure of real gases is less than that of ideal gas because of",
+  "options": [
+   "Intermolecular attraction",
+   "Finite size of particles",
+   "Increase in the number of collisions",
+   "Increase in the kinetic energy of the molecules"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-007",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 7,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A reaction has both $\\Delta H$ and $\\Delta S$ $-$ve. The rate of reaction",
+  "options": [
+   "increases with increase in temperature",
+   "increases with decrease in temperature",
+   "remains unaffected by change in temperature",
+   "cannot be predicted for change in temperature"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "disputed",
+   "notes": "Key reading confirmed (B). Transcription exact. Rate follows Arrhenius (rises with T); signs of dH/dS give no basis for rate to rise on cooling, so key B looks wrong.",
+   "disputed": true,
+   "status_reason": "official key kept; Sonnet disagrees"
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-008",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 8,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The equilibrium constant for the reaction $\\mathrm{N_{2(g)} + O_{2(g)} \\rightleftharpoons 2NO_{(g)}}$ is $4\\times10^{-4}$ at $2000\\,\\mathrm{K}$. In presence of a catalyst the equilibrium is attained ten times faster. Therefore the equilibrium constant in presence of catalyst of 2000 K is",
+  "options": [
+   "$40\\times10^{-4}$",
+   "$4\\times10^{-2}$",
+   "$4\\times10^{-3}$",
+   "$4\\times10^{-4}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-009",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 9,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The reaction quotient '$\\mathrm{Q_c}$' is useful in predicting the direction of the reaction. Which of the following is incorrect ?",
+  "options": [
+   "If $\\mathrm{Q_c} > \\mathrm{K_c}$, the reverse reaction is favoured",
+   "If $\\mathrm{Q_c} < \\mathrm{K_c}$, the forward reaction is favoured",
+   "If $\\mathrm{Q_c} = \\mathrm{K_c}$, no reaction occur",
+   "If $\\mathrm{Q_c} > \\mathrm{K_c}$, forward reaction is favoured"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-010",
+  "subject": "chemistry",
+  "chapter": "redox-reactions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 10,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "$\\mathrm{3ClO^{-}_{(aq)} \\longrightarrow ClO^{-} + 2Cl^{-}}$ is an example of",
+  "options": [
+   "Oxidation reaction",
+   "Reduction reaction",
+   "Disproportionation reaction",
+   "Decomposition reaction"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "disputed",
+   "notes": "Key reading confirmed (B). Transcription exact (printed ClO- on both sides). Cl goes +1 to -1 and +1 (printed as ClO-): disproportionation (C); key B Reduction looks wrong.",
+   "disputed": true,
+   "status_reason": "official key kept; Sonnet disagrees"
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-011",
+  "subject": "chemistry",
+  "chapter": "hydrogen",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 11,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "In the manufacture of hydrogen from water gas $(\\mathrm{CO + H_2})$, which of the following is correct statement ?",
+  "options": [
+   "$\\mathrm{CO}$ is oxidized to $\\mathrm{CO_2}$ with steam in the presence of a catalyst followed by absorption of $\\mathrm{CO_2}$ in alkali.",
+   "$\\mathrm{CO}$ and $\\mathrm{H_2}$ are separated based on difference in their densities.",
+   "Hydrogen is isolated by diffusion.",
+   "$\\mathrm{H_2}$ is removed by occlusion with pd."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-012",
+  "subject": "chemistry",
+  "chapter": "the-s-block-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 12,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Plaster of Paris is represented as",
+  "options": [
+   "$\\mathrm{CaSO_4 \\cdot \\frac{1}{2} H_2O}$",
+   "$\\mathrm{CaSO_4 \\cdot H_2O}$",
+   "$\\mathrm{CaSO_4 \\cdot 2H_2O}$",
+   "$\\mathrm{CaSO_4}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-013",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-11",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 13,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Addition of mineral acid to an aqueous solution of Borax, the following compound is formed",
+  "options": [
+   "Boron hydride",
+   "Orthoboric acid",
+   "Meta boric acid",
+   "Pyroboric acid"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-014",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 14,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Identify the correct statement in the following :",
+  "options": [
+   "n-butane and isobutane are functional isomers",
+   "Dimethyl ether and ethanol are chain isomers",
+   "Propan-1-ol and propan-2-ol are position isomers",
+   "Ethanoic acid and methyl methanoate are position isomers"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-015",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 15,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "In which of the following, homolytic bond fission takes place ?",
+  "options": [
+   "Alkaline hydrolysis of ethyl chloride",
+   "Addition of HBr to double bond",
+   "Free radical chlorination of methane",
+   "Nitration of Benzene"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-016",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 16,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "For the preparation of Alkanes, aqueous solution of sodium or potassium salt of carboxylic acid is subjected to",
+  "options": [
+   "Hydrolysis",
+   "Oxidation",
+   "Hydrogenation",
+   "Electrolysis"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-017",
+  "subject": "chemistry",
+  "chapter": "environmental-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 17,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Which one of the following is not a common component of photo-chemical smog ?",
+  "options": [
+   "Ozone",
+   "Acrolein",
+   "Peroxy acetyl nitrate",
+   "Chloro flouro carbons"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-018",
+  "subject": "chemistry",
+  "chapter": "the-solid-state",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 18,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Which of the following crystal has unit cell such that $a \\neq b \\neq c$ and $\\alpha \\neq \\beta \\neq \\gamma \\neq 90^{\\circ}$ ?",
+  "options": [
+   "$\\mathrm{K_2Cr_2O_7}$",
+   "$\\mathrm{NaNO_3}$",
+   "$\\mathrm{KNO_3}$",
+   "$\\mathrm{K_2SO_4}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-019",
+  "subject": "chemistry",
+  "chapter": "the-solid-state",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 19,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The correct statement regarding defect in solids is",
+  "options": [
+   "Frenkel defect is usually favoured by a very small difference in the sizes of cations and anions.",
+   "Frenkel defect is a dislocation defect.",
+   "Trapping of proton in the lattice leads to the formation of F-centers.",
+   "Schottky defect has no effect on the physical properties of solids."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "key_confirmed",
+   "notes": "Frenkel is a dislocation defect; transcription exact."
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-020",
+  "subject": "chemistry",
+  "chapter": "the-solid-state",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 20,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "In a face centred cubic arrangement of A and B atoms in which 'A' atoms are at the corners of the unit cell and 'B' atoms are at the face centers. One of the 'A' atom is missing from one corner in unit cell. The simplest formula of compound is",
+  "options": [
+   "$\\mathrm{A_7B_{24}}$",
+   "$\\mathrm{A_7B_8}$",
+   "$\\mathrm{AB_3}$",
+   "$\\mathrm{A_7B_3}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-021",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 21,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Which of the following aqueous solution has highest freezing point ?",
+  "options": [
+   "0.1 molal $\\mathrm{Al_2(SO_4)_3}$",
+   "0.1 molal $\\mathrm{BaCl_2}$",
+   "0.1 molal $\\mathrm{AlCl_3}$",
+   "0.1 molal $\\mathrm{NH_4Cl}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-022",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 22,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The Vant Hoff's factor 'i' accounts for",
+  "options": [
+   "extent of solubility of solute",
+   "extent of dissociation of solute",
+   "extent of dissolution of solute",
+   "extent of mobility of solute"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-023",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 23,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "When the pure solvent diffuses out of the solution through the semi-permeable membrane then the process is called",
+  "options": [
+   "Osmosis",
+   "Reverse osmosis",
+   "Sorption",
+   "Dialysis"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "key_confirmed",
+   "notes": "Solvent leaving solution through SPM is reverse osmosis; transcription exact."
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-024",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 24,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The standard reduction potential at 298 K for the following half cell reaction\n\n$\\mathrm{Zn^{2+}_{(aq)} + 2e \\longrightarrow Zn_{(s)}}$ $E^{\\circ} = -0.762\\,\\mathrm{V}$\n\n$\\mathrm{Cr^{3+}_{(aq)} + 3e \\longrightarrow Cr_{(s)}}$ $E^{\\circ} = 0.740\\,\\mathrm{V}$\n\n$\\mathrm{2H^{+}_{(aq)} + 2e \\longrightarrow H_{2(g)}}$ $E^{\\circ} = 0.0\\,\\mathrm{V}$\n\n$\\mathrm{F_{2(g)} + 2e \\longrightarrow 2F^{-}_{(aq)}}$ $E^{\\circ} = 2.87\\,\\mathrm{V}$\n\nWhich of the following is strongest reducing agent ?",
+  "options": [
+   "$\\mathrm{Zn_{(s)}}$",
+   "$\\mathrm{Cr_{(s)}}$",
+   "$\\mathrm{H_{2(g)}}$",
+   "$\\mathrm{F_{2(g)}}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-025",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 25,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "By passing electric current, $\\mathrm{NaClO_3}$ is converted into $\\mathrm{NaClO_4}$ according to the following equation\n\n$\\mathrm{NaClO_3 + H_2O \\longrightarrow NaClO_4 + H_2}$\n\nHow many moles of $\\mathrm{NaClO_4}$ will be formed when three Faradays of charge is passed through $\\mathrm{NaClO_3}$ ?",
+  "options": [
+   "0.75",
+   "1.0",
+   "1.5",
+   "3.0"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-026",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 26,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "In the electrolysis of aqueous sodium chloride solution, which of the half cell reaction will occur at anode ?",
+  "options": [
+   "$\\mathrm{Na^{+}_{(aq)} + e^{-} \\longrightarrow Na_{(s)}}$, $E^{0} = -2.71$ volts",
+   "$\\mathrm{2H_2O_{(l)} \\longrightarrow O_2 + 4H^{+} + 4e^{-}}$, $E^{\\circ}_{\\mathrm{cell}} = 1.23$ volts",
+   "$\\mathrm{H^{+}_{(aq)} + e^{-} \\longrightarrow \\frac{1}{2}H_2}$, $E^{\\circ}_{\\mathrm{cell}} = 0.00$ volts",
+   "$\\mathrm{Cl^{-}_{(aq)} \\longrightarrow \\frac{1}{2}Cl_2 + e^{-}}$, $E^{\\circ}_{\\mathrm{cell}} = 1.36$ volts"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-027",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 27,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Which of the following statement is in accordance with the Arrhenius equation ?",
+  "options": [
+   "Rate of a reaction increases with increase in temperature",
+   "Rate of a reaction increases with decrease in activation energy",
+   "Rate constant decreases exponentially with increase in temperature",
+   "Rate of reaction does not change with increase in activation energy"
+  ],
+  "answer": 0,
+  "accepted": [
+   0,
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-028",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 28,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Which of the following statement is incorrect ?",
+  "options": [
+   "The rate law for any reaction cannot be determined experimentally",
+   "Complex reactions have fractional order.",
+   "Biomolecular reactions involve simultaneous collision between two species",
+   "Molecularity is only applicable for elementary reaction."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-029",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 29,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "For a reaction $\\mathrm{\\frac{1}{2}A \\longrightarrow 2B}$ rate of disappearance of A is related to rate of appearance of B by the expression",
+  "options": [
+   "$-\\frac{d[A]}{dt} = 4\\frac{d[B]}{dt}$",
+   "$-\\frac{d[A]}{dt} = \\frac{1}{4}\\frac{d[B]}{dt}$",
+   "$-\\frac{d[A]}{dt} = \\frac{1}{2}\\frac{d[B]}{dt}$",
+   "$-\\frac{d[A]}{dt} = \\frac{d[B]}{dt}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-030",
+  "subject": "chemistry",
+  "chapter": "surface-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 30,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The process which is responsible for the formation of delta at a place where rivers meets the sea is",
+  "options": [
+   "Coagulation",
+   "Colloid formation",
+   "Emulsification",
+   "Peptization"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-031",
+  "subject": "chemistry",
+  "chapter": "surface-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 31,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Hydrogenation of vegetable oils in presence of finely divided Nickel as catalyst. The reaction is",
+  "options": [
+   "Heterogeneous catalysis",
+   "Homogeneous catalysis",
+   "Enzyme catalysed reaction",
+   "Liquid catalysed reaction"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-032",
+  "subject": "chemistry",
+  "chapter": "surface-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 32,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Which of the following is not a favourable condition for physical adsorption ?",
+  "options": [
+   "High temperature",
+   "High pressure",
+   "Higher critical temperature of adsorbate",
+   "Low temperature"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-033",
+  "subject": "chemistry",
+  "chapter": "general-principles-and-processes-of-isolation-of-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 33,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The metal extracted by leaching with a cyanide is",
+  "options": [
+   "$\\mathrm{Al}$",
+   "Ag",
+   "Cu",
+   "Na"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-034",
+  "subject": "chemistry",
+  "chapter": "general-principles-and-processes-of-isolation-of-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 34,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Extraction of chlorine from brine solution is based on",
+  "options": [
+   "Oxidation",
+   "Chlorination",
+   "Reduction",
+   "Acidification"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-035",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-12",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 35,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Which of the following element forms $p_{\\pi} - p_{\\pi}$ bond with itself ?",
+  "options": [
+   "N",
+   "P",
+   "Se",
+   "Te"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-036",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-11",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 36,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Which one of the following metallic oxide exhibit amphoteric nature ?",
+  "options": [
+   "$\\mathrm{CaO}$",
+   "$\\mathrm{Na_2O}$",
+   "$\\mathrm{BaO}$",
+   "$\\mathrm{Al_2O_3}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-037",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-12",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 37,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Select wrong chemical reaction among the following :",
+  "options": [
+   "$\\mathrm{MnO_2 + 4HCl \\longrightarrow MnCl_2^{+} Cl_2 + 2H_2O}$",
+   "$\\mathrm{8NH_3 + 3Cl_2 \\longrightarrow 6NH_4Cl + N_2}$",
+   "$\\mathrm{2NaOH + Cl_2 \\longrightarrow 2NaCl + H_2 + O_2}$",
+   "$\\mathrm{2Ca(OH)_2 + 2Cl_2 \\longrightarrow Ca(OCl)_2^{+} CaCl_2 + 2H_2O}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-038",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-12",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 38,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Which one of the following noble gas has an unusual property of diffusing through the materials such as rubber, glass or plastic ?",
+  "options": [
+   "Ne",
+   "Ar",
+   "Kr",
+   "He"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-039",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 39,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The magnetic nature of elements depends on the presence of unpaired electrons. Identify the configuration of transition elements which shows highest magnetic moment ?",
+  "options": [
+   "$3d^{7}$",
+   "$3d^{5}$",
+   "$3d^{8}$",
+   "$3d^{2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-040",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 40,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Which of the following statement is wrong regarding Lanthanoids ?",
+  "options": [
+   "Ln(III) compounds are generally colourless.",
+   "Ln(III) compounds are predominantly ionic in character.",
+   "The ionic size of Ln(III) ions decreases with increasing atomic number.",
+   "Ln(III) hydroxides are mainly basic in nature."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-041",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 41,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Square planar complex of the type $\\mathrm{M_{AXBL}}$ (where A, B, X and L are unidentate ligands) shows following set of isomers",
+  "options": [
+   "Two cis and one trans",
+   "Two trans and one cis",
+   "Two cis and two trans",
+   "Three cis and one trans"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-042",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 42,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "According to crystal field theory, the M – L bond in a complex is",
+  "options": [
+   "purely ionic",
+   "purely covalent",
+   "purely co-ordinate",
+   "partially covalent"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-043",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 43,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The co-ordination number and the oxidation state of the element 'M' in the complex $\\mathrm{[M(en)_2(C_2O_4)]NO_2}$ {where (en) is ethan-1, 2 $-$ diamine} are respectively",
+  "options": [
+   "6 and 3",
+   "6 and 2",
+   "4 and 2",
+   "4 and 3"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-044",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 44,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Toluene reacts with halogen in presence of Iron (III) chloride giving ortho and para halo compounds. The reaction is",
+  "options": [
+   "Electrophilic elimination reaction",
+   "Electrophilic substitution reaction",
+   "Free radical addition reaction",
+   "Nucleophilic substitution reaction"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-045",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 45,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "In the following sequence of reactions\n\n$\\mathrm{CH_3Br \\xrightarrow{KCN} A \\xrightarrow{H_3O^{+}} B \\xrightarrow{LiAlH_4} C}$\n\nThe end product C is",
+  "options": [
+   "Acetone",
+   "Methane",
+   "Acetaldehyde",
+   "Ethyl Alcohol"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-046",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 46,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Which of the following order is true regarding the acidic nature of phenol ?",
+  "options": [
+   "Phenol > O-cresol > O-nitrophenol",
+   "O-cresol < phenol < O-nitrophenol",
+   "phenol < O-cresol > O-nitrophenol",
+   "phenol < O-cresol < O-nitrophenol"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-047",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 47,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Which of the following reagent cannot be used to oxidize primary alcohols to aldehydes ?",
+  "options": [
+   "$\\mathrm{CrO_3}$ in anhydrous medium",
+   "$\\mathrm{KMnO_4}$ in acidic medium",
+   "Pyridinium chloro chromate",
+   "Heating in presence of Cu at 573 K"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-048",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 48,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Cannizzaro's reaction is an example of auto oxidation",
+  "options": [
+   "It is a typical reaction of aliphatic aldehyde.",
+   "It is a reaction answered only by aromatic aldehydes.",
+   "It is a reaction answered by all aldehydes.",
+   "It is a reaction answered by only aldehydes containing $\\alpha$-hydrogen."
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-049",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 49,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Lower members of aliphatic carboxylic acid are soluble in water. This is due to",
+  "options": [
+   "Formation of hydrogen bonds with water.",
+   "Van der-Waals interaction with water molecules.",
+   "Water is non electrolyte",
+   "Due to London forces"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-050",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 50,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The correct order of increasing basic nature for the bases $\\mathrm{NH_3}$, $\\mathrm{CH_3NH_2}$ and $\\mathrm{(CH_3)_2NH}$ in aqueous solutions",
+  "options": [
+   "$\\mathrm{CH_3NH_2 < NH_3 < (CH_3)_2NH}$",
+   "$\\mathrm{(CH_3)_2NH < NH_3 < CH_3NH_2}$",
+   "$\\mathrm{NH_3 < CH_3NH_2 < (CH_3)_2NH}$",
+   "$\\mathrm{CH_3NH_2 < (CH_3)_2NH < NH_3}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-051",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 51,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The product formed during the following reaction are",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2017-chemistry-051.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-052",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 52,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Reduction of ketones cannot be carried out with which of the following reagents ?",
+  "options": [
+   "Sodium borohydride or Lithium Aluminium hydride",
+   "Zinc amalgam and concentrated $\\mathrm{HCl}$",
+   "Hydrazine and KOH in ethylene glycol",
+   "Hydrogen in presence of palladium in Barium sulphate and quinoline"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-053",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 53,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Gabriel phthalimide synthesis is used in the preparation of primary amine from phthalimide, which of the following reagent is not used during the process ?",
+  "options": [
+   "KOH",
+   "NaOH",
+   "HCl",
+   "Alkyl Halides"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "key_confirmed",
+   "notes": "HCl is not used in Gabriel synthesis per key; transcription exact."
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-054",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 54,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The Glycosidic linkage present in sucrose is between",
+  "options": [
+   "$\\mathrm{C-1}$ of $\\alpha$-glucose and $\\mathrm{C-2}$ of $\\beta$-fructose",
+   "$\\mathrm{C-1}$ of $\\alpha$-glucose and $\\mathrm{C-4}$ of $\\alpha$-glucose",
+   "$\\mathrm{C-1}$ of $\\beta$-galactose and $\\mathrm{C-4}$ of $\\alpha$-glucose",
+   "$\\mathrm{C-1}$ of $\\alpha$-glucose and $\\mathrm{C-4}$ of $\\beta$-fructose"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-055",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 55,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Hormones are secreted by ductless glands of human body. Iodine containing hormone is",
+  "options": [
+   "Insulin",
+   "Thyroxine",
+   "Testosterone",
+   "Adrenoline"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-056",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 56,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 16,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Pick the wrong statement from the following :",
+  "options": [
+   "Sources of Vitamin $\\mathrm{B_1}$ are yeast, milk, green vegetables and cereals",
+   "Deficiency of Vitamin $\\mathrm{B_6}$ (pyridoxime) results in convulsions",
+   "Consumption of citrus fruits and green leafy vegetables in food prevents scurvy",
+   "Deficiency of vitamin D causes xerophthalmia"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-057",
+  "subject": "chemistry",
+  "chapter": "polymers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 57,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 16,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The monomer used in Novolac, a polymer used in paints",
+  "options": [
+   "Phenol and Formaldehyde",
+   "Melamine and Formaldehyde",
+   "Butadiene and Styrene",
+   "Butadiene and Acrylo Nitrile"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-058",
+  "subject": "chemistry",
+  "chapter": "polymers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 58,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 16,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Which of the following is not a biodegradable polymer ?",
+  "options": [
+   "Polyhydroxy butyrate $-$CO$-$ $\\beta$ hydroxy valerate",
+   "pHBV",
+   "Nylon 2-Nylon-6",
+   "Glyptol"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-059",
+  "subject": "chemistry",
+  "chapter": "chemistry-in-everyday-life",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 59,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 16,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Bactericidal antibiotics among the following is",
+  "options": [
+   "Ofloxacin",
+   "Erythromycin",
+   "Tetracycline",
+   "Chloramphenicol"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-chemistry-060",
+  "subject": "chemistry",
+  "chapter": "chemistry-in-everyday-life",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 60,
+   "file": "sources/pyq/2017/chemistry/2017-chemistry-question_paper-C-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Pick the correct statement among the following :",
+  "options": [
+   "Cetyl trimethyl ammonium bromide is a popular cationic detergent used in air conditioner",
+   "Non-ionic detergents is formed when polyethylene glycol reacts with adipic acid",
+   "Sodium dodecyl benzene sulphonate used in tooth paste is a cationic detergent.",
+   "Sodium lauryl sulphate forms an insoluble scum with hard water."
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ }
+]

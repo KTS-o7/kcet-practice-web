@@ -1,0 +1,360 @@
+[
+ {
+  "id": "tp-ncert-chem-11-ch13-001",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep513.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep513.pdf"
+  },
+  "stem": "Arrange the following in decreasing order of their boiling points.\n\n(A) $n$–butane\n\n(B) 2–methylbutane\n\n(C) $n$-pentane\n\n(D) 2,2–dimethylpropane",
+  "options": [
+   "A > B > C > D",
+   "B > C > D > A",
+   "D > C > B > A",
+   "C > B > D > A"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch13-002",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep513.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep513.pdf"
+  },
+  "stem": "Arrange the halogens $\\mathrm{F_2}$, $\\mathrm{Cl_2}$, $\\mathrm{Br_2}$, $\\mathrm{I_2}$, in order of their increasing reactivity with alkanes.",
+  "options": [
+   "$\\mathrm{I_2 < Br_2 < Cl_2 < F_2}$",
+   "$\\mathrm{Br_2 < Cl_2 < F_2 < I_2}$",
+   "$\\mathrm{F_2 < Cl_2 < Br_2 < I_2}$",
+   "$\\mathrm{Br_2 < I_2 < Cl_2 < F_2}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch13-003",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep513.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep513.pdf"
+  },
+  "stem": "The increasing order of reduction of alkyl halides with zinc and dilute HCl is",
+  "options": [
+   "$\\mathrm{R{-}Cl < R{-}I < R{-}Br}$",
+   "$\\mathrm{R{-}Cl < R{-}Br < R{-}I}$",
+   "$\\mathrm{R{-}I < R{-}Br < R{-}Cl}$",
+   "$\\mathrm{R{-}Br < R{-}I < R{-}Cl}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch13-004",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep513.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep513.pdf"
+  },
+  "stem": "The correct IUPAC name of the following alkane is",
+  "options": [
+   "3,6 – Diethyl – 2 – methyloctane",
+   "5 – Isopropyl – 3 – ethyloctane",
+   "3 – Ethyl – 5 – isopropyloctane",
+   "3 – Isopropyl – 6 – ethyloctane"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-ncert-chem-11-ch13-004.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch13-005",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep513.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep513.pdf"
+  },
+  "stem": "The addition of HBr to 1-butene gives a mixture of products A, B and C\n\nThe mixture consists of",
+  "options": [
+   "A and B as major and C as minor products",
+   "B as major, A and C as minor products",
+   "B as minor, A and C as major products",
+   "A and B as minor and C as major products"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-ncert-chem-11-ch13-005.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch13-006",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep513.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep513.pdf"
+  },
+  "stem": "Which of the following will not show geometrical isomerism?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-ncert-chem-11-ch13-006.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch13-007",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 7,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep513.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep513.pdf"
+  },
+  "stem": "Arrange the following hydrogen halides in order of their decreasing reactivity with propene.",
+  "options": [
+   "HCl > HBr > HI",
+   "HBr > HI > HCl",
+   "HI > HBr > HCl",
+   "HCl > HI > HBr"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch13-008",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 8,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep513.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep513.pdf"
+  },
+  "stem": "Arrange the following carbanions in order of their decreasing stability.\n\n(A) $\\mathrm{H_3C{-}C{\\equiv}C^{-}}$\n\n(B) $\\mathrm{H{-}C{\\equiv}C^{-}}$\n\n(C) $\\mathrm{H_3C{-}\\overline{C}H_2}$",
+  "options": [
+   "A > B > C",
+   "B > A > C",
+   "C > B > A",
+   "C > A > B"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch13-009",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 9,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep513.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep513.pdf"
+  },
+  "stem": "Arrange the following alkyl halides in decreasing order of the rate of $\\beta$– elimination reaction with alcoholic KOH.\n\n(A) $\\mathrm{(CH_3)_2CH{-}CH_2Br}$\n\n(B) $\\mathrm{CH_3{-}CH_2{-}Br}$\n\n(C) $\\mathrm{CH_3{-}CH_2{-}CH_2{-}Br}$",
+  "options": [
+   "A > B > C",
+   "C > B > A",
+   "B > C > A",
+   "A > C > B"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-ncert-chem-11-ch13-009.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "key_confirmed",
+   "notes": "Transcription matches image; A > C > B by alkene stability (isobutene > propene > ethene); key iv agrees."
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch13-010",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 10,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep513.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep513.pdf"
+  },
+  "stem": "Which of the following reactions of methane is incomplete combustion:",
+  "options": [
+   "$\\mathrm{2CH_4 + O_2 \\xrightarrow{Cu/523\\,K/100\\,atm} 2CH_3OH}$",
+   "$\\mathrm{CH_4 + O_2 \\xrightarrow{Mo_2O_3} HCHO + H_2O}$",
+   "$\\mathrm{CH_4 + O_2 \\longrightarrow C(s) + 2H_2O\\,(l)}$",
+   "$\\mathrm{CH_4 + 2O_2 \\longrightarrow CO_2\\,(g) + 2H_2O\\,(l)}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

@@ -1,0 +1,2119 @@
+[
+ {
+  "id": "pyq-2017-physics-001",
+  "subject": "physics",
+  "chapter": "units-and-measurement",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 1,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A substance of mass 49.53 g occupies 1.5 $\\mathrm{cm^3}$ of volume. The density of the substance (in $\\mathrm{g\\,cm^{-3}}$) with correct number of significant figures is",
+  "options": [
+   "3.302",
+   "3.300",
+   "3.3",
+   "3.30"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2017-physics-002",
+  "subject": "physics",
+  "chapter": "motion-in-a-straight-line",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 2,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A car moving with a velocity of 20 $\\mathrm{m\\,s^{-1}}$ is stopped in a distance of 40 m. If the same car is travelling at double the velocity, the distance travelled by it for same retardation is",
+  "options": [
+   "640 m",
+   "320 m",
+   "1280 m",
+   "160 m"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-003",
+  "subject": "physics",
+  "chapter": "motion-in-a-plane",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 3,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The angle between velocity and acceleration of a particle describing uniform circular motion is",
+  "options": [
+   "$45^\\circ$",
+   "$60^\\circ$",
+   "$90^\\circ$",
+   "$180^\\circ$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-004",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 4,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "If $\\vec{A} = 2\\hat{i} + 3\\hat{j} + 8\\hat{k}$ is perpendicular to $\\vec{B} = 4\\hat{j} - 4\\hat{i} + \\alpha\\hat{k}$, then the value of ‘$\\alpha$’ is",
+  "options": [
+   "$\\frac{1}{2}$",
+   "$-\\frac{1}{2}$",
+   "$1$",
+   "$-1$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-005",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 5,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A body of mass 50 kg. is suspended using a spring balance inside a lift at rest. If the lift starts falling freely, the reading of the spring balance is",
+  "options": [
+   "$= 50\\,\\mathrm{kg}$",
+   "$> 50\\,\\mathrm{kg}$",
+   "$< 50\\,\\mathrm{kg}$",
+   "$= 0$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-006",
+  "subject": "physics",
+  "chapter": "work-energy-and-power",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 6,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A motor pump lifts 6 tonnes of water from a well of depth 25 m to the first floor of height 35 m from the ground floor in 20 minutes. The power of the pump (in kW) is $[g = 10\\,\\mathrm{m\\,s^{-2}}]$",
+  "options": [
+   "3",
+   "6",
+   "1.5",
+   "12"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-007",
+  "subject": "physics",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 7,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Two balls are thrown simultaneously in air. The acceleration of the centre of mass of the two balls when in air,",
+  "options": [
+   "depends on the masses of the two balls",
+   "depends on the speeds of the two balls",
+   "is equal to g (Acceleration due to gravity)",
+   "depends on the direction of motion of the two balls."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-008",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 8,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The value of acceleration due to gravity at a depth of 1600 km is equal to [Radius of earth = 6400 km]",
+  "options": [
+   "$9.8\\,\\mathrm{m\\,s^{-2}}$",
+   "$4.9\\,\\mathrm{m\\,s^{-2}}$",
+   "$19.6\\,\\mathrm{m\\,s^{-2}}$",
+   "$7.35\\,\\mathrm{m\\,s^{-2}}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-009",
+  "subject": "physics",
+  "chapter": "mechanical-properties-of-solids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 9,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "‘Young’s modulus’ is defined as the ratio of",
+  "options": [
+   "tensile stress and longitudinal strain",
+   "hydraulic stress and hydraulic strain",
+   "shearing stress and shearing strain",
+   "bulk stress and longitudinal strain"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-010",
+  "subject": "physics",
+  "chapter": "mechanical-properties-of-fluids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 10,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "‘Hydraulic lift’ works on the basis of",
+  "options": [
+   "Stoke’s law",
+   "Toricelli’s law",
+   "Pascal’s Law",
+   "Bernoulli’s Law"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-011",
+  "subject": "physics",
+  "chapter": "thermal-properties-of-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 11,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The S.I. unit of specific heat capacity is",
+  "options": [
+   "$\\mathrm{J\\,mol^{-1}\\,K^{-1}}$",
+   "$\\mathrm{J\\,kg^{-1}\\,K^{-1}}$",
+   "$\\mathrm{J\\,K^{-1}}$",
+   "$\\mathrm{J\\,kg^{-1}}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-012",
+  "subject": "physics",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 12,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "For which combination of working temperatures, the efficiency of ‘Carnot’s engine’ is the least ?",
+  "options": [
+   "60 K, 40 K",
+   "40 K, 20 K",
+   "80 K, 60 K",
+   "100 K, 80 K"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-013",
+  "subject": "physics",
+  "chapter": "kinetic-theory",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 13,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The mean energy of a molecule of an ideal gas is",
+  "options": [
+   "$2\\,KT$",
+   "$\\frac{3}{2}\\,KT$",
+   "$KT$",
+   "$\\frac{1}{2}\\,KT$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-014",
+  "subject": "physics",
+  "chapter": "oscillations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 14,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Two simple pendulums A and B are made to oscillate simultaneously and it is found that A completes 10 oscillations in 20 sec and B completes 8 oscillations in 10 sec. The ratio of the lengths of A and B is",
+  "options": [
+   "$\\frac{8}{5}$",
+   "$\\frac{64}{25}$",
+   "$\\frac{5}{4}$",
+   "$\\frac{25}{64}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-015",
+  "subject": "physics",
+  "chapter": "waves",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 15,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The waves set up in a closed pipe are",
+  "options": [
+   "Transverse and Progressive",
+   "Longitudinal and Stationary",
+   "Transverse and Stationary",
+   "Longitudinal and Progressive"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-016",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 16,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Two spheres of electric charges $+2\\,\\mathrm{nC}$ and $-8\\,\\mathrm{nC}$ are placed at a distance ‘d’ apart. If they are allowed to touch each other, what is the new distance between them to get a repulsive force of same magnitude as before?",
+  "options": [
+   "$\\frac{4d}{3}$",
+   "$\\frac{3d}{4}$",
+   "$d$",
+   "$\\frac{d}{2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-017",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 17,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Three point charges of $+2q$, $+2q$ and $-4q$ are placed at the corners A, B and C of an equilateral triangle ABC of side ‘$x$’. The magnitude of the electric dipole moment of this system is",
+  "options": [
+   "$2qx$",
+   "$2\\sqrt{3}\\,qx$",
+   "$3\\sqrt{2}\\,qx$",
+   "$3qx$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-018",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 18,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "$4 \\times 10^{10}$ electrons are removed from a neutral metal sphere of diameter 20 cm placed in air. The magnitude of the electric field (in $\\mathrm{NC^{-1}}$) at a distance of 20 cm from its center is",
+  "options": [
+   "5760",
+   "1440",
+   "640",
+   "Zero"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-019",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 19,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Two point charges $A = +3\\,\\mathrm{nC}$ and $B = +1\\,\\mathrm{nC}$ are placed 5 cm apart in air. The work done to move charge B towards A by 1 cm is",
+  "options": [
+   "$1.35 \\times 10^{-7}\\,\\mathrm{J}$",
+   "$2.7 \\times 10^{-7}\\,\\mathrm{J}$",
+   "$2.0 \\times 10^{-7}\\,\\mathrm{J}$",
+   "$12.1 \\times 10^{-7}\\,\\mathrm{J}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-020",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 20,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A system of 2 capacitors of capacitance $2\\,\\mu\\mathrm{F}$ and $4\\,\\mu\\mathrm{F}$ is connected in series across a potential difference of $6\\,\\mathrm{V}$. The electric charge and energy stored in the system are",
+  "options": [
+   "$10\\,\\mu\\mathrm{C}$ and $30\\,\\mu\\mathrm{J}$",
+   "$36\\,\\mu\\mathrm{C}$ and $108\\,\\mu\\mathrm{J}$",
+   "$8\\,\\mu\\mathrm{C}$ and $24\\,\\mu\\mathrm{J}$",
+   "$1\\,\\mu\\mathrm{C}$ and $3\\,\\mu\\mathrm{J}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-021",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 21,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The minimum value of effective capacitance that can be obtained by combining 3 capacitors of capacitances 1 pF, 2 pF and 4 pF is",
+  "options": [
+   "$\\frac{4}{7}\\,\\mathrm{pF}$",
+   "$1\\,\\mathrm{pF}$",
+   "$\\frac{7}{4}\\,\\mathrm{pF}$",
+   "$2\\,\\mathrm{pF}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-022",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 22,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A cylindrical conductor of diameter 0.1 mm carries a current of 90 mA. The current density (in $\\mathrm{Am^{-2}}$) is $(\\pi \\simeq 3)$",
+  "options": [
+   "$1.2 \\times 10^{7}$",
+   "$2.4 \\times 10^{7}$",
+   "$3 \\times 10^{6}$",
+   "$6 \\times 10^{6}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-023",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 23,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A piece of copper is to be shaped into a conducting wire of maximum resistance. The suitable length and diameter are _______ and _______ respectively.",
+  "options": [
+   "$L$ and $d$",
+   "$2L$ and $d$",
+   "$\\frac{L}{2}$ and $2d$",
+   "$2L$ and $\\frac{d}{2}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-024",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 24,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Of the following graphs, the one that correctly represents the I-V. characteristics of a ‘Ohmic device’ is",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2017-physics-024.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-025",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 25,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The value of I in the figure shown below is",
+  "options": [
+   "$8\\,\\mathrm{A}$",
+   "$21\\,\\mathrm{A}$",
+   "$19\\,\\mathrm{A}$",
+   "$4\\,\\mathrm{A}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2017-physics-025.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-026",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 26,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The power dissipated in $3\\,\\Omega$ resistance in the following circuit is",
+  "options": [
+   "$0.75\\,\\mathrm{W}$",
+   "$0.25\\,\\mathrm{W}$",
+   "$1\\,\\mathrm{W}$",
+   "$0.5\\,\\mathrm{W}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2017-physics-026.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-027",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 27,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "In metre bridge experiment, with a standard resistance in the right gap and a resistance coil dipped in water (in a beaker) in the left gap, the balancing length obtained is ‘l’. If the temperature of water is increased, the new balancing length is",
+  "options": [
+   "$> l$",
+   "$< l$",
+   "$= l$",
+   "$= 0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-028",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 28,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A proton, a deuteron and an $\\alpha$ - particle are projected perpendicular to the direction of a uniform magnetic field with same kinetic energy. The ratio of the radii of the circular paths described by them is",
+  "options": [
+   "$1:\\sqrt{2}:1$",
+   "$1:\\sqrt{2}:\\sqrt{2}$",
+   "$\\sqrt{2}:1:1$",
+   "$\\sqrt{2}:\\sqrt{2}:1$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-029",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 29,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A galvanometer of resistance $50\\,\\Omega$ is connected to a battery of 3V along with a resistance of $2950\\,\\Omega$ in series shows full-scale deflection of 30 divisions. The additional series resistance required to reduce the deflection to 20 divisions is",
+  "options": [
+   "$1500\\,\\Omega$",
+   "$4440\\,\\Omega$",
+   "$7400\\,\\Omega$",
+   "$2950\\,\\Omega$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-030",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 30,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The magnetic field at the center of a current carrying loop of radius 0.1 m is $5\\sqrt{5}$ times that at a point along its axis. The distance of this point from the centre of the loop is",
+  "options": [
+   "0.2 m",
+   "0.1 m",
+   "0.05 m",
+   "0.25 m"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-031",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 31,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A straight wire of length 50 cm carrying a current of 2.5 A is suspended in mid-air by a uniform magnetic field of 0.5 T (as shown in figure). The mass of the wire is $(g = 10\\,\\mathrm{m\\,s^{-2}})$",
+  "options": [
+   "62.5 gm",
+   "250 gm",
+   "125 gm",
+   "100 gm"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2017-physics-031.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-032",
+  "subject": "physics",
+  "chapter": "magnetism-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 32,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Which of the following properties is ‘False’ for a bar magnet ?",
+  "options": [
+   "Its poles cannot be separated.",
+   "It points in North-South direction when suspended.",
+   "Its like poles repel and unlike poles attract.",
+   "It doesn’t produce magnetic field."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-033",
+  "subject": "physics",
+  "chapter": "magnetism-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 33,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A magnetic dipole of magnetic moment $6 \\times 10^{-2}\\,\\mathrm{Am^2}$ and moment of inertia $12 \\times 10^{-6}\\,\\mathrm{kg\\,m^2}$ performs oscillations in a magnetic field of $2 \\times 10^{-2}\\,\\mathrm{T}$. The time taken by the dipole to complete 20 oscillations is $(\\pi \\simeq 3)$",
+  "options": [
+   "36 s",
+   "6 s",
+   "12 s",
+   "18 s"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-034",
+  "subject": "physics",
+  "chapter": "magnetism-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 34,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The susceptibility of a ferromagnetic substance is",
+  "options": [
+   "$\\gg 1$",
+   "$> 1$",
+   "$< 1$",
+   "Zero"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-035",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 35,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A bar magnet is allowed to fall vertically through a copper coil placed in a horizontal plane. The magnet falls with a net acceleration",
+  "options": [
+   "$= g$",
+   "$> g$",
+   "$< g$",
+   "Zero"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2017-physics-035.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-036",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 36,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The working of magnetic braking of trains is based on",
+  "options": [
+   "Alternating current",
+   "Eddy current",
+   "Steady current",
+   "Pulsating current"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-037",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 37,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A jet plane of wing span 20 m is travelling towards west at a speed of $400\\,\\mathrm{m\\,s^{-1}}$. If the earth’s total magnetic field is $4 \\times 10^{-4}\\,\\mathrm{T}$ and the dip angle is $30^\\circ$, at that place, the voltage difference developed across the ends of the wing is",
+  "options": [
+   "1.6 V",
+   "3.2 V",
+   "0.8 V",
+   "6.4 V"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-038",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 38,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "In the A.C. circuit shown, keeping ‘K’ pressed, if an iron rod is inserted into the coil, the bulb in the circuit,",
+  "options": [
+   "glows more brightly",
+   "glows less brightly",
+   "glows with same brightness (as before the rod is inserted)",
+   "gets damaged"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2017-physics-038.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-039",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 39,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The output of a step down transformer is measured to be 48 V when connected to a $12\\,\\mathrm{W}$ bulb. The value of peak current is",
+  "options": [
+   "$\\frac{1}{\\sqrt{2}}\\,\\mathrm{A}$",
+   "$\\sqrt{2}\\,\\mathrm{A}$",
+   "$\\frac{1}{2\\sqrt{2}}\\,\\mathrm{A}$",
+   "$\\frac{1}{4}\\,\\mathrm{A}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-040",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 40,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A coil of inductive reactance $1/\\sqrt{3}\\,\\Omega$ and resistance $1\\,\\Omega$ is connected to a 200 V, 50 Hz A.C. supply. The time lag between maximum voltage and current is",
+  "options": [
+   "$\\frac{1}{300}\\,\\mathrm{s}$",
+   "$\\frac{1}{600}\\,\\mathrm{s}$",
+   "$\\frac{1}{500}\\,\\mathrm{s}$",
+   "$\\frac{1}{200}\\,\\mathrm{s}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-041",
+  "subject": "physics",
+  "chapter": "electromagnetic-waves",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 41,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "If $\\vec{E}$ and $\\vec{B}$ represent electric and magnetic field vectors of an electromagnetic wave, the direction of propagation of the wave is along",
+  "options": [
+   "$\\vec{E}$",
+   "$\\vec{B}$",
+   "$\\vec{E} \\times \\vec{B}$",
+   "$\\vec{B} \\times \\vec{E}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-042",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 42,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "According to Cartesian sign convention, in ray optics",
+  "options": [
+   "all distances are taken positive",
+   "all distances are taken negative",
+   "all distances in the direction of incident ray are taken positive",
+   "all distances in the direction of incident ray are taken negative"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-043",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 43,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A linear object of height 10 cm is kept in front of a concave mirror of radius of curvature 15 cm, at a distance of 10 cm. The image formed is",
+  "options": [
+   "magnified and erect",
+   "magnified and inverted",
+   "diminished and erect",
+   "diminished and inverted"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-044",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 44,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "During scattering of light, the amount of scattering is inversely proportional to _______ of wavelength of light.",
+  "options": [
+   "cube",
+   "square",
+   "fourth power",
+   "half"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-045",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 45,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "In Young’s double-slit experiment if yellow light is replaced by blue light, the interference fringes become",
+  "options": [
+   "wider",
+   "narrower",
+   "brighter",
+   "darker"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-046",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 46,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "According to Huygens’ principle, during refraction of light from air to a denser medium",
+  "options": [
+   "Wavelength and speed decrease",
+   "Wavelength and speed increase",
+   "Wavelength increases but speed decreases",
+   "Wavelength decreases but speed increases"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-047",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 47,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "In a system of two crossed polarisers, it is found that the intensity of light from the second polariser is half from that of first polariser. The angle between their pass axes is",
+  "options": [
+   "$45^\\circ$",
+   "$60^\\circ$",
+   "$30^\\circ$",
+   "$0^\\circ$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-048",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 48,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "From the following graph of photo current against collector plate potential, for two different intensities of light $I_1$ and $I_2$, one can conclude",
+  "options": [
+   "$I_1 = I_2$",
+   "$I_1 > I_2$",
+   "$I_1 < I_2$",
+   "Comparison is not possible."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2017-physics-048.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-049",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 49,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A particle is dropped from a height ‘H’. The de’Broglie wavelength of the particle depends on height as",
+  "options": [
+   "$H$",
+   "$H^{0}$",
+   "$H^{1/2}$",
+   "$H^{-1/2}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-050",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 50,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The scientist who is credited with the discovery of ‘nucleus’ in an atom is",
+  "options": [
+   "J.J. Thomson",
+   "Rutherford",
+   "Niels Bohr",
+   "Balmer"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-051",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 51,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The energy (in eV) required to excite an electron from n = 2 to n = 4 state in hydrogen atom is",
+  "options": [
+   "$+2.55$",
+   "$-3.4$",
+   "$-0.85$",
+   "$+4.25$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-052",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 52,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "In a nuclear reactor the function of the Moderator is to decrease",
+  "options": [
+   "number of neutrons",
+   "speed of neutrons",
+   "escape of neutrons",
+   "temperature of the reactor"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-053",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 53,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The particles emitted in the decay of $^{238}_{92}\\mathrm{U}$ to $^{234}_{92}\\mathrm{U}$",
+  "options": [
+   "$1\\,\\alpha$ and $2\\,\\beta$",
+   "$1\\,\\alpha$ only",
+   "$1\\,\\alpha$ and $1\\,\\beta$",
+   "$2\\,\\alpha$ and $2\\,\\beta$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "key_confirmed",
+   "notes": "Transcription matches page 14; 238->234 is one alpha, two beta- restores Z=92; key A agrees."
+  }
+ },
+ {
+  "id": "pyq-2017-physics-054",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 54,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The mass defect of $^{4}_{2}\\mathrm{He}$ is 0.03 u. The binding energy per nucleon of helium (in MeV) is",
+  "options": [
+   "27.93",
+   "6.9825",
+   "2.793",
+   "69.825"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-055",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 55,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The energy gap in case of which of the following is less than 3 eV ?",
+  "options": [
+   "Copper",
+   "Iron",
+   "Aluminium",
+   "Germanium"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-056",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 56,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Which of the following semi-conducting devices is used as voltage regulator ?",
+  "options": [
+   "Photo diode",
+   "LASER diode",
+   "Zener diode",
+   "Solar cell"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-057",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 57,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "In the three parts of a transistor, ‘Emitter’ is of",
+  "options": [
+   "moderate size and heavily doped",
+   "large size and lightly doped",
+   "thin size and heavily doped",
+   "large size and moderately doped"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-058",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 58,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "In the figure shown, if the diode forward voltage drop is 0.2 V, the voltage difference between A and B is",
+  "options": [
+   "1.3 V",
+   "2.2 V",
+   "0",
+   "0.5 V"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2017-physics-058.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-059",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 59,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Which of the following logic gates is considered as ‘universal’ ?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2017-physics-059.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2017-physics-060",
+  "subject": "physics",
+  "chapter": "communication-systems",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2017",
+   "year": 2017,
+   "version": "C",
+   "number": 60,
+   "file": "sources/pyq/2017/physics/2017-physics-question_paper-C-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2017/physics/2017-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A basic communication system consists of\n\n(a) Transmitter\n\n(b) Information source\n\n(c) User of information\n\n(d) Channel\n\n(e) Receiver\n\nThe correct sequence of the arrangement is",
+  "options": [
+   "a, b, c, d and e",
+   "b, a, d, e and c",
+   "b, d, a, c and e",
+   "b, e, a, d and c"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

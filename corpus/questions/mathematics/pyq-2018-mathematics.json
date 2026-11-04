@@ -1,0 +1,2104 @@
+[
+ {
+  "id": "pyq-2018-mathematics-001",
+  "subject": "mathematics",
+  "chapter": "linear-inequalities",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 1,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $|x + 5| \\geq 10$ then",
+  "options": [
+   "$x \\in (-15, 5]$",
+   "$x \\in (-5, 5]$",
+   "$x \\in (-\\infty, -15] \\cup [5, \\infty)$",
+   "$x \\in [-\\infty, -15] \\cup [5, \\infty)$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-002",
+  "subject": "mathematics",
+  "chapter": "permutations-and-combinations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 2,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Everybody in a room shakes hands with everybody else. The total number of handshakes is 45. The total number of persons in the room is",
+  "options": [
+   "9",
+   "10",
+   "5",
+   "15"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-003",
+  "subject": "mathematics",
+  "chapter": "binomial-theorem",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 3,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The constant term in the expansion of $\\left(x^2 - \\frac{1}{x^2}\\right)^{16}$ is",
+  "options": [
+   "${}^{16}C_8$",
+   "${}^{16}C_7$",
+   "${}^{16}C_9$",
+   "${}^{16}C_{10}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-004",
+  "subject": "mathematics",
+  "chapter": "principle-of-mathematical-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 4,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If P(n) : \"$2^{2n} - 1$ is divisible by k for all $n \\in N$\" is true, then the value of 'k' is",
+  "options": [
+   "6",
+   "3",
+   "7",
+   "2"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-005",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 5,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The equation of the line parallel to the line $3x - 4y + 2 = 0$ and passing through $(-2, 3)$ is",
+  "options": [
+   "$3x - 4y + 18 = 0$",
+   "$3x - 4y - 18 = 0$",
+   "$3x + 4y + 18 = 0$",
+   "$3x + 4y - 18 = 0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-006",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 6,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $\\left(\\frac{1 - i}{1 + i}\\right)^{96} = a + ib$, then $(a, b)$ is",
+  "options": [
+   "$(1, 1)$",
+   "$(1, 0)$",
+   "$(0, 1)$",
+   "$(0, -1)$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-007",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 7,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The distance between the foci of a hyperbola is 16 and its eccentricity is $\\sqrt{2}$. Its equation is",
+  "options": [
+   "$x^2 - y^2 = 32$",
+   "$\\frac{x^2}{4} - \\frac{y^2}{9} = 1$",
+   "$2x^2 - 3y^2 = 7$",
+   "$y^2 - x^2 = 32$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0,
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-008",
+  "subject": "mathematics",
+  "chapter": "permutations-and-combinations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 8,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The number of ways in which 5 girls and 3 boys can be seated in a row so that no two boys are together is",
+  "options": [
+   "14040",
+   "14440",
+   "14000",
+   "14400"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-009",
+  "subject": "mathematics",
+  "chapter": "sequences-and-series",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 9,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $a$, $b$, $c$ are three consecutive terms of an AP and $x$, $y$, $z$ are three consecutive terms of a GP, then the value of $x^{b-c} \\cdot y^{c-a} \\cdot z^{a-b}$ is",
+  "options": [
+   "0",
+   "$xyz$",
+   "$-1$",
+   "1"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-010",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 10,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The value of $\\lim_{x \\to 0} \\frac{|x|}{x}$ is",
+  "options": [
+   "1",
+   "$-1$",
+   "0",
+   "Does not exist"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-011",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 11,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Let $f(x) = x - \\frac{1}{x}$ then $f'(-1)$ is",
+  "options": [
+   "0",
+   "2",
+   "1",
+   "$-2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-012",
+  "subject": "mathematics",
+  "chapter": "mathematical-reasoning",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 12,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The negation of the statement \"72 is divisible by 2 and 3\" is",
+  "options": [
+   "72 is not divisible by 2 or 72 is not divisible by 3",
+   "72 is divisible by 2 or 72 is divisible by 3",
+   "72 is divisible by 2 and 72 is divisible by 3",
+   "72 is not divisible by 2 and 3"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-013",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 13,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The probability of happening of an event A is 0.5 and that of B is 0.3. If A and B are mutually exclusive events, then the probability of neither A nor B is",
+  "options": [
+   "0.4",
+   "0.5",
+   "0.2",
+   "0.9"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-014",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 14,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "In a simultaneous throw of a pair of dice, the probability of getting a total more than 7 is",
+  "options": [
+   "$\\frac{7}{12}$",
+   "$\\frac{5}{36}$",
+   "$\\frac{5}{12}$",
+   "$\\frac{7}{36}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-015",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 15,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If A and B are mutually exclusive events, given that $P(A) = \\frac{3}{5}$, $P(B) = \\frac{1}{5}$, then P(A or B) is",
+  "options": [
+   "0.8",
+   "0.6",
+   "0.4",
+   "0.2"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-016",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 16,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Let $f, g : R \\to R$ be two functions defined as $f(x) = |x| + x$ and $g(x) = |x| - x \\; \\forall x \\in R$. Then $(fog)(x)$ for $x < 0$ is",
+  "options": [
+   "0",
+   "$4x$",
+   "$-4x$",
+   "$2x$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-017",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 17,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A is a set having 6 distinct elements. The number of distinct functions from A to A which are not bijections is",
+  "options": [
+   "$6! - 6$",
+   "$6^6 - 6$",
+   "$6^6 - 6!$",
+   "$6!$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-018",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 18,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Let $f : R \\to R$ be defined by $f(x) = \\begin{cases} 2x & ; \\ x > 3 \\\\ x^2 & ; \\ 1 < x \\leq 3 \\\\ 3x & ; \\ x \\leq 1 \\end{cases}$ Then $f(-1) + f(2) + f(4)$ is",
+  "options": [
+   "9",
+   "14",
+   "5",
+   "10"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-019",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 19,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $\\sin^{-1} x + \\cos^{-1} y = \\frac{2\\pi}{5}$, then $\\cos^{-1} x + \\sin^{-1} y$ is",
+  "options": [
+   "$\\frac{2\\pi}{5}$",
+   "$\\frac{3\\pi}{5}$",
+   "$\\frac{4\\pi}{5}$",
+   "$\\frac{3\\pi}{10}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-020",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 20,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The value of the expression $\\tan\\left(\\frac{1}{2}\\cos^{-1}\\frac{2}{\\sqrt{5}}\\right)$ is",
+  "options": [
+   "$2 - \\sqrt{5}$",
+   "$\\sqrt{5} - 2$",
+   "$\\frac{\\sqrt{5} - 2}{2}$",
+   "$5 - \\sqrt{2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-021",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 21,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $A = \\begin{bmatrix} 2 & -2 \\\\ -2 & 2 \\end{bmatrix}$, then $A^n = 2^k A$, where $k =$",
+  "options": [
+   "$2^{n-1}$",
+   "$n + 1$",
+   "$n - 1$",
+   "$2(n - 1)$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-022",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 22,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $\\begin{bmatrix} 1 & 1 \\\\ -1 & 1 \\end{bmatrix} \\begin{bmatrix} x \\\\ y \\end{bmatrix} = \\begin{bmatrix} 2 \\\\ 4 \\end{bmatrix}$, then the values of x and y respectively are",
+  "options": [
+   "$-3, -1$",
+   "$1, 3$",
+   "$3, 1$",
+   "$-1, 3$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-023",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 23,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $A = \\begin{bmatrix} \\cos \\alpha & \\sin \\alpha \\\\ -\\sin \\alpha & \\cos \\alpha \\end{bmatrix}$, then $AA' =$",
+  "options": [
+   "$A$",
+   "Zero matrix",
+   "$A'$",
+   "$I$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-024",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 24,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $x, y, z \\in R$, then the value of determinant $\\begin{vmatrix} (5^x + 5^{-x})^2 & (5^x - 5^{-x})^2 & 1 \\\\ (6^x + 6^{-x})^2 & (6^x - 6^{-x})^2 & 1 \\\\ (7^x + 7^{-x})^2 & (7^x - 7^{-x})^2 & 1 \\end{vmatrix}$ is",
+  "options": [
+   "10",
+   "12",
+   "1",
+   "0"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-025",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 25,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The value of determinant $\\begin{vmatrix} a - b & b + c & a \\\\ b - a & c + a & b \\\\ c - a & a + b & c \\end{vmatrix}$ is",
+  "options": [
+   "$a^3 + b^3 + c^3$",
+   "$3abc$",
+   "$a^3 + b^3 + c^3 - 3abc$",
+   "$a^3 + b^3 + c^3 + 3abc$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-026",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 26,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $(x_1, y_1)$, $(x_2, y_2)$ and $(x_3, y_3)$ are the vertices of a triangle whose area is $k$ square units, then $\\begin{vmatrix} x_1 & y_1 & 4 \\\\ x_2 & y_2 & 4 \\\\ x_3 & y_3 & 4 \\end{vmatrix}^2$ is",
+  "options": [
+   "$32k^2$",
+   "$16k^2$",
+   "$64k^2$",
+   "$48k^2$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-027",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 27,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Let A be a square matrix of order $3 \\times 3$, then $|5A| =$",
+  "options": [
+   "$5|A|$",
+   "$125|A|$",
+   "$25|A|$",
+   "$15|A|$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-028",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 28,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $f(x) = \\begin{cases} \\dfrac{\\sqrt{1 + kx} - \\sqrt{1 - kx}}{x} & \\text{if } -1 \\leq x < 0 \\\\ \\dfrac{2x + 1}{x - 1} & \\text{if } 0 \\leq x \\leq 1 \\end{cases}$ is continuous at $x = 0$, then the value of $k$ is",
+  "options": [
+   "$k = 1$",
+   "$k = -1$",
+   "$k = 0$",
+   "$k = 2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-029",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 29,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $\\cos y = x \\cos (a + y)$ with $\\cos a \\neq \\pm 1$, then $\\frac{dy}{dx}$ is equal to",
+  "options": [
+   "$\\frac{\\sin a}{\\cos^2(a + y)}$",
+   "$\\frac{\\cos^2(a + y)}{\\sin a}$",
+   "$\\frac{\\cos a}{\\sin^2(a + y)}$",
+   "$\\frac{\\cos^2(a + y)}{\\cos a}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-030",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 30,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $f(x) = |\\cos x - \\sin x|$, then $f'\\left(\\frac{\\pi}{6}\\right)$ is equal to",
+  "options": [
+   "$-\\frac{1}{2}(1 + \\sqrt{3})$",
+   "$\\frac{1}{2}(1 + \\sqrt{3})$",
+   "$-\\frac{1}{2}(1 - \\sqrt{3})$",
+   "$\\frac{1}{2}(1 - \\sqrt{3})$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-031",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 31,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $y = \\sqrt{x + \\sqrt{x + \\sqrt{x + \\cdots \\infty}}}$, then $\\frac{dy}{dx} =$",
+  "options": [
+   "$\\frac{1}{y^2 - 1}$",
+   "$\\frac{1}{2y + 1}$",
+   "$\\frac{2y}{y^2 - 1}$",
+   "$\\frac{1}{2y - 1}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-032",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 32,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $f(x) = \\begin{cases} \\dfrac{\\log_e x}{x - 1} & ; \\ x \\neq 1 \\\\ k & ; \\ x = 1 \\end{cases}$ is continuous at $x = 1$, then the value of $k$ is",
+  "options": [
+   "$e$",
+   "1",
+   "$-1$",
+   "0"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-033",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 33,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Approximate change in the volume V of a cube of side $x$ metres caused by increasing the side by 3% is",
+  "options": [
+   "$0.09\\,x^3\\,\\mathrm{m^3}$",
+   "$0.03\\,x^3\\,\\mathrm{m^3}$",
+   "$0.06\\,x^3\\,\\mathrm{m^3}$",
+   "$0.04\\,x^3\\,\\mathrm{m^3}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-034",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 34,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The maximum value of $\\left(\\frac{1}{x}\\right)^x$ is",
+  "options": [
+   "$e$",
+   "$e^e$",
+   "$e^{1/e}$",
+   "$\\left(\\frac{1}{e}\\right)^{1/e}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-035",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 35,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "$f(x) = x^x$ has stationary point at",
+  "options": [
+   "$x = e$",
+   "$x = \\frac{1}{e}$",
+   "$x = 1$",
+   "$x = \\sqrt{e}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-036",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 36,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The maximum area of a rectangle inscribed in the circle $(x + 1)^2 + (y - 3)^2 = 64$ is",
+  "options": [
+   "64 sq. units",
+   "72 sq. units",
+   "128 sq. units",
+   "8 sq. units"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-037",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 37,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "$\\int \\frac{1}{1 + e^x}\\,dx$ is equal to",
+  "options": [
+   "$\\log_e\\left(\\frac{e^x + 1}{e^x}\\right) + c$",
+   "$\\log_e\\left(\\frac{e^x - 1}{e^x}\\right) + c$",
+   "$\\log_e\\left(\\frac{e^x}{e^x + 1}\\right) + c$",
+   "$\\log_e\\left(\\frac{e^x}{e^x - 1}\\right) + c$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-038",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 38,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "$\\int \\frac{1}{\\sqrt{3 - 6x - 9x^2}}\\,dx$ is equal to",
+  "options": [
+   "$\\sin^{-1}\\left(\\frac{3x + 1}{2}\\right) + c$",
+   "$\\sin^{-1}\\left(\\frac{3x + 1}{6}\\right) + c$",
+   "$\\frac{1}{3}\\sin^{-1}\\left(\\frac{3x + 1}{2}\\right) + c$",
+   "$\\sin^{-1}\\left(\\frac{2x + 1}{3}\\right) + c$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-039",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 39,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "$\\int e^{\\sin x} \\cdot \\left(\\frac{\\sin x + 1}{\\sec x}\\right)\\,dx$ is equal to",
+  "options": [
+   "$\\sin x \\cdot e^{\\sin x} + c$",
+   "$\\cos x \\cdot e^{\\sin x} + c$",
+   "$e^{\\sin x} + c$",
+   "$e^{\\sin x}(\\sin x + 1) + c$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-040",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 40,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "$\\int_{-2}^{2} |x \\cos \\pi x|\\,dx$ is equal to",
+  "options": [
+   "$\\frac{8}{\\pi}$",
+   "$\\frac{4}{\\pi}$",
+   "$\\frac{2}{\\pi}$",
+   "$\\frac{1}{\\pi}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-041",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 41,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 16,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "$\\int_{0}^{1} \\frac{dx}{e^x + e^{-x}}$ is equal to",
+  "options": [
+   "$\\frac{\\pi}{4} - \\tan^{-1}(e)$",
+   "$\\tan^{-1}(e) - \\frac{\\pi}{4}$",
+   "$\\tan^{-1}(e) + \\frac{\\pi}{4}$",
+   "$\\tan^{-1}(e)$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-042",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 42,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 16,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "$\\int_{0}^{1/2} \\frac{dx}{(1 + x^2)\\sqrt{1 - x^2}}$ is equal to",
+  "options": [
+   "$\\frac{1}{\\sqrt{2}}\\tan^{-1}\\sqrt{\\frac{2}{3}}$",
+   "$\\frac{2}{\\sqrt{2}}\\tan^{-1}\\left(\\frac{3}{\\sqrt{2}}\\right)$",
+   "$\\frac{\\sqrt{2}}{2}\\tan^{-1}\\left(\\frac{3}{2}\\right)$",
+   "$\\frac{\\sqrt{2}}{2}\\tan^{-1}\\left(\\frac{\\sqrt{3}}{2}\\right)$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-043",
+  "subject": "mathematics",
+  "chapter": "application-of-integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 43,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 16,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The area of the region bounded by the curve $y = \\cos x$ between $x = 0$ and $x = \\pi$ is",
+  "options": [
+   "1 sq. unit",
+   "4 sq. units",
+   "2 sq. units",
+   "3 sq. units"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-044",
+  "subject": "mathematics",
+  "chapter": "application-of-integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 44,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The area bounded by the line $y = x$, x-axis and ordinates $x = -1$ and $x = 2$ is",
+  "options": [
+   "$\\frac{3}{2}$",
+   "$\\frac{5}{2}$",
+   "2",
+   "3"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-045",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 45,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The degree and the order of the differential equation $\\frac{d^2y}{dx^2} = \\sqrt[3]{1 + \\left(\\frac{dy}{dx}\\right)^2}$ respectively are",
+  "options": [
+   "2 and 3",
+   "3 and 2",
+   "2 and 2",
+   "3 and 3"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-046",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 46,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The solution of the differential equation $x\\frac{dy}{dx} - y = 3$ represents a family of",
+  "options": [
+   "straight lines",
+   "circles",
+   "parabolas",
+   "ellipses"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-047",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 47,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 18,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The integrating factor of $\\frac{dy}{dx} + y = \\frac{1 + y}{x}$ is",
+  "options": [
+   "$xe^x$",
+   "$xe^{1/x}$",
+   "$\\frac{e^x}{x}$",
+   "$\\frac{x}{e^x}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-048",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 48,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 18,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $|\\vec{a} \\times \\vec{b}|^2 + |\\vec{a} \\cdot \\vec{b}|^2 = 144$ and $|\\vec{a}| = 4$, then the value of $|\\vec{b}|$ is",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-049",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 49,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 18,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $\\vec{a}$ and $\\vec{b}$ are mutually perpendicular unit vectors, then $(3\\vec{a} + 2\\vec{b}) \\cdot (5\\vec{a} - 6\\vec{b}) =$",
+  "options": [
+   "5",
+   "3",
+   "6",
+   "12"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-050",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 50,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 19,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If the vectors $a\\hat{i} + \\hat{j} + \\hat{k}$, $\\hat{i} + b\\hat{j} + \\hat{k}$ and $\\hat{i} + \\hat{j} + c\\hat{k}$ are coplanar ($a \\neq b \\neq c \\neq 1$), then the value of $abc - (a + b + c)$ is",
+  "options": [
+   "2",
+   "$-2$",
+   "0",
+   "$-1$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-051",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 51,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 19,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $\\vec{a} = \\hat{i} + \\lambda \\hat{j} + 2\\hat{k}$; $\\vec{b} = \\mu \\hat{i} + \\hat{j} - \\hat{k}$ are orthogonal and $|\\vec{a}| = |\\vec{b}|$, then $(\\lambda, \\mu) =$",
+  "options": [
+   "$\\left(\\frac{1}{4}, \\frac{7}{4}\\right)$",
+   "$\\left(\\frac{7}{4}, \\frac{1}{4}\\right)$",
+   "$\\left(\\frac{1}{4}, \\frac{9}{4}\\right)$",
+   "$\\left(-\\frac{1}{4}, \\frac{9}{4}\\right)$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-052",
+  "subject": "mathematics",
+  "chapter": "three-dimensional-geometry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 52,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 20,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The image of the point $(1, 6, 3)$ in the line $\\frac{x}{1} = \\frac{y - 1}{2} = \\frac{z - 2}{3}$ is",
+  "options": [
+   "$(1, 0, 7)$",
+   "$(7, 0, 1)$",
+   "$(2, 7, 0)$",
+   "$(-1, -6, -3)$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-053",
+  "subject": "mathematics",
+  "chapter": "three-dimensional-geometry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 53,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 20,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The angle between the lines $2x = 3y = -z$ and $6x = -y = -4z$ is",
+  "options": [
+   "$0^\\circ$",
+   "$45^\\circ$",
+   "$90^\\circ$",
+   "$30^\\circ$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-054",
+  "subject": "mathematics",
+  "chapter": "three-dimensional-geometry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 54,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 20,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The value of $k$ such that the line $\\frac{x - 4}{1} = \\frac{y - 2}{1} = \\frac{z - k}{2}$ lies on the plane $2x - 4y + z = 7$ is",
+  "options": [
+   "$-7$",
+   "4",
+   "$-4$",
+   "7"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-055",
+  "subject": "mathematics",
+  "chapter": "three-dimensional-geometry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 55,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 21,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The locus represented by $xy + yz = 0$ is",
+  "options": [
+   "a pair of perpendicular lines",
+   "a pair of parallel lines",
+   "a pair of parallel planes",
+   "a pair of perpendicular planes"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-056",
+  "subject": "mathematics",
+  "chapter": "linear-programming",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 56,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 21,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The feasible region of an LPP is shown in the figure. If $z = 3x + 9y$, then the minimum value of $z$ occurs at",
+  "options": [
+   "$(5, 5)$",
+   "$(0, 10)$",
+   "$(0, 20)$",
+   "$(15, 15)$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2018-mathematics-056.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-057",
+  "subject": "mathematics",
+  "chapter": "linear-programming",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 57,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 22,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "For the LPP; maximise $z = x + 4y$ subject to the constraints $x + 2y \\leq 2$, $x + 2y \\geq 8$, $x, y \\geq 0$",
+  "options": [
+   "$z_{\\max} = 4$",
+   "$z_{\\max} = 8$",
+   "$z_{\\max} = 16$",
+   "Has no feasible solution"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-058",
+  "subject": "mathematics",
+  "chapter": "statistics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 58,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 22,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "For the probability distribution given by\n\n| $X = x_i$ | 0 | 1 | 2 |\n|---|---|---|---|\n| $P_i$ | $\\frac{25}{36}$ | $\\frac{5}{18}$ | $\\frac{1}{36}$ |\n\nthe standard deviation ($\\sigma$) is",
+  "options": [
+   "$\\sqrt{\\frac{1}{3}}$",
+   "$\\frac{1}{3}\\sqrt{\\frac{5}{2}}$",
+   "$\\sqrt{\\frac{5}{36}}$",
+   "None of the above"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-059",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 59,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 23,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A bag contains 17 tickets numbered from 1 to 17. A ticket is drawn at random, then another ticket is drawn without replacing the first one. The probability that both the tickets may show even numbers is",
+  "options": [
+   "$\\frac{7}{34}$",
+   "$\\frac{8}{17}$",
+   "$\\frac{7}{16}$",
+   "$\\frac{7}{17}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-mathematics-060",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 60,
+   "file": "sources/pyq/2018/mathematics/2018-mathematics-question_paper-A-aglasem.pdf",
+   "page": 23,
+   "key_file": "sources/pyq/2018/mathematics/2018-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A flashlight has 10 batteries out of which 4 are dead. If 3 batteries are selected without replacement and tested, then the probability that all 3 are dead is",
+  "options": [
+   "$\\frac{1}{30}$",
+   "$\\frac{2}{8}$",
+   "$\\frac{1}{15}$",
+   "$\\frac{1}{10}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

@@ -1,0 +1,2119 @@
+[
+ {
+  "id": "pyq-2018-physics-001",
+  "subject": "physics",
+  "chapter": "motion-in-a-straight-line",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 1,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A particle shows distance-time curve as shown in the figure. The maximum instantaneous velocity of the particle is around the point",
+  "options": [
+   "P",
+   "S",
+   "R",
+   "Q"
+  ],
+  "answer": 0,
+  "accepted": [
+   0,
+   2
+  ],
+  "images": [
+   "pyq-2018-physics-001.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-002",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 2,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Which of the following graphs correctly represents the variation of $g$ on the Earth ?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2018-physics-002.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-003",
+  "subject": "physics",
+  "chapter": "thermal-properties-of-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 3,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A cup of tea cools from $65.5^\\circ\\mathrm{C}$ to $62.5^\\circ\\mathrm{C}$ in 1 minute in a room at $22.5^\\circ\\mathrm{C}$. How long will it take to cool from $46.5^\\circ\\mathrm{C}$ to $40.5^\\circ\\mathrm{C}$ in the same room?",
+  "options": [
+   "4 minutes",
+   "2 minutes",
+   "1 minute",
+   "3 minutes"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-004",
+  "subject": "physics",
+  "chapter": "units-and-measurement",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 4,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The dimensions of the ratio of magnetic flux ($\\phi$) and permeability ($\\mu$) are",
+  "options": [
+   "$[M^{0} L^{1} T^{0} A^{1}]$",
+   "$[M^{0} L^{-3} T^{0} A^{1}]$",
+   "$[M^{0} L^{1} T^{1} A^{-1}]$",
+   "$[M^{0} L^{2} T^{0} A^{1}]$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-005",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 5,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A mass '$m$' on the surface of the Earth is shifted to a target equal to the radius of the Earth. If '$R$' is the radius and '$M$' is the mass of the Earth, then work done in this process is",
+  "options": [
+   "$\\frac{mgR}{2}$",
+   "$mgR$",
+   "$2\\,mgR$",
+   "$\\frac{mgR}{4}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-006",
+  "subject": "physics",
+  "chapter": "waves",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 6,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "First overtone frequency of a closed pipe of length '$l_1$' is equal to the $2^{\\text{nd}}$ harmonic frequency of an open pipe of length '$l_2$'. The ratio $\\frac{l_1}{l_2}$ =",
+  "options": [
+   "$\\frac{3}{4}$",
+   "$\\frac{4}{3}$",
+   "$\\frac{3}{2}$",
+   "$\\frac{2}{3}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-007",
+  "subject": "physics",
+  "chapter": "units-and-measurement",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 7,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The resistance $R = \\frac{V}{I}$ where $V = (100 \\pm 5)\\,\\mathrm{V}$ and $I = (10 \\pm 0.2)\\,\\mathrm{A}$. The percentage error in R is",
+  "options": [
+   "5.2%",
+   "4.8%",
+   "7%",
+   "3%"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-008",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 8,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A block rests on a rough inclined plane making an angle of $30^\\circ$ with the horizontal. The coefficient of static friction between the block and the plane is $0.8$. If the frictional force on the block is $10\\,\\mathrm{N}$, the mass of the block is ($g = 10\\,\\mathrm{m\\,s^{-2}}$)",
+  "options": [
+   "$1\\,\\mathrm{kg}$",
+   "$2\\,\\mathrm{kg}$",
+   "$3\\,\\mathrm{kg}$",
+   "$4\\,\\mathrm{kg}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-009",
+  "subject": "physics",
+  "chapter": "work-energy-and-power",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 9,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Two particles of masses $m_1$ and $m_2$ have equal kinetic energies. The ratio of their momenta is",
+  "options": [
+   "$m_1 : m_2$",
+   "$m_2 : m_1$",
+   "$\\sqrt{m_1} : \\sqrt{m_2}$",
+   "$m_1^2 : m_2^2$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-010",
+  "subject": "physics",
+  "chapter": "mechanical-properties-of-fluids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 10,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The pressure at the bottom of a liquid tank is *not* proportional to the",
+  "options": [
+   "Acceleration due to gravity",
+   "Density of the liquid",
+   "Height of the liquid",
+   "Area of the liquid surface"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-011",
+  "subject": "physics",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 11,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A Carnot engine takes 300 calories of heat from a source at $500\\,\\mathrm{K}$ and rejects 150 calories of heat to the sink. The temperature of the sink is",
+  "options": [
+   "$125\\,\\mathrm{K}$",
+   "$250\\,\\mathrm{K}$",
+   "$750\\,\\mathrm{K}$",
+   "$1000\\,\\mathrm{K}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-012",
+  "subject": "physics",
+  "chapter": "kinetic-theory",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 12,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Pressure of an ideal gas is increased by keeping temperature constant. The kinetic energy of molecules",
+  "options": [
+   "Decreases",
+   "Increases",
+   "Remains same",
+   "Increases or decreases depending on the nature of gas"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-013",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 13,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A man weighing 60 kg is in a lift moving down with an acceleration of $1.8\\,\\mathrm{m\\,s^{-2}}$. The force exerted by the floor on him is",
+  "options": [
+   "$588\\,\\mathrm{N}$",
+   "$480\\,\\mathrm{N}$",
+   "Zero",
+   "$696\\,\\mathrm{N}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-014",
+  "subject": "physics",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 14,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Moment of inertia of a body about two perpendicular axes X and Y in the plane of lamina are $20\\,\\mathrm{kg\\,m^2}$ and $25\\,\\mathrm{kg\\,m^2}$ respectively. Its moment of inertia about an axis perpendicular to the plane of the lamina and passing through the point of intersection of X and Y axes is",
+  "options": [
+   "$5\\,\\mathrm{kg\\,m^2}$",
+   "$45\\,\\mathrm{kg\\,m^2}$",
+   "$12.5\\,\\mathrm{kg\\,m^2}$",
+   "$500\\,\\mathrm{kg\\,m^2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-015",
+  "subject": "physics",
+  "chapter": "mechanical-properties-of-solids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 15,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Two wires A and B are stretched by the same load. If the area of cross-section of wire 'A' is double that of 'B', then the stress on 'B' is",
+  "options": [
+   "Equal to that on A",
+   "Twice that on A",
+   "Half that on A",
+   "Four times that on A"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-016",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 16,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The magnitude of point charge due to which the electric field 30 cm away has the magnitude $2\\,\\mathrm{NC^{-1}}$ will be",
+  "options": [
+   "$2\\times10^{-11}\\,\\mathrm{C}$",
+   "$3\\times10^{-11}\\,\\mathrm{C}$",
+   "$5\\times10^{-11}\\,\\mathrm{C}$",
+   "$9\\times10^{-11}\\,\\mathrm{C}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-017",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 17,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A mass of $1\\,\\mathrm{kg}$ carrying a charge of $2\\,\\mathrm{C}$ is accelerated through a potential of $1\\,\\mathrm{V}$. The velocity acquired by it is",
+  "options": [
+   "$\\sqrt{2}\\,\\mathrm{m\\,s^{-1}}$",
+   "$2\\,\\mathrm{m\\,s^{-1}}$",
+   "$\\frac{1}{\\sqrt{2}}\\,\\mathrm{m\\,s^{-1}}$",
+   "$\\frac{1}{2}\\,\\mathrm{m\\,s^{-1}}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-018",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 18,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The force of repulsion between two identical positive charges when kept with a separation '$r$' in air is '$F$'. Half the gap between the two charges is filled by a dielectric slab of dielectric constant = 4. Then the new force of repulsion between those two charges becomes",
+  "options": [
+   "$\\frac{F}{3}$",
+   "$\\frac{F}{2}$",
+   "$\\frac{F}{4}$",
+   "$\\frac{4F}{9}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-019",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 19,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "For the arrangement of capacitors as shown in the circuit, the effective capacitance between the points A and B is (capacitance of each capacitor is $4\\,\\mu\\mathrm{F}$)",
+  "options": [
+   "$4\\,\\mu\\mathrm{F}$",
+   "$2\\,\\mu\\mathrm{F}$",
+   "$1\\,\\mu\\mathrm{F}$",
+   "$8\\,\\mu\\mathrm{F}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2018-physics-019.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-020",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 20,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The work done to move a charge on an equipotential surface is",
+  "options": [
+   "Infinity",
+   "Less than 1",
+   "Greater than 1",
+   "Zero"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-021",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 21,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Two capacitors of $3\\,\\mu\\mathrm{F}$ and $6\\,\\mu\\mathrm{F}$ are connected in series and a potential difference of $900\\,\\mathrm{V}$ is applied across the combination. They are then disconnected and reconnected in parallel. The potential difference across the combination is",
+  "options": [
+   "Zero",
+   "$100\\,\\mathrm{V}$",
+   "$200\\,\\mathrm{V}$",
+   "$400\\,\\mathrm{V}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0,
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-022",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 22,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Ohm's Law is applicable to",
+  "options": [
+   "Diode",
+   "Transistor",
+   "Electrolyte",
+   "Conductor"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-023",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 23,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If the last band on the carbon resistor is absent, then the tolerance is",
+  "options": [
+   "5%",
+   "20%",
+   "10%",
+   "15%"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-024",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 24,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The effective resistance between P and Q for the following network is",
+  "options": [
+   "$\\frac{1}{12}\\,\\Omega$",
+   "$21\\,\\Omega$",
+   "$12\\,\\Omega$",
+   "$\\frac{1}{21}\\,\\Omega$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2018-physics-024.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-025",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 25,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Five identical resistors each of resistance $R = 1500\\,\\Omega$ are connected to a $300\\,\\mathrm{V}$ battery as shown in the circuit. The reading of the ideal ammeter A is",
+  "options": [
+   "$\\frac{1}{5}\\,\\mathrm{A}$",
+   "$\\frac{3}{5}\\,\\mathrm{A}$",
+   "$\\frac{2}{5}\\,\\mathrm{A}$",
+   "$\\frac{4}{5}\\,\\mathrm{A}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2018-physics-025.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-026",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 26,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Two cells of internal resistances $r_1$ and $r_2$ and of same emf are connected in series, across a resistor of resistance $R$. If the terminal potential difference across the cells of internal resistance $r_1$ is zero, then the value of $R$ is",
+  "options": [
+   "$R = 2(r_1 + r_2)$",
+   "$R = r_2 - r_1$",
+   "$R = r_1 - r_2$",
+   "$R = 2(r_1 - r_2)$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-027",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 27,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The I-V graphs for two different electrical appliances P and Q are shown in the diagram. If $R_P$ and $R_Q$ be the resistances of the devices, then",
+  "options": [
+   "$R_P = R_Q$",
+   "$R_P > R_Q$",
+   "$R_P < R_Q$",
+   "$R_P = \\frac{R_Q}{2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2018-physics-027.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-028",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 28,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The correct Biot-Savart law in vector form is",
+  "options": [
+   "$d\\vec{B} = \\frac{\\mu_0}{4\\pi}\\,\\frac{I(d\\vec{l} \\times \\vec{r})}{r^2}$",
+   "$d\\vec{B} = \\frac{\\mu_0}{4\\pi}\\,\\frac{I(d\\vec{l} \\times \\vec{r})}{r^3}$",
+   "$d\\vec{B} = \\frac{\\mu_0}{4\\pi}\\,\\frac{I\\,d\\vec{l}}{r^2}$",
+   "$d\\vec{B} = \\frac{\\mu_0}{4\\pi}\\cdot\\frac{I\\,d\\vec{l}}{r^3}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-029",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 29,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "An electron is moving in a circle of radius $r$ in a uniform magnetic field $B$. Suddenly the field is reduced to $\\frac{B}{2}$. The radius of the circular path now becomes",
+  "options": [
+   "$\\frac{r}{2}$",
+   "$2r$",
+   "$\\frac{r}{4}$",
+   "$4r$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-030",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 30,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A charge $q$ is accelerated through a potential difference $V$. It is then passed normally through a uniform magnetic field, where it moves in a circle of radius $r$. The potential difference required to move it in a circle of radius $2r$ is",
+  "options": [
+   "$2\\,\\mathrm{V}$",
+   "$4\\,\\mathrm{V}$",
+   "$1\\,\\mathrm{V}$",
+   "$3\\,\\mathrm{V}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-031",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 31,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A cyclotron's oscillator frequency is $10\\,\\mathrm{MHz}$ and the operating magnetic field is $0.66\\,\\mathrm{T}$. If the radius of its dees is $60\\,\\mathrm{cm}$, then the kinetic energy of the proton beam produced by the accelerator is",
+  "options": [
+   "$9\\,\\mathrm{MeV}$",
+   "$10\\,\\mathrm{MeV}$",
+   "$7\\,\\mathrm{MeV}$",
+   "$11\\,\\mathrm{MeV}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-032",
+  "subject": "physics",
+  "chapter": "magnetism-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 32,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Needles $N_1$, $N_2$ and $N_3$ are made of a ferromagnetic, a paramagnetic and a diamagnetic substance respectively. A magnet when brought close to them will",
+  "options": [
+   "Attract all three of them",
+   "Attract $N_1$ strongly, $N_2$ weakly and repel $N_3$ weakly",
+   "Attract $N_1$ strongly but repel $N_2$ and $N_3$ weakly",
+   "Attract $N_1$ and $N_2$ strongly but repel $N_3$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-033",
+  "subject": "physics",
+  "chapter": "magnetism-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 33,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The strength of the Earth's magnetic field is",
+  "options": [
+   "Constant everywhere",
+   "Zero everywhere",
+   "Having very high value",
+   "Varying from place to place on the Earth's surface"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-034",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 34,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A jet plane having a wing-span of $25\\,\\mathrm{m}$ is travelling horizontally towards east with a speed of $3600\\,\\mathrm{km/hour}$. If the Earth's magnetic field at the location is $4\\times10^{-4}\\,\\mathrm{T}$ and the angle of dip is $30^\\circ$, then, the potential difference between the ends of the wing is",
+  "options": [
+   "$4\\,\\mathrm{V}$",
+   "$5\\,\\mathrm{V}$",
+   "$2\\,\\mathrm{V}$",
+   "$2.5\\,\\mathrm{V}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-035",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 35,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Which of the following, represents the variation of inductive reactance ($X_L$) with the frequency of voltage source ($\\nu$) ?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2018-physics-035.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-036",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 36,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The magnetic flux linked with a coil varies as $\\phi = 3t^2 + 4t + 9$. The magnitude of the emf induced at $t = 2$ seconds is",
+  "options": [
+   "$8\\,\\mathrm{V}$",
+   "$16\\,\\mathrm{V}$",
+   "$32\\,\\mathrm{V}$",
+   "$64\\,\\mathrm{V}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-037",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 37,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A $100\\,\\mathrm{W}$ bulb is connected to an AC source of $220\\,\\mathrm{V}$, $50\\,\\mathrm{Hz}$. Then the current flowing through the bulb is",
+  "options": [
+   "$\\frac{5}{11}\\,\\mathrm{A}$",
+   "$\\frac{1}{2}\\,\\mathrm{A}$",
+   "$2\\,\\mathrm{A}$",
+   "$\\frac{3}{4}\\,\\mathrm{A}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-038",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 38,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "In the series LCR circuit, the power dissipation is through",
+  "options": [
+   "$R$",
+   "$L$",
+   "$C$",
+   "Both $L$ and $C$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-039",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 39,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 16,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "In Karnataka, the normal domestic power supply AC is $220\\,\\mathrm{V}$, $50\\,\\mathrm{Hz}$. Here $220\\,\\mathrm{V}$ and $50\\,\\mathrm{Hz}$ refer to",
+  "options": [
+   "Peak value of voltage and frequency",
+   "rms value of voltage and frequency",
+   "Mean value of voltage and frequency",
+   "Peak value of voltage and angular frequency"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-040",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 40,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 16,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A step-up transformer operates on a $230\\,\\mathrm{V}$ line and a load current of $2\\,\\mathrm{A}$. The ratio of primary and secondary windings is $1 : 25$. Then the current in the primary is",
+  "options": [
+   "$25\\,\\mathrm{A}$",
+   "$50\\,\\mathrm{A}$",
+   "$15\\,\\mathrm{A}$",
+   "$12.5\\,\\mathrm{A}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-041",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 41,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 16,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The number of photons falling per second on a completely darkened plate to produce a force of $6.62\\times10^{-5}\\,\\mathrm{N}$ is '$n$'. If the wavelength of the light falling is $5\\times10^{-7}\\,\\mathrm{m}$, then $n = \\underline{\\qquad} \\times 10^{22}$. ($h = 6.62\\times10^{-34}\\,\\mathrm{J\\,s}$)",
+  "options": [
+   "1",
+   "5",
+   "0.2",
+   "3.3"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-042",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 42,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "An object is placed at the principal focus of a convex mirror. The image will be at",
+  "options": [
+   "Centre of curvature",
+   "Principal focus",
+   "Infinity",
+   "No image will be formed"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "key_confirmed",
+   "notes": "Transcription exact; official key A=4 (D) read correctly. Strictly a convex mirror gives a virtual image at f/2 so no option is physically right, D is the official answer."
+  }
+ },
+ {
+  "id": "pyq-2018-physics-043",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 43,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "An object is placed at a distance of $20\\,\\mathrm{cm}$ from the pole of a concave mirror of focal length $10\\,\\mathrm{cm}$. The distance of the image formed is",
+  "options": [
+   "$+20\\,\\mathrm{cm}$",
+   "$+10\\,\\mathrm{cm}$",
+   "$-20\\,\\mathrm{cm}$",
+   "$-10\\,\\mathrm{cm}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-044",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 44,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A candle placed $25\\,\\mathrm{cm}$ from a lens forms an image on a screen placed $75\\,\\mathrm{cm}$ on the other side of the lens. The focal length and type of the lens should be",
+  "options": [
+   "$+18.75\\,\\mathrm{cm}$ and convex lens",
+   "$-18.75\\,\\mathrm{cm}$ and concave lens",
+   "$+20.25\\,\\mathrm{cm}$ and convex lens",
+   "$-20.25\\,\\mathrm{cm}$ and concave lens"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-045",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 45,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 18,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A plane wavefront of wavelength $\\lambda$ is incident on a single slit of width $a$. The angular width of principal maximum is",
+  "options": [
+   "$\\frac{\\lambda}{a}$",
+   "$\\frac{2\\lambda}{a}$",
+   "$\\frac{a}{\\lambda}$",
+   "$\\frac{a}{2\\lambda}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-046",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 46,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 18,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "In a Fraunhofer diffraction at a single slit, if yellow light illuminating the slit is replaced by blue light, then diffraction bands",
+  "options": [
+   "Remain unchanged",
+   "Become wider",
+   "Disappear",
+   "Become narrower"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-047",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 47,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 18,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "In Young's double slit experiment, two wavelengths $\\lambda_1 = 780\\,\\mathrm{nm}$ and $\\lambda_2 = 520\\,\\mathrm{nm}$ are used to obtain interference fringes. If the $n^{\\text{th}}$ bright band due to $\\lambda_1$ coincides with $(n + 1)^{\\text{th}}$ bright band due to $\\lambda_2$, then the value of $n$ is",
+  "options": [
+   "4",
+   "3",
+   "2",
+   "6"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-048",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 48,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 19,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "In Young's double slit experiment, slits are separated by $2\\,\\mathrm{mm}$ and the screen is placed at a distance of $1.2\\,\\mathrm{m}$ from the slits. Light consisting of two wavelengths 6500 Å and 5200 Å are used to obtain interference fringes. Then the separation between the fourth bright fringes of two different patterns produced by the two wavelengths is",
+  "options": [
+   "$0.312\\,\\mathrm{mm}$",
+   "$0.123\\,\\mathrm{mm}$",
+   "$0.213\\,\\mathrm{mm}$",
+   "$0.412\\,\\mathrm{mm}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-049",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 49,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 19,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The maximum kinetic energy of emitted photoelectrons depends on",
+  "options": [
+   "Intensity of incident radiation",
+   "Frequency of incident radiation",
+   "Speed of incident radiation",
+   "Number of photons in the incident radiation"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-050",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 50,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 20,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A proton and an $\\alpha$ particle are accelerated through the same potential difference $V$. The ratio of their de Broglie wavelengths is",
+  "options": [
+   "$\\sqrt{2}$",
+   "$2\\sqrt{2}$",
+   "$\\sqrt{3}$",
+   "$2\\sqrt{3}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-051",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 51,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 20,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The total energy of an electron revolving in the second orbit of hydrogen atom is",
+  "options": [
+   "$-13.6\\,\\mathrm{eV}$",
+   "$-1.51\\,\\mathrm{eV}$",
+   "$-3.4\\,\\mathrm{eV}$",
+   "Zero"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-052",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 52,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 20,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The period of revolution of an electron in the ground state of hydrogen atom is $T$. The period of revolution of the electron in the first excited state is",
+  "options": [
+   "$2T$",
+   "$4T$",
+   "$6T$",
+   "$8T$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-053",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 53,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 21,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The energy equivalent to a substance of mass $1\\,\\mathrm{g}$ is",
+  "options": [
+   "$18\\times10^{13}\\,\\mathrm{J}$",
+   "$9\\times10^{13}\\,\\mathrm{J}$",
+   "$18\\times10^{6}\\,\\mathrm{J}$",
+   "$9\\times10^{6}\\,\\mathrm{J}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-054",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 54,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 21,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The half-life of tritium is $12.5$ years. What mass of tritium of initial mass $64\\,\\mathrm{mg}$ will remain undecayed after $50$ years ?",
+  "options": [
+   "$32\\,\\mathrm{mg}$",
+   "$8\\,\\mathrm{mg}$",
+   "$16\\,\\mathrm{mg}$",
+   "$4\\,\\mathrm{mg}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-055",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 55,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 21,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "In a CE amplifier, the input ac signal to be amplified is applied across",
+  "options": [
+   "Forward biased emitter-base junction",
+   "Reverse biased collector-base junction",
+   "Reverse biased emitter-base junction",
+   "Forward biased collector-base junction"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-056",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 56,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 22,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $A = 1$ and $B = 0$, then in terms of Boolean algebra, $A + \\overline{B} =$",
+  "options": [
+   "$B$",
+   "$\\overline{B}$",
+   "$A$",
+   "$\\overline{A}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1,
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-057",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 57,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 22,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The density of an electron-hole pair in a pure germanium is $3\\times10^{16}\\,\\mathrm{m^{-3}}$ at room temperature. On doping with aluminium, the hole density increases to $4.5\\times10^{22}\\,\\mathrm{m^{-3}}$. Now the electron density (in $\\mathrm{m^{-3}}$) in doped germanium will be",
+  "options": [
+   "$1\\times10^{10}$",
+   "$2\\times10^{10}$",
+   "$0.5\\times10^{10}$",
+   "$4\\times10^{10}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-058",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 58,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 23,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The dc common emitter current gain of a n-p-n transistor is $50$. The potential difference applied across the collector and emitter of a transistor used in CE configuration is, $V_{CE} = 2\\,\\mathrm{V}$. If the collector resistance, $R_C = 4\\,\\mathrm{k\\Omega}$, the base current ($I_B$) and the collector current ($I_C$) are",
+  "options": [
+   "$I_B = 10\\,\\mu\\mathrm{A},\\ I_C = 0.5\\,\\mathrm{mA}$",
+   "$I_B = 0.5\\,\\mu\\mathrm{A},\\ I_C = 10\\,\\mathrm{mA}$",
+   "$I_B = 5\\,\\mu\\mathrm{A},\\ I_C = 1\\,\\mathrm{mA}$",
+   "$I_B = 1\\,\\mu\\mathrm{A},\\ I_C = 0.5\\,\\mathrm{mA}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-059",
+  "subject": "physics",
+  "chapter": "communication-systems",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 59,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 23,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The radius of the Earth is $6400\\,\\mathrm{km}$. If the height of an antenna is $500\\,\\mathrm{m}$, then its range is",
+  "options": [
+   "$800\\,\\mathrm{km}$",
+   "$100\\,\\mathrm{km}$",
+   "$80\\,\\mathrm{km}$",
+   "$10\\,\\mathrm{km}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2018-physics-060",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2018",
+   "year": 2018,
+   "version": "A",
+   "number": 60,
+   "file": "sources/pyq/2018/physics/2018-physics-question_paper-A-aglasem.pdf",
+   "page": 23,
+   "key_file": "sources/pyq/2018/physics/2018-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A space station is at a height equal to the radius of the Earth. If '$v_E$' is the escape velocity on the surface of the Earth, the same on the space station is $\\underline{\\qquad}$ times $v_E$.",
+  "options": [
+   "$\\frac{1}{2}$",
+   "$\\frac{1}{4}$",
+   "$\\frac{1}{\\sqrt{2}}$",
+   "$\\frac{1}{\\sqrt{3}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

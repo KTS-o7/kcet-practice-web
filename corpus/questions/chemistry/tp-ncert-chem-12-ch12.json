@@ -1,0 +1,436 @@
+[
+ {
+  "id": "tp-ncert-chem-12-ch12-001",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep512.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep512.pdf"
+  },
+  "stem": "Addition of water to alkynes occurs in acidic medium and in the presence of $\\mathrm{Hg^{2+}}$ ions as a catalyst. Which of the following products will be formed on addition of water to but-1-yne under these conditions.",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch12-001.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch12-002",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep512.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep512.pdf"
+  },
+  "stem": "Which of the following compounds is most reactive towards nucleophilic addition reactions?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch12-002.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch12-003",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep512.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep512.pdf"
+  },
+  "stem": "The correct order of increasing acidic strength is _____________.",
+  "options": [
+   "Phenol $<$ Ethanol $<$ Chloroacetic acid $<$ Acetic acid",
+   "Ethanol $<$ Phenol $<$ Chloroacetic acid $<$ Acetic acid",
+   "Ethanol $<$ Phenol $<$ Acetic acid $<$ Chloroacetic acid",
+   "Chloroacetic acid $<$ Acetic acid $<$ Phenol $<$ Ethanol"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch12-004",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep512.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep512.pdf"
+  },
+  "stem": "Compound $\\mathrm{Ph-O-C(=O)-Ph}$ can be prepared by the reaction of _____________.",
+  "options": [
+   "Phenol and benzoic acid in the presence of NaOH",
+   "Phenol and benzoyl chloride in the presence of pyridine",
+   "Phenol and benzoyl chloride in the presence of $\\mathrm{ZnCl_2}$",
+   "Phenol and benzaldehyde in the presence of palladium"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch12-005",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep512.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep512.pdf"
+  },
+  "stem": "The reagent which does not react with both, acetone and benzaldehyde.",
+  "options": [
+   "Sodium hydrogensulphite",
+   "Phenyl hydrazine",
+   "Fehling’s solution",
+   "Grignard reagent"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch12-006",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep512.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep512.pdf"
+  },
+  "stem": "Cannizaro’s reaction is **not** given by _____________.",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch12-006.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch12-007",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 7,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep512.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep512.pdf"
+  },
+  "stem": "Which product is formed when the compound $\\mathrm{C_6H_5CHO}$ is treated with concentrated aqueous KOH solution?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch12-007.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch12-008",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 8,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep512.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep512.pdf"
+  },
+  "stem": "Structure of ‘A’ and type of isomerism in the above reaction are respectively.",
+  "options": [
+   "Prop–1–en–2–ol, metamerism",
+   "Prop-1-en-1-ol, tautomerism",
+   "Prop-2-en-2-ol, geometrical isomerism",
+   "Prop-1-en-2-ol, tautomerism"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch12-008.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch12-009",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 9,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep512.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep512.pdf"
+  },
+  "stem": "Compounds A and C in the following reaction are __________.",
+  "options": [
+   "identical",
+   "positional isomers",
+   "functional isomers",
+   "optical isomers"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch12-009.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch12-010",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 10,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep512.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep512.pdf"
+  },
+  "stem": "Which is the most suitable reagent for the following conversion?",
+  "options": [
+   "Tollen’s reagent",
+   "Benzoyl peroxide",
+   "$\\mathrm{I_2}$ and NaOH solution",
+   "Sn and NaOH solution"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch12-010.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch12-011",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 11,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep512.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep512.pdf"
+  },
+  "stem": "Which of the following compounds will give butanone on oxidation with alkaline $\\mathrm{KMnO_4}$ solution?",
+  "options": [
+   "Butan-1-ol",
+   "Butan-2-ol",
+   "Both of these",
+   "None of these"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch12-012",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 12,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep512.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep512.pdf"
+  },
+  "stem": "In Clemmensen Reduction carbonyl compound is treated with _____________.",
+  "options": [
+   "Zinc amalgam + HCl",
+   "Sodium amalgam + HCl",
+   "Zinc amalgam + nitric acid",
+   "Sodium amalgam + $\\mathrm{HNO_3}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

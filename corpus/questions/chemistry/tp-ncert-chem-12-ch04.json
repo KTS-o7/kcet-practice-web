@@ -1,0 +1,715 @@
+[
+ {
+  "id": "tp-ncert-chem-12-ch04-001",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf"
+  },
+  "stem": "The role of a catalyst is to change ______________.",
+  "options": [
+   "gibbs energy of reaction.",
+   "enthalpy of reaction.",
+   "activation energy of reaction.",
+   "equilibrium constant."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch04-002",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf"
+  },
+  "stem": "In the presence of a catalyst, the heat evolved or absorbed during the reaction ___________.",
+  "options": [
+   "increases.",
+   "decreases.",
+   "remains unchanged.",
+   "may increase or decrease."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch04-003",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf"
+  },
+  "stem": "Activation energy of a chemical reaction can be determined by _____________.",
+  "options": [
+   "determining the rate constant at standard temperature.",
+   "determining the rate constants at two temperatures.",
+   "determining probability of collision.",
+   "using catalyst."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch04-004",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf"
+  },
+  "stem": "Consider Fig. 4.1 and mark the correct option.",
+  "options": [
+   "Activation energy of forward reaction is $E_1 + E_2$ and product is less stable than reactant.",
+   "Activation energy of forward reaction is $E_1+E_2$ and product is more stable than reactant.",
+   "Activation energy of both forward and backward reaction is $E_1+E_2$ and reactant is more stable than product.",
+   "Activation energy of backward reaction is $E_1$ and product is more stable than reactant."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch04-004.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch04-005",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf"
+  },
+  "stem": "Consider a first order gas phase decomposition reaction given below :\n\n$\\mathrm{A(g) \\rightarrow B(g) + C(g)}$\n\nThe initial pressure of the system before decomposition of A was $p_i$. After lapse of time ‘t’, total pressure of the system increased by $x$ units and became ‘$p_t$’ The rate constant $k$ for the reaction is given as _________.",
+  "options": [
+   "$k=\\frac{2.303}{t}\\log\\frac{p_i}{p_i-x}$",
+   "$k=\\frac{2.303}{t}\\log\\frac{p_i}{2p_i-p_t}$",
+   "$k=\\frac{2.303}{t}\\log\\frac{p_i}{2p_i+p_t}$",
+   "$k=\\frac{2.303}{t}\\log\\frac{p_i}{p_i+x}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch04-006",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf"
+  },
+  "stem": "According to Arrhenius equation rate constant $k$ is equal to $\\mathrm{A\\,e^{-E_a/RT}}$. Which of the following options represents the graph of $\\ln k$ vs $\\frac{1}{T}$ ?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch04-006.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch04-007",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 7,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf"
+  },
+  "stem": "Consider the Arrhenius equation given below and mark the correct option.\n\n$k = \\mathrm{A\\,e^{-E_a/RT}}$",
+  "options": [
+   "Rate constant increases exponentially with increasing activation energy and decreasing temperature.",
+   "Rate constant decreases exponentially with increasing activation energy and decreasing temperature.",
+   "Rate constant increases exponentially with decreasing activation energy and decreasing temperature.",
+   "Rate constant increases exponentially with decreasing activation energy and increasing temperature."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch04-008",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 8,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf"
+  },
+  "stem": "A graph of volume of hydrogen released vs time for the reaction between zinc and dil.HCl is given in Fig. 4.2. On the basis of this mark the correct option.",
+  "options": [
+   "Average rate upto 40s is $\\frac{V_3 - V_2}{40}$",
+   "Average rate upto 40 seconds is $\\frac{V_3 - V_2}{40 - 30}$",
+   "Average rate upto 40 seconds is $\\frac{V_3}{40}$",
+   "Average rate upto 40 seconds is $\\frac{V_3 - V_1}{40 - 20}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch04-008.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch04-009",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 9,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf"
+  },
+  "stem": "Which of the following statements is not correct about order of a reaction.",
+  "options": [
+   "The order of a reaction can be a fractional number.",
+   "Order of a reaction is experimentally determined quantity.",
+   "The order of a reaction is always equal to the sum of the stoichiometric coefficients of reactants in the balanced chemical equation for a reaction.",
+   "The order of a reaction is the sum of the powers of molar concentration of the reactants in the rate law expression."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch04-010",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 10,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf"
+  },
+  "stem": "Consider the graph given in Fig. 4.2. Which of the following options does not show instantaneous rate of reaction at $40^{th}$ second?",
+  "options": [
+   "$\\frac{V_5 - V_2}{50 - 30}$",
+   "$\\frac{V_4 - V_2}{50 - 30}$",
+   "$\\frac{V_3 - V_2}{40 - 30}$",
+   "$\\frac{V_3 - V_1}{40 - 20}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch04-010.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "key_confirmed",
+   "notes": "Transcription matches page; V4 is the curve point at 50 s, not on the tangent at 40 s, so option (ii) is not the instantaneous rate. Agrees with key."
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch04-011",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 11,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf"
+  },
+  "stem": "Which of the following statements is correct?",
+  "options": [
+   "The rate of a reaction decreases with passage of time as the concentration of reactants dereases.",
+   "The rate of a reaction is same at any time during the reaction.",
+   "The rate of a reaction is independent of temperature change.",
+   "The rate of a reaction decreases with increase in concentration of reactant(s)."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch04-012",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 12,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf"
+  },
+  "stem": "Which of the following expressions is correct for the rate of reaction given below?\n\n$\\mathrm{5Br^{-}(aq) + BrO_3^{-}(aq) + 6H^{+}(aq) \\rightarrow 3Br_2(aq) + 3H_2O(l)}$",
+  "options": [
+   "$\\frac{\\Delta[\\mathrm{Br^{-}}]}{\\Delta t}=5\\,\\frac{\\Delta[\\mathrm{H^{+}}]}{\\Delta t}$",
+   "$\\frac{\\Delta[\\mathrm{Br^{-}}]}{\\Delta t}=\\frac{6}{5}\\,\\frac{\\Delta[\\mathrm{H^{+}}]}{\\Delta t}$",
+   "$\\frac{\\Delta[\\mathrm{Br^{-}}]}{\\Delta t}=\\frac{5}{6}\\,\\frac{\\Delta[\\mathrm{H^{+}}]}{\\Delta t}$",
+   "$\\frac{\\Delta[\\mathrm{Br^{-}}]}{\\Delta t}=6\\,\\frac{\\Delta[\\mathrm{H^{+}}]}{\\Delta t}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch04-013",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 13,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf"
+  },
+  "stem": "Which of the following graphs represents exothermic reaction?",
+  "options": [
+   "(a) only",
+   "(b) only",
+   "(c) only",
+   "(a) and (b)"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch04-013.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch04-014",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 14,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf"
+  },
+  "stem": "Rate law for the reaction $\\mathrm{A + 2B \\rightarrow C}$ is found to be\n\n$\\mathrm{Rate} = k\\,[\\mathrm{A}][\\mathrm{B}]$\n\nConcentration of reactant ‘B’ is doubled, keeping the concentration of ‘A’ constant, the value of rate constant will be______.",
+  "options": [
+   "the same",
+   "doubled",
+   "quadrupled",
+   "halved"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "disputed",
+   "notes": "Key page k0-14 reads 14.(ii) doubled (read correctly), but rate constant depends only on temperature, so it stays the same (option i). Transcription verified against p-05.",
+   "status_reason": "solver disagrees with unofficial key"
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch04-015",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 15,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf"
+  },
+  "stem": "Which of the following statements is **incorrect** about the collison theory of chemical reaction?",
+  "options": [
+   "It considers reacting molecules or atoms to be hard spheres and ignores their structural features.",
+   "Number of effective collisions determines the rate of reaction.",
+   "Collision of atoms or molecules possessing sufficient threshold energy results into the product formation.",
+   "Molecules should collide with sufficient threshold energy and proper orientation for the collision to be effective."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch04-016",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 16,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf"
+  },
+  "stem": "A first order reaction is 50% completed in $1.26 \\times 10^{14}$ s. How much time would it take for 100% completion?",
+  "options": [
+   "$1.26 \\times 10^{15}$ s",
+   "$2.52 \\times 10^{14}$ s",
+   "$2.52 \\times 10^{28}$ s",
+   "infinite"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch04-017",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 17,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf"
+  },
+  "stem": "Compounds ‘A’ and ‘B’ react according to the following chemical equation.\n\n$\\mathrm{A(g) + 2\\,B(g) \\rightarrow 2\\,C(g)}$\n\nConcentration of either ‘A’ or ‘B’ were changed keeping the concentrations of one of the reactants constant and rates were measured as a function of initial concentration. Following results were obtained. Choose the correct option for the rate equations for this reaction.\n\n| Experiment | Initial concentration of $\\mathrm{[A]/mol\\,L^{-1}}$ | Initial concentration of $\\mathrm{[B]/mol\\,L^{-1}}$ | Initial rate of formation of $\\mathrm{[C]/mol\\,L^{-1}\\,s^{-1}}$ |\n|---|---|---|---|\n| 1. | 0.30 | 0.30 | 0.10 |\n| 2. | 0.30 | 0.60 | 0.40 |\n| 3. | 0.60 | 0.30 | 0.20 |",
+  "options": [
+   "$\\mathrm{Rate} = k\\,[A]^2\\,[B]$",
+   "$\\mathrm{Rate} = k\\,[A]\\,[B]^2$",
+   "$\\mathrm{Rate} = k\\,[A]\\,[B]$",
+   "$\\mathrm{Rate} = k\\,[A]^2\\,[B]^0$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch04-018",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 18,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf"
+  },
+  "stem": "Which of the following statement is **not** correct for the catalyst?",
+  "options": [
+   "It catalyses the forward and backward reaction to the same extent.",
+   "It alters $\\Delta G$ of the reaction.",
+   "It is a substance that does not change the equilibrium constant of a reaction.",
+   "It provides an alternate mechanism by reducing activation energy between reactants and products."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch04-019",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 19,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf"
+  },
+  "stem": "The value of rate constant of a pseudo first order reaction ____________.",
+  "options": [
+   "depends on the concentration of reactants present in small amount.",
+   "depends on the concentration of reactants present in excess.",
+   "is independent of the concentration of reactants.",
+   "depends only on temperature."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch04-020",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 20,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep504.pdf"
+  },
+  "stem": "Consider the reaction $\\mathrm{A \\rightleftharpoons B}$. The concentration of both the reactants and the products varies exponentially with time. Which of the following figures correctly describes the change in concentration of reactants and products with time?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch04-020.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

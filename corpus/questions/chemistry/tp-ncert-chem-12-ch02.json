@@ -1,0 +1,920 @@
+[
+ {
+  "id": "tp-ncert-chem-12-ch02-001",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf"
+  },
+  "stem": "Which of the following units is useful in relating concentration of solution with its vapour pressure?",
+  "options": [
+   "mole fraction",
+   "parts per million",
+   "mass percentage",
+   "molality"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch02-002",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf"
+  },
+  "stem": "On dissolving sugar in water at room temperature solution feels cool to touch. Under which of the following cases dissolution of sugar will be most rapid?",
+  "options": [
+   "Sugar crystals in cold water.",
+   "Sugar crystals in hot water.",
+   "Powdered sugar in cold water.",
+   "Powdered sugar in hot water."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch02-003",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf"
+  },
+  "stem": "At equilibrium the rate of dissolution of a solid solute in a volatile liquid solvent is __________.",
+  "options": [
+   "less than the rate of crystallisation",
+   "greater than the rate of crystallisation",
+   "equal to the rate of crystallisation",
+   "zero"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch02-004",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf"
+  },
+  "stem": "A beaker contains a solution of substance ‘A’. Precipitation of substance ‘A’ takes place when small amount of ‘A’ is added to the solution. The solution is _________.",
+  "options": [
+   "saturated",
+   "supersaturated",
+   "unsaturated",
+   "concentrated"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch02-005",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf"
+  },
+  "stem": "Maximum amount of a solid solute that can be dissolved in a specified amount of a given liquid solvent does not depend upon ____________.",
+  "options": [
+   "Temperature",
+   "Nature of solute",
+   "Pressure",
+   "Nature of solvent"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch02-006",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf"
+  },
+  "stem": "Low concentration of oxygen in the blood and tissues of people living at high altitude is due to ____________.",
+  "options": [
+   "low temperature",
+   "low atmospheric pressure",
+   "high atmospheric pressure",
+   "both low temperature and high atmospheric pressure"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch02-007",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 7,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf"
+  },
+  "stem": "Considering the formation, breaking and strength of hydrogen bond, predict which of the following mixtures will show a positive deviation from Raoult’s law?",
+  "options": [
+   "Methanol and acetone.",
+   "Chloroform and acetone.",
+   "Nitric acid and water.",
+   "Phenol and aniline."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch02-008",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 8,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf"
+  },
+  "stem": "Colligative properties depend on ____________.",
+  "options": [
+   "the nature of the solute particles dissolved in solution.",
+   "the number of solute particles in solution.",
+   "the physical properties of the solute particles dissolved in solution.",
+   "the nature of solvent particles."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch02-009",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 9,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf"
+  },
+  "stem": "Which of the following aqueous solutions should have the highest boiling point?",
+  "options": [
+   "1.0 M $\\mathrm{NaOH}$",
+   "1.0 M $\\mathrm{Na_2SO_4}$",
+   "1.0 M $\\mathrm{NH_4NO_3}$",
+   "1.0 M $\\mathrm{KNO_3}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "duplicate of pyq-2018-chemistry-017"
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch02-010",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 10,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf"
+  },
+  "stem": "The unit of ebulioscopic constant is _______________.",
+  "options": [
+   "$\\mathrm{K\\,kg\\,mol^{-1}}$ or $\\mathrm{K\\,(molality)^{-1}}$",
+   "$\\mathrm{mol\\,kg\\,K^{-1}}$ or $\\mathrm{K^{-1}\\,(molality)}$",
+   "$\\mathrm{kg\\,mol^{-1}\\,K^{-1}}$ or $\\mathrm{K^{-1}\\,(molality)^{-1}}$",
+   "$\\mathrm{K\\,mol\\,kg^{-1}}$ or $\\mathrm{K\\,(molality)}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch02-011",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 11,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf"
+  },
+  "stem": "In comparison to a 0.01 M solution of glucose, the depression in freezing point of a 0.01 M $\\mathrm{MgCl_2}$ solution is ____________.",
+  "options": [
+   "the same",
+   "about twice",
+   "about three times",
+   "about six times"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch02-012",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 12,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf"
+  },
+  "stem": "An unripe mango placed in a concentrated salt solution to prepare pickle, shrivels because ____________.",
+  "options": [
+   "it gains water due to osmosis.",
+   "it loses water due to reverse osmosis.",
+   "it gains water due to reverse osmosis.",
+   "it loses water due to osmosis."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch02-013",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 13,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf"
+  },
+  "stem": "At a given temperature, osmotic pressure of a concentrated solution of a substance ____________.",
+  "options": [
+   "is higher than that at a dilute solution.",
+   "is lower than that of a dilute solution.",
+   "is same as that of a dilute solution.",
+   "cannot be compared with osmotic pressure of dilute solution."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch02-014",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 14,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf"
+  },
+  "stem": "Which of the following statements is false?",
+  "options": [
+   "Two different solutions of sucrose of same molality prepared in different solvents will have the same depression in freezing point.",
+   "The osmotic pressure of a solution is given by the equation $\\Pi = CRT$ (where C is the molarity of the solution).",
+   "Decreasing order of osmotic pressure for 0.01 M aqueous solutions of barium chloride, potassium chloride, acetic acid and sucrose is $\\mathrm{BaCl_2} > \\mathrm{KCl} > \\mathrm{CH_3COOH} > $ sucrose.",
+   "According to Raoult’s law, the vapour pressure exerted by a volatile component of a solution is directly proportional to its mole fraction in the solution."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch02-015",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 15,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf"
+  },
+  "stem": "The values of Van’t Hoff factors for $\\mathrm{KCl}$, $\\mathrm{NaCl}$ and $\\mathrm{K_2SO_4}$, respectively, are ____________.",
+  "options": [
+   "2, 2 and 2",
+   "2, 2 and 3",
+   "1, 1 and 2",
+   "1, 1 and 1"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch02-016",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 16,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf"
+  },
+  "stem": "Which of the following statements is false?",
+  "options": [
+   "Units of atmospheric pressure and osmotic pressure are the same.",
+   "In reverse osmosis, solvent molecules move through a semipermeable membrane from a region of lower concentration of solute to a region of higher concentration.",
+   "The value of molal depression constant depends on nature of solvent.",
+   "Relative lowering of vapour pressure, is a dimensionless quantity."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch02-017",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 17,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf"
+  },
+  "stem": "Value of Henry’s constant $K_{\\mathrm{H}}$ ____________.",
+  "options": [
+   "increases with increase in temperature.",
+   "decreases with increase in temperature.",
+   "remains constant.",
+   "first increases then decreases."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch02-018",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 18,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf"
+  },
+  "stem": "The value of Henry’s constant $K_{\\mathrm{H}}$ is ____________.",
+  "options": [
+   "greater for gases with higher solubility.",
+   "greater for gases with lower solubility.",
+   "constant for all gases.",
+   "not related to the solubility of gases."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch02-019",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 19,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf"
+  },
+  "stem": "Consider the Fig. 2.1 and mark the correct option.",
+  "options": [
+   "water will move from side (A) to side (B) if a pressure lower than osmotic pressure is applied on piston (B).",
+   "water will move from side (B) to side (A) if a pressure greater than osmotic pressure is applied on piston (B).",
+   "water will move from side (B) to side (A) if a pressure equal to osmotic pressure is applied on piston (B).",
+   "water will move from side (A) to side (B) if pressure equal to osmotic pressure is applied on piston (A)."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch02-019.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch02-020",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 20,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf"
+  },
+  "stem": "We have three aqueous solutions of $\\mathrm{NaCl}$ labelled as ‘A’, ‘B’ and ‘C’ with concentrations 0.1M, 0.01M and 0.001M, respectively. The value of van’t Hoff factor for these solutions will be in the order ______.",
+  "options": [
+   "$i_\\mathrm{A} < i_\\mathrm{B} < i_\\mathrm{C}$",
+   "$i_\\mathrm{A} > i_\\mathrm{B} > i_\\mathrm{C}$",
+   "$i_\\mathrm{A} = i_\\mathrm{B} = i_\\mathrm{C}$",
+   "$i_\\mathrm{A} < i_\\mathrm{B} > i_\\mathrm{C}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "disputed",
+   "notes": "Key (iii) i_A=i_B=i_C is wrong: NaCl dissociation increases on dilution so i rises, iA<iB<iC (option i). Transcription and key reading verified.",
+   "status_reason": "solver disagrees with unofficial key"
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch02-021",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 21,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf"
+  },
+  "stem": "On the basis of information given below mark the correct option.\n\nInformation:\n\n(A) In bromoethane and chloroethane mixture intermolecular interactions of A–A and B–B type are nearly same as A–B type interactions.\n\n(B) In ethanol and acetone mixture A–A or B–B type intermolecular interactions are stronger than A–B type interactions.\n\n(C) In chloroform and acetone mixture A–A or B–B type intermolecular interactions are weaker than A–B type interactions.",
+  "options": [
+   "Solution (B) and (C) will follow Raoult’s law.",
+   "Solution (A) will follow Raoult’s law.",
+   "Solution (B) will show negative deviation from Raoult’s law.",
+   "Solution (C) will show positive deviation from Raoult’s law."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch02-022",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 22,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf"
+  },
+  "stem": "Two beakers of capacity 500 mL were taken. One of these beakers, labelled as “A”, was filled with 400 mL water whereas the beaker labelled “B” was filled with 400 mL of 2 M solution of $\\mathrm{NaCl}$. At the same temperature both the beakers were placed in closed containers of same material and same capacity as shown in Fig. 2.2.\n\nAt a given temperature, which of the following statement is correct about the vapour pressure of pure water and that of $\\mathrm{NaCl}$ solution.",
+  "options": [
+   "vapour pressure in container (A) is more than that in container (B).",
+   "vapour pressure in container (A) is less than that in container (B).",
+   "vapour pressure is equal in both the containers.",
+   "vapour pressure in container (B) is twice the vapour pressure in container (A)."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch02-022.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch02-023",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 23,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf"
+  },
+  "stem": "If two liquids A and B form minimum boiling azeotrope at some specific composition then ____________.",
+  "options": [
+   "A–B interactions are stronger than those between A–A or B–B.",
+   "vapour pressure of solution increases because more number of molecules of liquids A and B can escape from the solution.",
+   "vapour pressure of solution decreases because less number of molecules of only one of the liquids escape from the solution.",
+   "A–B interactions are weaker than those between A–A or B–B."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "disputed",
+   "notes": "Key (i) A-B stronger is wrong: minimum boiling azeotrope arises from positive deviation, i.e. weaker A-B interactions (option iv). Transcription and key reading verified.",
+   "status_reason": "solver disagrees with unofficial key"
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch02-024",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 24,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf"
+  },
+  "stem": "4L of 0.02 M aqueous solution of $\\mathrm{NaCl}$ was diluted by adding one litre of water. The molality of the resultant solution is ____________.",
+  "options": [
+   "0.004",
+   "0.008",
+   "0.012",
+   "0.016"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch02-025",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 25,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf"
+  },
+  "stem": "On the basis of information given below mark the correct option.\n\nInformation : On adding acetone to methanol some of the hydrogen bonds between methanol molecules break.",
+  "options": [
+   "At specific composition methanol-acetone mixture will form minimum boiling azeotrope and will show positive deviation from Raoult’s law.",
+   "At specific composition methanol-acetone mixture forms maximum boiling azeotrope and will show positive deviation from Raoult’s law.",
+   "At specific composition methanol-acetone mixture will form minimum boiling azeotrope and will show negative deviation from Raoult’s law.",
+   "At specific composition methanol-acetone mixture will form maximum boiling azeotrope and will show negative deviation from Raoult’s law."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "disputed",
+   "notes": "Key (ii) maximum boiling with positive deviation is self-contradictory; positive deviation gives minimum boiling azeotrope (option i). Transcription and key reading verified.",
+   "status_reason": "solver disagrees with unofficial key"
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch02-026",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 26,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep502.pdf"
+  },
+  "stem": "$K_{\\mathrm{H}}$ value for $\\mathrm{Ar(g)}$, $\\mathrm{CO_2(g)}$, $\\mathrm{HCHO\\,(g)}$ and $\\mathrm{CH_4(g)}$ are 40.39, 1.67, $1.83\\times10^{-5}$ and 0.413 respectively. Arrange these gases in the order of their increasing solubility.",
+  "options": [
+   "$\\mathrm{HCHO} < \\mathrm{CH_4} < \\mathrm{CO_2} < \\mathrm{Ar}$",
+   "$\\mathrm{HCHO} < \\mathrm{CO_2} < \\mathrm{CH_4} < \\mathrm{Ar}$",
+   "$\\mathrm{Ar} < \\mathrm{CO_2} < \\mathrm{CH_4} < \\mathrm{HCHO}$",
+   "$\\mathrm{Ar} < \\mathrm{CH_4} < \\mathrm{CO_2} < \\mathrm{HCHO}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

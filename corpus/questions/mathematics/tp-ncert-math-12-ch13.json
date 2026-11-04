@@ -1,0 +1,1333 @@
+[
+ {
+  "id": "tp-ncert-math-12-ch13-056",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 56,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 22,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If $P(A) = \\frac{4}{5}$, and $P(A \\cap B) = \\frac{7}{10}$, then $P(B \\mid A)$ is equal to",
+  "options": [
+   "$\\frac{1}{10}$",
+   "$\\frac{1}{8}$",
+   "$\\frac{7}{8}$",
+   "$\\frac{17}{20}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-057",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 57,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 22,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If $P(A \\cap B) = \\frac{7}{10}$ and $P(B) = \\frac{17}{20}$, then $P(A \\mid B)$ equals",
+  "options": [
+   "$\\frac{14}{17}$",
+   "$\\frac{17}{20}$",
+   "$\\frac{7}{8}$",
+   "$\\frac{1}{8}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-058",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 58,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 22,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If $P(A) = \\frac{3}{10}$, $P(B) = \\frac{2}{5}$ and $P(A \\cup B) = \\frac{3}{5}$, then $P(B \\mid A) + P(A \\mid B)$ equals",
+  "options": [
+   "$\\frac{1}{4}$",
+   "$\\frac{1}{3}$",
+   "$\\frac{5}{12}$",
+   "$\\frac{7}{2}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "disputed",
+   "notes": "Transcription matches page; P(AnB)=0.1 so P(B|A)+P(A|B)=1/3+1/4=7/12, not among options; key D (7/2) is wrong (printed-key error), 5/12 is nearest but also not correct",
+   "status_reason": "solver disagrees with unofficial key"
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-059",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 59,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 22,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If $P(A) = \\frac{2}{5}$, $P(B) = \\frac{3}{10}$ and $P(A \\cap B) = \\frac{1}{5}$, then $P(A' \\mid B') \\cdot P(B' \\mid A')$ is equal to",
+  "options": [
+   "$\\frac{5}{6}$",
+   "$\\frac{5}{7}$",
+   "$\\frac{25}{42}$",
+   "1"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-060",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 60,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 22,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If A and B are two events such that $P(A) = \\frac{1}{2}$, $P(B) = \\frac{1}{3}$, $P(A/B) = \\frac{1}{4}$, then $P(A' \\cap B')$ equals",
+  "options": [
+   "$\\frac{1}{12}$",
+   "$\\frac{3}{4}$",
+   "$\\frac{1}{4}$",
+   "$\\frac{3}{16}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-061",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 61,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 23,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If $P(A) = 0.4$, $P(B) = 0.8$ and $P(B \\mid A) = 0.6$, then $P(A \\cup B)$ is equal to",
+  "options": [
+   "0.24",
+   "0.3",
+   "0.48",
+   "0.96"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-062",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 62,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 23,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If A and B are two events and $A \\neq \\phi$, $B \\neq \\phi$, then",
+  "options": [
+   "$P(A \\mid B) = P(A) \\cdot P(B)$",
+   "$P(A \\mid B) = \\frac{P(A \\cap B)}{P(B)}$",
+   "$P(A \\mid B) \\cdot P(B \\mid A) = 1$",
+   "$P(A \\mid B) = P(A) \\mid P(B)$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-063",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 63,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 23,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "A and B are events such that $P(A) = 0.4$, $P(B) = 0.3$ and $P(A \\cup B) = 0.5$. Then $P(B' \\cap A)$ equals",
+  "options": [
+   "$\\frac{2}{3}$",
+   "$\\frac{1}{2}$",
+   "$\\frac{3}{10}$",
+   "$\\frac{1}{5}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-064",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 64,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 23,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "You are given that A and B are two events such that $P(B) = \\frac{3}{5}$, $P(A \\mid B) = \\frac{1}{2}$ and $P(A \\cup B) = \\frac{4}{5}$, then $P(A)$ equals",
+  "options": [
+   "$\\frac{3}{10}$",
+   "$\\frac{1}{5}$",
+   "$\\frac{1}{2}$",
+   "$\\frac{3}{5}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-065",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 65,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 23,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "In Exercise 64 above, $P(B \\mid A')$ is equal to",
+  "options": [
+   "$\\frac{1}{5}$",
+   "$\\frac{3}{10}$",
+   "$\\frac{1}{2}$",
+   "$\\frac{3}{5}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-066",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 66,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 23,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If $P(B) = \\frac{3}{5}$, $P(A \\mid B) = \\frac{1}{2}$ and $P(A \\cup B) = \\frac{4}{5}$, then $P((A \\cup B)') + P(A' \\cup B) =$",
+  "options": [
+   "$\\frac{1}{5}$",
+   "$\\frac{4}{5}$",
+   "$\\frac{1}{2}$",
+   "1"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-067",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 67,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 24,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Let $P(A) = \\frac{7}{13}$, $P(B) = \\frac{9}{13}$ and $P(A \\cap B) = \\frac{4}{13}$. Then $P(A' \\mid B)$ is equal to",
+  "options": [
+   "$\\frac{6}{13}$",
+   "$\\frac{4}{13}$",
+   "$\\frac{4}{9}$",
+   "$\\frac{5}{9}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-068",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 68,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 24,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If A and B are such events that $P(A) > 0$ and $P(B) \\neq 1$, then $P(A' \\mid B')$ equals.",
+  "options": [
+   "$1 - P(A \\mid B)$",
+   "$1 - P(A' \\mid B)$",
+   "$\\frac{1 - P(A \\cup B)}{P(B')}$",
+   "$P(A') \\mid P(B')$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-069",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 69,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 24,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If A and B are two independent events with $P(A) = \\frac{3}{5}$ and $P(B) = \\frac{4}{9}$, then $P(A' \\cap B')$ equals",
+  "options": [
+   "$\\frac{4}{15}$",
+   "$\\frac{8}{45}$",
+   "$\\frac{1}{3}$",
+   "$\\frac{2}{9}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-070",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 70,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 24,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If two events are independent, then",
+  "options": [
+   "they must be mutually exclusive",
+   "the sum of their probabilities must be equal to 1",
+   "(A) and (B) both are correct",
+   "None of the above is correct"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-071",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 71,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 24,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Let $A$ and $B$ be two events such that $P(A) = \\frac{3}{8}$, $P(B) = \\frac{5}{8}$ and $P(A \\cup B) = \\frac{3}{4}$. Then $P(A \\mid B) \\cdot P(A' \\mid B)$ is equal to",
+  "options": [
+   "$\\frac{2}{5}$",
+   "$\\frac{3}{8}$",
+   "$\\frac{3}{20}$",
+   "$\\frac{6}{25}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-072",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 72,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 24,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If the events A and B are independent, then $P(A \\cap B)$ is equal to",
+  "options": [
+   "P(A) + P(B)",
+   "P(A) - P(B)",
+   "$P(A) \\cdot P(B)$",
+   "P(A) \\mid P(B)"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-073",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 73,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 25,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Two events E and F are independent. If $P(E) = 0.3$, $P(E \\cup F) = 0.5$, then $P(E \\mid F) - P(F \\mid E)$ equals",
+  "options": [
+   "$\\frac{2}{7}$",
+   "$\\frac{3}{35}$",
+   "$\\frac{1}{70}$",
+   "$\\frac{1}{7}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-074",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 74,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 25,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "A bag contains 5 red and 3 blue balls. If 3 balls are drawn at random without replacement the probability of getting exactly one red ball is",
+  "options": [
+   "$\\frac{45}{196}$",
+   "$\\frac{135}{392}$",
+   "$\\frac{15}{56}$",
+   "$\\frac{15}{29}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-075",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 75,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 25,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Refer to Question 74 above. The probability that exactly two of the three balls were red, the first ball being red, is",
+  "options": [
+   "$\\frac{1}{3}$",
+   "$\\frac{4}{7}$",
+   "$\\frac{15}{28}$",
+   "$\\frac{5}{28}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-076",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 76,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 25,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Three persons, A, B and C, fire at a target in turn, starting with A. Their probability of hitting the target are 0.4, 0.3 and 0.2 respectively. The probability of two hits is",
+  "options": [
+   "0.024",
+   "0.188",
+   "0.336",
+   "0.452"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-077",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 77,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 25,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Assume that in a family, each child is equally likely to be a boy or a girl. A family with three children is chosen at random. The probability that the eldest child is a girl given that the family has at least one girl is",
+  "options": [
+   "$\\frac{1}{2}$",
+   "$\\frac{1}{3}$",
+   "$\\frac{2}{3}$",
+   "$\\frac{4}{7}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-078",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 78,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 25,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "A die is thrown and a card is selected at random from a deck of 52 playing cards. The probability of getting an even number on the die and a spade card is",
+  "options": [
+   "$\\frac{1}{2}$",
+   "$\\frac{1}{4}$",
+   "$\\frac{1}{8}$",
+   "$\\frac{3}{4}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-079",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 79,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 26,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "A box contains 3 orange balls, 3 green balls and 2 blue balls. Three balls are drawn at random from the box without replacement. The probability of drawing 2 green balls and one blue ball is",
+  "options": [
+   "$\\frac{3}{28}$",
+   "$\\frac{2}{21}$",
+   "$\\frac{1}{28}$",
+   "$\\frac{167}{168}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-080",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 80,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 26,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "A flashlight has 8 batteries out of which 3 are dead. If two batteries are selected without replacement and tested, the probability that both are dead is",
+  "options": [
+   "$\\frac{33}{56}$",
+   "$\\frac{9}{64}$",
+   "$\\frac{1}{14}$",
+   "$\\frac{3}{28}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-081",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 81,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 26,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Eight coins are tossed together. The probability of getting exactly 3 heads is",
+  "options": [
+   "$\\frac{1}{256}$",
+   "$\\frac{7}{32}$",
+   "$\\frac{5}{32}$",
+   "$\\frac{3}{32}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-082",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 82,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 26,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Two dice are thrown. If it is known that the sum of numbers on the dice was less than 6, the probability of getting a sum 3, is",
+  "options": [
+   "$\\frac{1}{18}$",
+   "$\\frac{5}{18}$",
+   "$\\frac{1}{5}$",
+   "$\\frac{2}{5}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-083",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 83,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 26,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Which one is not a requirement of a binomial distribution?",
+  "options": [
+   "There are 2 outcomes for each trial",
+   "There is a fixed number of trials",
+   "The outcomes must be dependent on each other",
+   "The probability of success must be the same for all the trials"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-084",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 84,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 26,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Two cards are drawn from a well shuffled deck of 52 playing cards with replacement. The probability, that both cards are queens, is",
+  "options": [
+   "$\\frac{1}{13} \\times \\frac{1}{13}$",
+   "$\\frac{1}{13} + \\frac{1}{13}$",
+   "$\\frac{1}{13} \\times \\frac{1}{17}$",
+   "$\\frac{1}{13} \\times \\frac{4}{51}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-085",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 85,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 26,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The probability of guessing correctly at least 8 out of 10 answers on a true-false type examination is",
+  "options": [
+   "$\\frac{7}{64}$",
+   "$\\frac{7}{128}$",
+   "$\\frac{45}{1024}$",
+   "$\\frac{7}{41}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-086",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 86,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 27,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The probability that a person is not a swimmer is 0.3. The probability that out of 5 persons 4 are swimmers is",
+  "options": [
+   "${}^5C_4 (0.7)^4 (0.3)$",
+   "${}^5C_1 (0.7) (0.3)^4$",
+   "${}^5C_4 (0.7) (0.3)^4$",
+   "$(0.7)^4 (0.3)$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-087",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 87,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 27,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The probability distribution of a discrete random variable X is given below:\n\n| X | 2 | 3 | 4 | 5 |\n|---|---|---|---|---|\n| P(X) | $\\frac{5}{k}$ | $\\frac{7}{k}$ | $\\frac{9}{k}$ | $\\frac{11}{k}$ |\n\nThe value of k is",
+  "options": [
+   "8",
+   "16",
+   "32",
+   "48"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-088",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 88,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 27,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "For the following probability distribution:\n\n| X | –4 | –3 | –2 | –1 | 0 |\n|---|---|---|---|---|---|\n| P(X) | 0.1 | 0.2 | 0.3 | 0.2 | 0.2 |\n\nE(X) is equal to :",
+  "options": [
+   "0",
+   "–1",
+   "–2",
+   "–1.8"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-089",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 89,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 27,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "For the following probability distribution\n\n| X | 1 | 2 | 3 | 4 |\n|---|---|---|---|---|\n| P (X) | $\\frac{1}{10}$ | $\\frac{1}{5}$ | $\\frac{3}{10}$ | $\\frac{2}{5}$ |\n\n$E(X^2)$ is equal to",
+  "options": [
+   "3",
+   "5",
+   "7",
+   "10"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-090",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 90,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 27,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Suppose a random variable X follows the binomial distribution with parameters n and p, where $0 < p < 1$. If $P(x = r) / P(x = n-r)$ is independent of n and r, then p equals",
+  "options": [
+   "$\\frac{1}{2}$",
+   "$\\frac{1}{3}$",
+   "$\\frac{1}{5}$",
+   "$\\frac{1}{7}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-091",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 91,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 28,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "In a college, 30% students fail in physics, 25% fail in mathematics and 10% fail in both. One student is chosen at random. The probability that she fails in physics if she has failed in mathematics is",
+  "options": [
+   "$\\frac{1}{10}$",
+   "$\\frac{2}{5}$",
+   "$\\frac{9}{20}$",
+   "$\\frac{1}{3}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-092",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 92,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 28,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "A and B are two students. Their chances of solving a problem correctly are $\\frac{1}{3}$ and $\\frac{1}{4}$, respectively. If the probability of their making a common error is, $\\frac{1}{20}$ and they obtain the same answer, then the probability of their answer to be correct is",
+  "options": [
+   "$\\frac{1}{12}$",
+   "$\\frac{1}{40}$",
+   "$\\frac{13}{120}$",
+   "$\\frac{10}{13}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch13-093",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 93,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep213.pdf",
+   "page": 28,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "A box has 100 pens of which 10 are defective. What is the probability that out of a sample of 5 pens drawn one by one with replacement at most one is defective?",
+  "options": [
+   "$\\left(\\frac{9}{10}\\right)^5$",
+   "$\\frac{1}{2}\\left(\\frac{9}{10}\\right)^4$",
+   "$\\frac{1}{2}\\left(\\frac{9}{10}\\right)^5$",
+   "$\\left(\\frac{9}{10}\\right)^5 + \\frac{1}{2}\\left(\\frac{9}{10}\\right)^4$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

@@ -1,0 +1,2134 @@
+[
+ {
+  "id": "pyq-2021-physics-001",
+  "subject": "physics",
+  "chapter": "motion-in-a-straight-line",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 1,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "For a body moving along a straight line, the following v-t graph is obtained.\n\nAccording to the graph, the displacement during",
+  "options": [
+   "Uniform acceleration is greater than that during uniform motion.",
+   "Uniform acceleration is less than that during uniform motion.",
+   "Uniform acceleration is equal to that during uniform motion.",
+   "Uniform motion is zero."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2021-physics-001.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-002",
+  "subject": "physics",
+  "chapter": "motion-in-a-straight-line",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 2,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A particle starts from rest. Its acceleration '$a$' versus time '$t$' is shown in the figure. The maximum speed of the particle will be:",
+  "options": [
+   "$80\\,\\mathrm{m\\,s^{-1}}$",
+   "$40\\,\\mathrm{m\\,s^{-1}}$",
+   "$18\\,\\mathrm{m\\,s^{-1}}$",
+   "$2\\,\\mathrm{m\\,s^{-1}}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2021-physics-002.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-003",
+  "subject": "physics",
+  "chapter": "motion-in-a-plane",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 3,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The maximum range of a gun on horizontal plane is $16\\ \\mathrm{km}$. If $g = 10\\,\\mathrm{m\\,s^{-2}}$, then muzzle velocity of a shell is",
+  "options": [
+   "$160\\,\\mathrm{m\\,s^{-1}}$",
+   "$200\\sqrt{2}\\,\\mathrm{m\\,s^{-1}}$",
+   "$400\\,\\mathrm{m\\,s^{-1}}$",
+   "$800\\,\\mathrm{m\\,s^{-1}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-004",
+  "subject": "physics",
+  "chapter": "motion-in-a-plane",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 4,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The trajectory of a projectile is",
+  "options": [
+   "semicircle",
+   "an ellipse",
+   "a parabola always",
+   "a parabola in the absence of air resistance"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-005",
+  "subject": "physics",
+  "chapter": "motion-in-a-plane",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 5,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "For a projectile motion, the angle between the velocity and acceleration is minimum and acute at",
+  "options": [
+   "only one point",
+   "two points",
+   "three points",
+   "four points"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-006",
+  "subject": "physics",
+  "chapter": "motion-in-a-plane",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 6,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A particle starts from the origin at $t = 0\\ \\mathrm{s}$ with a velocity of $10\\,\\hat{j}\\ \\mathrm{m\\,s^{-1}}$ and moves in the $x$-$y$ plane with a constant acceleration of $(8\\,\\hat{i} + 2\\,\\hat{j})\\ \\mathrm{m\\,s^{-2}}$. At an instant when the $x$-coordinate of the particle is $16\\ \\mathrm{m}$, $y$-coordinate of the particle is:",
+  "options": [
+   "$16\\ \\mathrm{m}$",
+   "$28\\ \\mathrm{m}$",
+   "$36\\ \\mathrm{m}$",
+   "$24\\ \\mathrm{m}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-007",
+  "subject": "physics",
+  "chapter": "motion-in-a-plane",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 7,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A coin placed on a rotating turn table just slips if it is placed at a distance of $4\\ \\mathrm{cm}$ from the centre. If the angular velocity of the turn table is doubled it will just slip at a distance of:",
+  "options": [
+   "$1\\ \\mathrm{cm}$",
+   "$2\\ \\mathrm{cm}$",
+   "$4\\ \\mathrm{cm}$",
+   "$8\\ \\mathrm{cm}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-008",
+  "subject": "physics",
+  "chapter": "work-energy-and-power",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 8,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A $1\\ \\mathrm{kg}$ ball moving at $12\\ \\mathrm{m\\,s^{-1}}$ collides with a $2\\ \\mathrm{kg}$ ball moving in opposite direction at $24\\ \\mathrm{m\\,s^{-1}}$. If the coefficient of restitution is $\\frac{2}{3}$, then their velocities after the collision are",
+  "options": [
+   "$-4\\ \\mathrm{m\\,s^{-1}},\\ -28\\ \\mathrm{m\\,s^{-1}}$",
+   "$-28\\ \\mathrm{m\\,s^{-1}},\\ -4\\ \\mathrm{m\\,s^{-1}}$",
+   "$4\\ \\mathrm{m\\,s^{-1}},\\ 28\\ \\mathrm{m\\,s^{-1}}$",
+   "$28\\ \\mathrm{m\\,s^{-1}},\\ 4\\ \\mathrm{m\\,s^{-1}}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1,
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-009",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 9,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A ball hits the floor and rebounds after an inelastic collision. In this case",
+  "options": [
+   "the momentum of the ball is conserved",
+   "the mechanical energy of the ball is conserved",
+   "the total momentum of the ball and the earth is conserved",
+   "the total mechanical energy of the ball and the earth is conserved"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-010",
+  "subject": "physics",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 10,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "In figure $E$ and $V_{\\mathrm{cm}}$ represent the total energy and speed of centre of mass of an object of mass $1\\ \\mathrm{kg}$ in pure rolling. The object is:",
+  "options": [
+   "sphere",
+   "ring",
+   "disc",
+   "Hollow Cylinder"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2021-physics-010.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-011",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 11,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Two bodies of masses $8\\ \\mathrm{kg}$ are placed at the vertices $A$ and $B$ of an equilateral triangle $ABC$. A third body of mass $2\\ \\mathrm{kg}$ is placed at the centroid $G$ of the triangle. If $AG = BG = CG = 1\\ \\mathrm{m}$, where should a fourth body of mass $4\\ \\mathrm{kg}$ be placed so that the resultant force on the $2\\ \\mathrm{kg}$ body is zero?",
+  "options": [
+   "at $C$",
+   "at a point $P$ on the line $CG$ such that $PG = \\frac{1}{\\sqrt{2}}\\ \\mathrm{m}$",
+   "at a point $P$ on the line $CG$ such that $PG = 0.5\\ \\mathrm{m}$",
+   "at a point $P$ on the line $CG$ such that $PG = 2\\ \\mathrm{m}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-012",
+  "subject": "physics",
+  "chapter": "mechanical-properties-of-fluids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 12,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Two capillary tubes $P$ and $Q$ are dipped vertically in water. The height of water level in capillary tube $P$ is $\\frac{2}{3}$rd of the height in capillary tube $Q$. The ratio of their diameter is",
+  "options": [
+   "$2 : 3$",
+   "$3 : 2$",
+   "$3 : 4$",
+   "$4 : 3$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-013",
+  "subject": "physics",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 13,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Which of the following curves represent the variation of coefficient of volume expansion of an ideal gas at constant pressure?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2021-physics-013.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-014",
+  "subject": "physics",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 14,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A number of Carnot engines are operated at identical cold reservoir temperatures ($T_L$). However, their hot reservoir temperatures are kept different. A graph of the efficiency of the engines versus hot reservoir temperature ($T_H$) is plotted. The correct graphical representation is",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2021-physics-014.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-015",
+  "subject": "physics",
+  "chapter": "kinetic-theory",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 15,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A gas mixture contains monoatomic and diatomic molecules of 2 moles each. The mixture has a total internal energy of (symbols have usual meanings)",
+  "options": [
+   "$3RT$",
+   "$5RT$",
+   "$8RT$",
+   "$9RT$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-016",
+  "subject": "physics",
+  "chapter": "oscillations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 16,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A pendulum oscillates simple harmonically if and only if\n\n(I) the size of the bob of pendulum is negligible in comparison with the length of the pendulum.\n\n(II) the angular amplitude is less than $10^\\circ$.",
+  "options": [
+   "Both (I) and (II) are correct",
+   "Both (I) and (II) are incorrect",
+   "Only (I) is correct",
+   "Only (II) is correct"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-017",
+  "subject": "physics",
+  "chapter": "waves",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 17,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "To propagate both longitudinal and transverse waves, a material must have",
+  "options": [
+   "Bulk and shear moduli",
+   "Only bulk modulus",
+   "Only shear modulus",
+   "Young's and Bulk modulus"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-018",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 18,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A copper rod $AB$ of length $l$ is rotated about end $A$ with a constant angular velocity $\\omega$. The electric field at a distance $x$ from the axis of rotation is",
+  "options": [
+   "$\\frac{m\\omega^2 x}{e}$",
+   "$\\frac{m\\omega x}{e l}$",
+   "$\\frac{m x}{\\omega^2 l}$",
+   "$\\frac{m e}{\\omega^2 x}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-019",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 19,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Electric field due to infinite, straight uniformly charged wire varies with distance '$r$' as",
+  "options": [
+   "$r$",
+   "$\\frac{1}{r}$",
+   "$\\frac{1}{r^2}$",
+   "$r^2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-020",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 20,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A 2-gram object, located in a region of uniform electric field $\\vec{E} = (300\\ \\mathrm{N\\,C^{-1}})\\,\\hat{i}$ carries a charge $Q$. The object released from rest at $x = 0$, has a kinetic energy of $0.12\\ \\mathrm{J}$ at $x = 0.5\\ \\mathrm{m}$. Then $Q$ is",
+  "options": [
+   "$400\\ \\mu\\mathrm{c}$",
+   "$-400\\ \\mu\\mathrm{c}$",
+   "$800\\ \\mu\\mathrm{c}$",
+   "$-800\\ \\mu\\mathrm{c}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-021",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 21,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "If a slab of insulating material (conceptual) $4 \\times 10^{-3}\\ \\mathrm{m}$ thick is introduced between the plates of a parallel plate capacitor, the separation between the plates has to be increased by $3.5 \\times 10^{-3}\\ \\mathrm{m}$ to restore the capacity to original value. The dielectric constant of the material will be",
+  "options": [
+   "6",
+   "8",
+   "10",
+   "12"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-022",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 22,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Eight drops of mercury of equal radii combine to form a big drop. The capacitance of a bigger drop as compared to each smaller drop is",
+  "options": [
+   "2 times",
+   "8 times",
+   "4 times",
+   "16 times"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-023",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 23,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Which of the statements is false in the case of polar molecules?",
+  "options": [
+   "Centers of positive and negative charges are separated in the absence of external electric field.",
+   "Centers of positive and negative charges are separated in the presence of external electric field.",
+   "Do not possess permanent dipole moments.",
+   "Ionic molecule $\\mathrm{HCl}$ is the example of polar molecule."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-024",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 24,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "An electrician requires a capacitance of $6\\ \\mu\\mathrm{F}$ in a circuit across a potential difference of $1.5\\ \\mathrm{kV}$. A large number of $2\\ \\mu\\mathrm{F}$ capacitors which can withstand a potential difference of not more than $500\\ \\mathrm{V}$ are available. The minimum number of capacitors required for the purpose is",
+  "options": [
+   "3",
+   "9",
+   "6",
+   "27"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-025",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 25,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "In figure, charge on the capacitor is plotted against potential difference across the capacitor. The capacitance and energy stored in the capacitor are respectively.",
+  "options": [
+   "$12\\ \\mu\\mathrm{F},\\ 1200\\ \\mu\\mathrm{J}$",
+   "$12\\ \\mu\\mathrm{F},\\ 600\\ \\mu\\mathrm{J}$",
+   "$24\\ \\mu\\mathrm{F},\\ 600\\ \\mu\\mathrm{J}$",
+   "$24\\ \\mu\\mathrm{F},\\ 1200\\ \\mu\\mathrm{J}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2021-physics-025.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-026",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 26,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A wire of resistance $3\\ \\Omega$ is stretched to twice its original length. The resistance of the new wire will be",
+  "options": [
+   "$1.5\\ \\Omega$",
+   "$3\\ \\Omega$",
+   "$6\\ \\Omega$",
+   "$12\\ \\Omega$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-027",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 27,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "In the given arrangement of experiment on metre bridge, if $AD$ corresponding to null deflection of the galvanometer is $X$, what would be its value if the radius of the wire $AB$ is doubled?",
+  "options": [
+   "$X$",
+   "$\\frac{X}{4}$",
+   "$4X$",
+   "$2X$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2021-physics-027.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-028",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 28,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A copper wire of length $1\\ \\mathrm{m}$ and uniform crosssectional area $5 \\times 10^{-7}\\ \\mathrm{m^2}$ carries a current of $1\\ \\mathrm{A}$. Assuming that there are $8 \\times 10^{28}$ free electrons per $\\mathrm{m^3}$ in copper, how long will an electron take to drift from one end of the wire to the other?",
+  "options": [
+   "$0.8 \\times 10^{3}\\ \\mathrm{S}$",
+   "$1.6 \\times 10^{3}\\ \\mathrm{S}$",
+   "$3.2 \\times 10^{3}\\ \\mathrm{S}$",
+   "$6.4 \\times 10^{3}\\ \\mathrm{S}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-029",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 29,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Consider an electrical conductor connected across a potential difference $V$. Let $\\Delta q$ be a small charge moving through it in time $\\Delta t$. If $I$ is the electric current through it,\n\n(I) the kinetic energy of the charge increases by $IV\\Delta t$.\n\n(II) the electric potential energy of the charge decreases by $IV\\Delta t$.\n\n(III) the thermal energy of the conductor increases by $IV\\Delta t$.\n\nThen the correct statement/s is / are",
+  "options": [
+   "(I)",
+   "(I), (II)",
+   "(I) and (III)",
+   "(II), (III)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-030",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 30,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A strong magnetic field is applied on a stationary electron. Then the electron",
+  "options": [
+   "Moves in the direction of the field",
+   "Moves in an opposite direction of the field",
+   "Remains stationary",
+   "Starts spinning"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-031",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 31,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Two parallel wires in free space are $10\\ \\mathrm{cm}$ apart and each carries a current of $10\\ \\mathrm{A}$ in the same direction. The force exerted by one wire on the other [per unit length] is",
+  "options": [
+   "$2 \\times 10^{-4}\\ \\mathrm{N\\,m^{-1}}$ [attractive]",
+   "$2 \\times 10^{-7}\\ \\mathrm{N\\,m^{-1}}$ [attractive]",
+   "$2 \\times 10^{-4}\\ \\mathrm{N\\,m^{-1}}$ [repulsive]",
+   "$2 \\times 10^{-7}\\ \\mathrm{N\\,m^{-1}}$ [repulsive]"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-032",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 32,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A toroid with thick windings of $N$ turns has inner and outer radii $R_1$ and $R_2$ respectively. If it carries certain steady current $I$, the variation of the magnetic field due to the toroid with radial distance is correctly graphed in",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [
+   "pyq-2021-physics-032.png"
+  ],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2021-physics-033",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 33,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A tightly wound long solenoid has '$n$' turns per unit length, a radius '$r$' and carries a current $I$. A particle having charge '$q$' and mass '$m$' is projected from a point on the axis in a direction perpendicular to the axis. The maximum speed of the particle for which the particle does not strike the solenoid is",
+  "options": [
+   "$\\frac{\\mu_0 n I q r}{m}$",
+   "$\\frac{\\mu_0 n I q r}{2m}$",
+   "$\\frac{\\mu_0 n I q r}{4m}$",
+   "$\\frac{\\mu_0 n I q r}{8m}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-034",
+  "subject": "physics",
+  "chapter": "magnetism-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 34,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Earth's magnetic field always has a horizontal component except at",
+  "options": [
+   "equator",
+   "magnetic poles",
+   "a latitude of $60^\\circ$",
+   "an altitude of $60^\\circ$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-035",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 35,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Which of the field pattern given below is valid for electric field as well as for magnetic field?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2021-physics-035.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "disputed",
+   "notes": "Key cell (A1, Q35) reads 3 = option C (concentric circles), read correctly; transcription is fine (options are images). Concentric circles cannot be a static electric field (non-conservative), whereas the dipole loop pattern D is valid for both electric and magnetic dipoles, so D looks correct.",
+   "disputed": true,
+   "status_reason": "official key kept; Sonnet disagrees"
+  }
+ },
+ {
+  "id": "pyq-2021-physics-036",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 36,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 19,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The current flowing through an inductance coil of self inductance $6\\ \\mathrm{mH}$ at different time instants is as shown. The emf induced between $t = 20\\ \\mathrm{s}$ and $t = 40\\ \\mathrm{s}$ is nearly",
+  "options": [
+   "$2 \\times 10^{-2}\\ \\mathrm{V}$",
+   "$3 \\times 10^{-2}\\ \\mathrm{V}$",
+   "$4 \\times 10^{-3}\\ \\mathrm{V}$",
+   "$30 \\times 10^{2}\\ \\mathrm{V}$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [
+   "pyq-2021-physics-036.png"
+  ],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2021-physics-037",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 37,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 19,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The physical quantity which is measured in the unit of $\\mathrm{wb\\,A^{-1}}$ is",
+  "options": [
+   "Self inductance",
+   "Mutual inductance",
+   "Magnetic flux",
+   "Both (A) and (B)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-038",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 38,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 19,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "What will be the reading in the voltmeter and ammeter of the circuit shown?",
+  "options": [
+   "$90\\ \\mathrm{V},\\ 2\\ \\mathrm{A}$",
+   "$0\\ \\mathrm{V},\\ 2\\ \\mathrm{A}$",
+   "$90\\ \\mathrm{V},\\ 1\\ \\mathrm{A}$",
+   "$0\\ \\mathrm{V},\\ 1\\ \\mathrm{A}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2021-physics-038.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-039",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 39,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 19,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "LC oscillations are similar and analogous to the mechanical oscillations of a block attached to a spring. The electrical equivalent of the force constant of the spring is",
+  "options": [
+   "reciprocal of capacitive reactance",
+   "capacitive reactance",
+   "reciprocal of capacitance",
+   "capacitance"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-040",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 40,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 19,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "In an oscillating LC circuit, $L = 3.00\\ \\mathrm{mH}$ and $C = 2.70\\ \\mu\\mathrm{F}$. At $t = 0$ the charge on the capacitor is zero and the current is $2.00\\ \\mathrm{A}$. The maximum charge that will appear on the capacitor will be:",
+  "options": [
+   "$1.8 \\times 10^{-5}\\ \\mathrm{C}$",
+   "$18 \\times 10^{-5}\\ \\mathrm{C}$",
+   "$9 \\times 10^{-5}\\ \\mathrm{C}$",
+   "$90 \\times 10^{-5}\\ \\mathrm{C}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-041",
+  "subject": "physics",
+  "chapter": "electromagnetic-waves",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 41,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 21,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Suppose that the electric field amplitude of electromagnetic wave is $E_0 = 120\\ \\mathrm{N\\,C^{-1}}$ and its frequency is $f = 50\\ \\mathrm{MHz}$. Then which of the following value is incorrectly computed?",
+  "options": [
+   "Magnetic field amplitude is $400\\ \\mathrm{nT}$.",
+   "Angular frequency of EM wave is $\\pi \\times 10^{8}\\ \\mathrm{rad/s}$",
+   "Propagation constant (angular wave number) is $2.1\\ \\mathrm{rad/m}$",
+   "Wavelength of the EM wave is $6\\ \\mathrm{m}$."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-042",
+  "subject": "physics",
+  "chapter": "electromagnetic-waves",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 42,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 21,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The source of electromagnetic waves can be a charge.",
+  "options": [
+   "Moving with a constant velocity",
+   "Moving in a circular orbit.",
+   "At rest",
+   "Moving parallel to the magnetic field"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-043",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 43,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 21,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "In refraction, light waves are bent on passing from one medium to second medium because, in the second medium.",
+  "options": [
+   "frequency is different",
+   "speed is different",
+   "coefficient of elasticity is different",
+   "amplitude is smaller."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-044",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 44,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 21,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "If the refractive index from air to glass is $\\frac{3}{2}$ and that from air to water is $\\frac{4}{3}$, then the ratio of focal lengths of a glass lens in water and in air is",
+  "options": [
+   "$1 : 2$",
+   "$2 : 1$",
+   "$1 : 4$",
+   "$4 : 1$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-045",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 45,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 21,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Two thin biconvex lenses have focal lengths $f_1$ and $f_2$. A third thin biconcave lens has focal length of $f_3$. If the two biconvex lenses are in contact, the total power of the lenses is $P_1$. If the first convex lens is in contact with the third lens, the total power is $P_2$. If the second lens is in contact with the third lens, the total power is $P_3$ then",
+  "options": [
+   "$P_1 = \\frac{f_1 f_2}{f_1 - f_2},\\ P_2 = \\frac{f_1 f_3}{f_3 - f_1}$ and $P_3 = \\frac{f_2 f_3}{f_3 - f_2}$",
+   "$P_1 = \\frac{f_1 - f_2}{f_1 f_2},\\ P_2 = \\frac{f_3 - f_1}{f_3 + f_1}$ and $P_3 = \\frac{f_3 - f_2}{f_2 f_3}$",
+   "$P_1 = \\frac{f_1 - f_2}{f_1 f_2},\\ P_2 = \\frac{f_3 - f_1}{f_1 f_3}$ and $P_3 = \\frac{f_3 - f_2}{f_2 f_3}$",
+   "$P_1 = \\frac{f_1 + f_2}{f_1 f_2},\\ P_2 = \\frac{f_3 - f_1}{f_1 f_3}$ and $P_3 = \\frac{f_3 - f_2}{f_2 f_3}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-046",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 46,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 23,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The size of the image of an object, which is at infinity, as formed by a convex lens of focal length $30\\ \\mathrm{cm}$ is $2\\ \\mathrm{cm}$. If a concave lens of focal length $20\\ \\mathrm{cm}$ is placed between the convex lens and the image at a distance of $26\\ \\mathrm{cm}$ from the lens, the new size of the image is:",
+  "options": [
+   "$1.25\\ \\mathrm{cm}$",
+   "$2.5\\ \\mathrm{cm}$",
+   "$1.05\\ \\mathrm{cm}$",
+   "$2\\ \\mathrm{cm}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-047",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 47,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 23,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A slit of width '$a$' is illuminated by red light of wavelength $6500\\ \\mathrm{\\AA}$. If the first diffraction minimum falls at $30^\\circ$, then the value of '$a$' is",
+  "options": [
+   "$6.5 \\times 10^{-4}\\ \\mathrm{mm}$",
+   "1.3 micron",
+   "$3250\\ \\mathrm{\\AA}$",
+   "$2.6 \\times 10^{-4}\\ \\mathrm{cm}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-048",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 48,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 23,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Which of the statements are correct with reference to single slit diffraction pattern?\n\n(i) Fringes are of unequal width\n\n(ii) Fringes are of equal width\n\n(iii) Light energy is conserved\n\n(iv) Intensities of all bright fringes are equal",
+  "options": [
+   "(i) and (iii)",
+   "(i) and (iv)",
+   "(ii) and (iv)",
+   "(ii) and (iii)"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-049",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 49,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 23,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "In the Young's double slit experiment a monochromatic source of wavelength $\\lambda$ is used. The intensity of light passing through each slit is $I_0$. The intensity of light reaching the screen $S_c$ at a point $P$, a distance $x$ from $O$ is given by (Take $d \\ll D$).",
+  "options": [
+   "$I_0 \\cos^2\\left(\\frac{\\pi D}{\\lambda d}x\\right)$",
+   "$4I_0 \\cos^2\\left(\\frac{\\pi d}{\\lambda D}x\\right)$",
+   "$I_0 \\sin^2\\left(\\frac{\\pi d}{2\\lambda D}x\\right)$",
+   "$4I_0 \\cos\\left(\\frac{\\pi d}{2\\lambda D}x\\right)$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2021-physics-049.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-050",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 50,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 25,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The work function of a metal is $1\\ \\mathrm{eV}$. Light of wavelength $3000\\ \\mathrm{\\AA}$ is incident on this metal surface. The velocity of emitted photoelectrons will be",
+  "options": [
+   "$10\\ \\mathrm{m\\,s^{-1}}$",
+   "$1 \\times 10^{3}\\ \\mathrm{m\\,s^{-1}}$",
+   "$1 \\times 10^{4}\\ \\mathrm{m\\,s^{-1}}$",
+   "$1 \\times 10^{6}\\ \\mathrm{m\\,s^{-1}}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-051",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 51,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 25,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A proton moving with a momentum $P_1$ has a kinetic energy $\\frac{1}{8}$th of its rest mass energy. Another light photon having energy equal to the kinetic energy of the proton possesses a momentum $P_2$. Then the ratio $\\frac{P_1 - P_2}{P_1}$ is equal to",
+  "options": [
+   "$1$",
+   "$\\frac{1}{4}$",
+   "$\\frac{1}{2}$",
+   "$\\frac{3}{4}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-052",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 52,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 25,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "According to Einstein's photoelectric equation the graph between kinetic energy of photoelectrons ejected and the frequency of incident radiation is",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2021-physics-052.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-053",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 53,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 25,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Energy of an electron in the second orbit of hydrogen atom is $E_2$. The energy of electron in the third orbit of $\\mathrm{He^{+}}$ will be",
+  "options": [
+   "$\\frac{9}{16}E_2$",
+   "$\\frac{16}{9}E_2$",
+   "$\\frac{3}{16}E_2$",
+   "$\\frac{16}{3}E_2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-054",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 54,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 27,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The figure shows standing de Broglie waves due to the revolution of electron in a certain orbit of hydrogen atom. Then the expression for the orbit radius is (all notations have their usual meanings)",
+  "options": [
+   "$\\frac{h^2 \\epsilon_0}{\\pi m e^2}$",
+   "$\\frac{4h^2 \\epsilon_0}{\\pi m e^2}$",
+   "$\\frac{9h^2 \\epsilon_0}{\\pi m e^2}$",
+   "$\\frac{16h^2 \\epsilon_0}{\\pi m e^2}$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [
+   "pyq-2021-physics-054.png"
+  ],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2021-physics-055",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 55,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 27,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "An electron in an excited state of $\\mathrm{Li^{2+}}$ ion has angular momentum $\\frac{3h}{2\\pi}$. The de Broglie wavelength of electron in this state is $P\\pi a_0$ (where $a_0$ = Bohr radius). The value of $P$ is",
+  "options": [
+   "3",
+   "2",
+   "1",
+   "4"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-056",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 56,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 27,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Which graph in the following diagrams correctly represents the potential energy of a pair of nucleons as a function of their separation?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2021-physics-056.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-057",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 57,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 29,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "In a nuclear reactor heavy nuclei is not used as moderators because",
+  "options": [
+   "They will break up",
+   "Elastic collision of neutrons with heavy nuclei will not slow them down.",
+   "The net weight of the reactor would be unbearably high",
+   "Substances with heavy nuclei do not occur in liquid or gaseous state at room temperature."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-058",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 58,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 29,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The circuit given represents which of the logic operations?",
+  "options": [
+   "OR",
+   "AND",
+   "NOT",
+   "NOR"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2021-physics-058.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-059",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 59,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 29,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Identify the incorrect statement:",
+  "options": [
+   "when a P-N junction diode is forward biased, the width of the depletion region decreases.",
+   "when a P-N junction diode is reverse biased, the barrier potential increases.",
+   "a photo diode is operated in the reverse bias.",
+   "an LED is a lightly doped P-N junction diode which emits spontaneous radiation on forward biasing."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-physics-060",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 60,
+   "file": "sources/pyq/2021/physics/2021-physics-question_paper-A1-aglasem.pdf",
+   "page": 29,
+   "key_file": "sources/pyq/2021/physics/2021-physics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Three photodiodes $D_1$, $D_2$ and $D_3$ are made of semiconductors having band gaps of $2.5\\ \\mathrm{eV}$, $2\\ \\mathrm{eV}$ and $3\\ \\mathrm{eV}$ respectively. Which one will be able to detect light of wavelength $600\\ \\mathrm{nm}$?",
+  "options": [
+   "$D_1$ only",
+   "Both $D_1$ and $D_3$",
+   "$D_2$ only",
+   "All the three diodes"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

@@ -1,0 +1,2122 @@
+[
+ {
+  "id": "pyq-2008-physics-001",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 1,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A ray of light enters from a rarer to a denser medium. The angle of incidence is $i$. Then the reflected and refracted rays are mutually perpendicular to each other. The critical angle for the pair of media is",
+  "options": [
+   "$\\sin^{-1}(\\tan i)$",
+   "$\\tan^{-1}(\\sin i)$",
+   "$\\sin^{-1}(\\cot i)$",
+   "$\\cos^{-1}(\\tan i)$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-002",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 2,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A fish in water (refractive index $n$) looks at a bird vertically above in the air. If $y$ is the height of the bird and $x$ is the depth of the fish from the surface, then the distance of the bird as estimated by the fish is",
+  "options": [
+   "$x+y\\left(1-\\frac{1}{n}\\right)$",
+   "$x+ny$",
+   "$x+y\\left(1+\\frac{1}{n}\\right)$",
+   "$y+x\\left(1-\\frac{1}{n}\\right)$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-003",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 3,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Figure shows a mixture of blue, green and red coloured rays incident normally on a right angled prism. The critical angles of the material of the prism for red, green and blue are $46^\\circ$, $44^\\circ$ and $43^\\circ$ respectively. The arrangement will separate",
+  "options": [
+   "red colour from blue and green",
+   "blue colour from red and green",
+   "green colour from red and blue",
+   "all the three colours."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2008-physics-003.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-004",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 4,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A convex and a concave lens seperated by distance $d$ are then put in contact. The focal length of the combination",
+  "options": [
+   "decreases",
+   "increases",
+   "becomes 0",
+   "remains the same"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-005",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 5,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A convex lens is made of 3 layers of glass of 3 different materials as in the figure. A point object is placed on its axis. The number of images of the object are",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2008-physics-005.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "key_confirmed",
+   "notes": "Transcription exact; layers lie in series along the axis so one compound lens gives 1 image; key cell A1=1 re-read in both key files."
+  }
+ },
+ {
+  "id": "pyq-2008-physics-006",
+  "subject": "physics",
+  "chapter": "electromagnetic-waves",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 6,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $\\mu_0$ is permeability of free space and $\\epsilon_0$ is permittivity of free space, the speed of light in vacuum is given by",
+  "options": [
+   "$\\sqrt{\\mu_0\\,\\epsilon_0}$",
+   "$\\sqrt{\\frac{\\mu_0}{\\epsilon_0}}$",
+   "$\\sqrt{\\frac{1}{\\mu_0\\,\\epsilon_0}}$",
+   "$\\sqrt{\\frac{\\epsilon_0}{\\mu_0}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-007",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 7,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "In Young's double slit experiment, a third slit is made in between the double slits. Then",
+  "options": [
+   "intensity of fringes totally disappears.",
+   "only bright light is observed on the screen.",
+   "fringes of unequal width are formed.",
+   "contrast between bright and dark fringes is reduced."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-008",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 8,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The maximum number of possible interference maxima when slit separation is equal to 4 times the wavelength of light used in a double slit experiment is",
+  "options": [
+   "$\\infty$",
+   "9",
+   "8",
+   "4"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-009",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 9,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "In a Fraunhofer diffraction experiment at a single slit using a light of wavelength $400\\,\\mathrm{nm}$, the first minimum is formed at an angle of $30^\\circ$. The direction $\\theta$ of the first secondary maximum is given by",
+  "options": [
+   "$\\sin^{-1}\\frac{2}{3}$",
+   "$\\sin^{-1}\\frac{3}{4}$",
+   "$\\sin^{-1}\\frac{1}{4}$",
+   "$\\tan^{-1}\\frac{2}{3}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-010",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 10,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Maximum diffraction takes place in a given slit for",
+  "options": [
+   "$\\gamma$-rays",
+   "ultraviolet light",
+   "infrared light",
+   "radio waves"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-011",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 11,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "An unpolarised beam of intensity $I_0$ falls on a polaroid. The intensity of the emergent light is",
+  "options": [
+   "$\\frac{I_0}{2}$",
+   "$I_0$",
+   "$\\frac{I_0}{4}$",
+   "Zero"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-012",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 12,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Which of the following is a dichroic crystal ?",
+  "options": [
+   "Quartz",
+   "Tourmaline",
+   "Mica",
+   "Selenite"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-013",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 13,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Two identical metal spheres charged with $+12\\,\\mu F$ and $-8\\,\\mu F$ are kept at certain distance in air. They are brought into contact and then kept at the same distance. The ratio of the magnitudes of electrostatic forces between them before and after contact is",
+  "options": [
+   "12 : 1",
+   "8 : 1",
+   "24 : 1",
+   "4 : 1"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-014",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 14,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A small conducting sphere of radius $r$ is lying concentrically inside a bigger hollow conducting sphere of radius $R$. The bigger and smaller spheres are charged with $Q$ and $q$ ($Q > q$) and are insulated from each other. The potential difference between the spheres will be",
+  "options": [
+   "$\\frac{1}{4\\pi\\epsilon_0}\\left(\\frac{q}{r}-\\frac{q}{R}\\right)$",
+   "$\\frac{1}{4\\pi\\epsilon_0}\\left(\\frac{q}{R}-\\frac{Q}{r}\\right)$",
+   "$\\frac{1}{4\\pi\\epsilon_0}\\left(\\frac{q}{r}-\\frac{Q}{R}\\right)$",
+   "$\\frac{1}{4\\pi\\epsilon_0}\\left(\\frac{Q}{R}+\\frac{q}{r}\\right)$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-015",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 15,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The charges $Q$, $+q$ and $+q$ are placed at the vertices of an equilateral triangle of side $l$. If the net electrostatic potential energy of the system is zero, then $Q$ is equal to",
+  "options": [
+   "$-\\frac{q}{2}$",
+   "$-q$",
+   "$+\\frac{q}{2}$",
+   "zero"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-016",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 16,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "How many $6\\,\\mu F$, 200 V condensers are needed to make a condenser of $18\\,\\mu F$, 600 V?",
+  "options": [
+   "9",
+   "18",
+   "3",
+   "27"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-017",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 17,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The total energy stored in the condenser system shown in the figure will be",
+  "options": [
+   "$2\\,\\mu J$",
+   "$4\\,\\mu J$",
+   "$8\\,\\mu J$",
+   "$16\\,\\mu J$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2008-physics-017.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-018",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 18,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A metal wire is subjected to a constant potential difference. When the temperature of the metal wire increases, the drift velocity of the electron in it",
+  "options": [
+   "increases, thermal velocity of the electron decreases",
+   "decreases, thermal velocity of the electron decreases",
+   "increases, thermal velocity of the electron increases",
+   "decreases, thermal velocity of the electron increases"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-019",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 19,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The equivalent resistance between the points $A$ and $B$ will be (each resistance is $15\\,\\Omega$)",
+  "options": [
+   "$30\\,\\Omega$",
+   "$8\\,\\Omega$",
+   "$10\\,\\Omega$",
+   "$40\\,\\Omega$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2008-physics-019.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-020",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 20,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The terminals of a $18\\,\\mathrm{V}$ battery with an internal resistance of $24\\,\\Omega$ are connected to a circular wire of resistance $24\\,\\Omega$ at two points distant at one quarter of the circumference of a circular wire. The current through the bigger arc of the circle will be",
+  "options": [
+   "$0.75\\,\\mathrm{A}$",
+   "$1.5\\,\\mathrm{A}$",
+   "$2.25\\,\\mathrm{A}$",
+   "$3\\,\\mathrm{A}$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2008-physics-021",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 21,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The potential difference between $A$ and $B$ in the following figure is",
+  "options": [
+   "32 V",
+   "48 V",
+   "24 V",
+   "14 V"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [
+   "pyq-2008-physics-021.png"
+  ],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2008-physics-022",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 22,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The magnetic field at the centre of a circular current carrying conductor of radius $r$ is $B_c$. The magnetic field on its axis at a distance $r$ from the centre is $B_a$. The value of $B_c : B_a$ will be",
+  "options": [
+   "$1:\\sqrt{2}$",
+   "$1:2\\sqrt{2}$",
+   "$2\\sqrt{2}:1$",
+   "$\\sqrt{2}:1$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-023",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 23,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Current '$I$' is flowing in a conductor shaped as shown in the figure. The radius of the curved part is $r$ and the length of straight portion is very large. The value of the magnetic field at the centre $O$ will be",
+  "options": [
+   "$\\frac{\\mu_0 I}{4\\pi r}\\left(\\frac{3\\pi}{2}+1\\right)$",
+   "$\\frac{\\mu_0 I}{4\\pi r}\\left(\\frac{3\\pi}{2}-1\\right)$",
+   "$\\frac{\\mu_0 I}{4\\pi r}\\left(\\frac{\\pi}{2}+1\\right)$",
+   "$\\frac{\\mu_0 I}{4\\pi r}\\left(\\frac{\\pi}{2}-1\\right)$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2008-physics-023.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-024",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 24,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Two tangent galvanometers $A$ and $B$ are identical except in their number of turns. They are connected in series. On passing a current through them, deflections of $60^\\circ$ and $30^\\circ$ are produced. The ratio of the number of turns in $A$ and $B$ is",
+  "options": [
+   "1 : 3",
+   "3 : 1",
+   "1 : 2",
+   "2 : 1"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "key_confirmed",
+   "notes": "Transcription exact; n proportional to tan(theta) for same current, so 3:1; key cell A1=2 confirmed."
+  }
+ },
+ {
+  "id": "pyq-2008-physics-025",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 25,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The resultant force on the current loop $PQRS$ due to a long current carrying conductor will be",
+  "options": [
+   "$10^{-4}\\,\\mathrm{N}$",
+   "$3.6\\times10^{-4}\\,\\mathrm{N}$",
+   "$1.8\\times10^{-4}\\,\\mathrm{N}$",
+   "$5\\times10^{-4}\\,\\mathrm{N}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2008-physics-025.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-026",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 26,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A certain current on passing through a galvanometer produces a deflection of 100 divisions. When a shunt of one ohm is connected, the deflection reduces to 1 division. The galvanometer resistance is",
+  "options": [
+   "$100\\,\\Omega$",
+   "$99\\,\\Omega$",
+   "$10\\,\\Omega$",
+   "$9.9\\,\\Omega$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-027",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 27,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Two similar circular loops carry equal currents in the same direction. On moving the coils further apart, the electric current will",
+  "options": [
+   "increase in both",
+   "decrease in both",
+   "remain unaltered",
+   "increases in one and decreases in the second"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-028",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 28,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The value of alternating emf $E$ in the given circuit will be",
+  "options": [
+   "220 V",
+   "140 V",
+   "100 V",
+   "20 V"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2008-physics-028.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-029",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 29,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A current of $5\\,\\mathrm{A}$ is flowing at $220\\,\\mathrm{V}$ in the primary coil of a transformer. If the voltage produced in the secondary coil is $2200\\,\\mathrm{V}$ and $50\\%$ of power is lost, then the current in the secondary will be",
+  "options": [
+   "2.5 A",
+   "5 A",
+   "0.25 A",
+   "0.5 A"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-030",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 30,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "For a series LCR circuit at resonance, the statement which is not true is",
+  "options": [
+   "Peak energy stored by a capacitor = peak energy stored by an inductor",
+   "Average power = apparent power",
+   "Wattless current is zero",
+   "Power factor is zero"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-031",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 31,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Solar spectrum is an example for",
+  "options": [
+   "line emission spectrum",
+   "continuous emission spectrum",
+   "band absorption spectrum",
+   "line absorption spectrum"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-032",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 32,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "When a piece of metal is illuminated by a monochromatic light of wavelength $\\lambda$, then stopping potential is $3V_s$. When same surface is illuminated by light of wavelength $2\\lambda$, then stopping potential becomes $V_s$. The value of threshold wavelength for photoelectric emission will be",
+  "options": [
+   "$4\\lambda$",
+   "$8\\lambda$",
+   "$\\frac{1}{3}\\lambda$",
+   "$6\\lambda$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-033",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 33,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The maximum kinetic energy of emitted electrons in a photoelectric effect does not depend upon",
+  "options": [
+   "wavelength",
+   "frequency",
+   "intensity",
+   "work function"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-034",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 34,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The ratio of minimum wavelengths of Lyman and Balmer series will be",
+  "options": [
+   "1.25",
+   "0.25",
+   "5",
+   "10"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-035",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 35,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Hydrogen atom does not emit X-rays because",
+  "options": [
+   "it contains only a single electron",
+   "energy levels in it are far apart",
+   "its size is very small",
+   "energy levels in it are very close to each other"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "key_confirmed",
+   "notes": "Transcription exact; hydrogen level gaps too small for X-ray energies; key 4 matches."
+  }
+ },
+ {
+  "id": "pyq-2008-physics-036",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 36,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If an electron and a proton have the same de-Broglie wavelength, then the kinetic energy of the electron is",
+  "options": [
+   "zero",
+   "less than that of a proton",
+   "more than that of a proton",
+   "equal to that of a proton"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-037",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 37,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Two protons are kept at a separation of $40\\,\\mathrm{\\AA}$. $F_n$ is the nuclear force and $F_e$ is the electrostatic force between them. Then",
+  "options": [
+   "$F_n \\gg F_e$",
+   "$F_n = F_e$",
+   "$F_n \\ll F_e$",
+   "$F_n \\approx F_e$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-038",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 38,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Blue colour of sea water is due to",
+  "options": [
+   "interference of sunlight reflected from the water surface",
+   "scattering of sunlight by the water molecules",
+   "image of sky in water",
+   "refraction of sunlight"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-039",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 39,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The ratio of the nuclear radii of elements with mass numbers 216 and 125 is",
+  "options": [
+   "216 : 125",
+   "$\\sqrt{216} : \\sqrt{125}$",
+   "6 : 5",
+   "none of these"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-040",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 40,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "On bombarding $\\mathrm{U}^{235}$ by slow neutron, 200 MeV energy is released. If the power output of atomic reactor is 1.6 MW, then the rate of fission will be",
+  "options": [
+   "$5\\times10^{22}\\ /\\mathrm{s}$",
+   "$5\\times10^{16}\\ /\\mathrm{s}$",
+   "$8\\times10^{16}\\ /\\mathrm{s}$",
+   "$20\\times10^{16}\\ /\\mathrm{s}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-041",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 41,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The masses of two radioactive substances are same and their half lives are 1 year and 2 years respectively. The ratio of their activities after 6 years will be",
+  "options": [
+   "1 : 4",
+   "1 : 2",
+   "1 : 3",
+   "1 : 6"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-042",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 42,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "$_{92}\\mathrm{U}^{235}$ undergoes successive disintegrations with the end product of $_{82}\\mathrm{Pb}^{203}$. The number of $\\alpha$ and $\\beta$ particles emitted are",
+  "options": [
+   "$\\alpha = 6,\\ \\beta = 4$",
+   "$\\alpha = 6,\\ \\beta = 0$",
+   "$\\alpha = 8,\\ \\beta = 6$",
+   "$\\alpha = 3,\\ \\beta = 3$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-043",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 43,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The most stable particle in Baryon group is",
+  "options": [
+   "neutron",
+   "omega - particle",
+   "proton",
+   "lamda - particle"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-044",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 44,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "In an unbiased p-n junction",
+  "options": [
+   "Potential at $p$ is more than that at $n$",
+   "Potential at $p$ is less than that at $n$",
+   "Potential at $p$ is equal to that at $n$",
+   "Potential at $p$ is +ve and that at $n$ is -ve"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-045",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 45,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "To get an output $y = 1$ from the circuit shown, the inputs $A$, $B$ and $C$ must be respectively",
+  "options": [
+   "0, 1, 0",
+   "1, 0, 0",
+   "1, 0, 1",
+   "1, 1, 0"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2008-physics-045.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-046",
+  "subject": "physics",
+  "chapter": "units-and-measurement",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 46,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Dimensional formula for the universal gravitational constant $G$ is",
+  "options": [
+   "$M^{-1}L^{2}T^{-2}$",
+   "$M^{0}L^{0}T^{0}$",
+   "$M^{-1}L^{3}T^{-2}$",
+   "$M^{-1}L^{3}T^{-1}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-047",
+  "subject": "physics",
+  "chapter": "motion-in-a-straight-line",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 47,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A body is projected vertically upwards. The times corresponding to height $h$ while ascending and while descending are $t_1$ and $t_2$ respectively. Then the velocity of projection is ($g$ is acceleration due to gravity)",
+  "options": [
+   "$g\\sqrt{t_1 t_2}$",
+   "$\\frac{g\\,t_1 t_2}{t_1+t_2}$",
+   "$\\frac{g\\sqrt{t_1 t_2}}{2}$",
+   "$\\frac{g\\,(t_1+t_2)}{2}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-048",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 48,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A mass of $10\\,\\mathrm{kg}$ is suspended from a spring balance. It is pulled aside by a horizontal string so that it makes an angle of $60^\\circ$ with the vertical. The new reading of the balance is",
+  "options": [
+   "$20\\,\\mathrm{kg.wt}$",
+   "$10\\,\\mathrm{kg.wt}$",
+   "$10\\sqrt{3}\\,\\mathrm{kg.wt}$",
+   "$20\\sqrt{3}\\,\\mathrm{kg.wt}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-049",
+  "subject": "physics",
+  "chapter": "mechanical-properties-of-fluids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 49,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A body weighs 50 grams in air and 40 grams in water. How much would it weigh in a liquid of specific gravity 1.5?",
+  "options": [
+   "30 grams",
+   "35 grams",
+   "65 grams",
+   "45 grams"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-050",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 50,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A body of mass 4 kg is accelerated upon by a constant force, travels a distance of 5 m in the first second and a distance of 2 m in the third second. The force acting on the body is",
+  "options": [
+   "2 N",
+   "4 N",
+   "6 N",
+   "8 N"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-051",
+  "subject": "physics",
+  "chapter": "oscillations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 51,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A simple pendulum is suspended from the ceiling of a lift. When the lift is at rest its time period is $T$. With what acceleration should the lift be accelerated upwards in order to reduce its period to $T/2$? ($g$ is acceleration due to gravity).",
+  "options": [
+   "$2g$",
+   "$3g$",
+   "$4g$",
+   "$g$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-052",
+  "subject": "physics",
+  "chapter": "kinetic-theory",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 52,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $\\gamma$ is the ratio of specific heats and $R$ is the universal gas constant, then the molar specific heat at constant volume $C_v$ is given by",
+  "options": [
+   "$\\gamma R$",
+   "$\\frac{(\\gamma-1)R}{\\gamma}$",
+   "$\\frac{R}{\\gamma-1}$",
+   "$\\frac{\\gamma R}{\\gamma-1}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-053",
+  "subject": "physics",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 53,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "An ideal gas is taken via path $ABCA$ as shown in figure. The network done in the whole cycle is",
+  "options": [
+   "$3P_1V_1$",
+   "$-3P_1V_1$",
+   "$6P_1V_1$",
+   "zero"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2008-physics-053.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-054",
+  "subject": "physics",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 54,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "In which of the processes, does the internal energy of the system remain constant ?",
+  "options": [
+   "Adiabatic",
+   "Isochoric",
+   "Isobaric",
+   "Isothermal"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-055",
+  "subject": "physics",
+  "chapter": "thermal-properties-of-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 55,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The coefficient of thermal conductivity of copper is 9 times that of steel. In the composite cylindrical bar shown in the figure, what will be the temperature at the junction of copper and steel ?",
+  "options": [
+   "$75^\\circ\\mathrm{C}$",
+   "$67^\\circ\\mathrm{C}$",
+   "$25^\\circ\\mathrm{C}$",
+   "$33^\\circ\\mathrm{C}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2008-physics-055.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-056",
+  "subject": "physics",
+  "chapter": "waves",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 56,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The equation of a simple harmonic wave is given by $y = 6\\sin 2\\pi(2t - 0.1x)$, where $x$ and $y$ are in mm and $t$ is in seconds. The phase difference between two particles $2$ mm apart at any instant is",
+  "options": [
+   "$18^\\circ$",
+   "$36^\\circ$",
+   "$54^\\circ$",
+   "$72^\\circ$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-057",
+  "subject": "physics",
+  "chapter": "waves",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 57,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "With what velocity should an observer approach a stationary sound source so that the apparent frequency of sound should appear double the actual frequency? ($v$ is velocity of sound).",
+  "options": [
+   "$\\frac{v}{2}$",
+   "$3v$",
+   "$2v$",
+   "$v$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-058",
+  "subject": "physics",
+  "chapter": "thermal-properties-of-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 58,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If a black body emits 0.5 joules of energy per second when it is at $27^\\circ C$, then the amount of energy emitted by it when it is at $627^\\circ C$ will be",
+  "options": [
+   "40.5 J",
+   "162 J",
+   "13.5 J",
+   "135 J"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-059",
+  "subject": "physics",
+  "chapter": "waves",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 59,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A string vibrates with a frequency of 200 Hz. When its length is doubled and tension is altered, it begins to vibrate with a frequency of 300 Hz. The ratio of the new tension to the original tension is",
+  "options": [
+   "9 : 1",
+   "1 : 9",
+   "3 : 1",
+   "1 : 3"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-physics-060",
+  "subject": "physics",
+  "chapter": "waves",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 60,
+   "file": "sources/pyq/2008/physics/2008-physics-question_paper-A1-indcareer.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "How many times more intense is a $60\\ \\mathrm{dB}$ sound than a $30\\ \\mathrm{dB}$ sound ?",
+  "options": [
+   "1000",
+   "2",
+   "100",
+   "4"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

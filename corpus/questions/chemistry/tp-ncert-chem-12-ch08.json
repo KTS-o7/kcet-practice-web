@@ -1,0 +1,737 @@
+[
+ {
+  "id": "tp-ncert-chem-12-ch08-001",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf"
+  },
+  "stem": "Electronic configuration of a transition element X in +3 oxidation state is $[\\mathrm{Ar}]3d^{5}$. What is its atomic number?",
+  "options": [
+   "25",
+   "26",
+   "27",
+   "24"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "key_confirmed",
+   "notes": "Transcription matches page image; X3+ = 3d5 so X = Fe, Z=26; key (ii) agrees. Original blind solver likely erred."
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch08-002",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf"
+  },
+  "stem": "The electronic configuration of $\\mathrm{Cu(II)}$ is $3d^{9}$ whereas that of $\\mathrm{Cu(I)}$ is $3d^{10}$. Which of the following is correct?",
+  "options": [
+   "$\\mathrm{Cu(II)}$ is more stable",
+   "$\\mathrm{Cu(II)}$ is less stable",
+   "$\\mathrm{Cu(I)}$ and $\\mathrm{Cu(II)}$ are equally stable",
+   "Stability of $\\mathrm{Cu(I)}$ and $\\mathrm{Cu(II)}$ depends on nature of copper salts"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch08-003",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf"
+  },
+  "stem": "Metallic radii of some transition elements are given below. Which of these elements will have highest density?\n\n| Element | Fe | Co | Ni | Cu |\n|---|---|---|---|---|\n| Metallic radii/pm | 126 | 125 | 125 | 128 |",
+  "options": [
+   "Fe",
+   "Ni",
+   "Co",
+   "Cu"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch08-004",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf"
+  },
+  "stem": "Generally transition elements form coloured salts due to the presence of unpaired electrons. Which of the following compounds will be coloured in solid state?",
+  "options": [
+   "$\\mathrm{Ag_2SO_4}$",
+   "$\\mathrm{CuF_2}$",
+   "$\\mathrm{ZnF_2}$",
+   "$\\mathrm{Cu_2Cl_2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch08-005",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf"
+  },
+  "stem": "On addition of small amount of $\\mathrm{KMnO_4}$ to concentrated $\\mathrm{H_2SO_4}$, a green oily compound is obtained which is highly explosive in nature. Identify the compound from the following.",
+  "options": [
+   "$\\mathrm{Mn_2O_7}$",
+   "$\\mathrm{MnO_2}$",
+   "$\\mathrm{MnSO_4}$",
+   "$\\mathrm{Mn_2O_3}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch08-006",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf"
+  },
+  "stem": "The magnetic nature of elements depends on the presence of unpaired electrons. Identify the configuration of transition element, which shows highest magnetic moment.",
+  "options": [
+   "$3d^{7}$",
+   "$3d^{5}$",
+   "$3d^{8}$",
+   "$3d^{2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch08-007",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 7,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf"
+  },
+  "stem": "Which of the following oxidation state is common for all lanthanoids?",
+  "options": [
+   "+2",
+   "+3",
+   "+4",
+   "+5"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch08-008",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 8,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf"
+  },
+  "stem": "Which of the following reactions are disproportionation reactions?\n\n(a) $\\mathrm{Cu^{+}\\longrightarrow Cu^{2+} + Cu}$\n\n(b) $\\mathrm{3MnO_4^{-} + 4H^{+}\\longrightarrow 2MnO_4^{-} + MnO_2 + 2H_2O}$\n\n(c) $\\mathrm{2KMnO_4\\longrightarrow K_2MnO_4 + MnO_2 + O_2}$\n\n(d) $\\mathrm{2MnO_4^{-} + 3Mn^{2+} + 2H_2O\\longrightarrow 5MnO_2 + 4H^{+}}$",
+  "options": [
+   "a, b",
+   "a, b, c",
+   "b, c, d",
+   "a, d"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch08-009",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 9,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf"
+  },
+  "stem": "When $\\mathrm{KMnO_4}$ solution is added to oxalic acid solution, the decolourisation is slow in the beginning but becomes instantaneous after some time because",
+  "options": [
+   "$\\mathrm{CO_2}$ is formed as the product.",
+   "Reaction is exothermic.",
+   "$\\mathrm{MnO_4^{-}}$ catalyses the reaction.",
+   "$\\mathrm{Mn^{2+}}$ acts as autocatalyst."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch08-010",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 10,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf"
+  },
+  "stem": "There are 14 elements in actinoid series. Which of the following elements does not belong to this series?",
+  "options": [
+   "U",
+   "Np",
+   "Tm",
+   "Fm"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch08-011",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 11,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf"
+  },
+  "stem": "$\\mathrm{KMnO_4}$ acts as an oxidising agent in acidic medium. The number of moles of $\\mathrm{KMnO_4}$ that will be needed to react with one mole of sulphide ions in acidic solution is",
+  "options": [
+   "$\\frac{2}{5}$",
+   "$\\frac{3}{5}$",
+   "$\\frac{4}{5}$",
+   "$\\frac{1}{5}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch08-012",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 12,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf"
+  },
+  "stem": "Which of the following is amphoteric oxide? $\\mathrm{Mn_2O_7},\\ \\mathrm{CrO_3},\\ \\mathrm{Cr_2O_3},\\ \\mathrm{CrO},\\ \\mathrm{V_2O_5},\\ \\mathrm{V_2O_4}$",
+  "options": [
+   "$\\mathrm{V_2O_5}$, $\\mathrm{Cr_2O_3}$",
+   "$\\mathrm{Mn_2O_7}$, $\\mathrm{CrO_3}$",
+   "$\\mathrm{CrO}$, $\\mathrm{V_2O_5}$",
+   "$\\mathrm{V_2O_5}$, $\\mathrm{V_2O_4}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch08-013",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 13,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf"
+  },
+  "stem": "Gadolinium belongs to $4f$ series. It's atomic number is 64. Which of the following is the correct electronic configuration of gadolinium?",
+  "options": [
+   "$[\\mathrm{Xe}]\\,4f^{7}5d^{1}6s^{2}$",
+   "$[\\mathrm{Xe}]\\,4f^{6}5d^{2}6s^{2}$",
+   "$[\\mathrm{Xe}]\\,4f^{8}6d^{2}$",
+   "$[\\mathrm{Xe}]\\,4f^{9}5s^{1}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch08-014",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 14,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf"
+  },
+  "stem": "Interstitial compounds are formed when small atoms are trapped inside the crystal lattice of metals. Which of the following is not the characteristic property of interstitial compounds?",
+  "options": [
+   "They have high melting points in comparison to pure metals.",
+   "They are very hard.",
+   "They retain metallic conductivity.",
+   "They are chemically very reactive."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch08-015",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 15,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf"
+  },
+  "stem": "The magnetic moment is associated with its spin angular momentum and orbital angular momentum. Spin only magnetic moment value of $\\mathrm{Cr^{3+}}$ ion is ___________.",
+  "options": [
+   "2.87 B.M.",
+   "3.87 B.M.",
+   "3.47 B.M.",
+   "3.57 B.M."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch08-016",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 16,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf"
+  },
+  "stem": "$\\mathrm{KMnO_4}$ acts as an oxidising agent in alkaline medium. When alkaline $\\mathrm{KMnO_4}$ is treated with KI, iodide ion is oxidised to ___________.",
+  "options": [
+   "$\\mathrm{I_2}$",
+   "$\\mathrm{IO^{-}}$",
+   "$\\mathrm{IO_3^{-}}$",
+   "$\\mathrm{IO_4^{-}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch08-017",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 17,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf"
+  },
+  "stem": "Which of the following statements is not correct?",
+  "options": [
+   "Copper liberates hydrogen from acids.",
+   "In its higher oxidation states, manganese forms stable compounds with oxygen and fluorine.",
+   "$\\mathrm{Mn^{3+}}$ and $\\mathrm{Co^{3+}}$ are oxidising agents in aqueous solution.",
+   "$\\mathrm{Ti^{2+}}$ and $\\mathrm{Cr^{2+}}$ are reducing agents in aqueous solution."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch08-018",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 18,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf"
+  },
+  "stem": "When acidified $\\mathrm{K_2Cr_2O_7}$ solution is added to $\\mathrm{Sn^{2+}}$ salts then $\\mathrm{Sn^{2+}}$ changes to",
+  "options": [
+   "Sn",
+   "$\\mathrm{Sn^{3+}}$",
+   "$\\mathrm{Sn^{4+}}$",
+   "$\\mathrm{Sn^{+}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch08-019",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 19,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf"
+  },
+  "stem": "Highest oxidation state of manganese in fluoride is +4 ($\\mathrm{MnF_4}$) but highest oxidation state in oxides is +7 ($\\mathrm{Mn_2O_7}$) because ___________.",
+  "options": [
+   "fluorine is more electronegative than oxygen.",
+   "fluorine does not possess $d$-orbitals.",
+   "fluorine stabilises lower oxidation state.",
+   "in covalent compounds fluorine can form single bond only while oxygen forms double bond."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch08-020",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 20,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf"
+  },
+  "stem": "Although Zirconium belongs to $4d$ transition series and Hafnium to $5d$ transition series even then they show similar physical and chemical properties because ___________.",
+  "options": [
+   "both belong to $d$-block.",
+   "both have same number of electrons.",
+   "both have similar atomic radius.",
+   "both belong to the same group of the periodic table."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch08-021",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 21,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep508.pdf"
+  },
+  "stem": "Why is HCl not used to make the medium acidic in oxidation reactions of $\\mathrm{KMnO_4}$ in acidic medium?",
+  "options": [
+   "Both HCl and $\\mathrm{KMnO_4}$ act as oxidising agents.",
+   "$\\mathrm{KMnO_4}$ oxidises HCl into $\\mathrm{Cl_2}$ which is also an oxidising agent.",
+   "$\\mathrm{KMnO_4}$ is a weaker oxidising agent than HCl.",
+   "$\\mathrm{KMnO_4}$ acts as a reducing agent in the presence of HCl."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

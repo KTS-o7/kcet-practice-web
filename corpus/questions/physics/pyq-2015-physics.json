@@ -1,0 +1,2114 @@
+[
+ {
+  "id": "pyq-2015-physics-001",
+  "subject": "physics",
+  "chapter": "units-and-measurement",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 1,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The ratio of the dimensions of Planck constant and that of moment of inertia has the dimensions of",
+  "options": [
+   "time",
+   "frequency",
+   "angular momentum",
+   "velocity"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-002",
+  "subject": "physics",
+  "chapter": "motion-in-a-straight-line",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 2,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The velocity – time graph for two bodies A and B are shown. Then the acceleration of A and B are in the ratio",
+  "options": [
+   "$\\tan 25^\\circ$ to $\\tan 40^\\circ$",
+   "$\\tan 25^\\circ$ to $\\tan 50^\\circ$",
+   "$\\sin 25^\\circ$ to $\\sin 50^\\circ$",
+   "$\\cos 25^\\circ$ to $\\cos 50^\\circ$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2015-physics-002.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-003",
+  "subject": "physics",
+  "chapter": "motion-in-a-plane",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 3,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A particle is projected with a velocity $v$ so that its horizontal range twice the greatest height attained. The horizontal range is",
+  "options": [
+   "$\\frac{v^2}{g}$",
+   "$\\frac{2v^2}{3g}$",
+   "$\\frac{4v^2}{5g}$",
+   "$\\frac{v^2}{2g}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "disputed",
+   "notes": "Transcription exact. R=2H gives tan(theta)=2, R=4v^2/5g (option 3); key option 1 (v^2/g) is the max range, which would need R=4H. Key read correctly in both key files.",
+   "disputed": true,
+   "status_reason": "official key kept; Sonnet disagrees"
+  }
+ },
+ {
+  "id": "pyq-2015-physics-004",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 4,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A stone of mass $0.05\\,\\mathrm{kg}$ is thrown vertically upwards. What is the direction and magnitude of net force on the stone during its upward motion ?",
+  "options": [
+   "$0.49\\,\\mathrm{N}$ vertically upwards",
+   "$0.49\\,\\mathrm{N}$ vertically downwards",
+   "$0.98\\,\\mathrm{N}$ vertically downwards",
+   "$9.8\\,\\mathrm{N}$ vertically downwards"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-005",
+  "subject": "physics",
+  "chapter": "work-energy-and-power",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 5,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The kinetic energy of a body of mass $4\\,\\mathrm{kg}$ and momentum $6\\,\\mathrm{N\\,s}$ will be",
+  "options": [
+   "$2.5\\,\\mathrm{J}$",
+   "$3.5\\,\\mathrm{J}$",
+   "$4.5\\,\\mathrm{J}$",
+   "$5.5\\,\\mathrm{J}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-006",
+  "subject": "physics",
+  "chapter": "motion-in-a-plane",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 6,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The ratio of angular speed of a second-hand to the hour-hand of a watch is",
+  "options": [
+   "$720:1$",
+   "$60:1$",
+   "$3600:1$",
+   "$72:1$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "key_confirmed",
+   "notes": "720:1; solver and key agree after my own solve."
+  }
+ },
+ {
+  "id": "pyq-2015-physics-007",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 7,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "If the mass of a body is $M$ on the surface of the earth, the mass of the same body on the surface of the moon is",
+  "options": [
+   "$\\frac{M}{6}$",
+   "$M$",
+   "$6M$",
+   "Zero"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-008",
+  "subject": "physics",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 8,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Moment of Inertia of a thin uniform rod rotating about the perpendicular axis passing through its centre is $I$. If the same rod is bent into a ring and its moment of inertia about its diameter is $I'$, then the ratio $\\frac{I}{I'}$ is",
+  "options": [
+   "$\\frac{3}{2}\\pi^2$",
+   "$\\frac{8}{3}\\pi^2$",
+   "$\\frac{2}{3}\\pi^2$",
+   "$\\frac{5}{3}\\pi^2$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-009",
+  "subject": "physics",
+  "chapter": "mechanical-properties-of-solids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 9,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The ratio of hydraulic stress to the corresponding strain is known as",
+  "options": [
+   "Compressibility",
+   "Bulk modulus",
+   "Young's modulus",
+   "Rigidity modulus"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-010",
+  "subject": "physics",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 10,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The efficiency of a Carnot engine which operates between the two temperatures $T_1 = 500\\,\\mathrm{K}$ and $T_2 = 300\\,\\mathrm{K}$ is",
+  "options": [
+   "$50\\%$",
+   "$25\\%$",
+   "$75\\%$",
+   "$40\\%$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-011",
+  "subject": "physics",
+  "chapter": "thermal-properties-of-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 11,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Water is heated from $0\\,^\\circ\\mathrm{C}$ to $10\\,^\\circ\\mathrm{C}$, then its volume",
+  "options": [
+   "decreases",
+   "increases",
+   "does not change",
+   "first decreases and then increases"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-012",
+  "subject": "physics",
+  "chapter": "thermal-properties-of-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 12,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "1 gram of ice is mixed with 1 gram of steam. At thermal equilibrium, the temperature of the mixture is",
+  "options": [
+   "$0\\,^\\circ\\mathrm{C}$",
+   "$100\\,^\\circ\\mathrm{C}$",
+   "$50\\,^\\circ\\mathrm{C}$",
+   "$55\\,^\\circ\\mathrm{C}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-013",
+  "subject": "physics",
+  "chapter": "oscillations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 13,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The ratio of kinetic energy to the potential energy of a particle executing SHM at a distance equal to half its amplitude, the distance being measured from its equilibrium position is",
+  "options": [
+   "$3:1$",
+   "$4:1$",
+   "$2:1$",
+   "$8:1$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-014",
+  "subject": "physics",
+  "chapter": "waves",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 14,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "When two tuning forks A and B are sounded together, 4 beats per second are heard. The frequency of the fork B is $384\\,\\mathrm{Hz}$. When one of the prongs of the fork A is filed and sounded with B, the beat frequency increases, then the frequency of the fork A is",
+  "options": [
+   "$380\\,\\mathrm{Hz}$",
+   "$388\\,\\mathrm{Hz}$",
+   "$379\\,\\mathrm{Hz}$",
+   "$389\\,\\mathrm{Hz}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-015",
+  "subject": "physics",
+  "chapter": "waves",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 15,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A stretched string is vibrating in the second overtone, then the number of nodes and antinodes between the ends of the string are respectively",
+  "options": [
+   "4 and 3",
+   "3 and 2",
+   "3 and 4",
+   "2 and 3"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "disputed",
+   "notes": "Key option 1 (4 and 3) counts the two end nodes; strictly between the ends the 3rd harmonic has 2 nodes and 3 antinodes (option 4). Key read correctly; transcription exact.",
+   "disputed": true,
+   "status_reason": "official key kept; Sonnet disagrees"
+  }
+ },
+ {
+  "id": "pyq-2015-physics-016",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 16,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Two spheres carrying charges $+6\\,\\mu\\mathrm{C}$ and $+9\\,\\mu\\mathrm{C}$, separated by a distance $d$, experiences a force of repulsion $F$. When a charge of $-3\\,\\mu\\mathrm{C}$ is given to both the sphere and kept at the same distance as before, the new force of repulsion is",
+  "options": [
+   "$F$",
+   "$3F$",
+   "$\\frac{F}{3}$",
+   "$\\frac{F}{9}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-017",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 17,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Pick out the statement which is incorrect.",
+  "options": [
+   "The tangent drawn to a line of force represents the direction of electric field.",
+   "The electric field lines forms closed loop.",
+   "A negative test charge experiences a force opposite to the direction of the field.",
+   "Field lines never intersect."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-018",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 18,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The angle between the dipole moment and electric field at any point on the equatorial plane is",
+  "options": [
+   "$0^\\circ$",
+   "$90^\\circ$",
+   "$180^\\circ$",
+   "$45^\\circ$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-019",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 19,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Three point charges $3\\,\\mathrm{nC}$, $6\\,\\mathrm{nC}$ and $9\\,\\mathrm{nC}$ are placed at the corners of an equilateral triangle of side $0.1\\,\\mathrm{m}$. The potential energy of the system is",
+  "options": [
+   "$8910\\,\\mathrm{J}$",
+   "$89100\\,\\mathrm{J}$",
+   "$9910\\,\\mathrm{J}$",
+   "$99100\\,\\mathrm{J}$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2015-physics-020",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 20,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A spherical shell of radius $10\\,\\mathrm{cm}$ is carrying a charge $q$. If the electric potential at distances $5\\,\\mathrm{cm}$, $10\\,\\mathrm{cm}$ and $15\\,\\mathrm{cm}$ from the centre of the spherical shell is $V_1$, $V_2$ and $V_3$ respectively, then",
+  "options": [
+   "$V_1 > V_2 > V_3$",
+   "$V_1 < V_2 < V_3$",
+   "$V_1 = V_2 > V_3$",
+   "$V_1 = V_2 < V_3$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-021",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 21,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A parallel plate capacitor is charged and then isolated. The effect of increasing the plate separation on charge, potential and capacitance respectively are",
+  "options": [
+   "constant, decreases, decreases",
+   "increases, decreases, decreases",
+   "constant, decreases, increases",
+   "constant, increases, decreases"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-022",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 22,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Four identical cells of emf $E$ and internal resistance $r$ are to be connected in series. Suppose if one of the cell is connected wrongly, the equivalent emf and effective internal resistance of the combination is",
+  "options": [
+   "$4E$ and $4r$",
+   "$4E$ and $2r$",
+   "$2E$ and $4r$",
+   "$2E$ and $2r$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-023",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 23,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Three resistances $2\\,\\Omega$, $3\\,\\Omega$ and $4\\,\\Omega$ are connected in parallel. The ratio of currents passing through them when a potential difference is applied across its ends will be",
+  "options": [
+   "$6:3:2$",
+   "$6:4:3$",
+   "$5:4:3$",
+   "$4:3:2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-024",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 24,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Two cells of emf $E_1$ and $E_2$ are joined in opposition (such that $E_1 > E_2$). If $r_1$ and $r_2$ be the internal resistance and $R$ be the external resistance, then the terminal potential difference is",
+  "options": [
+   "$\\frac{E_1+E_2}{r_1+r_2}\\times R$",
+   "$\\frac{E_1+E_2}{r_1+r_2+R}\\times R$",
+   "$\\frac{E_1-E_2}{r_1+r_2}\\times R$",
+   "$\\frac{E_1-E_2}{r_1+r_2+R}\\times R$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2015-physics-024.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-025",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 25,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "In the circuit shown below, the ammeter and the voltmeter readings are $3\\,\\mathrm{A}$ and $6\\,\\mathrm{V}$ respectively. Then the value of the resistance R is",
+  "options": [
+   "$2\\,\\Omega$",
+   "$>2\\,\\Omega$",
+   "$<2\\,\\Omega$",
+   "$\\geq 2\\,\\Omega$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2015-physics-025.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-026",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 26,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "In Wheatstones network $P = 2\\,\\Omega$, $Q = 2\\,\\Omega$, $R = 2\\,\\Omega$ and $S = 3\\,\\Omega$. The resistance with which $S$ is to shunted in order that the bridge may be balanced is",
+  "options": [
+   "$1\\,\\Omega$",
+   "$2\\,\\Omega$",
+   "$4\\,\\Omega$",
+   "$6\\,\\Omega$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-027",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 27,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The resistance of the bulb filament is $100\\,\\Omega$ at a temperature of $100\\,^\\circ\\mathrm{C}$. If its temperature co-efficient of resistance be $0.005$ per $^\\circ\\mathrm{C}$, its resistance will become $200\\,\\Omega$ at a temperature",
+  "options": [
+   "$300\\,^\\circ\\mathrm{C}$",
+   "$400\\,^\\circ\\mathrm{C}$",
+   "$500\\,^\\circ\\mathrm{C}$",
+   "$200\\,^\\circ\\mathrm{C}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "key_confirmed",
+   "notes": "I took R0 at 100C giving 300C; but with alpha defined from 0C, R100=100 gives R0=66.7 and R=200 at 400C, matching the key. Ambiguous wording; official key stands."
+  }
+ },
+ {
+  "id": "pyq-2015-physics-028",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 28,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Two concentric coils each of radius equal to $2\\pi$ cm are placed right angles to each other. If $3\\,\\mathrm{A}$ and $4\\,\\mathrm{A}$ are the currents flowing through the two coils respectively. The magnetic induction (in $\\mathrm{Wb\\,m^{-2}}$) at the centre of the coils will be",
+  "options": [
+   "$12\\times10^{-5}$",
+   "$10^{-5}$",
+   "$5\\times10^{-5}$",
+   "$7\\times10^{-5}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-029",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 29,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A proton beam enters a magnetic field of $10^{-4}\\,\\mathrm{Wb\\,m^{-2}}$ normally. If the specific charge of the proton is $10^{11}\\,\\mathrm{C\\,kg^{-1}}$ and its velocity is $10^{9}\\,\\mathrm{m\\,s^{-1}}$, then the radius of the circle described will be",
+  "options": [
+   "$0.1\\,\\mathrm{m}$",
+   "$10\\,\\mathrm{m}$",
+   "$100\\,\\mathrm{m}$",
+   "$1\\,\\mathrm{m}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-030",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 30,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A cyclotron is used to accelerate",
+  "options": [
+   "neutron",
+   "only positively charged particles",
+   "only negatively charged particles",
+   "both positively and negatively charged particles"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "disputed",
+   "notes": "Key option 4 (both positive and negative). Standard textbook answer is only positively charged particles, though negative ions can in principle be accelerated. Key read correctly in both files; transcription exact.",
+   "disputed": true,
+   "status_reason": "official key kept; Sonnet disagrees"
+  }
+ },
+ {
+  "id": "pyq-2015-physics-031",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 31,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A galvanometer of resistance $50\\,\\Omega$ gives a full scale deflection for a current $5\\times10^{-4}\\,\\mathrm{A}$. The resistance that should be connected in series with the galvanometer to read $3\\,\\mathrm{V}$ is",
+  "options": [
+   "$595\\,\\Omega$",
+   "$5050\\,\\Omega$",
+   "$5059\\,\\Omega$",
+   "$5950\\,\\Omega$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-032",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 32,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Two parallel wires $1\\,\\mathrm{m}$ apart carry currents of $1\\,\\mathrm{A}$ and $3\\,\\mathrm{A}$ respectively in opposite directions. The force per unit length acting between these two wires is",
+  "options": [
+   "$6\\times10^{-7}\\,\\mathrm{N\\,m^{-1}}$ repulsive",
+   "$6\\times10^{-7}\\,\\mathrm{N\\,m^{-1}}$ attractive",
+   "$6\\times10^{-5}\\,\\mathrm{N\\,m^{-1}}$ repulsive",
+   "$6\\times10^{-5}\\,\\mathrm{N\\,m^{-1}}$ attractive"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-033",
+  "subject": "physics",
+  "chapter": "magnetism-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 33,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "If there is no torsion in the suspension thread, then the time period of a magnet executing SHM is",
+  "options": [
+   "$T=\\frac{1}{2\\pi}\\sqrt{\\frac{MB}{I}}$",
+   "$T=\\frac{1}{2\\pi}\\sqrt{\\frac{I}{MB}}$",
+   "$T=2\\pi\\sqrt{\\frac{I}{MB}}$",
+   "$T=2\\pi\\sqrt{\\frac{MB}{I}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-034",
+  "subject": "physics",
+  "chapter": "magnetism-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 34,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Core of electromagnets are made of ferromagnetic material which has",
+  "options": [
+   "high permeability and low retentivity",
+   "high permeability and high retentivity",
+   "low permeability and high retentivity",
+   "low permeability and low retentivity"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-035",
+  "subject": "physics",
+  "chapter": "magnetism-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 35,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The magnetic susceptibility of a paramagnetic material at $-73\\,^\\circ\\mathrm{C}$ is $0.0075$ and its value at $-173\\,^\\circ\\mathrm{C}$ will be",
+  "options": [
+   "$0.0045$",
+   "$0.0030$",
+   "$0.015$",
+   "$0.0075$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-036",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 36,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Two coils have a mutual inductance $0.005\\,\\mathrm{H}$. The current changes in the first coil according to the equation $i = i_m \\sin \\omega t$ where $i_m = 10\\,\\mathrm{A}$ and $\\omega = 100\\pi\\,\\mathrm{rad\\,s^{-1}}$. The maximum value of the emf induced in the second coil is",
+  "options": [
+   "$2\\pi$",
+   "$5\\pi$",
+   "$\\pi$",
+   "$4\\pi$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-037",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 37,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "An aircraft with a wingspan of $40\\,\\mathrm{m}$ flies with a speed of $1080\\,\\mathrm{km/hr}$ in the eastward direction at a constant altitude in the northern hemisphere, where the vertical component of the earth's magnetic field $1.75\\times10^{-5}\\,\\mathrm{T}$. Then the emf developed between the tips of the wings is",
+  "options": [
+   "$0.5\\,\\mathrm{V}$",
+   "$0.34\\,\\mathrm{V}$",
+   "$0.21\\,\\mathrm{V}$",
+   "$2.1\\,\\mathrm{V}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-038",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 38,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "In an LCR circuit, at resonance",
+  "options": [
+   "the current and voltage are in phase",
+   "the impedance is maximum",
+   "the current is minimum",
+   "the current leads the voltage by $\\pi/2$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-039",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 39,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A transformer is used to light $100\\,\\mathrm{W}-110\\,\\mathrm{V}$ lamp from $220\\,\\mathrm{V}$ mains. If the main current is $0.5\\,\\mathrm{A}$, the efficiency of the transformer is",
+  "options": [
+   "$90\\%$",
+   "$95\\%$",
+   "$96\\%$",
+   "$99\\%$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-040",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 40,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The average power dissipated in a pure inductor is",
+  "options": [
+   "$\\frac{1}{2}VI$",
+   "$VI^2$",
+   "$\\frac{VI^2}{4}$",
+   "zero"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-041",
+  "subject": "physics",
+  "chapter": "electromagnetic-waves",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 41,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "If $\\varepsilon_0$ and $\\mu_0$ are the permittivity and permeability of free space and $\\varepsilon$ and $\\mu$ are the corresponding quantities for a medium, then refractive index of the medium is",
+  "options": [
+   "$\\sqrt{\\frac{\\mu_0\\varepsilon_0}{\\mu\\varepsilon}}$",
+   "$\\sqrt{\\frac{\\mu\\varepsilon}{\\mu_0\\varepsilon_0}}$",
+   "$1$",
+   "Insufficient information"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-042",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 42,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A person wants a real image of his own, $3$ times enlarged. Where should he stand infront of a concave mirror of radius of curvature $30\\,\\mathrm{cm}$ ?",
+  "options": [
+   "$10\\,\\mathrm{cm}$",
+   "$30\\,\\mathrm{cm}$",
+   "$90\\,\\mathrm{cm}$",
+   "$20\\,\\mathrm{cm}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-043",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 43,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Calculate the focal length of a reading glass of a person if his distance of distinct vision is $75\\,\\mathrm{cm}$.",
+  "options": [
+   "$25.6\\,\\mathrm{cm}$",
+   "$37.5\\,\\mathrm{cm}$",
+   "$75.2\\,\\mathrm{cm}$",
+   "$100.4\\,\\mathrm{cm}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-044",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 44,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "In a Young's double slit experiment the slit separation is $0.5\\,\\mathrm{m}$ from the slits. For a monochromatic light of wavelength $500\\,\\mathrm{nm}$, the distance of $3^{\\mathrm{rd}}$ maxima from $2^{\\mathrm{nd}}$ minima on the other side is",
+  "options": [
+   "$2.75\\,\\mathrm{mm}$",
+   "$2.5\\,\\mathrm{mm}$",
+   "$22.5\\,\\mathrm{mm}$",
+   "$2.25\\,\\mathrm{mm}$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2015-physics-045",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 45,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "To observe diffraction, the size of the obstacle",
+  "options": [
+   "has no relation to wavelength.",
+   "should be $\\lambda/2$, where $\\lambda$ is the wavelength.",
+   "should be much larger than the wavelength.",
+   "should be of the order of wavelength."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-046",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 46,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The polarizing angle of glass is $57^\\circ$. A ray of light which is incident at this angle will have an angle of refraction as",
+  "options": [
+   "$25^\\circ$",
+   "$33^\\circ$",
+   "$43^\\circ$",
+   "$38^\\circ$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-047",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 47,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Light of two different frequencies whose photons have energies $1\\,\\mathrm{eV}$ and $2.5\\,\\mathrm{eV}$ respectively, successively illuminate a metallic surface whose work function is $0.5\\,\\mathrm{eV}$. Ratio of maximum speeds of emitted electrons will be",
+  "options": [
+   "$1:5$",
+   "$1:4$",
+   "$1:2$",
+   "$1:1$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-048",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 48,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Find the de-Broglie wavelength of an electron with kinetic energy of $120\\,\\mathrm{eV}$.",
+  "options": [
+   "$95\\,\\mathrm{pm}$",
+   "$102\\,\\mathrm{pm}$",
+   "$112\\,\\mathrm{pm}$",
+   "$124\\,\\mathrm{pm}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-049",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 49,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "An $\\alpha$-particle of energy $5\\,\\mathrm{MeV}$ is scattered through $180^\\circ$ by gold nucleus. The distance of closest approach is of the order of",
+  "options": [
+   "$10^{-10}\\,\\mathrm{cm}$",
+   "$10^{-12}\\,\\mathrm{cm}$",
+   "$10^{-14}\\,\\mathrm{cm}$",
+   "$10^{-16}\\,\\mathrm{cm}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-050",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 50,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "If an electron in hydrogen atom jumps from an orbit of level $n = 3$ to an orbit of level $n = 2$, the emitted radiation has a frequency ($R$ = Rydberg constant, $C$ = velocity of light)",
+  "options": [
+   "$\\frac{3RC}{27}$",
+   "$\\frac{RC}{25}$",
+   "$\\frac{8RC}{9}$",
+   "$\\frac{5RC}{36}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-051",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 51,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "What is the wavelength of light for the least energetic photon emitted in the Lyman series of the hydrogen spectrum. (take $hc = 1240\\,\\mathrm{eV\\,nm}$)",
+  "options": [
+   "$82\\,\\mathrm{nm}$",
+   "$102\\,\\mathrm{nm}$",
+   "$122\\,\\mathrm{nm}$",
+   "$150\\,\\mathrm{nm}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-052",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 52,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A nucleus at rest splits into two nuclear parts having radii in the ratio $1:2$. Their velocities are in the ratio",
+  "options": [
+   "$8:1$",
+   "$6:1$",
+   "$4:1$",
+   "$2:1$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-053",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 53,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The half life of a radioactive substance is $20$ minutes. The time taken between $50\\,\\%$ decay and $87.5\\,\\%$ decay of the substance will be",
+  "options": [
+   "30 minutes",
+   "40 minutes",
+   "25 minutes",
+   "10 minutes"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-054",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 54,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A radioactive decay can form an isotope of the original nucleus with the emission of particles",
+  "options": [
+   "one $\\alpha$ and four $\\beta$",
+   "one $\\alpha$ and two $\\beta$",
+   "one $\\alpha$ and one $\\beta$",
+   "four $\\alpha$ and one $\\beta$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-055",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 55,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "An LED is constructed from a pn junction based on a certain semi-conducting material whose energy gap is $1.9\\,\\mathrm{eV}$. Then the wavelength of the emitted light is",
+  "options": [
+   "$2.9\\times10^{-9}\\,\\mathrm{m}$",
+   "$1.6\\times10^{-8}\\,\\mathrm{m}$",
+   "$6.5\\times10^{-7}\\,\\mathrm{m}$",
+   "$9.1\\times10^{-5}\\,\\mathrm{m}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-056",
+  "subject": "physics",
+  "chapter": "communication-systems",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 56,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Amplitude modulation has",
+  "options": [
+   "one carrier with two side band frequencies",
+   "one carrier",
+   "one carrier with infinite frequencies",
+   "one carrier with high frequency"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-057",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 57,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The circuit has two oppositely connected ideal diodes in parallel. What is the current flowing in the circuit ?",
+  "options": [
+   "$1.71\\,\\mathrm{A}$",
+   "$2.0\\,\\mathrm{A}$",
+   "$2.31\\,\\mathrm{A}$",
+   "$1.33\\,\\mathrm{A}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2015-physics-057.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-058",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 58,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The input characteristics of a transistor in CE mode is the graph obtained by plotting",
+  "options": [
+   "$I_B$ against $V_{BE}$ at constant $V_{CE}$",
+   "$I_B$ against $V_{CE}$ at constant $V_{BE}$",
+   "$I_B$ against $I_C$ at constant $V_{CE}$",
+   "$I_B$ against $I_C$ at constant $V_{BE}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-059",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 59,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The given truth table is for\n\n| A | B | Y |\n|---|---|---|\n| 0 | 0 | 1 |\n| 0 | 1 | 1 |\n| 1 | 0 | 1 |\n| 1 | 1 | 0 |",
+  "options": [
+   "AND gate",
+   "OR gate",
+   "NAND gate",
+   "NOR gate"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-physics-060",
+  "subject": "physics",
+  "chapter": "communication-systems",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 60,
+   "file": "sources/pyq/2015/physics/2015-physics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The waves used for line-of-sight (LOS) communication is",
+  "options": [
+   "ground waves",
+   "space waves",
+   "sound waves",
+   "sky waves"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

@@ -1,0 +1,2110 @@
+[
+ {
+  "id": "pyq-2020-chemistry-001",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 1,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The percentage of s-character in the hybrid orbitals of nitrogen in $\\mathrm{NO_2^+}$, $\\mathrm{NO_3^-}$ and $\\mathrm{NH_4^+}$ respectively are :",
+  "options": [
+   "25%, 50%, 33.3%",
+   "33.3%, 50%, 25%",
+   "33.3%, 25%, 50%",
+   "50%, 33.3%, 25%"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-002",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 2,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The formal charge on central oxygen atom in ozone is",
+  "options": [
+   "+1",
+   "-1",
+   "0",
+   "+2"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "key_confirmed",
+   "notes": "Transcription matches page 3; ozone central O formal charge is +1, and the key agrees."
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-003",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 3,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "When the same quantity of heat is absorbed by a system at two different temperatures $T_1$ and $T_2$, such that $T_1 > T_2$, change in entropies are $\\Delta S_1$ and $\\Delta S_2$ respectively. Then :",
+  "options": [
+   "$\\Delta S_2 < \\Delta S_1$",
+   "$\\Delta S_1 < \\Delta S_2$",
+   "$\\Delta S_1 = \\Delta S_2$",
+   "$S_2 > S_1$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-004",
+  "subject": "chemistry",
+  "chapter": "redox-reactions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 4,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The oxidation number of nitrogen atoms in $\\mathrm{NH_4NO_3}$ are",
+  "options": [
+   "$-3, -3$",
+   "$+5, +5$",
+   "$-3, +5$",
+   "$+3, -5$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-005",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-11",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 5,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A Lewis acid 'X' reacts with $\\mathrm{LiAlH_4}$ in ether medium to give a highly toxic gas. This gas when heated with $\\mathrm{NH_3}$ gives a compound commonly known as inorganic benzene. The gas is",
+  "options": [
+   "$\\mathrm{BF_3}$",
+   "$\\mathrm{B_2O_3}$",
+   "$\\mathrm{B_2H_6}$",
+   "$\\mathrm{B_3N_3H_6}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-006",
+  "subject": "chemistry",
+  "chapter": "the-s-block-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 6,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The oxide of potassium that does not exist is",
+  "options": [
+   "$\\mathrm{K_2O_3}$",
+   "$\\mathrm{K_2O}$",
+   "$\\mathrm{KO_2}$",
+   "$\\mathrm{K_2O_2}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-007",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 7,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The metal that produces $\\mathrm{H_2}$ with both dil $\\mathrm{HCl}$ and $\\mathrm{NaOH(aq)}$ is",
+  "options": [
+   "Fe",
+   "Zn",
+   "Mg",
+   "Ca"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-008",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 8,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Which of the following is NOT a pair of functional isomers ?",
+  "options": [
+   "$\\mathrm{CH_3COOH}$ and $\\mathrm{HCOOCH_3}$",
+   "$\\mathrm{C_2H_5OC_2H_5}$ and $\\mathrm{C_3H_7OCH_3}$",
+   "$\\mathrm{CH_3CH_2OH}$ and $\\mathrm{CH_3OCH_3}$",
+   "$\\mathrm{CH_3CH_2NO_2}$ and $\\mathrm{H_2NCH_2COOH}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-009",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 9,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Identify 'X' in the following reaction",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2020-chemistry-009.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-010",
+  "subject": "chemistry",
+  "chapter": "environmental-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 10,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Which of the following is NOT a green house gas ?",
+  "options": [
+   "$\\mathrm{NO_2}$",
+   "CFC",
+   "$\\mathrm{CO_2}$",
+   "$\\mathrm{O_2}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0,
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-011",
+  "subject": "chemistry",
+  "chapter": "the-solid-state",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 11,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A metal exists as an oxide with formula $\\mathrm{M_{0.96}O}$. Metal M can exist as $\\mathrm{M^{+2}}$ and $\\mathrm{M^{+3}}$ in its oxide $\\mathrm{M_{0.96}O}$. The percentage of $\\mathrm{M^{+3}}$ in the oxide is, nearly",
+  "options": [
+   "9.6%",
+   "8.3%",
+   "4.6%",
+   "5%"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-012",
+  "subject": "chemistry",
+  "chapter": "the-solid-state",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 12,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A metal crystallises in face centred cubic structure with metallic radius $\\sqrt{2}\\,\\mathrm{A^\\circ}$. The volume of the unit cell (in $\\mathrm{m^3}$) is",
+  "options": [
+   "$6.4 \\times 10^{-30}$",
+   "$4 \\times 10^{-10}$",
+   "$6.4 \\times 10^{-29}$",
+   "$4 \\times 10^{-9}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-013",
+  "subject": "chemistry",
+  "chapter": "the-solid-state",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 13,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Silicon doped with gallium forms",
+  "options": [
+   "p - type semiconductor",
+   "n - type semiconductor",
+   "both n and p type semiconductor",
+   "an intrinsic semiconductor"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-014",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 14,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The pair of electrolytes that possess same value for the constant (A) in the Debye - Huckel - Onsager equation, $\\lambda_m = \\lambda_m^\\circ - A\\sqrt{C}$ is",
+  "options": [
+   "$\\mathrm{NaCl}, \\mathrm{CaCl_2}$",
+   "$\\mathrm{MgSO_4}, \\mathrm{Na_2SO_4}$",
+   "$\\mathrm{NH_4Cl}, \\mathrm{NaBr}$",
+   "$\\mathrm{NaBr}, \\mathrm{MgSO_4}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-015",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 15,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Which of the following pair of solutions is isotonic ?",
+  "options": [
+   "0.01 M $\\mathrm{BaCl_2}$ and 0.001 M $\\mathrm{CaCl_2}$",
+   "0.01 M $\\mathrm{BaCl_2}$ and 0.015 M $\\mathrm{NaCl}$",
+   "0.001 M $\\mathrm{Al_2(SO_4)_3}$ and 0.01 M $\\mathrm{BaCl_2}$",
+   "0.001 M $\\mathrm{CaCl_2}$ and 0.001 M $\\mathrm{Al_2(SO_4)_3}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-016",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 16,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Solute 'X' dimerises in water to the extent of 80%. 2.5g of 'X' in 100g of water increases the boiling point by $0.3\\,^\\circ\\mathrm{C}$. The molar mass of 'X' is $[K_b = 0.52\\ \\mathrm{K\\,kg\\,mol^{-1}}]$",
+  "options": [
+   "26",
+   "13",
+   "52",
+   "65"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-017",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 17,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Given $E^\\circ_{\\mathrm{Fe^{+3}/Fe^{+2}}} = +0.76\\ \\mathrm{V}$ and $E^\\circ_{\\mathrm{I_2/I^-}} = +0.55\\ \\mathrm{V}$. The equilibrium constant for the reaction taking place in galvanic cell consisting of above two electrodes is $\\left[\\frac{2.303RT}{F} = 0.06\\right]$",
+  "options": [
+   "$5 \\times 10^{12}$",
+   "$1 \\times 10^{7}$",
+   "$1 \\times 10^{9}$",
+   "$3 \\times 10^{8}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-018",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 18,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If an aqueous solution of $\\mathrm{NaF}$ is electrolyzed between inert electrodes, the product obtained at anode is",
+  "options": [
+   "$\\mathrm{O_2}$",
+   "$\\mathrm{F_2}$",
+   "$\\mathrm{H_2}$",
+   "Na"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-019",
+  "subject": "chemistry",
+  "chapter": "redox-reactions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 19,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "In which of the following cases a chemical reaction is possible ?",
+  "options": [
+   "gold ornaments are washed with dil $\\mathrm{HCl}$",
+   "$\\mathrm{ZnSO_{4(aq)}}$ is placed in a copper vessel",
+   "$\\mathrm{AgNO_3}$ solution is stirred with a copper spoon.",
+   "Conc. $\\mathrm{HNO_3}$ is stored in a platinum vessel."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-020",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 20,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The time required for 60% completion of a first order reaction is 50 min. The time required for 93.6% completion of the same reaction will be",
+  "options": [
+   "150 min",
+   "100 min",
+   "83.8 min",
+   "50 min"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-021",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 21,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "For an elementary reaction $2\\mathrm{A} + 3\\mathrm{B} \\rightarrow 4\\mathrm{C} + \\mathrm{D}$ the rate of appearance of C at time 't' is $2.8 \\times 10^{-3}\\ \\mathrm{mol\\,L^{-1}\\,S^{-1}}$. Rate of disappearance of B at 't', t will be",
+  "options": [
+   "$\\frac{1}{4}\\left(2.8 \\times 10^{-3}\\right)\\mathrm{mol\\,L^{-1}\\,S^{-1}}$",
+   "$\\frac{4}{3}\\left(2.8 \\times 10^{-3}\\right)\\mathrm{mol\\,L^{-1}\\,S^{-1}}$",
+   "$\\frac{3}{4}\\left(2.8 \\times 10^{-3}\\right)\\mathrm{mol\\,L^{-1}\\,S^{-1}}$",
+   "$2\\left(2.8 \\times 10^{-3}\\,\\mathrm{mol\\,L^{-1}\\,S^{-1}}\\right)$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-022",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 22,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The rate constant of a reaction is given by $k = PZe^{-E_a/RT}$ under standard notation. In order to speed up the reaction, which of the following factors has to be decreased ?",
+  "options": [
+   "T",
+   "Z",
+   "Both Z and T",
+   "$E_a$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-023",
+  "subject": "chemistry",
+  "chapter": "surface-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 23,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A sol of AgI is prepared by mixing equal volumes of 0.1 M $\\mathrm{AgNO_3}$ and 0.2 M KI, which of the following statement is correct ?",
+  "options": [
+   "Sol obtained is a negative sol with $\\mathrm{I^-}$ adsorbed on AgI.",
+   "Sol obtained is a negative sol with $\\mathrm{NO_3^-}$ adsorbed on AgI.",
+   "Sol obtained is a positive sol with $\\mathrm{Ag^+}$ adsorbed on AgI.",
+   "Sol obtained is a positive sol with $\\mathrm{K^+}$ adsorbed on AgI."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-024",
+  "subject": "chemistry",
+  "chapter": "surface-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 24,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "During Adsorption of a gas on a solid",
+  "options": [
+   "$\\Delta G < 0, \\Delta H > 0, \\Delta S > 0$",
+   "$\\Delta G < 0, \\Delta H < 0, \\Delta S < 0$",
+   "$\\Delta G > 0, \\Delta H > 0, \\Delta S > 0$",
+   "$\\Delta G < 0, \\Delta H < 0, \\Delta S > 0$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-025",
+  "subject": "chemistry",
+  "chapter": "general-principles-and-processes-of-isolation-of-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 25,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Copper is extracted from copper pyrites by",
+  "options": [
+   "Auto reduction",
+   "Thermal decomposition",
+   "Reduction by coke",
+   "Electrometallurgy"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-026",
+  "subject": "chemistry",
+  "chapter": "general-principles-and-processes-of-isolation-of-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 26,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Function of potassium ethylxanthate in froth floatation process is to make the ore",
+  "options": [
+   "heavier",
+   "lighter",
+   "hydrophobic",
+   "hydrophilic"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-027",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-12",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 27,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Sulphide ore on roasting gives a gas X. X reacts with $\\mathrm{Cl_2}$ in the presence of activated charcoal to give Y. Y is :",
+  "options": [
+   "$\\mathrm{SOCl_2}$",
+   "$\\mathrm{SO_2Cl_2}$",
+   "$\\mathrm{S_2Cl_2}$",
+   "$\\mathrm{SCl_6}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-028",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-12",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 28,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Aqueous solution of a salt (A) forms a dense white precipitate with $\\mathrm{BaCl_2}$ solution. The precipitate dissolves in dilute $\\mathrm{HCl}$ to produce a gas (B) which decolourises acidified $\\mathrm{KMnO_4}$ solution. A and B respectively are :",
+  "options": [
+   "$\\mathrm{BaSO_4}, \\mathrm{SO_2}$",
+   "$\\mathrm{BaSO_3}, \\mathrm{SO_2}$",
+   "$\\mathrm{BaSO_4}, \\mathrm{H_2S}$",
+   "$\\mathrm{BaSO_3}, \\mathrm{H_2S}$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-029",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 29,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Bond angle in $\\mathrm{PH_4^+}$ is more than that of $\\mathrm{PH_3}$. This is because",
+  "options": [
+   "hybridisation of P changes when $\\mathrm{PH_3}$ is converted to $\\mathrm{PH_4^+}$",
+   "lonepair - bond pair repulsion exists in $\\mathrm{PH_3}$",
+   "$\\mathrm{PH_4^+}$ has square planar structure",
+   "$\\mathrm{PH_3}$ has planar trigonal structure"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-030",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-12",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 30,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Incorrectly matched pair is :",
+  "options": [
+   "$\\mathrm{XeOF_4}$ – square pyramidal",
+   "$\\mathrm{XeO_3}$ – pyramidal",
+   "$\\mathrm{XeF_4}$ – tetrahedral",
+   "$\\mathrm{XeF_6}$ – distorted octahedral"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-031",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-12",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 31,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Phosphorus pentachloride",
+  "options": [
+   "exists as an ionic solid in which cation has octahedral structure and anion has tetrahedral structure.",
+   "on hydrolysis gives an oxo acid of phosphorus which is tribasic.",
+   "on hydrolysis gives an oxo acid of phosphorus which is a good reducing agent.",
+   "has all the five equivalent bonds."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-032",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 32,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Identify the set of paramagnetic ions among the following :",
+  "options": [
+   "$\\mathrm{SC^{3+}}, \\mathrm{Ti^{3+}}, \\mathrm{V^{3+}}$",
+   "$\\mathrm{V^{2+}}, \\mathrm{Co^{2+}}, \\mathrm{Ti^{4+}}$",
+   "$\\mathrm{Ni^{2+}}, \\mathrm{Cu^{2+}}, \\mathrm{Zn^{2+}}$",
+   "$\\mathrm{Ti^{3+}}, \\mathrm{Cu^{2+}}, \\mathrm{Mn^{3+}}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-033",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 33,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "How many moles of acidified $\\mathrm{K_2Cr_2O_7}$ is required to liberate 6 moles of $\\mathrm{I_2}$ from an aqueous solution of $\\mathrm{I^-}$ ?",
+  "options": [
+   "0.5",
+   "2",
+   "1",
+   "0.25"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-034",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 34,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "$\\mathrm{Cu_2Cl_2}$ and $\\mathrm{CuCl_2}$ in aqueous medium",
+  "options": [
+   "$\\mathrm{Cu_2Cl_2}$ is more stable than $\\mathrm{CuCl_2}$",
+   "$\\mathrm{CuCl_2}$ is more stable than $\\mathrm{Cu_2Cl_2}$",
+   "Stability of $\\mathrm{Cu_2Cl_2}$ is equal to stability of $\\mathrm{CuCl_2}$",
+   "Both are unstable"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-035",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 35,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The co-ordination number of Fe and Co in the complex ions, $[\\mathrm{Fe(C_2O_4)_3}]^{3-}$ and $[\\mathrm{Co(SCN)_4}]^{2-}$ are respectively :",
+  "options": [
+   "6 and 4",
+   "3 and 4",
+   "6 and 8",
+   "4 and 6"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-036",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 36,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Number of stereoisomers exhibited by $[\\mathrm{Co(en)_2Cl_2}]^+$ is",
+  "options": [
+   "3",
+   "4",
+   "2",
+   "5"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-037",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 37,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Give the IUPAC name of $[\\mathrm{Pt(NH_3)_4}][\\mathrm{PtCl_4}]$ is",
+  "options": [
+   "tetra ammine platinum (II) tetra chlorido platinate (II)",
+   "tetra ammine platinum (o) tetra chlorido platinum (IV)",
+   "tetra ammine platinate (II) tetra chlorido platinum (II)",
+   "tetra ammine platinate (o) tetra chlorido platinum (IV)"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-038",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 38,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Prolonged exposure of chloroform in humans may cause damage to liver. It is due to the formation of the following compound :",
+  "options": [
+   "$\\mathrm{Cl_2}$",
+   "$\\mathrm{CCl_4}$",
+   "$\\mathrm{COCl_2}$",
+   "$\\mathrm{CH_2Cl_2}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-039",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 39,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Which of the following halide shows highest reactivity towards $\\mathrm{S_N1}$ reaction ?",
+  "options": [
+   "$\\mathrm{C_6H_5Cl}$",
+   "$\\mathrm{C_6H_5CH_2Cl}$",
+   "$\\mathrm{CH_3-CH_2Cl}$",
+   "$\\mathrm{CH_3-CH_2-CH_2-CH_2I}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-040",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 40,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "In the reaction :\n\n[reaction shown in the diagram]\n\nThe number of possible isomers for the organic compound X is",
+  "options": [
+   "2",
+   "4",
+   "5",
+   "3"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2020-chemistry-040.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-041",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 41,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Which of the following on heating gives an ether as major product ?\n\nP : $\\mathrm{C_6H_5CH_2Br + CH_3ONa}$\n\nQ : $\\mathrm{C_6H_5ONa + CH_3Br}$\n\nR : $\\mathrm{(CH_3)_3C-Cl + CH_3ONa}$\n\nS : $\\mathrm{C_6H_5CH=CHCl + CH_3ONa}$",
+  "options": [
+   "Both P and Q",
+   "Both R and S",
+   "Both P and R",
+   "Both Q and S"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-042",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 42,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The steps involved in the conversion of propan-2-ol to propan-1-ol are in the order",
+  "options": [
+   "dehydration, addition of HBr in presence of peroxide, heating with alc. KOH",
+   "dehydration, addition of HBr, heating with aq. KOH",
+   "heating with $\\mathrm{PCl_5}$, heating with alc. KOH, acid catalysed addition of water",
+   "heating with $\\mathrm{PCl_5}$, heating with alc. KOH, hydroboration - oxidation"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-043",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 43,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Which of the following is the strongest base ?",
+  "options": [
+   "$\\mathrm{CH_3O^-}$",
+   "$\\mathrm{CH_3COO^-}$",
+   "$\\mathrm{Cl^-}$",
+   "$\\mathrm{OH^-}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-044",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 44,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The product 'P' is",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2020-chemistry-044.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-045",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 45,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Which of the following has the lowest boiling point ?",
+  "options": [
+   "$\\mathrm{HCOOH}$",
+   "$\\mathrm{CH_3CH_2OH}$",
+   "$\\mathrm{CH_3-CH_2-NH_2}$",
+   "$\\mathrm{CH_3-O-CH_3}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-046",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 46,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The carbonyl compound that does not undergo aldol condensation is",
+  "options": [
+   "acetaldehyde",
+   "acetone",
+   "dichloroacetaldehyde",
+   "trichloroacetaldehyde"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-047",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 47,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The final product R is",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2020-chemistry-047.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-048",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 48,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Hinsberg's reagent is",
+  "options": [
+   "$\\mathrm{CH_3COCl}$ / pyridine",
+   "$\\mathrm{(CH_3CO)_2O}$ / pyridine",
+   "$\\mathrm{C_6H_5SO_2Cl}$",
+   "$\\mathrm{C_6H_5SO_2NH_2}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-049",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 49,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 19,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Which one of the following vitamins is not stored in adipose tissue ?",
+  "options": [
+   "E",
+   "A",
+   "$\\mathrm{B_6}$",
+   "D"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-050",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 50,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 19,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Hypothyroidism is caused by the deficiency of",
+  "options": [
+   "Glucocorticoid",
+   "Vitamin B-12",
+   "Adrenalin",
+   "Thyroxine"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-051",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 51,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 19,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "$\\mathrm{C_1 - C_4}$ glycosidic bond is NOT found in",
+  "options": [
+   "starch",
+   "maltose",
+   "sucrose",
+   "lactose"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-052",
+  "subject": "chemistry",
+  "chapter": "polymers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 52,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 19,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Which of the following polymer has strongest intermolecular forces of attraction ?",
+  "options": [
+   "Polystyrene",
+   "Neoprene",
+   "Terylene",
+   "Polythene"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-053",
+  "subject": "chemistry",
+  "chapter": "polymers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 53,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 19,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Which of the following monomers can undergo condensation polymerization ?",
+  "options": [
+   "Propene",
+   "Styrene",
+   "Glycine",
+   "Isoprene"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-054",
+  "subject": "chemistry",
+  "chapter": "chemistry-in-everyday-life",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 54,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 19,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A food additive that acts as an anti-oxidant is",
+  "options": [
+   "Salt",
+   "BHA",
+   "Saccharin",
+   "Sugar syrup"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-055",
+  "subject": "chemistry",
+  "chapter": "chemistry-in-everyday-life",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 55,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 19,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Which of the following is not related to drug – enzyme interaction ?",
+  "options": [
+   "enzyme inhibitor",
+   "allosteric site",
+   "antagonist",
+   "co-enzymes"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-056",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 56,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 21,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "0.4 g of dihydrogen is made to react with 7.1 g of dichlorine to form hydrogen chloride. The volume of hydrogen chloride formed at 273 K and 1 bar pressure is",
+  "options": [
+   "45.4 L",
+   "9.08 L",
+   "4.54 L",
+   "90.8 L"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-057",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 57,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 21,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "With regard to photoelectric effect, identify the CORRECT statement among the following :",
+  "options": [
+   "Number of e$^-$ ejected increases with the increase in the intensity of incident light.",
+   "Energy of e$^-$ ejected increases with the increase in the intensity of incident light.",
+   "Number of e$^-$ ejected increases with the increase in the frequency of incident light.",
+   "Number of e$^-$ ejected increases with the increase in work function."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-058",
+  "subject": "chemistry",
+  "chapter": "classification-of-elements-and-periodicity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 58,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 21,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The last element of the p - block in $6^{th}$ period is represented by the outer most electronic configuration :",
+  "options": [
+   "$4f^{14}\\,5d^{10}\\,6s^2\\,6p^6$",
+   "$7s^2\\,7p^6$",
+   "$5f^{14}\\,6d^{10}\\,7s^2\\,7p^6$",
+   "$4f^{14}\\,5d^{10}\\,6s^2\\,6p^4$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-059",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 59,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 21,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The conjugate base of $\\mathrm{NH_3}$ is",
+  "options": [
+   "$\\mathrm{NH_2^-}$",
+   "$\\mathrm{NH_4^+}$",
+   "$\\mathrm{NH_4OH}$",
+   "$\\mathrm{NH_2OH}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-chemistry-060",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 60,
+   "file": "sources/pyq/2020/chemistry/2020-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 21,
+   "key_file": "sources/pyq/2020/chemistry/2020-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A gas mixture contains 25% He and 75% $\\mathrm{CH_4}$ by volume at a given temperature and pressure. The percentage by mass of methane in the mixture is approximately ________.",
+  "options": [
+   "8%",
+   "75%",
+   "25%",
+   "92%"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

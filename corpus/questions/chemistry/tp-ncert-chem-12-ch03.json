@@ -1,0 +1,601 @@
+[
+ {
+  "id": "tp-ncert-chem-12-ch03-001",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep503.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep503.pdf"
+  },
+  "stem": "Which cell will measure standard electrode potential of copper electrode?",
+  "options": [
+   "$\\mathrm{Pt(s)\\,|\\,H_2(g,0.1\\,bar)\\,|\\,H^+(aq.,1\\,M)\\,\\|\\,Cu^{2+}(aq.,1\\,M)\\,|\\,Cu}$",
+   "$\\mathrm{Pt(s)\\,|\\,H_2(g,1\\,bar)\\,|\\,H^+(aq.,1\\,M)\\,\\|\\,Cu^{2+}(aq.,2\\,M)\\,|\\,Cu}$",
+   "$\\mathrm{Pt(s)\\,|\\,H_2(g,1\\,bar)\\,|\\,H^+(aq.,1\\,M)\\,\\|\\,Cu^{2+}(aq.,1\\,M)\\,|\\,Cu}$",
+   "$\\mathrm{Pt(s)\\,|\\,H_2(g,1\\,bar)\\,|\\,H^+(aq.,0.1\\,M)\\,\\|\\,Cu^{2+}(aq.,1\\,M)\\,|\\,Cu}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch03-002",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep503.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep503.pdf"
+  },
+  "stem": "Electrode potential for Mg electrode varies according to the equation\n\n$$E_{\\mathrm{Mg^{2+}|Mg}} = E^{\\ominus}_{\\mathrm{Mg^{2+}|Mg}} - \\frac{0.059}{2}\\log\\frac{1}{[\\mathrm{Mg^{2+}}]}$$\n\nThe graph of $E_{\\mathrm{Mg^{2+}|Mg}}$ vs $\\log[\\mathrm{Mg^{2+}}]$ is",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch03-002.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch03-003",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep503.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep503.pdf"
+  },
+  "stem": "Which of the following statement is correct?",
+  "options": [
+   "$E_{\\mathrm{Cell}}$ and $\\Delta_rG$ of cell reaction both are extensive properties.",
+   "$E_{\\mathrm{Cell}}$ and $\\Delta_rG$ of cell reaction both are intensive properties.",
+   "$E_{\\mathrm{Cell}}$ is an intensive property while $\\Delta_rG$ of cell reaction is an extensive property.",
+   "$E_{\\mathrm{Cell}}$ is an extensive property while $\\Delta_rG$ of cell reaction is an intensive property."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch03-004",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep503.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep503.pdf"
+  },
+  "stem": "The difference between the electrode potentials of two electrodes when no current is drawn through the cell is called ___________.",
+  "options": [
+   "Cell potential",
+   "Cell emf",
+   "Potential difference",
+   "Cell voltage"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch03-005",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep503.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep503.pdf"
+  },
+  "stem": "Which of the following statement is not correct about an inert electrode in a cell?",
+  "options": [
+   "It does not participate in the cell reaction.",
+   "It provides surface either for oxidation or for reduction reaction.",
+   "It provides surface for conduction of electrons.",
+   "It provides surface for redox reaction."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch03-006",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep503.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep503.pdf"
+  },
+  "stem": "An electrochemical cell can behave like an electrolytic cell when ____________.",
+  "options": [
+   "$E_{\\mathrm{cell}} = 0$",
+   "$E_{\\mathrm{cell}} > E_{\\mathrm{ext}}$",
+   "$E_{\\mathrm{ext}} > E_{\\mathrm{cell}}$",
+   "$E_{\\mathrm{cell}} = E_{\\mathrm{ext}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch03-007",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 7,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep503.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep503.pdf"
+  },
+  "stem": "Which of the statements about solutions of electrolytes is not correct?",
+  "options": [
+   "Conductivity of solution depends upon size of ions.",
+   "Conductivity depends upon viscosiy of solution.",
+   "Conductivity does not depend upon solvation of ions present in solution.",
+   "Conductivity of solution increases with temperature."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch03-008",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 8,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep503.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep503.pdf"
+  },
+  "stem": "Using the data given below find out the strongest reducing agent.\n\n$$E^{\\ominus}_{\\mathrm{Cr_2O_7^{2-}/Cr^{3+}}} = 1.33\\,\\mathrm{V}\\qquad E^{\\ominus}_{\\mathrm{Cl_2/Cl^-}} = 1.36\\,\\mathrm{V}$$\n\n$$E^{\\ominus}_{\\mathrm{MnO_4^-/Mn^{2+}}} = 1.51\\,\\mathrm{V}\\qquad E^{\\ominus}_{\\mathrm{Cr^{3+}/Cr}} = -0.74\\,\\mathrm{V}$$",
+  "options": [
+   "$\\mathrm{Cl^-}$",
+   "$\\mathrm{Cr}$",
+   "$\\mathrm{Cr^{3+}}$",
+   "$\\mathrm{Mn^{2+}}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch03-009",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 9,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep503.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep503.pdf"
+  },
+  "stem": "Use the data given in Q.8 and find out which of the following is the strongest oxidising agent.",
+  "options": [
+   "$\\mathrm{Cl^-}$",
+   "$\\mathrm{Mn^{2+}}$",
+   "$\\mathrm{MnO_4^-}$",
+   "$\\mathrm{Cr^{3+}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch03-010",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 10,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep503.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep503.pdf"
+  },
+  "stem": "Using the data given in Q.8 find out in which option the order of reducing power is correct.",
+  "options": [
+   "$\\mathrm{Cr^{3+} < Cl^- < Mn^{2+} < Cr}$",
+   "$\\mathrm{Mn^{2+} < Cl^- < Cr^{3+} < Cr}$",
+   "$\\mathrm{Cr^{3+} < Cl^- < Cr_2O_7^{2-} < MnO_4^-}$",
+   "$\\mathrm{Mn^{2+} < Cr^{3+} < Cl^- < Cr}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch03-011",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 11,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep503.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep503.pdf"
+  },
+  "stem": "Use the data given in Q.8 and find out the most stable ion in its reduced form.",
+  "options": [
+   "$\\mathrm{Cl^-}$",
+   "$\\mathrm{Cr^{3+}}$",
+   "$\\mathrm{Cr}$",
+   "$\\mathrm{Mn^{2+}}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch03-012",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 12,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep503.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep503.pdf"
+  },
+  "stem": "Use the data of Q.8 and find out the most stable oxidised species.",
+  "options": [
+   "$\\mathrm{Cr^{3+}}$",
+   "$\\mathrm{MnO_4^-}$",
+   "$\\mathrm{Cr_2O_7^{2-}}$",
+   "$\\mathrm{Mn^{2+}}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch03-013",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 13,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep503.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep503.pdf"
+  },
+  "stem": "The quantity of charge required to obtain one mole of aluminium from $\\mathrm{Al_2O_3}$ is ___________.",
+  "options": [
+   "1F",
+   "6F",
+   "3F",
+   "2F"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch03-014",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 14,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep503.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep503.pdf"
+  },
+  "stem": "The cell constant of a conductivity cell _____________.",
+  "options": [
+   "changes with change of electrolyte.",
+   "changes with change of concentration of electrolyte.",
+   "changes with temperature of electrolyte.",
+   "remains constant for a cell."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch03-015",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 15,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep503.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep503.pdf"
+  },
+  "stem": "While charging the lead storage battery ______________.",
+  "options": [
+   "$\\mathrm{PbSO_4}$ anode is reduced to Pb.",
+   "$\\mathrm{PbSO_4}$ cathode is reduced to Pb.",
+   "$\\mathrm{PbSO_4}$ cathode is oxidised to Pb.",
+   "$\\mathrm{PbSO_4}$ anode is oxidised to $\\mathrm{PbO_2}$."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "disputed",
+   "notes": "Key reads (i) correctly, but on charging (electrolytic mode) the Pb plate is the cathode where PbSO4 is reduced to Pb; (i) calls it anode, which is wrong in electrolytic convention (known NCERT key issue).",
+   "status_reason": "solver disagrees with unofficial key"
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch03-016",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 16,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep503.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep503.pdf"
+  },
+  "stem": "$\\Lambda^0_{m(\\mathrm{NH_4OH})}$ is equal to ______________.",
+  "options": [
+   "$\\Lambda^0_{m(\\mathrm{NH_4OH})} + \\Lambda^0_{m(\\mathrm{NH_4Cl})} - \\Lambda^0_{(\\mathrm{HCl})}$",
+   "$\\Lambda^0_{m(\\mathrm{NH_4Cl})} + \\Lambda^0_{m(\\mathrm{NaOH})} - \\Lambda^0_{(\\mathrm{NaCl})}$",
+   "$\\Lambda^0_{m(\\mathrm{NH_4Cl})} + \\Lambda^0_{m(\\mathrm{NaCl})} - \\Lambda^0_{(\\mathrm{NaOH})}$",
+   "$\\Lambda^0_{m(\\mathrm{NaOH})} + \\Lambda^0_{m(\\mathrm{NaCl})} - \\Lambda^0_{(\\mathrm{NH_4Cl})}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch03-017",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 17,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep503.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep503.pdf"
+  },
+  "stem": "In the electrolysis of aqueous sodium chloride solution which of the half cell reaction will occur at anode?",
+  "options": [
+   "$\\mathrm{Na^+(aq) + e^- \\rightarrow Na(s);}\\quad E^{\\ominus}_{\\mathrm{Cell}} = -2.71\\,\\mathrm{V}$",
+   "$\\mathrm{2H_2O(l) \\rightarrow O_2(g) + 4H^+(aq) + 4e^-;}\\quad E^{\\ominus}_{\\mathrm{Cell}} = 1.23\\,\\mathrm{V}$",
+   "$\\mathrm{H^+(aq) + e^- \\rightarrow \\frac{1}{2}H_2(g);}\\quad E^{\\ominus}_{\\mathrm{Cell}} = 0.00\\,\\mathrm{V}$",
+   "$\\mathrm{Cl^-(aq) \\rightarrow \\frac{1}{2}Cl_2(g) + e^-;}\\quad E^{\\ominus}_{\\mathrm{Cell}} = 1.36\\,\\mathrm{V}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "disputed",
+   "notes": "Key reads (ii) correctly, but Cl- oxidation (iv) is the actual anode reaction in brine electrolysis; the book's own answer to Q34 says Cl- is oxidised instead of water due to O2 overpotential.",
+   "status_reason": "solver disagrees with unofficial key"
+  }
+ }
+]

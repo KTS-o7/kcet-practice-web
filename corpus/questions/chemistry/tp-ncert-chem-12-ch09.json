@@ -1,0 +1,492 @@
+[
+ {
+  "id": "tp-ncert-chem-12-ch09-001",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep509.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep509.pdf"
+  },
+  "stem": "Which of the following complexes formed by $\\mathrm{Cu^{2+}}$ ions is most stable?",
+  "options": [
+   "$\\mathrm{Cu^{2+} + 4NH_3 \\rightleftharpoons [Cu(NH_3)_4]^{2+}},\\ \\log K = 11.6$",
+   "$\\mathrm{Cu^{2+} + 4CN^{-} \\rightleftharpoons [Cu(CN)_4]^{2-}},\\ \\log K = 27.3$",
+   "$\\mathrm{Cu^{2+} + 2en \\rightleftharpoons [Cu(en)_2]^{2+}},\\ \\log K = 15.4$",
+   "$\\mathrm{Cu^{2+} + 4H_2O \\rightleftharpoons [Cu(H_2O)_4]^{2+}},\\ \\log K = 8.9$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch09-002",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep509.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep509.pdf"
+  },
+  "stem": "The colour of the coordination compounds depends on the crystal field splitting. What will be the correct order of absorption of wavelength of light in the visible region, for the complexes, $\\mathrm{[Co(NH_3)_6]^{3+}}$, $\\mathrm{[Co(CN)_6]^{3-}}$, $\\mathrm{[Co(H_2O)_6]^{3+}}$",
+  "options": [
+   "$\\mathrm{[Co(CN)_6]^{3-} > [Co(NH_3)_6]^{3+} > [Co(H_2O)_6]^{3+}}$",
+   "$\\mathrm{[Co(NH_3)_6]^{3+} > [Co(H_2O)_6]^{3+} > [Co(CN)_6]^{3-}}$",
+   "$\\mathrm{[Co(H_2O)_6]^{3+} > [Co(NH_3)_6]^{3+} > [Co(CN)_6]^{3-}}$",
+   "$\\mathrm{[Co(CN)_6]^{3-} > [Co(NH_3)_6]^{3+} > [Co(H_2O)_6]^{3+}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch09-003",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep509.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep509.pdf"
+  },
+  "stem": "When $0.1$ mol $\\mathrm{CoCl_3(NH_3)_5}$ is treated with excess of $\\mathrm{AgNO_3}$, $0.2$ mol of $\\mathrm{AgCl}$ are obtained. The conductivity of solution will correspond to",
+  "options": [
+   "1:3 electrolyte",
+   "1:2 electrolyte",
+   "1:1 electrolyte",
+   "3:1 electrolyte"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch09-004",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep509.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep509.pdf"
+  },
+  "stem": "When 1 mol $\\mathrm{CrCl_3\\cdot 6H_2O}$ is treated with excess of $\\mathrm{AgNO_3}$, 3 mol of $\\mathrm{AgCl}$ are obtained. The formula of the complex is :",
+  "options": [
+   "$\\mathrm{[CrCl_3(H_2O)_3]\\cdot 3H_2O}$",
+   "$\\mathrm{[CrCl_2(H_2O)_4]Cl\\cdot 2H_2O}$",
+   "$\\mathrm{[CrCl(H_2O)_5]Cl_2\\cdot H_2O}$",
+   "$\\mathrm{[Cr(H_2O)_6]Cl_3}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch09-005",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep509.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep509.pdf"
+  },
+  "stem": "The correct IUPAC name of $\\mathrm{[Pt(NH_3)_2Cl_2]}$ is",
+  "options": [
+   "Diamminedichloridoplatinum (II)",
+   "Diamminedichloridoplatinum (IV)",
+   "Diamminedichloridoplatinum (0)",
+   "Dichloridodiammineplatinum (IV)"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch09-006",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep509.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep509.pdf"
+  },
+  "stem": "The stabilisation of coordination compounds due to chelation is called the chelate effect. Which of the following is the most stable complex species?",
+  "options": [
+   "$\\mathrm{[Fe(CO)_5]}$",
+   "$\\mathrm{[Fe(CN)_6]^{3-}}$",
+   "$\\mathrm{[Fe(C_2O_4)_3]^{3-}}$",
+   "$\\mathrm{[Fe(H_2O)_6]^{3+}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch09-007",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 7,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep509.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep509.pdf"
+  },
+  "stem": "Indicate the complex ion which shows geometrical isomerism.",
+  "options": [
+   "$\\mathrm{[Cr(H_2O)_4Cl_2]^{+}}$",
+   "$\\mathrm{[Pt(NH_3)_3Cl]}$",
+   "$\\mathrm{[Co(NH_3)_6]^{3+}}$",
+   "$\\mathrm{[Co(CN)_5(NC)]^{3-}}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch09-008",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 8,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep509.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep509.pdf"
+  },
+  "stem": "The CFSE for octahedral $\\mathrm{[CoCl_6]^{4-}}$ is $18,000\\,\\mathrm{cm^{-1}}$. The CFSE for tetrahedral $\\mathrm{[CoCl_4]^{2-}}$ will be",
+  "options": [
+   "$18,000\\,\\mathrm{cm^{-1}}$",
+   "$16,000\\,\\mathrm{cm^{-1}}$",
+   "$8,000\\,\\mathrm{cm^{-1}}$",
+   "$20,000\\,\\mathrm{cm^{-1}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch09-009",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 9,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep509.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep509.pdf"
+  },
+  "stem": "Due to the presence of ambidentate ligands coordination compounds show isomerism. Palladium complexes of the type $\\mathrm{[Pd(C_6H_5)_2(SCN)_2]}$ and $\\mathrm{[Pd(C_6H_5)_2(NCS)_2]}$ are",
+  "options": [
+   "linkage isomers",
+   "coordination isomers",
+   "ionisation isomers",
+   "geometrical isomers"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch09-010",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 10,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep509.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep509.pdf"
+  },
+  "stem": "The compounds $\\mathrm{[Co(SO_4)(NH_3)_5]Br}$ and $\\mathrm{[Co(SO_4)(NH_3)_5]Cl}$ represent",
+  "options": [
+   "linkage isomerism",
+   "ionisation isomerism",
+   "coordination isomerism",
+   "no isomerism"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch09-011",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 11,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep509.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep509.pdf"
+  },
+  "stem": "A chelating agent has two or more than two donor atoms to bind to a single metal ion. Which of the following is not a chelating agent?",
+  "options": [
+   "thiosulphato",
+   "oxalato",
+   "glycinato",
+   "ethane-1,2-diamine"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch09-012",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 12,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep509.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep509.pdf"
+  },
+  "stem": "Which of the following species is not expected to be a ligand?",
+  "options": [
+   "$\\mathrm{NO}$",
+   "$\\mathrm{NH_4^{+}}$",
+   "$\\mathrm{NH_2CH_2CH_2NH_2}$",
+   "$\\mathrm{CO}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch09-013",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 13,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep509.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep509.pdf"
+  },
+  "stem": "What kind of isomerism exists between $\\mathrm{[Cr(H_2O)_6]Cl_3}$ (violet) and $\\mathrm{[Cr(H_2O)_5Cl]Cl_2\\cdot H_2O}$ (greyish-green)?",
+  "options": [
+   "linkage isomerism",
+   "solvate isomerism",
+   "ionisation isomerism",
+   "coordination isomerism"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch09-014",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 14,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep509.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep509.pdf"
+  },
+  "stem": "IUPAC name of $\\mathrm{[Pt(NH_3)_2Cl(NO_2)]}$ is :",
+  "options": [
+   "Platinum diaminechloronitrite",
+   "Chloronitrito-N-ammineplatinum (II)",
+   "Diamminechloridonitrito-N-platinum (II)",
+   "Diamminechloronitrito-N-platinate (II)"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

@@ -1,7 +1,7 @@
 // Reads a JSON array of strings on stdin; prints indices whose $..$ / $$..$$ math KaTeX can't render.
 const path = require('path');
 const katex = require(path.join(__dirname, '..', 'web', 'node_modules', 'katex'));
-try { require(path.join(__dirname, '..', 'web', 'node_modules', 'katex', 'contrib', 'mhchem')); } catch (e) {}
+try { require(path.join(__dirname, '..', 'web', 'node_modules', 'katex', 'dist', 'contrib', 'mhchem.js')); } catch (e) {}
 const items = JSON.parse(require('fs').readFileSync(0, 'utf8'));
 const bad = [];
 items.forEach((s, i) => {

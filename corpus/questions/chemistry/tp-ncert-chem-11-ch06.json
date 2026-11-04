@@ -1,0 +1,493 @@
+[
+ {
+  "id": "tp-ncert-chem-11-ch06-001",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep506.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep506.pdf"
+  },
+  "stem": "Thermodynamics is not concerned about______.",
+  "options": [
+   "energy changes involved in a chemical reaction.",
+   "the extent to which a chemical reaction proceeds.",
+   "the rate at which a reaction proceeds.",
+   "the feasibility of a chemical reaction."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch06-002",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep506.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep506.pdf"
+  },
+  "stem": "Which of the following statements is correct?",
+  "options": [
+   "The presence of reacting species in a covered beaker is an example of open system.",
+   "There is an exchange of energy as well as matter between the system and the surroundings in a closed system.",
+   "The presence of reactants in a closed vessel made up of copper is an example of a closed system.",
+   "The presence of reactants in a thermos flask or any other closed insulated vessel is an example of a closed system."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch06-003",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep506.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep506.pdf"
+  },
+  "stem": "The state of a gas can be described by quoting the relationship between___.",
+  "options": [
+   "pressure, volume, temperature",
+   "temperature, amount, pressure",
+   "amount, volume, temperature",
+   "pressure, volume, temperature, amount"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch06-004",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep506.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep506.pdf"
+  },
+  "stem": "The volume of gas is reduced to half from its original volume. The specific heat will be ______.",
+  "options": [
+   "reduce to half",
+   "be doubled",
+   "remain constant",
+   "increase four times"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch06-005",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep506.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep506.pdf"
+  },
+  "stem": "During complete combustion of one mole of butane, 2658 kJ of heat is released. The thermochemical reaction for above change is",
+  "options": [
+   "$\\mathrm{2C_4H_{10}(g) + 13O_2(g) \\rightarrow 8CO_2(g) + 10H_2O(l)}$, $\\Delta_cH = -2658.0\\,\\mathrm{kJ\\,mol^{-1}}$",
+   "$\\mathrm{C_4H_{10}(g) + \\frac{13}{2}O_2(g) \\rightarrow 4CO_2(g) + 5H_2O(g)}$, $\\Delta_cH = -1329.0\\,\\mathrm{kJ\\,mol^{-1}}$",
+   "$\\mathrm{C_4H_{10}(g) + \\frac{13}{2}O_2(g) \\rightarrow 4CO_2(g) + 5H_2O(l)}$, $\\Delta_cH = -2658.0\\,\\mathrm{kJ\\,mol^{-1}}$",
+   "$\\mathrm{C_4H_{10}(g) + \\frac{13}{2}O_2(g) \\rightarrow 4CO_2(g) + 5H_2O(l)}$, $\\Delta_cH = +2658.0\\,\\mathrm{kJ\\,mol^{-1}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch06-006",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep506.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep506.pdf"
+  },
+  "stem": "$\\Delta_fU^\\ominus$ of formation of $\\mathrm{CH_4(g)}$ at certain temperature is $-393\\,\\mathrm{kJ\\,mol^{-1}}$. The value of $\\Delta_fH^\\ominus$ is",
+  "options": [
+   "zero",
+   "$< \\Delta_fU^\\ominus$",
+   "$> \\Delta_fU^\\ominus$",
+   "equal to $\\Delta_fU^\\ominus$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch06-007",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 7,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep506.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep506.pdf"
+  },
+  "stem": "In an adiabatic process, no transfer of heat takes place between system and surroundings. Choose the correct option for free expansion of an ideal gas under adiabatic condition from the following.",
+  "options": [
+   "$q = 0$, $\\Delta T \\neq 0$, $w = 0$",
+   "$q \\neq 0$, $\\Delta T = 0$, $w = 0$",
+   "$q = 0$, $\\Delta T = 0$, $w = 0$",
+   "$q = 0$, $\\Delta T < 0$, $w \\neq 0$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch06-008",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 8,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep506.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep506.pdf"
+  },
+  "stem": "The pressure-volume work for an ideal gas can be calculated by using the expression $w = -\\int_{V_i}^{V_f} p_{ex}\\,dV$. The work can also be calculated from the $pV$– plot by using the area under the curve within the specified limits. When an ideal gas is compressed (a) reversibly or (b) irreversibly from volume $V_i$ to $V_f$. choose the correct option.",
+  "options": [
+   "w (reversible) = w (irreversible)",
+   "w (reversible) < w (irreversible)",
+   "w (reversible) > w (irreversible)",
+   "w (reversible) = w (irreversible) + $p_{ex}\\cdot\\Delta V$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch06-009",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 9,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep506.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep506.pdf"
+  },
+  "stem": "The entropy change can be calculated by using the expression $\\Delta S = \\frac{q_{rev}}{T}$.\n\nWhen water freezes in a glass beaker, choose the correct statement amongst the following :",
+  "options": [
+   "$\\Delta S$ (system) decreases but $\\Delta S$ (surroundings) remains the same.",
+   "$\\Delta S$ (system) increases but $\\Delta S$ (surroundings) decreases.",
+   "$\\Delta S$ (system) decreases but $\\Delta S$ (surroundings) increases.",
+   "$\\Delta S$ (system) decreases and $\\Delta S$ (surroundings) also decreases."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch06-010",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 10,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep506.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep506.pdf"
+  },
+  "stem": "On the basis of thermochemical equations (a), (b) and (c), find out which of the algebric relationships given in options (i) to (iv) is correct.\n\n(a) $\\mathrm{C(graphite) + O_2(g) \\rightarrow CO_2(g)}$ ; $\\Delta_rH = x\\,\\mathrm{kJ\\,mol^{-1}}$\n\n(b) $\\mathrm{C(graphite) + \\frac{1}{2}O_2(g) \\rightarrow CO(g)}$ ; $\\Delta_rH = y\\,\\mathrm{kJ\\,mol^{-1}}$\n\n(c) $\\mathrm{CO(g) + \\frac{1}{2}O_2(g) \\rightarrow CO_2(g)}$ ; $\\Delta_rH = z\\,\\mathrm{kJ\\,mol^{-1}}$",
+  "options": [
+   "$z = x + y$",
+   "$x = y - z$",
+   "$x = y + z$",
+   "$y = 2z - x$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch06-011",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 11,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep506.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep506.pdf"
+  },
+  "stem": "Consider the reactions given below. On the basis of these reactions find out which of the algebric relations given in options (i) to (iv) is correct?\n\n(a) $\\mathrm{C(g) + 4H(g) \\rightarrow CH_4(g)}$; $\\Delta_rH = x\\,\\mathrm{kJ\\,mol^{-1}}$\n\n(b) $\\mathrm{C(graphite,s) + 2H_2(g) \\rightarrow CH_4(g)}$; $\\Delta_rH = y\\,\\mathrm{kJ\\,mol^{-1}}$",
+  "options": [
+   "$x = y$",
+   "$x = 2y$",
+   "$x > y$",
+   "$x < y$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "disputed",
+   "notes": "Key (iii) x>y read correctly from image; but (a) is reverse atomisation of CH4 (about -1665 kJ/mol) vs formation y (about -75), so x<y; printed key justification only holds for magnitudes.",
+   "status_reason": "solver disagrees with unofficial key"
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch06-012",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 12,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep506.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep506.pdf"
+  },
+  "stem": "The enthalpies of elements in their standard states are taken as zero. The enthalpy of formation of a compound",
+  "options": [
+   "is always negative",
+   "is always positive",
+   "may be positive or negative",
+   "is never negative"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch06-013",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 13,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep506.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep506.pdf"
+  },
+  "stem": "Enthalpy of sublimation of a substance is equal to",
+  "options": [
+   "enthalpy of fusion + enthalpy of vapourisation",
+   "enthalpy of fusion",
+   "enthalpy of vapourisation",
+   "twice the enthalpy of vapourisation"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch06-014",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 14,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep506.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep506.pdf"
+  },
+  "stem": "Which of the following is not correct?",
+  "options": [
+   "$\\Delta G$ is zero for a reversible reaction",
+   "$\\Delta G$ is positive for a spontaneous reaction",
+   "$\\Delta G$ is negative for a spontaneous reaction",
+   "$\\Delta G$ is positive for a non-spontaneous reaction"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

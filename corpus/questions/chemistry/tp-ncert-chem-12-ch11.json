@@ -1,0 +1,574 @@
+[
+ {
+  "id": "tp-ncert-chem-12-ch11-001",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep511.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep511.pdf"
+  },
+  "stem": "Monochlorination of toluene in sunlight followed by hydrolysis with aq. NaOH yields.",
+  "options": [
+   "$o$-Cresol",
+   "$m$-Cresol",
+   "2, 4-Dihydroxytoluene",
+   "Benzyl alcohol"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch11-002",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep511.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep511.pdf"
+  },
+  "stem": "How many alcohols with molecular formula $\\mathrm{C_4H_{10}O}$ are chiral in nature?",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch11-003",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep511.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep511.pdf"
+  },
+  "stem": "What is the correct order of reactivity of alcohols in the following reaction?\n\n$\\mathrm{R{-}OH + HCl \\xrightarrow{ZnCl_2} R{-}Cl + H_2O}$",
+  "options": [
+   "$1^\\circ > 2^\\circ > 3^\\circ$",
+   "$1^\\circ < 2^\\circ > 3^\\circ$",
+   "$3^\\circ > 2^\\circ > 1^\\circ$",
+   "$3^\\circ > 1^\\circ > 2^\\circ$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch11-004",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep511.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep511.pdf"
+  },
+  "stem": "$\\mathrm{CH_3CH_2OH}$ can be converted into $\\mathrm{CH_3CHO}$ by ______________.",
+  "options": [
+   "catalytic hydrogenation",
+   "treatment with $\\mathrm{LiAlH_4}$",
+   "treatment with pyridinium chlorochromate",
+   "treatment with $\\mathrm{KMnO_4}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch11-005",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep511.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep511.pdf"
+  },
+  "stem": "The process of converting alkyl halides into alcohols involves______________.",
+  "options": [
+   "addition reaction",
+   "substitution reaction",
+   "dehydrohalogenation reaction",
+   "rearrangement reaction"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch11-006",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep511.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep511.pdf"
+  },
+  "stem": "Which of the following compounds is aromatic alcohol?",
+  "options": [
+   "A, B, C, D",
+   "A, D",
+   "B, C",
+   "A"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch11-006.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch11-007",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 7,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep511.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep511.pdf"
+  },
+  "stem": "Give IUPAC name of the compound given below.\n\n$$\\mathrm{CH_3{-}\\underset{Cl}{CH}{-}CH_2{-}CH_2{-}\\underset{OH}{CH}{-}CH_3}$$",
+  "options": [
+   "2-Chloro-5-hydroxyhexane",
+   "2-Hydroxy-5-chlorohexane",
+   "5-Chlorohexan-2-ol",
+   "2-Chlorohexan-5-ol"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch11-007.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch11-008",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 8,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep511.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep511.pdf"
+  },
+  "stem": "IUPAC name of $m$-cresol is ___________.",
+  "options": [
+   "3-methylphenol",
+   "3-chlorophenol",
+   "3-methoxyphenol",
+   "benzene-1,3-diol"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch11-009",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 9,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep511.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep511.pdf"
+  },
+  "stem": "IUPAC name of the compound $\\mathrm{CH_3{-}\\underset{CH_3}{CH}{-}OCH_3}$ is ______________.",
+  "options": [
+   "1-methoxy-1-methylethane",
+   "2-methoxy-2-methylethane",
+   "2-methoxypropane",
+   "isopropylmethyl ether"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch11-009.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch11-010",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 10,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep511.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep511.pdf"
+  },
+  "stem": "Which of the following species can act as the strongest base?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch11-010.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch11-011",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 11,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep511.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep511.pdf"
+  },
+  "stem": "Which of the following compounds will react with sodium hydroxide solution in water?",
+  "options": [
+   "$\\mathrm{C_6H_5OH}$",
+   "$\\mathrm{C_6H_5CH_2OH}$",
+   "$\\mathrm{(CH_3)_3COH}$",
+   "$\\mathrm{C_2H_5OH}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch11-012",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 12,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep511.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep511.pdf"
+  },
+  "stem": "Phenol is less acidic than ______________.",
+  "options": [
+   "ethanol",
+   "$o$-nitrophenol",
+   "$o$-methylphenol",
+   "$o$-methoxyphenol"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch11-013",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 13,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep511.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep511.pdf"
+  },
+  "stem": "Which of the following is most acidic?",
+  "options": [
+   "Benzyl alcohol",
+   "Cyclohexanol",
+   "Phenol",
+   "$m$-Chlorophenol"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch11-014",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 14,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep511.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep511.pdf"
+  },
+  "stem": "Mark the correct of decreasing acid strength of the following compounds.",
+  "options": [
+   "$e > d > b > a > c$",
+   "$b > d > a > c > e$",
+   "$d > e > c > b > a$",
+   "$e > d > c > b > a$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch11-014.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch11-015",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 15,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep511.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep511.pdf"
+  },
+  "stem": "Mark the correct increasing order of reactivity of the following compounds with HBr/HCl.",
+  "options": [
+   "$a < b < c$",
+   "$b < a < c$",
+   "$b < c < a$",
+   "$c < b < a$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch11-015.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch11-016",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 16,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep511.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep511.pdf"
+  },
+  "stem": "Arrange the following compounds in increasing order of boiling point.\n\nPropan-1-ol, butan-1-ol, butan-2-ol, pentan-1-ol",
+  "options": [
+   "Propan-1-ol, butan-2-ol, butan-1-ol, pentan-1-ol",
+   "Propan-1-ol, butan-1-ol, butan-2-ol, pentan-1-ol",
+   "Pentan-1-ol, butan-2-ol, butan-1-ol, propan-1-ol",
+   "Pentan-1-ol, butan-1-ol, butan-2-ol, propan-1-ol"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

@@ -1,0 +1,592 @@
+[
+ {
+  "id": "tp-ncert-chem-11-ch03-001",
+  "subject": "chemistry",
+  "chapter": "classification-of-elements-and-periodicity",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep503.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep503.pdf"
+  },
+  "stem": "Consider the isoelectronic species, $\\mathrm{Na^+}$, $\\mathrm{Mg^{2+}}$, $\\mathrm{F^-}$ and $\\mathrm{O^{2-}}$. The correct order of increasing length of their radii is ________.",
+  "options": [
+   "$\\mathrm{F^-} < \\mathrm{O^{2-}} < \\mathrm{Mg^{2+}} < \\mathrm{Na^+}$",
+   "$\\mathrm{Mg^{2+}} < \\mathrm{Na^+} < \\mathrm{F^-} < \\mathrm{O^{2-}}$",
+   "$\\mathrm{O^{2-}} < \\mathrm{F^-} < \\mathrm{Na^+} < \\mathrm{Mg^{2+}}$",
+   "$\\mathrm{O^{2-}} < \\mathrm{F^-} < \\mathrm{Mg^{2+}} < \\mathrm{Na^+}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch03-002",
+  "subject": "chemistry",
+  "chapter": "classification-of-elements-and-periodicity",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep503.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep503.pdf"
+  },
+  "stem": "Which of the following is not an actinoid?",
+  "options": [
+   "Curium ($Z = 96$)",
+   "Californium ($Z = 98$)",
+   "Uranium ($Z = 92$)",
+   "Terbium ($Z = 65$)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch03-003",
+  "subject": "chemistry",
+  "chapter": "classification-of-elements-and-periodicity",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep503.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep503.pdf"
+  },
+  "stem": "The order of screening effect of electrons of $s$, $p$, $d$ and $f$ orbitals of a given shell of an atom on its outer shell electrons is:",
+  "options": [
+   "$s > p > d > f$",
+   "$f > d > p > s$",
+   "$p < d < s > f$",
+   "$f > p > s > d$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch03-004",
+  "subject": "chemistry",
+  "chapter": "classification-of-elements-and-periodicity",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep503.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep503.pdf"
+  },
+  "stem": "The first ionisation enthalpies of Na, Mg, Al and Si are in the order:",
+  "options": [
+   "Na < Mg > Al < Si",
+   "Na > Mg > Al > Si",
+   "Na < Mg < Al < Si",
+   "Na > Mg > Al < Si"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch03-005",
+  "subject": "chemistry",
+  "chapter": "classification-of-elements-and-periodicity",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep503.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep503.pdf"
+  },
+  "stem": "The electronic configuration of gadolinium (Atomic number 64) is",
+  "options": [
+   "[Xe] $4f^3\\,5d^5\\,6s^2$",
+   "[Xe] $4f^7\\,5d^2\\,6s^1$",
+   "[Xe] $4f^7\\,5d^1\\,6s^2$",
+   "[Xe] $4f^8\\,5d^6\\,6s^2$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch03-006",
+  "subject": "chemistry",
+  "chapter": "classification-of-elements-and-periodicity",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep503.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep503.pdf"
+  },
+  "stem": "The statement that is **not** correct for periodic classification of elements is:",
+  "options": [
+   "The properties of elements are periodic function of their atomic numbers.",
+   "Non metallic elements are less in number than metallic elements.",
+   "For transition elements, the $3d$-orbitals are filled with electrons after $3p$-orbitals and before $4s$-orbitals.",
+   "The first ionisation enthalpies of elements generally increase with increase in atomic number as we go along a period."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch03-007",
+  "subject": "chemistry",
+  "chapter": "classification-of-elements-and-periodicity",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 7,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep503.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep503.pdf"
+  },
+  "stem": "Among halogens, the correct order of amount of energy released in electron gain (electron gain enthalpy) is:",
+  "options": [
+   "F > Cl > Br > I",
+   "F < Cl < Br < I",
+   "F < Cl > Br > I",
+   "F < Cl < Br < I"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch03-008",
+  "subject": "chemistry",
+  "chapter": "classification-of-elements-and-periodicity",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 8,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep503.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep503.pdf"
+  },
+  "stem": "The period number in the long form of the periodic table is equal to",
+  "options": [
+   "magnetic quantum number of any element of the period.",
+   "atomic number of any element of the period.",
+   "maximum Principal quantum number of any element of the period.",
+   "maximum Azimuthal quantum number of any element of the period."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch03-009",
+  "subject": "chemistry",
+  "chapter": "classification-of-elements-and-periodicity",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 9,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep503.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep503.pdf"
+  },
+  "stem": "The elements in which electrons are progressively filled in $4f$-orbital are called",
+  "options": [
+   "actinoids",
+   "transition elements",
+   "lanthanoids",
+   "halogens"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch03-010",
+  "subject": "chemistry",
+  "chapter": "classification-of-elements-and-periodicity",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 10,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep503.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep503.pdf"
+  },
+  "stem": "Which of the following is the correct order of size of the given species:",
+  "options": [
+   "$\\mathrm{I > I^- > I^+}$",
+   "$\\mathrm{I^+ > I^- > I}$",
+   "$\\mathrm{I > I^+ > I^-}$",
+   "$\\mathrm{I^- > I > I^+}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch03-011",
+  "subject": "chemistry",
+  "chapter": "classification-of-elements-and-periodicity",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 11,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep503.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep503.pdf"
+  },
+  "stem": "The formation of the oxide ion, $\\mathrm{O^{2-}(g)}$, from oxygen atom requires first an exothermic and then an endothermic step as shown below:\n\n$\\mathrm{O(g) + e^- \\longrightarrow O^-(g)}$; $\\Delta H^\\ominus = -141\\ \\mathrm{kJ\\,mol^{-1}}$\n\n$\\mathrm{O^-(g) + e^- \\longrightarrow O^{2-}(g)}$; $\\Delta H^\\ominus = +780\\ \\mathrm{kJ\\,mol^{-1}}$\n\nThus process of formation of $\\mathrm{O^{2-}}$ in gas phase is unfavourable even though $\\mathrm{O^{2-}}$ is isoelectronic with neon. It is due to the fact that,",
+  "options": [
+   "oxygen is more electronegative.",
+   "addition of electron in oxygen results in larger size of the ion.",
+   "electron repulsion outweighs the stability gained by achieving noble gas configuration.",
+   "$\\mathrm{O^-}$ ion has comparatively smaller size than oxygen atom."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch03-012a",
+  "subject": "chemistry",
+  "chapter": "",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 12,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep503.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep503.pdf"
+  },
+  "stem": "Comprehension given below is followed by some multiple choice questions. Each question has one correct option. Choose the correct option.\n\nIn the modern periodic table, elements are arranged in order of increasing atomic numbers which is related to the electronic configuration. Depending upon the type of orbitals receiving the last electron, the elements in the periodic table have been divided into four blocks, viz, $s$, $p$, $d$ and $f$. The modern periodic table consists of 7 periods and 18 groups. Each period begins with the filling of a new energy shell. In accordance with the Arfbau principle, the seven periods (1 to 7) have 2, 8, 8, 18, 18, 32 and 32 elements respectively. The seventh period is still incomplete. To avoid the periodic table being too long, the two series of $f$-block elements, called lanthanoids and actinoids are placed at the bottom of the main body of the periodic table.\n\n(a) The element with atomic number 57 belongs to",
+  "options": [
+   "$s$-block",
+   "$p$-block",
+   "$d$-block",
+   "$f$-block"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": null,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "several sub-questions share one printed number; key mapping ambiguous"
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch03-012b",
+  "subject": "chemistry",
+  "chapter": "",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 12,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep503.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep503.pdf"
+  },
+  "stem": "Comprehension given below is followed by some multiple choice questions. Each question has one correct option. Choose the correct option.\n\nIn the modern periodic table, elements are arranged in order of increasing atomic numbers which is related to the electronic configuration. Depending upon the type of orbitals receiving the last electron, the elements in the periodic table have been divided into four blocks, viz, $s$, $p$, $d$ and $f$. The modern periodic table consists of 7 periods and 18 groups. Each period begins with the filling of a new energy shell. In accordance with the Arfbau principle, the seven periods (1 to 7) have 2, 8, 8, 18, 18, 32 and 32 elements respectively. The seventh period is still incomplete. To avoid the periodic table being too long, the two series of $f$-block elements, called lanthanoids and actinoids are placed at the bottom of the main body of the periodic table.\n\n(b) The last element of the $p$-block in $6^{\\mathrm{th}}$ period is represented by the outermost electronic configuration.",
+  "options": [
+   "$7s^2\\,7p^6$",
+   "$5f^{14}\\,6d^{10}\\,7s^2\\,7p^0$",
+   "$4f^{14}\\,5d^{10}\\,6s^2\\,6p^6$",
+   "$4f^{14}\\,5d^{10}\\,6s^2\\,6p^4$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": null,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "several sub-questions share one printed number; key mapping ambiguous"
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch03-012c",
+  "subject": "chemistry",
+  "chapter": "",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 12,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep503.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep503.pdf"
+  },
+  "stem": "Comprehension given below is followed by some multiple choice questions. Each question has one correct option. Choose the correct option.\n\nIn the modern periodic table, elements are arranged in order of increasing atomic numbers which is related to the electronic configuration. Depending upon the type of orbitals receiving the last electron, the elements in the periodic table have been divided into four blocks, viz, $s$, $p$, $d$ and $f$. The modern periodic table consists of 7 periods and 18 groups. Each period begins with the filling of a new energy shell. In accordance with the Arfbau principle, the seven periods (1 to 7) have 2, 8, 8, 18, 18, 32 and 32 elements respectively. The seventh period is still incomplete. To avoid the periodic table being too long, the two series of $f$-block elements, called lanthanoids and actinoids are placed at the bottom of the main body of the periodic table.\n\n(c) Which of the elements whose atomic numbers are given below, cannot be accommodated in the present set up of the long form of the periodic table?",
+  "options": [
+   "107",
+   "118",
+   "126",
+   "102"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": null,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "several sub-questions share one printed number; key mapping ambiguous"
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch03-012d",
+  "subject": "chemistry",
+  "chapter": "",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 12,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep503.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep503.pdf"
+  },
+  "stem": "Comprehension given below is followed by some multiple choice questions. Each question has one correct option. Choose the correct option.\n\nIn the modern periodic table, elements are arranged in order of increasing atomic numbers which is related to the electronic configuration. Depending upon the type of orbitals receiving the last electron, the elements in the periodic table have been divided into four blocks, viz, $s$, $p$, $d$ and $f$. The modern periodic table consists of 7 periods and 18 groups. Each period begins with the filling of a new energy shell. In accordance with the Arfbau principle, the seven periods (1 to 7) have 2, 8, 8, 18, 18, 32 and 32 elements respectively. The seventh period is still incomplete. To avoid the periodic table being too long, the two series of $f$-block elements, called lanthanoids and actinoids are placed at the bottom of the main body of the periodic table.\n\n(d) The electronic configuration of the element which is just above the element with atomic number 43 in the same group is ________.",
+  "options": [
+   "$1s^2\\,2s^2\\,2p^6\\,3s^2\\,3p^6\\,3d^5\\,4s^2$",
+   "$1s^2\\,2s^2\\,2p^6\\,3s^2\\,3p^6\\,3d^5\\,4s^3\\,4p^6$",
+   "$1s^2\\,2s^2\\,2p^6\\,3s^2\\,3p^6\\,3d^6\\,4s^2$",
+   "$1s^2\\,2s^2\\,2p^6\\,3s^2\\,3p^6\\,3d^7\\,4s^2$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": null,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "several sub-questions share one printed number; key mapping ambiguous"
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch03-012e",
+  "subject": "chemistry",
+  "chapter": "",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 12,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep503.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep503.pdf"
+  },
+  "stem": "Comprehension given below is followed by some multiple choice questions. Each question has one correct option. Choose the correct option.\n\nIn the modern periodic table, elements are arranged in order of increasing atomic numbers which is related to the electronic configuration. Depending upon the type of orbitals receiving the last electron, the elements in the periodic table have been divided into four blocks, viz, $s$, $p$, $d$ and $f$. The modern periodic table consists of 7 periods and 18 groups. Each period begins with the filling of a new energy shell. In accordance with the Arfbau principle, the seven periods (1 to 7) have 2, 8, 8, 18, 18, 32 and 32 elements respectively. The seventh period is still incomplete. To avoid the periodic table being too long, the two series of $f$-block elements, called lanthanoids and actinoids are placed at the bottom of the main body of the periodic table.\n\n(e) The elements with atomic numbers 35, 53 and 85 are all ________.",
+  "options": [
+   "noble gases",
+   "halogens",
+   "heavy metals",
+   "light metals"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": null,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "several sub-questions share one printed number; key mapping ambiguous"
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch03-013",
+  "subject": "chemistry",
+  "chapter": "classification-of-elements-and-periodicity",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 13,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep503.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep503.pdf"
+  },
+  "stem": "Electronic configurations of four elements A, B, C and D are given below :\n\n(A) $1s^2\\,2s^2\\,2p^6$ \\quad (B) $1s^2\\,2s^2\\,2p^4$ \\quad (C) $1s^2\\,2s^2\\,2p^6\\,3s^1$ \\quad (D) $1s^2\\,2s^2\\,2p^5$\n\nWhich of the following is the correct order of increasing tendency to gain electron :",
+  "options": [
+   "A < C < B < D",
+   "A < B < C < D",
+   "D < B < C < A",
+   "D < A < B < C"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

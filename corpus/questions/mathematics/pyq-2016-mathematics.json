@@ -1,0 +1,2104 @@
+[
+ {
+  "id": "pyq-2016-mathematics-001",
+  "subject": "mathematics",
+  "chapter": "permutations-and-combinations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 1,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The Set A has 4 elements and the Set B has 5 elements then the number of injective mappings that can be defined from A to B is",
+  "options": [
+   "144",
+   "72",
+   "60",
+   "120"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-002",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 2,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Let $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ be defined by $f(x) = 2x + 6$ which is a bijective mapping then $f^{-1}(x)$ is given by",
+  "options": [
+   "$\\frac{x}{2} - 3$",
+   "$2x + 6$",
+   "$x - 3$",
+   "$6x + 2$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-003",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 3,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Let $*$ be a binary operation defined on $\\mathbb{R}$ by $a * b = \\frac{a + b}{4}\\ \\forall\\ a, b \\in \\mathbb{R}$ then the operation $*$ is",
+  "options": [
+   "Commutative and Associative",
+   "Commutative but not Associative",
+   "Associative but not Commutative",
+   "Neither Associative nor Commutative"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-004",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 4,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The value of $\\sin^{-1}\\left(\\cos\\frac{53\\pi}{5}\\right)$ is",
+  "options": [
+   "$\\frac{3\\pi}{5}$",
+   "$-\\frac{3\\pi}{5}$",
+   "$\\frac{\\pi}{10}$",
+   "$-\\frac{\\pi}{10}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-005",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 5,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $3\\tan^{-1}x + \\cot^{-1}x = \\pi$ then $x$ equal to",
+  "options": [
+   "0",
+   "1",
+   "-1",
+   "$\\frac{1}{2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-006",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 6,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The simplified form of $\\tan^{-1}\\left(\\frac{x}{y}\\right) - \\tan^{-1}\\left(\\frac{x-y}{x+y}\\right)$ is equal to",
+  "options": [
+   "0",
+   "$\\frac{\\pi}{4}$",
+   "$\\frac{\\pi}{2}$",
+   "$\\pi$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-007",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 7,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $x\\,y\\,z$ are all different and not equal to zero and $\\begin{vmatrix} 1+x & 1 & 1 \\\\ 1 & 1+y & 1 \\\\ 1 & 1 & 1+z \\end{vmatrix} = 0$ then the value of $x^{-1} + y^{-1} + z^{-1}$ is equal to",
+  "options": [
+   "$xyz$",
+   "$x^{-1}y^{-1}z^{-1}$",
+   "$-x-y-z$",
+   "$-1$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-008",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 8,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $A$ is any square matrix of order $3 \\times 3$ then $|3A|$ is equal to",
+  "options": [
+   "$3|A|$",
+   "$\\frac{1}{3}|A|$",
+   "$27|A|$",
+   "$9|A|$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-009",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 9,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $y = e^{\\sin^{-1}(t^2-1)}$ & $x = e^{\\sec^{-1}\\left(\\frac{1}{t^2-1}\\right)}$ then $\\frac{dy}{dx}$ is equal to",
+  "options": [
+   "$\\frac{x}{y}$",
+   "$\\frac{-y}{x}$",
+   "$\\frac{y}{x}$",
+   "$\\frac{-x}{y}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-010",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 10,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $A = \\frac{1}{\\pi}\\begin{bmatrix} \\sin^{-1}(\\pi x) & \\tan^{-1}\\left(\\frac{x}{\\pi}\\right) \\\\ \\sin^{-1}\\left(\\frac{x}{\\pi}\\right) & \\cot^{-1}(\\pi x) \\end{bmatrix}$, $B = \\frac{1}{\\pi}\\begin{bmatrix} -\\cos^{-1}(\\pi x) & \\tan^{-1}\\left(\\frac{x}{\\pi}\\right) \\\\ \\sin^{-1}\\left(\\frac{x}{\\pi}\\right) & -\\tan^{-1}(\\pi x) \\end{bmatrix}$ then $A - B$ is equal to",
+  "options": [
+   "$I$",
+   "$0$",
+   "$2I$",
+   "$\\frac{1}{2}I$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-011",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 11,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $x^y = e^{x-y}$ then $\\frac{dy}{dx}$ is equal to",
+  "options": [
+   "$\\frac{\\log x}{\\log(x-y)}$",
+   "$\\frac{e^x}{x^{x-y}}$",
+   "$\\frac{\\log x}{(1+\\log x)^2}$",
+   "$\\frac{1}{y} - \\frac{1}{x-y}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-012",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 12,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $A$ is a matrix of order $m \\times n$ and $B$ is a matrix such that $AB'$ and $B'A$ are both defined, the order of the matrix $B$ is",
+  "options": [
+   "$m \\times m$",
+   "$n \\times n$",
+   "$n \\times m$",
+   "$m \\times n$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-013",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 13,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The value of $\\int \\frac{e^x(1+x)\\,dx}{\\cos^2(e^x \\cdot x)}$ is equal to",
+  "options": [
+   "$-\\cot(e\\,x^{x}) + c$",
+   "$\\tan(e^x \\cdot x) + c$",
+   "$\\tan(e^x) + c$",
+   "$\\cot(e^x) + c$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-014",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 14,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $x, y, z$ are not equal and $\\neq 0, \\neq 1$ the value of $\\begin{vmatrix} \\log x & \\log y & \\log z \\\\ \\log 2x & \\log 2y & \\log 2z \\\\ \\log 3x & \\log 3y & \\log 3z \\end{vmatrix}$ is equal to",
+  "options": [
+   "$\\log(xyz)$",
+   "$\\log(6xyz)$",
+   "$0$",
+   "$\\log(x+y+z)$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-015",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 15,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The function $f(x) = [x]$ where $[x]$ the greatest integer function is continuous at",
+  "options": [
+   "1.5",
+   "4",
+   "1",
+   "-2"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-016",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 16,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The value of $\\int \\frac{e^x\\left(x^2\\tan^{-1}x + \\tan^{-1}x + 1\\right)}{x^2+1}\\,dx$ is equal to",
+  "options": [
+   "$e^x\\tan^{-1}x + c$",
+   "$\\tan^{-1}(e^x) + c$",
+   "$\\tan^{-1}(x^e) + c$",
+   "$e^{\\tan^{-1}x} + c$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-017",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 17,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $2\\vec{a}\\cdot\\vec{b} = |\\vec{a}|\\cdot|\\vec{b}|$ then the angle between $\\vec{a}$ & $\\vec{b}$ is",
+  "options": [
+   "$30^\\circ$",
+   "$0^\\circ$",
+   "$90^\\circ$",
+   "$60^\\circ$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-018",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 18,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $x^m y^n = (x+y)^{m+n}$ then $\\frac{dy}{dx}$ is equal to",
+  "options": [
+   "$\\frac{x+y}{xy}$",
+   "$xy$",
+   "$0$",
+   "$\\frac{y}{x}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-019",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 19,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The general solution of $\\cot\\theta + \\tan\\theta = 2$ is",
+  "options": [
+   "$\\theta = \\frac{n\\pi}{2} + (-1)^n \\frac{\\pi}{8}$",
+   "$\\frac{n\\pi}{2} + (-1)^n \\frac{\\pi}{4}$",
+   "$\\theta = \\frac{n\\pi}{2} + (-1)^n \\frac{\\pi}{6}$",
+   "$\\theta = n\\pi + (-1)^n \\frac{\\pi}{8}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-020",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 20,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The value of $\\int_{-\\pi/4}^{\\pi/4} \\sin^{103}x \\cdot \\cos^{101}x\\,dx$ is",
+  "options": [
+   "$\\left(\\frac{\\pi}{4}\\right)^{103}$",
+   "$\\left(\\frac{\\pi}{4}\\right)^{101}$",
+   "$2$",
+   "$0$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-021",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 21,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The length of latus rectum of the parabola $4y^2 + 3x + 3y + 1 = 0$ is",
+  "options": [
+   "$\\frac{4}{3}$",
+   "$7$",
+   "$12$",
+   "$\\frac{3}{4}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-022",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 22,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The value of $\\int \\frac{e^{6\\log x} - e^{5\\log x}}{e^{4\\log x} - e^{3\\log x}}\\,dx$ is equal to",
+  "options": [
+   "$0$",
+   "$\\frac{x^3}{3}$",
+   "$\\frac{3}{x^3}$",
+   "$\\frac{1}{x}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-023",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 23,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The differential coefficient of $\\log_{10}x$ with respect to $\\log_x 10$ is",
+  "options": [
+   "$1$",
+   "$-(\\log_{10}x)^2$",
+   "$(\\log_x 10)^2$",
+   "$\\frac{x^2}{100}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-024",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 24,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The slope of the tangent to the curve $x = t^2 + 3t - 8$, $y = 2t^2 - 2t - 5$ at the point $(2, -1)$ is",
+  "options": [
+   "$\\frac{22}{7}$",
+   "$\\frac{6}{7}$",
+   "$\\frac{7}{6}$",
+   "$\\frac{-6}{7}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-025",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 25,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The real part of $(1 - \\cos\\theta + i\\sin\\theta)^{-1}$ is",
+  "options": [
+   "$\\frac{1}{2}$",
+   "$\\frac{1}{1+\\cos\\theta}$",
+   "$\\tan\\frac{\\theta}{2}$",
+   "$\\cot\\frac{\\theta}{2}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-026",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 26,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "$\\int_0^{\\pi/2} \\frac{\\sin^{1000}x\\,dx}{\\sin^{1000}x + \\cos^{1000}x}$ is equal to",
+  "options": [
+   "$1000$",
+   "$1$",
+   "$\\frac{\\pi}{2}$",
+   "$\\frac{\\pi}{4}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-027",
+  "subject": "mathematics",
+  "chapter": "sequences-and-series",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 27,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $1 + \\sin\\theta + \\sin^2\\theta + \\ldots$ upto $\\infty = 2\\sqrt{3} + 4$, then $\\theta =$ ______",
+  "options": [
+   "$\\frac{\\pi}{6}$",
+   "$\\frac{\\pi}{4}$",
+   "$\\frac{\\pi}{3}$",
+   "$\\frac{3\\pi}{4}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-028",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 28,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "$\\lim_{x \\to 0} \\frac{xe^x - \\sin x}{x}$ is equal to",
+  "options": [
+   "$3$",
+   "$1$",
+   "$0$",
+   "$2$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-029",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 29,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $\\tan^{-1}(x^2+y^2) = \\alpha$ then $\\frac{dy}{dx}$ is equal to",
+  "options": [
+   "$\\frac{-x}{y}$",
+   "$xy$",
+   "$\\frac{x}{y}$",
+   "$-xy$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-030",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 30,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The simplified form of $i^n + i^{n+1} + i^{n+2} + i^{n+3}$ is",
+  "options": [
+   "$0$",
+   "$1$",
+   "$-1$",
+   "$i$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-031",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 31,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The two curves $x^3 - 3xy^2 + 2 = 0$ and $3x^2y - y^3 = 2$",
+  "options": [
+   "Touch each other",
+   "Cut each other at right angle",
+   "Cut at an angle $\\frac{\\pi}{3}$",
+   "Cut at an angle $\\frac{\\pi}{4}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-032",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 32,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The equation of the normal to the curve $y(1+x^2) = 2 - x$ where the tangent crosses $x$-axis is",
+  "options": [
+   "$5x - y - 10 = 0$",
+   "$x - 5y - 10 = 0$",
+   "$5x + y + 10 = 0$",
+   "$x + 5y + 10 = 0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-033",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 33,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The maximum value of $\\left(\\frac{1}{x}\\right)^x$ is",
+  "options": [
+   "$e$",
+   "$e^e$",
+   "$e^{1/e}$",
+   "$\\left(\\frac{1}{e}\\right)^e$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-034",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 34,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The solution for the differential equation $\\frac{dy}{y} + \\frac{dx}{x} = 0$ is",
+  "options": [
+   "$\\frac{1}{y} + \\frac{1}{x} = c$",
+   "$\\log x \\cdot \\log y = c$",
+   "$xy = c$",
+   "$x + y = c$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-035",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 35,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The order and degree of the differential equation $\\left[1 + \\left(\\frac{dy}{dx}\\right)^2 + \\sin\\left(\\frac{dy}{dx}\\right)\\right]^{3/4} = \\frac{d^2y}{dx^2}$",
+  "options": [
+   "order=2 degree=3",
+   "order=2 degree=4",
+   "order=2 degree=$\\frac{3}{4}$",
+   "order=2 degree=not defined"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-036",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 36,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $\\vec{a}$ and $\\vec{b}$ are unit vectors then what is the angle between $\\vec{a}$ and $\\vec{b}$ for $\\sqrt{3}\\,\\vec{a} - \\vec{b}$ to be unit vector ?",
+  "options": [
+   "$30^\\circ$",
+   "$45^\\circ$",
+   "$60^\\circ$",
+   "$90^\\circ$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-037",
+  "subject": "mathematics",
+  "chapter": "sequences-and-series",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 37,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The sum of $1^{st}$ $n$ terms of the series $\\frac{1^2}{1} + \\frac{1^2+2^2}{1+2} + \\frac{1^2+2^2+3^2}{1+2+3} + \\ldots$",
+  "options": [
+   "$\\frac{n+2}{3}$",
+   "$\\frac{n(n+2)}{3}$",
+   "$\\frac{n(n-2)}{3}$",
+   "$\\frac{n(n-2)}{6}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-038",
+  "subject": "mathematics",
+  "chapter": "binomial-theorem",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 38,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The $11^{th}$ term in the expansion of $\\left(x + \\frac{1}{\\sqrt{x}}\\right)^{14}$ is",
+  "options": [
+   "$\\frac{999}{x}$",
+   "$\\frac{1001}{x}$",
+   "$i$",
+   "$\\frac{x}{1001}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-039",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 39,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Suppose $\\vec a + \\vec b + \\vec c = 0$, $|\\vec a| = 3$, $|\\vec b| = 5$, $|\\vec c| = 7$, then the angle between $\\vec a$ & $\\vec b$ is",
+  "options": [
+   "$\\pi$",
+   "$\\frac{\\pi}{2}$",
+   "$\\frac{\\pi}{3}$",
+   "$\\frac{\\pi}{4}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-040",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 40,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $a = 3$, $b = 4$, $c = 5$ each one of $\\vec a, \\vec b$ & $\\vec c$ is perpendicular to the sum of the remaining then $|\\vec a + \\vec b + \\vec c|$ is equal to",
+  "options": [
+   "$\\frac{5}{\\sqrt{2}}$",
+   "$\\frac{2}{\\sqrt{5}}$",
+   "$5\\sqrt{2}$",
+   "$\\sqrt{5}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-041",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 41,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If the straight lines $2x + 3y - 3 = 0$ and $x + ky + 7 = 0$ are perpendicular, then the value of $k$ is",
+  "options": [
+   "$\\frac{2}{3}$",
+   "$\\frac{3}{2}$",
+   "$-\\frac{2}{3}$",
+   "$-\\frac{3}{2}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-042",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 42,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The rate of change of area of a circle with respect to its radius at $r = 2$ cms is",
+  "options": [
+   "$4$",
+   "$2\\pi$",
+   "$2$",
+   "$4\\pi$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-043",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 43,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The value of $\\tan\\frac{\\pi}{8}$ is equal to",
+  "options": [
+   "$\\frac{1}{2}$",
+   "$\\sqrt{2}+1$",
+   "$\\frac{1}{\\sqrt{2}+1}$",
+   "$1-\\sqrt{2}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-044",
+  "subject": "mathematics",
+  "chapter": "application-of-integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 44,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Area lying between the curves $y^2 = 2x$ and $y = x$ is",
+  "options": [
+   "$\\frac{2}{3}$ sq. units",
+   "$\\frac{1}{3}$ sq. units",
+   "$\\frac{1}{4}$ sq. units",
+   "$\\frac{3}{4}$ sq. units"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-045",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 45,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $P(A \\cap B) = \\frac{7}{10}$ and $P(B) = \\frac{17}{20}$, where $P$ stands for probability then $P(A|B)$ is equal to",
+  "options": [
+   "$\\frac{7}{8}$",
+   "$\\frac{17}{20}$",
+   "$\\frac{14}{17}$",
+   "$\\frac{1}{8}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-046",
+  "subject": "mathematics",
+  "chapter": "statistics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 46,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The coefficient of variation of two distributions are $60$ and $70$. The standard deviation are $21$ and $16$ respectively, then their mean is",
+  "options": [
+   "35",
+   "23",
+   "28.25",
+   "22.85"
+  ],
+  "answer": 0,
+  "accepted": [
+   0,
+   2,
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-047",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 47,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Two cards are drawn at random from a pack of 52 cards. The probability of these two being “Aces” is",
+  "options": [
+   "$\\frac{1}{26}$",
+   "$\\frac{1}{221}$",
+   "$\\frac{1}{2}$",
+   "$\\frac{1}{13}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-048",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 48,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $\\sin^{-1}x + \\sin^{-1}y = \\frac{\\pi}{2}$, then $x^2$ is equal to",
+  "options": [
+   "$1 - y^2$",
+   "$y^2$",
+   "$0$",
+   "$\\sqrt{1-y}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-049",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 49,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The value of $\\int_2^8 \\frac{\\sqrt{10-x}}{\\sqrt{x}+\\sqrt{10-x}}\\,dx$ is",
+  "options": [
+   "$10$",
+   "$0$",
+   "$8$",
+   "$3$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-050",
+  "subject": "mathematics",
+  "chapter": "mathematical-reasoning",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 50,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The contrapositive of the converse of the statement “If $x$ is a prime number then $x$ is odd” is",
+  "options": [
+   "If $x$ is not a prime number then $x$ is odd.",
+   "If $x$ is not an odd number then $x$ is not a prime number.",
+   "If $x$ is a prime number then it is not odd.",
+   "If $x$ is not a prime number then $x$ is not an odd."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-051",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 51,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Two dice are thrown simultaneously, the probability of obtaining a total score of 5 is",
+  "options": [
+   "$\\frac{1}{18}$",
+   "$\\frac{1}{12}$",
+   "$\\frac{1}{9}$",
+   "$\\frac{1}{6}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-052",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 52,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $A = \\begin{bmatrix} \\cos 2\\theta & -\\sin 2\\theta \\\\ \\sin 2\\theta & \\cos 2\\theta \\end{bmatrix}$ and $A + A^T = I$, where $I$ is the unit matrix of $2 \\times 2$ & $A^T$ is the transpose of $A$, then the value of $\\theta$ is equal to",
+  "options": [
+   "$\\frac{\\pi}{6}$",
+   "$\\frac{\\pi}{3}$",
+   "$\\pi$",
+   "$\\frac{3\\pi}{2}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-053",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 53,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $A = \\begin{bmatrix} 3 & 1 \\\\ -1 & 2 \\end{bmatrix}$ then $A^2 - 5A$ is equal to",
+  "options": [
+   "$I$",
+   "$-I$",
+   "$7I$",
+   "$-7I$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-054",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 54,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The value of $x$ if $x(\\hat i + \\hat j + \\hat k)$ is a unit vector is",
+  "options": [
+   "$\\pm\\frac{1}{\\sqrt{3}}$",
+   "$\\pm\\sqrt{3}$",
+   "$\\pm 3$",
+   "$\\pm\\frac{1}{3}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-055",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 55,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $x = 2 + 3\\cos\\theta$ and $y = 1 - 3\\sin\\theta$ represent a circle then the centre and radius is",
+  "options": [
+   "$(2, 1), 9$",
+   "$(2, 1), 3$",
+   "$\\left(1, 2\\right), \\frac{1}{3}$",
+   "$(-2, -1), 3$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-056",
+  "subject": "mathematics",
+  "chapter": "three-dimensional-geometry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 56,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The vector equation of the plane which is at a distance of $\\frac{3}{\\sqrt{14}}$ from the origin and the normal from the origin is $2\\hat i - 3\\hat j + \\hat k$ is",
+  "options": [
+   "$\\vec r\\cdot(2\\hat i - 3\\hat j + \\hat k) = 3$",
+   "$\\vec r\\cdot(\\hat i + \\hat j + \\hat k) = 9$",
+   "$\\vec r\\cdot(\\hat i + 2\\hat j) = 3$",
+   "$\\vec r\\cdot(2\\hat i + \\hat k) = 3$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-057",
+  "subject": "mathematics",
+  "chapter": "three-dimensional-geometry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 57,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Find the co-ordinates of the foot of the perpendicular drawn from the origin to the plane $5y + 8 = 0$:",
+  "options": [
+   "$\\left(0, -\\frac{18}{5}, 2\\right)$",
+   "$\\left(0, \\frac{8}{5}, 0\\right)$",
+   "$\\left(\\frac{8}{25}, 0, 0\\right)$",
+   "$\\left(0, -\\frac{8}{5}, 0\\right)$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-058",
+  "subject": "mathematics",
+  "chapter": "three-dimensional-geometry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 58,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If $\\cos\\alpha, \\cos\\beta, \\cos\\gamma$ are the direction cosines of a vector $\\vec a$, then $\\cos 2\\alpha + \\cos 2\\beta + \\cos 2\\gamma$ is equal to",
+  "options": [
+   "$2$",
+   "$3$",
+   "$-1$",
+   "$0$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-059",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 59,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The value of the $\\sin 1^\\circ + \\sin 2^\\circ + \\ldots + \\sin 359^\\circ$ is equal to",
+  "options": [
+   "$0$",
+   "$1$",
+   "$-1$",
+   "$180$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-mathematics-060",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 60,
+   "file": "sources/pyq/2016/mathematics/2016-mathematics-question_paper-A1-educationobserver.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2016/mathematics/2016-mathematics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Integrating factor of $x\\frac{dy}{dx} - y = x^4 - 3x$ is",
+  "options": [
+   "$x$",
+   "$\\log x$",
+   "$\\frac{1}{x}$",
+   "$-x$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

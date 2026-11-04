@@ -1,0 +1,2112 @@
+[
+ {
+  "id": "pyq-2011-chemistry-001",
+  "subject": "chemistry",
+  "chapter": "general-principles-and-processes-of-isolation-of-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 1,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Which one of the following statements is FALSE?",
+  "options": [
+   "During roasting, moisture is removed from the ore.",
+   "The ore is freed from almost all nonmetallic impurities.",
+   "Calcination of ore is carried out in the absence of any blast of air.",
+   "The concentrated zinc blende is subjected to calcination during its extraction by pyrometallurgy."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-002",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 2,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Which one of the following sets of quantum numbers represents the highest energy level in an atom?",
+  "options": [
+   "$n=4,\\ l=0,\\ m=0,\\ s=+\\frac{1}{2}$",
+   "$n=3,\\ l=1,\\ m=1,\\ s=+\\frac{1}{2}$",
+   "$n=3,\\ l=2,\\ m=-2,\\ s=+\\frac{1}{2}$",
+   "$n=3,\\ l=0,\\ m=0,\\ s=+\\frac{1}{2}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-003",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 3,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "When $\\mathrm{O_2}$ is converted into $\\mathrm{O_2^{+}}$; ..............",
+  "options": [
+   "both paramagnetic character and bond order increase",
+   "bond order decreases",
+   "paramagnetic character increases",
+   "paramagnetic character decreases and the bond order increases"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-004",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 4,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "In chromite ore, the oxidation number of iron and chromium are respectively ............",
+  "options": [
+   "$+3,\\ +2$",
+   "$+3,\\ +6$",
+   "$+2,\\ +6$",
+   "$+2,\\ +3$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-005",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-11",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 5,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The number of naturally occurring $p$-block elements that are diamagnetic is ..............",
+  "options": [
+   "18",
+   "6",
+   "5",
+   "7"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "key_confirmed",
+   "notes": "Transcription matches page 3; diamagnetic p-block atoms are Ne, Ar, Kr, Xe, Rn = 5."
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-006",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 6,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If the energies of the two photons are in the ratio of $3 : 2$, their wavelengths will be in the ratio of ......................",
+  "options": [
+   "$9 : 4$",
+   "$2 : 3$",
+   "$1 : 2$",
+   "$3 : 2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-007",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 7,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Which one of these is NOT TRUE for benzene?",
+  "options": [
+   "There are three carbon-carbon single bonds and three carbon-carbon double bonds.",
+   "It forms only one type of monosubstituted product.",
+   "The bond angle between carbon-carbon bonds is $120^{\\circ}$.",
+   "Heat of hydrogenation of benzene is less than the theoretical value."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-008",
+  "subject": "chemistry",
+  "chapter": "classification-of-elements-and-periodicity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 8,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Generally, the first ionization energy increases along a period. But there are some exceptions. The one which is NOT an exception is ..............",
+  "options": [
+   "$\\mathrm{Na}$ and $\\mathrm{Mg}$",
+   "$\\mathrm{Be}$ and $\\mathrm{B}$",
+   "$\\mathrm{N}$ and $\\mathrm{O}$",
+   "$\\mathrm{Mg}$ and $\\mathrm{Al}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-009",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 9,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Out of the given two compounds, the vapour pressure of B at a particular temperature is ..............",
+  "options": [
+   "lower than that of A",
+   "higher than that of A",
+   "same as that of A",
+   "higher or lower than A depending on the size of the vessel"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2011-chemistry-009.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-010",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 10,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Increasing order of carbon-carbon bond length for the following is ..............\n\n(A) $\\mathrm{C_2H_4}$\n\n(B) $\\mathrm{C_2H_2}$\n\n(C) $\\mathrm{C_6H_6}$\n\n(D) $\\mathrm{C_2H_6}$",
+  "options": [
+   "$B < C < A < D$",
+   "$C < B < A < D$",
+   "$B < A < C < D$",
+   "$D < C < A < B$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-011",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 11,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A mixture of $\\mathrm{CaCl_2}$ and $\\mathrm{NaCl}$ weighing $4.44\\,\\mathrm{g}$ is treated with sodium carbonate solution to precipitate all the calcium ions as calcium carbonate. The calcium carbonate so obtained is heated strongly to get $0.56\\,\\mathrm{g}$ of $\\mathrm{CaO}$. The percentage of $\\mathrm{NaCl}$ in the mixture is ..............  [Atomic mass of $\\mathrm{Ca} = 40$].",
+  "options": [
+   "31.5",
+   "75",
+   "25",
+   "40.2"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-012",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 12,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "$50\\,\\mathrm{cm^3}$ of $0.2\\,\\mathrm{N}$ $\\mathrm{HCl}$ is titrated against $0.1\\,\\mathrm{N}$ $\\mathrm{NaOH}$ solution. The titration was discontinued after adding $50\\,\\mathrm{cm^3}$ of $\\mathrm{NaOH}$. The remaining titration is completed by adding $0.5\\,\\mathrm{N}$ $\\mathrm{KOH}$. The volume of $\\mathrm{KOH}$ required for completing the titration is ..............",
+  "options": [
+   "$10\\,\\mathrm{cm^3}$",
+   "$12\\,\\mathrm{cm^3}$",
+   "$16.2\\,\\mathrm{cm^3}$",
+   "$21.0\\,\\mathrm{cm^3}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-013",
+  "subject": "chemistry",
+  "chapter": "states-of-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 13,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The rms velocity of hydrogen is $\\sqrt{7}$ times the rms velocity of nitrogen. If $T$ is the temperature of the gas, which of the following is true?",
+  "options": [
+   "$T_{N_2} = T_{H_2}$",
+   "$T_{H_2} = \\sqrt{7}\\,T_{N_2}$",
+   "$T_{N_2} = 2T_{H_2}$",
+   "$T_{N_2} = \\sqrt{7}\\,T_{H_2}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-014",
+  "subject": "chemistry",
+  "chapter": "states-of-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 14,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "$25\\,\\mathrm{g}$ of each of the following gases are taken at $27^{\\circ}\\mathrm{C}$ and $600\\,\\mathrm{mm}$ pressure. Which of these will have the least volume?",
+  "options": [
+   "$\\mathrm{HBr}$",
+   "$\\mathrm{HCl}$",
+   "$\\mathrm{HF}$",
+   "$\\mathrm{HI}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-015",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 15,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The amount of heat evolved when $500\\,\\mathrm{cm^3}$ of $0.1\\,\\mathrm{M}$ $\\mathrm{HCl}$ is mixed with $200\\,\\mathrm{cm^3}$ of $0.2\\,\\mathrm{M}$ $\\mathrm{NaOH}$ is ..............",
+  "options": [
+   "$1.292\\,\\mathrm{kJ}$",
+   "$2.292\\,\\mathrm{kJ}$",
+   "$0.292\\,\\mathrm{kJ}$",
+   "$22.9\\,\\mathrm{kJ}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-016",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 16,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The enthalpy of vaporization of benzene is $+35.3\\,\\mathrm{kJ/mol}$ at its boiling point of $80^\\circ\\mathrm{C}$. The entropy change in the transition of vapour to liquid at its boiling point is ..............\n\n[in $\\mathrm{J\\,mol^{-1}\\,K^{-1}}$]",
+  "options": [
+   "-100",
+   "+100",
+   "+342",
+   "-342"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-017",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 17,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Based on the first law of thermodynamics, which one of the following is correct?",
+  "options": [
+   "For an isothermal process, $q = +w$",
+   "For an isochoric process, $\\Delta U = -q$",
+   "For an adiabatic process, $\\Delta U = -w$",
+   "For a cyclic process, $q = -w$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-018",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 18,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Consider the following gaseous equilibria with equilibrium constants $K_1$ and $K_2$ respectively.  $$\\mathrm{SO_{2(g)} + \\frac{1}{2}O_{2(g)} \\rightleftharpoons SO_{3(g)}}$$  $$\\mathrm{2SO_{3(g)} \\rightleftharpoons 2SO_{2(g)} + O_{2(g)}}$$  The equilibrium constants are related as ..............",
+  "options": [
+   "$2K_1 = K_2^2$",
+   "$K_1^2 = \\frac{1}{K_2}$",
+   "$K_2^2 = \\frac{1}{K_1}$",
+   "$K_2 = \\frac{2}{K_1^2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-019",
+  "subject": "chemistry",
+  "chapter": "surface-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 19,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "During the adsorption of Krypton on activated charcoal at low temperature; ..............",
+  "options": [
+   "$\\Delta H < 0$ and $\\Delta S < 0$",
+   "$\\Delta H > 0$ and $\\Delta S < 0$",
+   "$\\Delta H > 0$ and $\\Delta S > 0$",
+   "$\\Delta H < 0$ and $\\Delta S > 0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-020",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 20,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "For the reversible reaction, $\\mathrm{A_{(s)} + B_{(g)} \\rightleftharpoons C_{(g)} + D_{(g)}}$, $\\Delta G^{0} = -350\\,\\mathrm{kJ}$, which one of the following statements is true?",
+  "options": [
+   "The reaction is thermodynamically nonfeasible.",
+   "The entropy change is negative.",
+   "Equilibrium constant is greater than one.",
+   "The reaction should be instantaneous."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-021",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 21,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Identify $B$ and $D$ in the following sequence of reactions.",
+  "options": [
+   "Methanol and bromoethane",
+   "Ethyl hydrogen sulphate and alcoholic $\\mathrm{KOH}$",
+   "Ethyl hydrogen sulphate and aqueous $\\mathrm{KOH}$",
+   "Ethanol and alcoholic $\\mathrm{KOH}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2011-chemistry-021.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-022",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 22,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The compound which gives turbidity immediately with Lucas reagent at room temperature is ..............",
+  "options": [
+   "butan-1-ol",
+   "butan-2-ol",
+   "2-methyl propan-2-ol",
+   "2-methyl propan-1-ol"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-023",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 23,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Ethyl benzene CANNOT be prepared by ..............",
+  "options": [
+   "Wurtz reaction",
+   "Wurtz-Fittig reaction",
+   "Friedel-Crafts reaction",
+   "Clemmensen reduction"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-024",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 24,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "$1.2\\,\\mathrm{g}$ of organic compound on Kjeldahlization liberates ammonia which consumes $30\\,\\mathrm{cm^3}$ of $1\\,\\mathrm{N}$ $\\mathrm{HCl}$. The percentage of nitrogen in the organic compound is ..............",
+  "options": [
+   "30",
+   "35",
+   "46.67",
+   "20.8"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-025",
+  "subject": "chemistry",
+  "chapter": "general-principles-and-processes-of-isolation-of-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 25,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Carbon cannot reduce $\\mathrm{Fe_2O_3}$ to $\\mathrm{Fe}$ at a temperature below $983\\,\\mathrm{K}$ because ..............",
+  "options": [
+   "free energy change for the formation of $\\mathrm{CO}$ is more negative than that of $\\mathrm{Fe_2O_3}$",
+   "$\\mathrm{CO}$ is thermodynamically more stable than $\\mathrm{Fe_2O_3}$",
+   "carbon has higher affinity towards oxygen than iron",
+   "iron has higher affinity towards oxygen than carbon"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-026",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 26,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The yellow precipitate formed during the chromyl chloride test is chemically ..............",
+  "options": [
+   "chromic acid",
+   "lead chromate",
+   "lead acetate",
+   "sodium chromate"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-027",
+  "subject": "chemistry",
+  "chapter": "general-principles-and-processes-of-isolation-of-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 27,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "One gram of silver gets distributed between $10\\,\\mathrm{cm^3}$ of molten zinc and $100\\,\\mathrm{cm^3}$ of molten lead at $800^{\\circ}\\mathrm{C}$. The percentage of silver still left in the lead layer is approximately ........",
+  "options": [
+   "2",
+   "5",
+   "3",
+   "1"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-028",
+  "subject": "chemistry",
+  "chapter": "the-s-block-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 28,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Which one of the following is true?",
+  "options": [
+   "$\\mathrm{NaOH}$ is used in the concentration of bauxite ore.",
+   "$\\mathrm{NaOH}$ is a primary standard in volumetric analysis.",
+   "Manganous hydroxide is soluble in excess of $\\mathrm{NaOH}$ solution.",
+   "$\\mathrm{NaOH}$ solution does not react with $\\mathrm{Cl_2}$."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-029",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-12",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 29,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "In Ramsay and Rayleigh's isolation of noble gases from air, the nitrogen of the air is finally converted into ..............",
+  "options": [
+   "$\\mathrm{NaNO_2}$ only",
+   "$\\mathrm{NO}$ and $\\mathrm{NO_2}$",
+   "$\\mathrm{NaNO_3}$ only",
+   "$\\mathrm{NaNO_2}$ and $\\mathrm{NaNO_3}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-030",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 30,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The spin only magnetic moment of $\\mathrm{Fe^{2+}}$ ion (in BM) is approximately ..............",
+  "options": [
+   "4",
+   "7",
+   "5",
+   "6"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-031",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 31,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The IUPAC name of the complex $\\left[\\mathrm{Co(NH_3)_4Cl_2}\\right]\\mathrm{Cl}$ is ..............",
+  "options": [
+   "dichloro tetraammine cobalt (III) chloride",
+   "tetraammine dichloro cobalt (III) chloride",
+   "tetraammine dichloro cobalt (II) chloride",
+   "tetraammine dichloro cobalt (IV) chloride"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-032",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 32,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Excess of silver nitrate solution is added to $100\\,\\mathrm{ml}$ of $0.01\\,\\mathrm{M}$ Pentaaqua chloro chromium (III) chloride solution. The mass of silver chloride obtained in grams is ..............  [Atomic mass of silver is 108].",
+  "options": [
+   "$287 \\times 10^{-3}$",
+   "$143.5 \\times 10^{-3}$",
+   "$143.5 \\times 10^{-2}$",
+   "$287 \\times 10^{-2}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-033",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 33,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The following data were obtained during the first order decomposition of $\\mathrm{2A_{(g)} \\rightarrow B_{(g)} + C_{(s)}}$ at a constant volume and at a particular temperature.\n\n| Sr. No. | Time | Total pressure in Pascal |\n|---|---|---|\n| 1 | At the end of 10 min | 300 |\n| 2 | After completion | 200 |\n\nThe rate constant in $\\mathrm{min^{-1}}$ is ..............",
+  "options": [
+   "0.0693",
+   "69.3",
+   "6.93",
+   "$6.93 \\times 10^{-4}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-034",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 34,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The time required for $100\\%$ completion of a zero order reaction is ..............",
+  "options": [
+   "$ak$",
+   "$\\frac{a}{2k}$",
+   "$\\frac{a}{k}$",
+   "$\\frac{2k}{a}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-035",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 35,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The activation energy of a reaction at a given temperature is found to be $2.303\\,RT\\ \\mathrm{J\\,mol^{-1}}$. The ratio of rate constant to the Arrhenius factor is ..............",
+  "options": [
+   "0.01",
+   "0.1",
+   "0.02",
+   "0.001"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-036",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 36,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "pH value of which one of the following is NOT equal to one?",
+  "options": [
+   "$0.1\\,\\mathrm{M}$ $\\mathrm{CH_3COOH}$",
+   "$0.1\\,\\mathrm{M}$ $\\mathrm{HNO_3}$",
+   "$0.05\\,\\mathrm{M}$ $\\mathrm{H_2SO_4}$",
+   "$50\\,\\mathrm{cm^3}$ $0.4\\,\\mathrm{M}$ $\\mathrm{HCl} + 50\\,\\mathrm{cm^3}$ $0.2\\,\\mathrm{M}$ $\\mathrm{NaOH}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-037",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 37,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A buffer solution contains $0.1$ mole of sodium acetate dissolved in $1000\\,\\mathrm{cm^3}$ of $0.1\\,\\mathrm{M}$ acetic acid. To the above buffer solution, $0.1$ mole of sodium acetate is further added and dissolved. The pH of the resulting buffer is ..............",
+  "options": [
+   "$pK_a$",
+   "$pK_a + 2$",
+   "$pK_a - \\mathrm{Log}\\,2$",
+   "$pK_a + \\mathrm{Log}\\,2$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-038",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 38,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "$\\mathrm{H_2S}$ is passed into one $\\mathrm{dm^3}$ of a solution containing $0.1$ mole of $\\mathrm{Zn^{2+}}$ and $0.01$ mole of $\\mathrm{Cu^{2+}}$ till the sulphide ion concentration reaches $8.1 \\times 10^{-19}$ moles. Which one of the following statements is true?  [$K_{sp}$ of $\\mathrm{ZnS}$ and $\\mathrm{CuS}$ are $3 \\times 10^{-22}$ and $8 \\times 10^{-36}$ respectively]",
+  "options": [
+   "Only $\\mathrm{ZnS}$ precipitates",
+   "Both $\\mathrm{CuS}$ and $\\mathrm{ZnS}$ precipitate",
+   "Only $\\mathrm{CuS}$ precipitates",
+   "No precipitation occurs"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-039",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 39,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "$E_1$, $E_2$ and $E_3$ are the emfs of the following three galvanic cells respectively:  (i) $\\mathrm{Zn(s)|Zn^{2+}(0.1\\,M)||Cu^{2+}(1\\,M)|Cu(s)}$  (ii) $\\mathrm{Zn(s)|Zn^{2+}(1\\,M)||Cu^{2+}(1\\,M)|Cu(s)}$  (iii) $\\mathrm{Zn(s)|Zn^{2+}(1\\,M)||Cu^{2+}(0.1\\,M)|Cu(s)}$  Which one of the following is true?",
+  "options": [
+   "$E_2 > E_1 > E_3$",
+   "$E_1 > E_2 > E_3$",
+   "$E_3 > E_1 > E_2$",
+   "$E_3 > E_2 > E_1$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-040",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 40,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "$0.023\\,\\mathrm{g}$ of sodium metal is reacted with $100\\,\\mathrm{cm^3}$ of water. The pH of the resulting solution is ..............",
+  "options": [
+   "10",
+   "8",
+   "9",
+   "12"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-041",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 41,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The standard emf of a galvanic cell involving $2$ moles of electrons in its redox reaction is $0.59\\,\\mathrm{V}$. The equilibrium constant for the redox reaction of the cell is ..............",
+  "options": [
+   "$10^{20}$",
+   "$10^{5}$",
+   "$10$",
+   "$10^{10}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-042",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 42,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "$9.65$ coulombs of electric current is passed through fused anhydrous $\\mathrm{MgCl_2}$. The magnesium metal thus obtained is completely converted into a Grignard reagent. The number of moles of Grignard reagent obtained is ..............",
+  "options": [
+   "$5 \\times 10^{-4}$",
+   "$1 \\times 10^{-4}$",
+   "$5 \\times 10^{-5}$",
+   "$1 \\times 10^{-5}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-043",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 43,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The empirical formula of a nonelectrolyte is $\\mathrm{CH_2O}$. A solution containing $3\\,\\mathrm{g}$ of the compound exerts the same osmotic pressure as that of $0.05\\,\\mathrm{M}$ glucose solution. The molecular formula of the compound is ..............",
+  "options": [
+   "$\\mathrm{CH_2O}$",
+   "$\\mathrm{C_2H_4O_2}$",
+   "$\\mathrm{C_4H_8O_4}$",
+   "$\\mathrm{C_3H_6O_3}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-044",
+  "subject": "chemistry",
+  "chapter": "the-solid-state",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 44,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Which one of the following is a covalent crystal?",
+  "options": [
+   "Rock salt",
+   "Ice",
+   "Quartz",
+   "Dry ice"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-045",
+  "subject": "chemistry",
+  "chapter": "surface-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 45,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Which one of the following DOES NOT involve coagulation?",
+  "options": [
+   "Clotting of blood by the use of ferric chloride",
+   "Formation of delta region",
+   "Treatment of drinking water by potash alum",
+   "Peptization"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-046",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 46,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A solution of two liquids boils at a temperature more than the boiling point of either of them. Hence, the binary solution shows ..............",
+  "options": [
+   "negative deviation from Raoult's law",
+   "positive deviation from Raoult's law",
+   "no deviation from Raoult's law",
+   "positive or negative deviation from Raoult's law depending upon the composition"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-047",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 47,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Which one of the nitrogen atoms in the structure shown (labelled I, II and III) is the most nucleophilic?",
+  "options": [
+   "III",
+   "I",
+   "II",
+   "All three nitrogen atoms are equally strong nucleophilic centers"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2011-chemistry-047.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-048",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 48,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The maximum number of possible optical isomers in 1-bromo-2-methyl cyclobutane is ...",
+  "options": [
+   "4",
+   "2",
+   "8",
+   "16"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-049",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 49,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Which one of the following is the most energetic conformation of cyclohexane?",
+  "options": [
+   "Boat",
+   "Twisted boat",
+   "Chair",
+   "Half chair"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-050",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 50,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Which one of the following is an intermediate in the reaction of benzene with $\\mathrm{CH_3Cl}$ in the presence of anhydrous $\\mathrm{AlCl_3}$?",
+  "options": [
+   "$\\mathrm{Cl^{+}}$",
+   "$\\mathrm{CH_3^{-}}$",
+   "$\\mathrm{CH_3^{+}}$",
+   "[structure shown in figure: benzene ring with a + charge]"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2011-chemistry-050.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "key_confirmed",
+   "notes": "Transcription matches page 12 (option 4 is a bare ring cation); CH3+ is the intermediate electrophile."
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-051",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 51,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Which one of the following is NOT TRUE for the hydrolysis of $t$-butyl bromide with aqueous $\\mathrm{NaOH}$?",
+  "options": [
+   "Reaction occurs through the $\\mathrm{S_N1}$ mechanism.",
+   "The intermediate formed is a carbocation.",
+   "Rate of the reaction doubles when the concentration of alkali is doubled.",
+   "Rate of the reaction doubles when the concentration of $t$-butyl bromide is doubled."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-052",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 52,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Following is the substitution reaction in which $\\mathrm{-CN}$ replaces $\\mathrm{-Cl}$.  $$\\mathrm{R{-}Cl + KCN \\xrightarrow[\\text{(alcoholic)}]{\\Delta} R{-}CN + KCl}$$  To obtain propanenitrile, $\\mathrm{R{-}Cl}$ should be ..............",
+  "options": [
+   "chloroethane",
+   "1-chloropropane",
+   "chloromethane",
+   "2-chloropropane"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-053",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 53,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The conversion of $m$-nitrophenol to resorcinol involves respectively ..............",
+  "options": [
+   "hydrolysis, diazotization and reduction",
+   "diazotization, reduction and hydrolysis",
+   "hydrolysis, reduction and diazotization",
+   "reduction, diazotization and hydrolysis"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-054",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 54,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Formic acid is a stronger acid than acetic acid. This can be explained using ..........",
+  "options": [
+   "$+M$ effect",
+   "$-I$ effect",
+   "$+I$ effect",
+   "$-M$ effect"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-055",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 55,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The reagent with which both acetaldehyde and acetone react is ..............",
+  "options": [
+   "Fehling's solution",
+   "$\\mathrm{I_2}$ / $\\mathrm{NaOH}$",
+   "Tollens' reagent",
+   "Carbonic acid"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-056",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 56,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Which of the following gives an aldehyde on dry distillation?",
+  "options": [
+   "Calcium formate + calcium acetate",
+   "Calcium acetate + calcium benzoate",
+   "Calcium acetate",
+   "Calcium benzoate"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-057",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 57,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "$\\alpha$-maltose consists of ..............",
+  "options": [
+   "one $\\alpha$-D-glucopyranose unit and one $\\beta$-D-glucopyranose unit with 1-2 glycosidic linkage",
+   "two $\\alpha$-D-glucopyranose units with 1-2 glycosidic linkage",
+   "two $\\beta$-D-glucopyranose units with 1-4 glycosidic linkage",
+   "two $\\alpha$-D-glucopyranose units with 1-4 glycosidic linkage"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-058",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 58,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Which one of the following DOES NOT correctly match with each other?",
+  "options": [
+   "Silk-polyamide",
+   "Lipase-enzyme",
+   "Butter-fat",
+   "Oxytocin-enzyme"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-059",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 59,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "In an alkaline medium, glycine predominantly exists as/in a/an ..............",
+  "options": [
+   "cation",
+   "anion",
+   "zwitterion",
+   "covalent form"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-chemistry-060",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 60,
+   "file": "sources/pyq/2011/chemistry/2011-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2011/chemistry/2011-chemistry-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The IUPAC name of the compound shown is ..............",
+  "options": [
+   "but-3-enoic acid",
+   "but-1-enoic acid",
+   "pent-4-enoic acid",
+   "prop-2-enoic acid"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2011-chemistry-060.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

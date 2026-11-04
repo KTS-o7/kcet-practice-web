@@ -1,0 +1,774 @@
+[
+ {
+  "id": "tp-ncert-chem-11-ch04-001",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf"
+  },
+  "stem": "Isostructural species are those which have the same shape and hybridisation. Among the given species identify the isostructural pairs.",
+  "options": [
+   "[$\\mathrm{NF_3}$ and $\\mathrm{BF_3}$]",
+   "[$\\mathrm{BF_4^-}$ and $\\mathrm{NH_4^+}$]",
+   "[$\\mathrm{BCl_3}$ and $\\mathrm{BrCl_3}$]",
+   "[$\\mathrm{NH_3}$ and $\\mathrm{NO_3^-}$]"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "key_confirmed",
+   "notes": "Transcription matches page; BF4- and NH4+ both tetrahedral sp3."
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch04-002",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf"
+  },
+  "stem": "Polarity in a molecule and hence the dipole moment depends primarily on electronegativity of the constituent atoms and shape of a molecule. Which of the following has the highest dipole moment?",
+  "options": [
+   "$\\mathrm{CO_2}$",
+   "$\\mathrm{HI}$",
+   "$\\mathrm{H_2O}$",
+   "$\\mathrm{SO_2}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch04-003",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf"
+  },
+  "stem": "The types of hybrid orbitals of nitrogen in $\\mathrm{NO_2^+}$, $\\mathrm{NO_3^-}$ and $\\mathrm{NH_4^+}$ respectively are expected to be",
+  "options": [
+   "$sp$, $sp^3$ and $sp^2$",
+   "$sp$, $sp^2$ and $sp^3$",
+   "$sp^2$, $sp$ and $sp^3$",
+   "$sp^2$, $sp^3$ and $sp$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch04-004",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf"
+  },
+  "stem": "Hydrogen bonds are formed in many compounds e.g., $\\mathrm{H_2O}$, $\\mathrm{HF}$, $\\mathrm{NH_3}$. The boiling point of such compounds depends to a large extent on the strength of hydrogen bond and the number of hydrogen bonds. The correct decreasing order of the boiling points of above compounds is :",
+  "options": [
+   "$\\mathrm{HF} > \\mathrm{H_2O} > \\mathrm{NH_3}$",
+   "$\\mathrm{H_2O} > \\mathrm{HF} > \\mathrm{NH_3}$",
+   "$\\mathrm{NH_3} > \\mathrm{HF} > \\mathrm{H_2O}$",
+   "$\\mathrm{NH_3} > \\mathrm{H_2O} > \\mathrm{HF}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch04-005",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf"
+  },
+  "stem": "In $\\mathrm{PO_4^{3-}}$ ion the formal charge on the oxygen atom of P–O bond is",
+  "options": [
+   "$+1$",
+   "$-1$",
+   "$-0.75$",
+   "$+0.75$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "key_confirmed",
+   "notes": "Transcription matches page; formal charge on single-bonded O of PO4^3- is -1."
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch04-006",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf"
+  },
+  "stem": "In $\\mathrm{NO_3^-}$ ion, the number of bond pairs and lone pairs of electrons on nitrogen atom are",
+  "options": [
+   "2, 2",
+   "3, 1",
+   "1, 3",
+   "4, 0"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch04-007",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 7,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf"
+  },
+  "stem": "Which of the following species has tetrahedral geometry?",
+  "options": [
+   "$\\mathrm{BH_4^-}$",
+   "$\\mathrm{NH_2^-}$",
+   "$\\mathrm{CO_3^{2-}}$",
+   "$\\mathrm{H_3O^+}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch04-008",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 8,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf"
+  },
+  "stem": "Number of $\\pi$ bonds and $\\sigma$ bonds in the following structure is–",
+  "options": [
+   "6, 19",
+   "4, 20",
+   "5, 19",
+   "5, 20"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-ncert-chem-11-ch04-008.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch04-009",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 9,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf"
+  },
+  "stem": "Which molecule/ion out of the following does not contain unpaired electrons?",
+  "options": [
+   "$\\mathrm{N_2^+}$",
+   "$\\mathrm{O_2}$",
+   "$\\mathrm{O_2^{2-}}$",
+   "$\\mathrm{B_2}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch04-010",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 10,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf"
+  },
+  "stem": "In which of the following molecule/ion all the bonds are not equal?",
+  "options": [
+   "$\\mathrm{XeF_4}$",
+   "$\\mathrm{BF_4^-}$",
+   "$\\mathrm{C_2H_4}$",
+   "$\\mathrm{SiF_4}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch04-011",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 11,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf"
+  },
+  "stem": "In which of the following substances will hydrogen bond be strongest?",
+  "options": [
+   "HCl",
+   "$\\mathrm{H_2O}$",
+   "HI",
+   "$\\mathrm{H_2S}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch04-012",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 12,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf"
+  },
+  "stem": "If the electronic configuration of an element is $1s^2\\,2s^2\\,2p^6\\,3s^2\\,3p^6\\,3d^2\\,4s^2$, the four electrons involved in chemical bond formation will be_____.",
+  "options": [
+   "$3p^6$",
+   "$3p^6, 4s^2$",
+   "$3p^6, 3d^2$",
+   "$3d^2, 4s^2$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch04-013",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 13,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf"
+  },
+  "stem": "Which of the following angle corresponds to $sp^2$ hybridisation?",
+  "options": [
+   "$90^\\circ$",
+   "$120^\\circ$",
+   "$180^\\circ$",
+   "$109^\\circ$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch04-014",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 14,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf"
+  },
+  "stem": "The electronic configurations of three elements, A, B and C are given below. Answer the questions 14 to 17 on the basis of these configurations.\n\nA: $1s^2\\,2s^2\\,2p^6$\n\nB: $1s^2\\,2s^2\\,2p^6\\,3s^2\\,3p^3$\n\nC: $1s^2\\,2s^2\\,2p^6\\,3s^2\\,3p^5$\n\nStable form of A may be represented by the formula :",
+  "options": [
+   "A",
+   "$\\mathrm{A_2}$",
+   "$\\mathrm{A_3}$",
+   "$\\mathrm{A_4}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch04-015",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 15,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf"
+  },
+  "stem": "The electronic configurations of three elements, A, B and C are given below. Answer the questions 14 to 17 on the basis of these configurations.\n\nA: $1s^2\\,2s^2\\,2p^6$\n\nB: $1s^2\\,2s^2\\,2p^6\\,3s^2\\,3p^3$\n\nC: $1s^2\\,2s^2\\,2p^6\\,3s^2\\,3p^5$\n\nStable form of C may be represented by the formula :",
+  "options": [
+   "C",
+   "$\\mathrm{C_2}$",
+   "$\\mathrm{C_3}$",
+   "$\\mathrm{C_4}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch04-016",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 16,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf"
+  },
+  "stem": "The electronic configurations of three elements, A, B and C are given below. Answer the questions 14 to 17 on the basis of these configurations.\n\nA: $1s^2\\,2s^2\\,2p^6$\n\nB: $1s^2\\,2s^2\\,2p^6\\,3s^2\\,3p^3$\n\nC: $1s^2\\,2s^2\\,2p^6\\,3s^2\\,3p^5$\n\nThe molecular formula of the compound formed from B and C will be",
+  "options": [
+   "BC",
+   "$\\mathrm{B_2C}$",
+   "$\\mathrm{BC_2}$",
+   "$\\mathrm{BC_3}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch04-017",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 17,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf"
+  },
+  "stem": "The electronic configurations of three elements, A, B and C are given below. Answer the questions 14 to 17 on the basis of these configurations.\n\nA: $1s^2\\,2s^2\\,2p^6$\n\nB: $1s^2\\,2s^2\\,2p^6\\,3s^2\\,3p^3$\n\nC: $1s^2\\,2s^2\\,2p^6\\,3s^2\\,3p^5$\n\nThe bond between B and C will be",
+  "options": [
+   "Ionic",
+   "Covalent",
+   "Hydrogen",
+   "Coordinate"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch04-018",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 18,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf"
+  },
+  "stem": "Which of the following order of energies of molecular orbitals of $\\mathrm{N_2}$ is correct?",
+  "options": [
+   "$(\\pi 2p_y) < (\\sigma 2p_z) < (\\pi^* 2p_x) \\approx (\\pi^* 2p_y)$",
+   "$(\\pi 2p_y) > (\\sigma 2p_z) > (\\pi^* 2p_x) \\approx (\\pi^* 2p_y)$",
+   "$(\\pi 2p_y) < (\\sigma 2p_z) > (\\pi^* 2p_x) \\approx (\\pi^* 2p_y)$",
+   "$(\\pi 2p_y) > (\\sigma 2p_z) < (\\pi^* 2p_x) \\approx (\\pi^* 2p_y)$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch04-019",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 19,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf"
+  },
+  "stem": "Which of the following statement is not correct from the view point of molecular orbital theory?",
+  "options": [
+   "$\\mathrm{Be_2}$ is not a stable molecule.",
+   "$\\mathrm{He_2}$ is not stable but $\\mathrm{He_2^+}$ is expected to exist.",
+   "Bond strength of $\\mathrm{N_2}$ is maximum amongst the homonuclear diatomic molecules belonging to the second period.",
+   "The order of energies of molecular orbitals in $\\mathrm{N_2}$ molecule is $\\sigma 2s < \\sigma^* 2s < \\sigma 2p_z < (\\pi 2p_x = \\pi 2p_y) < (\\pi^* 2p_x = \\pi^* 2p_y) < \\sigma^* 2p_z$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch04-020",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 20,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf"
+  },
+  "stem": "Which of the following options represents the correct bond order :",
+  "options": [
+   "$\\mathrm{O_2^-} > \\mathrm{O_2} > \\mathrm{O_2^+}$",
+   "$\\mathrm{O_2^-} < \\mathrm{O_2} < \\mathrm{O_2^+}$",
+   "$\\mathrm{O_2^-} > \\mathrm{O_2} < \\mathrm{O_2^+}$",
+   "$\\mathrm{O_2^-} < \\mathrm{O_2} > \\mathrm{O_2^+}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch04-021",
+  "subject": "chemistry",
+  "chapter": "classification-of-elements-and-periodicity",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 21,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf"
+  },
+  "stem": "The electronic configuration of the outer most shell of the most electronegative element is",
+  "options": [
+   "$2s^2\\,2p^5$",
+   "$3s^2\\,3p^5$",
+   "$4s^2\\,4p^5$",
+   "$5s^2\\,5p^5$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch04-022",
+  "subject": "chemistry",
+  "chapter": "classification-of-elements-and-periodicity",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 22,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep504.pdf"
+  },
+  "stem": "Amongst the following elements whose electronic configurations are given below, the one having the highest ionisation enthalpy is",
+  "options": [
+   "[Ne]$3s^2\\,3p^1$",
+   "[Ne]$3s^2\\,3p^3$",
+   "[Ne]$3s^2\\,3p^2$",
+   "[Ar]$3d^{10}\\,4s^2\\,4p^3$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

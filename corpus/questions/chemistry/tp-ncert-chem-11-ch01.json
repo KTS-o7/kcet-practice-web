@@ -1,0 +1,527 @@
+[
+ {
+  "id": "tp-ncert-chem-11-ch01-001",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep501.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep501.pdf"
+  },
+  "stem": "Two students performed the same experiment separately and each one of them recorded two readings of mass which are given below. Correct reading of mass is $3.0\\,\\mathrm{g}$. On the basis of given data, mark the correct option out of the following statements.\n\n| Student | Readings (i) | Readings (ii) |\n|---|---|---|\n| A | 3.01 | 2.99 |\n| B | 3.05 | 2.95 |",
+  "options": [
+   "Results of both the students are neither accurate nor precise.",
+   "Results of student A are both precise and accurate.",
+   "Results of student B are neither precise nor accurate.",
+   "Results of student B are both precise and accurate."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch01-002",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep501.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep501.pdf"
+  },
+  "stem": "A measured temperature on Fahrenheit scale is $200\\,^\\circ\\mathrm{F}$. What will this reading be on Celsius scale?",
+  "options": [
+   "$40\\,^\\circ\\mathrm{C}$",
+   "$94\\,^\\circ\\mathrm{C}$",
+   "$93.3\\,^\\circ\\mathrm{C}$",
+   "$30\\,^\\circ\\mathrm{C}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch01-003",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep501.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep501.pdf"
+  },
+  "stem": "What will be the molarity of a solution, which contains $5.85\\,\\mathrm{g}$ of $\\mathrm{NaCl(s)}$ per $500\\,\\mathrm{mL}$?",
+  "options": [
+   "$4\\,\\mathrm{mol\\,L^{-1}}$",
+   "$20\\,\\mathrm{mol\\,L^{-1}}$",
+   "$0.2\\,\\mathrm{mol\\,L^{-1}}$",
+   "$2\\,\\mathrm{mol\\,L^{-1}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch01-004",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep501.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep501.pdf"
+  },
+  "stem": "If $500\\,\\mathrm{mL}$ of a $5\\,\\mathrm{M}$ solution is diluted to $1500\\,\\mathrm{mL}$, what will be the molarity of the solution obtained?",
+  "options": [
+   "$1.5\\,\\mathrm{M}$",
+   "$1.66\\,\\mathrm{M}$",
+   "$0.017\\,\\mathrm{M}$",
+   "$1.59\\,\\mathrm{M}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch01-005",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep501.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep501.pdf"
+  },
+  "stem": "The number of atoms present in one mole of an element is equal to Avogadro number. Which of the following element contains the greatest number of atoms?",
+  "options": [
+   "$4\\,\\mathrm{g\\ He}$",
+   "$46\\,\\mathrm{g\\ Na}$",
+   "$0.40\\,\\mathrm{g\\ Ca}$",
+   "$12\\,\\mathrm{g\\ He}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch01-006",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep501.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep501.pdf"
+  },
+  "stem": "If the concentration of glucose ($\\mathrm{C_6H_{12}O_6}$) in blood is $0.9\\,\\mathrm{g\\,L^{-1}}$, what will be the molarity of glucose in blood?",
+  "options": [
+   "$5\\,\\mathrm{M}$",
+   "$50\\,\\mathrm{M}$",
+   "$0.005\\,\\mathrm{M}$",
+   "$0.5\\,\\mathrm{M}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch01-007",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 7,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep501.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep501.pdf"
+  },
+  "stem": "What will be the molality of the solution containing $18.25\\,\\mathrm{g}$ of $\\mathrm{HCl}$ gas in $500\\,\\mathrm{g}$ of water?",
+  "options": [
+   "$0.1\\,\\mathrm{m}$",
+   "$1\\,\\mathrm{M}$",
+   "$0.5\\,\\mathrm{m}$",
+   "$1\\,\\mathrm{m}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch01-008",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 8,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep501.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep501.pdf"
+  },
+  "stem": "One mole of any substance contains $6.022 \\times 10^{23}$ atoms/molecules. Number of molecules of $\\mathrm{H_2SO_4}$ present in $100\\,\\mathrm{mL}$ of $0.02\\,\\mathrm{M}$ $\\mathrm{H_2SO_4}$ solution is ______.",
+  "options": [
+   "$12.044 \\times 10^{20}$ molecules",
+   "$6.022 \\times 10^{23}$ molecules",
+   "$1 \\times 10^{23}$ molecules",
+   "$12.044 \\times 10^{23}$ molecules"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch01-009",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 9,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep501.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep501.pdf"
+  },
+  "stem": "What is the mass percent of carbon in carbon dioxide?",
+  "options": [
+   "$0.034\\%$",
+   "$27.27\\%$",
+   "$3.4\\%$",
+   "$28.7\\%$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch01-010",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 10,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep501.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep501.pdf"
+  },
+  "stem": "The empirical formula and molecular mass of a compound are $\\mathrm{CH_2O}$ and $180\\,\\mathrm{g}$ respectively. What will be the molecular formula of the compound?",
+  "options": [
+   "$\\mathrm{C_9H_{18}O_9}$",
+   "$\\mathrm{CH_2O}$",
+   "$\\mathrm{C_6H_{12}O_6}$",
+   "$\\mathrm{C_2H_4O_2}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch01-011",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 11,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep501.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep501.pdf"
+  },
+  "stem": "If the density of a solution is $3.12\\,\\mathrm{g\\,mL^{-1}}$, the mass of $1.5\\,\\mathrm{mL}$ solution in significant figures is ______.",
+  "options": [
+   "$4.7\\,\\mathrm{g}$",
+   "$4680 \\times 10^{-3}\\,\\mathrm{g}$",
+   "$4.680\\,\\mathrm{g}$",
+   "$46.80\\,\\mathrm{g}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch01-012",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 12,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep501.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep501.pdf"
+  },
+  "stem": "Which of the following statements about a compound is incorrect?",
+  "options": [
+   "A molecule of a compound has atoms of different elements.",
+   "A compound cannot be separated into its constituent elements by physical methods of separation.",
+   "A compound retains the physical properties of its constituent elements.",
+   "The ratio of atoms of different elements in a compound is fixed."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch01-013",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 13,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep501.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep501.pdf"
+  },
+  "stem": "Which of the following statements is correct about the reaction given below:\n\n$$\\mathrm{4Fe(s) + 3O_2(g) \\longrightarrow 2Fe_2O_3(g)}$$",
+  "options": [
+   "Total mass of iron and oxygen in reactants = total mass of iron and oxygen in product therefore it follows law of conservation of mass.",
+   "Total mass of reactants = total mass of product; therefore, law of multiple proportions is followed.",
+   "Amount of $\\mathrm{Fe_2O_3}$ can be increased by taking any one of the reactants (iron or oxygen) in excess.",
+   "Amount of $\\mathrm{Fe_2O_3}$ produced will decrease if the amount of any one of the reactants (iron or oxygen) is taken in excess."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch01-014",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 14,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep501.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep501.pdf"
+  },
+  "stem": "Which of the following reactions is not correct according to the law of conservation of mass.",
+  "options": [
+   "$\\mathrm{2Mg(s) + O_2(g) \\longrightarrow 2MgO(s)}$",
+   "$\\mathrm{C_3H_8(g) + O_2(g) \\longrightarrow CO_2(g) + H_2O(g)}$",
+   "$\\mathrm{P_4(s) + 5O_2(g) \\longrightarrow P_4O_{10}(s)}$",
+   "$\\mathrm{CH_4(g) + 2O_2(g) \\longrightarrow CO_2(g) + 2H_2O\\,(g)}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch01-015",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 15,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep501.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep501.pdf"
+  },
+  "stem": "Which of the following statements indicates that law of multiple proportion is being followed.",
+  "options": [
+   "Sample of carbon dioxide taken from any source will always have carbon and oxygen in the ratio 1:2.",
+   "Carbon forms two oxides namely $\\mathrm{CO_2}$ and $\\mathrm{CO}$, where masses of oxygen which combine with fixed mass of carbon are in the simple ratio 2:1.",
+   "When magnesium burns in oxygen, the amount of magnesium taken for the reaction is equal to the amount of magnesium in magnesium oxide formed.",
+   "At constant temperature and pressure 200 mL of hydrogen will combine with 100 mL oxygen to produce 200 mL of water vapour."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

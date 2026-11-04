@@ -1,0 +1,2111 @@
+[
+ {
+  "id": "pyq-2016-chemistry-001",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 1,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The half-life period of a $1^{\\mathrm{st}}$ order reaction is 60 minutes. What percentage will be left over after 240 minutes ?",
+  "options": [
+   "6.25%",
+   "4.25%",
+   "5%",
+   "6%"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-002",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 2,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Which of the following is not a colligative property ?",
+  "options": [
+   "Osmotic pressure",
+   "Optical activity",
+   "Depression in Freezing point",
+   "Elevation in Boiling point"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-003",
+  "subject": "chemistry",
+  "chapter": "the-solid-state",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 3,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The contribution of particle at the edge centre to a particular unit cell is,",
+  "options": [
+   "$\\frac{1}{2}$",
+   "$\\frac{1}{4}$",
+   "$1$",
+   "$\\frac{1}{8}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-004",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 4,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "When an electrolyte is dissociated in solution, the van't Hoff's factor (i) is,",
+  "options": [
+   "$>1$",
+   "$<1$",
+   "$=0$",
+   "$=1$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-005",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 5,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Which of the following is incorrect in a galvanic cell ?",
+  "options": [
+   "Oxidation occurs at anode.",
+   "Reduction occurs at cathode.",
+   "The electrode at which electrons are gained is called cathode.",
+   "The electrode at which electrons are lost is called cathode."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-006",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 6,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A secondary cell is one",
+  "options": [
+   "can be recharged.",
+   "can be recharged by passing current through it in the same direction.",
+   "can be recharged by passing current through it in the opposite direction.",
+   "can not recharged."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-007",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 7,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Osmotic pressure of the solution can be increased by,",
+  "options": [
+   "increasing the temperature of the solution.",
+   "decreasing the temperature of the solution.",
+   "increasing the volume of the vessel.",
+   "diluting the solution."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-008",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 8,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The amount of current in Faraday is required for the reduction of 1 mol of $\\mathrm{Cr_2O_7^{--}}$ ions to $\\mathrm{Cr^{3+}}$ is,",
+  "options": [
+   "1 F",
+   "2 F",
+   "6 F",
+   "4 F"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-009",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 9,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "For a chemical reaction,\n\n$\\mathrm{mA \\rightarrow xB}$, the rate law is $r = k[A]^2$.\n\nIf the concentration of A is doubled, the reaction rate will be,",
+  "options": [
+   "Doubled",
+   "Quadrupled",
+   "Increases by 8 times",
+   "Unchanged"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-010",
+  "subject": "chemistry",
+  "chapter": "the-solid-state",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 10,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Schottky defect in a crystal is observed when,",
+  "options": [
+   "Unequal number of cations and anions are missing from the lattice.",
+   "Equal number of cations and anions are missing from the lattice.",
+   "An ion leaves its normal site and occupies an interstitial site.",
+   "No ion is missing from its lattice site"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-011",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 11,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "$\\mathrm{3A \\longrightarrow 2B}$, rate of reaction $+\\frac{d[B]}{dt}$ is equal to",
+  "options": [
+   "$-\\frac{3}{2}\\frac{d[A]}{dt}$",
+   "$-\\frac{2}{3}\\frac{d[A]}{dt}$",
+   "$+2\\frac{d[A]}{dt}$",
+   "$-\\frac{1}{3}\\frac{d[A]}{dt}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-012",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 12,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The activation energy of a chemical reaction can be determined by,",
+  "options": [
+   "evaluating rate constants at two different temperatures.",
+   "changing the concentration of reactants.",
+   "evaluating the concentration of reactants at two different temperatures.",
+   "evaluating rate constant at standard temperature."
+  ],
+  "answer": 0,
+  "accepted": [
+   0,
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-013",
+  "subject": "chemistry",
+  "chapter": "surface-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 13,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Which of the following statements is incorrect w.r.t. Physisorption ?",
+  "options": [
+   "The forces involved are van der Waal's forces.",
+   "More easily liquifiable gases are adsorbed easily.",
+   "Under high pressure it results into Multi-molecular layer on adsorbent surface.",
+   "$\\Delta H_{\\mathrm{adsorption}}$ is low and +Ve."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-014",
+  "subject": "chemistry",
+  "chapter": "surface-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 14,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Sulphur sol contains",
+  "options": [
+   "Discrete S-atoms",
+   "Discrete S-molecules",
+   "Large aggregates of S-molecules",
+   "Water dispersed in Solid Sulphur"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-015",
+  "subject": "chemistry",
+  "chapter": "surface-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 15,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Reactions in Zeolite catalyst depend on,",
+  "options": [
+   "Pores",
+   "Apertures",
+   "Size of cavity",
+   "All of these"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-016",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 16,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "IUPAC name of the compound\n\nis,",
+  "options": [
+   "1-Bromo but-2-ene",
+   "2-Bromo-2-butene",
+   "Bromo butene",
+   "1-Bromo but-3-ene"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2016-chemistry-016.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-017",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 17,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Replacement of Cl of Chlorobenzene to give phenol requires drastic conditions, but Cl of 2, 4 – dinitro chlorobenzene is readily replaced. This is because,",
+  "options": [
+   "$-\\mathrm{NO_2}$ group makes the ring electron rich at ortho and para positions.",
+   "$-\\mathrm{NO_2}$ group withdraws electrons from meta position.",
+   "$-\\mathrm{NO_2}$ donate electrons at meta position.",
+   "$-\\mathrm{NO_2}$ withdraws electrons from ortho and para positions."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-018",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 18,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "In the reaction :\n\n$$\\mathrm{Ethanol \\xrightarrow{PCl_5} X \\xrightarrow{alc\\ KOH} Y \\xrightarrow[H_2O,\\Delta]{H_2SO_4,\\ Room\\ temp.} Z}$$\n\nthe product Z is,",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [
+   "pyq-2016-chemistry-018.png"
+  ],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-019",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 19,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Which of the following compound is most acidic ?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2016-chemistry-019.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-020",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 20,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Benzene carbaldehyde is reacted with concentrated NaOH solution to give the products A and B. The product A can be used food preservative and the product B is an aromatic hydroxy compound where OH gorup is linked to $sp^3$ hybridised carbon atom next to Benzene ring. The products A and B are respectively,",
+  "options": [
+   "Sodium benzoate and phenol",
+   "Sodium benzoate and phenyl methanol",
+   "Sodium benzoate and cresol",
+   "Sodium benzoate and picric acid"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-021",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 21,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The reaction which involves dichlorocarbene as an electrophile is,",
+  "options": [
+   "Reimer-Tiemann reaction",
+   "Kolbe's reaction",
+   "Friedel-Craft's acylation",
+   "Fittig's reaction."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-022",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 22,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Ethanol is converted into ethoxy ethane,",
+  "options": [
+   "by heating excess of ethanol with conc. $\\mathrm{H_2SO_4}$ at $140^\\circ\\mathrm{C}$.",
+   "by heating Ethanol with excess of conc. $\\mathrm{H_2SO_4}$ at 443 K.",
+   "by treating with conc. $\\mathrm{H_2SO_4}$ at room temperature.",
+   "by treating with conc. $\\mathrm{H_2SO_4}$ at 273 K."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-023",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 23,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "An organic compound $\\mathrm{X}$ is oxidised by using acidified $\\mathrm{K_2Cr_2O_7}$ solution. The product obtained reacts with phenyl hydrazine but does not answer silver mirror test. The compound $\\mathrm{X}$ is,",
+  "options": [
+   "2-propanol",
+   "Ethanal",
+   "Ethanol",
+   "$\\mathrm{CH_3CH_2CH_3}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-024",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 24,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Predict the product 'C' in the following series of reactions :\n\n$\\mathrm{CH_3-COOH}$ $\\xrightarrow{\\mathrm{PCl_5}}$ A $\\xrightarrow[\\mathrm{Anhyd\\ AlCl_3}]{\\mathrm{C_6H_6}}$ B $\\xrightarrow{\\mathrm{CH_3MgBr}}$ C",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [
+   "pyq-2016-chemistry-024.png"
+  ],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-025",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 25,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The number of oxygen atoms in 4.4 gm of $\\mathrm{CO_2}$ is,",
+  "options": [
+   "$1.2 \\times 10^{23}$",
+   "$6 \\times 10^{22}$",
+   "$6 \\times 10^{23}$",
+   "$12 \\times 10^{23}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-026",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 26,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "If the bond energies of H-H, Br-Br and H-Br are 433, 192 and 364 $\\mathrm{kJ\\,mol^{-1}}$ respectively, then $\\Delta H^\\circ$ for the reaction :\n\n$\\mathrm{H_{2(g)} + Br_{2(g)} \\rightarrow 2HBr_{(g)}}$ is",
+  "options": [
+   "$-261\\,\\mathrm{kJ}$",
+   "$+103\\,\\mathrm{kJ}$",
+   "$+261\\,\\mathrm{kJ}$",
+   "$-103\\,\\mathrm{kJ}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-027",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 27,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "In the reaction;\n\n$\\mathrm{Fe(OH)_{3(s)} \\rightleftharpoons Fe^{3+}_{(aq)} + 3OH^{-}_{(aq)}}$,\n\nif the concentration of $\\mathrm{OH^{-}}$ ions is decreased by $\\frac{1}{4}$ times, then the equilibrium concentration of $\\mathrm{Fe^{3+}}$ will increase by,",
+  "options": [
+   "8 times",
+   "16 times",
+   "64 times",
+   "4 times"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-028",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 28,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The correct statement regarding entropy is,",
+  "options": [
+   "At absolute zero temperature, entropy of a perfectly crystalline solid is zero.",
+   "At absolute zero temperature, the entropy of a perfectly crystalline substance is +Ve.",
+   "At absolute zero temperature, the entropy of all crystalline substances is zero.",
+   "At $0\\,^\\circ\\mathrm{C}$, the entropy of a perfect crystalline solid is zero."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-029",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 29,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Equilibrium constants $K_1$ and $K_2$ for the following equilibria\n\n(a) $\\mathrm{NO_{(g)} + \\frac{1}{2}O_{2(g)} \\rightleftharpoons NO_{2(g)}}$\n\n(b) $\\mathrm{2NO_{2(g)} \\rightleftharpoons 2NO_{(g)} + O_{2(g)}}$\n\nare related as :",
+  "options": [
+   "$K_1 = \\sqrt{K_2}$",
+   "$K_2 = \\frac{1}{K_1}$",
+   "$K_1 = 2K_2$",
+   "$K_2 = \\frac{1}{K_1^2}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-030",
+  "subject": "chemistry",
+  "chapter": "general-principles-and-processes-of-isolation-of-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 30,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Van-Arkel method of refining Zirconium involves,",
+  "options": [
+   "removing all oxygen and nitrogen impurities.",
+   "removing CO impurity",
+   "removing Hydrogen impurity",
+   "removing silica impurity"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-031",
+  "subject": "chemistry",
+  "chapter": "general-principles-and-processes-of-isolation-of-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 31,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The composition of 'copper matte' is,",
+  "options": [
+   "$\\mathrm{Cu_2S + FeS}$",
+   "$\\mathrm{Cu_2S + Cu_2O}$",
+   "$\\mathrm{Cu_2S + FeO}$",
+   "$\\mathrm{Cu_2O + FeS}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-032",
+  "subject": "chemistry",
+  "chapter": "general-principles-and-processes-of-isolation-of-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 32,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The complex formed when $\\mathrm{Al_2O_3}$ is leached from Bauxite using concentrated NaOH solution is,",
+  "options": [
+   "$\\mathrm{Na[Al(OH)_4]}$",
+   "$\\mathrm{NaAl_2O_4}$",
+   "$\\mathrm{Na_2[Al(OH)_3]}$",
+   "$\\mathrm{Na_2AlO_2}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-033",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-12",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 33,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The property which is not true about Fluorine is,",
+  "options": [
+   "Most of its reactions are exothermic.",
+   "It forms only one oxo acid.",
+   "Highest electronegativity.",
+   "High F-F bond dissociation enthalpy."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-034",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-12",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 34,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Which is true regarding nitrogen ?",
+  "options": [
+   "Less electronegative",
+   "Has low ionisation enthalpy",
+   "d-orbitals are available",
+   "Ability to form $p\\pi$ - $p\\pi$ bonds with itself"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-035",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 35,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The shape of $\\mathrm{XeF_6}$ is,",
+  "options": [
+   "Square planar",
+   "Distorted octahedral",
+   "Square pyrimidal",
+   "Pyramidal"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-036",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 36,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The number of isomers possible for the octahedral complex $\\mathrm{[CoCl_2(en)(NH_3)_2]^+}$ is,",
+  "options": [
+   "Two",
+   "Three",
+   "No isomer",
+   "Four isomers"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "key_confirmed",
+   "notes": "Transcription correct. [Co(AA)a2b2] has 3 geometrical isomers, one chiral, so 4 stereoisomers total; key's 'Four' counts optical isomers and is chemically valid."
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-037",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 37,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "$\\mathrm{CO}$ is a stronger ligand than $\\mathrm{Cl^-}$, because",
+  "options": [
+   "CO is a neutral molecule.",
+   "CO has $\\pi$-bonds.",
+   "CO is poisonous.",
+   "CO is more reactive."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-038",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 38,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The bivalent metal ion having maximum paramagnetic behaviour among the first transition series elements is,",
+  "options": [
+   "$\\mathrm{Mn^{2+}}$",
+   "$\\mathrm{Cu^{2+}}$",
+   "$\\mathrm{Sc^{2+}}$",
+   "$\\mathrm{Cu^{+}}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-039",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 39,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "When a brown compound of Mn (A) is treated with $\\mathrm{HCl}$, it gives a gas (B). The gas (B) taken in excess reacts with $\\mathrm{NH_3}$ to give an explosive compound (C).\n\nThe compounds A, B and C are;",
+  "options": [
+   "$\\mathrm{A = MnO_2,\\ B = Cl_2,\\ C = NCl_3}$",
+   "$\\mathrm{A = MnO,\\ B = Cl_2,\\ C = NH_4Cl}$",
+   "$\\mathrm{A = Mn_3O_4,\\ B = Cl_2,\\ C = NCl_3}$",
+   "$\\mathrm{A = MnO_3,\\ B = Cl_2,\\ C = NCl_2}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-040",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 40,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "$\\mathrm{Mn^{2+}}$ compounds are more stable than $\\mathrm{Fe^{2+}}$ compounds towards oxidation to their +3 state, because",
+  "options": [
+   "$\\mathrm{Mn^{2+}}$ is more stable with high $3^{rd}$ Ionisation energy.",
+   "$\\mathrm{Mn^{2+}}$ is bigger in size.",
+   "$\\mathrm{Mn^{2+}}$ has completely filled d-orbitals.",
+   "$\\mathrm{Mn^{2+}}$ does not exist."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-041",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 41,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Which of the following sequence is correct regarding field strength of ligands as per spectrochemical series ?",
+  "options": [
+   "$\\mathrm{SCN^- < F^- < CN^- < CO}$",
+   "$\\mathrm{F^- < SCN^- < CN^- < CO}$",
+   "$\\mathrm{CN^- < F^- < CO < SCN^-}$",
+   "$\\mathrm{SCN^- < CO < F^- < CN^-}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-042",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 42,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "As per IUPAC norms, the name of the complex $\\mathrm{[Co(en)_2(ONO)Cl]Cl}$ is",
+  "options": [
+   "Chlorido bis(ethane-1, 2 – diamine) nitro-o-cobalt (III) chloride.",
+   "Chloro bis(ethylene diamine) nitro-o-cobalt (III) chloride.",
+   "Chlorido di(ethylene diamine) nitro cobalt (III) chloride.",
+   "Chloro ethylene diamine nitro-o-cobalt (III) chloride."
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-043",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 43,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "In the following sequence of reactions ;\n\n$\\mathrm{A \\xrightarrow{Reduction} B \\xrightarrow{HNO_2} CH_3CH_2OH}$\n\nThe compound A is",
+  "options": [
+   "Propane nitrile",
+   "Ethane nitrile",
+   "$\\mathrm{CH_3NO_2}$",
+   "$\\mathrm{CH_3NC}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-044",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 44,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "An organic compound A on reduction gives compound B, which on reaction with trichloro methane and caustic potash forms C. The compound 'C' on catalytic reduction gives N-methyl benzenamine, the compound 'A' is,",
+  "options": [
+   "Nitrobenzene",
+   "Nitromethane",
+   "Methanamine",
+   "Benzenamine"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-045",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 45,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Which of the following gives positive Fehling's solution test ?",
+  "options": [
+   "Sucrose",
+   "Glucose",
+   "Fats",
+   "Protein"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-046",
+  "subject": "chemistry",
+  "chapter": "states-of-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 46,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A liquid can exist only,",
+  "options": [
+   "Between triple point and critical point.",
+   "At any temperature above melting point.",
+   "Between melting point and critical point.",
+   "Between boiling and melting points."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-047",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 47,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The energy of electron in the $n^{th}$ Bohr orbit of H-atom is",
+  "options": [
+   "$\\frac{-13.6}{n^2}\\,\\mathrm{eV}$",
+   "$\\frac{-13.6}{n}\\,\\mathrm{eV}$",
+   "$\\frac{-13.6}{n^4}\\,\\mathrm{eV}$",
+   "$\\frac{-13.6}{n^3}\\,\\mathrm{eV}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-048",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 48,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Consider the following sets of quantum numbers :\n\nWhich of the below setting is not permissible arrangement of electrons in an atom ?\n\n$n\\quad l\\quad m\\quad s$",
+  "options": [
+   "4, 0, 0, $-\\frac{1}{2}$",
+   "5, 3, 0, $+\\frac{1}{2}$",
+   "3, 2, -2, $-\\frac{1}{2}$",
+   "3, 2, -3, $+\\frac{1}{2}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-049",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 49,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The increasing order of bond order of $\\mathrm{O_2}$, $\\mathrm{O_2^+}$, $\\mathrm{O_2^-}$ and $\\mathrm{O_2^{--}}$ is",
+  "options": [
+   "$\\mathrm{O_2^+, O_2, O_2^-, O_2^{--}}$",
+   "$\\mathrm{O_2^{--}, O_2^-, O_2^+, O_2}$",
+   "$\\mathrm{O_2, O_2^+, O_2^-, O_2^{--}}$",
+   "$\\mathrm{O_2^{2-}, O_2^-, O_2, O_2^+}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-050",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 50,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "$\\mathrm{HCl}$ gas is covalent and $\\mathrm{NaCl}$ is an ionic compound. This is because",
+  "options": [
+   "Sodium is highly electro +Ve.",
+   "Hydrogen is a non-metal.",
+   "$\\mathrm{HCl}$ is a gas.",
+   "Electronegativity difference between H and $\\mathrm{Cl}$ is less than 2.1."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-051",
+  "subject": "chemistry",
+  "chapter": "polymers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 51,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Which of the following is not true ?",
+  "options": [
+   "In vulcanisation the rubber becomes harder and stronger.",
+   "Natural rubber has 'trans' configuration at every double bond.",
+   "Buna-S is a co-polymer of Butene and styrene.",
+   "Natural rubber is 1, 4-polymer of isoprene."
+  ],
+  "answer": 1,
+  "accepted": [
+   1,
+   2,
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-052",
+  "subject": "chemistry",
+  "chapter": "polymers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 52,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Which of the following is a polyamide ?",
+  "options": [
+   "Nylon-6, 6",
+   "Terylene",
+   "Polythene",
+   "Buna-S"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-053",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 53,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Which of the following is correct about H-bonding in DNA ?",
+  "options": [
+   "A – T, G – C",
+   "A – G, T – C",
+   "G – T, A – C",
+   "A – A, T – T"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-054",
+  "subject": "chemistry",
+  "chapter": "chemistry-in-everyday-life",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 54,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Which of the following is employed as Tranquilizer ?",
+  "options": [
+   "Equanil",
+   "Naproxen",
+   "Tetracyclin",
+   "Dettol"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-055",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 55,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Reactivity of order of halides for dehydrohalogenation is",
+  "options": [
+   "$\\mathrm{R-F > R-Cl > R-Br > R-I}$",
+   "$\\mathrm{R-I > R-Br > R-Cl > R-F}$",
+   "$\\mathrm{R-I > R-Cl > R-Br > R-F}$",
+   "$\\mathrm{R-F > R-I > R-Br > R-Cl}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-056",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 56,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Main axis of diatomic molecule is Z. The orbitals $p_x$ and $p_y$ overlap to form",
+  "options": [
+   "$\\pi$ - molecular orbital",
+   "$\\sigma$ - molecular orbital",
+   "$\\delta$ - molecular orbital",
+   "No bond is formed."
+  ],
+  "answer": 0,
+  "accepted": [
+   0,
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-057",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 57,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The hybridisation of C in diamond, graphite and ethyne is in the order",
+  "options": [
+   "$sp^3, sp, sp^2$",
+   "$sp^3, sp^2, sp$",
+   "$sp, sp^2, sp^3$",
+   "$sp^2, sp^3, sp$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-058",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 58,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A miscible mixture of $\\mathrm{C_6H_6 + CHCl_3}$ can be separated by",
+  "options": [
+   "Sublimation",
+   "Distillation",
+   "Filtration",
+   "Crystallisation"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-059",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 59,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "An organic compound contains C = 40%, H = 13.33% and N = 46.67%. Its emperical formula is",
+  "options": [
+   "$\\mathrm{C_2H_2N}$",
+   "$\\mathrm{C_3H_7N}$",
+   "$\\mathrm{CH_4N}$",
+   "$\\mathrm{CHN}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2016-chemistry-060",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2016",
+   "year": 2016,
+   "version": "A1",
+   "number": 60,
+   "file": "sources/pyq/2016/chemistry/2016-chemistry-question_paper-A1-educationobserver.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2016/chemistry/2016-chemistry-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Electrophile that participates in nitration of benzene is",
+  "options": [
+   "$\\mathrm{NO^+}$",
+   "$\\mathrm{NO_2^+}$",
+   "$\\mathrm{NO}$",
+   "$\\mathrm{NO_3^-}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

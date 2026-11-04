@@ -1030,7 +1030,7 @@
   "in_syllabus": true,
   "checks": {
    "key_official": true,
-   "blind_haiku": 3,
+   "blind_haiku": 0,
    "verify": "key_confirmed",
    "notes": "Transcription exact; initial solve misread X/Y; X lowest-rho steep rise = copper, Y high intercept small slope = nichrome, Z = semiconductor; matches key."
   }
@@ -1670,7 +1670,7 @@
   "in_syllabus": true,
   "checks": {
    "key_official": true,
-   "blind_haiku": 3,
+   "blind_haiku": 0,
    "verify": "key_confirmed",
    "notes": "Transcription exact; L1 (half lens) has power P so 'L1 is P/2' is the incorrect statement; matches key."
   }

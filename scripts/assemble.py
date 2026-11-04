@@ -9,7 +9,9 @@ Status rules:
 - mechanical failures (not 4 options, bad answer index, missing image, LaTeX that KaTeX rejects) -> flagged
 Duplicates across sources (same normalised stem + options): the PYQ copy wins, others are dropped.
 """
-import glob, hashlib, json, os, re, shutil, subprocess, unicodedata
+import glob, hashlib, json, os, re, shutil, subprocess, sys, unicodedata
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from latex_fix import fix as latex_fix  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 chapters = json.load(open(os.path.join(ROOT, "corpus/chapters.json")))
@@ -64,9 +66,15 @@ def main():
         official = bool(job.get("key_official"))
         subj = job["subject"]
         rows = []
+        from collections import Counter as _C
+        dupn = {k for k, c in _C(q["number"] for q in qs).items() if c > 1}
+        seen_n = {}
         for q in qs:
             n = str(q["number"])
             qid = f"{job['id']}-{int(n):03d}"
+            if q["number"] in dupn:  # e.g. comprehension sub-parts sharing one printed number
+                seen_n[n] = seen_n.get(n, 0) + 1
+                qid += "abcdefghij"[seen_n[n] - 1]
             k = key.get(n) or {}
             v = verify.get(n)
             s = solve.get(n) or {}
@@ -80,7 +88,9 @@ def main():
                 if cx.get("changes"):
                     checks["proofread_changes"] = cx["changes"]
             accepted = sorted(set(k.get("options") or []))
-            if k.get("grace"):
+            if q["number"] in dupn:
+                status, reason = "flagged", "several sub-questions share one printed number; key mapping ambiguous"
+            elif k.get("grace"):
                 status, reason = "dropped", "grace mark in key"
             elif not accepted:
                 status, reason = "flagged", "no key entry"
@@ -111,7 +121,7 @@ def main():
             src = {"type": job["type"], "name": job.get("name") or (f"KCET {job['year']}" if job["type"] == "pyq" else job.get("title", job["id"])),
                    "year": job.get("year", 0), "version": job.get("version", ""), "number": int(n),
                    "file": job["paper_pdf"], "page": q.get("page", 0), "key_file": (job.get("key_pdfs") or [""])[0]}
-            row = {"id": qid, "subject": subj, "chapter": chap, "source": src, "stem": q.get("stem", ""), "options": opts,
+            row = {"id": qid, "subject": subj, "chapter": chap, "source": src, "stem": latex_fix(q.get("stem", "")), "options": [latex_fix(o) for o in opts],
                    "answer": accepted[0] if accepted else -1, "accepted": accepted, "images": images, "status": status,
                    "in_syllabus": bool(chap and chapter_ok[subj][chap]["in_syllabus"]), "checks": checks}
             if reason:
@@ -143,7 +153,7 @@ def main():
         f.write("Flagged = hidden from practice until fixed. Disputed = live (official KEA key), but the AI checker disagreed.\n")
         f.write("Fix by editing the question's JSON in corpus/questions/ (stem/options/answer/status) and redeploying.\n\n")
         f.write("| Question | Status | Why | Source | Key | Checker |\n|---|---|---|---|---|---|\n")
-        for qid, status, reason, src, k, v in sorted(review):
+        for qid, status, reason, src, k, v in sorted(review, key=lambda r: r[0]):
             label = "disputed (live)" if status == "verified" else status
             note = (v or {}).get("note", "").replace("|", "/")
             f.write(f"| {qid} | {label} | {reason} | {src['file']} p.{src['page']} | {k.get('raw', '')} | {note} |\n")

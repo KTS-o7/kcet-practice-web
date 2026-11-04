@@ -99,6 +99,8 @@ Return the summary.`
 const results = await pipeline(
   jobs,
   async (j) => {
+    // j.start: 'reconcile' | 'solve' | 'verify' skips stages whose output files already exist on disk
+    if (j.start) return { skipped_extract: true }
     const [ea, eb, ka, kb] = await parallel([
       () => agent(extractPrompt(j, 'a'), { label: `extract-a:${j.id}`, phase: 'Extract', schema: EXTRACT_SCHEMA, model: 'haiku' }),
       () => agent(extractPrompt(j, 'b'), { label: `extract-b:${j.id}`, phase: 'Extract', schema: EXTRACT_SCHEMA, model: 'haiku' }),
@@ -108,8 +110,8 @@ const results = await pipeline(
     if (!ea || !eb || !ka || !kb) throw new Error(`${j.id}: an extraction agent failed`)
     return { ea, eb, ka, kb }
   },
-  async (prev, j) => ({ ...prev, recon: await agent(reconcilePrompt(j), { label: `reconcile:${j.id}`, phase: 'Reconcile', schema: RECON_SCHEMA, model: 'sonnet' }) }),
-  async (prev, j) => ({ ...prev, solve: await agent(solvePrompt(j), { label: `solve:${j.id}`, phase: 'Solve', schema: SOLVE_SCHEMA, model: 'haiku' }) }),
+  async (prev, j) => (j.start === 'solve' || j.start === 'verify') ? prev : ({ ...prev, recon: await agent(reconcilePrompt(j), { label: `reconcile:${j.id}`, phase: 'Reconcile', schema: RECON_SCHEMA, model: 'sonnet' }) }),
+  async (prev, j) => j.start === 'verify' ? prev : ({ ...prev, solve: await agent(solvePrompt(j), { label: `solve:${j.id}`, phase: 'Solve', schema: SOLVE_SCHEMA, model: 'haiku' }) }),
   async (prev, j) => {
     const verify = await agent(verifyPrompt(j), { label: `verify:${j.id}`, phase: 'Verify', schema: VERIFY_SCHEMA, model: 'sonnet' })
     log(`${j.id}: ${prev.recon?.questions ?? '?'} Qs, disputed ${verify?.disputed?.length ?? '?'}`)

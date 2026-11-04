@@ -1,4 +1,5 @@
 import katex from 'katex'
+import 'katex/contrib/mhchem'
 
 // Tiny renderer for question stems/options: paragraphs, line breaks, **bold**,
 // $inline$ and $$display$$ math. Everything that isn't math is HTML-escaped.

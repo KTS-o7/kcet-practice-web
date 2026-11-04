@@ -1,0 +1,679 @@
+[
+ {
+  "id": "tp-ncert-chem-12-ch14-001",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf"
+  },
+  "stem": "Glycogen is a branched chain polymer of $\\alpha$-D-glucose units in which chain is formed by C1—C4 glycosidic linkage whereas branching occurs by the formation of C1-C6 glycosidic linkage. Structure of glycogen is similar to ________.",
+  "options": [
+   "Amylose",
+   "Amylopectin",
+   "Cellulose",
+   "Glucose"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch14-002",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf"
+  },
+  "stem": "Which of the following polymer is stored in the liver of animals?",
+  "options": [
+   "Amylose",
+   "Cellulose",
+   "Amylopectin",
+   "Glycogen"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch14-003",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf"
+  },
+  "stem": "Sucrose (cane sugar) is a disaccharide. One molecule of sucrose on hydrolysis gives ________.",
+  "options": [
+   "2 molecules of glucose",
+   "2 molecules of glucose + 1 molecule of fructose",
+   "1 molecule of glucose + 1 molecule of fructose",
+   "2 molecules of fructose"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch14-004",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf"
+  },
+  "stem": "Which of the following pairs represents anomers?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch14-004.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch14-005",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf"
+  },
+  "stem": "Proteins are found to have two different types of secondary structures viz. $\\alpha$-helix and $\\beta$-pleated sheet structure. $\\alpha$-helix structure of protein is stabilised by :",
+  "options": [
+   "Peptide bonds",
+   "van der Waals forces",
+   "Hydrogen bonds",
+   "Dipole-dipole interactions"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch14-006",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf"
+  },
+  "stem": "In disaccharides, if the reducing groups of monosaccharides i.e. aldehydic or ketonic groups are bonded, these are non-reducing sugars. Which of the following disaccharide is a non-reducing sugar?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch14-006.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch14-007",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 7,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf"
+  },
+  "stem": "Which of the following acids is a vitamin?",
+  "options": [
+   "Aspartic acid",
+   "Ascorbic acid",
+   "Adipic acid",
+   "Saccharic acid"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch14-008",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 8,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf"
+  },
+  "stem": "Dinucleotide is obtained by joining two nucleotides together by phosphodiester linkage. Between which carbon atoms of pentose sugars of nucleotides are these linkages present?",
+  "options": [
+   "$5'$ and $3'$",
+   "$1'$ and $5'$",
+   "$5'$ and $5'$",
+   "$3'$ and $3'$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch14-009",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 9,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf"
+  },
+  "stem": "Nucleic acids are the polymers of ______________.",
+  "options": [
+   "Nucleosides",
+   "Nucleotides",
+   "Bases",
+   "Sugars"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch14-010",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 10,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf"
+  },
+  "stem": "Which of the following statements is **not** true about glucose?",
+  "options": [
+   "It is an aldohexose.",
+   "On heating with HI it forms $n$-hexane.",
+   "It is present in furanose form.",
+   "It does not give 2,4-DNP test."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch14-011",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 11,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf"
+  },
+  "stem": "Each polypeptide in a protein has aminoacids linked with each other in a specific sequence. This sequence of amino acids is said to be ____________.",
+  "options": [
+   "primary structure of proteins.",
+   "secondary structure of proteins.",
+   "tertiary structure of proteins.",
+   "quaternary structure of proteins."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch14-012",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 12,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf"
+  },
+  "stem": "DNA and RNA contain four bases each. Which of the following bases is **not** present in RNA?",
+  "options": [
+   "Adenine",
+   "Uracil",
+   "Thymine",
+   "Cytosine"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch14-013",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 13,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf"
+  },
+  "stem": "Which of the following B group vitamins can be stored in our body?",
+  "options": [
+   "Vitamin $\\mathrm{B_{1}}$",
+   "Vitamin $\\mathrm{B_{2}}$",
+   "Vitamin $\\mathrm{B_{6}}$",
+   "Vitamin $\\mathrm{B_{12}}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch14-014",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 14,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf"
+  },
+  "stem": "Which of the following bases is **not** present in DNA?",
+  "options": [
+   "Adenine",
+   "Thymine",
+   "Cytosine",
+   "Uracil"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch14-015",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 15,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf"
+  },
+  "stem": "Three cyclic structures of monosaccharides are given below which of these are anomers.",
+  "options": [
+   "I and II",
+   "II and III",
+   "I and III",
+   "III is anomer of I and II"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch14-015.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "key_confirmed",
+   "notes": "I and II differ only at anomeric C1; matches key after solving blind."
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch14-016",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 16,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf"
+  },
+  "stem": "Which of the following reactions of glucose can be explained only by its cyclic structure?",
+  "options": [
+   "Glucose forms pentaacetate.",
+   "Glucose reacts with hydroxylamine to form an oxime.",
+   "Pentaacetate of glucose does not react with hydroxylamine.",
+   "Glucose is oxidised by nitric acid to gluconic acid."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch14-017",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 17,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf"
+  },
+  "stem": "Optical rotations of some compounds along with their structures are given below which of them have D configuration.",
+  "options": [
+   "I, II, III",
+   "II, III",
+   "I, II",
+   "III"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch14-017.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch14-018",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 18,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf"
+  },
+  "stem": "Structure of a disaccharide formed by glucose and fructose is given below. Identify anomeric carbon atoms in monosaccharide units.",
+  "options": [
+   "‘a’ carbon of glucose and ‘a’ carbon of fructose.",
+   "‘a’ carbon of glucose and ‘e’ carbon of fructose.",
+   "‘a’ carbon of glucose and ‘b’ carbon of fructose.",
+   "‘f’ carbon of glucose and ‘f’ carbon of fructose."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch14-018.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch14-019",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 19,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep514.pdf"
+  },
+  "stem": "Three structures are given below in which two glucose units are linked. Which of these linkages between glucose units are between C1 and C4 and which linkages are between C1 and C6?",
+  "options": [
+   "(A) is between C1 and C4, (B) and (C) are between C1 and C6",
+   "(A) and (B) are between C1 and C4, (C) is between C1 and C6",
+   "(A) and (C) are between C1 and C4, (B) is between C1 and C6",
+   "(A) and (C) are between C1 and C6, (B) is between C1 and C4"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch14-019.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

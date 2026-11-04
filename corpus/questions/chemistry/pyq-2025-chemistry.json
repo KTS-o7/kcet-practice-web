@@ -2,7 +2,7 @@
  {
   "id": "pyq-2025-chemistry-001",
   "subject": "chemistry",
-  "chapter": "solutions",
+  "chapter": "some-basic-concepts-of-chemistry",
   "source": {
    "type": "pyq",
    "name": "KCET 2025",
@@ -668,7 +668,7 @@
  {
   "id": "pyq-2025-chemistry-020",
   "subject": "chemistry",
-  "chapter": "the-p-block-elements-11",
+  "chapter": "equilibrium",
   "source": {
    "type": "pyq",
    "name": "KCET 2025",
@@ -692,7 +692,7 @@
   ],
   "images": [],
   "status": "verified",
-  "in_syllabus": false,
+  "in_syllabus": true,
   "checks": {
    "key_official": true,
    "blind_haiku": 2,
@@ -837,7 +837,7 @@
   "in_syllabus": true,
   "checks": {
    "key_official": true,
-   "blind_haiku": 0,
+   "blind_haiku": 3,
    "verify": "key_confirmed",
    "notes": "Transcription matches; tie {1,3,5} so double bonds get lowest locants: hexa-1,3-dien-5-yne (option 4)."
   }
@@ -845,7 +845,7 @@
  {
   "id": "pyq-2025-chemistry-025",
   "subject": "chemistry",
-  "chapter": "hydrocarbons",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
   "source": {
    "type": "pyq",
    "name": "KCET 2025",
@@ -2073,7 +2073,7 @@
   "in_syllabus": true,
   "checks": {
    "key_official": true,
-   "blind_haiku": 0,
+   "blind_haiku": 1,
    "verify": "key_confirmed",
    "notes": "Transcription matches; reverse Ea = 215 - 90 = 125 kJ (option 2)."
   }

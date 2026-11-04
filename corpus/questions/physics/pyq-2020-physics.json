@@ -1,0 +1,2139 @@
+[
+ {
+  "id": "pyq-2020-physics-001",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 1,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The value of acceleration due to gravity at a height of 10 km from the surface of earth is $x$. At what depth inside the earth is the value of the acceleration due to gravity has the same value $x$ ?",
+  "options": [
+   "5 km",
+   "20 km",
+   "10 km",
+   "15 km"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-002",
+  "subject": "physics",
+  "chapter": "mechanical-properties-of-solids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 2,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Young's modulus of a perfect rigid body is",
+  "options": [
+   "zero",
+   "unity",
+   "infinity",
+   "between zero and unity"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-003",
+  "subject": "physics",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 3,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A wheel starting from rest gains an angular velocity of 10 rad/s after uniformly accelerated for 5 sec. The total angle through which it has turned is",
+  "options": [
+   "$25\\,\\mathrm{rad}$",
+   "$100\\,\\mathrm{rad}$",
+   "$25\\pi\\,\\mathrm{rad}$",
+   "$50\\pi\\,\\mathrm{rad}$ about a vertical axis"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-004",
+  "subject": "physics",
+  "chapter": "mechanical-properties-of-fluids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 4,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Iceberg floats in water with part of it submerged. What is the fraction of the volume of iceberg submerged if the density of ice is $\\rho_i = 0.917\\ \\mathrm{g\\,cm^{-3}}$ ?",
+  "options": [
+   "0.917",
+   "1",
+   "0.458",
+   "0"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-005",
+  "subject": "physics",
+  "chapter": "thermal-properties-of-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 5,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A sphere, a cube and a thin circular plate all of same material and same mass initially heated to same high temperature are allowed to cool down under similar conditions. Then the",
+  "options": [
+   "plate will cool the fastest and cube the slowest.",
+   "sphere will cool the fastest and cube the slowest.",
+   "plate will cool the fastest and sphere the slowest.",
+   "cube will cool the fastest and plate the slowest."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-006",
+  "subject": "physics",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 6,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "In an adiabatic expansion of an ideal gas the product of pressure and volume.",
+  "options": [
+   "Decreases",
+   "Increases",
+   "Remains constant",
+   "At first increases and then decreases"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-007",
+  "subject": "physics",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 7,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A certain amount of heat energy is supplied to a monoatomic ideal gas which expands at constant pressure. What fraction of the heat energy is converted into work ?",
+  "options": [
+   "1",
+   "$\\frac{2}{3}$",
+   "$\\frac{2}{5}$",
+   "$\\frac{5}{7}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-008",
+  "subject": "physics",
+  "chapter": "oscillations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 8,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A tray of mass $12\\ \\mathrm{kg}$ is supported by two identical springs as shown in figure. When the tray is pressed down slightly and then released, it executes SHM with a time period of $1.5\\ \\mathrm{s}$. The spring constant of each spring is",
+  "options": [
+   "$50\\ \\mathrm{N\\,m^{-1}}$",
+   "0",
+   "$105\\ \\mathrm{N\\,m^{-1}}$",
+   "$\\infty$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2020-physics-008.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-009",
+  "subject": "physics",
+  "chapter": "waves",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 9,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A train whistling at constant frequency 'n' is moving towards a station at a constant speed V. The train goes past a stationary observer on the station. The frequency 'n' of the sound as heard by the observer is plotted as a function of time 't'. Identify the correct curve",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2020-physics-009.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-010",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 10,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A point charge 'q' is placed at the corner of a cube of side 'a' as shown in the figure. What is the electric flux through the face ABCD ?",
+  "options": [
+   "0",
+   "$\\frac{q}{24\\varepsilon_0}$",
+   "$\\frac{q}{6\\varepsilon_0}$",
+   "$\\frac{q}{72\\varepsilon_0}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2020-physics-010.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-011",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 11,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The electric field lines on the left have twice the separation on those on the right as shown in figure. If the magnitude of the field at A is $40\\ \\mathrm{V\\,m^{-1}}$, what is the force on $20\\ \\mu\\mathrm{C}$ charge kept at B ?",
+  "options": [
+   "$4\\times10^{-4}\\ \\mathrm{V\\,m^{-1}}$",
+   "$8\\times10^{-4}\\ \\mathrm{V\\,m^{-1}}$",
+   "$16\\times10^{-4}\\ \\mathrm{V\\,m^{-1}}$",
+   "$1\\times10^{-4}\\ \\mathrm{V\\,m^{-1}}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2020-physics-011.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-012",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 12,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "An infinitely long thin straight wire has uniform charge density of $\\frac{1}{4}\\times10^{-2}\\ \\mathrm{cm^{-1}}$. What is the magnitude of electric field at a distance 20 cm from the axis of the wire ?",
+  "options": [
+   "$1.12\\times10^{8}\\ \\mathrm{NC^{-1}}$",
+   "$4.5\\times10^{8}\\ \\mathrm{NC^{-1}}$",
+   "$2.25\\times10^{8}\\ \\mathrm{NC^{-1}}$",
+   "$9\\times10^{8}\\ \\mathrm{NC^{-1}}$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2020-physics-013",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 13,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A dipole of dipole moment 'P' and moment of inertia I is placed in a uniform electric field $\\vec{E}$. If it is displaced slightly from its stable equilibrium position, the period of oscillation of dipole is",
+  "options": [
+   "$\\sqrt{\\frac{PE}{I}}$",
+   "$2\\pi\\sqrt{\\frac{I}{PE}}$",
+   "$\\frac{1}{2\\pi}\\sqrt{\\frac{PE}{I}}$",
+   "$\\pi\\sqrt{\\frac{I}{PE}}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-014",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 14,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The difference between equivalent capacitances of two identical capacitors connected in parallel to that in series is $6\\,\\mu\\mathrm{F}$. The value of capacitance of each capacitor is",
+  "options": [
+   "$2\\,\\mu\\mathrm{F}$",
+   "$3\\,\\mu\\mathrm{F}$",
+   "$4\\,\\mu\\mathrm{F}$",
+   "$6\\,\\mu\\mathrm{F}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-015",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 15,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Figure shows three points A, B and C in a region of uniform electric field $\\vec{E}$. The line AB is perpendicular and BC is parallel to the field lines. Then which of the following holds good ? ($V_A$, $V_B$ and $V_C$ represent the electric potential at points A, B and C respectively)",
+  "options": [
+   "$V_A = V_B = V_C$",
+   "$V_A = V_B > V_C$",
+   "$V_A = V_B < V_C$",
+   "$V_A > V_B = V_C$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2020-physics-015.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-016",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 16,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "When a soap bubble is charged ?",
+  "options": [
+   "Its radius increases.",
+   "Its radius decreases.",
+   "The radius remains the same.",
+   "Its radius may increase or decrease."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-017",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 17,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A hot filament liberates an electron with zero initial velocity. The anode potential is $1200\\ \\mathrm{V}$. The speed of the electron when it strikes the anode is",
+  "options": [
+   "$1.5\\times10^{5}\\ \\mathrm{ms^{-1}}$",
+   "$2.5\\times10^{6}\\ \\mathrm{ms^{-1}}$",
+   "$2.1\\times10^{7}\\ \\mathrm{ms^{-1}}$",
+   "$2.5\\times10^{8}\\ \\mathrm{ms^{-1}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-018",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 18,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A metal rod of length 10 cm and a rectangular cross-section of $1\\,\\mathrm{cm}\\times\\frac{1}{2}\\,\\mathrm{cm}$ is connected to a battery across opposite faces. The resistance will be",
+  "options": [
+   "maximum when the battery is connected across $1\\,\\mathrm{cm}\\times\\frac{1}{2}\\,\\mathrm{cm}$ faces.",
+   "maximum when the battery is connected across $10\\,\\mathrm{cm}\\times\\frac{1}{2}\\,\\mathrm{cm}$ faces.",
+   "maximum when the battery is connected across $10\\,\\mathrm{cm}\\times1\\,\\mathrm{cm}$ faces.",
+   "same irrespective of the three faces."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-019",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 19,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A car has a fresh storage battery of e.m.f. $12\\ \\mathrm{V}$ and internal resistance $2\\times10^{-2}\\ \\Omega$. If the starter motor draws a current of $80\\ \\mathrm{A}$. Then the terminal voltage when the starter is on is",
+  "options": [
+   "$12\\ \\mathrm{V}$",
+   "$8.4\\ \\mathrm{V}$",
+   "$10.4\\ \\mathrm{V}$",
+   "$9.3\\ \\mathrm{V}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-020",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 20,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A potentiometer has a uniform wire of length $5\\ \\mathrm{m}$. A battery of emf $10\\ \\mathrm{V}$ and negligible internal resistance is connected between its ends. A secondary cell connected to the circuit gives balancing length at $200\\ \\mathrm{cm}$. The emf of the secondary cell is",
+  "options": [
+   "$4\\ \\mathrm{V}$",
+   "$6\\ \\mathrm{V}$",
+   "$2\\ \\mathrm{V}$",
+   "$8\\ \\mathrm{V}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-021",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 21,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The colour code for a carbon resistor of resistance $0.28\\ \\mathrm{k\\Omega}\\pm10\\%$ is",
+  "options": [
+   "Red, Grey, Brown, Silver",
+   "Red, Green, Brown, Silver",
+   "Red, Grey, Silver, Silver",
+   "Red, Green, Silver"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-022",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 22,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Each resistance in the given cubical network has resistance of $1\\ \\Omega$ and equivalent resistance between A and B is",
+  "options": [
+   "$\\frac{5}{6}\\,\\Omega$",
+   "$\\frac{6}{5}\\,\\Omega$",
+   "$\\frac{5}{12}\\,\\Omega$",
+   "$\\frac{12}{5}\\,\\Omega$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2020-physics-022.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-023",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 23,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "I-V characteristic of a copper wire of length L and area of cross-section A is shown in figure. The slope of the curve becomes",
+  "options": [
+   "More if experiment is performed at higher temperature.",
+   "More if a wire of steel of same dimension is used.",
+   "Less if the area of the wire is increased.",
+   "Less if the length of the wire is increased."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2020-physics-023.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-024",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 24,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "In the given figure, the magnetic field at 'O'.",
+  "options": [
+   "$\\frac{3}{4}\\frac{\\mu_0 I}{r}+\\frac{\\mu_0 I}{4\\pi r}$",
+   "$\\frac{3}{10}\\frac{\\mu_0 I}{r}-\\frac{\\mu_0 I}{4\\pi r}$",
+   "$\\frac{3}{8}\\frac{\\mu_0 I}{r}+\\frac{\\mu_0 I}{4\\pi r}$",
+   "$\\frac{3}{8}\\frac{\\mu_0 I}{r}-\\frac{\\mu_0 I}{4\\pi r}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2020-physics-024.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-025",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 25,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The magnetic field at the origin due to a current element $i\\,\\vec{dl}$ placed at a point with vector position $\\vec{r}$ is",
+  "options": [
+   "$\\frac{\\mu_0 i}{4\\pi}\\frac{\\vec{dl}\\times\\vec{r}}{r^3}$",
+   "$\\frac{\\mu_0 i}{4\\pi}\\frac{\\vec{r}\\times\\vec{dl}}{r^3}$",
+   "$\\frac{\\mu_0 i}{4\\pi}\\frac{\\vec{dl}\\times\\vec{r}}{r^2}$",
+   "$\\frac{\\mu_0 i}{4\\pi}\\frac{\\vec{r}\\times\\vec{dl}}{r^2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-026",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 26,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A long cylindrical wire of radius R carries a uniform current I flowing through it. The variation of magnetic field with distance 'r' from the axis of the wire is shown by",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2020-physics-026.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-027",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 27,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A cyclotron is used to accelerate protons ($^{1}_{1}\\mathrm{H}$), Deuterons ($^{2}_{1}\\mathrm{H}$) and $\\alpha$-particles ($^{4}_{2}\\mathrm{He}$). While exiting under similar conditions, the minimum K.E. is gained by",
+  "options": [
+   "$\\alpha$-particle",
+   "proton",
+   "deuteron",
+   "same for all"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-028",
+  "subject": "physics",
+  "chapter": "magnetism-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 28,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A paramagnetic sample shows a net magnetization of $8\\ \\mathrm{Am^{-1}}$ when placed in an external magnetic field of $0.6\\ \\mathrm{T}$ at a temperature of $4\\ \\mathrm{K}$. When the same sample is placed in an external magnetic field of $0.2\\ \\mathrm{T}$ at a temperature of $16\\ \\mathrm{K}$. The magnetization will be",
+  "options": [
+   "$\\frac{32}{3}\\ \\mathrm{Am^{-1}}$",
+   "$\\frac{2}{3}\\ \\mathrm{Am^{-1}}$",
+   "$6\\ \\mathrm{Am^{-1}}$",
+   "$2.4\\ \\mathrm{Am^{-1}}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-029",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 29,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The ratio of magnetic field at the centre of a current carrying circular coil to its magnetic moment is 'x'. If the current and the radius both are doubled. The new ratio will become",
+  "options": [
+   "$2x$",
+   "$4x$",
+   "$\\frac{x}{4}$",
+   "$\\frac{x}{8}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-030",
+  "subject": "physics",
+  "chapter": "magnetism-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 30,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "In a permanent magnet at room temperature",
+  "options": [
+   "Magnetic moment of each molecule is zero.",
+   "The individual molecules have non-zero magnetic moment which are all perfectly aligned.",
+   "Domains are partially aligned.",
+   "Domains are all perfectly aligned."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "key_confirmed",
+   "notes": "Transcription matches page 11; my blind answer (domains partially aligned) agrees with the key."
+  }
+ },
+ {
+  "id": "pyq-2020-physics-031",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 31,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A rod of length $2\\ \\mathrm{m}$ slides with a speed of $5\\ \\mathrm{ms^{-1}}$ on a rectangular conducting frame as shown in figure. There exists a uniform magnetic field of $0.04\\ \\mathrm{T}$ perpendicular to the plane of the figure. If the resistance of the rod is $3\\ \\Omega$. The current through the rod is",
+  "options": [
+   "$75\\ \\mathrm{mA}$",
+   "$133\\ \\mathrm{mA}$",
+   "$0.75\\ \\mathrm{A}$",
+   "$1.33\\ \\mathrm{A}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2020-physics-031.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-032",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 32,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The current in a coil of inductance $0.2\\ \\mathrm{H}$ changes from $5\\ \\mathrm{A}$ to $2\\ \\mathrm{A}$ in $0.5\\ \\mathrm{sec}$. The magnitude of the average induced emf in the coil is",
+  "options": [
+   "$0.6\\ \\mathrm{V}$",
+   "$1.2\\ \\mathrm{V}$",
+   "$30\\ \\mathrm{V}$",
+   "$0.3\\ \\mathrm{V}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-033",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 33,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "In the given circuit the peak voltages across C, L and R are $30\\ \\mathrm{V}$, $110\\ \\mathrm{V}$ and $60\\ \\mathrm{V}$ respectively. The rms value of the applied voltage is",
+  "options": [
+   "$100\\ \\mathrm{V}$",
+   "$200\\ \\mathrm{V}$",
+   "$70.7\\ \\mathrm{V}$",
+   "$141\\ \\mathrm{V}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2020-physics-033.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-034",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 34,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The power factor of R-L circuit is $\\frac{1}{\\sqrt{3}}$. If the inductive reactance is $2\\ \\Omega$. The value of resistance is",
+  "options": [
+   "$2\\ \\Omega$",
+   "$\\sqrt{2}\\ \\Omega$",
+   "$0.5\\ \\Omega$",
+   "$\\frac{1}{\\sqrt{2}}\\ \\Omega$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-035",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 35,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "In the given circuit, the resonant frequency is",
+  "options": [
+   "$15.92\\ \\mathrm{Hz}$",
+   "$159.2\\ \\mathrm{Hz}$",
+   "$1592\\ \\mathrm{Hz}$",
+   "$15910\\ \\mathrm{Hz}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2020-physics-035.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-036",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 36,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A light beam of intensity $20\\ \\mathrm{W/cm^{2}}$ is incident normally on a perfectly reflecting surface of sides $25\\ \\mathrm{cm}\\times15\\ \\mathrm{cm}$. The momentum imparted to the surface by the light per second is",
+  "options": [
+   "$2\\times10^{-5}\\ \\mathrm{kg\\,m\\,s^{-1}}$",
+   "$1\\times10^{-5}\\ \\mathrm{kg\\,m\\,s^{-1}}$",
+   "$5\\times10^{-5}\\ \\mathrm{kg\\,m\\,s^{-1}}$",
+   "$1.2\\times10^{-5}\\ \\mathrm{kg\\,m\\,s^{-1}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-037",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 37,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "An object approaches a convergent lens from the left of the lens with a uniform speed 5 m/s and stops at the focus, the image",
+  "options": [
+   "moves away from the lens with an uniform speed 5 m/s.",
+   "moves away from the lens with an uniform acceleration.",
+   "moves away from the lens with a non-uniform acceleration.",
+   "moves towards the lens with a non-uniform acceleration."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-038",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 38,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The refracting angle of a prism is $A$ and refractive index of material of prism is $\\cot\\frac{A}{2}$. The angle of minimum deviation is",
+  "options": [
+   "$180^\\circ-3A$",
+   "$180^\\circ+2A$",
+   "$90^\\circ-A$",
+   "$180^\\circ-2A$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-039",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 39,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The following figure shows a beam of light converging at point P. When a concave lens of focal length 16 cm is introduced in the path of the beam at a place shown by dotted line such that OP becomes the axis of the lens, the beam converges at a distance x from the lens. The value of x will be equal to",
+  "options": [
+   "$12\\ \\mathrm{cm}$",
+   "$24\\ \\mathrm{cm}$",
+   "$36\\ \\mathrm{cm}$",
+   "$48\\ \\mathrm{cm}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2020-physics-039.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-040",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 40,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Three polaroid sheets $P_1$, $P_2$ and $P_3$ are kept parallel to each other such that the angle between pass axes of $P_1$ and $P_2$ is $45^\\circ$ and that between $P_2$ and $P_3$ is $45^\\circ$. If unpolarised beam of light of intensity $128\\ \\mathrm{W\\,m^{-2}}$ is incident on $P_1$. What is the intensity of light coming out of $P_3$ ?",
+  "options": [
+   "$128\\ \\mathrm{W\\,m^{-2}}$",
+   "0",
+   "$16\\ \\mathrm{W\\,m^{-2}}$",
+   "$64\\ \\mathrm{W\\,m^{-2}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-041",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 41,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Two poles are separated by a distance of $3.14\\ \\mathrm{m}$. The resolving power of human eye is $1$ minute of an arc. The maximum distance from which he can identify the two poles distinctly is",
+  "options": [
+   "$10.8\\ \\mathrm{km}$",
+   "$5.4\\ \\mathrm{km}$",
+   "$188\\ \\mathrm{m}$",
+   "$376\\ \\mathrm{m}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-042",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 42,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "In Young's Double Slit Experiment, the distance between the slits and the screen is $1.2\\ \\mathrm{m}$ and the distance between the two slits is $2.4\\ \\mathrm{mm}$. If a thin transparent mica sheet of thickness $1\\ \\mu\\mathrm{m}$ and R.I. $1.5$ is introduced between one of the interfering beams, the shift in the position of central bright fringe is",
+  "options": [
+   "$2\\ \\mathrm{mm}$",
+   "$0.5\\ \\mathrm{mm}$",
+   "$0.125\\ \\mathrm{mm}$",
+   "$0.25\\ \\mathrm{mm}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-043",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 43,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The de-Broglie wavelength associated with electron of hydrogen atom in this ground state is",
+  "options": [
+   "0.3 Å",
+   "3.3 Å",
+   "6.26 Å",
+   "10 Å"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-044",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 44,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The following graph represents the variation of photo current with anode potential for a metal surface. Here $I_1$, $I_2$ and $I_3$ represents intensities and $\\gamma_1$, $\\gamma_2$, $\\gamma_3$ represent frequency for curves 1, 2 and 3 respectively, then",
+  "options": [
+   "$\\gamma_1 = \\gamma_2$ and $I_1 \\neq I_2$",
+   "$\\gamma_1 = \\gamma_3$ and $I_1 = I_3$",
+   "$\\gamma_1 = \\gamma_2$ and $I_1 = I_2$",
+   "$\\gamma_2 = \\gamma_3$ and $I_1 = I_3$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2020-physics-044.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-045",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 45,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "The period of revolution of an electron revolving in $n^{th}$ orbit of H-atom is proportional to",
+  "options": [
+   "$n^2$",
+   "$\\frac{1}{n}$",
+   "$n^3$",
+   "Independent of n"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-046",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 46,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Angular momentum of an electron in hydrogen atom is $\\frac{3h}{2\\pi}$ ($h$ is the Planck's constant). The K.E. of the electron is",
+  "options": [
+   "$4.35\\ \\mathrm{eV}$",
+   "$1.51\\ \\mathrm{eV}$",
+   "$3.4\\ \\mathrm{eV}$",
+   "$6.8\\ \\mathrm{eV}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-047",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 47,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A beam of fast moving alpha particles were directed towards a thin film of gold. The parts A, B and C of the transmitted and reflected beams corresponding to the incident parts A, B and C of the beam are shown in the adjoing diagram. The number of alpha particles in",
+  "options": [
+   "B' will be minimum and in C' maximum",
+   "A' will be maximum and in C' minimum",
+   "A' will be minimum and in B' maximum",
+   "C' will be minimum and in B' maximum"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [
+   "pyq-2020-physics-047.png"
+  ],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2020-physics-048",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 48,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Two protons are kept at a separation of $10\\ \\mathrm{nm}$. Let $F_n$ and $F_e$ be the nuclear force and the electromagnetic force between them",
+  "options": [
+   "$F_e = F_n$",
+   "$F_e \\gg F_n$",
+   "$F_e \\ll F_n$",
+   "$F_e$ and $F_n$ differ only slightly"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "duplicate of pyq-2019-physics-020"
+  }
+ },
+ {
+  "id": "pyq-2020-physics-049",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 49,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "During a $\\beta^{-}$ decay",
+  "options": [
+   "an atomic electron is ejected.",
+   "an electron which is already present within the nucleus is ejected.",
+   "A neutron in the nucleus decays emitting an electron.",
+   "A proton in the nucleus decays emitting an electron."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-050",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 50,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A radio-active element has half-life of 15 years. What is the fraction that will decay in 30 years ?",
+  "options": [
+   "0.25",
+   "0.5",
+   "0.75",
+   "0.85"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-051",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 51,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 19,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A 220 V A.C. supply is connected between points A and B as shown in figure what will be the potential difference V across the capacitor ?",
+  "options": [
+   "$220\\ \\mathrm{V}$",
+   "$110\\ \\mathrm{V}$",
+   "0",
+   "$220\\sqrt{2}\\ \\mathrm{V}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2020-physics-051.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-052",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 52,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 19,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "In the following circuit what are P and Q :",
+  "options": [
+   "$P=1,\\ Q=0$",
+   "$P=0,\\ Q=1$",
+   "$P=0,\\ Q=0$",
+   "$P=1,\\ Q=1$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2020-physics-052.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-053",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 53,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 19,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A positive hole in a semiconductor is",
+  "options": [
+   "an anti-particle of electron.",
+   "a vacancy created when an electron leaves a covalent bond.",
+   "absence of free electrons.",
+   "an artificially created particle."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-054",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 54,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 19,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Two long straight parallel wires are a distance $2\\,d$ apart. They carry steady equal currents flowing out of the plane of the paper. The variation of magnetic field B along the line $xx'$ is given by",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2020-physics-054.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-055",
+  "subject": "physics",
+  "chapter": "units-and-measurement",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 55,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 21,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A cylindrical wire has a mass $(0.3 \\pm 0.003)\\ \\mathrm{g}$, radius $(0.5 \\pm 0.005)\\ \\mathrm{mm}$ and length $(6 \\pm 0.06)\\ \\mathrm{cm}$. The maximum percentage error in the measurement of its density is",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-056",
+  "subject": "physics",
+  "chapter": "motion-in-a-straight-line",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 56,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 21,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "At a metro station, a girl walks up a stationary escalator in 20 sec. If she remains stationary on the escalator, then the escalator take her up in 30 sec. The time taken by her to walk up on the moving escalator will be",
+  "options": [
+   "$25\\ \\mathrm{sec}$",
+   "$60\\ \\mathrm{sec}$",
+   "$12\\ \\mathrm{sec}$",
+   "$10\\ \\mathrm{sec}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-057",
+  "subject": "physics",
+  "chapter": "motion-in-a-plane",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 57,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 21,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "Rain is falling vertically with a speed of $12\\ \\mathrm{ms^{-1}}$. A woman rides a bicycles with a speed of $12\\ \\mathrm{ms^{-1}}$ in east to west direction. What is the direction in which she should hold her umbrella ?",
+  "options": [
+   "$30^\\circ$ towards East",
+   "$45^\\circ$ towards East",
+   "$30^\\circ$ towards West",
+   "$45^\\circ$ towards West"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-058",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 58,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 21,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "One end of a string of length '$l$' is connected to a particle of mass '$m$' and the other to a small peg on a smooth horizontal table. If the particle moves in a circle with speed '$v$', the net force on the particle (directed towards the centre) is : (T is the tension in the string)",
+  "options": [
+   "$T$",
+   "$T-\\frac{mv^2}{l}$",
+   "$T+\\frac{mv^2}{l}$",
+   "0"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-059",
+  "subject": "physics",
+  "chapter": "work-energy-and-power",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 59,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 21,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A body is initially at rest. It undergoes one-dimensional motion with constant acceleration. The power delivered to it at time 't' is proportional to",
+  "options": [
+   "$t^{1/2}$",
+   "$t$",
+   "$t^{3/2}$",
+   "$t^{2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2020-physics-060",
+  "subject": "physics",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2020",
+   "year": 2020,
+   "version": "A1",
+   "number": 60,
+   "file": "sources/pyq/2020/physics/2020-physics-question_paper-A1-aglasem.pdf",
+   "page": 21,
+   "key_file": "sources/pyq/2020/physics/2020-physics-answer_key_final-all-kea.pdf"
+  },
+  "stem": "A thin uniform rectangular plate of mass $2\\ \\mathrm{kg}$ is placed in X-Y plane as shown in figure. The moment of inertia about $x$-axis is $I_x = 0.2\\ \\mathrm{kg\\,m^2}$ and the moment of inertia about $y$-axis is $I_y = 0.3\\ \\mathrm{kg\\,m^2}$. The radius of gyration of the plate about the axis passing through O and perpendicular to the plane of the plate is",
+  "options": [
+   "$50\\ \\mathrm{cm}$",
+   "$5\\ \\mathrm{cm}$",
+   "$38.7\\ \\mathrm{cm}$",
+   "$31.6\\ \\mathrm{cm}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2020-physics-060.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

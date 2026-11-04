@@ -1,0 +1,2102 @@
+[
+ {
+  "id": "pyq-2008-mathematics-001",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 1,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "A variable line $\\frac{x}{a}+\\frac{y}{b}=1$ is such that $a+b=4$. The locus of the midpoint of the portion of the line intercepted between the axes is",
+  "options": [
+   "$x+y=4$",
+   "$x+y=8$",
+   "$x+y=1$",
+   "$x+y=2$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-002",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 2,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The point $(5, -7)$ lies outside the circle",
+  "options": [
+   "$x^2+y^2-8x=0$",
+   "$x^2+y^2-5x+7y=0$",
+   "$x^2+y^2-5x+7y-1=0$",
+   "$x^2+y^2-8x+7y-2=0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-003",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 3,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "If the circles $x^2+y^2=9$ and $x^2+y^2+2\\alpha x+2y+1=0$ touch each other internally, then $\\alpha =$",
+  "options": [
+   "$\\pm\\frac{4}{3}$",
+   "$1$",
+   "$\\frac{4}{3}$",
+   "$\\frac{-4}{3}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-004",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 4,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The locus of the midpoints of the line joining the focus and any point on the parabola $y^2=4ax$ is a parabola with the equation of directrix as",
+  "options": [
+   "$x+a=0$",
+   "$2x+a=0$",
+   "$x=0$",
+   "$x=\\frac{a}{2}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-005",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 5,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The tangents drawn at the extremeties of a focal chord of the parabola $y^2=16x$",
+  "options": [
+   "intersect on $x=0$",
+   "intersect on the line $x+4=0$",
+   "intersect at an angle of $60^\\circ$",
+   "intersect at an angle of $45^\\circ$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-006",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 6,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "On the set $Z$, of all integers $*$ is defined by $a*b=a+b-5$. If $2*(x*3)=5$ then $x=$",
+  "options": [
+   "$0$",
+   "$3$",
+   "$5$",
+   "$10$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-007",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 7,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "Which of the following is false ?",
+  "options": [
+   "Addition is commutative in $N$.",
+   "Multiplication is associative in $N$.",
+   "If $a*b=a^b$ for all $a,b\\in N$ then $*$ is commutative in $N$.",
+   "Addition is associative in $N$."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-008",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 8,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "If $\\vec{a}\\cdot\\hat{i}=\\vec{a}\\cdot(\\hat{i}+\\hat{j})=\\vec{a}\\cdot(\\hat{i}+\\hat{j}+\\hat{k})=1$ then $\\vec{a}=$",
+  "options": [
+   "$\\hat{i}+\\hat{j}$",
+   "$\\hat{i}-\\hat{k}$",
+   "$\\hat{i}$",
+   "$\\hat{i}+\\hat{j}-\\hat{k}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-009",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 9,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "If $\\vec{a}$ and $\\vec{b}$ are unit vectors and $|\\vec{a}+\\vec{b}|=1$ then $|\\vec{a}-\\vec{b}|$ is equal to",
+  "options": [
+   "$\\sqrt{2}$",
+   "$1$",
+   "$\\sqrt{5}$",
+   "$\\sqrt{3}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-010",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 10,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The projection of $\\vec{a}=3\\hat{i}-\\hat{j}+5\\hat{k}$ on $\\vec{b}=2\\hat{i}+3\\hat{j}+\\hat{k}$ is",
+  "options": [
+   "$\\frac{8}{\\sqrt{35}}$",
+   "$\\frac{8}{\\sqrt{39}}$",
+   "$\\frac{8}{\\sqrt{14}}$",
+   "$\\sqrt{14}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-011",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 11,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "If $f:R\\rightarrow R$ is defined by $f(x)=x^3$ then $f^{-1}(8)=$",
+  "options": [
+   "$\\{2\\}$",
+   "$\\{2, 2\\omega, 2\\omega^2\\}$",
+   "$\\{2, -2\\}$",
+   "$\\{2, 2\\}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-012",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions-11",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 12,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "$R$ is a relation on $N$ given by $R=\\{(x, y)\\mid 4x+3y=20\\}$. Which of the following belongs to $R$ ?",
+  "options": [
+   "$(-4, 12)$",
+   "$(5, 0)$",
+   "$(3, 4)$",
+   "$(2, 4)$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-013",
+  "subject": "mathematics",
+  "chapter": "sequences-and-series",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 13,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "If $\\mathrm{Log}_{10}7=0.8451$ then the position of the first significant figure of $7^{-20}$ is",
+  "options": [
+   "$16$",
+   "$17$",
+   "$20$",
+   "$15$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-014",
+  "subject": "mathematics",
+  "chapter": "sequences-and-series",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 14,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "$\\frac{1}{2.5}+\\frac{1}{5.8}+\\frac{1}{8.11}+\\cdots$ upto $n$ terms $=$",
+  "options": [
+   "$\\frac{n}{4n+6}$",
+   "$\\frac{1}{6n+4}$",
+   "$\\frac{n}{6n+4}$",
+   "$\\frac{n}{3n+7}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-015",
+  "subject": "mathematics",
+  "chapter": "principle-of-mathematical-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 15,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The ten's digit in $1!+4!+7!+10!+12!+13!+15!+16!+17!$ is divisible by",
+  "options": [
+   "$4$",
+   "$3!$",
+   "$5$",
+   "$7$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-016",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 16,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The equation $\\frac{x^2}{2-\\lambda}-\\frac{y^2}{\\lambda-5}-1=0$ represents an ellipse if",
+  "options": [
+   "$\\lambda>5$",
+   "$\\lambda<2$",
+   "$2<\\lambda<5$",
+   "$2>\\lambda>5$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-017",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 17,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The equation to the normal to the hyperbola $\\frac{x^2}{16}-\\frac{y^2}{9}=1$ at $(-4, 0)$ is",
+  "options": [
+   "$2x-3y=1$",
+   "$x=0$",
+   "$x=1$",
+   "$y=0$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-018",
+  "subject": "mathematics",
+  "chapter": "mathematical-reasoning",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 18,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The converse of the contrapositive of the conditional $p\\rightarrow\\sim q$ is",
+  "options": [
+   "$p\\rightarrow q$",
+   "$\\sim p\\rightarrow\\sim q$",
+   "$\\sim q\\rightarrow p$",
+   "$\\sim p\\rightarrow q$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-019",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 19,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The perimeter of a certain sector of a circle is equal to the length of the arc of the semicircle. Then the angle at the centre of the sector in radians is",
+  "options": [
+   "$\\pi-2$",
+   "$\\pi+2$",
+   "$\\frac{\\pi}{3}$",
+   "$\\frac{2\\pi}{3}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-020",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 20,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The value of $\\tan 67\\frac{1}{2}^\\circ+\\cot 67\\frac{1}{2}^\\circ$ is",
+  "options": [
+   "$\\sqrt{2}$",
+   "$3\\sqrt{2}$",
+   "$2\\sqrt{2}$",
+   "$2-\\sqrt{2}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-021",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 21,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "If $e_1$ and $e_2$ are the eccentricities of a hyperbola $3x^2-3y^2=25$ and its conjugate, then",
+  "options": [
+   "$e_1^2+e_2^2=2$",
+   "$e_1^2+e_2^2=4$",
+   "$e_1+e_2=4$",
+   "$e_1+e_2=\\sqrt{2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-022",
+  "subject": "mathematics",
+  "chapter": "principle-of-mathematical-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 22,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "If $p$ and $q$ are prime numbers satisfying the condition $p^2-2q^2=1$, then the value of $p^2+2q^2$ is",
+  "options": [
+   "$5$",
+   "$15$",
+   "$16$",
+   "$17$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-023",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 23,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "If $A(\\mathrm{adj}\\,A)=5I$ where $I$ is the identity matrix of order $3$, then $|\\mathrm{adj}\\,A|$ is equal to",
+  "options": [
+   "$125$",
+   "$25$",
+   "$5$",
+   "$10$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-024",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 24,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The number of solutions for the equation $\\sin 2x+\\cos 4x=2$ is",
+  "options": [
+   "$0$",
+   "$1$",
+   "$2$",
+   "Infinite"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-025",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 25,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "$\\int e^{x}\\cdot x^{5}\\,dx$ is",
+  "options": [
+   "$e^{x}\\left[x^5+5x^4+20x^3+60x^2+120x+120\\right]+C$",
+   "$e^{x}\\left[x^5-5x^4-20x^3-60x^2-120x-120\\right]+C$",
+   "$e^{x}\\left[x^5-5x^4+20x^3-60x^2+120x-120\\right]+C$",
+   "$e^{x}\\left[x^5+5x^4+20x^3-60x^2-120x+120\\right]+C$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-026",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 26,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "If $f(x)$ is an even function and $f'(x)$ exists, then $f'(e)+f'(-e)$ is",
+  "options": [
+   "$>0$",
+   "$0$",
+   "$\\geq 0$",
+   "$<0$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-027",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 27,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "If $\\alpha$ is a complex number satisfying the equation $\\alpha^2+\\alpha+1=0$ then $\\alpha^{31}$ is equal to",
+  "options": [
+   "$\\alpha$",
+   "$\\alpha^2$",
+   "$1$",
+   "$i$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-028",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 28,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The derivative of $\\sin(x^3)$ w.r.t. $\\cos(x^3)$ is",
+  "options": [
+   "$-\\tan(x^3)$",
+   "$\\tan(x^3)$",
+   "$-\\cot(x^3)$",
+   "$\\cot(x^3)$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-029",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 29,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "A unit vector perpendicular to both the vectors $\\hat{i}+\\hat{j}$ and $\\hat{j}+\\hat{k}$ is",
+  "options": [
+   "$\\frac{-\\hat{i}-\\hat{j}+\\hat{k}}{\\sqrt{3}}$",
+   "$\\frac{\\hat{i}+\\hat{j}-\\hat{k}}{3}$",
+   "$\\frac{\\hat{i}+\\hat{j}+\\hat{k}}{\\sqrt{3}}$",
+   "$\\frac{\\hat{i}-\\hat{j}+\\hat{k}}{\\sqrt{3}}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-030",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 30,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "If $A=\\begin{vmatrix}a_1&b_1&c_1\\\\a_2&b_2&c_2\\\\a_3&b_3&c_3\\end{vmatrix}$ and $B=\\begin{vmatrix}c_1&c_2&c_3\\\\a_1&a_2&a_3\\\\b_1&b_2&b_3\\end{vmatrix}$ then",
+  "options": [
+   "$A=-B$",
+   "$A=B$",
+   "$B=0$",
+   "$B=A^2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-031",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 31,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The locus of a point which moves such that the sum of its distances from two fixed points is a constant is",
+  "options": [
+   "a circle",
+   "a parabola",
+   "an ellipse",
+   "a hyperbola"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-032",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 32,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The centroid of the triangle $ABC$ where $A\\equiv(2, 3)$, $B\\equiv(8, 10)$ and $C\\equiv(5, 5)$ is",
+  "options": [
+   "$(5, 6)$",
+   "$(6, 5)$",
+   "$(6, 6)$",
+   "$(15, 18)$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-033",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 33,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "If $3x^2+xy-y^2-3x+6y+K=0$ represents a pair of lines, then $K=$",
+  "options": [
+   "$0$",
+   "$9$",
+   "$1$",
+   "$-9$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-034",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 34,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The equation of the smallest circle passing through the points $(2, 2)$ and $(3, 3)$ is",
+  "options": [
+   "$x^2+y^2+5x+5y+12=0$",
+   "$x^2+y^2-5x-5y+12=0$",
+   "$x^2+y^2+5x-5y+12=0$",
+   "$x^2+y^2-5x+5y-12=0$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-035",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 35,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The characteristic roots of the matrix $\\begin{bmatrix}1&0&0\\\\2&3&0\\\\4&5&6\\end{bmatrix}$ are",
+  "options": [
+   "$1, 3, 6$",
+   "$1, 2, 4$",
+   "$4, 5, 6$",
+   "$2, 4, 6$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-036",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 36,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "If $A=\\begin{bmatrix}1&2\\\\3&4\\end{bmatrix}$, then $A^{-1}=$",
+  "options": [
+   "$-\\frac{1}{2}\\begin{bmatrix}4&-2\\\\-3&1\\end{bmatrix}$",
+   "$\\frac{1}{2}\\begin{bmatrix}4&-2\\\\-3&1\\end{bmatrix}$",
+   "$\\begin{bmatrix}-2&4\\\\1&3\\end{bmatrix}$",
+   "$\\begin{bmatrix}2&4\\\\1&3\\end{bmatrix}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-037",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 37,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The set $\\{-1, 0, 1\\}$ is not a multiplicative group because of the failure of",
+  "options": [
+   "Closure law",
+   "Associative law",
+   "Identity law",
+   "Inverse law"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-038",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 38,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The angle of elevation of the top of a TV tower from three points $A$, $B$ and $C$ in a straight line through the foot of the tower are $\\alpha$, $2\\alpha$ and $3\\alpha$ respectively. If $AB=a$, the height of the tower is",
+  "options": [
+   "$a\\tan\\alpha$",
+   "$a\\sin\\alpha$",
+   "$a\\sin 2\\alpha$",
+   "$a\\sin 3\\alpha$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-039",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 39,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The angles $A$, $B$ and $C$ of a triangle $ABC$ are in A.P. If $b:c=\\sqrt{3}:\\sqrt{2}$, then the angle $A$ is",
+  "options": [
+   "$30^\\circ$",
+   "$15^\\circ$",
+   "$75^\\circ$",
+   "$45^\\circ$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-040",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 40,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "$\\sin\\left(2\\sin^{-1}\\sqrt{\\frac{63}{65}}\\right)=$",
+  "options": [
+   "$\\frac{2\\sqrt{126}}{65}$",
+   "$\\frac{4\\sqrt{65}}{65}$",
+   "$\\frac{8\\sqrt{63}}{65}$",
+   "$\\frac{\\sqrt{63}}{65}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-041",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 41,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The general solution of $|\\sin x|=\\cos x$ is (when $n\\in Z$) given by",
+  "options": [
+   "$n\\pi+\\frac{\\pi}{4}$",
+   "$2n\\pi\\pm\\frac{\\pi}{4}$",
+   "$n\\pi\\pm\\frac{\\pi}{4}$",
+   "$n\\pi-\\frac{\\pi}{4}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-042",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 42,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The real root of the equation $x^3-6x+9=0$ is",
+  "options": [
+   "$-6$",
+   "$-9$",
+   "$6$",
+   "$-3$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-043",
+  "subject": "mathematics",
+  "chapter": "principle-of-mathematical-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 43,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The digit in the unit's place of $5^{834}$ is",
+  "options": [
+   "$0$",
+   "$1$",
+   "$3$",
+   "$5$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-044",
+  "subject": "mathematics",
+  "chapter": "principle-of-mathematical-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 44,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The remainder when $3^{100}\\times 2^{50}$ is divided by $5$ is",
+  "options": [
+   "$1$",
+   "$2$",
+   "$3$",
+   "$4$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-045",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 45,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "$\\int\\frac{\\sin x\\cos x}{\\sqrt{1-\\sin^4 x}}\\,dx=$",
+  "options": [
+   "$\\frac{1}{2}\\sin^{-1}(\\sin^2 x)+C$",
+   "$\\frac{1}{2}\\cos^{-1}(\\sin^2 x)+C$",
+   "$\\tan^{-1}(\\sin^2 x)+C$",
+   "$\\tan^{-1}(2\\sin x)+C$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-046",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 46,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The value of $\\int_{-2}^{2}(ax^3+bx+c)\\,dx$ depends on the",
+  "options": [
+   "value of $b$",
+   "value of $c$",
+   "value of $a$",
+   "values of $a$ and $b$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-047",
+  "subject": "mathematics",
+  "chapter": "application-of-integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 47,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The area of the region bounded by $y=2x-x^2$ and the $x$-axis is",
+  "options": [
+   "$\\frac{8}{3}$ sq. units",
+   "$\\frac{4}{3}$ sq. units",
+   "$\\frac{7}{3}$ sq. units",
+   "$\\frac{2}{3}$ sq. units"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-048",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 48,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The differential equation $y\\frac{dy}{dx}+x=c$ represents",
+  "options": [
+   "a family of hyperbolas",
+   "a family of circles whose centres are on the $y$-axis",
+   "a family of parabolas",
+   "a family of circles whose centres are on the $x$-axis"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-049",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 49,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "If $f(x^5)=5x^3$, then $f'(x)=$",
+  "options": [
+   "$\\frac{3}{\\sqrt[5]{x^2}}$",
+   "$\\frac{3}{\\sqrt[5]{x}}$",
+   "$\\frac{3}{x}$",
+   "$\\sqrt[5]{x}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-050",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 50,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "$f(x)=2a-x$ in $-a<x<a$\n\n$=3x-2a$ in $a\\le x$.\n\nThen which of the following is true?",
+  "options": [
+   "$f(x)$ is discontinuous at $x=a$",
+   "$f(x)$ is not differentiable at $x$",
+   "$f(x)$ is differentiable at all $x\\ge a$",
+   "$f(x)$ is continuous at all $x<a$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-051",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 51,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The maximum area of a rectangle that can be inscribed in a circle of radius $2$ units is (in square units)",
+  "options": [
+   "$4$",
+   "$8\\pi$",
+   "$8$",
+   "$5$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-052",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 52,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "If $Z$ is a complex number such that $Z=-\\overline{Z}$, then",
+  "options": [
+   "$Z$ is purely real",
+   "$Z$ is purely imaginary",
+   "$Z$ is any complex number",
+   "Real part of $Z$ is the same as its imaginary part"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-053",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 53,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The value of $\\sum_{K=1}^{6}\\left[\\sin\\frac{2K\\pi}{7}-i\\cos\\frac{2K\\pi}{7}\\right]$ is",
+  "options": [
+   "$i$",
+   "$0$",
+   "$-i$",
+   "$-1$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-054",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 54,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "$\\lim_{x\\to\\infty} x\\sin\\left(\\frac{2}{x}\\right)$ is equal to",
+  "options": [
+   "$\\infty$",
+   "$0$",
+   "$2$",
+   "$\\frac{1}{2}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-055",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 55,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "A stone is thrown vertically upwards and the height $x$ ft. reached by the stone in $t$ seconds is given by $x=80t-16t^2$. The stone reaches the maximum height in",
+  "options": [
+   "2 seconds",
+   "2.5 seconds",
+   "3 seconds",
+   "1.5 seconds"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-056",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 56,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The maximum value of $\\frac{\\log x}{x}$ in $(2, \\infty)$ is",
+  "options": [
+   "$1$",
+   "$\\frac{2}{e}$",
+   "$e$",
+   "$\\frac{1}{e}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-057",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 57,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "If $f(x)=be^{ax}+ae^{bx}$, then $f''(0)=$",
+  "options": [
+   "$0$",
+   "$2ab$",
+   "$ab(a+b)$",
+   "$ab$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-058",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 58,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "If $\\sqrt{\\frac{1+\\cos A}{1-\\cos A}}=\\frac{x}{y}$, then the value of $\\tan A=$",
+  "options": [
+   "$\\frac{x^2+y^2}{x^2-y^2}$",
+   "$\\frac{2xy}{x^2+y^2}$",
+   "$\\frac{2xy}{x^2-y^2}$",
+   "$\\frac{2xy}{y^2-x^2}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-059",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 59,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "$\\int\\frac{\\sec x}{\\sec x+\\tan x}\\,dx=$",
+  "options": [
+   "$\\tan x-\\sec x+C$",
+   "$\\log(1+\\sin x)+C$",
+   "$\\sec x+\\tan x+C$",
+   "$\\log\\sin x+\\log\\cos x+C$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-mathematics-060",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 60,
+   "file": "sources/pyq/2008/mathematics/2008-mathematics-question_paper-A1-kea-wayback.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "If $\\int f(x)\\,dx=g(x)$, then $\\int f(x)\\,g(x)\\,dx=$",
+  "options": [
+   "$\\frac{1}{2}f^2(x)$",
+   "$\\frac{1}{2}g^2(x)$",
+   "$\\frac{1}{2}[g'(x)]^2$",
+   "$f'(x)\\,g(x)$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

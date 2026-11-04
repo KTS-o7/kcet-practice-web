@@ -1,0 +1,2100 @@
+[
+ {
+  "id": "pyq-2012-mathematics-001",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 1,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "Which of the following is incorrect ?\n\nIf $a \\equiv b \\pmod{m}$ and $x$ is an integer, then",
+  "options": [
+   "$(a + x) \\equiv (b + x) \\pmod{m}$",
+   "$(a - x) \\equiv (b - x) \\pmod{m}$",
+   "$ax \\equiv bx \\pmod{m}$",
+   "$(a \\div x) \\equiv (b \\div x) \\pmod{m}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-002",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 2,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "Inverse of a diagonal non-singular matrix is",
+  "options": [
+   "scalar matrix",
+   "skew symmetric matrix",
+   "zero matrix",
+   "diagonal matrix"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-003",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 3,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "If $ax^4 + bx^3 + cx^2 + dx + e = \\begin{vmatrix} x^3+3x & x-1 & x+3 \\\\ x+1 & -2x & x-4 \\\\ x-3 & x+4 & 3x \\end{vmatrix}$, then $e =$",
+  "options": [
+   "$1$",
+   "$0$",
+   "$2$",
+   "$-1$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-004",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 4,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "If $\\vec{a}$, $\\vec{b}$ and $\\vec{c}$ are three non-coplanar vectors and $\\vec{p}$, $\\vec{q}$ and $\\vec{r}$ are vectors defined by $\\vec{p} = \\dfrac{\\vec{b} \\times \\vec{c}}{[\\vec{a}\\ \\vec{b}\\ \\vec{c}]}$, $\\vec{q} = \\dfrac{\\vec{c} \\times \\vec{a}}{[\\vec{a}\\ \\vec{b}\\ \\vec{c}]}$ and $\\vec{r} = \\dfrac{\\vec{a} \\times \\vec{b}}{[\\vec{a}\\ \\vec{b}\\ \\vec{c}]}$, then the value of $(\\vec{a} + \\vec{b}) \\cdot \\vec{p} + (\\vec{b} + \\vec{c}) \\cdot \\vec{q} + (\\vec{c} + \\vec{a}) \\cdot \\vec{r} =$",
+  "options": [
+   "$0$",
+   "$1$",
+   "$2$",
+   "$3$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-005",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 5,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "If $(\\vec{a} \\times \\vec{b})^2 + (\\vec{a} \\cdot \\vec{b})^2 = 144$ and $|\\vec{a}| = 4$, then $|\\vec{b}| =$",
+  "options": [
+   "$16$",
+   "$8$",
+   "$3$",
+   "$12$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-006",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 6,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "Which of the following is false ?",
+  "options": [
+   "$(N, \\cdot)$ is a group.",
+   "$(N, +)$ is a semi-group.",
+   "$(Z, +)$ is a group.",
+   "Set of even integers is a group under usual addition."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-007",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 7,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "$2 \\cos^{-1} x = \\sin^{-1}\\left(2x\\sqrt{1 - x^2}\\right)$ is valid for all values of $x$ satisfying",
+  "options": [
+   "$-1 \\leq x \\leq 1$",
+   "$0 \\leq x \\leq 1$",
+   "$\\dfrac{1}{\\sqrt{2}} \\leq x \\leq 1$",
+   "$0 \\leq x \\leq \\dfrac{1}{\\sqrt{2}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-008",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 8,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "If $\\alpha$ is a complex number such that $\\alpha^2 - \\alpha + 1 = 0$, then $\\alpha^{2011} =$",
+  "options": [
+   "$-\\alpha$",
+   "$\\alpha^2$",
+   "$\\alpha$",
+   "$1$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-009",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 9,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "If $\\cos\\alpha + 2\\cos\\beta + 3\\cos\\gamma = 0$, $\\sin\\alpha + 2\\sin\\beta + 3\\sin\\gamma = 0$ and $\\alpha + \\beta + \\gamma = \\pi$, then $\\sin 3\\alpha + 8\\sin 3\\beta + 27\\sin 3\\gamma =$",
+  "options": [
+   "$-18$",
+   "$0$",
+   "$3$",
+   "$9$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-010",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 10,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "If the conjugate of $(x + iy)(1 - 2i)$ is $1 + i$, then",
+  "options": [
+   "$x - iy = \\dfrac{1 + i}{1 - 2i}$",
+   "$x + iy = \\dfrac{1 - i}{1 - 2i}$",
+   "$x = \\dfrac{1}{5}$",
+   "$x = -\\dfrac{1}{5}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-011",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 11,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "If the straight line $3x + 4y = k$ touches the circle $x^2 + y^2 = 16x$, then the value of $k$ is",
+  "options": [
+   "$16, 64$",
+   "$-16, -64$",
+   "$-16, 64$",
+   "$16, -64$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-012",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 12,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "The locus of the point of intersection of perpendicular tangents to the ellipse is called",
+  "options": [
+   "hyperbola",
+   "ellipse",
+   "auxiliary circle",
+   "director circle"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-013",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 13,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "If $m \\sin^{-1} x = \\log_e y$, then $(1 - x^2)y'' - xy' =$",
+  "options": [
+   "$m^2 y$",
+   "$-m^2 y$",
+   "$2y$",
+   "$-2y$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-014",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 14,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "If $y = e^{\\log_e [1 + x + x^2 + \\ldots]}$, then $\\dfrac{dy}{dx} =$",
+  "options": [
+   "$\\dfrac{1}{(1 + x)^2}$",
+   "$\\dfrac{1}{(1 - x)^2}$",
+   "$\\dfrac{-1}{(1 + x)^2}$",
+   "$\\dfrac{-1}{(1 - x)^2}$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-015",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 15,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "Length of the subtangent at $(x_1, y_1)$ on $x^n y^m = a^{m+n}$, $m, n > 0$, is",
+  "options": [
+   "$\\dfrac{n}{m} x_1$",
+   "$\\dfrac{m}{n} |x_1|$",
+   "$\\dfrac{n}{m} |y_1|$",
+   "$\\dfrac{n}{m} |x_1|$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-016",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 16,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "If a ball is thrown vertically upwards and the height '$s$' reached in time '$t$' is given by $s = 22t - 11t^2$, then the total distance travelled by the ball is",
+  "options": [
+   "$44$ units",
+   "$33$ units",
+   "$11$ units",
+   "$22$ units"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-017",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 17,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "The sum of two positive numbers is given. If the sum of their cubes is minimum, then",
+  "options": [
+   "they are equal",
+   "one is twice the other",
+   "they are unequal",
+   "one is thrice the other"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-018",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 18,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "$\\displaystyle\\int_{\\pi/6}^{\\pi/3} \\dfrac{\\sin^3 x}{\\sin^3 x + \\cos^3 x}\\, dx =$",
+  "options": [
+   "$\\dfrac{\\pi}{2}$",
+   "$\\dfrac{\\pi}{3}$",
+   "$\\dfrac{\\pi}{12}$",
+   "$\\dfrac{\\pi}{6}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-019",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 19,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "$\\displaystyle\\lim_{x \\to 0} \\dfrac{x\\, 2^x - x}{1 - \\cos x} =$",
+  "options": [
+   "$2 \\log 2$",
+   "$\\log 2$",
+   "$\\dfrac{1}{2} \\log 2$",
+   "$\\dfrac{1}{2}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-020",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 20,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "If $\\dfrac{3x + 1}{(x - 1)(x + 3)} = \\dfrac{A}{x - 1} + \\dfrac{B}{x + 3}$, then $\\sin^{-1} \\dfrac{A}{B} =$",
+  "options": [
+   "$\\dfrac{\\pi}{2}$",
+   "$\\dfrac{\\pi}{3}$",
+   "$\\dfrac{\\pi}{6}$",
+   "$\\dfrac{\\pi}{4}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-021",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 21,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "If $\\alpha, \\beta, \\gamma$ are the roots of the equation $x^3 + 4x + 2 = 0$, then $\\alpha^3 + \\beta^3 + \\gamma^3 =$",
+  "options": [
+   "$2$",
+   "$6$",
+   "$-2$",
+   "$-6$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-022",
+  "subject": "mathematics",
+  "chapter": "binomial-theorem",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 22,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "The value of ${}^{10}C_1 + {}^{10}C_2 + {}^{10}C_3 + \\ldots + {}^{10}C_9$ is",
+  "options": [
+   "$2^{10}$",
+   "$2^{11}$",
+   "$2^{10} - 2$",
+   "$2^{10} - 1$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-023",
+  "subject": "mathematics",
+  "chapter": "mathematical-reasoning",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 23,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "$p \\rightarrow \\sim q$ can also be written as",
+  "options": [
+   "$p \\rightarrow q$",
+   "$\\sim p \\vee \\sim q$",
+   "$q \\rightarrow p$",
+   "$\\sim q \\rightarrow \\sim p$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-024",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 24,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "If $f : \\mathbb{R} \\rightarrow \\mathbb{R}$ is defined by $f(x) = 2x + 3$, then $f^{-1}(x)$",
+  "options": [
+   "is given by $\\dfrac{x - 3}{2}$",
+   "is given by $\\dfrac{1}{2x + 3}$",
+   "does not exist because 'f' is not injective",
+   "does not exist because 'f' is not surjective"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-025",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 25,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "$\\dfrac{\\sin 70^\\circ + \\cos 40^\\circ}{\\cos 70^\\circ + \\sin 40^\\circ} =$",
+  "options": [
+   "$\\dfrac{1}{\\sqrt{3}}$",
+   "$\\sqrt{3}$",
+   "$\\dfrac{1}{2}$",
+   "$1$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-026",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 26,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "The points $(11, 9)$, $(2, 1)$ and $(2, -1)$ are the midpoints of the sides of the triangle. Then the centroid is",
+  "options": [
+   "$(-5, -3)$",
+   "$(5, -3)$",
+   "$(3, 5)$",
+   "$(5, 3)$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-027",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 27,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "The reflection of the point $(1, 1)$ along the line $y = -x$ is",
+  "options": [
+   "$(0, 0)$",
+   "$(-1, 1)$",
+   "$(-1, -1)$",
+   "$(1, -1)$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-028",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 28,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "The number of circles that touch the co-ordinate axes and the line whose slope is $-1$ and $y$-intercept is $1$, is",
+  "options": [
+   "$1$",
+   "$4$",
+   "$2$",
+   "$3$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-029",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 29,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "If $f(x)$ is an even function, then $f'(x)$ is",
+  "options": [
+   "an odd function",
+   "an even function",
+   "may be even or may be odd",
+   "nothing can be said"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-030",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 30,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "The perimeter of a sector is a constant. If its area is to be maximum, then the sectorial angle is",
+  "options": [
+   "$\\dfrac{\\pi^c}{6}$",
+   "$\\dfrac{\\pi^c}{4}$",
+   "$4^c$",
+   "$2^c$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-031",
+  "subject": "mathematics",
+  "chapter": "principle-of-mathematical-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 31,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "The last digit of number $7^{886}$ is",
+  "options": [
+   "$9$",
+   "$7$",
+   "$3$",
+   "$1$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-032",
+  "subject": "mathematics",
+  "chapter": "principle-of-mathematical-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 32,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "If $(24, 92) = 24m + 92n$, then $(m, n)$ is",
+  "options": [
+   "$(-1, 4)$",
+   "$(4, -1)$",
+   "$(4, -3)$",
+   "$(-4, 3)$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-033",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 33,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "The characteristic equation of a matrix A is $\\lambda^3 - 5\\lambda^2 - 3\\lambda + 2 = 0$ then $|\\mathrm{adj}(A)| =$",
+  "options": [
+   "$9$",
+   "$25$",
+   "$\\dfrac{1}{2}$",
+   "$4$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-034",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 34,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "If $\\hat{i} + \\hat{j} - \\hat{k}$ and $2\\hat{i} - 3\\hat{j} + \\hat{k}$ are adjacent sides of a parallelogram, then the lengths of its diagonals are",
+  "options": [
+   "$\\sqrt{3}, \\sqrt{14}$",
+   "$\\sqrt{13}, \\sqrt{14}$",
+   "$\\sqrt{21}, \\sqrt{3}$",
+   "$\\sqrt{21}, \\sqrt{13}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-035",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 35,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "If the volume of the parallelopiped formed by three non-coplanar vectors $\\vec{a}$, $\\vec{b}$ and $\\vec{c}$ is $4$ cubic units, then $[\\vec{a} \\times \\vec{b}\\ \\ \\vec{b} \\times \\vec{c}\\ \\ \\vec{c} \\times \\vec{a}] =$",
+  "options": [
+   "$64$",
+   "$16$",
+   "$4$",
+   "$8$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-036",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 36,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "Which of the following is a subgroup of the group $G = \\{2^n \\mid n \\in \\mathbb{Z}\\}$ under multiplication ?",
+  "options": [
+   "$\\{4^n \\mid n \\in \\mathbb{N}\\}$",
+   "$\\{3^n \\mid n \\in \\mathbb{Z}\\}$",
+   "$\\{6^n \\mid n \\in \\mathbb{N}\\}$",
+   "$\\{4^n \\mid n \\in \\mathbb{Z}\\}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-037",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 37,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "In the group $G = \\{1, 2, 3, 4, 5, 6\\}$ under $\\otimes_7$, the solution of $4 \\otimes_7 x = 5$ is",
+  "options": [
+   "$3$",
+   "$2$",
+   "$4$",
+   "$5$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-038",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 38,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "The number of real solutions of the equation $\\tan^{-1} \\sqrt{x(x + 1)} + \\sin^{-1} \\sqrt{x^2 + x + 1} = \\dfrac{\\pi}{2}$ is",
+  "options": [
+   "one",
+   "four",
+   "two",
+   "infinitely many"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-039",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 39,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "If $\\sin 2x = 4 \\cos x$, then $x =$",
+  "options": [
+   "$n\\dfrac{\\pi}{2} \\pm \\dfrac{\\pi}{4}$, $n \\in \\mathbb{Z}$",
+   "no value",
+   "$n\\pi + (-1)^n \\dfrac{\\pi}{4}$, $n \\in \\mathbb{Z}$",
+   "$2n\\pi \\pm \\dfrac{\\pi}{2}$, $n \\in \\mathbb{Z}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-040",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 40,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "If $\\alpha$ and $\\beta$ are different complex numbers with $|\\beta| = 1$, then $\\left|\\dfrac{\\beta - \\alpha}{1 - \\bar{\\alpha}\\beta}\\right|$ is equal to",
+  "options": [
+   "$\\dfrac{1}{2}$",
+   "$1$",
+   "$\\dfrac{1}{3}$",
+   "$2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-041",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 41,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "The equations of the two tangents from $(-5, -4)$ to the circle $x^2 + y^2 + 4x + 6y + 8 = 0$ are",
+  "options": [
+   "$x + 2y + 13 = 0$, $2x - y + 6 = 0$",
+   "$2x + y + 13 = 0$, $x - 2y = 6$",
+   "$3x + 2y + 23 = 0$, $2x - 3y + 4 = 0$",
+   "$x - 7y = 23$, $6x + 13y = 4$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-042",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 42,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "If $x = t^2 + 2$ and $y = 2t$ represent the parametric equation of the parabola",
+  "options": [
+   "$x^2 = 4(y - 2)$",
+   "$(y - 2)^2 = 4x$",
+   "$y^2 = 4(x - 2)$",
+   "$(x - 2)^2 = 4y$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-043",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 43,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "If $x - y = 1$ is a tangent to the hyperbola $\\dfrac{x^2}{4} - \\dfrac{y^2}{3} = 1$, the point of contact is",
+  "options": [
+   "$(4, 3)$",
+   "$(3, 4)$",
+   "$(2, 1)$",
+   "$(5, 4)$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-044",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 44,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "If $y = \\tan^{-1}\\left(\\dfrac{1}{1 + x + x^2}\\right) + \\tan^{-1}\\left(\\dfrac{1}{x^2 + 2x + 3}\\right) + \\tan^{-1}\\left(\\dfrac{1}{x^2 + 5x + 7}\\right) + \\ldots$ n terms, then $y'(0)$ is",
+  "options": [
+   "$\\dfrac{\\pi}{2}$",
+   "$\\dfrac{2n}{1 + n^2}$",
+   "$\\dfrac{n^2}{1 + n^2}$",
+   "$-\\dfrac{n^2}{1 + n^2}$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-045",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 45,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "If $f(x) = \\sin [\\pi^2]\\, x + \\cos [-\\pi^2]\\, x$ then $f'(x)$ is, here $[\\pi^2]$ and $[-\\pi^2]$ greatest integer function not greater than its value",
+  "options": [
+   "$\\sin 9x + \\cos 9x$",
+   "$9\\cos 9x - 10\\sin 10x$",
+   "$0$",
+   "$-1$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-046",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 46,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "The tangent to the curve $xy = 25$ at any point on it cuts the coordinate axes at A and B, then the area of the triangle OAB is",
+  "options": [
+   "$50$ sq. units",
+   "$25$ sq. units",
+   "$75$ sq. units",
+   "$100$ sq. units"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-047",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 47,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "The length of the sub-tangent, ordinate and the sub-normal are in",
+  "options": [
+   "A.P.",
+   "H.P.",
+   "G.P.",
+   "Arithmetico geometric progression"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-048",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 48,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "The maximum value of $x e^{-x}$ is",
+  "options": [
+   "$e$",
+   "$\\dfrac{1}{e}$",
+   "$-e$",
+   "$-\\dfrac{1}{e}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-049",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 49,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "If $[x]$ is the greatest integer function not greater than $x$, then $\\displaystyle\\int_0^{11} [x]\\, dx =$",
+  "options": [
+   "$45$",
+   "$66$",
+   "$35$",
+   "$55$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-050",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 50,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "If $n \\in \\mathbb{N}$ and $I_n = \\displaystyle\\int (\\log x)^n\\, dx$, then $I_n + n I_{n-1} =$",
+  "options": [
+   "$\\dfrac{(\\log x)^{n+1}}{n+1}$",
+   "$x(\\log x)^n + c$",
+   "$(\\log x)^{n-1}$",
+   "$\\dfrac{(\\log x)^n}{n}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-051",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 51,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "Solution of $e^{\\frac{dy}{dx}} = x$ when $x = 1$ and $y = 0$ is",
+  "options": [
+   "$y = x(\\log x - 1) + 4$",
+   "$y = x(\\log x - 1) + 3$",
+   "$y = x(\\log x + 1) + 1$",
+   "$y = x(\\log x - 1) + 1$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-052",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 52,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "If $f(x) = \\begin{cases} \\dfrac{x^2 - (a + 2)x + a}{x - 2}, & x \\neq 2 \\\\ 2, & x = 2 \\end{cases}$ is continuous at $x = 2$, then the value of $a$ is",
+  "options": [
+   "$-6$",
+   "$0$",
+   "$1$",
+   "$-1$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-053",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 53,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "If $\\log_2 (9^{x-1} + 7) - \\log_2 (3^{x-1} + 1) = 2$, then $x$ values are",
+  "options": [
+   "$0, 2$",
+   "$0, 1$",
+   "$1, 4$",
+   "$1, 2$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-054",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 54,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "If $x - 1$ is a factor of $x^5 - 4x^3 + 2x^2 - 3x + k = 0$, then $k$ is",
+  "options": [
+   "$4$",
+   "$-4$",
+   "$2$",
+   "$3$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-055",
+  "subject": "mathematics",
+  "chapter": "sets",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 55,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "If A and B have $n$ elements in common, then the number of elements common to $A \\times B$ and $B \\times A$ is",
+  "options": [
+   "$n$",
+   "$2n$",
+   "$n^2$",
+   "$0$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-056",
+  "subject": "mathematics",
+  "chapter": "binomial-theorem",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 56,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "The $13^{\\text{th}}$ term in the expansion of $\\left(x^2 + \\dfrac{2}{x}\\right)^n$ is independent of $x$ then the sum of the divisors of $n$ is",
+  "options": [
+   "$36$",
+   "$37$",
+   "$38$",
+   "$39$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-057",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 57,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "If one of the slopes of the pair of lines $ax^2 + 2hxy + by^2 = 0$ is $n$ times the other then",
+  "options": [
+   "$4(n + 1)^2 ab = nab$",
+   "$4h^2 = (n + 1)^2 ab$",
+   "$4nh^2 = (n + 1)^2 ab$",
+   "$4ab = (n + 1)^2 h$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-058",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 58,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "If $f(x) = \\begin{vmatrix} \\sin x & \\cos x & \\tan x \\\\ x^3 & x^2 & x \\\\ 2x & 1 & x \\end{vmatrix}$ then $\\displaystyle\\lim_{x \\to 0} \\dfrac{f(x)}{x^2} =$",
+  "options": [
+   "$0$",
+   "$3$",
+   "$2$",
+   "$1$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-059",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 59,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "The number of solutions of the equation $z^2 + \\bar{z} = 0$ where $z \\in \\mathbb{C}$ are",
+  "options": [
+   "$1$",
+   "$4$",
+   "$5$",
+   "$6$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2012-mathematics-060",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2012",
+   "year": 2012,
+   "version": "A1",
+   "number": 60,
+   "file": "sources/pyq/2012/mathematics/2012-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2012/mathematics/2012-mathematics-answer_key_provisional-all-kea-wayback.pdf"
+  },
+  "stem": "The least and the greatest distances of the point $(10, 7)$ from the circle $x^2 + y^2 - 4x - 2y - 20 = 0$ are",
+  "options": [
+   "$10, 5$",
+   "$15, 20$",
+   "$12, 16$",
+   "$5, 15$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

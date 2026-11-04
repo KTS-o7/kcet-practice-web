@@ -1,0 +1,2100 @@
+[
+ {
+  "id": "pyq-2014-physics-001",
+  "subject": "physics",
+  "chapter": "units-and-measurement",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 1,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A physical quantity $Q$ is found to depend on observables $x$, $y$ and $z$, obeying relation $Q = \\frac{x^3y^2}{z}$. The percentage error in the measurements of $x$, $y$ and $z$ are $1\\%$, $2\\%$ and $4\\%$ respectively. What is percentage error in the quantity $Q$ ?",
+  "options": [
+   "4%",
+   "3%",
+   "11%",
+   "1%"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-002",
+  "subject": "physics",
+  "chapter": "units-and-measurement",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 2,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Which of the following is not a vector quantity ?",
+  "options": [
+   "Weight",
+   "Nuclear spin",
+   "Momentum",
+   "Potential energy"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-003",
+  "subject": "physics",
+  "chapter": "motion-in-a-straight-line",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 3,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A car moves from A to B with a speed of $30\\,\\mathrm{kmph}$ and from B to A with a speed of $20\\,\\mathrm{kmph}$. What is the average speed of the car ?",
+  "options": [
+   "$25\\,\\mathrm{kmph}$",
+   "$24\\,\\mathrm{kmph}$",
+   "$50\\,\\mathrm{kmph}$",
+   "$10\\,\\mathrm{kmph}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-004",
+  "subject": "physics",
+  "chapter": "motion-in-a-straight-line",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 4,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A body starts from rest and moves with constant acceleration for $t$ s. It travels a distance $x_1$ in first half of time and $x_2$ in next half of time, then",
+  "options": [
+   "$x_2 = x_1$",
+   "$x_2 = 2x_1$",
+   "$x_2 = 3x_1$",
+   "$x_2 = 4x_1$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-005",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 5,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A person is driving a vehicle at uniform speed of $5\\,\\mathrm{m\\,s^{-1}}$ on a level curved track of radius $5\\,\\mathrm{m}$. The coefficient of static friction between tyres and road is $0.1$. Will the person slip while taking the turn with the same speed ? Take $g = 10\\,\\mathrm{m\\,s^{-2}}$. Choose the correct statement.",
+  "options": [
+   "A person will slip if $v^2 = 5\\,\\mathrm{m\\,s^{-1}}$",
+   "A person will slip if $v^2 > 5\\,\\mathrm{m\\,s^{-1}}$",
+   "A person will slip if $v^2 < 5\\,\\mathrm{m\\,s^{-1}}$",
+   "A person will not slip if $v^2 > 10\\,\\mathrm{m\\,s^{-1}}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-006",
+  "subject": "physics",
+  "chapter": "motion-in-a-plane",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 6,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A stone is thrown vertically at a speed of $30\\,\\mathrm{m\\,s^{-1}}$ making an angle of $45^\\circ$ with the horizontal. What is the maximum height reached by the stone ? Take $g = 10\\,\\mathrm{m\\,s^{-2}}$.",
+  "options": [
+   "$30\\,\\mathrm{m}$",
+   "$22.5\\,\\mathrm{m}$",
+   "$15\\,\\mathrm{m}$",
+   "$10\\,\\mathrm{m}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-007",
+  "subject": "physics",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 7,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A force $\\vec{F} = 5\\hat{i} + 2\\hat{j} - 5\\hat{k}$ acts on a particle whose position vector is $\\vec{r} = \\hat{i} - 2\\hat{j} + \\hat{k}$. What is the torque about the origin ?",
+  "options": [
+   "$8\\hat{i} + 10\\hat{j} + 12\\hat{k}$",
+   "$8\\hat{i} + 10\\hat{j} - 12\\hat{k}$",
+   "$8\\hat{i} - 10\\hat{j} - 8\\hat{k}$",
+   "$10\\hat{i} - 10\\hat{j} - \\hat{k}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-008",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 8,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "What is a period of revolution of earth satellite ? Ignore the height of satellite above the surface of earth. Given : (1) The value of gravitational acceleration $g = 10\\,\\mathrm{m\\,s^{-2}}$ (2) Radius of earth $R_E = 6400\\,\\mathrm{km}$. Take $\\pi = 3.14$.",
+  "options": [
+   "85 minutes",
+   "156 minutes",
+   "83.73 minutes",
+   "90 minutes"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-009",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 9,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A period of geostationary satellite is",
+  "options": [
+   "24 h",
+   "12 h",
+   "30 h",
+   "48 h"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-010",
+  "subject": "physics",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 10,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "What is the source temperature of the Carnot engine required to get $70\\%$ efficiency ? Given sink temperature = $27\\,^\\circ\\mathrm{C}$",
+  "options": [
+   "$1000\\,^\\circ\\mathrm{C}$",
+   "$90\\,^\\circ\\mathrm{C}$",
+   "$270\\,^\\circ\\mathrm{C}$",
+   "$727\\,^\\circ\\mathrm{C}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-011",
+  "subject": "physics",
+  "chapter": "oscillations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 11,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A $10\\,\\mathrm{kg}$ metal block is attached to a spring of spring constant $1000\\,\\mathrm{N\\,m^{-1}}$. A block is displaced from equilibrium position by $10\\,\\mathrm{cm}$ and released. The maximum acceleration of the block is",
+  "options": [
+   "$10\\,\\mathrm{m\\,s^{-2}}$",
+   "$100\\,\\mathrm{m\\,s^{-2}}$",
+   "$200\\,\\mathrm{m\\,s^{-2}}$",
+   "$0.1\\,\\mathrm{m\\,s^{-2}}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-012",
+  "subject": "physics",
+  "chapter": "waves",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 12,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A metallic wire of $1\\,\\mathrm{m}$ length has a mass of $10 \\times 10^{-3}\\,\\mathrm{kg}$. If a tension of $100\\,\\mathrm{N}$ is applied to a wire, what is the speed of transverse wave ?",
+  "options": [
+   "$100\\,\\mathrm{m\\,s^{-1}}$",
+   "$10\\,\\mathrm{m\\,s^{-1}}$",
+   "$200\\,\\mathrm{m\\,s^{-1}}$",
+   "$0.1\\,\\mathrm{m\\,s^{-1}}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-013",
+  "subject": "physics",
+  "chapter": "waves",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 13,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A train is approaching towards a platform with a speed of $10\\,\\mathrm{m\\,s^{-1}}$ while blowing a whistle of frequency $340\\,\\mathrm{Hz}$. What is the frequency of whistle heard by a stationary observer on the platform ? Given speed of sound = $340\\,\\mathrm{m\\,s^{-1}}$",
+  "options": [
+   "$330\\,\\mathrm{Hz}$",
+   "$350\\,\\mathrm{Hz}$",
+   "$340\\,\\mathrm{Hz}$",
+   "$360\\,\\mathrm{Hz}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-014",
+  "subject": "physics",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 14,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A rotating wheel changes angular speed from $1800$ rpm to $3000$ rpm in $20\\,\\mathrm{s}$. What is the angular acceleration assuming to be uniform ?",
+  "options": [
+   "$60\\pi\\,\\mathrm{rad\\,s^{-2}}$",
+   "$90\\pi\\,\\mathrm{rad\\,s^{-2}}$",
+   "$2\\pi\\,\\mathrm{rad\\,s^{-2}}$",
+   "$40\\pi\\,\\mathrm{rad\\,s^{-2}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-015",
+  "subject": "physics",
+  "chapter": "mechanical-properties-of-fluids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 15,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A flow of liquid is streamline if the Reynold number is",
+  "options": [
+   "less than 1000",
+   "greater than 1000",
+   "between 2000 to 3000",
+   "between 4000 to 5000"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-016",
+  "subject": "physics",
+  "chapter": "waves",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 16,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A pipe of $30\\,\\mathrm{cm}$ long and open at both the ends produces harmonics. Which harmonic mode of pipe resonates a $1.1\\,\\mathrm{kHz}$ source ? Given speed of sound in air = $330\\,\\mathrm{m\\,s^{-1}}$.",
+  "options": [
+   "Fifth harmonic",
+   "Fourth harmonic",
+   "Third harmonic",
+   "Second harmonic"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-017",
+  "subject": "physics",
+  "chapter": "thermal-properties-of-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 17,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "In anomalous expansion of water, at what temperature, the density of water is maximum ?",
+  "options": [
+   "$4\\,^\\circ\\mathrm{C}$",
+   "$<4\\,^\\circ\\mathrm{C}$",
+   "$>4\\,^\\circ\\mathrm{C}$",
+   "$10\\,^\\circ\\mathrm{C}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-018",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 18,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "An aeroplane executes a horizontal loop at a speed of $720\\,\\mathrm{kmph}$ with its wings banked at $45^\\circ$. What is the radius of the loop ? Take $g = 10\\,\\mathrm{m\\,s^{-2}}$.",
+  "options": [
+   "$4\\,\\mathrm{km}$",
+   "$4.5\\,\\mathrm{km}$",
+   "$7.2\\,\\mathrm{km}$",
+   "$2\\,\\mathrm{km}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-019",
+  "subject": "physics",
+  "chapter": "work-energy-and-power",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 19,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A body having a moment of inertia about its axis of rotation equal to $3\\,\\mathrm{kg\\text{-}m^2}$ is rotating with angular velocity of $3\\,\\mathrm{rad\\,s^{-1}}$. Kinetic energy of this rotating body is same as that of a body of mass $27\\,\\mathrm{kg}$ moving with velocity $v$. The value of $v$ is",
+  "options": [
+   "$1\\,\\mathrm{m\\,s^{-1}}$",
+   "$0.5\\,\\mathrm{m\\,s^{-1}}$",
+   "$2\\,\\mathrm{m\\,s^{-1}}$",
+   "$1.5\\,\\mathrm{m\\,s^{-1}}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-020",
+  "subject": "physics",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 20,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A cycle tyre bursts suddenly. What is the type of this process ?",
+  "options": [
+   "Isothermal",
+   "Adiabatic",
+   "Isochoric",
+   "Isobaric"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-021",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 21,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "An object is placed at $20\\,\\mathrm{cm}$ in front of a concave mirror produces three times magnified real image. What is focal length of the concave mirror ?",
+  "options": [
+   "$15\\,\\mathrm{cm}$",
+   "$6.6\\,\\mathrm{cm}$",
+   "$10\\,\\mathrm{cm}$",
+   "$7.5\\,\\mathrm{cm}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-022",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 22,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A focal length of a lens is $10\\,\\mathrm{cm}$. What is power of a lens in dioptre ?",
+  "options": [
+   "$0.1\\,\\mathrm{D}$",
+   "$10\\,\\mathrm{D}$",
+   "$15\\,\\mathrm{D}$",
+   "$20\\,\\mathrm{D}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-023",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 23,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A microscope is having objective of focal length $1\\,\\mathrm{cm}$ and eyepiece of focal length $6\\,\\mathrm{cm}$. If tube length is $30\\,\\mathrm{cm}$ and image is formed at the least distance of distinct vision, what is the magnification produced by the microscope ? Take $D = 25\\,\\mathrm{cm}$.",
+  "options": [
+   "6",
+   "150",
+   "25",
+   "125"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2014-physics-024",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 24,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A fringe width of a certain interference pattern is $\\beta = 0.002\\,\\mathrm{cm}$. What is the distance of $5^{\\mathrm{th}}$ dark fringe from centre ?",
+  "options": [
+   "$1 \\times 10^{-2}\\,\\mathrm{cm}$",
+   "$11 \\times 10^{-2}\\,\\mathrm{cm}$",
+   "$1.1 \\times 10^{-2}\\,\\mathrm{cm}$",
+   "$3.28 \\times 10^{6}\\,\\mathrm{cm}$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2014-physics-025",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 25,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Diameter of the objective of a telescope is $200\\,\\mathrm{cm}$. What is the resolving power of a telescope ? Take wavelength of light = $5000\\,\\text{Å}$.",
+  "options": [
+   "$6.56 \\times 10^{6}$",
+   "$3.28 \\times 10^{5}$",
+   "$1 \\times 10^{6}$",
+   "$3.28 \\times 10^{6}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-026",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 26,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A polarized light of intensity $I_0$ is passed through another polarizer whose pass axis makes an angle of $60^\\circ$ with the pass axis of the former. What is the intensity of emergent polarized light from second polarizer ?",
+  "options": [
+   "$I = I_0$",
+   "$I = I_0/6$",
+   "$I = I_0/5$",
+   "$I_0/4$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-027",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 27,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "What is the de Broglie wavelength of the electron accelerated through a potential difference of $100\\,\\mathrm{Volt}$ ?",
+  "options": [
+   "$12.27\\,\\text{Å}$",
+   "$1.227\\,\\text{Å}$",
+   "$0.1227\\,\\text{Å}$",
+   "$0.001227\\,\\text{Å}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-028",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 28,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The maximum kinetic energy of the photoelectrons depends only on",
+  "options": [
+   "potential",
+   "frequency",
+   "incident angle",
+   "pressure"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-029",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 29,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Which of the following spectral series of hydrogen atom is lying in visible range of electromagnetic wave ?",
+  "options": [
+   "Paschen series",
+   "Pfund series",
+   "Lyman series",
+   "Balmer series"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-030",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 30,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "What is the energy of the electron revolving in third orbit expressed in eV ?",
+  "options": [
+   "$1.51\\,\\mathrm{eV}$",
+   "$3.4\\,\\mathrm{eV}$",
+   "$4.53\\,\\mathrm{eV}$",
+   "$4\\,\\mathrm{eV}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-031",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 31,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The relation between half life $(T)$ and decay constant $(\\lambda)$ is",
+  "options": [
+   "$\\lambda T = 1$",
+   "$\\lambda T = \\frac{1}{2}$",
+   "$\\lambda T = \\log_e 2$",
+   "$\\lambda = \\log 2T$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-032",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 32,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A force between two protons is same as the force between proton and neutron. The nature of the force is",
+  "options": [
+   "Weak nuclear force",
+   "Strong nuclear force",
+   "Electrical force",
+   "Gravitational force"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-033",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 33,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "In n type semiconductor, electrons are majority charge carriers but it does not show any negative charge. The reason is",
+  "options": [
+   "electrons are stationary",
+   "electrons neutralize with holes",
+   "mobility of electrons is extremely small",
+   "atom is electrically neutral"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-034",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 34,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "For the given digital circuit, write the truth table and identify the logic gate it represents :",
+  "options": [
+   "OR-Gate",
+   "NOR-Gate",
+   "NAND-Gate",
+   "AND-Gate"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2014-physics-034.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-035",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 35,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "If $\\alpha$-current gain of a transistor is $0.98$. What is the value of $\\beta$-current gain of the transistor ?",
+  "options": [
+   "0.49",
+   "49",
+   "4.9",
+   "5"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-036",
+  "subject": "physics",
+  "chapter": "communication-systems",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 36,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A tuned amplifier circuit is used to generate a carrier frequency of $2\\,\\mathrm{MHz}$ for the amplitude modulation. The value of $\\sqrt{LC}$ is",
+  "options": [
+   "$\\frac{1}{2\\pi \\times 10^{6}}$",
+   "$\\frac{1}{2 \\times 10^{6}}$",
+   "$\\frac{1}{3\\pi \\times 10^{6}}$",
+   "$\\frac{1}{4\\pi \\times 10^{6}}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-037",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 37,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "If a charge on the body is $1\\,\\mathrm{nC}$, then how many electrons are present on the body ?",
+  "options": [
+   "$1.6 \\times 10^{19}$",
+   "$6.25 \\times 10^{9}$",
+   "$6.25 \\times 10^{27}$",
+   "$6.25 \\times 10^{28}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-038",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 38,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Two equal and opposite charges of masses $m_1$ and $m_2$ are accelerated in an uniform electric field through the same distance. What is the ratio of their accelerations if their ratio of masses is $\\frac{m_1}{m_2} = 0.5$ ?",
+  "options": [
+   "$\\frac{a_1}{a_2} = 0.5$",
+   "$\\frac{a_1}{a_2} = 1$",
+   "$\\frac{a_1}{a_2} = 2$",
+   "$\\frac{a_1}{a_2} = 3$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-039",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 39,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "What is the nature of Gaussian surface involved in Gauss law of electrostatic ?",
+  "options": [
+   "Scalar",
+   "Electrical",
+   "Magnetic",
+   "Vector"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2014-physics-040",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 40,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "What is the electric potential at a distance of $9\\,\\mathrm{cm}$ from $3\\,\\mathrm{nC}$ ?",
+  "options": [
+   "$270\\,\\mathrm{V}$",
+   "$3\\,\\mathrm{V}$",
+   "$300\\,\\mathrm{V}$",
+   "$30\\,\\mathrm{V}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-041",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 41,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A voltmeter reads $4\\,\\mathrm{V}$ when connected to a parallel plate capacitor with air as a dielectric. When a dielectric slab is introduced between plates for the same configuration, voltmeter reads $2\\,\\mathrm{V}$. What is the dielectric constant of the material ?",
+  "options": [
+   "0.5",
+   "2",
+   "8",
+   "10"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-042",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 42,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A spherical conductor of radius $2\\,\\mathrm{cm}$ is uniformly charged with $3\\,\\mathrm{nC}$. What is the electric field at a distance of $3\\,\\mathrm{cm}$ from the centre of the sphere ?",
+  "options": [
+   "$3 \\times 10^{6}\\,\\mathrm{V\\,m^{-1}}$",
+   "$3\\,\\mathrm{V\\,m^{-1}}$",
+   "$3 \\times 10^{4}\\,\\mathrm{V\\,m^{-1}}$",
+   "$3 \\times 10^{-4}\\,\\mathrm{V\\,m^{-1}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-043",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 43,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A carbon film resistor has colour code Green Black Violet Gold. The value of the resistor is",
+  "options": [
+   "$50\\,\\mathrm{M\\Omega}$",
+   "$500\\,\\mathrm{M\\Omega}$",
+   "$500 \\pm 5\\%\\,\\mathrm{M\\Omega}$",
+   "$500 \\pm 10\\%\\,\\mathrm{M\\Omega}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-044",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 44,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Two resistors of resistances $2\\,\\Omega$ and $6\\,\\Omega$ are connected in parallel. This combination is then connected to a battery of emf $2\\,\\mathrm{V}$ and internal resistance $0.5\\,\\Omega$. What is the current flowing through the battery ?",
+  "options": [
+   "$4\\,\\mathrm{A}$",
+   "$\\frac{4}{3}\\,\\mathrm{A}$",
+   "$\\frac{4}{17}\\,\\mathrm{A}$",
+   "$1\\,\\mathrm{A}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-045",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 45,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The equivalent resistance of two resistors connected in series is $6\\,\\Omega$ and their parallel equivalent resistance is $\\frac{4}{3}\\,\\Omega$. What are the values of resistances ?",
+  "options": [
+   "$4\\,\\Omega, 6\\,\\Omega$",
+   "$8\\,\\Omega, 1\\,\\Omega$",
+   "$4\\,\\Omega, 2\\,\\Omega$",
+   "$6\\,\\Omega, 2\\,\\Omega$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-046",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 46,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "In a potentiometer experiment of a cell of emf $1.25\\,\\mathrm{V}$ gives balancing length of $30\\,\\mathrm{cm}$. If the cell is replaced by another cell, balancing length is found to be $40\\,\\mathrm{cm}$. What is the emf of second cell ?",
+  "options": [
+   "$\\simeq 1.57\\,\\mathrm{V}$",
+   "$\\simeq 1.67\\,\\mathrm{V}$",
+   "$\\simeq 1.47\\,\\mathrm{V}$",
+   "$\\simeq 1.37\\,\\mathrm{V}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-047",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 47,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A charged particle experiences magnetic force in the presence of magnetic field. Which of the following statement is correct ?",
+  "options": [
+   "The particle is moving and magnetic field is perpendicular to the velocity.",
+   "The particle is moving and magnetic field is parallel to velocity.",
+   "The particle is stationary and magnetic field is perpendicular.",
+   "The particle is stationary and magnetic field is parallel."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-048",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 48,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "If a velocity has both perpendicular and parallel components while moving through a magnetic field, what is the path followed by a charged particle ?",
+  "options": [
+   "Circular",
+   "Elliptical",
+   "Linear",
+   "Helical"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-049",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 49,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A solenoid has length $0.4\\,\\mathrm{cm}$, radius $1\\,\\mathrm{cm}$ and $400$ turns of wire. If a current of $5\\,\\mathrm{A}$ is passed through this solenoid, what is the magnetic field inside the solenoid ?",
+  "options": [
+   "$6.28 \\times 10^{-4}\\,\\mathrm{T}$",
+   "$6.28 \\times 10^{-3}\\,\\mathrm{T}$",
+   "$6.28 \\times 10^{-7}\\,\\mathrm{T}$",
+   "$6.28 \\times 10^{-6}\\,\\mathrm{T}$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2014-physics-050",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 50,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A gyromagnetic ratio of the electron revolving in a circular orbit of hydrogen atom is $8.8 \\times 10^{10}\\,\\mathrm{C\\,kg^{-1}}$. What is the mass of the electron ? Given charge of the electron = $1.6 \\times 10^{-19}\\,\\mathrm{C}$.",
+  "options": [
+   "$1 \\times 10^{-29}\\,\\mathrm{kg}$",
+   "$0.1 \\times 10^{-29}\\,\\mathrm{kg}$",
+   "$1.1 \\times 10^{-29}\\,\\mathrm{kg}$",
+   "$\\frac{1}{11} \\times 10^{-29}\\,\\mathrm{kg}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-051",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 51,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "What is the value of shunt resistance required to convert a galvanometer of resistance $100\\,\\Omega$ into an ammeter of range $1\\,\\mathrm{A}$ ? Given : Full scale deflection of the galvanometer is $5\\,\\mathrm{mA}$.",
+  "options": [
+   "$\\frac{5}{9.95}\\,\\Omega$",
+   "$\\frac{9.95}{5}\\,\\Omega$",
+   "$0.5\\,\\Omega$",
+   "$0.05\\,\\Omega$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-052",
+  "subject": "physics",
+  "chapter": "magnetism-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 52,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A circular coil of radius $10\\,\\mathrm{cm}$ and $100$ turns carries a current $1\\,\\mathrm{A}$. What is the magnetic moment of the coil ?",
+  "options": [
+   "$3.142 \\times 10^{4}\\,\\mathrm{A\\,m^2}$",
+   "$10^{4}\\,\\mathrm{A\\,m^2}$",
+   "$3.142\\,\\mathrm{A\\,m^2}$",
+   "$3\\,\\mathrm{A\\,m^2}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-053",
+  "subject": "physics",
+  "chapter": "magnetism-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 53,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A susceptibility of a certain magnetic material is $400$. What is the class of the magnetic material ?",
+  "options": [
+   "Diamagnetic",
+   "Paramagnetic",
+   "Ferromagnetic",
+   "Ferroelectric"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-054",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 54,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A solenoid of inductance $2\\,\\mathrm{H}$ carries a current of $1\\,\\mathrm{A}$. What is the magnetic energy stored in a solenoid ?",
+  "options": [
+   "$2\\,\\mathrm{J}$",
+   "$1\\,\\mathrm{J}$",
+   "$4\\,\\mathrm{J}$",
+   "$5\\,\\mathrm{J}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-055",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 55,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A multimeter reads a voltage of a certain A.C. source as $100\\,\\mathrm{V}$. What is the peak value of voltage of A.C. source ?",
+  "options": [
+   "$200\\,\\mathrm{V}$",
+   "$100\\,\\mathrm{V}$",
+   "$141.4\\,\\mathrm{V}$",
+   "$400\\,\\mathrm{V}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-056",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 56,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A series LCR circuit contains inductance $5\\,\\mathrm{mH}$, capacitance $2\\,\\mu\\mathrm{F}$ and resistance $10\\,\\Omega$. If a frequency A.C. source is varied, what is the frequency at which maximum power is dissipated ?",
+  "options": [
+   "$\\frac{10^{5}}{\\pi}\\,\\mathrm{Hz}$",
+   "$\\frac{10^{-5}}{\\pi}\\,\\mathrm{Hz}$",
+   "$\\frac{2}{\\pi} \\times 10^{5}\\,\\mathrm{Hz}$",
+   "$\\frac{5}{\\pi} \\times 10^{3}\\,\\mathrm{Hz}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-057",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 57,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A step down transformer has $50$ turns on secondary and $1000$ turns on primary winding. If a transformer is connected to $220\\,\\mathrm{V}$ $1\\,\\mathrm{A}$ A.C. source, what is output current of the transformer ?",
+  "options": [
+   "$\\frac{1}{20}\\,\\mathrm{A}$",
+   "$20\\,\\mathrm{A}$",
+   "$100\\,\\mathrm{A}$",
+   "$2\\,\\mathrm{A}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-058",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 58,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The average power dissipated in A.C. circuit is $2$ watt. If a current flowing through a circuit is $2\\,\\mathrm{A}$ and impedance is $1\\,\\Omega$, what is the power factor of the AC circuit ?",
+  "options": [
+   "$0.5$",
+   "$1$",
+   "$0$",
+   "$\\frac{1}{\\sqrt{2}}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-059",
+  "subject": "physics",
+  "chapter": "electromagnetic-waves",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 59,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A plane electromagnetic wave of frequency $20\\,\\mathrm{MHz}$ travels through a space along $x$ direction. If the electric field vector at a certain point in space is $6\\,\\mathrm{V\\,m^{-1}}$, what is the magnetic field vector at that point ?",
+  "options": [
+   "$2 \\times 10^{-8}\\,\\mathrm{T}$",
+   "$\\frac{1}{2} \\times 10^{-8}\\,\\mathrm{T}$",
+   "$2\\,\\mathrm{T}$",
+   "$\\frac{1}{2}\\,\\mathrm{T}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2014-physics-060",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2014",
+   "year": 2014,
+   "version": "A1",
+   "number": 60,
+   "file": "sources/pyq/2014/physics/2014-physics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2014/physics/2014-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Two capacitors of $10\\,\\mathrm{PF}$ and $20\\,\\mathrm{PF}$ are connected to $200\\,\\mathrm{V}$ and $100\\,\\mathrm{V}$ sources respectively. If they are connected by the wire, what is the common potential of the capacitors ?",
+  "options": [
+   "$133.3\\,\\mathrm{volt}$",
+   "$150\\,\\mathrm{volt}$",
+   "$300\\,\\mathrm{volt}$",
+   "$400\\,\\mathrm{volt}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

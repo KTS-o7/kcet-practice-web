@@ -1,0 +1,2106 @@
+[
+ {
+  "id": "pyq-2008-chemistry-061",
+  "subject": "chemistry",
+  "chapter": "classification-of-elements-and-periodicity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 61,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The correct order in which the first ionisation potential increases is",
+  "options": [
+   "$\\mathrm{Na, K, Be}$",
+   "$\\mathrm{K, Na, Be}$",
+   "$\\mathrm{K, Be, Na}$",
+   "$\\mathrm{Be, Na, K}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-062",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 62,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "$\\mathrm{10\\ cm^3}$ of 0.1 N monobasic acid requires $\\mathrm{15\\ cm^3}$ of sodium hydroxide solution whose normality is",
+  "options": [
+   "1.5 N",
+   "0.15 N",
+   "0.066 N",
+   "0.66 N"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-063",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 63,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The IUPAC name for tertiary butyl iodide is",
+  "options": [
+   "4-Iodobutane",
+   "2-Iodobutane",
+   "1-Iodo, 3-methyl propane",
+   "2-Iodo 2-methyl propane"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-064",
+  "subject": "chemistry",
+  "chapter": "redox-reactions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 64,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "When sulphur dioxide is passed in an acidified $\\mathrm{K_2Cr_2O_7}$ solution, the oxidation state of sulphur is changed from",
+  "options": [
+   "+4 to 0",
+   "+4 to +2",
+   "+4 to +6",
+   "+6 to +4"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-065",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 65,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "Mass of 0.1 mole of Methane is",
+  "options": [
+   "1 g",
+   "16 g",
+   "1.6 g",
+   "0.1 g"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-066",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 66,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "Methoxy methane and ethanol are",
+  "options": [
+   "Position isomers",
+   "Chain isomers",
+   "Functional isomers",
+   "Optical isomers"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-067",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 67,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "When the azimuthal quantum number has the value of 2, the number of orbitals possible are",
+  "options": [
+   "7",
+   "5",
+   "3",
+   "0"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-068",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 68,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "For the reaction $\\mathrm{Fe_2O_3 + 3CO \\longrightarrow 2Fe + 3CO_2}$ the volume of carbon monoxide required to reduce one mole of ferric oxide is",
+  "options": [
+   "$22.4\\ \\mathrm{dm^3}$",
+   "$44.8\\ \\mathrm{dm^3}$",
+   "$67.2\\ \\mathrm{dm^3}$",
+   "$11.2\\ \\mathrm{dm^3}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-069",
+  "subject": "chemistry",
+  "chapter": "polymers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 69,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The monomers of Buna-S rubber are",
+  "options": [
+   "vinyl chloride and sulphur",
+   "butadiene",
+   "styrene and butadiene",
+   "isoprene and butadiene"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-070",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 70,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "An element with atomic number 21 is a",
+  "options": [
+   "halogen",
+   "representative element",
+   "transition element",
+   "alkali metal"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-071",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 71,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The maximum number of hydrogen bonds that a molecule of water can have is",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-072",
+  "subject": "chemistry",
+  "chapter": "states-of-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 72,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "A gas deviates from ideal behaviour at a high pressure because its molecules",
+  "options": [
+   "attract one another",
+   "show the Tyndall effect",
+   "have kinetic energy",
+   "are bound by covalent bonds"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-073",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 73,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The reagent used to convert an alkyne to alkene is",
+  "options": [
+   "$\\mathrm{Zn\\ /\\ HCl}$",
+   "$\\mathrm{Sn\\ /\\ HCl}$",
+   "$\\mathrm{Zn-Hg\\ /\\ HCl}$",
+   "$\\mathrm{Pd\\ /\\ H_2}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-074",
+  "subject": "chemistry",
+  "chapter": "general-principles-and-processes-of-isolation-of-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 74,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "When compared to $\\Delta G^0$ for the formation of $\\mathrm{Al_2O_3}$, the $\\Delta G^0$ for the formation of $\\mathrm{Cr_2O_3}$ is",
+  "options": [
+   "higher",
+   "lower",
+   "same",
+   "unpredicted"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-075",
+  "subject": "chemistry",
+  "chapter": "states-of-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 75,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "In order to increase the volume of a gas by 10%, the pressure of the gas should be",
+  "options": [
+   "increased by 10 %",
+   "increased by 1 %",
+   "decreased by 10 %",
+   "decreased by 1 %"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-076",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 76,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "Catalytic dehydrogenation of a primary alcohol gives a",
+  "options": [
+   "secondary alcohol",
+   "aldehyde",
+   "ketone",
+   "ester"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-077",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-12",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 77,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "Excess of $\\mathrm{PCl_5}$ reacts with conc. $\\mathrm{H_2SO_4}$ giving",
+  "options": [
+   "chlorosulphonic acid",
+   "thionyl chloride",
+   "sulphuryl chloride",
+   "sulphurous acid"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-078",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 78,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "If one mole of ammonia and one mole of hydrogen chloride are mixed in a closed container to form ammonium chloride gas, then",
+  "options": [
+   "$\\Delta H > \\Delta u$",
+   "$\\Delta H = \\Delta u$",
+   "$\\Delta H < \\Delta u$",
+   "there is no relationship"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-079",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 79,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The compound on dehydrogenation gives a ketone. The original compound is",
+  "options": [
+   "primary alcohol",
+   "secondary alcohol",
+   "tertiary alcohol",
+   "carboxylic acid"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-080",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-11",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 80,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "Which is the most easily liquifiable rare gas ?",
+  "options": [
+   "$\\mathrm{Xe}$",
+   "$\\mathrm{Kr}$",
+   "$\\mathrm{Ar}$",
+   "$\\mathrm{Ne}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-081",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 81,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "Mesomeric effect involves delocalisation of",
+  "options": [
+   "pi electrons",
+   "sigma electrons",
+   "protons",
+   "none of these"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-082",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 82,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "Which of the following has the maximum number of unpaired 'd' electrons ?",
+  "options": [
+   "$\\mathrm{Zn^{2+}}$",
+   "$\\mathrm{Fe^{2+}}$",
+   "$\\mathrm{Ni^{3+}}$",
+   "$\\mathrm{Cu^{+}}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-083",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 83,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "One mole of which of the following has the highest entropy?",
+  "options": [
+   "liquid nitrogen",
+   "hydrogen gas",
+   "mercury",
+   "diamond"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-084",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 84,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "Which of the following species does not exert a resonance effect ?",
+  "options": [
+   "$\\mathrm{C_6H_5NH_2}$",
+   "$\\mathrm{C_6H_5NH_3^{+}}$",
+   "$\\mathrm{C_6H_5OH}$",
+   "$\\mathrm{C_6H_5Cl}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-085",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 85,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "A complex compound in which the oxidation number of a metal is zero is",
+  "options": [
+   "$\\mathrm{K_4[Fe(CN)_6]}$",
+   "$\\mathrm{K_3[Fe(CN)_6]}$",
+   "$\\mathrm{[Ni(CO)_4]}$",
+   "$\\mathrm{[Pl(NH_3)_4]Cl_2}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-086",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 86,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "Three moles of $\\mathrm{PCl_5}$, three moles of $\\mathrm{PCl_3}$ and two moles of $\\mathrm{Cl_2}$ are taken in a closed vessel. If at equilibrium the vessel has 1.5 moles of $\\mathrm{PCl_5}$, the number of moles of $\\mathrm{PCl_3}$ present in it is",
+  "options": [
+   "5",
+   "3",
+   "6",
+   "4.5"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-087",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 87,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "How many optically active stereomers are possible for butan-2, 3-diol ?",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-088",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 88,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "An octahedral complex is formed when hybrid orbitals of the following type are involved",
+  "options": [
+   "$sp^3$",
+   "$dsp^2$",
+   "$d^2sp^3$",
+   "$sp^2d^2$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-089",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 89,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "For the reaction $\\mathrm{2HI_{(g)} \\rightleftharpoons H_{2(g)} + I_{2(g)}}$ $-Q\\ \\mathrm{KJ}$, the equilibrium constant depends upon",
+  "options": [
+   "temperature",
+   "pressure",
+   "catalyst",
+   "volume"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-090",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 90,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The angle strain in cyclobutane is",
+  "options": [
+   "$24^\\circ 44'$",
+   "$29^\\circ 16'$",
+   "$19^\\circ 22'$",
+   "$9^\\circ 44'$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-091",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 91,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The number of nodal planes present in $\\sigma^{*}s$ antibonding orbitals is",
+  "options": [
+   "1",
+   "2",
+   "0",
+   "3"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-092",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 92,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "Which of the following electrolytic solutions has the least specific conductance ?",
+  "options": [
+   "0.02 N",
+   "0.2 N",
+   "2 N",
+   "0.002 N"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-093",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 93,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The overlapping of orbitals in benzene is of the type",
+  "options": [
+   "$sp-sp$",
+   "$p-p$",
+   "$sp^2-sp^2$",
+   "$sp^3-sp^3$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1,
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-094",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 94,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The calculated bond order of superoxide ion $\\left(\\mathrm{O_2^{-}}\\right)$ is",
+  "options": [
+   "2.5",
+   "2",
+   "1.5",
+   "1"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-095",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 95,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "Which of the following can be measured by the Ostwald-Walker dynamic method ?",
+  "options": [
+   "Relative lowering of vapour pressure",
+   "Lowering of vapour pressure",
+   "Vapour pressure of the solvent",
+   "all of these"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "key_confirmed",
+   "notes": "Transcription exact; Ostwald-Walker gives relative lowering of vapour pressure; matches key."
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-096",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 96,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "n-propyl bromide on treating with alcoholic $\\mathrm{KOH}$ produces",
+  "options": [
+   "propane",
+   "propene",
+   "propyne",
+   "propanol"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-097",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 97,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "Mercury is a liquid metal because",
+  "options": [
+   "it has a completely filled s-orbital",
+   "it has a small atomic size",
+   "it has a completely filled $d$-orbital that prevents $d$-$d$ overlapping of orbitals",
+   "it has a completely filled $d$-orbital that causes $d$-$d$ overlapping"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-098",
+  "subject": "chemistry",
+  "chapter": "the-solid-state",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 98,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "A compound is formed by elements $A$ and $B$. This crystallises in the cubic structure where the $A$ atoms are at the corners of the cube and $B$ atoms are at the body centres. The simplest formula of the compound is",
+  "options": [
+   "$AB$",
+   "$A_6B$",
+   "$A_8B_4$",
+   "$AB_6$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-099",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 99,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "Anisole can be prepared by the action of methyl iodide on sodium phenate. The reaction is called",
+  "options": [
+   "Wurtz's reaction",
+   "Williamson's reaction",
+   "Fittig's reaction",
+   "Etard's reaction"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-100",
+  "subject": "chemistry",
+  "chapter": "the-solid-state",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 100,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "Malleability and ductility of metals can be accounted due to",
+  "options": [
+   "the presence of electrostatic force",
+   "the crystalline structure in metal",
+   "the capacity of layers of metal ions to slide over the other",
+   "the interaction of electrons with metal ions in the lattice"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-101",
+  "subject": "chemistry",
+  "chapter": "the-solid-state",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 101,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "An ionic compound is expected to have tetrahedral structure if $\\frac{r_+}{r_-}$ lies in the range of",
+  "options": [
+   "0.414 to 0.732",
+   "0.225 to 0.414",
+   "0.155 to 0.225",
+   "0.732 to 1"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-102",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 102,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "Among the following, which is least acidic ?",
+  "options": [
+   "phenol",
+   "O-cresol",
+   "p-nitrophenol",
+   "p-chlorophenol"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-103",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 103,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "A ligand can also be regarded as",
+  "options": [
+   "Lewis acid",
+   "Bronsted base",
+   "Lewis base",
+   "Bronsted acid"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-104",
+  "subject": "chemistry",
+  "chapter": "surface-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 104,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The colour of sky is due to",
+  "options": [
+   "transmission of light",
+   "wavelength of scattered light",
+   "absorption of light by atmospheric gases",
+   "All of these"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-105",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 105,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "Which of the following organic compounds answers to both iodoform test and Fehling's test?",
+  "options": [
+   "ethanol",
+   "methanal",
+   "ethanal",
+   "propanone"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-106",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-11",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 106,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "Helium is used in balloons in place of hydrogen because it is",
+  "options": [
+   "incombustible",
+   "lighter than hydrogen",
+   "radioactive",
+   "more abundant than hydrogen"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-107",
+  "subject": "chemistry",
+  "chapter": "surface-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 107,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The basic principle of Cottnell's precipitator is",
+  "options": [
+   "Le-chatelier's principle",
+   "peptisation",
+   "neutralisation of charge on colloidal particles",
+   "scattering of light"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-108",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 108,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "When carbon monoxide is passed over solid caustic soda heated to $200^\\circ\\mathrm{C}$, it forms",
+  "options": [
+   "$\\mathrm{Na_2CO_3}$",
+   "$\\mathrm{NaHCO_3}$",
+   "$\\mathrm{HCOONa}$",
+   "$\\mathrm{CH_3COONa}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-109",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 109,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "$\\mathrm{N_2 + 3H_2 \\rightleftharpoons 2NH_3 + heat}$. What is the effect of the increase of temperature on the equilibrium of the reaction?",
+  "options": [
+   "equilibrium is shifted to the left",
+   "equilibrium is shifted to the right",
+   "equilibrium is unaltered",
+   "reaction rate does not change"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-110",
+  "subject": "chemistry",
+  "chapter": "redox-reactions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 110,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "Hydrogen gas is not liberated when the following metal is added to dil. $\\mathrm{HCl}$",
+  "options": [
+   "$\\mathrm{Ag}$",
+   "$\\mathrm{Zn}$",
+   "$\\mathrm{Mg}$",
+   "$\\mathrm{Sn}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-111",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 111,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "Consider the Born-Haber cycle for the formation of an ionic compound given below and identify the compound $(Z)$ formed.",
+  "options": [
+   "$\\mathrm{M^{+}X^{-}}$",
+   "$\\mathrm{M^{-}X^{-}_{(s)}}$",
+   "$\\mathrm{MX}$",
+   "$\\mathrm{M^{+}X^{-}_{(g)}}$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [
+   "pyq-2008-chemistry-111.png"
+  ],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-112",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 112,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "In the brown ring test, the brown colour of the ring is due to",
+  "options": [
+   "ferrous nitrate",
+   "ferric nitrate",
+   "a mixture of $\\mathrm{NO}$ and $\\mathrm{NO_2}$",
+   "nitrosoferrous sulphate"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-113",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 113,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "Amines behave as",
+  "options": [
+   "Lewis acids",
+   "Lewis base",
+   "aprotic acid",
+   "neutral compound"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-114",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 114,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "Dalda is prepared from oils by",
+  "options": [
+   "oxidation",
+   "reduction",
+   "hydrolysis",
+   "distillation"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-115",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 115,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The chemical name of anisole is",
+  "options": [
+   "Ethanoic acid",
+   "Methoxy benzene",
+   "Propanone",
+   "Acetone"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-116",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 116,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "The number of disulphide linkages present in insulin are",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "disputed",
+   "notes": "Key cell re-read as 2 (confirmed on image) and transcription exact, but insulin has 3 disulphide linkages (2 inter-chain, 1 intra-chain in A), so option 3; key appears wrong.",
+   "disputed": true,
+   "status_reason": "official key kept; Sonnet disagrees"
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-117",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 117,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "80 g of oxygen contains as many atoms as in",
+  "options": [
+   "80 g of hydrogen",
+   "1 g of hydrogen",
+   "10 g of hydrogen",
+   "5 g of hydrogen"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-118",
+  "subject": "chemistry",
+  "chapter": "general-principles-and-processes-of-isolation-of-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 118,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "Which metal has a greater tendency to form metal oxide ?",
+  "options": [
+   "$\\mathrm{Cr}$",
+   "$\\mathrm{Fe}$",
+   "$\\mathrm{Al}$",
+   "$\\mathrm{Ca}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-119",
+  "subject": "chemistry",
+  "chapter": "general-principles-and-processes-of-isolation-of-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 119,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "Identify the reaction that does not take place in a blast furnace.",
+  "options": [
+   "$\\mathrm{CaCO_3 \\longrightarrow CaO + CO_2}$",
+   "$\\mathrm{CaO + SiO_2 \\longrightarrow CaSiO_3}$",
+   "$\\mathrm{2Fe_2O_3 + 3C \\longrightarrow 4Fe + 3CO_2}$",
+   "$\\mathrm{CO_2 + C \\longrightarrow 2CO}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2008-chemistry-120",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2008",
+   "year": 2008,
+   "version": "A1",
+   "number": 120,
+   "file": "sources/pyq/2008/chemistry/2008-chemistry-question_paper-A1-indcareer.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2008/physics/2008-physics-answer_key-A1-kea-wayback.pdf"
+  },
+  "stem": "Waxes are esters of",
+  "options": [
+   "glycerol",
+   "long chain alcohols",
+   "glycerol and fatty acid",
+   "long chain alcohols and long chain fatty acids"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

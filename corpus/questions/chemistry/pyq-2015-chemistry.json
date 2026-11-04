@@ -1,0 +1,2115 @@
+[
+ {
+  "id": "pyq-2015-chemistry-001",
+  "subject": "chemistry",
+  "chapter": "the-solid-state",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 1,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "The unit cell with crystallographic dimensions, $a \\neq b \\neq c$, $\\alpha = \\gamma = 90$ and $\\beta \\neq 90$ is",
+  "options": [
+   "Triclinic",
+   "Monoclinic",
+   "Orthorhombic",
+   "Tetragonal"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-002",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 2,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "While charging the lead storage battery, ________.",
+  "options": [
+   "$\\mathrm{PbSO_4}$ on anode is reduced to Pb",
+   "$\\mathrm{PbSO_4}$ on cathode is reduced to Pb",
+   "$\\mathrm{PbSO_4}$ on cathode is oxidized to Pb",
+   "$\\mathrm{PbSO_4}$ on anode is oxidized to $\\mathrm{PbO_2}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "disputed",
+   "notes": "Key cell reads 1 (confirmed). On charging, PbSO4 at the anode (positive plate) is oxidized to PbO2; option 1 (anode reduced to Pb) is chemically wrong.",
+   "disputed": true,
+   "status_reason": "official key kept; Sonnet disagrees"
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-003",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 3,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "Adenosine is an example of",
+  "options": [
+   "Nucleotide",
+   "Purine base",
+   "Pyrimidine base",
+   "Nucleoside"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-004",
+  "subject": "chemistry",
+  "chapter": "polymers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 4,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "Orlon has monomeric unit",
+  "options": [
+   "Acrolein",
+   "Glycol",
+   "Vinyl cyanide",
+   "Isoprene"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-005",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 5,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "The two electrons have the following set of quantum numbers :\n\n$P = 3, 2, -2, +\\frac{1}{2}$\n\n$Q = 3, 0, 0, +\\frac{1}{2}$\n\nWhich of the following statement is true ?",
+  "options": [
+   "P and Q have same energy",
+   "P has greater energy than Q",
+   "P has lesser energy than Q",
+   "P and Q represent same electron"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-006",
+  "subject": "chemistry",
+  "chapter": "redox-reactions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 6,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "$\\mathrm{H_2O_2}$ cannot oxidise",
+  "options": [
+   "PbS",
+   "$\\mathrm{Na_2SO_3}$",
+   "$\\mathrm{O_3}$",
+   "$\\mathrm{KI}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-007",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 7,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "In the given set of reactions,\n\n2-Bromopropane $\\xrightarrow[\\text{alc./heat}]{\\mathrm{AgCN}}$ X $\\xrightarrow{\\mathrm{LiAlH_4}}$ Y\n\nthe IUPAC name of product ‘Y’ is",
+  "options": [
+   "N-Methylpropanamine",
+   "N-Isopropylmethanamine",
+   "Butan-2-amine",
+   "N-Methylpropan-2-amine"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-008",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-12",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 8,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "On heating with concentrated NaOH solution in an inert atmosphere of $\\mathrm{CO_2}$, white phosphorous gives a gas. Which of the following statement is $\\underline{\\text{incorrect}}$ about the gas ?",
+  "options": [
+   "It is less basic than $\\mathrm{NH_3}$.",
+   "It is more basic than $\\mathrm{NH_3}$.",
+   "It is highly poisonous and has smell like rotten fish.",
+   "It’s solution in water decomposes in the presence of light."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-009",
+  "subject": "chemistry",
+  "chapter": "the-solid-state",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 9,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "Sodium metal crystallizes in B.C.C. lattice with edge length of $4.29\\ \\mathrm{\\AA}$. The radius of sodium atom is",
+  "options": [
+   "$2.857\\ \\mathrm{\\AA}$",
+   "$1.601\\ \\mathrm{\\AA}$",
+   "$2.145\\ \\mathrm{\\AA}$",
+   "$1.857\\ \\mathrm{\\AA}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-010",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 10,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "0.06% (w/v) aqueous solution of urea is isotonic with",
+  "options": [
+   "0.06% glucose solution",
+   "0.6% glucose solution",
+   "0.01 M glucose solution",
+   "0.1 M glucose solution"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-011",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 11,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "In a first order reaction, the concentration of the reactant is reduced to 12.5% in one hour. When was it half completed ?",
+  "options": [
+   "3 hr",
+   "20 min",
+   "30 min",
+   "15 min"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-012",
+  "subject": "chemistry",
+  "chapter": "surface-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 12,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "The electrolyte having maximum flocculation value for $\\mathrm{AgI/Ag^{+}}$ sol. is",
+  "options": [
+   "$\\mathrm{NaCl}$",
+   "$\\mathrm{Na_2S}$",
+   "$\\mathrm{Na_2SO_4}$",
+   "$\\mathrm{Na_3PO_4}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "key_confirmed",
+   "notes": "Key 1 = NaCl; lowest anion charge gives highest flocculation value for positive AgI/Ag+ sol; solver disagreement was the blind solver's."
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-013",
+  "subject": "chemistry",
+  "chapter": "general-principles-and-processes-of-isolation-of-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 13,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "Copper is extracted from Copper pyrites by heating in a Bessemer converter. The method is based on the principle that",
+  "options": [
+   "Copper has more affinity for oxygen than Sulphur at high temperature.",
+   "Iron has less affinity for oxygen than Sulphur at high temperature.",
+   "Copper has less affinity for oxygen than Sulphur at high temperature.",
+   "Sulphur has less affinity for oxygen at high temperature."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "disputed",
+   "notes": "Key cell reads 1 (confirmed). Cu has LESS affinity for O than S (Cu2S stays while FeS oxidises); option 1 states the reverse, so key looks wrong; option 3 is correct.",
+   "disputed": true,
+   "status_reason": "official key kept; Sonnet disagrees"
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-014",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 14,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "Which of the following will be able to show geometrical isomerism ?",
+  "options": [
+   "$\\mathrm{MA_3B}$ – Square planar",
+   "$\\mathrm{MA_2B_2}$ – Tetrahedral",
+   "$\\mathrm{MABCD}$ – Square planar",
+   "$\\mathrm{MABCD}$ – Tetrahedral"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-015",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 15,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "The electronic configuration of $\\mathrm{Gd^{2+}}$ is (at. no. of Gd is 64)",
+  "options": [
+   "$\\mathrm{[Xe]\\,4f^{8}}$",
+   "$\\mathrm{[Xe]\\,4f^{7}}$",
+   "$\\mathrm{[Xe]\\,4f^{7}\\,5d^{1}\\,6s^{2}}$",
+   "$\\mathrm{[Xe]\\,4f^{7}\\,5d^{1}}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-016",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 16,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "$\\mathrm{MSO_4} \\xrightarrow{\\mathrm{NH_4OH}} \\downarrow \\mathrm{X}$ (white) $\\xrightarrow[\\text{excess}]{\\mathrm{NH_4OH}} \\mathrm{Y} \\xrightarrow{\\mathrm{H_2S}} \\downarrow \\mathrm{Z}$\n\nHere M and Z are",
+  "options": [
+   "Cu, $\\mathrm{ZnS}$",
+   "Zn, $\\mathrm{ZnS}$",
+   "Fe, $\\mathrm{FeS}$",
+   "Al, $\\mathrm{Al_2S_3}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-017",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 17,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "The hydrolysis of optically active 2-bromobutane with aqueous NaOH result in the formation of",
+  "options": [
+   "(+) butan-2-ol",
+   "(-) butan-2-ol",
+   "(±) butan-1-ol",
+   "(±) butan-2-ol"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-018",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 18,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "The distinguishing test between methanoic acid and ethanoic acid is",
+  "options": [
+   "Litmus test",
+   "Tollen’s test",
+   "Esterification test",
+   "Sodium bicarbonate test"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-019",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 19,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "In $\\mathrm{H_2 - O_2}$ fuel cell the reaction occurring at cathode is",
+  "options": [
+   "$\\mathrm{2H_{2(g)} + O_{2(g)} \\longrightarrow 2H_2O_{(l)}}$",
+   "$\\mathrm{O_{2(g)} + 2H_2O_{(l)} + 4e^{-} \\longrightarrow 4OH^{-}_{(aq)}}$",
+   "$\\mathrm{H^{+} + e^{-} \\longrightarrow \\frac{1}{2}H_2}$",
+   "$\\mathrm{H^{+}_{(aq)} + OH^{-}_{(aq)} \\longrightarrow H_2O_{(l)}}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-020",
+  "subject": "chemistry",
+  "chapter": "surface-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 20,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "Which of the following curve is in accordance with Freundlich adsorption isotherm ?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2015-chemistry-020.png"
+  ],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-021",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 21,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "How many ions per molecule are produced in the solution when Mohr salt is dissolved in excess of water ?",
+  "options": [
+   "4",
+   "5",
+   "6",
+   "10"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-022",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 22,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "Glycogen is",
+  "options": [
+   "a polymer of $\\beta$-D-glucose units",
+   "a structural polysaccharide",
+   "structurally very much similar to amylopectin",
+   "structurally similar to amylopectin but extensively branched"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-023",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 23,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "Number of possible alkynes with formula $\\mathrm{C_5H_8}$ is",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-024",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 24,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "Which of the following aqueous solution has the highest freezing point ?",
+  "options": [
+   "0.1 M Sucrose",
+   "0.01 M $\\mathrm{NaCl}$",
+   "0.1 M $\\mathrm{NaCl}$",
+   "0.01 M $\\mathrm{Na_2SO_4}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "key_confirmed",
+   "notes": "Key cell reads 2 = 0.01 M NaCl (i*m = 0.02, lowest) giving highest freezing point."
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-025",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 25,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "Half life period of a first order reaction is 10 min. Starting with initial concentration 12 M, the rate after 20 min is",
+  "options": [
+   "$0.0693\\ \\mathrm{M\\,min^{-1}}$",
+   "$0.693 \\times 3\\ \\mathrm{M\\,min^{-1}}$",
+   "$0.0693 \\times 3\\ \\mathrm{M\\,min^{-1}}$",
+   "$0.0693 \\times 4\\ \\mathrm{M\\,min^{-1}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-026",
+  "subject": "chemistry",
+  "chapter": "the-s-block-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 26,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "The salt which responds to dilute and concentrated $\\mathrm{H_2SO_4}$ is",
+  "options": [
+   "$\\mathrm{CaF_2}$",
+   "$\\mathrm{Ba(NO_3)_2}$",
+   "$\\mathrm{Na_2SO_4}$",
+   "$\\mathrm{Na_3PO_4}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-027",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 27,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "On heating potassium permanganate, one of the following compound is not obtained :",
+  "options": [
+   "$\\mathrm{O_2}$",
+   "$\\mathrm{MnO}$",
+   "$\\mathrm{MnO_2}$",
+   "$\\mathrm{K_2MnO_4}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-028",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 28,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "The product ‘B’ is",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2015-chemistry-028.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-029",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 29,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "The formation of cyanohydrin from a ketone is an example of",
+  "options": [
+   "Nucleophilic substitution",
+   "Nucleophilic addition",
+   "Electrophilic addition",
+   "Electrophilic substitution"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-030",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 30,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "One of the following is an essential amino acid.",
+  "options": [
+   "Tyrosine",
+   "Cysteine",
+   "Isoleucine",
+   "Serine"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-031",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 31,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "The aqueous solution of following salt will have the lowest pH :",
+  "options": [
+   "$\\mathrm{NaClO_3}$",
+   "$\\mathrm{NaClO}$",
+   "$\\mathrm{NaClO_2}$",
+   "$\\mathrm{NaClO_4}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-032",
+  "subject": "chemistry",
+  "chapter": "classification-of-elements-and-periodicity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 32,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "For one of the element various successive ionization enthalpies (in $\\mathrm{kJ\\,mol^{-1}}$) are given below :\n\n| | 1st | 2nd | 3rd | 4th | 5th |\n|---|---|---|---|---|---|\n| I.E. | 577.5 | 1810 | 2750 | 11,580 | 14,820 |\n\nThe element is",
+  "options": [
+   "Si",
+   "P",
+   "Al",
+   "Mg"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-033",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 33,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "0.30 g of an organic compound containing C, H and Oxygen on combustion yields 0.44 g $\\mathrm{CO_2}$ and 0.18 g $\\mathrm{H_2O}$. If one mol of compound weighs 60, then molecular formula of the compound is",
+  "options": [
+   "$\\mathrm{CH_2O}$",
+   "$\\mathrm{C_3H_8O}$",
+   "$\\mathrm{C_4H_6O}$",
+   "$\\mathrm{C_2H_4O_2}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-034",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 34,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "One of the following amide will not undergo Hoffmann bromamide reaction :",
+  "options": [
+   "$\\mathrm{CH_3CONH_2}$",
+   "$\\mathrm{CH_3CONHCH_3}$",
+   "$\\mathrm{C_6H_5CONH_2}$",
+   "$\\mathrm{CH_3CH_2CONH_2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-035",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 35,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "Cheilosis and digestive disorders are due to the deficiency of",
+  "options": [
+   "Thiamine",
+   "Ascorbic acid",
+   "Riboflavin",
+   "Pyridoxine"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-036",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 36,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "How many Coulombs of electricity are required for the oxidation of one mol of water to dioxygen ?",
+  "options": [
+   "$9.65 \\times 10^4\\ \\mathrm{C}$",
+   "$1.93 \\times 10^4\\ \\mathrm{C}$",
+   "$1.93 \\times 10^5\\ \\mathrm{C}$",
+   "$19.3 \\times 10^5\\ \\mathrm{C}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-037",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 37,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "$100\\ \\mathrm{cm^3}$ of $1\\ \\mathrm{M}$ $\\mathrm{CH_3COOH}$ was mixed with $100\\ \\mathrm{cm^3}$ of $2\\ \\mathrm{M}$ $\\mathrm{CH_3OH}$ to form an ester. The change in the initial rate if each solution is diluted with equal volume of water would be",
+  "options": [
+   "2 times",
+   "4 times",
+   "0.5 times",
+   "0.25 times"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-038",
+  "subject": "chemistry",
+  "chapter": "surface-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 38,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "Which of the following colloids cannot be easily coagulated ?",
+  "options": [
+   "Lyophobic colloids",
+   "Multimolecular colloids",
+   "Macromolecular colloids",
+   "Irreversible colloids"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-039",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 39,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "The complex ion having minimum magnitude of $\\Delta_0$(CFSE) is",
+  "options": [
+   "$\\mathrm{[Cr(CN)_6]^{3-}}$",
+   "$\\mathrm{[Co(NH_3)_6]^{3+}}$",
+   "$\\mathrm{[Co(Cl)_6]^{3-}}$",
+   "$\\mathrm{[Cr(H_2O)_6]^{3+}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-040",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 40,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "The arrangement of following compounds :\n\ni. bromomethane\n\nii. bromoform\n\niii. chloromethane\n\niv. dibromomethane\n\nIn the increasing order of their boiling point is",
+  "options": [
+   "$\\mathrm{iii} < \\mathrm{i} < \\mathrm{iv} < \\mathrm{ii}$",
+   "$\\mathrm{iv} < \\mathrm{iii} < \\mathrm{i} < \\mathrm{ii}$",
+   "$\\mathrm{ii} < \\mathrm{iii} < \\mathrm{i} < \\mathrm{iv}$",
+   "$\\mathrm{i} < \\mathrm{ii} < \\mathrm{iii} < \\mathrm{iv}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-041",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 41,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "Iodoform can be prepared from all, except",
+  "options": [
+   "propan-2-ol",
+   "butan-2-one",
+   "propan-1-ol",
+   "acetophenone"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-042",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 42,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "Identify ‘Q’ in the following sequence of reactions :",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2015-chemistry-042.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-043",
+  "subject": "chemistry",
+  "chapter": "general-principles-and-processes-of-isolation-of-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 43,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "Cryolite is",
+  "options": [
+   "$\\mathrm{Na_3AlF_6}$ and is used in the electrolysis of alumina for decreasing electrical conductivity.",
+   "$\\mathrm{Na_3AlF_6}$ and is used in the electrolysis of alumina for lowering the melting point of alumina only.",
+   "$\\mathrm{Na_3AlF_6}$ and is used in the electrolysis of alumina for lowering the melting point and increasing the conductivity of alumina.",
+   "$\\mathrm{Na_3AlF_6}$ and is used in the electrolytic refining of alumina."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-044",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-12",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 44,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "Which of the following compound of Xenon has pyramidal geometry ?",
+  "options": [
+   "$\\mathrm{XeOF_4}$",
+   "$\\mathrm{XeF_2}$",
+   "$\\mathrm{XeO_3}$",
+   "$\\mathrm{XeF_4}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-045",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 45,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "After adding non-volatile solute freezing point of water decreases to $-0.186\\ \\mathrm{^\\circ C}$. Calculate $\\Delta T_b$ if $K_f = 1.86\\ \\mathrm{K\\,kg\\,mol^{-1}}$ and $K_b = 0.521\\ \\mathrm{K\\,kg\\,mol^{-1}}$",
+  "options": [
+   "0.521",
+   "0.0521",
+   "1.86",
+   "0.0186"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-046",
+  "subject": "chemistry",
+  "chapter": "states-of-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 46,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "Plot of Maxwell’s distribution of velocities is given below :\n\nWhich of the following is correct about this plot ?",
+  "options": [
+   "$T_1 < T_2$",
+   "$f_1 > f_2$",
+   "$T_1 > T_2$",
+   "$V_1 < V_2$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2015-chemistry-046.png"
+  ],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-047",
+  "subject": "chemistry",
+  "chapter": "the-s-block-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 47,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "The pair of compound which cannot exist together in solution is",
+  "options": [
+   "$\\mathrm{NaHCO_3}$ and $\\mathrm{NaOH}$",
+   "$\\mathrm{NaHCO_3}$ and $\\mathrm{H_2O}$",
+   "$\\mathrm{NaHCO_3}$ and $\\mathrm{Na_2CO_3}$",
+   "$\\mathrm{Na_2CO_3}$ and $\\mathrm{NaOH}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-048",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 48,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "What amount of dioxygen (in gram) contains $1.8 \\times 10^{22}$ molecules ?",
+  "options": [
+   "0.0960",
+   "0.960",
+   "9.60",
+   "96.0"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-049",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 49,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "Using MOT, compare $\\mathrm{O_2^{+}}$ and $\\mathrm{O_2^{-}}$ species and choose the incorrect option.",
+  "options": [
+   "$\\mathrm{O_2^{+}}$ have higher bond order than $\\mathrm{O_2^{-}}$.",
+   "$\\mathrm{O_2^{-}}$ is less stable.",
+   "$\\mathrm{O_2^{+}}$ is diamagnetic while $\\mathrm{O_2^{-}}$ is paramagnetic.",
+   "Both $\\mathrm{O_2^{+}}$ and $\\mathrm{O_2^{-}}$ are paramagnetic."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-050",
+  "subject": "chemistry",
+  "chapter": "chemistry-in-everyday-life",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 50,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "Which of the following is not true ?",
+  "options": [
+   "Erythromycin is a bacteriostatic antibiotic.",
+   "Ampicillin is not a natural antibiotic.",
+   "Prontosil is not converted into sulphanilamide in the body.",
+   "Vancomycin is a broad spectrum antibiotic."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-051",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 51,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "In the reaction $\\mathrm{S} + \\frac{3}{2}\\mathrm{O_2} \\rightarrow \\mathrm{SO_3} + 2x\\ \\mathrm{kJ}$ and $\\mathrm{SO_2} + \\frac{1}{2}\\mathrm{O_2} \\rightarrow \\mathrm{SO_3} + y\\ \\mathrm{kJ}$\n\nheat of formation of $\\mathrm{SO_2}$ is",
+  "options": [
+   "$x + y$",
+   "$x - y$",
+   "$2x - y$",
+   "$2x + y$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-052",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 52,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "Arrange the following compounds in the increasing order of their acidic strength :\n\ni. m-nitrophenol\n\nii. m-cresol\n\niii. phenol\n\niv. m-chlorophenol",
+  "options": [
+   "$\\mathrm{iii} < \\mathrm{ii} < \\mathrm{i} < \\mathrm{iv}$",
+   "$\\mathrm{ii} < \\mathrm{iv} < \\mathrm{iii} < \\mathrm{i}$",
+   "$\\mathrm{ii} < \\mathrm{iii} < \\mathrm{iv} < \\mathrm{i}$",
+   "$\\mathrm{ii} < \\mathrm{iii} < \\mathrm{i} < \\mathrm{iv}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-053",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 53,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "In the sequence of following reactions :\n\nthe starting compound ‘P’ is",
+  "options": [
+   "o-nitro toluene",
+   "m-nitro toluene",
+   "o-bromo toluene",
+   "p-nitro toluene"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2015-chemistry-053.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-054",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 54,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "Acetic acid is treated with $\\mathrm{Ca(OH)_2}$ and the product so obtained is subjected to dry distillation. The final product is",
+  "options": [
+   "ethanal",
+   "propanal",
+   "propanone",
+   "ethanol"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-055",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-11",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 55,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "The correct statement is",
+  "options": [
+   "$\\mathrm{BF_3}$ is the strongest Lewis acid among the other boron halides.",
+   "$\\mathrm{BI_3}$ is the weakest Lewis acid among the boron halides.",
+   "There is maximum $p\\pi - p\\pi$ back bonding in $\\mathrm{BF_3}$.",
+   "There is minimum $p\\pi - p\\pi$ back bonding in $\\mathrm{BF_3}$."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-056",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 56,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "Which of the following compound possesses the “C – H” bond with the lowest bond dissociation energy ?",
+  "options": [
+   "Toluene",
+   "Benzene",
+   "n-pentane",
+   "2, 2-dimethyl propane"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-057",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 57,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "In presence of $\\mathrm{HCl}$, $\\mathrm{H_2S}$ results the precipitation of Group-2 elements but not Gp-4 elements during qualitative analysis. It is due to",
+  "options": [
+   "higher concentration of $\\mathrm{S^{2-}}$",
+   "higher concentration of $\\mathrm{H^{+}}$",
+   "lower concentration of $\\mathrm{S^{2-}}$",
+   "lower concentration of $\\mathrm{H^{+}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-058",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 58,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "One of the following conversion results in the change of hybridization and geometry :",
+  "options": [
+   "$\\mathrm{CH_4}$ to $\\mathrm{C_2H_6}$",
+   "$\\mathrm{NH_3}$ to $\\mathrm{NH_4^{+}}$",
+   "$\\mathrm{BF_3}$ to $\\mathrm{BF_4^{-}}$",
+   "$\\mathrm{H_2O}$ to $\\mathrm{H_3O^{+}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-059",
+  "subject": "chemistry",
+  "chapter": "environmental-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 59,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "Water softening by Clark’s process uses",
+  "options": [
+   "$\\mathrm{CaHCO_3}$",
+   "$\\mathrm{NaHCO_3}$",
+   "$\\mathrm{Na_2CO_3}$",
+   "$\\mathrm{Ca(OH)_2}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2015-chemistry-060",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-11",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2015",
+   "year": 2015,
+   "version": "A1",
+   "number": 60,
+   "file": "sources/pyq/2015/chemistry/2015-chemistry-question_paper-A1-kea-wayback.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2015/physics/2015-physics-answer_key_final-A1-aglasem.pdf"
+  },
+  "stem": "An alkali metal hydride (NaH) reacts with diborane in ‘A’ to give a tetrahedral compound ‘B’ which is extensively used as reducing agent in organic synthesis. The compounds ‘A’ and ‘B’ respectively are",
+  "options": [
+   "$\\mathrm{C_2H_6}$ and $\\mathrm{C_2H_5Na}$",
+   "$\\mathrm{CH_3COCH_3}$ and $\\mathrm{B_3N_3H_6}$",
+   "$\\mathrm{C_6H_6}$ and $\\mathrm{NaBH_4}$",
+   "$(\\mathrm{C_2H_5})_2\\mathrm{O}$ and $\\mathrm{NaBH_4}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

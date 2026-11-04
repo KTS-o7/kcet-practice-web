@@ -1,0 +1,2101 @@
+[
+ {
+  "id": "pyq-2009-mathematics-001",
+  "subject": "mathematics",
+  "chapter": "mathematical-reasoning",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 1,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $ax + by = 1$, where $a$, $b$, $x$ and $y$ are integers, then which one of the following is not true ?",
+  "options": [
+   "$(a, b) = 1$",
+   "$(a, y) = 1$",
+   "$(x, y) = 1$",
+   "$(b, y) = 1$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-002",
+  "subject": "mathematics",
+  "chapter": "mathematical-reasoning",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 2,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The digit in the unit place of the number $\\lfloor 2009 \\rfloor + 3^{7886}$ is",
+  "options": [
+   "9",
+   "7",
+   "3",
+   "1"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-003",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 3,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $\\begin{vmatrix} x+1 & x+2 & x+a \\\\ x+2 & x+3 & x+b \\\\ x+3 & x+4 & x+c \\end{vmatrix} = 0$, then $a$, $b$, $c$ are",
+  "options": [
+   "in A.P.",
+   "in G.P.",
+   "in H.P.",
+   "equal"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-004",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 4,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The value of $\\begin{vmatrix} 1 & \\log_x y & \\log_x z \\\\ \\log_y x & 1 & \\log_y z \\\\ \\log_z x & \\log_z y & 1 \\end{vmatrix} =$",
+  "options": [
+   "$\\log xyz$",
+   "0",
+   "1",
+   "$xyz$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-005",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 5,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $A = \\begin{bmatrix} 2 & 1 & 0 \\\\ 0 & 2 & 1 \\\\ 1 & 0 & 2 \\end{bmatrix}$, then $|\\operatorname{adj} A| =$",
+  "options": [
+   "81",
+   "0",
+   "9",
+   "$\\frac{1}{9}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-006",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 6,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $A$ and $B$ are square matrices of the same order such that $(A + B)(A - B) = A^2 - B^2$, then $(ABA^{-1})^2 =$",
+  "options": [
+   "$A^2$",
+   "$B^2$",
+   "$I$",
+   "$A^2B^2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-007",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 7,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $\\vec{a} \\cdot \\vec{b} = -|\\vec{a}|\\,|\\vec{b}|$, then the angle between $\\vec{a}$ and $\\vec{b}$ is",
+  "options": [
+   "$60^\\circ$",
+   "$45^\\circ$",
+   "$180^\\circ$",
+   "$90^\\circ$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-008",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 8,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $\\vec{a} + 2\\vec{b} + 3\\vec{c} = \\vec{O}$, then $\\vec{a} \\times \\vec{b} + \\vec{b} \\times \\vec{c} + \\vec{c} \\times \\vec{a} =$",
+  "options": [
+   "$6(\\vec{b} \\times \\vec{c})$",
+   "$2(\\vec{b} \\times \\vec{c})$",
+   "$3(\\vec{c} \\times \\vec{a})$",
+   "$\\vec{O}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0,
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-009",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 9,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If the volume of the parallelopiped with $\\vec{a}$, $\\vec{b}$ and $\\vec{c}$ as coterminous edges is 40 cubic units, then the volume of the parallelopiped having $\\vec{b} + \\vec{c}$, $\\vec{c} + \\vec{a}$ and $\\vec{a} + \\vec{b}$ as coterminous edges in cubic units is",
+  "options": [
+   "40",
+   "80",
+   "120",
+   "160"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-010",
+  "subject": "mathematics",
+  "chapter": "sets",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 10,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "In the group $G = \\{0, 1, 2, 3, 4, 5\\}$ under addition modulo 6, $(2 \\oplus_6 3^{-1} \\oplus_6 4)^{-1} =$",
+  "options": [
+   "0",
+   "2",
+   "3",
+   "5"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-011",
+  "subject": "mathematics",
+  "chapter": "sets",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 11,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Which one of the following is not true ?",
+  "options": [
+   "Identity element in a group is unique.",
+   "Inverse of an element in a group is unique.",
+   "Fourth roots of unity form an additive abelian group.",
+   "Cancellation laws hold in a group."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-012",
+  "subject": "mathematics",
+  "chapter": "sets",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 12,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The number of subgroups of the group $(Z_5, \\oplus_5)$ is",
+  "options": [
+   "2",
+   "1",
+   "3",
+   "4"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-013",
+  "subject": "mathematics",
+  "chapter": "mathematical-reasoning",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 13,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The negation of $p \\wedge (1 \\rightarrow \\sim r)$ is",
+  "options": [
+   "$\\sim p \\vee (q \\wedge r)$",
+   "$\\sim p \\wedge (q \\wedge r)$",
+   "$p \\vee (q \\vee r)$",
+   "$p \\vee (q \\wedge r)$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-014",
+  "subject": "mathematics",
+  "chapter": "sequences-and-series",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 14,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $n = \\lfloor 2020 \\rfloor$, then $\\frac{1}{\\log_2 n} + \\frac{1}{\\log_3 n} + \\frac{1}{\\log_4 n} + \\dots + \\frac{1}{\\log_{2020} n} =$",
+  "options": [
+   "0",
+   "2020",
+   "1",
+   "$\\lfloor 2020 \\rfloor$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-015",
+  "subject": "mathematics",
+  "chapter": "principle-of-mathematical-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 15,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If '$n$' is a positive integer, then $n^3 + 2n$ is divisible by",
+  "options": [
+   "3",
+   "2",
+   "6",
+   "15"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-016",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 16,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "On the set of integers $Z$, define $f : Z \\rightarrow Z$ as $f(n) = \\begin{cases} \\frac{n}{2}, & n \\text{ is even} \\\\ 0, & n \\text{ is odd} \\end{cases}$ then '$f$' is",
+  "options": [
+   "bijective",
+   "injective but not surjective",
+   "neither injective nor surjective",
+   "surjective but not injective"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-017",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 17,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $\\alpha$ and $\\beta$ are the roots of $x^2 + x + 1 = 0$, then $\\alpha^{16} + \\beta^{16} =$",
+  "options": [
+   "0",
+   "1",
+   "-1",
+   "2"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-018",
+  "subject": "mathematics",
+  "chapter": "binomial-theorem",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 18,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The total number of terms in the expansion of $(x + y)^{100} + (x - y)^{100}$ after simplification is",
+  "options": [
+   "50",
+   "51",
+   "202",
+   "100"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-019",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 19,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "$\\cot^{-1}(2 \\cdot 1^2) + \\cot^{-1}(2 \\cdot 2^2) + \\cot^{-1}(2 \\cdot 3^2) + \\dots$ up to $\\infty =$",
+  "options": [
+   "$\\frac{\\pi}{5}$",
+   "$\\frac{\\pi}{4}$",
+   "$\\frac{\\pi}{3}$",
+   "$\\frac{\\pi}{2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-020",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 20,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If '$x$' takes negative permissible value, then $\\sin^{-1} x$ is equal to",
+  "options": [
+   "$\\cos^{-1}\\sqrt{1 - x^2}$",
+   "$-\\cos^{-1}\\sqrt{1 - x^2}$",
+   "$\\cos^{-1}\\sqrt{x^2 - 1}$",
+   "$\\pi - \\cos^{-1}\\sqrt{1 - x^2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-021",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 21,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $1 + \\sin x + \\sin^2 x + \\dots$ up to $\\infty = 4 + 2\\sqrt{3}$, $0 < x < \\pi$ and $x \\neq \\frac{\\pi}{2}$, then $x =$",
+  "options": [
+   "$\\frac{\\pi}{6}, \\frac{\\pi}{3}$",
+   "$\\frac{\\pi}{3}, \\frac{5\\pi}{6}$",
+   "$\\frac{2\\pi}{3}, \\frac{\\pi}{6}$",
+   "$\\frac{\\pi}{3}, \\frac{2\\pi}{3}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-022",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 22,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The complex number $\\frac{1 + 2i}{1 - i}$ lies in",
+  "options": [
+   "first quadrant",
+   "second quadrant",
+   "third quadrant",
+   "fourth quadrant"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-023",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 23,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If P is the point in the Argand diagram corresponding to the complex number $\\sqrt{3} + i$ and if OPQ is an isosceles right angled triangle, right angled at 'O', then Q represents the complex number",
+  "options": [
+   "$-1 \\pm i\\sqrt{3}$",
+   "$-1 + i\\sqrt{3}$ or $1 - i\\sqrt{3}$",
+   "$1 \\pm i\\sqrt{3}$",
+   "$\\sqrt{3} - i$ or $1 - i\\sqrt{3}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-024",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 24,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The smallest positive integral value of '$n$' such that $\\left[\\frac{1 + \\sin\\frac{\\pi}{8} + i\\cos\\frac{\\pi}{8}}{1 + \\sin\\frac{\\pi}{8} - i\\cos\\frac{\\pi}{8}}\\right]^n$ is purely imaginary is, $n =$",
+  "options": [
+   "8",
+   "4",
+   "3",
+   "2"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-025",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 25,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Which one of the following is possible ?",
+  "options": [
+   "$\\cos\\theta = \\frac{7}{3}$",
+   "$\\sin\\theta = \\frac{a^2 + b^2}{a^2 - b^2}$, $(a \\neq b)$",
+   "$\\sec\\theta = \\frac{4}{5}$",
+   "$\\tan\\theta = 45$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-026",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 26,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If one side of a triangle is double the other and the angles opposite to these sides differ by $60^\\circ$, then the triangle is",
+  "options": [
+   "right angled",
+   "obtuse angled",
+   "acute angled",
+   "isosceles"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-027",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 27,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "$3(\\sin x - \\cos x)^4 + 6(\\sin x + \\cos x)^2 + 4(\\sin^6 x + \\cos^6 x) =$",
+  "options": [
+   "11",
+   "12",
+   "13",
+   "14"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-028",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 28,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A cow is tied to a post by a rope. The cow moves along the circular path always keeping the rope tight. If it describes 44 metres, when it has traced out $72^\\circ$ at the centre, the length of the rope is",
+  "options": [
+   "35 metres",
+   "22 metres",
+   "56 metres",
+   "45 metres"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-029",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 29,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $\\begin{vmatrix} 1 + \\sin^2\\theta & \\cos^2\\theta & 4\\sin 2\\theta \\\\ \\sin^2\\theta & 1 + \\cos^2\\theta & 4\\sin 2\\theta \\\\ \\sin^2\\theta & \\cos^2\\theta & 4\\sin 2\\theta - 1 \\end{vmatrix} = 0$ and $0 < \\theta < \\frac{\\pi}{2}$, then $\\cos 4\\theta =$",
+  "options": [
+   "$\\frac{1}{2}$",
+   "$\\frac{\\sqrt{3}}{2}$",
+   "0",
+   "$-\\frac{1}{2}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-030",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 30,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The locus of the mid points of the chords of the circle $x^2 + y^2 = 4$ which subtend a right angle at the origin is",
+  "options": [
+   "$x + y = 2$",
+   "$x^2 + y^2 = 1$",
+   "$x^2 + y^2 = 2$",
+   "$x + y = 1$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-031",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 31,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The length of the chord joining the points $(4\\cos\\theta, 4\\sin\\theta)$ and $(4\\cos(\\theta + 60^\\circ), 4\\sin(\\theta + 60^\\circ))$ of the circle $x^2 + y^2 = 16$ is",
+  "options": [
+   "2",
+   "4",
+   "8",
+   "16"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-032",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 32,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The number of common tangents to the circles $x^2 + y^2 - y = 0$ and $x^2 + y^2 + y = 0$ is",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "0"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-033",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 33,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The co-ordinates of the centre of the smallest circle passing through the origin and having $y = x + 1$ as a diameter are",
+  "options": [
+   "$\\left(-\\frac{1}{2}, \\frac{1}{2}\\right)$",
+   "$\\left(\\frac{1}{2}, -\\frac{1}{2}\\right)$",
+   "$\\left(\\frac{1}{2}, \\frac{1}{3}\\right)$",
+   "$(-1, 0)$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-034",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 34,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The length of the diameter of the circle which cuts three circles $x^2 + y^2 - x - y - 14 = 0$; $x^2 + y^2 + 3x - 5y - 10 = 0$; $x^2 + y^2 - 2x + 3y - 27 = 0$ orthogonally, is",
+  "options": [
+   "2",
+   "8",
+   "6",
+   "4"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-035",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 35,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "For the parabola $y^2 = 4x$, the point P whose focal distance is 17, is",
+  "options": [
+   "$(16, 8)$ or $(16, -8)$",
+   "$(8, 8)$ or $(8, -8)$",
+   "$(4, 8)$ or $(4, -8)$",
+   "$(2, 8)$ or $(2, -8)$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-036",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 36,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The angle between the tangents drawn to the parabola $y^2 = 12x$ from the point $(-3, 2)$ is",
+  "options": [
+   "$45^\\circ$",
+   "$90^\\circ$",
+   "$60^\\circ$",
+   "$30^\\circ$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-037",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 37,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The number of values of '$c$' such that the line $y = 4x + c$ touches the curve $\\frac{x^2}{4} + y^2 = 1$ is",
+  "options": [
+   "0",
+   "1",
+   "2",
+   "infinite"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-038",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 38,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If the circle $x^2 + y^2 = a^2$ intersects the hyperbola $xy = c^2$ in four points $P(x_1, y_1)$, $Q(x_2, y_2)$, $R(x_3, y_3)$ and $S(x_4, y_4)$, then",
+  "options": [
+   "$x_1 + x_2 + x_3 + x_4 = 0$",
+   "$y_1 + y_2 + y_3 + y_4 = 2$",
+   "$x_1 x_2 x_3 x_4 = 2c^4$",
+   "$y_1 y_2 y_3 y_4 = 2c^4$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-039",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 39,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The foot of the perpendicular from the point $(2, 4)$ upon $x + y = 4$ is",
+  "options": [
+   "$(3, -1)$",
+   "$(2, 2)$",
+   "$(4, 0)$",
+   "$(1, 3)$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-040",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 40,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The vertices of a triangle are $(6, 0)$, $(0, 6)$ and $(6, 6)$. The distance between its circumcentre and centroid is",
+  "options": [
+   "$2\\sqrt{2}$",
+   "$2$",
+   "$\\sqrt{2}$",
+   "$1$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-041",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 41,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The angle between the pair of lines $x^2 + 2xy - y^2 = 0$ is",
+  "options": [
+   "$\\frac{\\pi}{3}$",
+   "$\\frac{\\pi}{6}$",
+   "$\\frac{\\pi}{2}$",
+   "0"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-042",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 42,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "$\\lim_{n \\to \\infty} \\frac{3 \\cdot 2^{n+1} - 4 \\cdot 5^{n+1}}{5 \\cdot 2^n + 7 \\cdot 5^n} =$",
+  "options": [
+   "0",
+   "$\\frac{3}{5}$",
+   "$\\frac{-4}{7}$",
+   "$\\frac{-20}{7}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-043",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 43,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The function $f(x) = \\frac{\\log(1 + ax) - \\log(1 - bx)}{x}$ is not defined at $x = 0$. The value which should be assigned to '$f$' at $x = 0$ so that it is continuous at $x = 0$ is",
+  "options": [
+   "0",
+   "$a - b$",
+   "$a + b$",
+   "$\\log a + \\log b$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-044",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 44,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $f(x) = 1 + nx + \\frac{n(n-1)}{2}x^2 + \\frac{n(n-1)(n-2)}{6}x^3 + \\dots + x^n$, then $f''(1) =$",
+  "options": [
+   "$n(n-1)2^n$",
+   "$n(n-1)2^{n-1}$",
+   "$(n-1)2^{n-1}$",
+   "$n(n-1)2^{n-2}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-045",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 45,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $f(x) = \\log_x 2\\,(\\log_e x)$, then $f'(x)$ at $x = e$ is",
+  "options": [
+   "0",
+   "1",
+   "$\\frac{1}{e}$",
+   "$\\frac{1}{2e}$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-046",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 46,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $y = \\sin^n x \\cos nx$, then $\\frac{dy}{dx}$ is",
+  "options": [
+   "$n \\sin^{n-1} x \\cos (n+1) x$",
+   "$n \\sin^{n-1} x \\sin (n+1) x$",
+   "$n \\sin^{n-1} x \\cos (n-1) x$",
+   "$n \\sin^{n-1} x \\cos nx$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-047",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 47,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $f(x) = \\frac{g(x) + g(-x)}{2} + \\frac{2}{[h(x) + h(-x)]^{-1}}$ where $g$ and $h$ are differentiable functions, then $f'(0)$",
+  "options": [
+   "0",
+   "1",
+   "$\\frac{1}{2}$",
+   "$\\frac{3}{2}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-048",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 48,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The tangent to a given curve $y = f(x)$ is perpendicular to the $x$-axis if",
+  "options": [
+   "$\\frac{dy}{dx} = 0$",
+   "$\\frac{dy}{dx} = 1$",
+   "$\\frac{dx}{dy} = 0$",
+   "$\\frac{dx}{dy} = 1$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-049",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 49,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The minimum value of $27^{\\cos 2x}\\, 81^{\\sin 2x}$ is",
+  "options": [
+   "$\\frac{1}{27}$",
+   "$-5$",
+   "$\\frac{1}{5}$",
+   "$\\frac{1}{243}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-050",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 50,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A stone is thrown vertically upwards from the top of a tower 64 metres high according to the law $s = 48t - 16t^2$. The greatest height attained by the stone above the ground is",
+  "options": [
+   "64 metre",
+   "36 metre",
+   "32 metre",
+   "100 metre"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-051",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 51,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The length of the subtangent at '$t$' on the curve $x = a(t + \\sin t)$, $y = a(1 - \\cos t)$ is",
+  "options": [
+   "$2a\\sin^3\\left(\\frac{t}{2}\\right)\\sec\\left(\\frac{t}{2}\\right)$",
+   "$a\\sin t$",
+   "$2a\\sin\\left(\\frac{t}{2}\\right)\\tan\\left(\\frac{t}{2}\\right)$",
+   "$2a\\sin\\frac{t}{2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-052",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 52,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "$\\int e^{\\tan^{-1}x}\\left(1 + \\frac{x}{1 + x^2}\\right)dx$ is equal to",
+  "options": [
+   "$\\frac{1}{2}x\\,e^{\\tan^{-1}x} + c$",
+   "$x\\,e^{\\tan^{-1}x} + c$",
+   "$e^{\\tan^{-1}x} + c$",
+   "$\\frac{1}{2}e^{\\tan^{-1}x} + c$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-053",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 53,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "$\\int \\operatorname{cosec}(x - a)\\operatorname{cosec} x\\, dx =$",
+  "options": [
+   "$\\frac{1}{\\sin a}\\log[\\sin(x - a)\\sin x] + C$",
+   "$\\frac{-1}{\\sin a}\\log\\left|\\sin x\\,\\operatorname{cosec}(x - a)\\right| + C$",
+   "$\\frac{-1}{\\sin a}\\log[\\sin(x - a)\\sin x] + C$",
+   "$\\frac{1}{\\sin a}\\log[\\sin(x - a)\\operatorname{cosec} x] + C$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1,
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-054",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 54,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $f(x) = \\int_{-1}^{x} |t|\\, dt$, then for any $x \\geq 0$, $f(x) =$",
+  "options": [
+   "$\\frac{1}{2}(1 - x^2)$",
+   "$1 - x^2$",
+   "$\\frac{1}{2}(1 + x^2)$",
+   "$1 + x^2$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-055",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 55,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "$\\int_{1}^{3} \\frac{\\sqrt{4 - x}}{\\sqrt{x} + \\sqrt{4 - x}}\\, dx =$",
+  "options": [
+   "0",
+   "1",
+   "3",
+   "2"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-056",
+  "subject": "mathematics",
+  "chapter": "application-of-integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 56,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The area bounded between the parabola $y^2 = 4x$ and the line $y = 2x - 4$ is equal to",
+  "options": [
+   "15 sq. units",
+   "$\\frac{17}{3}$ sq. units",
+   "$\\frac{19}{3}$ sq. units",
+   "9 sq. units"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-057",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 57,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The differential equation of the family of circles passing through the orign and having their centres on the $x$-axis is",
+  "options": [
+   "$x^2 = y^2 + 3xy\\frac{dy}{dx}$",
+   "$y^2 = x^2 + 2xy\\frac{dy}{dx}$",
+   "$y^2 = x^2 - 2xy\\frac{dy}{dx}$",
+   "$x^2 = y^2 + xy\\frac{dy}{dx}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-058",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 58,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A population grows at the rate of $10\\%$ of the population per year. How long does it take for the population to double ?",
+  "options": [
+   "$2 \\log 10$ years",
+   "$20 \\log 2$ years",
+   "$10 \\log 2$ years",
+   "$5 \\log 2$ years"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-059",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 59,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "On the set of all natural numbers $N$, which one of the following $*$ is a binary operation ?",
+  "options": [
+   "$a * b = 3a - 4b$",
+   "$a * b = \\sqrt{ab}$",
+   "$a * b = \\frac{a - b}{a + b}$",
+   "$a * b = a + 3b$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2009-mathematics-060",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2009",
+   "year": 2009,
+   "version": "A1",
+   "number": 60,
+   "file": "sources/pyq/2009/mathematics/2009-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2009/mathematics/2009-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $\\int_0^1 f(x)\\, dx = 5$, then the value of $\\dots + 100\\int_0^1 x^9 f(x^{10})\\, dx$ is equal to",
+  "options": [
+   "55",
+   "125",
+   "625",
+   "275"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ }
+]

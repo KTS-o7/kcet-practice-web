@@ -13,10 +13,10 @@
    "page": 3,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "If $2\\sin^{-1}x-3\\cos^{-1}x=4$, $x\\in[-1,1]$ then $2\\sin^{-1}x+3\\cos^{-1}x$ is equal to",
+  "stem": "If $2\\sin^{-1}x - 3\\cos^{-1}x = 4$, $x \\in [-1, 1]$ then $2\\sin^{-1}x + 3\\cos^{-1}x$ is equal to",
   "options": [
-   "$\\frac{4-6\\pi}{5}$",
-   "$\\frac{6\\pi-4}{5}$",
+   "$\\frac{4 - 6\\pi}{5}$",
+   "$\\frac{6\\pi - 4}{5}$",
    "$\\frac{3\\pi}{2}$",
    "0"
   ],
@@ -47,12 +47,12 @@
    "page": 3,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "If A is a square matrix such that $A^2=A$, then $(I+A)^3$ is equal to",
+  "stem": "If $A$ is a square matrix such that $A^2 = A$, then $(I + A)^3$ is equal to",
   "options": [
-   "$7A-I$",
+   "$7A - I$",
    "$7A$",
-   "$7A+I$",
-   "$I-7A$"
+   "$7A + I$",
+   "$I - 7A$"
   ],
   "answer": 2,
   "accepted": [
@@ -82,12 +82,12 @@
    "page": 3,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "If $A=\\begin{bmatrix}1&1\\\\1&1\\end{bmatrix}$, then $A^{10}$ is equal to",
+  "stem": "If $A = \\begin{bmatrix} 1 & 1 \\\\ 1 & 1 \\end{bmatrix}$, then $A^{10}$ is equal to",
   "options": [
-   "$2^8A$",
-   "$2^9A$",
-   "$2^{10}A$",
-   "$2^{11}A$"
+   "$2^8 A$",
+   "$2^9 A$",
+   "$2^{10} A$",
+   "$2^{11} A$"
   ],
   "answer": 1,
   "accepted": [
@@ -117,7 +117,7 @@
    "page": 3,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "If $f(x)=\\begin{vmatrix}x-3 & 2x^2-18 & 2x^3-81\\\\ x-5 & 2x^2-50 & 4x^3-500\\\\ 1 & 2 & 3\\end{vmatrix}$, then $f(1)\\cdot f(3)+f(3)\\cdot f(5)+f(5)\\cdot f(1)$ is",
+  "stem": "If $f(x) = \\begin{vmatrix} x - 3 & 2x^2 - 18 & 2x^3 - 81 \\\\ x - 5 & 2x^2 - 50 & 4x^3 - 500 \\\\ 1 & 2 & 3 \\end{vmatrix}$, then $f(1) \\cdot f(3) + f(3) \\cdot f(5) + f(5) \\cdot f(1)$ is",
   "options": [
    "$-1$",
    "$0$",
@@ -151,12 +151,12 @@
    "page": 3,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "Let $(gof)(x)=\\sin x$ and $(fog)(x)=(\\sin\\sqrt{x})^2$. Then",
+  "stem": "Let $(gof)(x) = \\sin x$ and $(fog)(x) = (\\sin \\sqrt{x})^2$. Then",
   "options": [
-   "$f(x)=\\sin^2x,\\ g(x)=x$",
-   "$f(x)=\\sin\\sqrt{x},\\ g(x)=\\sqrt{x}$",
-   "$f(x)=\\sin^2x,\\ g(x)=\\sqrt{x}$",
-   "$f(x)=\\sin\\sqrt{x},\\ g(x)=x^2$"
+   "$f(x) = \\sin^2 x,\\ g(x) = x$",
+   "$f(x) = \\sin \\sqrt{x},\\ g(x) = \\sqrt{x}$",
+   "$f(x) = \\sin^2 x,\\ g(x) = \\sqrt{x}$",
+   "$f(x) = \\sin \\sqrt{x},\\ g(x) = x^2$"
   ],
   "answer": 2,
   "accepted": [
@@ -186,7 +186,7 @@
    "page": 3,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "Let $A=\\{2,3,4,5,\\ldots,16,17,18\\}$. Let $R$ be the relation on the set $A$ of ordered pairs of positive integers defined by $(a,b)\\,R\\,(c,d)$ if and only if $ad=bc$ for all $(a,b),(c,d)$ in $A\\times A$. Then the number of ordered pairs of the equivalence class of $(3,2)$ is",
+  "stem": "Let $A = \\{2, 3, 4, 5, \\ldots, 16, 17, 18\\}$. Let $R$ be the relation on the set $A$ of ordered pairs of positive integers defined by $(a, b)\\, R\\, (c, d)$ if and only if $ad = bc$ for all $(a, b), (c, d)$ in $A \\times A$. Then the number of ordered pairs of the equivalence class of $(3, 2)$ is",
   "options": [
    "4",
    "5",
@@ -221,7 +221,7 @@
    "page": 3,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "If $\\cos^{-1}x+\\cos^{-1}y+\\cos^{-1}z=3\\pi$, then $x(y+z)+y(z+x)+z(x+y)$ equals to",
+  "stem": "If $\\cos^{-1} x + \\cos^{-1} y + \\cos^{-1} z = 3\\pi$, then $x(y + z) + y(z + x) + z(x + y)$ equals to",
   "options": [
    "0",
    "1",
@@ -256,11 +256,11 @@
    "page": 4,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "The function $f(x)=|\\cos x|$ is",
+  "stem": "The function $f(x) = |\\cos x|$ is",
   "options": [
    "everywhere continuous and differentiable",
    "everywhere continuous but not differentiable at odd multiples of $\\frac{\\pi}{2}$",
-   "neither continuous nor differentiable at $(2n+1)\\frac{\\pi}{2}$, $n\\in\\mathbb{Z}$",
+   "neither continuous nor differentiable at $(2n + 1)\\frac{\\pi}{2}$, $n \\in \\mathbb{Z}$",
    "not differentiable everywhere"
   ],
   "answer": 1,
@@ -291,7 +291,7 @@
    "page": 4,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "If $y=2x^{3x}$, then $\\frac{dy}{dx}$ at $x=1$ is",
+  "stem": "If $y = 2x^{3x}$, then $\\frac{dy}{dx}$ at $x = 1$ is",
   "options": [
    "2",
    "6",
@@ -326,12 +326,12 @@
    "page": 4,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "Let the function satisfy the equation $f(x+y)=f(x)f(y)$ for all $x,y\\in\\mathbb{R}$, where $f(0)\\neq0$. If $f(5)=3$ and $f'(0)=2$, then $f'(5)$ is",
+  "stem": "Let the function satisfy the equation $f(x + y) = f(x) f(y)$ for all $x, y \\in \\mathbb{R}$, where $f(0) \\neq 0$. If $f(5) = 3$ and $f'(0) = 2$, then $f'(5)$ is",
   "options": [
    "6",
    "0",
    "5",
-   "$-6$"
+   "-6"
   ],
   "answer": 0,
   "accepted": [
@@ -350,7 +350,7 @@
  {
   "id": "pyq-2024-mathematics-011",
   "subject": "mathematics",
-  "chapter": "continuity-and-differentiability",
+  "chapter": "application-of-derivatives",
   "source": {
    "type": "pyq",
    "name": "KCET 2024",
@@ -361,7 +361,7 @@
    "page": 4,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "The value of $C$ in $(0,2)$ satisfying the mean value theorem for the function $f(x)=x\\,(x-\\text{[hidden by QR code]})$, $x\\in[0,2]$ is equal to",
+  "stem": "The value of C in $(0, 2)$ satisfying the mean value theorem for the function $f(x) = x\\,(x - 1)^2$, $x \\in [0, 2]$ is equal to",
   "options": [
    "$\\frac{3}{4}$",
    "$\\frac{4}{3}$",
@@ -375,7 +375,7 @@
   "in_syllabus": true,
   "checks": {
    "key_official": true,
-   "blind_haiku": 0,
+   "blind_haiku": 1,
    "verify": "agreed",
    "notes": "",
    "status_reason": "grace mark in key"
@@ -384,7 +384,7 @@
  {
   "id": "pyq-2024-mathematics-012",
   "subject": "mathematics",
-  "chapter": "inverse-trigonometric-functions",
+  "chapter": "continuity-and-differentiability",
   "source": {
    "type": "pyq",
    "name": "KCET 2024",
@@ -395,7 +395,7 @@
    "page": 4,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "$\\frac{d}{dx}\\left[\\cos^2\\left(\\cot^{-1}\\sqrt{\\frac{2+x}{2-x}}\\right)\\right]$ is",
+  "stem": "$\\frac{d}{dx}\\left[\\cos^2\\left(\\cot^{-1}\\sqrt{\\frac{2 + x}{2 - x}}\\right)\\right]$ is",
   "options": [
    "$-\\frac{3}{4}$",
    "$-\\frac{1}{2}$",
@@ -430,7 +430,7 @@
    "page": 4,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "For the function $f(x)=x^3-6x^2+12x-3$; $x=2$ is",
+  "stem": "For the function $f(x) = x^3 - 6x^2 + 12x - 3$; $x = 2$ is",
   "options": [
    "a point of minimum",
    "a point of inflexion",
@@ -465,12 +465,12 @@
    "page": 5,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "The function $x^x$; $x>0$ is strictly increasing at",
+  "stem": "The function $x^x$; $x > 0$ is strictly increasing at",
   "options": [
-   "$\\forall\\, x\\in\\mathbb{R}$",
-   "$x<\\frac{1}{e}$",
-   "$x>\\frac{1}{e}$",
-   "$x<0$"
+   "$\\forall x \\in \\mathbb{R}$",
+   "$x < \\frac{1}{e}$",
+   "$x > \\frac{1}{e}$",
+   "$x < 0$"
   ],
   "answer": 2,
   "accepted": [
@@ -500,7 +500,7 @@
    "page": 5,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "The maximum volume of the right circular cone with slant height 6 units is",
+  "stem": "The maximum volume of the right circular cone with slant height $6$ units is",
   "options": [
    "$4\\sqrt{3}\\,\\pi$ cubic units",
    "$16\\sqrt{3}\\,\\pi$ cubic units",
@@ -535,12 +535,12 @@
    "page": 5,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "If $f(x)=xe^{x(1-x)}$ then $f(x)$ is",
+  "stem": "If $f(x) = x\\,e^{x(1 - x)}$ then $f(x)$ is",
   "options": [
    "increasing in $\\mathbb{R}$",
    "decreasing in $\\mathbb{R}$",
-   "decreasing in $\\left[-\\frac{1}{2},1\\right]$",
-   "increasing in $\\left[-\\frac{1}{2},1\\right]$"
+   "decreasing in $\\left[-\\frac{1}{2}, 1\\right]$",
+   "increasing in $\\left[-\\frac{1}{2}, 1\\right]$"
   ],
   "answer": 3,
   "accepted": [
@@ -570,12 +570,12 @@
    "page": 5,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "$\\int\\frac{\\sin x}{3+4\\cos^2x}\\,dx=$",
+  "stem": "$\\int \\frac{\\sin x}{3 + 4\\cos^2 x}\\,dx =$",
   "options": [
-   "$-\\frac{1}{2\\sqrt{3}}\\tan^{-1}\\left(\\frac{2\\cos x}{\\sqrt{3}}\\right)+C$",
-   "$\\frac{1}{\\sqrt{3}}\\tan^{-1}\\left(\\frac{\\cos x}{3}\\right)+C$",
-   "$\\frac{1}{2\\sqrt{3}}\\tan^{-1}\\left(\\frac{\\cos x}{3}\\right)+C$",
-   "$-\\frac{1}{\\sqrt{3}}\\tan^{-1}\\left(\\frac{2\\cos x}{3}\\right)+C$"
+   "$-\\frac{1}{2\\sqrt{3}}\\tan^{-1}\\left(\\frac{2\\cos x}{\\sqrt{3}}\\right) + C$",
+   "$\\frac{1}{\\sqrt{3}}\\tan^{-1}\\left(\\frac{\\cos x}{3}\\right) + C$",
+   "$\\frac{1}{2\\sqrt{3}}\\tan^{-1}\\left(\\frac{\\cos x}{3}\\right) + C$",
+   "$-\\frac{1}{\\sqrt{3}}\\tan^{-1}\\left(\\frac{2\\cos x}{3}\\right) + C$"
   ],
   "answer": 0,
   "accepted": [
@@ -605,12 +605,12 @@
    "page": 5,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "$\\int_{-\\pi}^{\\pi}(1-x^2)\\sin x\\cdot\\cos^2x\\,dx=$",
+  "stem": "$\\int_{-\\pi}^{\\pi} (1 - x^2)\\sin x \\cdot \\cos^2 x\\,dx =$",
   "options": [
-   "$\\pi-\\frac{\\pi^2}{3}$",
-   "$2\\pi-\\pi^3$",
-   "$\\pi-\\frac{\\pi^3}{2}$",
-   "0"
+   "$\\pi - \\frac{\\pi^2}{3}$",
+   "$2\\pi - \\pi^3$",
+   "$\\pi - \\frac{\\pi^3}{2}$",
+   "$0$"
   ],
   "answer": 3,
   "accepted": [
@@ -640,12 +640,12 @@
    "page": 6,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "$\\int\\frac{1}{x\\left[6(\\log x)^2+7\\log x+2\\right]}\\,dx=$",
+  "stem": "$\\int \\frac{1}{x\\left[6(\\log x)^2 + 7\\log x + 2\\right]}\\,dx =$",
   "options": [
-   "$\\frac{1}{2}\\log\\left|\\frac{2\\log x+1}{3\\log x+2}\\right|+C$",
-   "$\\log\\left|\\frac{2\\log x+1}{3\\log x+2}\\right|+C$",
-   "$\\log\\left|\\frac{3\\log x+2}{2\\log x+1}\\right|+C$",
-   "$\\frac{1}{2}\\log\\left|\\frac{3\\log x+2}{2\\log x+1}\\right|+C$"
+   "$\\frac{1}{2}\\log\\left|\\frac{2\\log x + 1}{3\\log x + 2}\\right| + C$",
+   "$\\log\\left|\\frac{2\\log x + 1}{3\\log x + 2}\\right| + C$",
+   "$\\log\\left|\\frac{3\\log x + 2}{2\\log x + 1}\\right| + C$",
+   "$\\frac{1}{2}\\log\\left|\\frac{3\\log x + 2}{2\\log x + 1}\\right| + C$"
   ],
   "answer": 1,
   "accepted": [
@@ -675,12 +675,12 @@
    "page": 6,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "$\\int\\frac{\\sin\\frac{5x}{2}}{\\sin\\frac{x}{2}}\\,dx=$",
+  "stem": "$\\int \\frac{\\sin\\frac{5x}{2}}{\\sin\\frac{x}{2}}\\,dx =$",
   "options": [
-   "$2x+\\sin x+2\\sin 2x+C$",
-   "$x+2\\sin x+2\\sin 2x+C$",
-   "$x+2\\sin x+\\sin 2x+C$",
-   "$2x+\\sin x+\\sin 2x+C$"
+   "$2x + \\sin x + 2\\sin 2x + C$",
+   "$x + 2\\sin x + 2\\sin 2x + C$",
+   "$x + 2\\sin x + \\sin 2x + C$",
+   "$2x + \\sin x + \\sin 2x + C$"
   ],
   "answer": 2,
   "accepted": [
@@ -710,7 +710,7 @@
    "page": 6,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "$\\int_{1}^{5}\\left(|x-3|+|1-x|\\right)dx=$",
+  "stem": "$\\int_{1}^{5} \\left(|x - 3| + |1 - x|\\right)\\,dx =$",
   "options": [
    "12",
    "$\\frac{5}{6}$",
@@ -734,7 +734,7 @@
  {
   "id": "pyq-2024-mathematics-022",
   "subject": "mathematics",
-  "chapter": "limits-and-derivatives",
+  "chapter": "integrals",
   "source": {
    "type": "pyq",
    "name": "KCET 2024",
@@ -745,11 +745,11 @@
    "page": 6,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "$\\lim_{n\\to\\infty}\\left(\\frac{n}{n^2+1^2}+\\frac{n}{n^2+2^2}+\\frac{n}{n^2+3^2}+\\ldots+\\frac{1}{5n}\\right)=$",
+  "stem": "$\\lim_{n \\to \\infty}\\left(\\frac{n}{n^2 + 1^2} + \\frac{n}{n^2 + 2^2} + \\frac{n}{n^2 + 3^2} + \\ldots + \\frac{1}{5n}\\right) =$",
   "options": [
    "$\\frac{\\pi}{4}$",
-   "$\\tan^{-1}3$",
-   "$\\tan^{-1}2$",
+   "$\\tan^{-1} 3$",
+   "$\\tan^{-1} 2$",
    "$\\frac{\\pi}{2}$"
   ],
   "answer": -1,
@@ -779,7 +779,7 @@
    "page": 6,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "The area of the region bounded by the line $y=3x$ and the curve $y=x^2$ in sq. units is",
+  "stem": "The area of the region bounded by the line $y = 3x$ and the curve $y = x^2$ in sq. units is",
   "options": [
    "10",
    "$\\frac{9}{2}$",
@@ -813,7 +813,7 @@
    "page": 6,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "The area of the region bounded by the line $y=x$ and the curve $y=x^3$ is",
+  "stem": "The area of the region bounded by the line $y = x$ and the curve $y = x^3$ is",
   "options": [
    "0·2 sq. units",
    "0·3 sq. units",
@@ -847,12 +847,12 @@
    "page": 7,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "The solution of $e^{\\frac{dy}{dx}}=x+1$, $y(0)=3$ is",
+  "stem": "The solution of $e^{\\frac{dy}{dx}} = x + 1$, $y(0) = 3$ is",
   "options": [
-   "$y-2=x\\log x-x$",
-   "$y-x-3=x\\log x$",
-   "$y-x-3=(x+1)\\log(x+1)$",
-   "$y+x-3=(x+1)\\log(x+1)$"
+   "$y - 2 = x\\log x - x$",
+   "$y - x - 3 = x\\log x$",
+   "$y - x - 3 = (x + 1)\\log(x + 1)$",
+   "$y + x - 3 = (x + 1)\\log(x + 1)$"
   ],
   "answer": 3,
   "accepted": [
@@ -863,9 +863,9 @@
   "in_syllabus": true,
   "checks": {
    "key_official": true,
-   "blind_haiku": 3,
-   "verify": "agreed",
-   "notes": ""
+   "blind_haiku": 2,
+   "verify": "key_confirmed",
+   "notes": "Transcription matches page 7; dy/dx=ln(x+1) gives y+x-3=(x+1)ln(x+1), option D, agrees with key."
   }
  },
  {
@@ -884,10 +884,10 @@
   },
   "stem": "The family of curves whose x and y intercepts of a tangent at any point are respectively double the x and y coordinates of that point is",
   "options": [
-   "$xy=C$",
-   "$x^2+y^2=C$",
-   "$x^2-y^2=C$",
-   "$\\frac{y}{x}=C$"
+   "$xy = C$",
+   "$x^2 + y^2 = C$",
+   "$x^2 - y^2 = C$",
+   "$\\frac{y}{x} = C$"
   ],
   "answer": 0,
   "accepted": [
@@ -917,7 +917,7 @@
    "page": 7,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "The vectors $\\overrightarrow{AB}=3\\hat{i}+4\\hat{k}$ and $\\overrightarrow{AC}=5\\hat{i}-2\\hat{j}+4\\hat{k}$ are the sides of a $\\Delta$ ABC. The length of the median through A is",
+  "stem": "The vectors $\\overrightarrow{AB} = 3\\hat{i} + 4\\hat{k}$ and $\\overrightarrow{AC} = 5\\hat{i} - 2\\hat{j} + 4\\hat{k}$ are the sides of a $\\Delta$ ABC. The length of the median through A is",
   "options": [
    "$\\sqrt{18}$",
    "$\\sqrt{72}$",
@@ -952,7 +952,7 @@
    "page": 7,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "The volume of the parallelepiped whose co-terminous edges are $\\hat{j}+\\hat{k}$, $\\hat{i}+\\hat{k}$ and $\\hat{i}+\\hat{j}$ is",
+  "stem": "The volume of the parallelopiped whose co-terminous edges are $\\hat{j} + \\hat{k}$, $\\hat{i} + \\hat{k}$ and $\\hat{i} + \\hat{j}$ is",
   "options": [
    "6 cu.units",
    "2 cu.units",
@@ -986,12 +986,12 @@
    "page": 7,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "Let $\\vec{a}$ and $\\vec{b}$ be two unit vectors and $\\theta$ is the angle between them. Then $\\vec{a}+\\vec{b}$ is a unit vector if",
+  "stem": "Let $\\vec{a}$ and $\\vec{b}$ be two unit vectors and $\\theta$ is the angle between them. Then $\\vec{a} + \\vec{b}$ is a unit vector if",
   "options": [
-   "$\\theta=\\frac{\\pi}{4}$",
-   "$\\theta=\\frac{\\pi}{3}$",
-   "$\\theta=\\frac{2\\pi}{3}$",
-   "$\\theta=\\frac{\\pi}{2}$"
+   "$\\theta = \\frac{\\pi}{4}$",
+   "$\\theta = \\frac{\\pi}{3}$",
+   "$\\theta = \\frac{2\\pi}{3}$",
+   "$\\theta = \\frac{\\pi}{2}$"
   ],
   "answer": 2,
   "accepted": [
@@ -1021,7 +1021,7 @@
    "page": 8,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "If $\\vec{a},\\vec{b},\\vec{c}$ are three non-coplanar vectors and $\\vec{p},\\vec{q},\\vec{r}$ are vectors defined by $\\vec{p}=\\frac{\\vec{b}\\times\\vec{c}}{[\\vec{a}\\,\\vec{b}\\,\\vec{c}]}$, $\\vec{q}=\\frac{\\vec{c}\\times\\vec{a}}{[\\vec{a}\\,\\vec{b}\\,\\vec{c}]}$, $\\vec{r}=\\frac{\\vec{a}\\times\\vec{b}}{[\\vec{a}\\,\\vec{b}\\,\\vec{c}]}$, then $(\\vec{a}+\\vec{b})\\cdot\\vec{p}+(\\vec{b}+\\vec{c})\\cdot\\vec{q}+(\\vec{c}+\\vec{a})\\cdot\\vec{r}$ is",
+  "stem": "If $\\vec{a}, \\vec{b}, \\vec{c}$ are three non-coplanar vectors and $p, q, r$ are vectors defined by\n$$\\vec{p} = \\frac{\\vec{b} \\times \\vec{c}}{[\\vec{a}\\ \\vec{b}\\ \\vec{c}]}, \\quad \\vec{q} = \\frac{\\vec{c} \\times \\vec{a}}{[\\vec{a}\\ \\vec{b}\\ \\vec{c}]}, \\quad \\vec{r} = \\frac{\\vec{a} \\times \\vec{b}}{[\\vec{a}\\ \\vec{b}\\ \\vec{c}]}$$\nthen\n$$(\\vec{a} + \\vec{b}) \\cdot \\vec{p} + (\\vec{b} + \\vec{c}) \\cdot \\vec{q} + (\\vec{c} + \\vec{a}) \\cdot \\vec{r}$$\nis",
   "options": [
    "0",
    "1",
@@ -1055,7 +1055,7 @@
    "page": 8,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "If lines $\\frac{x-1}{-3}=\\frac{y-2}{2k}=\\frac{z-3}{2}$ and $\\frac{x-1}{3k}=\\frac{y-5}{1}=\\frac{z-6}{-5}$ are mutually perpendicular, then $k$ is equal to",
+  "stem": "If lines $\\frac{x - 1}{-3} = \\frac{y - 2}{2k} = \\frac{z - 3}{2}$ and $\\frac{x - 1}{3k} = \\frac{y - 5}{1} = \\frac{z - 6}{-5}$ are mutually perpendicular, then $k$ is equal to",
   "options": [
    "$-\\frac{10}{7}$",
    "$-\\frac{7}{10}$",
@@ -1090,7 +1090,7 @@
    "page": 8,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "The distance between the two planes $2x+3y+4z=4$ and $4x+6y+8z=12$ is",
+  "stem": "The distance between the two planes $2x + 3y + 4z = 4$ and $4x + 6y + 8z = 12$ is",
   "options": [
    "2 units",
    "8 units",
@@ -1124,7 +1124,7 @@
    "page": 8,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "The sine of the angle between the straight line $\\frac{x-2}{3}=\\frac{y-3}{4}=\\frac{4-z}{-5}$ and the plane $2x-2y+z=5$ is",
+  "stem": "The sine of the angle between the straight line $\\frac{x - 2}{3} = \\frac{y - 3}{4} = \\frac{4 - z}{-5}$ and the plane $2x - 2y + z = 5$ is",
   "options": [
    "$\\frac{1}{5\\sqrt{2}}$",
    "$\\frac{2}{5\\sqrt{2}}$",
@@ -1158,7 +1158,7 @@
    "page": 8,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "The equation $xy=0$ in three-dimensional space represents",
+  "stem": "The equation $xy = 0$ in three-dimensional space represents",
   "options": [
    "a pair of straight lines",
    "a plane",
@@ -1192,12 +1192,12 @@
    "page": 8,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "The plane containing the point $(3,2,0)$ and the line $\\frac{x-3}{1}=\\frac{y-6}{5}=\\frac{z-4}{4}$ is",
+  "stem": "The plane containing the point $(3, 2, 0)$ and the line $\\frac{x - 3}{1} = \\frac{y - 6}{5} = \\frac{z - 4}{4}$ is",
   "options": [
-   "$x-y+z=1$",
-   "$x+y+z=5$",
-   "$x+2y-z=1$",
-   "$2x-y+z=5$"
+   "$x - y + z = 1$",
+   "$x + y + z = 5$",
+   "$x + 2y - z = 1$",
+   "$2x - y + z = 5$"
   ],
   "answer": -1,
   "accepted": [],
@@ -1226,12 +1226,12 @@
    "page": 9,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "Corner points of the feasible region for an LPP are $(0,2)$, $(3,0)$, $(6,0)$, $(6,8)$ and $(0,5)$. Let $z=4x+6y$ be the objective function. The minimum value of $z$ occurs at",
+  "stem": "Corner points of the feasible region for an LPP are $(0, 2)$, $(3, 0)$, $(6, 0)$, $(6, 8)$ and $(0, 5)$. Let $z = 4x + 6y$ be the objective function. The minimum value of $z$ occurs at",
   "options": [
-   "Only $(0,2)$",
-   "Only $(3,0)$",
-   "The mid-point of the line segment joining the points $(0,2)$ and $(3,0)$",
-   "Any point on the line segment joining the points $(0,2)$ and $(3,0)$"
+   "Only $(0, 2)$",
+   "Only $(3, 0)$",
+   "The mid-point of the line segment joining the points $(0, 2)$ and $(3, 0)$",
+   "Any point on the line segment joining the points $(0, 2)$ and $(3, 0)$"
   ],
   "answer": 3,
   "accepted": [
@@ -1261,7 +1261,7 @@
    "page": 9,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "A die is thrown 10 times. The probability that an odd number will come up at least once is",
+  "stem": "A die is thrown $10$ times. The probability that an odd number will come up at least once is",
   "options": [
    "$\\frac{11}{1024}$",
    "$\\frac{1013}{1024}$",
@@ -1295,7 +1295,7 @@
    "page": 9,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "A random variable $X$ has the following probability distribution :\n\n| X | 0 | 1 | 2 |\n| --- | --- | --- | --- |\n| P(X) | $\\frac{25}{36}$ | $k$ | $\\frac{1}{36}$ |\n\nIf the mean of the random variable $X$ is $\\frac{1}{3}$, then the variance is",
+  "stem": "A random variable $X$ has the following probability distribution:\n\n| $X$ | 0 | 1 | 2 |\n|---|---|---|---|\n| $P(X)$ | $\\frac{25}{36}$ | $k$ | $\\frac{1}{36}$ |\n\nIf the mean of the random variable $X$ is $\\frac{1}{3}$, then the variance is",
   "options": [
    "$\\frac{1}{18}$",
    "$\\frac{5}{18}$",
@@ -1329,7 +1329,7 @@
    "page": 9,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "If a random variable $X$ follows the binomial distribution with parameters $n=5$, $p$ and $P(X=2)=9P(X=3)$, then $p$ is equal to",
+  "stem": "If a random variable $X$ follows the binomial distribution with parameters $n = 5$, $p$ and $P(X = 2) = 9P(X = 3)$, then $p$ is equal to",
   "options": [
    "10",
    "$\\frac{1}{10}$",
@@ -1363,12 +1363,12 @@
    "page": 10,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "The real value of '$\\alpha$' for which $\\dfrac{1-i\\sin\\alpha}{1+2i\\sin\\alpha}$ is purely real is",
+  "stem": "The real value of '$\\alpha$' for which $\\frac{1 - i\\sin\\alpha}{1 + 2i\\sin\\alpha}$ is purely real is",
   "options": [
-   "$(n+1)\\frac{\\pi}{2}$, $n\\in\\mathbb{N}$",
-   "$(2n+1)\\frac{\\pi}{2}$, $n\\in\\mathbb{N}$",
-   "$n\\pi$, $n\\in\\mathbb{N}$",
-   "$(2n-1)\\frac{\\pi}{2}$, $n\\in\\mathbb{N}$"
+   "$(n + 1)\\frac{\\pi}{2}$, $n \\in \\mathbb{N}$",
+   "$(2n + 1)\\frac{\\pi}{2}$, $n \\in \\mathbb{N}$",
+   "$n\\pi$, $n \\in \\mathbb{N}$",
+   "$(2n - 1)\\frac{\\pi}{2}$, $n \\in \\mathbb{N}$"
   ],
   "answer": 2,
   "accepted": [
@@ -1398,12 +1398,12 @@
    "page": 10,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "The length of a rectangle is five times the breadth. If the minimum perimeter of the rectangle is 180 cm, then",
+  "stem": "The length of a rectangle is five times the breadth. If the minimum perimeter of the rectangle is $180\\,\\mathrm{cm}$, then",
   "options": [
-   "Breadth $\\leq 15$ cm",
-   "Breadth $\\geq 15$ cm",
-   "Length $\\leq 15$ cm",
-   "Length $=15$ cm"
+   "Breadth $\\leq 15\\,\\mathrm{cm}$",
+   "Breadth $\\geq 15\\,\\mathrm{cm}$",
+   "Length $\\leq 15\\,\\mathrm{cm}$",
+   "Length $= 15\\,\\mathrm{cm}$"
   ],
   "answer": 1,
   "accepted": [
@@ -1433,7 +1433,7 @@
    "page": 10,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "The value of ${}^{49}C_3+{}^{48}C_3+{}^{47}C_3+{}^{46}C_3+{}^{45}C_3+{}^{45}C_4$ is",
+  "stem": "The value of ${}^{49}C_3 + {}^{48}C_3 + {}^{47}C_3 + {}^{46}C_3 + {}^{45}C_3 + {}^{45}C_4$ is",
   "options": [
    "${}^{50}C_4$",
    "${}^{50}C_3$",
@@ -1468,7 +1468,7 @@
    "page": 10,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "Two finite sets have $m$ and $n$ elements respectively. The total number of subsets of the first set is 56 more than the total number of subsets of the second set. The values of $m$ and $n$ respectively are",
+  "stem": "Two finite sets have $m$ and $n$ elements respectively. The total number of subsets of the first set is $56$ more than the total number of subsets of the second set. The values of $m$ and $n$ respectively are",
   "options": [
    "7, 6",
    "5, 1",
@@ -1492,7 +1492,7 @@
  {
   "id": "pyq-2024-mathematics-044",
   "subject": "mathematics",
-  "chapter": "relations-and-functions-11",
+  "chapter": "relations-and-functions",
   "source": {
    "type": "pyq",
    "name": "KCET 2024",
@@ -1503,12 +1503,12 @@
    "page": 10,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "If $[x]^2-5[x]+6=0$, where $[x]$ denotes the greatest integer function, then",
+  "stem": "If $[x]^2 - 5[x] + 6 = 0$, where $[x]$ denotes the greatest integer function, then",
   "options": [
-   "$x\\in[3,4]$",
-   "$x\\in[2,4)$",
-   "$x\\in[2,3]$",
-   "$x\\in(2,3]$"
+   "$x \\in [3, 4]$",
+   "$x \\in [2, 4)$",
+   "$x \\in [2, 3]$",
+   "$x \\in (2, 3]$"
   ],
   "answer": 1,
   "accepted": [
@@ -1573,9 +1573,9 @@
    "page": 10,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "If $\\Delta ABC$ is right angled at $C$, then the value of $\\tan A+\\tan B$ is",
+  "stem": "If $\\Delta$ ABC is right angled at C, then the value of $\\tan A + \\tan B$ is",
   "options": [
-   "$a+b$",
+   "$a + b$",
    "$\\frac{a^2}{bc}$",
    "$\\frac{c^2}{ab}$",
    "$\\frac{b^2}{ac}$"
@@ -1608,12 +1608,12 @@
    "page": 11,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "In the expansion of $(1+x)^n$ $\\frac{C_1}{C_0}+2\\frac{C_2}{C_1}+3\\frac{C_3}{C_2}+\\ldots+n\\frac{C_n}{C_{n-1}}$ is equal to",
+  "stem": "In the expansion of $(1 + x)^n$,\n$$\\frac{C_1}{C_0} + 2\\frac{C_2}{C_1} + 3\\frac{C_3}{C_2} + \\cdots + n\\frac{C_n}{C_{n-1}}$$\nis equal to",
   "options": [
-   "$\\frac{n(n+1)}{2}$",
+   "$\\frac{n(n + 1)}{2}$",
    "$\\frac{n}{2}$",
-   "$\\frac{n+1}{2}$",
-   "$3n(n+1)$"
+   "$\\frac{n + 1}{2}$",
+   "$3n(n + 1)$"
   ],
   "answer": 0,
   "accepted": [
@@ -1643,12 +1643,12 @@
    "page": 11,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "If $S_n$ stands for sum to n-terms of a G.P. with 'a' as the first term and 'r' as the common ratio then $S_n : S_{2n}$ is",
+  "stem": "If $S_n$ stands for sum to $n$-terms of a G.P. with '$a$' as the first term and '$r$' as the common ratio then $S_n : S_{2n}$ is",
   "options": [
-   "$r^n+1$",
-   "$\\frac{1}{r^n+1}$",
-   "$r^n-1$",
-   "$\\frac{1}{r^n-1}$"
+   "$r^n + 1$",
+   "$\\frac{1}{r^n + 1}$",
+   "$r^n - 1$",
+   "$\\frac{1}{r^n - 1}$"
   ],
   "answer": 1,
   "accepted": [
@@ -1678,12 +1678,12 @@
    "page": 11,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "If A.M. and G.M. of roots of a quadratic equation are 5 and 4 respectively, then the quadratic equation is",
+  "stem": "If A.M. and G.M. of roots of a quadratic equation are $5$ and $4$ respectively, then the quadratic equation is",
   "options": [
-   "$x^2-10x-16=0$",
-   "$x^2+10x+16=0$",
-   "$x^2+10x-16=0$",
-   "$x^2-10x+16=0$"
+   "$x^2 - 10x - 16 = 0$",
+   "$x^2 + 10x + 16 = 0$",
+   "$x^2 + 10x - 16 = 0$",
+   "$x^2 - 10x + 16 = 0$"
   ],
   "answer": 3,
   "accepted": [
@@ -1713,7 +1713,7 @@
    "page": 11,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "The angle between the line $x+y=3$ and the line joining the points $(1,1)$ and $(-3,4)$ is",
+  "stem": "The angle between the line $x + y = 3$ and the line joining the points $(1, 1)$ and $(-3, 4)$ is",
   "options": [
    "$\\tan^{-1}(7)$",
    "$\\tan^{-1}\\left(-\\frac{1}{7}\\right)$",
@@ -1748,12 +1748,12 @@
    "page": 11,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "The equation of parabola whose focus is $(6,0)$ and directrix is $x=-6$ is",
+  "stem": "The equation of parabola whose focus is $(6, 0)$ and directrix is $x = -6$ is",
   "options": [
-   "$y^2=24x$",
-   "$y^2=-24x$",
-   "$x^2=24y$",
-   "$x^2=-24y$"
+   "$y^2 = 24x$",
+   "$y^2 = -24x$",
+   "$x^2 = 24y$",
+   "$x^2 = -24y$"
   ],
   "answer": 0,
   "accepted": [
@@ -1783,7 +1783,7 @@
    "page": 12,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "$\\lim_{x\\to\\frac{\\pi}{4}}\\frac{\\sqrt{2}\\cos x-1}{\\cot x-1}$ is equal to",
+  "stem": "$\\lim_{x \\to \\frac{\\pi}{4}} \\frac{\\sqrt{2}\\cos x - 1}{\\cot x - 1}$ is equal to",
   "options": [
    "2",
    "$\\sqrt{2}$",
@@ -1818,12 +1818,12 @@
    "page": 12,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "The negation of the statement “For every real number x; $x^2+5$ is positive” is",
+  "stem": "The negation of the statement \"For every real number x; $x^2 + 5$ is positive\" is",
   "options": [
-   "For every real number x; $x^2+5$ is not positive.",
-   "For every real number x; $x^2+5$ is negative.",
-   "There exists at least one real number x such that $x^2+5$ is not positive.",
-   "There exists at least one real number x such that $x^2+5$ is positive."
+   "For every real number $x$; $x^2 + 5$ is not positive.",
+   "For every real number $x$; $x^2 + 5$ is negative.",
+   "There exists at least one real number $x$ such that $x^2 + 5$ is not positive.",
+   "There exists at least one real number $x$ such that $x^2 + 5$ is positive."
   ],
   "answer": 2,
   "accepted": [
@@ -1853,10 +1853,10 @@
    "page": 12,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "Let $a$, $b$, $c$, $d$ and $e$ be the observations with mean $m$ and standard deviation $S$. The standard deviation of the observations $a+k$, $b+k$, $c+k$, $d+k$ and $e+k$ is",
+  "stem": "Let $a, b, c, d$ and $e$ be the observations with mean $m$ and standard deviation $S$. The standard deviation of the observations $a + k$, $b + k$, $c + k$, $d + k$ and $e + k$ is",
   "options": [
    "$kS$",
-   "$S+k$",
+   "$S + k$",
    "$\\frac{S}{k}$",
    "$S$"
   ],
@@ -1888,12 +1888,12 @@
    "page": 12,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "Let $f:\\mathbb{R}\\to\\mathbb{R}$ be given by $f(x)=\\tan x$. Then $f^{-1}(1)$ is",
+  "stem": "Let $f: \\mathbb{R} \\to \\mathbb{R}$ be given by $f(x) = \\tan x$. Then $f^{-1}(1)$ is",
   "options": [
    "$\\frac{\\pi}{4}$",
-   "$\\{n\\pi+\\frac{\\pi}{4}:n\\in\\mathbb{Z}\\}$",
+   "$\\{n\\pi + \\frac{\\pi}{4} : n \\in \\mathbb{Z}\\}$",
    "$\\frac{\\pi}{3}$",
-   "$\\{n\\pi+\\frac{\\pi}{3}:n\\in\\mathbb{Z}\\}$"
+   "$\\{n\\pi + \\frac{\\pi}{3} : n \\in \\mathbb{Z}\\}$"
   ],
   "answer": -1,
   "accepted": [],
@@ -1922,12 +1922,12 @@
    "page": 12,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "Let $f:\\mathbb{R}\\to\\mathbb{R}$ be defined by $f(x)=x^2+1$. Then the pre images of 17 and $-3$ respectively are",
+  "stem": "Let $f: \\mathbb{R} \\to \\mathbb{R}$ be defined by $f(x) = x^2 + 1$. Then the pre images of $17$ and $-3$ respectively are",
   "options": [
-   "$\\phi$, $\\{4,-4\\}$",
-   "$\\{3,-3\\}$, $\\phi$",
-   "$\\{4,-4\\}$, $\\phi$",
-   "$\\{4,-4\\}$, $\\{2,-2\\}$"
+   "$\\phi$, $\\{4, -4\\}$",
+   "$\\{3, -3\\}$, $\\phi$",
+   "$\\{4, -4\\}$, $\\phi$",
+   "$\\{4, -4\\}$, $\\{2, -2\\}$"
   ],
   "answer": 2,
   "accepted": [
@@ -1957,12 +1957,12 @@
    "page": 13,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "If $A=\\begin{vmatrix}x&1\\\\1&x\\end{vmatrix}$ and $B=\\begin{vmatrix}x&1&1\\\\1&x&1\\\\1&1&x\\end{vmatrix}$, then $\\frac{dB}{dx}$ is",
+  "stem": "If $A = \\begin{vmatrix} x & 1 \\\\ 1 & x \\end{vmatrix}$ and $B = \\begin{vmatrix} x & 1 & 1 \\\\ 1 & x & 1 \\\\ 1 & 1 & x \\end{vmatrix}$, then $\\frac{dB}{dx}$ is",
   "options": [
    "$3A$",
    "$-3B$",
-   "$3B+1$",
-   "$1-3A$"
+   "$3B + 1$",
+   "$1 - 3A$"
   ],
   "answer": 0,
   "accepted": [
@@ -1992,7 +1992,7 @@
    "page": 13,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "Let $f(x)=\\begin{vmatrix}\\cos x & x & 1\\\\ 2\\sin x & x & 2x\\\\ \\sin x & x & x\\end{vmatrix}$. Then $\\lim_{x\\to0}\\frac{f(x)}{x^2}=$",
+  "stem": "Let $f(x) = \\begin{vmatrix} \\cos x & x & 1 \\\\ 2\\sin x & x & 2x \\\\ \\sin x & x & x \\end{vmatrix}$. Then $\\lim_{x \\to 0} \\frac{f(x)}{x^2} =$",
   "options": [
    "$-1$",
    "$0$",
@@ -2027,11 +2027,11 @@
    "page": 13,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "Which one of the following observations is correct for the features of logarithm function to any base $b>1$?",
+  "stem": "Which one of the following observations is correct for the features of logarithm function to any base $b > 1$?",
   "options": [
    "The domain of the logarithm function is $\\mathbb{R}$, the set of real numbers.",
    "The range of the logarithm function is $\\mathbb{R}^+$, the set of all positive real numbers.",
-   "The point $(1,0)$ is always on the graph of the logarithm function.",
+   "The point $(1, 0)$ is always on the graph of the logarithm function.",
    "The graph of the logarithm function is decreasing as we move from left to right."
   ],
   "answer": 2,
@@ -2062,7 +2062,7 @@
    "page": 13,
    "key_file": "sources/pyq/2024/mathematics/2024-mathematics-answer_key_final-na-kea.pdf"
   },
-  "stem": "If $P=\\begin{bmatrix}1&\\alpha&3\\\\1&3&3\\\\2&4&4\\end{bmatrix}$ is the adjoint of a $3\\times3$ matrix $A$ and $|A|=4$, then $\\alpha$ is equal to",
+  "stem": "If $P = \\begin{bmatrix} 1 & \\alpha & 3 \\\\ 1 & 3 & 3 \\\\ 2 & 4 & 4 \\end{bmatrix}$ is the adjoint of a $3 \\times 3$ matrix $A$ and $|A| = 4$, then $\\alpha$ is equal to",
   "options": [
    "4",
    "5",

@@ -1,0 +1,2129 @@
+[
+ {
+  "id": "pyq-2011-physics-001",
+  "subject": "physics",
+  "chapter": "units-and-measurement",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 1,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $C$ be the capacitance and $V$ be the electric potential, then the dimensional formula of $CV^2$ is",
+  "options": [
+   "$M^{1}L^{2}T^{-2}A^{0}$",
+   "$M^{1}L^{1}T^{-2}A^{-1}$",
+   "$M^{0}L^{1}T^{-2}A^{0}$",
+   "$M^{1}L^{-3}T^{1}A^{1}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-002",
+  "subject": "physics",
+  "chapter": "motion-in-a-straight-line",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 2,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The displacement-time graphs of two moving particles make angles of $30^\\circ$ and $45^\\circ$ with the $X$-axis. The ratio of their velocities is",
+  "options": [
+   "$\\sqrt{3}:2$",
+   "$1:1$",
+   "$1:2$",
+   "$1:\\sqrt{3}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2011-physics-002.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-003",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 3,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Block $A$ of mass $2\\ \\mathrm{kg}$ is placed over block $B$ of mass $8\\ \\mathrm{kg}$. The combination is placed over a rough horizontal surface. Coefficient of friction between $B$ and the floor is $0.5$. Coefficient of friction between $A$ and $B$ is $0.4$. A horizontal force of $10\\ \\mathrm{N}$ is applied on block $B$. The force of friction between $A$ and $B$ is ($g = 10\\ \\mathrm{m\\,s^{-2}}$).",
+  "options": [
+   "$100\\ \\mathrm{N}$",
+   "$40\\ \\mathrm{N}$",
+   "$50\\ \\mathrm{N}$",
+   "zero"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2011-physics-003.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-004",
+  "subject": "physics",
+  "chapter": "motion-in-a-plane",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 4,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The height $y$ and the distance $x$ along the horizontal plane of a projectile on a certain planet (with no surrounding atmosphere) are given by $y = 8t - 5t^2$ meter and $x = 6t$ meter, where $t$ is in seconds. The velocity with which the projectile is projected is",
+  "options": [
+   "$6\\,\\mathrm{m\\,s^{-1}}$",
+   "$8\\,\\mathrm{m\\,s^{-1}}$",
+   "$10\\,\\mathrm{m\\,s^{-1}}$",
+   "$14\\,\\mathrm{m\\,s^{-1}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-005",
+  "subject": "physics",
+  "chapter": "work-energy-and-power",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 5,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A body of mass $5\\ \\mathrm{kg}$ is thrown vertically up with a kinetic energy of $490\\ \\mathrm{J}$. The height at which the kinetic energy of the body becomes half of the original value is (acceleration due to gravity = $9.8\\ \\mathrm{m\\,s^{-2}}$).",
+  "options": [
+   "$5\\,\\mathrm{m}$",
+   "$2.5\\,\\mathrm{m}$",
+   "$10\\,\\mathrm{m}$",
+   "$12.5\\,\\mathrm{m}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-006",
+  "subject": "physics",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 6,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A solid sphere of mass $m$ rolls down an inclined plane without slipping, starting from rest at the top of an inclined plane. The linear speed of the sphere at the bottom of the inclined plane is $v$. The kinetic energy of the sphere at the bottom is",
+  "options": [
+   "$\\frac{1}{2}mv^2$",
+   "$\\frac{5}{3}mv^2$",
+   "$\\frac{2}{5}mv^2$",
+   "$\\frac{7}{10}mv^2$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-007",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 7,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Two satellites of mass $m$ and $9m$ are orbiting a planet in orbits of radius $R$. Their periods of revolution will be in the ratio of",
+  "options": [
+   "$9:1$",
+   "$3:1$",
+   "$1:1$",
+   "$1:3$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-008",
+  "subject": "physics",
+  "chapter": "mechanical-properties-of-solids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 8,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The following four wires of length $L$ and radius $r$ are made of the same material. Which of these will have the largest extension, when the same tension is applied?",
+  "options": [
+   "$L = 100\\ \\mathrm{cm},\\ r = 0.2\\ \\mathrm{mm}$",
+   "$L = 200\\ \\mathrm{cm},\\ r = 0.4\\ \\mathrm{mm}$",
+   "$L = 300\\ \\mathrm{cm},\\ r = 0.6\\ \\mathrm{mm}$",
+   "$L = 400\\ \\mathrm{cm},\\ r = 0.8\\ \\mathrm{mm}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-009",
+  "subject": "physics",
+  "chapter": "motion-in-a-plane",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 9,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The resultant of two forces acting at an angle of $120^\\circ$ is $10\\ \\mathrm{kg\\,wt}$ and is perpendicular to one of the forces. That force is",
+  "options": [
+   "$10\\sqrt{3}\\ \\mathrm{kg\\,wt}$",
+   "$20\\sqrt{3}\\ \\mathrm{kg\\,wt}$",
+   "$10\\ \\mathrm{kg\\,wt}$",
+   "$\\frac{10}{\\sqrt{3}}\\ \\mathrm{kg\\,wt}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-010",
+  "subject": "physics",
+  "chapter": "mechanical-properties-of-fluids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 10,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Eight equal drops of water are falling through air with a steady velocity of $10\\ \\mathrm{cm\\,s^{-1}}$. If the drops combine to form a single drop big in size, then the terminal velocity of this big drop is",
+  "options": [
+   "$40\\ \\mathrm{cm\\,s^{-1}}$",
+   "$10\\ \\mathrm{cm\\,s^{-1}}$",
+   "$30\\ \\mathrm{cm\\,s^{-1}}$",
+   "$80\\ \\mathrm{cm\\,s^{-1}}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-011",
+  "subject": "physics",
+  "chapter": "mechanical-properties-of-fluids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 11,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Two capillary tubes of different diameters are dipped in water. The rise of water is",
+  "options": [
+   "the same in both tubes",
+   "greater in the tube of larger diameter",
+   "greater in the tube of smaller diameter",
+   "independent of the diameter of the tube"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-012",
+  "subject": "physics",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 12,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A perfect gas at $27^\\circ\\mathrm{C}$ is heated at constant pressure so as to double its volume. The increase in temperature of the gas will be",
+  "options": [
+   "$600^\\circ\\mathrm{C}$",
+   "$327^\\circ\\mathrm{C}$",
+   "$54^\\circ\\mathrm{C}$",
+   "$300^\\circ\\mathrm{C}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-013",
+  "subject": "physics",
+  "chapter": "thermal-properties-of-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 13,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Three identical rods $A$, $B$ and $C$ are placed end to end. A temperature difference is maintained between the free ends of $A$ and $C$. The thermal conductivity of $B$ is THRICE that of $C$ and HALF of that of $A$. The effective thermal conductivity of the system will be ($K_A$ is the thermal conductivity of rod $A$).",
+  "options": [
+   "$\\frac{1}{3}K_A$",
+   "$3K_A$",
+   "$2K_A$",
+   "$\\frac{2}{3}K_A$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-014",
+  "subject": "physics",
+  "chapter": "thermal-properties-of-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 14,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The quantities of heat required to raise the temperatures of two copper spheres of radii $r_1$ and $r_2$ ($r_1 = 1.5\\,r_2$) through $1\\ \\mathrm{K}$ are in the ratio of",
+  "options": [
+   "$\\frac{27}{8}$",
+   "$\\frac{9}{4}$",
+   "$\\frac{3}{2}$",
+   "1"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-015",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 15,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Which one of the following is $v_m$-$T$ graph for perfectly black body? $v_m$ is the frequency of radiation with maximum intensity. $T$ is the absolute temperature.",
+  "options": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2011-physics-015.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-016",
+  "subject": "physics",
+  "chapter": "oscillations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 16,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A particle executing a simple harmonic motion has a period of $6\\ \\mathrm{sec}$. The time taken by the particle to move from the mean position to half the amplitude, starting from the mean position is",
+  "options": [
+   "$\\frac{3}{2}\\ \\mathrm{sec}$",
+   "$\\frac{1}{2}\\ \\mathrm{sec}$",
+   "$\\frac{3}{4}\\ \\mathrm{sec}$",
+   "$\\frac{1}{4}\\ \\mathrm{sec}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-017",
+  "subject": "physics",
+  "chapter": "waves",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 17,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The equation of a wave is given by $y = 10\\,\\mathrm{Sin}\\left(\\frac{2\\pi}{45}t + \\alpha\\right)$. If the displacement is $5\\,\\mathrm{cm}$ at $t = 0$, then the total phase at $t = 7.5\\,\\mathrm{sec}$ is",
+  "options": [
+   "$\\frac{\\pi}{3}$",
+   "$\\frac{\\pi}{2}$",
+   "$\\frac{\\pi}{6}$",
+   "$\\pi$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-018",
+  "subject": "physics",
+  "chapter": "waves",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 18,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Two tuning forks, $A$ and $B$, produce notes of frequencies $258\\ \\mathrm{Hz}$ and $262\\ \\mathrm{Hz}$. An unknown note sounded with $A$ produces certain beats. When the same note is sounded with $B$, the beat frequency gets doubled. The unknown frequency is",
+  "options": [
+   "$250\\ \\mathrm{Hz}$",
+   "$252\\ \\mathrm{Hz}$",
+   "$254\\ \\mathrm{Hz}$",
+   "$256\\ \\mathrm{Hz}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-019",
+  "subject": "physics",
+  "chapter": "waves",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 19,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A wire under tension vibrates with a fundamental frequency of $600\\ \\mathrm{Hz}$. If the length of the wire is doubled, the radius is halved and the wire is made to vibrate under one-ninth the tension. Then the fundamental frequency will become",
+  "options": [
+   "$200\\ \\mathrm{Hz}$",
+   "$300\\ \\mathrm{Hz}$",
+   "$600\\ \\mathrm{Hz}$",
+   "$400\\ \\mathrm{Hz}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-020",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 20,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Faintest stars are called",
+  "options": [
+   "zero magnitude stars",
+   "second magnitude stars",
+   "sixth magnitude stars",
+   "dwarfs"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-021",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 21,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Wavelength of given light waves in air and in a medium are $6000\\,\\mathrm{\\AA}$ and $4000\\,\\mathrm{\\AA}$ respectively. The critical angle is",
+  "options": [
+   "$\\mathrm{Tan}^{-1}\\left(\\frac{2}{3}\\right)$",
+   "$\\mathrm{Tan}^{-1}\\left(\\frac{3}{2}\\right)$",
+   "$\\mathrm{Sin}^{-1}\\left(\\frac{2}{3}\\right)$",
+   "$\\mathrm{Sin}^{-1}\\left(\\frac{3}{2}\\right)$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-022",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 22,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The time required for the light to pass through a glass slab (refractive index $= 1.5$) of thickness $4\\ \\mathrm{mm}$ is ($c = 3\\times10^{8}\\ \\mathrm{m\\,s^{-1}}$, speed of light in free space).",
+  "options": [
+   "$10^{-11}\\ \\mathrm{sec}$",
+   "$2\\times10^{-11}\\ \\mathrm{sec}$",
+   "$2\\times10^{+11}\\ \\mathrm{sec}$",
+   "$2\\times10^{-5}\\ \\mathrm{sec}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-023",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 23,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A prism having refractive index $1.414$ and refracting angle $30^\\circ$ has one of the refracting surfaces silvered. A beam of light incident on the other refracting surface will retrace its path, if the angle of incidence is",
+  "options": [
+   "$0^\\circ$",
+   "$30^\\circ$",
+   "$60^\\circ$",
+   "$45^\\circ$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-024",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 24,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A planoconvex lens has a maximum thickness of $6\\ \\mathrm{cm}$. When placed on a horizontal table with the curved surface in contact with the table surface, the apparent depth of the bottommost point of the lens is found to be $4\\ \\mathrm{cm}$. If the lens is inverted such that the plane face of the lens is in contact with the surface of the table, the apparent depth of the center of the plane face is found to be $\\left(\\frac{17}{4}\\right)\\ \\mathrm{cm}$. The radius of curvature of the lens is",
+  "options": [
+   "$68\\ \\mathrm{cm}$",
+   "$75\\ \\mathrm{cm}$",
+   "$128\\ \\mathrm{cm}$",
+   "$34\\ \\mathrm{cm}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-025",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 25,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Two thin lenses have a combined power of $+9\\ \\mathrm{D}$. When they are separated by a distance of $20\\ \\mathrm{cm}$, their equivalent power becomes $+\\frac{27}{5}\\ \\mathrm{D}$. Their individual powers (in diopters) are",
+  "options": [
+   "1, 8",
+   "2, 7",
+   "3, 6",
+   "4, 5"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-026",
+  "subject": "physics",
+  "chapter": "waves",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 26,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Wavefront is the locus of all points, where the particles of the medium vibrate with the same",
+  "options": [
+   "phase",
+   "amplitude",
+   "frequency",
+   "period"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-027",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 27,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Two monochromatic light waves of amplitudes $3A$ and $2A$ interfering at a point have a phase difference of $60^\\circ$. The intensity at that point will be proportional to",
+  "options": [
+   "$5A^2$",
+   "$13A^2$",
+   "$7A^2$",
+   "$19A^2$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-028",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 28,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Consider the following statements in case of Young's double slit experiment.\n\na) A slit $S$ is necessary if we use an ordinary extended source of light.\n\nb) A slit $S$ is not needed if we use an ordinary but well collimated beam of light.\n\nc) A slit $S$ is not needed if we use a spatially coherent source of light.\n\nWhich of the above statements are correct?",
+  "options": [
+   "a), b) and c)",
+   "a) and b)",
+   "b) and c)",
+   "a) and c)"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-029",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 29,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A parallel beam of light of wavelength $6000\\,\\mathrm{\\AA}$ gets diffracted by a single slit of width $0.3\\ \\mathrm{mm}$. The angular position of the first minima of diffracted light is",
+  "options": [
+   "$2\\times10^{-3}\\ \\mathrm{rad}$",
+   "$3\\times10^{-3}\\ \\mathrm{rad}$",
+   "$1.8\\times10^{-3}\\ \\mathrm{rad}$",
+   "$6\\times10^{-3}\\ \\mathrm{rad}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-030",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 30,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The critical angle of a certain medium is $\\mathrm{Sin}^{-1}\\left(\\frac{3}{5}\\right)$. The polarizing angle of the medium is",
+  "options": [
+   "$\\mathrm{Sin}^{-1}\\left(\\frac{4}{5}\\right)$",
+   "$\\mathrm{Tan}^{-1}\\left(\\frac{5}{3}\\right)$",
+   "$\\mathrm{Tan}^{-1}\\left(\\frac{3}{4}\\right)$",
+   "$\\mathrm{Tan}^{-1}\\left(\\frac{4}{3}\\right)$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-031",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 31,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Two identical charged spheres of material density $\\rho$, suspended from the same point by inextensible strings of equal length make an angle $\\theta$ between the strings. When suspended in a liquid of density $\\sigma$ the angle $\\theta$ remains the same. The dielectric constant $K$ of the liquid is",
+  "options": [
+   "$\\frac{\\rho}{\\rho-\\sigma}$",
+   "$\\frac{\\rho-\\sigma}{\\rho}$",
+   "$\\frac{\\rho}{\\rho+\\sigma}$",
+   "$\\frac{\\rho+\\sigma}{\\rho}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-032",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 32,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The electric field at a point due to an electric dipole, on an axis inclined at an angle $\\theta\\ (<90^\\circ)$ to the dipole axis, is perpendicular to the dipole axis, if the angle $\\theta$ is",
+  "options": [
+   "$\\mathrm{Tan}^{-1}(2)$",
+   "$\\mathrm{Tan}^{-1}\\left(\\frac{1}{2}\\right)$",
+   "$\\mathrm{Tan}^{-1}(\\sqrt{2})$",
+   "$\\mathrm{Tan}^{-1}\\left(\\frac{1}{\\sqrt{2}}\\right)$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-033",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 33,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "In the circuit shown, the currents $i_1$ and $i_2$ are",
+  "options": [
+   "$i_1 = 1.5\\ \\mathrm{A},\\ i_2 = 0.5\\ \\mathrm{A}$",
+   "$i_1 = 0.5\\ \\mathrm{A},\\ i_2 = 1.5\\ \\mathrm{A}$",
+   "$i_1 = 1\\ \\mathrm{A},\\ i_2 = 3\\ \\mathrm{A}$",
+   "$i_1 = 3\\ \\mathrm{A},\\ i_2 = 1\\ \\mathrm{A}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2011-physics-033.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-034",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 34,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "In the given network, the value of $C$, so that an equivalent capacitance between $A$ and $B$ is $3\\,\\mu\\mathrm{F}$, is",
+  "options": [
+   "$\\frac{1}{5}\\,\\mu\\mathrm{F}$",
+   "$\\frac{31}{5}\\,\\mu\\mathrm{F}$",
+   "$48\\,\\mu\\mathrm{F}$",
+   "$36\\,\\mu\\mathrm{F}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2011-physics-034.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-035",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 35,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A conductor wire having $10^{29}$ free electrons/$\\mathrm{m^3}$ carries a current of $20\\ \\mathrm{A}$. If the cross-section of the wire is $1\\ \\mathrm{mm^2}$, then the drift velocity of electrons will be ($e = 1.6\\times10^{-19}\\ \\mathrm{C}$).",
+  "options": [
+   "$1.25\\times10^{-4}\\ \\mathrm{m\\,s^{-1}}$",
+   "$1.25\\times10^{-3}\\ \\mathrm{m\\,s^{-1}}$",
+   "$1.25\\times10^{-5}\\ \\mathrm{m\\,s^{-1}}$",
+   "$6.25\\times10^{-3}\\ \\mathrm{m\\,s^{-1}}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-036",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 36,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A resistor has a colour code of green, blue, brown and silver. What is its resistance?",
+  "options": [
+   "$56\\,\\Omega \\pm 5\\%$",
+   "$560\\,\\Omega \\pm 10\\%$",
+   "$560\\,\\Omega \\pm 5\\%$",
+   "$5600\\,\\Omega \\pm 10\\%$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-037",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 37,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The voltage $V$ and current $I$ graphs for a conductor at two different temperatures $T_1$ and $T_2$ are shown in the figure. The relation between $T_1$ and $T_2$ is",
+  "options": [
+   "$T_1 > T_2$",
+   "$T_1 < T_2$",
+   "$T_1 = T_2$",
+   "$T_1 = \\frac{1}{T_2}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2011-physics-037.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-038",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 38,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Consider the following statements regarding the network shown in the figure.\n\na) The equivalent resistance of the network between points $A$ and $B$ is independent of value of $G$.\n\nb) The equivalent resistance of the network between points $A$ and $B$ is $\\frac{4}{3}R$.\n\nc) The current through $G$ is zero.\n\nWhich of the above statements is/are TRUE?",
+  "options": [
+   "a) alone",
+   "b) alone",
+   "b) and c)",
+   "a), b) and c)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2011-physics-038.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-039",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 39,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The torque required to hold a small circular coil of 10 turns, area $1\\,\\mathrm{mm^2}$ and carrying a current of $\\left(\\frac{21}{44}\\right)\\mathrm{A}$ in the middle of a long solenoid of $10^3$ turns/m carrying a current of $2.5\\,\\mathrm{A}$, with its axis perpendicular to the axis of the solenoid is",
+  "options": [
+   "$1.5 \\times 10^{-6}\\,\\mathrm{N\\text{-}m}$",
+   "$1.5 \\times 10^{-8}\\,\\mathrm{N\\text{-}m}$",
+   "$1.5 \\times 10^{+6}\\,\\mathrm{N\\text{-}m}$",
+   "$1.5 \\times 10^{+8}\\,\\mathrm{N\\text{-}m}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2011-physics-039.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-040",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 40,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A particle of charge $e$ and mass $m$ moves with a velocity $v$ in a magnetic field $B$ applied perpendicular to the motion of the particle. The radius $r$ of its path in the field is",
+  "options": [
+   "$\\frac{mv}{Be}$",
+   "$\\frac{Be}{mv}$",
+   "$\\frac{ev}{Bm}$",
+   "$\\frac{Bv}{em}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-041",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 41,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A neutron, a proton, an electron and an $\\alpha$-particle enter a region of uniform magnetic field with the same velocities. The magnetic field is perpendicular and directed into the plane of the paper. The tracks of the particles are labelled in the figure. The electron follows the track",
+  "options": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2011-physics-041.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-042",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 42,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The deflection in a moving coil galvanometer is reduced to half when it is shunted with a $40\\,\\Omega$ coil. The resistance of the galvanometer is",
+  "options": [
+   "$80\\,\\Omega$",
+   "$40\\,\\Omega$",
+   "$20\\,\\Omega$",
+   "$15\\,\\Omega$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-043",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 43,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A current of $\\left(\\frac{2}{\\sqrt{3}}\\right)\\mathrm{A}$ produces a deflection of $60^\\circ$ in a tangent galvanometer. The reduction factor is",
+  "options": [
+   "$\\left(\\frac{2}{\\sqrt{3}}\\right)\\mathrm{A}$",
+   "$\\left(\\frac{2}{3}\\right)\\mathrm{A}$",
+   "$2\\,\\mathrm{A}$",
+   "$\\left(\\frac{3}{2}\\right)\\mathrm{A}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-044",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 44,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "In an A.C. circuit, $V$ and $I$ are given by $V = 150\\,\\mathrm{Sin}(150t)$ volt and $I = 150\\,\\mathrm{Sin}\\left(150t + \\frac{\\pi}{3}\\right)$ ampere. The power dissipated in the circuit is",
+  "options": [
+   "$106\\,\\mathrm{W}$",
+   "$150\\,\\mathrm{W}$",
+   "$5625\\,\\mathrm{W}$",
+   "zero"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-045",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 45,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "In the series $L$-$C$-$R$ circuit shown, the impedance is",
+  "options": [
+   "$200\\,\\Omega$",
+   "$100\\,\\Omega$",
+   "$300\\,\\Omega$",
+   "$500\\,\\Omega$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2011-physics-045.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-046",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 46,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The energy stored in an inductor of self inductance $L$ henry carrying a current of $I$ ampere is",
+  "options": [
+   "$\\frac{1}{2}L^2 I$",
+   "$\\frac{1}{2}LI^2$",
+   "$LI^2$",
+   "$L^2 I$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-047",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 47,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A transformer works on the principle of",
+  "options": [
+   "self induction",
+   "electrical inertia",
+   "mutual induction",
+   "magnetic effect of the electrical current"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-048",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 48,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Flash spectrum confirms a/an",
+  "options": [
+   "total solar eclipse",
+   "lunar eclipse",
+   "earthquake",
+   "magnetic storm"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-049",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 49,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The photoelectric threshold wavelength for silver is $\\lambda_0$. The energy of the electron ejected from the surface of silver by an incident wavelength $\\lambda$ ($\\lambda < \\lambda_0$) will be",
+  "options": [
+   "$hc(\\lambda_0 - \\lambda)$",
+   "$\\frac{hc}{\\lambda_0 - \\lambda}$",
+   "$\\frac{h}{c}\\left(\\frac{\\lambda_0 - \\lambda}{\\lambda\\lambda_0}\\right)$",
+   "$hc\\left(\\frac{\\lambda_0 - \\lambda}{\\lambda\\lambda_0}\\right)$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-050",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 50,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Rutherford's atomic model could account for",
+  "options": [
+   "stability of atoms",
+   "origin of spectra",
+   "the positively charged central core of an atom",
+   "concept of stationary orbits"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-051",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 51,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "When an electron jumps from the orbit $n = 2$ to $n = 4$, then wavelength of the radiations absorbed will be ($R$ is Rydberg's constant).",
+  "options": [
+   "$\\frac{16}{3R}$",
+   "$\\frac{16}{5R}$",
+   "$\\frac{5R}{16}$",
+   "$\\frac{3R}{16}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-052",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 52,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The thermonuclear reaction of hydrogen inside the stars is taking place by a cycle of operations. The particular element which acts as a catalyst is",
+  "options": [
+   "nitrogen",
+   "oxygen",
+   "helium",
+   "carbon"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-053",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 53,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The ratio of minimum wavelengths of Lyman and Balmer series will be",
+  "options": [
+   "1.25",
+   "0.25",
+   "5",
+   "10"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "duplicate of pyq-2008-physics-034"
+  }
+ },
+ {
+  "id": "pyq-2011-physics-054",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 54,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The fraction of the initial number of radioactive nuclei which remain undecayed after half of a half-life of the radioactive sample is",
+  "options": [
+   "$\\frac{1}{4}$",
+   "$\\frac{1}{2\\sqrt{2}}$",
+   "$\\frac{1}{2}$",
+   "$\\frac{1}{\\sqrt{2}}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-055",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 55,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "1 curie represents",
+  "options": [
+   "$3.7\\times10^{7}$ disintegrations per second",
+   "$3.7\\times10^{10}$ disintegrations per second",
+   "$10^{6}$ disintegrations per second",
+   "1 disintegration per second"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-056",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 56,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "An $n$-$p$-$n$ transistor can be considered to be equivalent to two diodes, connected. Which of the following figures is the CORRECT ONE?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2011-physics-056.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "key_confirmed",
+   "notes": "Image-options question; transcription fine. npn base is p so both diodes have anode at B (arrows toward E and C) = option 2; key matches."
+  }
+ },
+ {
+  "id": "pyq-2011-physics-057",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 57,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "In the case of forward biasing of a $p$-$n$ junction diode, which one of the following figures correctly depicts the direction of conventional current (indicated by an arrow mark)?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2011-physics-057.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-058",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 58,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "An electron of mass $m_e$ and a proton of mass $m_p$ are moving with the same speed. The ratio of their de-Broglie's wavelengths $\\frac{\\lambda_e}{\\lambda_p}$ is",
+  "options": [
+   "1",
+   "1836",
+   "$\\frac{1}{1836}$",
+   "918"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-059",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 59,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The output of given logic circuit is",
+  "options": [
+   "$A\\cdot(B+C)$",
+   "$A\\cdot(B\\cdot C)$",
+   "$(A+B)\\cdot(A+C)$",
+   "$A+B+C$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2011-physics-059.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-physics-060",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 60,
+   "file": "sources/pyq/2011/physics/2011-physics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2011/physics/2011-physics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If the scattering intensity of a liquid is $8$ units at a wavelength of $500\\ \\mathrm{nm}$, then the scattering intensity at a wavelength of $400\\ \\mathrm{nm}$ will be approximately",
+  "options": [
+   "13 units",
+   "16 units",
+   "20 units",
+   "24 units"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

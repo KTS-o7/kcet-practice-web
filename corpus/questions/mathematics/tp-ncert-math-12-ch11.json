@@ -1,0 +1,284 @@
+[
+ {
+  "id": "tp-ncert-math-12-ch11-029",
+  "subject": "mathematics",
+  "chapter": "three-dimensional-geometry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 29,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep211.pdf",
+   "page": 18,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Distance of the point $(\\alpha,\\beta,\\gamma)$ from $y$-axis is",
+  "options": [
+   "$\\beta$",
+   "$|\\beta|$",
+   "$|\\beta|+|\\gamma|$",
+   "$\\sqrt{\\alpha^2+\\gamma^2}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch11-030",
+  "subject": "mathematics",
+  "chapter": "three-dimensional-geometry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 30,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep211.pdf",
+   "page": 19,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If the directions cosines of a line are $k,k,k$, then",
+  "options": [
+   "$k>0$",
+   "$0<k<1$",
+   "$k=1$",
+   "$k = \\frac{1}{\\sqrt{3}}$ or $-\\frac{1}{\\sqrt{3}}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch11-031",
+  "subject": "mathematics",
+  "chapter": "three-dimensional-geometry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 31,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep211.pdf",
+   "page": 19,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The distance of the plane $\\vec{r}\\cdot\\left(\\frac{2}{7}\\hat{i}+\\frac{3}{7}\\hat{j}-\\frac{6}{7}\\hat{k}\\right)=1$ from the origin is",
+  "options": [
+   "1",
+   "7",
+   "$\\frac{1}{7}$",
+   "None of these"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch11-032",
+  "subject": "mathematics",
+  "chapter": "three-dimensional-geometry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 32,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep211.pdf",
+   "page": 19,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The sine of the angle between the straight line $\\frac{x-2}{3}=\\frac{y-3}{4}=\\frac{z-4}{5}$ and the plane $2x-2y+z=5$ is",
+  "options": [
+   "$\\frac{10}{6\\sqrt{5}}$",
+   "$\\frac{4}{5\\sqrt{2}}$",
+   "$\\frac{2\\sqrt{3}}{5}$",
+   "$\\frac{\\sqrt{2}}{10}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch11-033",
+  "subject": "mathematics",
+  "chapter": "three-dimensional-geometry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 33,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep211.pdf",
+   "page": 19,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The reflection of the point $(\\alpha,\\beta,\\gamma)$ in the xy-plane is",
+  "options": [
+   "$(\\alpha,\\beta,0)$",
+   "$(0,0,\\gamma)$",
+   "$(-\\alpha,-\\beta,\\gamma)$",
+   "$(\\alpha,\\beta,-\\gamma)$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch11-034",
+  "subject": "mathematics",
+  "chapter": "three-dimensional-geometry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 34,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep211.pdf",
+   "page": 19,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The area of the quadrilateral ABCD, where $A(0,4,1)$, $B(2,3,-1)$, $C(4,5,0)$ and $D(2,6,2)$, is equal to",
+  "options": [
+   "9 sq. units",
+   "18 sq. units",
+   "27 sq. units",
+   "81 sq. units"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch11-035",
+  "subject": "mathematics",
+  "chapter": "three-dimensional-geometry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 35,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep211.pdf",
+   "page": 19,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The locus represented by $xy+yz=0$ is",
+  "options": [
+   "A pair of perpendicular lines",
+   "A pair of parallel lines",
+   "A pair of parallel planes",
+   "A pair of perpendicular planes"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "duplicate of pyq-2018-mathematics-055"
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch11-036",
+  "subject": "mathematics",
+  "chapter": "three-dimensional-geometry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 36,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep211.pdf",
+   "page": 19,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The plane $2x-3y+6z-11=0$ makes an angle $\\sin^{-1}(\\alpha)$ with x-axis. The value of $\\alpha$ is equal to",
+  "options": [
+   "$\\frac{\\sqrt{3}}{2}$",
+   "$\\frac{\\sqrt{2}}{3}$",
+   "$\\frac{2}{7}$",
+   "$\\frac{3}{7}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "duplicate of pyq-2017-mathematics-053"
+  }
+ }
+]

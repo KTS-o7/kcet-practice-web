@@ -1,0 +1,328 @@
+[
+ {
+  "id": "tp-ncert-math-12-ch12-026",
+  "subject": "mathematics",
+  "chapter": "linear-programming",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 26,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep212.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The corner points of the feasible region determined by the system of linear constraints are $(0, 0)$, $(0, 40)$, $(20, 40)$, $(60, 20)$, $(60, 0)$. The objective function is $Z = 4x + 3y$.\n\nCompare the quantity in Column A and Column B.\n\n| Column A | Column B |\n|---|---|\n| Maximum of Z | 325 |",
+  "options": [
+   "The quantity in column A is greater",
+   "The quantity in column B is greater",
+   "The two quantities are equal",
+   "The relationship can not be determined on the basis of the information supplied"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch12-027",
+  "subject": "mathematics",
+  "chapter": "linear-programming",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 27,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep212.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The feasible solution for a LPP is shown in Fig. 12.12. Let $Z = 3x - 4y$ be the objective function. Minimum of Z occurs at",
+  "options": [
+   "$(0, 0)$",
+   "$(0, 8)$",
+   "$(5, 0)$",
+   "$(4, 10)$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-math-12-ch12-027.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch12-028",
+  "subject": "mathematics",
+  "chapter": "linear-programming",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 28,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep212.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Refer to Exercise 27. Maximum of Z occurs at",
+  "options": [
+   "$(5, 0)$",
+   "$(6, 5)$",
+   "$(6, 8)$",
+   "$(4, 10)$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-ncert-math-12-ch12-028.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch12-029",
+  "subject": "mathematics",
+  "chapter": "linear-programming",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 29,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep212.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Refer to Exercise 27. (Maximum value of Z + Minimum value of Z) is equal to",
+  "options": [
+   "$13$",
+   "$1$",
+   "$-13$",
+   "$-17$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-ncert-math-12-ch12-029.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch12-030",
+  "subject": "mathematics",
+  "chapter": "linear-programming",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 30,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep212.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The feasible region for an LPP is shown in the Fig. 12.13. Let $F = 3x - 4y$ be the objective function. Maximum value of F is.",
+  "options": [
+   "$0$",
+   "$8$",
+   "$12$",
+   "$-18$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-ncert-math-12-ch12-030.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch12-031",
+  "subject": "mathematics",
+  "chapter": "linear-programming",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 31,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep212.pdf",
+   "page": 16,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Refer to Exercise 30. Minimum value of F is",
+  "options": [
+   "$0$",
+   "$-16$",
+   "$12$",
+   "does not exist"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-ncert-math-12-ch12-031.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "key_confirmed",
+   "notes": "Transcription exact; feasible region unbounded (strip between parallel lines extends upward), F=3x-4y decreases without bound along (1,2), so minimum does not exist; key D (p.302 key image) correct."
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch12-032",
+  "subject": "mathematics",
+  "chapter": "linear-programming",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 32,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep212.pdf",
+   "page": 16,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Corner points of the feasible region for an LPP are $(0, 2)$, $(3, 0)$, $(6, 0)$, $(6, 8)$ and $(0, 5)$. Let $F = 4x + 6y$ be the objective function. The Minimum value of F occurs at",
+  "options": [
+   "$(0, 2)$ only",
+   "$(3, 0)$ only",
+   "the mid point of the line sgment joining the points $(0, 2)$ and $(3, 0)$ only",
+   "any point on the line segment joining the points $(0, 2)$ and $(3, 0)$."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch12-033",
+  "subject": "mathematics",
+  "chapter": "linear-programming",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 33,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep212.pdf",
+   "page": 16,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Refer to Exercise 32, Maximum of $F$ - Minimum of $F$ =",
+  "options": [
+   "$60$",
+   "$48$",
+   "$42$",
+   "$18$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch12-034",
+  "subject": "mathematics",
+  "chapter": "linear-programming",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 34,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep212.pdf",
+   "page": 16,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Corner points of the feasible region determined by the system of linear constraints are $(0, 3)$, $(1, 1)$ and $(3, 0)$. Let $Z = px + qy$, where $p, q > 0$. Condition on $p$ and $q$ so that the minimum of $Z$ occurs at $(3, 0)$ and $(1, 1)$ is",
+  "options": [
+   "$p = 2q$",
+   "$p = \\frac{q}{2}$",
+   "$p = 3q$",
+   "$p = q$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "duplicate of pyq-2020-mathematics-048"
+  }
+ }
+]

@@ -1,0 +1,2105 @@
+[
+ {
+  "id": "pyq-2013-chemistry-001",
+  "subject": "chemistry",
+  "chapter": "general-principles-and-processes-of-isolation-of-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 1,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The process of zone refining is used in the purification of",
+  "options": [
+   "$\\mathrm{Al}$",
+   "$\\mathrm{Ge}$",
+   "$\\mathrm{Cu}$",
+   "$\\mathrm{Ag}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-002",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 2,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The number of water molecules present in a drop of water weighing 0.018 gm is",
+  "options": [
+   "$6.022 \\times 10^{26}$",
+   "$6.022 \\times 10^{23}$",
+   "$6.022 \\times 10^{19}$",
+   "$6.022 \\times 10^{20}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-003",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 3,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Empirical formula of a compound is $\\mathrm{CH_2O}$ and its molecular mass is 90, the molecular formula of the compound is",
+  "options": [
+   "$\\mathrm{C_3H_6O_3}$",
+   "$\\mathrm{C_2H_4O_2}$",
+   "$\\mathrm{C_6H_{12}O_6}$",
+   "$\\mathrm{CH_2O}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-004",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 4,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Hybridised states of carbon in Graphite and Diamond are respectively",
+  "options": [
+   "$\\mathrm{sp^3},\\ \\mathrm{sp^3}$",
+   "$\\mathrm{sp^3},\\ \\mathrm{sp^2}$",
+   "$\\mathrm{sp^2},\\ \\mathrm{sp^2}$",
+   "$\\mathrm{sp^2},\\ \\mathrm{sp^3}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-005",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 5,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The mass of $112\\,\\mathrm{cm^3}$ of $\\mathrm{NH_3}$ gas at STP is",
+  "options": [
+   "$0.085\\,\\mathrm{g}$",
+   "$0.850\\,\\mathrm{g}$",
+   "$8.500\\,\\mathrm{g}$",
+   "$80.500\\,\\mathrm{g}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-006",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 6,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "IUPAC name of $\\mathrm{CH_3 - CH(OH) - CH_2 - CH(COOH) - CH_3}$ is",
+  "options": [
+   "4-hydroxy 1 methyl pentanoic acid",
+   "4-hydroxy 2 methyl pentanoic acid",
+   "2-hydroxy 4 methyl pentanoic acid",
+   "2-hydroxy 2 methyl pentanoic acid"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2013-chemistry-006.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-007",
+  "subject": "chemistry",
+  "chapter": "the-s-block-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 7,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Alkali metals have negative reduction potential and hence they behave as",
+  "options": [
+   "Oxidising agents",
+   "Lewis bases",
+   "Reducing agents",
+   "Electrolytes"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-008",
+  "subject": "chemistry",
+  "chapter": "states-of-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 8,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Which of the following gases has the highest value of RMS-velocity at 298 K ?",
+  "options": [
+   "$\\mathrm{CH_4}$",
+   "$\\mathrm{CO}$",
+   "$\\mathrm{Cl_2}$",
+   "$\\mathrm{CO_2}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-009",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 9,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Cycloalkane formed when 1, 4-dibromopentane is heated with Sodium is",
+  "options": [
+   "Methyl cyclobutane",
+   "Cyclopentane",
+   "Cyclobutane",
+   "Methyl cyclopentane"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-010",
+  "subject": "chemistry",
+  "chapter": "redox-reactions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 10,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "In the reaction, $\\mathrm{2FeSO_4 + H_2SO_4 + H_2O_2 \\rightarrow Fe_2(SO_4)_3 + 2H_2O}$, the oxidizing agent is",
+  "options": [
+   "$\\mathrm{FeSO_4}$",
+   "$\\mathrm{H_2SO_4}$",
+   "$\\mathrm{H_2O_2}$",
+   "Both $\\mathrm{H_2SO_4}$ and $\\mathrm{H_2O_2}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-011",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 11,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Given Thermochemical equation, $\\mathrm{2H_{2(g)} + O_{2(g)} \\rightarrow 2H_2O_{(l)}}$; $\\Delta H = -571.6\\,\\mathrm{kJ}$. Heat of decomposition of water is",
+  "options": [
+   "$-571.6\\,\\mathrm{kJ}$",
+   "$+571.6\\,\\mathrm{kJ}$",
+   "$-1143.2\\,\\mathrm{kJ}$",
+   "$+285.8\\,\\mathrm{kJ}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-012",
+  "subject": "chemistry",
+  "chapter": "polymers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 12,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "In Buna-S, the symbol 'Bu' stands for",
+  "options": [
+   "1-Butene",
+   "n-Butene",
+   "2-Butene",
+   "Butadiene"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-013",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 13,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The electronic configuration of $\\mathrm{Cu^{2+}}$ ion is",
+  "options": [
+   "$\\mathrm{[Ar]\\,3d^8\\,4s^1}$",
+   "$\\mathrm{[Ar]\\,3d^9\\,4s^0}$",
+   "$\\mathrm{[Ar]\\,3d^7\\,4s^2}$",
+   "$\\mathrm{[Ar]\\,3d^8\\,4s^0}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-014",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 14,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The yield of the products in the reaction, $\\mathrm{A_{2(g)} + 2B_{(g)} \\rightleftharpoons C_{(g)} + Q}$. kJ would be higher at",
+  "options": [
+   "High temperature and high pressure",
+   "High temperature and low pressure",
+   "Low temperature and high pressure",
+   "Low temperature and low pressure"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-015",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 15,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Mesomeric effect involves",
+  "options": [
+   "delocalisation of $\\pi$-electrons",
+   "delocalisation of $\\sigma$-electrons",
+   "partial displacement of electrons",
+   "delocalisation of $\\pi$ and $\\sigma$ electrons"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-016",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 16,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Which one of the following sets of ions represents the collection of isoelectronic species ?",
+  "options": [
+   "$\\mathrm{K^+,\\ Cl^-,\\ Mg^{2+},\\ Sc^{3+}}$",
+   "$\\mathrm{Na^+,\\ Ca^{2+},\\ Sc^{3+},\\ F^-}$",
+   "$\\mathrm{K^+,\\ Ca^{2+},\\ Sc^{3+},\\ Cl^-}$",
+   "$\\mathrm{Na^+,\\ Mg^{2+},\\ Al^{3+},\\ Cl^-}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-017",
+  "subject": "chemistry",
+  "chapter": "surface-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 17,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Adsorption theory is applicable for",
+  "options": [
+   "Homogeneous catalysis",
+   "Heterogeneous catalysis",
+   "Autocatalysis",
+   "Induced catalysis"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-018",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 18,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Methane can be converted into Ethane by the reactions",
+  "options": [
+   "Chlorination followed by the reaction with alcoholic KOH.",
+   "Chlorination followed by the reaction with aqueous KOH.",
+   "Chlorination followed by Wurtz reaction.",
+   "Chlorination followed by decarboxylation."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-019",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 19,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Intramolecular Hydrogen bonding is formed in",
+  "options": [
+   "$\\mathrm{H_2O}$",
+   "Salicylaldehyde",
+   "$\\mathrm{NH_3}$",
+   "Benzophenone"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-020",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 20,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "If 50% of the reactant is converted into a product in a first order reaction in 25 minutes, how much of it would react in 100 minutes ?",
+  "options": [
+   "93.75%",
+   "87.5%",
+   "75%",
+   "100%"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-021",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 21,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The number of optical isomers of the compound $\\mathrm{CH_3 - CHBr - CHBr - COOH}$ is",
+  "options": [
+   "0",
+   "1",
+   "3",
+   "4"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-022",
+  "subject": "chemistry",
+  "chapter": "general-principles-and-processes-of-isolation-of-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 22,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "When limestone is heated, $\\mathrm{CO_2}$ is given off. The metallurgical operation is",
+  "options": [
+   "Smelting",
+   "Reduction",
+   "Calcination",
+   "Roasting"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-023",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 23,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The rate of reaction increases with rise in temperature because of",
+  "options": [
+   "increase in number of activated molecules.",
+   "increase in energy of activation.",
+   "decrease in energy of activation.",
+   "increase in the number of effective collisions."
+  ],
+  "answer": 0,
+  "accepted": [
+   0,
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-024",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 24,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Meso compounds do not show optical activity because",
+  "options": [
+   "they do not contain chiral carbon atoms.",
+   "they have non-super imposable mirror images.",
+   "they contain plane of symmetry.",
+   "they do not contain plane of symmetry."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-025",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 25,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "When formic acid is heated with concentrated $\\mathrm{H_2SO_4}$, the gas evolved is",
+  "options": [
+   "only $\\mathrm{CO_2}$",
+   "only 'CO'",
+   "a mixture of 'CO' and '$\\mathrm{CO_2}$'",
+   "a mixture of '$\\mathrm{SO_2}$' and '$\\mathrm{CO_2}$'"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-026",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 26,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Temperature coefficient of a reaction is '2'. When temperature is increased from $30\\,^\\circ\\mathrm{C}$ to $90\\,^\\circ\\mathrm{C}$, the rate of reaction is increased by",
+  "options": [
+   "60 times",
+   "64 times",
+   "150 times",
+   "400 times"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-027",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 27,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Conversion of benzene to acetophenone can be brought by",
+  "options": [
+   "Wurtz reaction",
+   "Wurtz-Fittig's reaction",
+   "Friedel Crafts alkylation",
+   "Friedel Crafts acylation"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-028",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-12",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 28,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Excess of $\\mathrm{PCl_5}$ reacts with concentrated $\\mathrm{H_2SO_4}$ giving",
+  "options": [
+   "Chlorosulphuric acid",
+   "Sulphurous acid",
+   "Sulphuryl chloride",
+   "Thionyl chloride"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-029",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 29,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "An example for a neutral buffer is",
+  "options": [
+   "Ammonium hydroxide and Ammonium chloride",
+   "Acetic acid and Sodium acetate",
+   "Acetic acid and Ammonium hydroxide",
+   "Citric acid and Sodium citrate"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-030",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 30,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Least energetic conformation of cyclohexane is",
+  "options": [
+   "Chain conformation",
+   "Boat conformation",
+   "Cis conformation",
+   "E-z form"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-031",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-12",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 31,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Which of the following is employed in flash tubes in photography ?",
+  "options": [
+   "Ar",
+   "Ne",
+   "Kr",
+   "Xe"
+  ],
+  "answer": 2,
+  "accepted": [
+   2,
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-032",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 32,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Conjugate base of $\\mathrm{H_2PO_4^-}$ is",
+  "options": [
+   "$\\mathrm{HPO_4^-}$",
+   "$\\mathrm{HPO_4^{2-}}$",
+   "$\\mathrm{H_3PO_4}$",
+   "$\\mathrm{PO_4^{3-}}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-033",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 33,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "An alkyl bromide (X) reacts with Sodium in ether to form 4, 5-diethyl octane, the compound 'X' is",
+  "options": [
+   "$\\mathrm{CH_3(CH_2)_3Br}$",
+   "$\\mathrm{CH_3(CH_2)_5Br}$",
+   "$\\mathrm{CH_3(CH_2)_3CH(Br)CH_3}$",
+   "$\\mathrm{CH_3-(CH_2)_2-CH(Br)-CH_2-CH_3}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-034",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 34,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Which one of the following shows highest magnetic moment ?",
+  "options": [
+   "$\\mathrm{Fe^{2+}}$",
+   "$\\mathrm{CO^{2+}}$",
+   "$\\mathrm{Cr^{3+}}$",
+   "$\\mathrm{Ni^{2+}}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-035",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 35,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The emf of a galvanic cell constituted with the electrodes $\\mathrm{Zn^{2+}|Zn}$ ($-0.76\\,\\mathrm{V}$) and $\\mathrm{Fe^{2+}|Fe}$ ($-0.41\\,\\mathrm{V}$) is",
+  "options": [
+   "$-0.35\\,\\mathrm{V}$",
+   "$+1.17\\,\\mathrm{V}$",
+   "$+0.35\\,\\mathrm{V}$",
+   "$-1.17\\,\\mathrm{V}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-036",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 36,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Which of the following pairs are correctly matched ?\n\n| Reactants | Products |\n|---|---|\n| I. $\\mathrm{RX + AgOH_{(aq)}}$ | $\\mathrm{RH}$ |\n| II. $\\mathrm{RX + AgCN_{(alco)}}$ | $\\mathrm{RNC}$ |\n| III. $\\mathrm{RX + KCN_{(alco)}}$ | $\\mathrm{RNC}$ |\n| IV. $\\mathrm{RX + Na_{(ether)}}$ | $\\mathrm{R-R}$ |",
+  "options": [
+   "I alone",
+   "I and II",
+   "II and III",
+   "II and IV"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-037",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 37,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "In a transition series, with the increase in atomic-number, the paramagnetism",
+  "options": [
+   "increases gradually",
+   "decreases gradually",
+   "first increases to a maximum and then decreases",
+   "first decreases to a minimum and then increases"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-038",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 38,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Identify a species which is 'NOT' a Bronsted acid but a Lewis acid.",
+  "options": [
+   "$\\mathrm{BF_3}$",
+   "$\\mathrm{H_3O^+}$",
+   "$\\mathrm{NH_3}$",
+   "$\\mathrm{HCl}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-039",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 39,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The compound formed when calcium acetate and calcium formate is dry distilled.",
+  "options": [
+   "Acetone",
+   "Acetaldehyde",
+   "Benzaldehyde",
+   "Acetophenone"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-040",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 40,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "$d^2sp^3$ hybridisation of the atomic orbitals gives",
+  "options": [
+   "Square planar structure",
+   "Triangular structure",
+   "Tetrahedral structure",
+   "Octahedral structure"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-041",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 41,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The pH of $10^{-8}\\,\\mathrm{M\\,HCl}$ solution is",
+  "options": [
+   "8",
+   "6.9586",
+   "More than 8",
+   "Slightly more than 7"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-042",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 42,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Which of the following is strongly acidic ?",
+  "options": [
+   "Phenol",
+   "o-cresol",
+   "p-nitrophenol",
+   "p-cresol"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-043",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 43,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A group of atoms can function as a ligand only when",
+  "options": [
+   "it is a small molecule.",
+   "it has an unshared electron pair.",
+   "it is a negatively charged ion.",
+   "it is a positively charged ion."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-044",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 44,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Which of the following is 'NOT' a colligative property ?",
+  "options": [
+   "Elevation in boiling point",
+   "Depression in freezing point",
+   "Osmotic pressure",
+   "Lowering of vapour pressure"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-045",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 45,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Acetone and Propanal are",
+  "options": [
+   "Functional isomers",
+   "Position isomers",
+   "Geometrical isomers",
+   "Optical isomers"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-046",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 46,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Which of the following is diamagnetic ?",
+  "options": [
+   "$\\mathrm{H_2^+}$",
+   "$\\mathrm{He_2^+}$",
+   "$\\mathrm{O_2}$",
+   "$\\mathrm{N_2}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-047",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 47,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "3 gms of urea is dissolved in 45 gms of $\\mathrm{H_2O}$. The relative lowering in vapour pressure is",
+  "options": [
+   "0.05",
+   "0.04",
+   "0.02",
+   "0.01"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-048",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 48,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The reagent used to distinguish between acetaldehyde and benzaldehyde is",
+  "options": [
+   "Tollen's reagent",
+   "Fehling's solution",
+   "2-4-dinitrophenyl hydrazine",
+   "Semicarbazide"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-049",
+  "subject": "chemistry",
+  "chapter": "the-solid-state",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 49,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Metallic lustre is due to",
+  "options": [
+   "high density of metals",
+   "high polish on the surface of metals",
+   "reflection of light by mobile electrons",
+   "chemical inertness of metals"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-050",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 50,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Which of the following aqueous solutions will exhibit highest boiling point ?",
+  "options": [
+   "$0.01\\ \\mathrm{M\\ urea}$",
+   "$0.01\\ \\mathrm{M\\ KNO_3}$",
+   "$0.01\\ \\mathrm{M\\ Na_2SO_4}$",
+   "$0.015\\ \\mathrm{M\\ C_6H_{12}O_6}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-051",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 51,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Which one of the following gives amine on heating with amide ?",
+  "options": [
+   "$\\mathrm{Br_2}$ in aqueous KOH",
+   "$\\mathrm{Br_2}$ in alcoholic KOH",
+   "$\\mathrm{Cl_2}$ in Sodium",
+   "Sodium in Ether"
+  ],
+  "answer": 0,
+  "accepted": [
+   0,
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-052",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 52,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The number of antibonding electrons present in $\\mathrm{O_2^-}$ molecular ion is",
+  "options": [
+   "8",
+   "6",
+   "5",
+   "4"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-053",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 53,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The process is spontaneous at the given temperature, if",
+  "options": [
+   "$\\Delta H$ is +ve and $\\Delta S$ is -ve",
+   "$\\Delta H$ is -ve and $\\Delta S$ is +ve",
+   "$\\Delta H$ is +ve and $\\Delta S$ is +ve",
+   "$\\Delta H$ is +ve and $\\Delta S$ is equal to zero"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-054",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 54,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Glucose when reduced with HI and Red Phosphorus gives",
+  "options": [
+   "n-hexane",
+   "n-heptane",
+   "n-pentane",
+   "n-octane"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-055",
+  "subject": "chemistry",
+  "chapter": "surface-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 55,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The stability of a Lyophobic colloid is due to",
+  "options": [
+   "Adsorption of covalent molecules on the colloid",
+   "The size of the particles",
+   "The charge on the particles",
+   "Tyndall effect"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-056",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 56,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Oils are liquids at room temperature since they contain higher percentage of",
+  "options": [
+   "Oleates",
+   "Palmitates",
+   "Stearates",
+   "Myristates"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-057",
+  "subject": "chemistry",
+  "chapter": "surface-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 57,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Which of the following cations will have minimum flocculation value for arsenic sulphide sol ?",
+  "options": [
+   "$\\mathrm{Na^+}$",
+   "$\\mathrm{Mg^{2+}}$",
+   "$\\mathrm{Ca^{2+}}$",
+   "$\\mathrm{Al^{3+}}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-058",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 58,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The value of entropy of solar system is",
+  "options": [
+   "increasing",
+   "decreasing",
+   "constant",
+   "zero"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-059",
+  "subject": "chemistry",
+  "chapter": "the-solid-state",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 59,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "In face centred cubic lattice, a unit cell is shared equally by how many unit cells ?",
+  "options": [
+   "6",
+   "4",
+   "2",
+   "8"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-chemistry-060",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 60,
+   "file": "sources/pyq/2013/chemistry/2013-chemistry-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2013/chemistry/2013-chemistry-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The number of disulphide linkages present in Insulin are",
+  "options": [
+   "4",
+   "3",
+   "2",
+   "1"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "duplicate of pyq-2008-chemistry-116"
+  }
+ }
+]

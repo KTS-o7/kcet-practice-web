@@ -1,0 +1,961 @@
+[
+ {
+  "id": "tp-ncert-chem-12-ch13-001",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf"
+  },
+  "stem": "Which of the following is a 3° amine?",
+  "options": [
+   "1-methylcyclohexylamine",
+   "Triethylamine",
+   "tert-butylamine",
+   "N-methylaniline"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch13-002",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf"
+  },
+  "stem": "The correct IUPAC name for $\\mathrm{CH_2{=}CHCH_2NHCH_3}$ is",
+  "options": [
+   "Allylmethylamine",
+   "2-amino-4-pentene",
+   "4-aminopent-1-ene",
+   "N-methylprop-2-en-1-amine"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch13-003",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf"
+  },
+  "stem": "Amongst the following, the strongest base in aqueous medium is ____________.",
+  "options": [
+   "$\\mathrm{CH_3NH_2}$",
+   "$\\mathrm{NCCH_2NH_2}$",
+   "$\\mathrm{(CH_3)_2NH}$",
+   "$\\mathrm{C_6H_5NHCH_3}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch13-004",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf"
+  },
+  "stem": "Which of the following is the weakest Brönsted base?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch13-004.png",
+   "tp-ncert-chem-12-ch13-004-2.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch13-005",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf"
+  },
+  "stem": "Benzylamine may be alkylated as shown in the following equation :\n\n$$\\mathrm{C_6H_5CH_2NH_2 + R{-}X \\longrightarrow C_6H_5CH_2NHR}$$\n\nWhich of the following alkylhalides is best suited for this reaction through $\\mathrm{S_N1}$ mechanism?",
+  "options": [
+   "$\\mathrm{CH_3Br}$",
+   "$\\mathrm{C_6H_5Br}$",
+   "$\\mathrm{C_6H_5CH_2Br}$",
+   "$\\mathrm{C_2H_5Br}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch13-006",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf"
+  },
+  "stem": "Which of the following reagents would not be a good choice for reducing an aryl nitro compound to an amine?",
+  "options": [
+   "$\\mathrm{H_2}$ (excess)/Pt",
+   "$\\mathrm{LiAlH_4}$ in ether",
+   "Fe and HCl",
+   "Sn and HCl"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch13-007",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 7,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf"
+  },
+  "stem": "In order to prepare a 1° amine from an alkyl halide with simultaneous addition of one $\\mathrm{CH_2}$ group in the carbon chain, the reagent used as source of nitrogen is ____________.",
+  "options": [
+   "Sodium amide, $\\mathrm{NaNH_2}$",
+   "Sodium azide, $\\mathrm{NaN_3}$",
+   "Potassium cyanide, KCN",
+   "Potassium phthalimide, $\\mathrm{C_6H_4(CO)_2N^-K^+}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch13-008",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 8,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf"
+  },
+  "stem": "The source of nitrogen in Gabriel synthesis of amines is ____________.",
+  "options": [
+   "Sodium azide, $\\mathrm{NaN_3}$",
+   "Sodium nitrite, $\\mathrm{NaNO_2}$",
+   "Potassium cyanide, KCN",
+   "Potassium phthalimide, $\\mathrm{C_6H_4(CO)_2N^-K^+}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch13-009",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 9,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf"
+  },
+  "stem": "Amongst the given set of reactants, the most appropriate for preparing 2° amine is _____.",
+  "options": [
+   "2° R—Br + $\\mathrm{NH_3}$",
+   "2° R—Br + NaCN followed by $\\mathrm{H_2/Pt}$",
+   "1° R—$\\mathrm{NH_2}$ + RCHO followed by $\\mathrm{H_2/Pt}$",
+   "1° R—Br (2 mol) + potassium phthalimide followed by $\\mathrm{H_3O^+/heat}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch13-010",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 10,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf"
+  },
+  "stem": "The best reagent for converting 2–phenylpropanamide into 2-phenylpropanamine is _____.",
+  "options": [
+   "excess $\\mathrm{H_2}$",
+   "$\\mathrm{Br_2}$ in aqueous NaOH",
+   "iodine in the presence of red phosphorus",
+   "$\\mathrm{LiAlH_4}$ in ether"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch13-011",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 11,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf"
+  },
+  "stem": "The best reagent for converting, 2-phenylpropanamide into 1- phenylethanamine is ____.",
+  "options": [
+   "excess $\\mathrm{H_2/Pt}$",
+   "$\\mathrm{NaOH/Br_2}$",
+   "$\\mathrm{NaBH_4}$/methanol",
+   "$\\mathrm{LiAlH_4}$/ether"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch13-012",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 12,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf"
+  },
+  "stem": "Hoffmann Bromamide Degradation reaction is shown by ________.",
+  "options": [
+   "$\\mathrm{ArNH_2}$",
+   "$\\mathrm{ArCONH_2}$",
+   "$\\mathrm{ArNO_2}$",
+   "$\\mathrm{ArCH_2NH_2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch13-013",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 13,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf"
+  },
+  "stem": "The correct increasing order of basic strength for the following compounds is ________.",
+  "options": [
+   "II < III < I",
+   "III < I < II",
+   "III < II < I",
+   "II < I < III"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch13-013.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch13-014",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 14,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf"
+  },
+  "stem": "Methylamine reacts with $\\mathrm{HNO_2}$ to form ________.",
+  "options": [
+   "$\\mathrm{CH_3-O-N=O}$",
+   "$\\mathrm{CH_3-O-CH_3}$",
+   "$\\mathrm{CH_3OH}$",
+   "$\\mathrm{CH_3CHO}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch13-015",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 15,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf"
+  },
+  "stem": "The gas evolved when methylamine reacts with nitrous acid is __________.",
+  "options": [
+   "$\\mathrm{NH_3}$",
+   "$\\mathrm{N_2}$",
+   "$\\mathrm{H_2}$",
+   "$\\mathrm{C_2H_6}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch13-016",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 16,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf"
+  },
+  "stem": "In the nitration of benzene using a mixture of conc. $\\mathrm{H_2SO_4}$ and conc. $\\mathrm{HNO_3}$, the species which initiates the reaction is __________.",
+  "options": [
+   "$\\mathrm{NO_2}$",
+   "$\\mathrm{NO^+}$",
+   "$\\mathrm{NO_2^+}$",
+   "$\\mathrm{NO_2^-}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch13-017",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 17,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf"
+  },
+  "stem": "Reduction of aromatic nitro compounds using Fe and HCl gives __________.",
+  "options": [
+   "aromatic oxime",
+   "aromatic hydrocarbon",
+   "aromatic primary amine",
+   "aromatic amide"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch13-018",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 18,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf"
+  },
+  "stem": "The most reactive amine towards dilute hydrochloric acid is ___________.",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch13-018.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch13-019",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 19,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf"
+  },
+  "stem": "Acid anhydrides on reaction with primary amines give ____________.",
+  "options": [
+   "amide",
+   "imide",
+   "secondary amine",
+   "imine"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch13-020",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 20,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf"
+  },
+  "stem": "The reaction $\\mathrm{ArN_2^+Cl^-}\\xrightarrow{\\mathrm{Cu/HCl}}\\mathrm{ArCl + N_2 + CuCl}$ is named as _________.",
+  "options": [
+   "Sandmeyer reaction",
+   "Gatterman reaction",
+   "Claisen reaction",
+   "Carbylamine reaction"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "key_confirmed",
+   "notes": "Cu/HCl on diazonium salt is the Gattermann reaction; transcription matches page 5; key (ii) read correctly."
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch13-021",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 21,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf"
+  },
+  "stem": "Best method for preparing primary amines from alkyl halides without changing the number of carbon atoms in the chain is",
+  "options": [
+   "Hoffmann Bromamide reaction",
+   "Gabriel phthalimide synthesis",
+   "Sandmeyer reaction",
+   "Reaction with $\\mathrm{NH_3}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch13-022",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 22,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf"
+  },
+  "stem": "Which of the following compound will not undergo azo coupling reaction with benzene diazonium chloride.",
+  "options": [
+   "Aniline",
+   "Phenol",
+   "Anisole",
+   "Nitrobenzene"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch13-023",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 23,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf"
+  },
+  "stem": "Which of the following compounds is the weakest Brönsted base?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch13-023.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch13-024",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 24,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf"
+  },
+  "stem": "Among the following amines, the strongest Brönsted base is __________.",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch13-024.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch13-025",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 25,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf"
+  },
+  "stem": "The correct decreasing order of basic strength of the following species is _______.\n\n$\\mathrm{H_2O,\\ NH_3,\\ OH^-,\\ NH_2^-}$",
+  "options": [
+   "$\\mathrm{NH_2^-} > \\mathrm{OH^-} > \\mathrm{NH_3} > \\mathrm{H_2O}$",
+   "$\\mathrm{OH^-} > \\mathrm{NH_2^-} > \\mathrm{H_2O} > \\mathrm{NH_3}$",
+   "$\\mathrm{NH_3} > \\mathrm{H_2O} > \\mathrm{NH_2^-} > \\mathrm{OH^-}$",
+   "$\\mathrm{H_2O} > \\mathrm{NH_3} > \\mathrm{OH^-} > \\mathrm{NH_2^-}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch13-026",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 26,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf"
+  },
+  "stem": "Which of the following should be most volatile?\n\n(I) $\\mathrm{CH_3CH_2CH_2NH_2}$   (II) $\\mathrm{(CH_3)_3N}$   (III) $\\mathrm{CH_3CH_2NHCH_3}$   (IV) $\\mathrm{CH_3CH_2CH_3}$",
+  "options": [
+   "II",
+   "IV",
+   "I",
+   "III"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch13-026.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch13-027",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 27,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep513.pdf"
+  },
+  "stem": "Which of the following methods of preparation of amines will give same number of carbon atoms in the chain of amines as in the reactant?",
+  "options": [
+   "Reaction of nitrite with $\\mathrm{LiAlH_4}$.",
+   "Reaction of amide with $\\mathrm{LiAlH_4}$ followed by treatment with water.",
+   "Heating alkylhalide with potassium salt of phthalimide followed by hydrolysis.",
+   "Treatment of amide with bromine in aqueous solution of sodium hydroxide."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "disputed",
+   "notes": "Key (iii) read correctly and transcription matches p.6, but amide+LiAlH4 (and nitrile+LiAlH4, printed 'nitrite') also keeps carbon count, so the question is ambiguous; NCERT key says Gabriel (iii).",
+   "status_reason": "solver disagrees with unofficial key"
+  }
+ }
+]

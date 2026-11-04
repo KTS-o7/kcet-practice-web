@@ -20,6 +20,8 @@ from collections import Counter, defaultdict
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from bank_chapters import map_chapter  # noqa: E402
+from latex_fix import fix_question  # noqa: E402
+from bank_computed_rules import expected_for, match_option  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW = os.path.join(ROOT, "sources/manual/bank/raw")
@@ -177,11 +179,24 @@ def build():
             "explanation": q.get("detailedExplanation") or "",
             "checks": checks,
         }
-        by_subject[subject].append(rec)
+        by_subject[subject].append(fix_question(rec))
 
     for subject, recs in by_subject.items():
         out = os.path.join(CORPUS, "questions", subject, "bank-kcet.json")
         os.makedirs(os.path.dirname(out), exist_ok=True)
+        # Keep verification already done: if a question's text is unchanged (answers may have been corrected by verification),
+        # carry over its status and checks instead of resetting it to "flagged".
+        if os.path.exists(out):
+            prev = {r["id"]: r for r in json.load(open(out))}
+            kept = 0
+            for rec in recs:
+                old = prev.get(rec["id"])
+                if old and fix_question(dict(old))["stem"] == rec["stem"] and \
+                        [o for o in fix_question(dict(old))["options"]] == rec["options"]:
+                    for k in ("status", "checks", "answer", "accepted"):
+                        rec[k] = old[k]
+                    kept += 1
+            print(f"{subject}: kept verification for {kept}/{len(recs)} unchanged questions")
         with open(out, "w") as fh:
             json.dump(recs, fh, indent=1, ensure_ascii=False)
             fh.write("\n")
@@ -220,7 +235,11 @@ def build():
 
 
 def write_review(recs, now, applied, note):
-    """Write corpus/review.md — every question still flagged, with both answers."""
+    """Write the flagged-question report: every question still flagged, with both answers.
+
+    Deliberately NOT written into corpus/ — only corpus/questions/*/bank-kcet.json and
+    corpus/images/examon-* belong to this pipeline.
+    """
     unverified = [(r["subject"], r) for r in recs if r["status"] != "verified"]
     lines = [
         "# Questions still flagged after verification",
@@ -240,12 +259,7 @@ def write_review(recs, now, applied, note):
             f"- Subject / chapter: {rec['subject']} / {rec['chapter']}",
             f"- Topic: {rec['topic']}",
         ]
-        if dis.get("kind") == "no_correct_option":
-            lines.append("- Reason: no option is correct")
-        elif dis.get("kind") == "solver_unsure":
-            lines.append("- Reason: solver could not decide")
-        else:
-            lines.append("- Reason: solver picked a different option")
+        lines.append(f"- Reason: {rec['checks'].get('flag_reason') or dis.get('kind') or 'unclassified'}")
         lines.append(f"- Examon key: **{chr(ord('A') + rec['answer'])}** — {rec['options'][rec['answer']]}")
         if "solver_answer_text" in dis:
             lines.append(f"- Solver chose: **{chr(ord('A') + dis['solver_answer'])}** — {dis['solver_answer_text']}")
@@ -253,6 +267,16 @@ def write_review(recs, now, applied, note):
             lines.append(f"- Solver's derived answer: `{dis['solver_correct_text']}`")
         if rec["checks"].get("adjudicator_correct_value"):
             lines.append(f"- Adjudicator's derived answer: `{rec['checks']['adjudicator_correct_value']}`")
+        ec = rec["checks"].get("external_check")
+        if ec:
+            lines.append(f"- External source: {ec.get('source','')}")
+            if ec.get("derivation"):
+                lines.append(f"- Derivation: {ec['derivation']}")
+            if dis.get("external_correct_index") is not None:
+                i = dis["external_correct_index"]
+                lines.append(f"- Correct answer per that source: **{chr(ord('A')+i)}** — {rec['options'][i]}")
+            if ec.get("note"):
+                lines.append(f"- Why: {ec['note']}")
         if rec["checks"].get("adjudication_verdict"):
             lines.append(f"- Adjudication verdict: **{rec['checks']['adjudication_verdict']}**")
         if rec["checks"].get("adjudication_reason"):
@@ -264,18 +288,35 @@ def write_review(recs, now, applied, note):
             mark = " (key)" if i == rec["answer"] else ""
             lines.append(f"    {chr(ord('A') + i)}. {opt}{mark}")
         lines += ["", "```", ""]
-    review = os.path.join(CORPUS, "review.md")
+    review = os.path.join(ROOT, "sources/manual/bank/flagged-questions.md")
     with open(review, "w") as fh:
         fh.write("\n".join(lines))
     print(f"wrote {review}: {len(unverified)} flagged questions")
 
 
-def apply_verification():
-    """Apply solver verdicts (.scratch/bank/verify-results/*.json) to the corpus.
+def _verdict_for(rec, v):
+    """Work out the verdict for a first-pass result.
 
-    A question is only promoted to "verified" when a solver, working blind from the
-    stem alone, independently produced the same option index as Examon's key. Every
-    other outcome stays "flagged" and is listed in corpus/review.md.
+    The solver files carry correct_index / confidence / note, not a verdict, so the
+    verdict is computed here: the solver agrees when its index is one of the
+    accepted options for this question (which for Examon is the published key).
+    """
+    if v.get("verdict"):
+        return v["verdict"]
+    idx = v.get("correct_index")
+    if not isinstance(idx, int) or not 0 <= idx <= 3:
+        return "disagree"
+    accepted = rec.get("accepted") or [rec["answer"]]
+    return "agree" if idx in accepted else "disagree"
+
+
+def apply_verification():
+    """First pass: apply the blind solver verdicts to the corpus.
+
+    A question becomes "verified" only when the blind solver agreed with Examon's
+    own key. On agreement the answer and accepted list are taken from Examon's key,
+    never from the solver. Disagreements (and low-confidence agreements) stay
+    flagged and go to the second blind solve.
     """
     results = {}
     for path in sorted(glob.glob(os.path.join(SCRATCH, "verify-results", "*.json"))):
@@ -291,8 +332,7 @@ def apply_verification():
         raise SystemExit("no verifier results found")
 
     now = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-    changed = 0
-    unverified = []
+    changed = agree = disagree = pending = 0
     for subject in ("physics", "chemistry", "mathematics"):
         path = os.path.join(CORPUS, "questions", subject, "bank-kcet.json")
         recs = json.load(open(path))
@@ -304,79 +344,84 @@ def apply_verification():
             idx = v.get("correct_index")
             conf = v.get("confidence", "")
             note = (v.get("note") or "")[:2000]
-            rec["checks"]["solver"] = "minimax-m3.1-flash (blind solve)"
+            verdict = _verdict_for(rec, v)
+            rec["checks"]["solver"] = "minimax-m3.1-flash (blind solve 1)"
             rec["checks"]["solver_confidence"] = conf
+            rec["checks"]["solver_correct_index"] = idx if isinstance(idx, int) else None
             rec["checks"]["verified_at"] = now
-            if isinstance(idx, int) and idx >= 0 and idx <= 3 and conf != "low":
-                if idx == rec["answer"]:
-                    rec["status"] = "verified"
-                    rec["accepted"] = [idx]
-                else:
-                    rec["status"] = "flagged"
+            rec["checks"]["first_pass_verdict"] = verdict
+            if verdict == "agree" and conf != "low":
+                # Keep Examon's own key as the answer.
+                rec["answer"] = rec["answer"]
+                rec["accepted"] = [rec["answer"]]
+                rec["status"] = "verified"
+                rec["checks"].pop("disagreement", None)
+                agree += 1
+            else:
+                rec["status"] = "flagged"
+                if verdict == "agree":
+                    rec["checks"]["flag_reason"] = "low-confidence agreement, needs a second solver"
                     rec["checks"]["disagreement"] = {
+                        "kind": "low_confidence_agreement",
                         "examon_answer": rec["answer"],
                         "examon_answer_text": rec["options"][rec["answer"]],
                         "solver_answer": idx,
-                        "solver_answer_text": rec["options"][idx],
+                        "solver_answer_text": rec["options"][idx] if isinstance(idx, int) and 0 <= idx <= 3 else None,
                         "note": note,
                     }
-                    unverified.append((subject, rec, "solver picked a different option"))
-            elif isinstance(idx, int) and idx == -1:
-                rec["status"] = "flagged"
-                rec["checks"]["disagreement"] = {
-                    "kind": "no_correct_option",
-                    "examon_answer": rec["answer"],
-                    "examon_answer_text": rec["options"][rec["answer"]],
-                    "solver_correct_text": (v.get("correct_text") or "")[:500],
-                    "note": note,
-                }
-                unverified.append((subject, rec, "no option is correct"))
-            else:
-                rec["status"] = "flagged"
-                rec["checks"]["disagreement"] = {
-                    "kind": "solver_unsure",
-                    "examon_answer": rec["answer"],
-                    "examon_answer_text": rec["options"][rec["answer"]],
-                    "note": note,
-                }
-                unverified.append((subject, rec, "solver could not decide"))
+                    pending += 1
+                else:
+                    if idx == -1:
+                        kind = "no_correct_option"
+                        reason = "solver found no correct option"
+                    elif idx == -2:
+                        kind = "solver_unsure"
+                        reason = "solver could not decide"
+                    else:
+                        kind = "different_option"
+                        reason = "solver picked a different option"
+                    rec["checks"]["flag_reason"] = reason
+                    rec["checks"]["disagreement"] = {
+                        "kind": kind,
+                        "examon_answer": rec["answer"],
+                        "examon_answer_text": rec["options"][rec["answer"]],
+                        "solver_answer": idx,
+                        "solver_answer_text": rec["options"][idx] if isinstance(idx, int) and 0 <= idx <= 3 else None,
+                        "solver_correct_text": (v.get("correct_text") or "")[:500],
+                        "note": note,
+                    }
+                    disagree += 1
         with open(path, "w") as fh:
             json.dump(recs, fh, indent=1, ensure_ascii=False)
             fh.write("\n")
-    print(f"applied verdicts to {changed} questions")
-    all_recs = []
-    for subject in ("physics", "chemistry", "mathematics"):
-        all_recs += json.load(open(os.path.join(CORPUS, "questions", subject, "bank-kcet.json")))
-    write_review(all_recs, now, changed,
-                 "Blind-solve pass: every question was re-solved by an agent that saw only "
-                 "the stem, options and diagram — no answer key, no solution, no mnemonic.")
+    print(f"first pass: {changed} results applied — {agree} agree (verified), "
+          f"{disagree} disagree, {pending} low-confidence agreement (flagged for a second solve)")
+    return changed
 
 
+def apply_second_solve():
+    """Second pass: apply the second blind solve to every disagreement.
 
-def apply_adjudication():
-    """Apply the adjudication pass: a second, careful look at every disagreement.
-
-    The adjudicator is shown the question, Examon's key, Examon's own published
-    solution and the first solver's verdict, then works the problem out again.
-
-    - solver_right / examon_right -> status "verified" with the correct index
-    - both_wrong                 -> stays "flagged", question needs editing
-    - still_ambiguous            -> stays "flagged"
+    The second solver saw only the stem, the options and the diagram — no key, no
+    solution, no mnemonic. If it lands on Examon's key the question is verified with
+    the publisher's answer; otherwise the question stays flagged with both answers and
+    a one-line reason.
     """
     results = {}
-    for path in sorted(glob.glob(os.path.join(SCRATCH, "adjudicate-results", "*.json"))):
+    for path in sorted(glob.glob(os.path.join(SCRATCH, "verify2-results", "*.json"))):
         with open(path) as fh:
             data = json.load(fh)
         if isinstance(data, dict):
             data = data.get("results", [])
         for item in data:
-            if item.get("id"):
-                results[item["id"]] = item
+            qid = item.get("id")
+            if qid:
+                results[qid] = item
     if not results:
-        raise SystemExit("no adjudication results found")
+        raise SystemExit("no second-solve results found")
 
     now = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-    changed = resolved = still = 0
+    changed = confirmed = still = 0
     for subject in ("physics", "chemistry", "mathematics"):
         path = os.path.join(CORPUS, "questions", subject, "bank-kcet.json")
         recs = json.load(open(path))
@@ -385,43 +430,95 @@ def apply_adjudication():
             if not v:
                 continue
             changed += 1
-            verdict = v.get("verdict", "")
             idx = v.get("correct_index")
-            reason = (v.get("reason") or "")[:2000]
-            rec["checks"]["adjudicated_at"] = now
-            rec["checks"]["adjudicator"] = "minimax-m3.1-flash (adjudication)"
-            rec["checks"]["adjudication_reason"] = reason
-            if verdict in ("solver_right", "examon_right") and isinstance(idx, int) and 0 <= idx <= 3:
-                rec["answer"] = idx
-                rec["accepted"] = [idx]
+            conf = v.get("confidence", "")
+            note = (v.get("note") or "")[:2000]
+            accepted = rec.get("accepted") or [rec["answer"]]
+            rec["checks"]["solver_2"] = "minimax-m3.1-flash (blind solve 2)"
+            rec["checks"]["solver_2_confidence"] = conf
+            rec["checks"]["solver_2_correct_index"] = idx if isinstance(idx, int) else None
+            rec["checks"]["verified_at"] = now
+            if isinstance(idx, int) and 0 <= idx <= 3 and idx in accepted and conf != "low":
+                # Second solver lands on Examon's key: verified on Examon's own answer.
+                rec["answer"] = rec["answer"]
+                rec["accepted"] = [rec["answer"]]
                 rec["status"] = "verified"
-                rec["checks"]["adjudication_verdict"] = verdict
-                resolved += 1
+                rec["checks"]["solver"] = "minimax-m3.1-flash (blind solve 2 confirmed Examon key)"
+                rec["checks"].pop("disagreement", None)
+                rec["checks"].pop("flag_reason", None)
+                confirmed += 1
             else:
                 rec["status"] = "flagged"
-                rec["checks"]["adjudication_verdict"] = verdict or "still_ambiguous"
-                if v.get("correct_value"):
-                    rec["checks"]["adjudicator_correct_value"] = str(v["correct_value"])[:500]
+                dis = rec["checks"].get("disagreement", {})
+                if idx == -1:
+                    reason = "second solve: no correct option"
+                elif idx == -2:
+                    reason = "second solve: solver could not decide"
+                else:
+                    reason = "both blind solves disagreed with the published key"
+                rec["checks"]["flag_reason"] = reason
+                dis["solver_2_answer"] = idx
+                dis["solver_2_answer_text"] = rec["options"][idx] if isinstance(idx, int) and 0 <= idx <= 3 else None
+                dis["solver_2_correct_text"] = (v.get("correct_text") or "")[:500]
+                dis["solver_2_note"] = note
+                rec["checks"]["disagreement"] = dis
                 still += 1
         with open(path, "w") as fh:
             json.dump(recs, fh, indent=1, ensure_ascii=False)
             fh.write("\n")
-    print(f"adjudicated {changed} questions: {resolved} verified, {still} still flagged")
-    all_recs = []
+    print(f"second pass: {changed} results applied — {confirmed} confirmed Examon's key, "
+          f"{still} still flagged")
+    return changed
+
+
+def apply_adjudication():
+    """Record the adjudication pass as evidence only.
+
+    The adjudication agents saw the key and the published solution, so their verdict
+    is supporting evidence, not a decision. This never changes an answer or a status:
+    only corpus/questions/*/bank-kcet.json is touched, and only the `checks` block.
+    """
+    results = {}
+    for path in sorted(glob.glob(os.path.join(SCRATCH, "adjudicate-results", "*.json"))):
+        with open(path) as fh:
+            data = json.load(fh)
+        if isinstance(data, dict):
+            data = data.get("results", [])
+        for item in data:
+            qid = item.get("id")
+            if qid:
+                results[qid] = item
+    if not results:
+        raise SystemExit("no adjudication results found")
+
+    now = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    changed = 0
     for subject in ("physics", "chemistry", "mathematics"):
-        all_recs += json.load(open(os.path.join(CORPUS, "questions", subject, "bank-kcet.json")))
-    write_review(all_recs, now, changed,
-                 "Two-pass verification: a blind solve, then a second careful pass over every "
-                 "disagreement with the key, the publisher's own solution and both verdicts "
-                 "on the table.")
+        path = os.path.join(CORPUS, "questions", subject, "bank-kcet.json")
+        recs = json.load(open(path))
+        for rec in recs:
+            v = results.get(rec["id"])
+            if not v:
+                continue
+            changed += 1
+            rec["checks"]["adjudication_verdict"] = v.get("verdict", "")
+            rec["checks"]["adjudication_reason"] = (v.get("reason") or "")[:2000]
+            rec["checks"]["adjudication_correct_index"] = v.get("correct_index")
+            rec["checks"]["adjudicated_at"] = now
+        with open(path, "w") as fh:
+            json.dump(recs, fh, indent=1, ensure_ascii=False)
+            fh.write("\n")
+    print(f"recorded adjudication evidence on {changed} questions (answers untouched)")
+    return changed
 
 
 def apply_external():
-    """Apply authoritative external evidence over the solver/adjudicator verdicts.
+    """Record authoritative external evidence (official KEA / NCERT sources).
 
-    Reads sources/manual/bank/external-checks.json. Entries with a
-    `correct_index` override the answer outright; `examon_key_was_wrong: false`
-    means the published key was right and the question is restored to it.
+    Where the published key is confirmed by an outside source the question is verified
+    on Examon's own answer. Where an outside source contradicts the key the question
+    stays flagged and the source is recorded, so it is never published with a key
+    known to be wrong.
     """
     path = os.path.join(ROOT, "sources/manual/bank/external-checks.json")
     with open(path) as fh:
@@ -430,13 +527,49 @@ def apply_external():
     if not entries:
         raise SystemExit("no external checks found")
 
+    families = doc.get("families", [])
+
     now = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-    applied = 0
+    applied = confirmed = 0
     for subject in ("physics", "chemistry", "mathematics"):
         cpath = os.path.join(CORPUS, "questions", subject, "bank-kcet.json")
         recs = json.load(open(cpath))
         touched = False
         for rec in recs:
+            # Computed family rule: derive the answer from the stem with the
+            # textbook formula, then find the option that carries it.
+            exp = expected_for(rec["topic"], rec["stem"])
+            if exp:
+                value, tol, derivation = exp
+                idx = match_option(rec["options"], value, tol)
+                fam = next((f for f in families if f.get("computed_rule") and
+                            expected_for(rec["topic"], rec["stem"])), None)
+                rec["checks"]["external_check"] = {
+                    "source": (fam or {}).get("source", "textbook formula"),
+                    "url": (fam or {}).get("url", ""),
+                    "formula": (fam or {}).get("formula", ""),
+                    "derivation": derivation,
+                    "note": (fam or {}).get("note", ""),
+                    "checked_on": doc.get("checked_on", ""),
+                }
+                rec["checks"]["verified_at"] = now
+                if idx is not None:
+                    rec["answer"] = idx
+                    rec["accepted"] = [idx]
+                    rec["status"] = "verified"
+                    rec["checks"]["solver"] = "computed from the textbook formula"
+                    rec["checks"].pop("flag_reason", None)
+                    rec["checks"].pop("disagreement", None)
+                    confirmed += 1
+                else:
+                    rec["status"] = "flagged"
+                    rec["checks"]["flag_reason"] = "no option carries the correct value"
+                    dis = rec["checks"].get("disagreement", {})
+                    dis["external_derived_value"] = derivation
+                    rec["checks"]["disagreement"] = dis
+                applied += 1
+                touched = True
+                continue
             e = entries.get(rec["id"])
             if not e:
                 continue
@@ -448,32 +581,36 @@ def apply_external():
                 "note": e["note"],
                 "checked_on": doc.get("checked_on", ""),
             }
+            rec["checks"]["verified_at"] = now
             if e.get("examon_key_was_wrong") is False:
-                # The published key was right; restore it and mark verified.
-                rec["answer"] = e["examon_key_index"]
-                rec["accepted"] = [e["examon_key_index"]]
+                # Outside source confirms the published key.
+                rec["answer"] = rec["answer"]
+                rec["accepted"] = [rec["answer"]]
                 rec["status"] = "verified"
-                rec["checks"]["adjudication_verdict"] = "examon_right (confirmed externally)"
-                rec["checks"]["adjudication_reason"] = e["note"]
-                rec["checks"]["verified_at"] = now
-            elif isinstance(e.get("correct_index"), int):
-                rec["answer"] = e["correct_index"]
-                rec["accepted"] = [e["correct_index"]]
-                rec["status"] = "verified"
-                rec["checks"]["adjudication_verdict"] = "solver_right (confirmed externally)"
-                rec["checks"]["adjudication_reason"] = e["note"]
-                rec["checks"]["verified_at"] = now
+                rec["checks"]["solver"] = "external source confirmed the published key"
+                rec["checks"].pop("flag_reason", None)
+                rec["checks"].pop("disagreement", None)
+                confirmed += 1
+            elif e.get("examon_key_was_wrong") is True:
+                # Outside source contradicts the published key: keep it flagged.
+                rec["status"] = "flagged"
+                rec["checks"]["flag_reason"] = "external source contradicts the published key"
+                dis = rec["checks"].get("disagreement", {})
+                dis["external_check"] = {"source": e["source"], "url": e.get("url", ""), "note": e["note"]}
+                dis["external_correct_index"] = e.get("correct_index")
+                dis["external_correct_text"] = e.get("correct_text", "")
+                rec["checks"]["disagreement"] = dis
         if touched:
             with open(cpath, "w") as fh:
                 json.dump(recs, fh, indent=1, ensure_ascii=False)
                 fh.write("\n")
-    print(f"applied external checks to {applied} questions")
+    print(f"external evidence applied to {applied} questions ({confirmed} confirmed the published key)")
     all_recs = []
     for subject in ("physics", "chemistry", "mathematics"):
         all_recs += json.load(open(os.path.join(CORPUS, "questions", subject, "bank-kcet.json")))
     write_review(all_recs, now, len(all_recs),
-                 "Two-pass verification plus an external-evidence pass against official "
-                 "KEA/NCERT sources where a disagreement could be settled from outside.")
+                 "Two blind solve passes, plus an external-evidence pass against official "
+                 "KEA and NCERT sources wherever a disagreement could be settled from outside.")
 
 
 if __name__ == "__main__":
@@ -481,11 +618,14 @@ if __name__ == "__main__":
     ap.add_argument("--apply", action="store_true")
     ap.add_argument("--apply-adjudication", action="store_true")
     ap.add_argument("--apply-external", action="store_true")
+    ap.add_argument("--apply-second", action="store_true")
     args = ap.parse_args()
     if args.apply:
         apply_verification()
     elif args.apply_adjudication:
         apply_adjudication()
+    elif args.apply_second:
+        apply_second_solve()
     elif args.apply_external:
         apply_external()
     else:

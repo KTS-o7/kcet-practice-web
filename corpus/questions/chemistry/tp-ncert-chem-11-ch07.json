@@ -1,0 +1,668 @@
+[
+ {
+  "id": "tp-ncert-chem-11-ch07-001",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf"
+  },
+  "stem": "We know that the relationship between $K_c$ and $K_p$ is\n\n$K_p = K_c\\,(RT)^{\\Delta n}$\n\nWhat would be the value of $\\Delta n$ for the reaction\n\n$\\mathrm{NH_4Cl\\,(s) \\rightleftharpoons NH_3\\,(g) + HCl\\,(g)}$",
+  "options": [
+   "1",
+   "0.5",
+   "1.5",
+   "2"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch07-002",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf"
+  },
+  "stem": "For the reaction $\\mathrm{H_2(g) + I_2(g) \\rightleftharpoons 2HI\\,(g)}$, the standard free energy is $\\Delta G^\\circ > 0$. The equilibrium constant ($K$) would be __________.",
+  "options": [
+   "$K = 0$",
+   "$K > 1$",
+   "$K = 1$",
+   "$K < 1$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch07-003",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf"
+  },
+  "stem": "Which of the following is **not** a general characteristic of equilibria involving physical processes?",
+  "options": [
+   "Equilibrium is possible only in a closed system at a given temperature.",
+   "All measurable properties of the system remain constant.",
+   "All the physical processes stop at equilibrium.",
+   "The opposing processes occur at the same rate and there is dynamic but stable condition."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch07-004",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf"
+  },
+  "stem": "$\\mathrm{PCl_5}$, $\\mathrm{PCl_3}$ and $\\mathrm{Cl_2}$ are at equilibrium at 500K in a closed container and their concentrations are $0.8 \\times 10^{-3}\\,\\mathrm{mol\\,L^{-1}}$, $1.2 \\times 10^{-3}\\,\\mathrm{mol\\,L^{-1}}$ and $1.2 \\times 10^{-3}\\,\\mathrm{mol\\,L^{-1}}$ respectively. The value of $K_c$ for the reaction $\\mathrm{PCl_5\\,(g) \\rightleftharpoons PCl_3\\,(g) + Cl_2\\,(g)}$ will be",
+  "options": [
+   "$1.8 \\times 10^{3}\\,\\mathrm{mol\\,L^{-1}}$",
+   "$1.8 \\times 10^{-3}$",
+   "$1.8 \\times 10^{-3}\\,\\mathrm{L\\,mol^{-1}}$",
+   "$0.55 \\times 10^{4}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch07-005",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf"
+  },
+  "stem": "Which of the following statements is incorrect?",
+  "options": [
+   "In equilibrium mixture of ice and water kept in perfectly insulated flask mass of ice and water does not change with time.",
+   "The intensity of red colour increases when oxalic acid is added to a solution containing iron (III) nitrate and potassium thiocyanate.",
+   "On addition of catalyst the equilibrium constant value is not affected.",
+   "Equilibrium constant for a reaction with negative $\\Delta H$ value decreases as the temperature increases."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch07-006",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf"
+  },
+  "stem": "When hydrochloric acid is added to cobalt nitrate solution at room temperature, the following reaction takes place and the reaction mixture becomes blue. On cooling the mixture it becomes pink. On the basis of this information mark the correct answer.\n\n$\\mathrm{[Co(H_2O)_6]^{3+}(aq) + 4Cl^{-}(aq) \\rightleftharpoons [CoCl_4]^{2-}(aq) + 6H_2O(l)}$\n\n(pink) (blue)",
+  "options": [
+   "$\\Delta H > 0$ for the reaction",
+   "$\\Delta H < 0$ for the reaction",
+   "$\\Delta H = 0$ for the reaction",
+   "The sign of $\\Delta H$ cannot be predicted on the basis of this information."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch07-007",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 7,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf"
+  },
+  "stem": "The pH of neutral water at $25^\\circ\\mathrm{C}$ is 7.0. As the temperature increases, ionisation of water increases, however, the concentration of $\\mathrm{H^+}$ ions and $\\mathrm{OH^-}$ ions are equal. What will be the pH of pure water at $60^\\circ\\mathrm{C}$?",
+  "options": [
+   "Equal to 7.0",
+   "Greater than 7.0",
+   "Less than 7.0",
+   "Equal to zero"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch07-008",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 8,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf"
+  },
+  "stem": "The ionisation constant of an acid, $K_a$, is the measure of strength of an acid. The $K_a$ values of acetic acid, hypochlorous acid and formic acid are $1.74 \\times 10^{-5}$, $3.0 \\times 10^{-8}$ and $1.8 \\times 10^{-4}$ respectively. Which of the following orders of pH of $0.1\\,\\mathrm{mol\\,dm^{-3}}$ solutions of these acids is correct?",
+  "options": [
+   "acetic acid > hypochlorous acid > formic acid",
+   "hypochlorous acid > acetic acid > formic acid",
+   "formic acid > hypochlorous acid > acetic acid",
+   "formic acid > acetic acid > hypochlorous acid"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "disputed",
+   "notes": "Key (iv) read correctly from answers text layer, but higher Ka means lower pH; Ka formic > acetic > HOCl so pH order is HOCl > acetic > formic = option (ii); key (iv) lists the Ka order, not pH.",
+   "status_reason": "solver disagrees with unofficial key"
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch07-009",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 9,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf"
+  },
+  "stem": "$K_{a_1}$, $K_{a_2}$ and $K_{a_3}$ are the respective ionisation constants for the following reactions.\n\n$\\mathrm{H_2S \\rightleftharpoons H^+ + HS^-}$\n\n$\\mathrm{HS^- \\rightleftharpoons H^+ + S^{2-}}$\n\n$\\mathrm{H_2S \\rightleftharpoons 2H^+ + S^{2-}}$\n\nThe correct relationship between $K_{a_1}$, $K_{a_2}$ and $K_{a_3}$ is",
+  "options": [
+   "$K_{a_3} = K_{a_1} \\times K_{a_2}$",
+   "$K_{a_3} = K_{a_1} + K_{a_2}$",
+   "$K_{a_3} = K_{a_1} - K_{a_2}$",
+   "$K_{a_3} = K_{a_1} / K_{a_2}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch07-010",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 10,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf"
+  },
+  "stem": "Acidity of $\\mathrm{BF_3}$ can be explained on the basis of which of the following concepts?",
+  "options": [
+   "Arrhenius concept",
+   "Bronsted Lowry concept",
+   "Lewis concept",
+   "Bronsted Lowry as well as Lewis concept."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch07-011",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 11,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf"
+  },
+  "stem": "Which of the following will produce a buffer solution when mixed in equal volumes?",
+  "options": [
+   "$0.1\\,\\mathrm{mol\\,dm^{-3}}$ $\\mathrm{NH_4OH}$ and $0.1\\,\\mathrm{mol\\,dm^{-3}}$ $\\mathrm{HCl}$",
+   "$0.05\\,\\mathrm{mol\\,dm^{-3}}$ $\\mathrm{NH_4OH}$ and $0.1\\,\\mathrm{mol\\,dm^{-3}}$ $\\mathrm{HCl}$",
+   "$0.1\\,\\mathrm{mol\\,dm^{-3}}$ $\\mathrm{NH_4OH}$ and $0.05\\,\\mathrm{mol\\,dm^{-3}}$ $\\mathrm{HCl}$",
+   "$0.1\\,\\mathrm{mol\\,dm^{-3}}$ $\\mathrm{CH_4COONa}$ and $0.1\\,\\mathrm{mol\\,dm^{-3}}$ $\\mathrm{NaOH}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch07-012",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 12,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf"
+  },
+  "stem": "In which of the following solvents is silver chloride most soluble?",
+  "options": [
+   "$0.1\\,\\mathrm{mol\\,dm^{-3}}$ $\\mathrm{AgNO_3}$ solution",
+   "$0.1\\,\\mathrm{mol\\,dm^{-3}}$ $\\mathrm{HCl}$ solution",
+   "$\\mathrm{H_2O}$",
+   "Aqueous ammonia"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch07-013",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 13,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf"
+  },
+  "stem": "What will be the value of pH of $0.01\\,\\mathrm{mol\\,dm^{-3}}$ $\\mathrm{CH_3COOH}$ ($K_a = 1.74 \\times 10^{-5}$)?",
+  "options": [
+   "3.4",
+   "3.6",
+   "3.9",
+   "3.0"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch07-014",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 14,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf"
+  },
+  "stem": "$K_a$ for $\\mathrm{CH_3COOH}$ is $1.8 \\times 10^{-5}$ and $K_b$ for $\\mathrm{NH_4OH}$ is $1.8 \\times 10^{-5}$. The pH of ammonium acetate will be",
+  "options": [
+   "7.005",
+   "4.75",
+   "7.0",
+   "Between 6 and 7"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch07-015",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 15,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf"
+  },
+  "stem": "Which of the following options will be correct for the stage of half completion of the reaction $\\mathrm{A \\rightleftharpoons B}$.",
+  "options": [
+   "$\\Delta G^\\circ = 0$",
+   "$\\Delta G^\\circ > 0$",
+   "$\\Delta G^\\circ < 0$",
+   "$\\Delta G^\\circ = -RT\\ln 2$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch07-016",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 16,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf"
+  },
+  "stem": "On increasing the pressure, in which direction will the gas phase reaction proceed to re-establish equilibrium, is predicted by applying the Le Chatelier's principle. Consider the reaction.\n\n$\\mathrm{N_2\\,(g) + 3H_2\\,(g) \\rightleftharpoons 2NH_3\\,(g)}$\n\nWhich of the following is correct, if the total pressure at which the equilibrium is established, is increased without changing the temperature?",
+  "options": [
+   "$K$ will remain same",
+   "$K$ will decrease",
+   "$K$ will increase",
+   "$K$ will increase initially and decrease when pressure is very high"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch07-017",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 17,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf"
+  },
+  "stem": "What will be the correct order of vapour pressure of water, acetone and ether at $30^\\circ\\mathrm{C}$. Given that among these compounds, water has maximum boiling point and ether has minimum boiling point?",
+  "options": [
+   "Water < ether < acetone",
+   "Water < acetone < ether",
+   "Ether < acetone < water",
+   "Acetone < ether < water"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch07-018",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 18,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf"
+  },
+  "stem": "At 500 K, equilibrium constant, $K_c$, for the following reaction is 5.\n\n$\\mathrm{\\tfrac{1}{2}H_2\\,(g) + \\tfrac{1}{2}I_2\\,(g) \\rightleftharpoons HI\\,(g)}$\n\nWhat would be the equilibrium constant $K_c$ for the reaction\n\n$\\mathrm{2HI\\,(g) \\rightleftharpoons H_2\\,(g) + I_2\\,(g)}$",
+  "options": [
+   "0.04",
+   "0.4",
+   "25",
+   "2.5"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch07-019",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 19,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep507.pdf"
+  },
+  "stem": "In which of the following reactions, the equilibrium remains unaffected on addition of small amount of argon at constant volume?",
+  "options": [
+   "$\\mathrm{H_2\\,(g) + I_2\\,(g) \\rightleftharpoons 2HI\\,(g)}$",
+   "$\\mathrm{PCl_5\\,(g) \\rightleftharpoons PCl_3\\,(g) + Cl_2\\,(g)}$",
+   "$\\mathrm{N_2\\,(g) + 3H_2\\,(g) \\rightleftharpoons 2NH_3\\,(g)}$",
+   "The equilibrium will remain unaffected in all the three cases."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

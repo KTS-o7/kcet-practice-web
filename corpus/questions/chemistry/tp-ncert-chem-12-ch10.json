@@ -1,0 +1,1125 @@
+[
+ {
+  "id": "tp-ncert-chem-12-ch10-001",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf"
+  },
+  "stem": "The order of reactivity of following alcohols with halogen acids is ____________. (A) $\\mathrm{CH_3CH_2CH_2OH}$, (B) $\\mathrm{CH_3CH_2CH(CH_3)OH}$, (C) $\\mathrm{CH_3CH_2C(CH_3)_2OH}$",
+  "options": [
+   "(A) > (B) > (C)",
+   "(C) > (B) > (A)",
+   "(B) > (A) > (C)",
+   "(A) > (C) > (B)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch10-001.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch10-002",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf"
+  },
+  "stem": "Which of the following alcohols will yield the corresponding alkyl chloride on reaction with concentrated HCl at room temperature?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch10-002.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch10-003",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf"
+  },
+  "stem": "Identify the compound Y in the following reaction.",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch10-003.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch10-004",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf"
+  },
+  "stem": "Toluene reacts with a halogen in the presence of iron (III) chloride giving ortho and para halo compounds. The reaction is",
+  "options": [
+   "Electrophilic elimination reaction",
+   "Electrophilic substitution reaction",
+   "Free radical addition reaction",
+   "Nucleophilic substitution reaction"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch10-005",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf"
+  },
+  "stem": "Which of the following is halogen exchange reaction?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch10-005.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch10-006",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf"
+  },
+  "stem": "Which reagent will you use for the following reaction? $\\mathrm{CH_3CH_2CH_2CH_3 \\rightarrow CH_3CH_2CH_2CH_2Cl + CH_3CH_2CHClCH_3}$",
+  "options": [
+   "$\\mathrm{Cl_2}$/UV light",
+   "NaCl + $\\mathrm{H_2SO_4}$",
+   "$\\mathrm{Cl_2}$ gas in dark",
+   "$\\mathrm{Cl_2}$ gas in the presence of iron in dark"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch10-007",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 7,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf"
+  },
+  "stem": "Arrange the following compounds in the increasing order of their densities.",
+  "options": [
+   "(a) < (b) < (c) < (d)",
+   "(a) < (c) < (d) < (b)",
+   "(d) < (c) < (b) < (a)",
+   "(b) < (d) < (c) < (a)"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch10-007.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch10-008",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 8,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf"
+  },
+  "stem": "Arrange the following compounds in increasing order of their boiling points.",
+  "options": [
+   "(b) < (a) < (c)",
+   "(a) < (b) < (c)",
+   "(c) < (a) < (b)",
+   "(c) < (b) < (a)"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch10-008.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch10-009",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 9,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf"
+  },
+  "stem": "In which of the following molecules carbon atom marked with asterisk (*) is asymmetric?",
+  "options": [
+   "(a), (b), (c), (d)",
+   "(a), (b), (c)",
+   "(b), (c), (d)",
+   "(a), (c), (d)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch10-009.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch10-010",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 10,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf"
+  },
+  "stem": "Which of the following structures is enantiomeric with the molecule (A) given below :",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch10-010.png",
+   "tp-ncert-chem-12-ch10-010-2.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch10-011",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 11,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf"
+  },
+  "stem": "Which of the following is an example of vic-dihalide?",
+  "options": [
+   "Dichloromethane",
+   "1,2-dichloroethane",
+   "Ethylidene chloride",
+   "Allyl chloride"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch10-012",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 12,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf"
+  },
+  "stem": "The position of –Br in the compound in $\\mathrm{CH_3CH{=}CHC(Br)(CH_3)_2}$ can be classified as ____________.",
+  "options": [
+   "Allyl",
+   "Aryl",
+   "Vinyl",
+   "Secondary"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch10-013",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 13,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf"
+  },
+  "stem": "Chlorobenzene is formed by reaction of chlorine with benzene in the presence of $\\mathrm{AlCl_3}$. Which of the following species attacks the benzene ring in this reaction?",
+  "options": [
+   "$\\mathrm{Cl^{-}}$",
+   "$\\mathrm{Cl^{+}}$",
+   "$\\mathrm{AlCl_3}$",
+   "$\\mathrm{[AlCl_4]^{-}}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch10-014",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 14,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf"
+  },
+  "stem": "Ethylidene chloride is a/an ______________.",
+  "options": [
+   "vic-dihalide",
+   "gem-dihalide",
+   "allylic halide",
+   "vinylic halide"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch10-015",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 15,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf"
+  },
+  "stem": "What is 'A' in the following reaction?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch10-015.png",
+   "tp-ncert-chem-12-ch10-015-2.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch10-016",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 16,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf"
+  },
+  "stem": "A primary alkyl halide would prefer to undergo ____________.",
+  "options": [
+   "$\\mathrm{S_N1}$ reaction",
+   "$\\mathrm{S_N2}$ reaction",
+   "α–Elimination",
+   "Racemisation"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch10-017",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 17,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf"
+  },
+  "stem": "Which of the following alkyl halides will undergo $\\mathrm{S_N1}$ reaction most readily?",
+  "options": [
+   "$\\mathrm{(CH_3)_3C{-}F}$",
+   "$\\mathrm{(CH_3)_3C{-}Cl}$",
+   "$\\mathrm{(CH_3)_3C{-}Br}$",
+   "$\\mathrm{(CH_3)_3C{-}I}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch10-018",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 18,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf"
+  },
+  "stem": "Which is the correct IUPAC name for $\\mathrm{CH_3{-}CH(C_2H_5){-}CH_2{-}Br}$ ?",
+  "options": [
+   "1-Bromo-2-ethylpropane",
+   "1-Bromo-2-ethyl-2-methylethane",
+   "1-Bromo-2-methylbutane",
+   "2-Methyl-1-bromobutane"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch10-018.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch10-019",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 19,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf"
+  },
+  "stem": "What should be the correct IUPAC name for diethylbromomethane?",
+  "options": [
+   "1-Bromo-1,1-diethylmethane",
+   "3-Bromopentane",
+   "1-Bromo-1-ethylpropane",
+   "1-Bromopentane"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch10-020",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 20,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf"
+  },
+  "stem": "The reaction of toluene with chlorine in the presence of iron and in the absence of light yields ____________.",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch10-020.png",
+   "tp-ncert-chem-12-ch10-020-2.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch10-021",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 21,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf"
+  },
+  "stem": "Chloromethane on treatment with excess of ammonia yields mainly",
+  "options": [
+   "N, N-Dimethylmethanamine ($\\mathrm{CH_3{-}N(CH_3)_2}$)",
+   "N–methylmethanamine ($\\mathrm{CH_3{-}NH{-}CH_3}$)",
+   "Methanamine ($\\mathrm{CH_3NH_2}$)",
+   "Mixture containing all these in equal proportion"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch10-022",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 22,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf"
+  },
+  "stem": "Molecules whose mirror image is non superimposable over them are known as chiral. Which of the following molecules is chiral in nature?",
+  "options": [
+   "2-Bromobutane",
+   "1-Bromobutane",
+   "2-Bromopropane",
+   "2-Bromopropan-2-ol"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch10-023",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 23,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf"
+  },
+  "stem": "Reaction of $\\mathrm{C_6H_5CH_2Br}$ with aqueous sodium hydroxide follows ____________.",
+  "options": [
+   "$\\mathrm{S_N1}$ mechanism",
+   "$\\mathrm{S_N2}$ mechanism",
+   "Any of the above two depending upon the temperature of reaction",
+   "Saytzeff rule"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch10-024",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 24,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf"
+  },
+  "stem": "Which of the carbon atoms present in the molecule given below are asymmetric?",
+  "options": [
+   "a, b, c, d",
+   "b, c",
+   "a, d",
+   "a, b, c"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch10-024.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch10-025",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 25,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf"
+  },
+  "stem": "Which of the following compounds will give racemic mixture on nucleophilic substitution by $\\mathrm{OH^{-}}$ ion?",
+  "options": [
+   "(a)",
+   "(a), (b), (c)",
+   "(b), (c)",
+   "(a), (c)"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch10-025.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch10-026",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 26,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf",
+   "page": 7,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf"
+  },
+  "stem": "Note : In the questions 26 to 29 arrange the compounds in increasing order of rate of reaction towards nucleophilic substitution.",
+  "options": [
+   "(a) < (b) < (c)",
+   "(c) < (b) < (a)",
+   "(a) < (c) < (b)",
+   "(c) < (a) < (b)"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch10-026.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch10-027",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 27,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf",
+   "page": 7,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf"
+  },
+  "stem": "Note : In the questions 26 to 29 arrange the compounds in increasing order of rate of reaction towards nucleophilic substitution.",
+  "options": [
+   "(a) < (b) < (c)",
+   "(a) < (c) < (b)",
+   "(c) < (b) < (a)",
+   "(b) < (c) < (a)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch10-027.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch10-028",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 28,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf",
+   "page": 7,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf"
+  },
+  "stem": "Note : In the questions 26 to 29 arrange the compounds in increasing order of rate of reaction towards nucleophilic substitution.",
+  "options": [
+   "(c) < (b) < (a)",
+   "(b) < (c) < (a)",
+   "(a) < (c) < (b)",
+   "(a) < (b) < (c)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch10-028.png"
+  ],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "duplicate of tp-ncert-chem-12-ch10-027"
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch10-029",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 29,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf",
+   "page": 7,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf"
+  },
+  "stem": "Note : In the questions 26 to 29 arrange the compounds in increasing order of rate of reaction towards nucleophilic substitution.",
+  "options": [
+   "(a) < (b) < (c)",
+   "(b) < (a) < (c)",
+   "(c) < (b) < (a)",
+   "(a) < (c) < (b)"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-ncert-chem-12-ch10-029.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch10-030",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 30,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf",
+   "page": 8,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf"
+  },
+  "stem": "Which is the correct increasing order of boiling points of the following compounds? 1-Iodobutane, 1-Bromobutane, 1-Chlorobutane, Butane",
+  "options": [
+   "Butane < 1-Chlorobutane < 1-Bromobutane < 1-Iodobutane",
+   "1-Iodobutane < 1-Bromobutane < 1-Chlorobutane < Butane",
+   "Butane < 1-Iodobutane < 1-Bromobutane < 1-Chlorobutane",
+   "Butane < 1-Chlorobutane < 1-Iodobutane < 1-Bromobutane"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-12-ch10-031",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 31,
+   "file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf",
+   "page": 8,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-12/leep510.pdf"
+  },
+  "stem": "Which is the correct increasing order of boiling points of the following compounds? 1-Bromoethane, 1-Bromopropane, 1-Bromobutane, Bromobenzene",
+  "options": [
+   "Bromobenzene < 1-Bromobutane < 1-Bromopropane < 1-Bromoethane",
+   "Bromobenzene < 1-Bromoethane < 1-Bromopropane < 1-Bromobutane",
+   "1-Bromopropane < 1-Bromobutane < 1-Bromoethane < Bromobenzene",
+   "1-Bromoethane < 1-Bromopropane < 1-Bromobutane < Bromobenzene"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

@@ -1,0 +1,2105 @@
+[
+ {
+  "id": "pyq-2021-mathematics-001",
+  "subject": "mathematics",
+  "chapter": "sets",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 1,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "In a certain town 65% families own cellphones, 15000 families own scooter and 15% families own both. Taking into consideration that the families own at least one of the two, the total number of families in the town is",
+  "options": [
+   "20000",
+   "30000",
+   "40000",
+   "50000"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-002",
+  "subject": "mathematics",
+  "chapter": "sets",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 2,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "$A$ and $B$ are non-singleton sets and $n(A \\times B) = 35$. If $B \\subset A$ then ${}^{n(A)}C_{n(B)} =$",
+  "options": [
+   "$28$",
+   "$35$",
+   "$42$",
+   "$21$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-003",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions-11",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 3,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Domain of $f(x) = \\frac{x}{1 - |x|}$ is",
+  "options": [
+   "$\\mathbb{R} - [-1, 1]$",
+   "$(-\\infty, 1)$",
+   "$(-\\infty, 1) \\cup (0, 1)$",
+   "$\\mathbb{R} - \\{-1, 1\\}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-004",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 4,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The value of $\\cos 1200^\\circ + \\tan 1485^\\circ$ is",
+  "options": [
+   "$\\frac{1}{2}$",
+   "$\\frac{3}{2}$",
+   "$-\\frac{3}{2}$",
+   "$-\\frac{1}{2}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-005",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 5,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The value of $\\tan 1^\\circ \\tan 2^\\circ \\tan 3^\\circ \\ldots \\tan 89^\\circ$ is",
+  "options": [
+   "$0$",
+   "$1$",
+   "$\\frac{1}{2}$",
+   "$-1$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-006",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 6,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "If $\\left(\\frac{1+i}{1-i}\\right)^{x} = 1$ then",
+  "options": [
+   "$x = 4n+1 ; n \\in \\mathbb{N}$",
+   "$x = 2n+1 ; n \\in \\mathbb{N}$",
+   "$x = 2n ; n \\in \\mathbb{N}$",
+   "$x = 4n ; n \\in \\mathbb{N}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-007",
+  "subject": "mathematics",
+  "chapter": "linear-inequalities",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 7,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The cost and revenue functions of a product are given by $c(x) = 20x + 4000$ and $R(x) = 60x + 2000$ respectively where $x$ is the number of items produced and sold. The value of $x$ to earn Profit is",
+  "options": [
+   "$>50$",
+   "$>60$",
+   "$>80$",
+   "$>40$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-008",
+  "subject": "mathematics",
+  "chapter": "permutations-and-combinations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 8,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A student has to answer 10 questions, choosing at least 4 from each of the parts A and B. If there are 6 questions in part A and 7 in part B, then the number of ways can the student choose 10 questions is",
+  "options": [
+   "$256$",
+   "$352$",
+   "$266$",
+   "$426$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-009",
+  "subject": "mathematics",
+  "chapter": "sequences-and-series",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 9,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "If the middle term of the A.P is 300 then the sum of its first 51 terms is",
+  "options": [
+   "$15300$",
+   "$14800$",
+   "$16500$",
+   "$14300$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-010",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 10,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The equation of straight line which passes through the point $(a\\cos^3\\theta, a\\sin^3\\theta)$ and perpendicular to $x\\sec\\theta + y\\,\\mathrm{cosec}\\,\\theta = a$ is",
+  "options": [
+   "$\\frac{x}{a} + \\frac{y}{a} = a\\cos\\theta$",
+   "$x\\cos\\theta - y\\sin\\theta = a\\cos 2\\theta$",
+   "$x\\cos\\theta + y\\sin\\theta = a\\cos 2\\theta$",
+   "$x\\cos\\theta - y\\sin\\theta = -a\\cos 2\\theta$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-011",
+  "subject": "mathematics",
+  "chapter": "introduction-to-three-dimensional-geometry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 11,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The mid points of the sides of a triangle are $(1, 5, -1)$, $(0, 4, -2)$ and $(2, 3, 4)$ then centroid of the triangle",
+  "options": [
+   "$(1, 4, 3)$",
+   "$\\left(1, 4, \\frac{1}{3}\\right)$",
+   "$(-1, 4, 3)$",
+   "$\\left(\\frac{1}{3}, 2, 4\\right)$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-012",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 12,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Consider the following statements:\n\nStatement 1: $\\lim_{x \\to 1} \\frac{ax^2 + bx + c}{cx^2 + bx + a}$ is $1$ (where $a + b + c \\neq 0$)\n\nStatement 2: $\\lim_{x \\to -2} \\frac{\\frac{1}{x} + \\frac{1}{2}}{x + 2}$ is $\\frac{1}{4}$",
+  "options": [
+   "Only statement 2 is true",
+   "Only statement 1 is true",
+   "Both statements 1 and 2 are true",
+   "Both statements 1 and 2 are false"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-013",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 13,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "If $a$ and $b$ are fixed non-zero constants, then the derivative of $\\frac{a}{x^4} - \\frac{b}{x^2} + \\mathrm{Cos}\\,x$ is $ma + nb - p$ where",
+  "options": [
+   "$m = 4x^3 ; n = \\frac{-2}{x^3} ; p = \\sin x$",
+   "$m = \\frac{-4}{x^5} ; n = \\frac{2}{x^3} ; p = \\sin x$",
+   "$m = \\frac{-4}{x^5} ; n = \\frac{-2}{x^3} ; p = -\\sin x$",
+   "$m = 4x^3 ; n = \\frac{2}{x^3} ; p = -\\sin x$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-014",
+  "subject": "mathematics",
+  "chapter": "statistics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 14,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The Standard Deviation of the numbers $31, 32, 33, \\ldots, 46, 47$ is",
+  "options": [
+   "$\\sqrt{\\frac{17}{12}}$",
+   "$\\sqrt{\\frac{47^2 - 1}{12}}$",
+   "$2\\sqrt{6}$",
+   "$4\\sqrt{3}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-015",
+  "subject": "mathematics",
+  "chapter": "probability-11",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 15,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "If $P(A) = 0.59$, $P(B) = 0.30$ and $P(A \\cap B) = 0.21$ then $P(A' \\cap B') =$",
+  "options": [
+   "$0.11$",
+   "$0.38$",
+   "$0.32$",
+   "$0.35$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-016",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions-11",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 16,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "$f : \\mathbb{R} \\to \\mathbb{R}$ defined by $f(x) = \\begin{cases} 2x ; & x > 3 \\\\ x^2 ; & 1 < x \\le 3 \\\\ 3x ; & x \\le 1 \\end{cases}$ then $f(-2) + f(3) + f(4)$ is",
+  "options": [
+   "$14$",
+   "$9$",
+   "$5$",
+   "$11$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-017",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 17,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Let $A = \\{x : x \\in \\mathbb{R};\\ x \\text{ is not a positive integer}\\}$. Define $f : A \\to \\mathbb{R}$ as $f(x) = \\frac{2x}{x-1}$, then $f$ is",
+  "options": [
+   "injective but not surjective",
+   "surjective but not injective",
+   "bijective",
+   "neither injective nor surjective"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-018",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 18,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The function $f(x) = \\sqrt{3}\\sin 2x - \\cos 2x + 4$ is one-one in the interval",
+  "options": [
+   "$\\left[-\\frac{\\pi}{6}, \\frac{\\pi}{3}\\right]$",
+   "$\\left(\\frac{\\pi}{6}, -\\frac{\\pi}{3}\\right]$",
+   "$\\left[-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right]$",
+   "$\\left[-\\frac{\\pi}{6}, -\\frac{\\pi}{3}\\right)$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-019",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions-11",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 19,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The domain of the function $f(x) = \\frac{1}{\\sqrt{[x]^2 - [x] - 6}}$ where $[x]$ is greatest integer $\\le x$ is",
+  "options": [
+   "$(-\\infty, -2) \\cup [4, \\infty]$",
+   "$(-\\infty, -2) \\cup [3, \\infty]$",
+   "$[-\\infty, -2] \\cup [4, \\infty]$",
+   "$[-\\infty, -2] \\cup (3, \\infty)$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-020",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 20,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "$\\cos\\left[\\cot^{-1}(-\\sqrt{3}) + \\frac{\\pi}{6}\\right] =$",
+  "options": [
+   "$0$",
+   "$1$",
+   "$\\frac{1}{\\sqrt{2}}$",
+   "$-1$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-021",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 21,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "$\\tan^{-1}\\left[\\frac{1}{\\sqrt{3}}\\sin\\frac{5\\pi}{2}\\right]\\ \\sin^{-1}\\left[\\cos\\left(\\sin^{-1}\\frac{\\sqrt{3}}{2}\\right)\\right] =$",
+  "options": [
+   "$0$",
+   "$\\frac{\\pi}{6}$",
+   "$\\frac{\\pi}{3}$",
+   "$\\pi$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-022",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 22,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "If $A = \\begin{bmatrix} 1 & -2 & 1 \\\\ 2 & 1 & 3 \\end{bmatrix}$ and $B = \\begin{bmatrix} 2 & 1 \\\\ 3 & 2 \\\\ 1 & 1 \\end{bmatrix}$ then $(AB)'$ is equal to",
+  "options": [
+   "$\\begin{bmatrix} -3 & -2 \\\\ 10 & 7 \\end{bmatrix}$",
+   "$\\begin{bmatrix} -3 & 10 \\\\ -2 & 7 \\end{bmatrix}$",
+   "$\\begin{bmatrix} -3 & 7 \\\\ 10 & 2 \\end{bmatrix}$",
+   "$\\begin{bmatrix} -3 & 7 \\\\ 10 & -2 \\end{bmatrix}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-023",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 23,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Let $M$ be $2 \\times 2$ symmetric matrix with integer entries, then $M$ is invertible if",
+  "options": [
+   "the first column of $M$ is the transpose of second row of $M$",
+   "the second row of $M$ is the transpose of first column of $M$",
+   "$M$ is a diagonal matrix with non-zero entries in the principal diagonal",
+   "The product of entries in the principal diagonal of $M$ is the product of entries in the other diagonal."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-024",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 24,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "If $A$ and $B$ are matrices of order 3 and $|A| = 5$, $|B| = 3$ then $|3AB|$ is",
+  "options": [
+   "$425$",
+   "$405$",
+   "$565$",
+   "$585$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-025",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 25,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "If $A$ and $B$ are invertible matrices then which of the following is not correct?",
+  "options": [
+   "$\\mathrm{adj}\\,A = |A|\\,A^{-1}$",
+   "$\\det(A^{-1}) = [\\det(A)]^{-1}$",
+   "$(AB)^{-1} = B^{-1}A^{-1}$",
+   "$(A+B)^{-1} = B^{-1} + A^{-1}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-026",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 26,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "If $f(x) = \\begin{vmatrix} \\mathrm{Cos}\\,x & 1 & 0 \\\\ 0 & 2\\cos x & 3 \\\\ 0 & 1 & 2\\cos x \\end{vmatrix}$ then $\\lim_{x \\to \\pi} f(x) =$",
+  "options": [
+   "$-1$",
+   "$1$",
+   "$0$",
+   "$3$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-027",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 27,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "If $x^3 - 2x^2 - 9x + 18 = 0$ and $A = \\begin{vmatrix} 1 & 2 & 3 \\\\ 4 & x & 6 \\\\ 7 & 8 & 9 \\end{vmatrix}$ then the maximum value of $A$ is",
+  "options": [
+   "$96$",
+   "$36$",
+   "$24$",
+   "$120$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-028",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 28,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "At $x = 1$, the function $f(x) = \\begin{cases} x^3 - 1 & 1 < x < \\infty \\\\ x - 1 & -\\infty < x \\le 1 \\end{cases}$ is",
+  "options": [
+   "continuous and differentiable",
+   "continuous and non-differentiable",
+   "discontinuous and differentiable",
+   "discontinuous and non-differentiable"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-029",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 29,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "If $y = (\\cos x^{2})^{2}$, then $\\frac{dy}{dx}$ is equal to",
+  "options": [
+   "$-4x\\sin 2x^{2}$",
+   "$-x\\sin x^{2}$",
+   "$-2x\\sin 2x^{2}$",
+   "$-x\\cos 2x^{2}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-030",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 30,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "For constant $a$, $\\frac{d}{dx}\\left(x^{x} + x^{a} + a^{x} + a^{a}\\right)$ is",
+  "options": [
+   "$x^{x}(1+\\log x) + ax^{a-1}$",
+   "$x^{x}(1+\\log x) + ax^{a-1} + a^{x}\\log a$",
+   "$x^{x}(1+\\log x) + a^{a}(1+\\log x)$",
+   "$x^{x}(1+\\log x) + a^{a}(1+\\log a) + ax^{a-1}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-031",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 31,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Consider the following statements:\n\nStatement 1: If $y = \\log_{10} x + \\log_{e} x$ then $\\frac{dy}{dx} = \\frac{\\log_{10} e}{x} + \\frac{1}{x}$\n\nStatement 2: $\\frac{d}{dx}(\\log_{10} x) = \\frac{\\log x}{\\log 10}$ and $\\frac{d}{dx}(\\log_{e} x) = \\frac{\\log x}{\\log e}$",
+  "options": [
+   "Statement 1 is true; statement 2 is false",
+   "Statement 1 is false; statement 2 is true",
+   "Both statements 1 and 2 are true",
+   "Both statements 1 and 2 are false"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-032",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 32,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "If the parametric equation of a curve is given by $x = \\cos\\theta + \\log\\tan\\frac{\\theta}{2}$ and $y = \\sin\\theta$, then the points for which $\\frac{dy}{dx} = 0$ are given by",
+  "options": [
+   "$\\theta = \\frac{n\\pi}{2},\\ n \\in \\mathbb{Z}$",
+   "$\\theta = (2n+1)\\frac{\\pi}{2},\\ n \\in \\mathbb{Z}$",
+   "$\\theta = (2n+1)\\pi,\\ n \\in \\mathbb{Z}$",
+   "$\\theta = n\\pi,\\ n \\in \\mathbb{Z}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-033",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 33,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "If $y = (x-1)^2 (x-2)^3 (x-3)^5$ then $\\frac{dy}{dx}$ at $x = 4$ is equal to",
+  "options": [
+   "$108$",
+   "$54$",
+   "$36$",
+   "$516$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-034",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 34,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A particle starts from rest and its angular displacement (in radians) is given by $\\theta = \\frac{t^2}{20} + \\frac{t}{5}$. If the angular velocity at the end of $t = 4$ is $k$, then the value of $5k$ is",
+  "options": [
+   "$0.6$",
+   "$5$",
+   "$5k$",
+   "$3$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-035",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 35,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "If the parabola $y = \\alpha x^2 - 6x + \\beta$ passes through the point $(0, 2)$ and has its tangent at $x = \\frac{3}{2}$ parallel to x axis, then",
+  "options": [
+   "$\\alpha = 2, \\beta = -2$",
+   "$\\alpha = -2, \\beta = 2$",
+   "$\\alpha = 2, \\beta = 2$",
+   "$\\alpha = -2, \\beta = -2$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-036",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 36,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The function $f(x) = x^2 - 2x$ is strictly decreasing in the interval",
+  "options": [
+   "$(-\\infty, 1)$",
+   "$(1, \\infty)$",
+   "$\\mathbb{R}$",
+   "$(-\\infty, \\infty)$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-037",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 37,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The maximum slope of the curve $y = -x^3 + 3x^2 + 2x - 27$ is",
+  "options": [
+   "$1$",
+   "$23$",
+   "$5$",
+   "$-23$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-038",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 38,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "$\\int \\frac{x^3 \\sin(\\tan^{-1}(x^4))}{1 + x^8}\\,dx$ is equal to",
+  "options": [
+   "$\\frac{-\\cos(\\tan^{-1}(x^4))}{4} + C$",
+   "$\\frac{\\cos(\\tan^{-1}(x^4))}{4} + C$",
+   "$\\frac{-\\cos(\\tan^{-1}(x^3))}{3} + C$",
+   "$\\frac{\\sin(\\tan^{-1}(x^4))}{4} + C$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-039",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 39,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 17,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The value of $\\int \\frac{x^2\\,dx}{\\sqrt{x^6 + a^6}}$ is equal to",
+  "options": [
+   "$\\log\\left|x^3 + \\sqrt{x^6 + a^6}\\right| + c$",
+   "$\\log\\left|x^3 - \\sqrt{x^6 + a^6}\\right| + c$",
+   "$\\frac{1}{3}\\log\\left|x^3 + \\sqrt{x^6 + a^6}\\right| + c$",
+   "$\\frac{1}{3}\\log\\left|x^3 - \\sqrt{x^6 + a^6}\\right| + c$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-040",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 40,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 19,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The value of $\\int \\frac{xe^x\\,dx}{(1+x)^2}$ is equal to",
+  "options": [
+   "$e^x(1+x) + c$",
+   "$e^x(1+x^2) + c$",
+   "$e^x(1+x)^2 + c$",
+   "$\\frac{e^x}{1+x} + c$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-041",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 41,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 19,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The value of $\\int e^x \\left[\\frac{1+\\sin x}{1+\\cos x}\\right] dx$ is equal to",
+  "options": [
+   "$e^x\\tan\\frac{x}{2} + c$",
+   "$e^x\\tan x + c$",
+   "$e^x(1+\\cos x) + c$",
+   "$e^x(1+\\sin x) + c$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-042",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 42,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 19,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "If $I_n = \\int_0^{\\pi/4} \\tan^n x\\,dx$ where $n$ is positive integer then $I_{10} + I_8$ is equal to",
+  "options": [
+   "$9$",
+   "$\\frac{1}{7}$",
+   "$\\frac{1}{8}$",
+   "$\\frac{1}{9}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-043",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 43,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 19,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The value of $\\int_0^{4042} \\frac{\\sqrt{x}\\,dx}{\\sqrt{x} + \\sqrt{4042 - x}}$ is equal to",
+  "options": [
+   "$4042$",
+   "$2021$",
+   "$8084$",
+   "$1010$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-044",
+  "subject": "mathematics",
+  "chapter": "application-of-integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 44,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 19,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The area of the region bounded by $y = \\sqrt{16 - x^2}$ and x-axis is",
+  "options": [
+   "$8$ square units",
+   "$20\\pi$ square units",
+   "$16\\pi$ square units",
+   "$256\\pi$ square units"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-045",
+  "subject": "mathematics",
+  "chapter": "application-of-integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 45,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 21,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "If the area of the Ellipse is $\\frac{x^2}{25} + \\frac{y^2}{\\lambda^2} = 1$ is $20\\pi$ square units, then $\\lambda$ is",
+  "options": [
+   "$\\pm 4$",
+   "$\\pm 3$",
+   "$\\pm 2$",
+   "$\\pm 1$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-046",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 46,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 21,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Solution of Differential Equation $x\\,dy - y\\,dx = 0$ represents",
+  "options": [
+   "A rectangular Hyperbola",
+   "Parabola whose vertex is at origin",
+   "Straight line passing through origin",
+   "A circle whose centre is origin"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-047",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 47,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 21,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The number of solutions of $\\frac{dy}{dx} = \\frac{y+1}{x-1}$ when $y(1) = 2$ is",
+  "options": [
+   "three",
+   "one",
+   "infinite",
+   "two"
+  ],
+  "answer": 1,
+  "accepted": [
+   1,
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-048",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 48,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 21,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A vector $\\vec{a}$ makes equal acute angles on the coordinate axis. Then the projection of vector $\\vec{b} = 5\\hat{i} + 7\\hat{j} - \\hat{k}$ on $\\vec{a}$ is",
+  "options": [
+   "$\\frac{11}{15}$",
+   "$\\frac{11}{\\sqrt{3}}$",
+   "$\\frac{4}{5}$",
+   "$\\frac{3}{5\\sqrt{3}}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-049",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 49,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 21,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The diagonals of a parallelogram are the vectors $3\\hat{i} + 6\\hat{j} - 2\\hat{k}$ and $-\\hat{i} - 2\\hat{j} - 8\\hat{k}$ then the length of the shorter side of parallelogram is",
+  "options": [
+   "$2\\sqrt{3}$",
+   "$\\sqrt{14}$",
+   "$3\\sqrt{5}$",
+   "$4\\sqrt{3}$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-050",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 50,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 23,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "If $\\vec{a} \\cdot \\vec{b} = 0$ and $\\vec{a} + \\vec{b}$ makes an angle $60^\\circ$ with $\\vec{a}$ then",
+  "options": [
+   "$|\\vec{a}| = 2|\\vec{b}|$",
+   "$2|\\vec{a}| = |\\vec{b}|$",
+   "$|\\vec{a}| = \\sqrt{3}|\\vec{b}|$",
+   "$\\sqrt{3}|\\vec{a}| = |\\vec{b}|$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-051",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 51,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 23,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "If the area of the parallelogram with $\\vec{a}$ and $\\vec{b}$ as two adjacent sides is 15 sq. units then the area of the parallelogram having $3\\vec{a} + 2\\vec{b}$ and $\\vec{a} + 3\\vec{b}$ as two adjacent sides in sq. units is",
+  "options": [
+   "$45$",
+   "$75$",
+   "$105$",
+   "$120$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-052",
+  "subject": "mathematics",
+  "chapter": "three-dimensional-geometry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 52,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 23,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The equation of the line joining the points $(-3, 4, 11)$ and $(1, -2, 7)$ is",
+  "options": [
+   "$\\frac{x+3}{2} = \\frac{y-4}{3} = \\frac{z-11}{4}$",
+   "$\\frac{x+3}{-2} = \\frac{y-4}{3} = \\frac{z-11}{2}$",
+   "$\\frac{x+3}{-2} = \\frac{y+4}{3} = \\frac{z+11}{4}$",
+   "$\\frac{x+3}{2} = \\frac{y+4}{-3} = \\frac{z+11}{2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-053",
+  "subject": "mathematics",
+  "chapter": "three-dimensional-geometry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 53,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 23,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The angle between the lines whose direction cosines are $\\left(\\frac{\\sqrt{3}}{4}, \\frac{1}{4}, \\frac{\\sqrt{3}}{2}\\right)$ and $\\left(\\frac{\\sqrt{3}}{4}, \\frac{1}{4}, \\frac{-\\sqrt{3}}{2}\\right)$ is",
+  "options": [
+   "$\\pi$",
+   "$\\frac{\\pi}{2}$",
+   "$\\frac{\\pi}{3}$",
+   "$\\frac{\\pi}{4}$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-054",
+  "subject": "mathematics",
+  "chapter": "three-dimensional-geometry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 54,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 25,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "If a plane meets the coordinate axes at A, B and C in such a way that the centroid of triangle ABC is at the point $(1, 2, 3)$ then the equation of the plane is",
+  "options": [
+   "$\\frac{x}{1} + \\frac{y}{2} + \\frac{z}{3} = 1$",
+   "$\\frac{x}{3} + \\frac{y}{6} + \\frac{z}{9} = 1$",
+   "$\\frac{x}{1} + \\frac{y}{2} + \\frac{z}{3} = \\frac{1}{3}$",
+   "$\\frac{x}{1} - \\frac{y}{2} + \\frac{z}{3} = -1$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-055",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 55,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 25,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The area of the quadrilateral ABCD, when $A(0, 4, 1)$, $B(2, 3, -1)$, $C(4, 5, 0)$ and $D(2, 6, 2)$ is equal to",
+  "options": [
+   "$9$ sq. units",
+   "$18$ sq. units",
+   "$27$ sq. units",
+   "$81$ sq. units"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-056",
+  "subject": "mathematics",
+  "chapter": "linear-programming",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 56,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 25,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "The shaded region is the solution set of the inequalities",
+  "options": [
+   "$5x + 4y \\ge 20,\\ x \\le 6,\\ y \\ge 3,\\ x \\ge 0,\\ y \\ge 0$",
+   "$5x + 4y \\le 20,\\ x \\le 6,\\ y \\le 3,\\ x \\ge 0,\\ y \\ge 0$",
+   "$5x + 4y \\ge 20,\\ x \\le 6,\\ y \\le 3,\\ x \\ge 0,\\ y \\ge 0$",
+   "$5x + 4y \\ge 20,\\ x \\ge 6,\\ y \\le 3,\\ x \\ge 0,\\ y \\ge 0$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2021-mathematics-056.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-057",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 57,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 27,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Given that A and B are two events such that $P(B) = \\frac{3}{5}$, $P(A/B) = \\frac{1}{2}$ and $P(A \\cup B) = \\frac{4}{5}$ then $P(A) =$",
+  "options": [
+   "$\\frac{3}{10}$",
+   "$\\frac{1}{2}$",
+   "$\\frac{1}{5}$",
+   "$\\frac{3}{5}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-058",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 58,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 27,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "If A, B and C are three independent events such that $P(A) = P(B) = P(C) = P$ then $P$(at least two of A, B, C occur) $=$",
+  "options": [
+   "$P^3 - 3P$",
+   "$3P - 2P^2$",
+   "$3P^2 - 2P^3$",
+   "$3P^2$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-059",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 59,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 27,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "Two dice are thrown. If it is known that the sum of numbers on the dice was less than 6 the probability of getting a sum as 3 is",
+  "options": [
+   "$\\frac{1}{18}$",
+   "$\\frac{5}{18}$",
+   "$\\frac{1}{5}$",
+   "$\\frac{2}{5}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2021-mathematics-060",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2021",
+   "year": 2021,
+   "version": "A1",
+   "number": 60,
+   "file": "sources/pyq/2021/mathematics/2021-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 27,
+   "key_file": "sources/pyq/2021/mathematics/2021-mathematics-answer_key_final-na-aglasem.pdf"
+  },
+  "stem": "A car manufacturing factory has two plants X and Y. Plant X manufactures 70% of cars and plant Y manufactures 30% of cars. 80% of cars at plant X and 90% of cars at plant Y are rated as standard quality. A car is chosen at random and is found to be of standard quality. The probability that it has come from plant X is",
+  "options": [
+   "$\\frac{56}{73}$",
+   "$\\frac{56}{84}$",
+   "$\\frac{56}{83}$",
+   "$\\frac{56}{79}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

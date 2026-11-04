@@ -9,3 +9,4 @@ dist/
 HANDOVER.md
 .DS_Store
 .scratch/
+scripts/__pycache__/

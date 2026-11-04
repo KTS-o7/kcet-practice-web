@@ -1,0 +1,387 @@
+[
+ {
+  "id": "tp-ncert-chem-11-ch08-001",
+  "subject": "chemistry",
+  "chapter": "redox-reactions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep508.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep508.pdf"
+  },
+  "stem": "Which of the following is not an example of redox reaction?",
+  "options": [
+   "$\\mathrm{CuO + H_2 \\rightarrow Cu + H_2O}$",
+   "$\\mathrm{Fe_2O_3 + 3CO \\rightarrow 2Fe + 3CO_2}$",
+   "$\\mathrm{2K + F_2 \\rightarrow 2KF}$",
+   "$\\mathrm{BaCl_2 + H_2SO_4 \\rightarrow BaSO_4 + 2HCl}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch08-002",
+  "subject": "chemistry",
+  "chapter": "redox-reactions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep508.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep508.pdf"
+  },
+  "stem": "The more positive the value of $E^\\circ$, the greater is the tendency of the species to get reduced. Using the standard electrode potential of redox couples given below find out which of the following is the strongest oxidising agent.\n\n$E^\\circ$ values: $\\mathrm{Fe^{3+}/Fe^{2+}} = +0.77$; $\\mathrm{I_2(s)/I^-} = +0.54$; $\\mathrm{Cu^{2+}/Cu} = +0.34$; $\\mathrm{Ag^+/Ag} = +0.80\\,\\mathrm{V}$",
+  "options": [
+   "$\\mathrm{Fe^{3+}}$",
+   "$\\mathrm{I_2(s)}$",
+   "$\\mathrm{Cu^{2+}}$",
+   "$\\mathrm{Ag^+}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch08-003",
+  "subject": "chemistry",
+  "chapter": "redox-reactions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep508.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep508.pdf"
+  },
+  "stem": "$E^\\circ$ values of some redox couples are given below. On the basis of these values choose the correct option.\n\n$E^\\circ$ values: $\\mathrm{Br_2/Br^-} = +1.90$; $\\mathrm{Ag^+/Ag(s)} = +0.80$; $\\mathrm{Cu^{2+}/Cu(s)} = +0.34$; $\\mathrm{I_2(s)/I^-} = +0.54$",
+  "options": [
+   "Cu will reduce $\\mathrm{Br^-}$",
+   "Cu will reduce Ag",
+   "Cu will reduce $\\mathrm{I^-}$",
+   "Cu will reduce $\\mathrm{Br_2}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "key_confirmed",
+   "notes": "Transcription matches page; Cu (0.34) reduces Br2 (1.90); key (iv) agrees."
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch08-004",
+  "subject": "chemistry",
+  "chapter": "redox-reactions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep508.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep508.pdf"
+  },
+  "stem": "Using the standard electrode potential, find out the pair between which redox reaction is not feasible.\n\n$E^\\circ$ values: $\\mathrm{Fe^{3+}/Fe^{2+}} = +0.77$; $\\mathrm{I_2/I^-} = +0.54$; $\\mathrm{Cu^{2+}/Cu} = +0.34$; $\\mathrm{Ag^+/Ag} = +0.80\\,\\mathrm{V}$",
+  "options": [
+   "$\\mathrm{Fe^{3+}}$ and $\\mathrm{I^-}$",
+   "$\\mathrm{Ag^+}$ and Cu",
+   "$\\mathrm{Fe^{3+}}$ and Cu",
+   "Ag and $\\mathrm{Fe^{3+}}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch08-005",
+  "subject": "chemistry",
+  "chapter": "redox-reactions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep508.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep508.pdf"
+  },
+  "stem": "Thiosulphate reacts differently with iodine and bromine in the reactions given below:\n\n$\\mathrm{2S_2O_3^{2-} + I_2 \\rightarrow S_4O_6^{2-} + 2I^-}$\n\n$\\mathrm{S_2O_3^{2-} + 2Br_2 + 5H_2O \\rightarrow 2SO_4^{2-} + 2Br^- + 10H^+}$\n\nWhich of the following statements justifies the above dual behaviour of thiosulphate?",
+  "options": [
+   "Bromine is a stronger oxidant than iodine.",
+   "Bromine is a weaker oxidant than iodine.",
+   "Thiosulphate undergoes oxidation by bromine and reduction by iodine in these reactions.",
+   "Bromine undergoes oxidation and iodine undergoes reduction in these reactions."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch08-006",
+  "subject": "chemistry",
+  "chapter": "redox-reactions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep508.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep508.pdf"
+  },
+  "stem": "The oxidation number of an element in a compound is evaluated on the basis of certain rules. Which of the following rules is not correct in this respect?",
+  "options": [
+   "The oxidation number of hydrogen is always $+1$.",
+   "The algebraic sum of all the oxidation numbers in a compound is zero.",
+   "An element in the free or the uncombined state bears oxidation number zero.",
+   "In all its compounds, the oxidation number of fluorine is $-1$."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch08-007",
+  "subject": "chemistry",
+  "chapter": "redox-reactions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 7,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep508.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep508.pdf"
+  },
+  "stem": "In which of the following compounds, an element exhibits two different oxidation states.",
+  "options": [
+   "$\\mathrm{NH_2OH}$",
+   "$\\mathrm{NH_4NO_3}$",
+   "$\\mathrm{N_2H_4}$",
+   "$\\mathrm{N_3H}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch08-008",
+  "subject": "chemistry",
+  "chapter": "redox-reactions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 8,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep508.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep508.pdf"
+  },
+  "stem": "Which of the following arrangements represent increasing oxidation number of the central atom?",
+  "options": [
+   "$\\mathrm{CrO_2^-}$, $\\mathrm{ClO_3^-}$, $\\mathrm{CrO_4^{2-}}$, $\\mathrm{MnO_4^-}$",
+   "$\\mathrm{ClO_3^-}$, $\\mathrm{CrO_4^{2-}}$, $\\mathrm{MnO_4^-}$, $\\mathrm{CrO_2^-}$",
+   "$\\mathrm{CrO_2^-}$, $\\mathrm{ClO_3^-}$, $\\mathrm{MnO_4^-}$, $\\mathrm{CrO_4^{2-}}$",
+   "$\\mathrm{CrO_4^{2-}}$, $\\mathrm{MnO_4^-}$, $\\mathrm{CrO_2^-}$, $\\mathrm{ClO_3^-}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch08-009",
+  "subject": "chemistry",
+  "chapter": "redox-reactions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 9,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep508.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep508.pdf"
+  },
+  "stem": "The largest oxidation number exhibited by an element depends on its outer electronic configuration. With which of the following outer electronic configurations the element will exhibit largest oxidation number?",
+  "options": [
+   "$3d^{1}4s^{2}$",
+   "$3d^{3}4s^{2}$",
+   "$3d^{5}4s^{1}$",
+   "$3d^{5}4s^{2}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch08-010",
+  "subject": "chemistry",
+  "chapter": "redox-reactions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 10,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep508.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep508.pdf"
+  },
+  "stem": "Identify disproportionation reaction",
+  "options": [
+   "$\\mathrm{CH_4 + 2O_2 \\rightarrow CO_2 + 2H_2O}$",
+   "$\\mathrm{CH_4 + 4Cl_2 \\rightarrow CCl_4 + 4HCl}$",
+   "$\\mathrm{2F_2 + 2OH^- \\rightarrow 2F^- + OF_2 + H_2O}$",
+   "$\\mathrm{2NO_2 + 2OH^- \\rightarrow NO_2^- + NO_3^- + H_2O}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch08-011",
+  "subject": "chemistry",
+  "chapter": "redox-reactions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 11,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep508.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep508.pdf"
+  },
+  "stem": "Which of the following elements does not show disproportionation tendency?",
+  "options": [
+   "Cl",
+   "Br",
+   "F",
+   "I"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

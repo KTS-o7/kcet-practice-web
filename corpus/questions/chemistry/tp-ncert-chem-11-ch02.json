@@ -1,0 +1,564 @@
+[
+ {
+  "id": "tp-ncert-chem-11-ch02-001",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep502.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep502.pdf"
+  },
+  "stem": "Which of the following conclusions could not be derived from Rutherford's $\\alpha$-particle scattering experiement?",
+  "options": [
+   "Most of the space in the atom is empty.",
+   "The radius of the atom is about $10^{-10}\\,\\mathrm{m}$ while that of nucleus is $10^{-15}\\,\\mathrm{m}$.",
+   "Electrons move in a circular path of fixed energy called orbits.",
+   "Electrons and the nucleus are held together by electrostatic forces of attraction."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch02-002",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep502.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep502.pdf"
+  },
+  "stem": "Which of the following options does not represent ground state electronic configuration of an atom?",
+  "options": [
+   "$1s^2\\,2s^2\\,2p^6\\,3s^2\\,3p^6\\,3d^8\\,4s^2$",
+   "$1s^2\\,2s^2\\,2p^6\\,3s^2\\,3p^6\\,3d^9\\,4s^2$",
+   "$1s^2\\,2s^2\\,2p^6\\,3s^2\\,3p^6\\,3d^{10}\\,4s^1$",
+   "$1s^2\\,2s^2\\,2p^6\\,3s^2\\,3p^6\\,3d^5\\,4s^1$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch02-003",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep502.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep502.pdf"
+  },
+  "stem": "The probability density plots of $1s$ and $2s$ orbitals are given in Fig. 2.1:\n\nThe density of dots in a region represents the probability density of finding electrons in the region. On the basis of above diagram which of the following statements is incorrect?",
+  "options": [
+   "$1s$ and $2s$ orbitals are spherical in shape.",
+   "The probability of finding the electron is maximum near the nucleus.",
+   "The probability of finding the electron at a given distance is equal in all directions.",
+   "The probability density of electrons for $2s$ orbital decreases uniformly as distance from the nucleus increases."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-ncert-chem-11-ch02-003.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch02-004",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep502.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep502.pdf"
+  },
+  "stem": "Which of the following statement is not correct about the characteristics of cathode rays?",
+  "options": [
+   "They start from the cathode and move towards the anode.",
+   "They travel in straight line in the absence of an external electrical or magnetic field.",
+   "Characteristics of cathode rays do not depend upon the material of electrodes in cathode ray tube.",
+   "Characteristics of cathode rays depend upon the nature of gas present in the cathode ray tube."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch02-005",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep502.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep502.pdf"
+  },
+  "stem": "Which of the following statements about the electron is incorrect?",
+  "options": [
+   "It is a negatively charged particle.",
+   "The mass of electron is equal to the mass of neutron.",
+   "It is a basic constituent of all atoms.",
+   "It is a constituent of cathode rays."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch02-006",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep502.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep502.pdf"
+  },
+  "stem": "Which of the following properties of atom could be explained correctly by Thomson Model of atom?",
+  "options": [
+   "Overall neutrality of atom.",
+   "Spectra of hydrogen atom.",
+   "Position of electrons, protons and neutrons in atom.",
+   "Stability of atom."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch02-007",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 7,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep502.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep502.pdf"
+  },
+  "stem": "Two atoms are said to be isobars if.",
+  "options": [
+   "they have same atomic number but different mass number.",
+   "they have same number of electrons but different number of neutrons.",
+   "they have same number of neutrons but different number of electrons.",
+   "sum of the number of protons and neutrons is same but the number of protons is different."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch02-008",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 8,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep502.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep502.pdf"
+  },
+  "stem": "The number of radial nodes for $3p$ orbital is __________.",
+  "options": [
+   "3",
+   "4",
+   "2",
+   "1"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch02-009",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 9,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep502.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep502.pdf"
+  },
+  "stem": "Number of angular nodes for $4d$ orbital is __________.",
+  "options": [
+   "4",
+   "3",
+   "2",
+   "1"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch02-010",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 10,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep502.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep502.pdf"
+  },
+  "stem": "Which of the following is responsible to rule out the existence of definite paths or trajectories of electrons?",
+  "options": [
+   "Pauli's exclusion principle.",
+   "Heisenberg's uncertainty principle.",
+   "Hund's rule of maximum multiplicity.",
+   "Aufbau principle."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch02-011",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 11,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep502.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep502.pdf"
+  },
+  "stem": "Total number of orbitals associated with third shell will be __________.",
+  "options": [
+   "2",
+   "4",
+   "9",
+   "3"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch02-012",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 12,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep502.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep502.pdf"
+  },
+  "stem": "Orbital angular momentum depends on __________.",
+  "options": [
+   "$l$",
+   "$n$ and $l$",
+   "$n$ and $m$",
+   "$m$ and $s$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch02-013",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 13,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep502.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep502.pdf"
+  },
+  "stem": "Chlorine exists in two isotopic forms, Cl-37 and Cl-35 but its atomic mass is 35.5. This indicates the ratio of Cl-37 and Cl-35 is approximately",
+  "options": [
+   "1:2",
+   "1:1",
+   "1:3",
+   "3:1"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch02-014",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 14,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep502.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep502.pdf"
+  },
+  "stem": "The pair of ions having same electronic configuration is __________.",
+  "options": [
+   "$\\mathrm{Cr^{3+}}$, $\\mathrm{Fe^{3+}}$",
+   "$\\mathrm{Fe^{3+}}$, $\\mathrm{Mn^{2+}}$",
+   "$\\mathrm{Fe^{3+}}$, $\\mathrm{Co^{3+}}$",
+   "$\\mathrm{Sc^{3+}}$, $\\mathrm{Cr^{3+}}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch02-015",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 15,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep502.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep502.pdf"
+  },
+  "stem": "For the electrons of oxygen atom, which of the following statements is correct?",
+  "options": [
+   "$Z_{\\mathrm{eff}}$ for an electron in a $2s$ orbital is the same as $Z_{\\mathrm{eff}}$ for an electron in a $2p$ orbital.",
+   "An electron in the $2s$ orbital has the same energy as an electron in the $2p$ orbital.",
+   "$Z_{\\mathrm{eff}}$ for an electron in $1s$ orbital is the same as $Z_{\\mathrm{eff}}$ for an electron in a $2s$ orbital.",
+   "The two electrons present in the $2s$ orbital have spin quantum numbers $m_s$ but of opposite sign."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch02-016",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 16,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep502.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep502.pdf"
+  },
+  "stem": "If travelling at same speeds, which of the following matter waves have the shortest wavelength?",
+  "options": [
+   "Electron",
+   "Alpha particle ($\\mathrm{He^{2+}}$)",
+   "Neutron",
+   "Proton"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "key_confirmed",
+   "notes": "lambda=h/mv; same speed, heaviest particle (alpha) has shortest wavelength; transcription matches page 4; original solver erred."
+  }
+ }
+]

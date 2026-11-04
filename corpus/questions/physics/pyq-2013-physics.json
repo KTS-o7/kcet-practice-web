@@ -1,0 +1,2121 @@
+[
+ {
+  "id": "pyq-2013-physics-001",
+  "subject": "physics",
+  "chapter": "units-and-measurement",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 1,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Which one of the following is NOT correct ?",
+  "options": [
+   "Dimensional formula of thermal conductivity (K) is $M^{1}L^{1}T^{-3}K^{-1}$",
+   "Dimensional formula of potential (V) is $M^{1}L^{2}T^{3}A^{-1}$",
+   "Dimensional formula of permeability of free space ($\\mu_0$) is $M^{1}L^{1}T^{-2}A^{-2}$",
+   "Dimensional formula of RC is $M^{0}L^{0}T^{-1}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1,
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-002",
+  "subject": "physics",
+  "chapter": "motion-in-a-straight-line",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 2,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "In a lift moving up with an acceleration of $5\\ \\mathrm{m\\,s^{-2}}$, a ball is dropped from a height of $1.25\\ \\mathrm{m}$. The time taken by the ball to reach the floor of the lift is ...... (nearly) $(g = 10\\ \\mathrm{m\\,s^{-2}})$",
+  "options": [
+   "0.3 second",
+   "0.2 second",
+   "0.16 second",
+   "0.4 second"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-003",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 3,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A gun fires a small bullet with kinetic energy $K$. Then kinetic energy of the gun while recoiling is",
+  "options": [
+   "$K$",
+   "more than $K$",
+   "less than $K$",
+   "$\\sqrt{K}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-004",
+  "subject": "physics",
+  "chapter": "oscillations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 4,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "From a fixed support, two small identical spheres are suspended by means of strings of length $1\\ \\mathrm{m}$ each. They are pulled aside as shown and then released. B is the mean position. Then the two spheres collide,",
+  "options": [
+   "at B after 0.25 second",
+   "at B after 0.5 second",
+   "on the right side of B after some time",
+   "on the right side of B when the strings are inclined at $15^\\circ$ with B"
+  ],
+  "answer": 1,
+  "accepted": [
+   1,
+   2
+  ],
+  "images": [
+   "pyq-2013-physics-004.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-005",
+  "subject": "physics",
+  "chapter": "work-energy-and-power",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 5,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A truck accelerates from speed $v$ to $2v$. Work done in during this is",
+  "options": [
+   "three times as the work done in accelerating it from rest to $v$.",
+   "same as the work done in accelerating it from rest to $v$.",
+   "four times as the work done in accelerating it from rest to $v$.",
+   "less than the work done in accelerating it from rest to $v$."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-006",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 6,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Earth is moving around the Sun in elliptical orbit as shown. The ratio of OB and OA is $R$. Then the ratio of Earth at A and B is",
+  "options": [
+   "$R^{-1}$",
+   "$\\sqrt{R}$",
+   "$R$",
+   "$R^{2/3}$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [
+   "pyq-2013-physics-006.png"
+  ],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2013-physics-007",
+  "subject": "physics",
+  "chapter": "motion-in-a-plane",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 7,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A projectile is projected at $10\\ \\mathrm{m\\,s^{-1}}$ by making at an angle $60^\\circ$ to the horizontal. After some time its velocity makes an angle of $30^\\circ$ to the horizontal. Its speed at this instant is",
+  "options": [
+   "$\\frac{10}{\\sqrt{3}}$",
+   "$10\\sqrt{3}$",
+   "$\\frac{5}{\\sqrt{3}}$",
+   "$5\\sqrt{3}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-008",
+  "subject": "physics",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 8,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "For which combination of working temperatures of source and sink, the efficiency of Carnot's heat engine is maximum ?",
+  "options": [
+   "600 K, 400 K",
+   "400 K, 200 K",
+   "500 K, 300 K",
+   "300 K, 100 K"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-009",
+  "subject": "physics",
+  "chapter": "thermal-properties-of-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 9,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A solid cylinder of radius R made of a material of thermal conductivity $K_1$ is surrounded by a cylindrical shell of inner radius R and outer radius 2R made of a material of thermal conductivity $K_2$. The two ends of the combined system are maintained at two different temperatures. Then there is no loss of heat across the cylindrical surface and the system is in steady state. The effective thermal conductivity of the system is",
+  "options": [
+   "$K_1 + K_2$",
+   "$\\frac{K_1 K_2}{K_1 + K_2}$",
+   "$\\frac{3K_1 + K_2}{4}$",
+   "$\\frac{K_1 + 3K_2}{4}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-010",
+  "subject": "physics",
+  "chapter": "thermal-properties-of-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 10,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Two stars A and B radiate maximum energy at the wavelengths of 360 nm and 480 nm respectively. Then the ratio of the surface temperatures of A and B is",
+  "options": [
+   "3 : 4",
+   "81 : 256",
+   "4 : 3",
+   "256 : 81"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-011",
+  "subject": "physics",
+  "chapter": "mechanical-properties-of-fluids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 11,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Two solids P and Q float in water. It is observed that P floats with half of its volume immersed and Q floats with $\\frac{2}{3}$ rd of its volume is immersed. The ratio of densities of P and Q is",
+  "options": [
+   "$\\frac{4}{3}$",
+   "$\\frac{3}{4}$",
+   "$\\frac{2}{3}$",
+   "$\\frac{3}{2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-012",
+  "subject": "physics",
+  "chapter": "waves",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 12,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The equation of a transverse wave is given by $y = 0.05 \\sin \\pi(2t - 0.02x)$, where $x$, $y$ are in metre and $t$ is in second. The minimum distance of separation between two particles which are in phase and the wave velocity are respectively $\\underline{\\hspace{2cm}}$",
+  "options": [
+   "50 m, 50 m s$^{-1}$",
+   "100 m, 100 m s$^{-1}$",
+   "50 m, 100 m s$^{-1}$",
+   "100 m, 50 m s$^{-1}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-013",
+  "subject": "physics",
+  "chapter": "waves",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 13,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The frequency of the second overtone of the open pipe is equal to the frequency of the first overtone of the closed pipe. The ratio of the lengths of the open pipe and the closed pipe is",
+  "options": [
+   "2 : 1",
+   "1 : 2",
+   "1 : 3",
+   "3 : 1"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-014",
+  "subject": "physics",
+  "chapter": "waves",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 14,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A person with vibrating tuning fork of frequency $338\\ \\mathrm{Hz}$ is moving towards a vertical wall with a speed of $2\\ \\mathrm{m\\,s^{-1}}$. Velocity of sound in air is $340\\ \\mathrm{m\\,s^{-1}}$. The number of beats heard by that person per second is",
+  "options": [
+   "2",
+   "4",
+   "6",
+   "8"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-015",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 15,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Pick out the WRONG statement from the following :",
+  "options": [
+   "Lateral shift increases as the angle of incidence increases.",
+   "Lateral shift increases as the value of refractive index increases.",
+   "Normal shift decreases as the value of refractive index increases.",
+   "Both normal shift and lateral shift are directly proportional to the thickness of the medium."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-016",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 16,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The refraction through the prisms are as shown. Pick out the WRONG statement from the following. Path of the light ray in",
+  "options": [
+   "a is correct if $n_2 > n_1$ and $n_2 > n_3$",
+   "b is correct if $n_1 = n_2$ and $n_2 > n_3$",
+   "c is correct if $n_2 < n_1$ and $n_2 = n_3$",
+   "d is correct if $n_1 > n_2$ and $n_2 < n_3$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2,
+   3
+  ],
+  "images": [
+   "pyq-2013-physics-016.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-017",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 17,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The distance between an object and its real image produced by a converging lens is $0.72\\ \\mathrm{m}$. The magnification is 2. What will be the magnification when the object is moved by $0.04\\ \\mathrm{m}$ towards the lens ?",
+  "options": [
+   "2",
+   "4",
+   "3",
+   "6"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-018",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 18,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The speed of light in media $M_1$ and $M_2$ are $1.5 \\times 10^8\\ \\mathrm{m\\,s^{-1}}$ and $2 \\times 10^8\\ \\mathrm{m\\,s^{-1}}$ respectively. A ray travels from medium $M_1$ to the medium $M_2$ with an angle of incidence $\\theta$. The ray suffers total internal reflection. Then the value of the angle of incidence $\\theta$ is",
+  "options": [
+   "$> \\sin^{-1}\\left(\\frac{3}{4}\\right)$",
+   "$< \\sin^{-1}\\left(\\frac{3}{4}\\right)$",
+   "$= \\sin^{-1}\\left(\\frac{4}{3}\\right)$",
+   "$\\leq \\sin^{-1}\\left(\\frac{3}{4}\\right)$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-019",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 19,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Which of the following phenomena support the wave theory of light ?\n\n(a) scattering\n\n(b) interference\n\n(c) diffraction\n\n(d) velocity of light in a denser medium is less than the velocity of light in the rarer medium",
+  "options": [
+   "a, b, c",
+   "a, b, d",
+   "b, c, d",
+   "a, c, d"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-020",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 20,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "White light reflected from a soap film (Refractive Index = 1.5) has a maxima at $600\\ \\mathrm{nm}$ and a minima at $450\\ \\mathrm{nm}$ with no minimum in between. Then the thickness of the film is $\\underline{\\hspace{2cm}} \\times 10^{-7}\\ \\mathrm{m}$.",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-021",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 21,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A cylindrical tube of length $0.2\\ \\mathrm{m}$ and radius R with sugar solution of concentration 'C' produce a rotation of $\\theta$ in the plane of vibration of a plane polarized light. The same sugar solution is transferred to another tube of length $0.3\\ \\mathrm{m}$ of same radius. The remaining gap is filled by distilled water. Now the optical rotation produced is",
+  "options": [
+   "$\\theta$",
+   "$2\\frac{\\theta}{3}$",
+   "$3\\frac{\\theta}{2}$",
+   "$9\\frac{\\theta}{4}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-022",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 22,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Radii of curvature of a converging lens are in the ratio $1 : 2$. Its focal length is $6\\ \\mathrm{cm}$ and refractive index is $1.5$. Then its radii of curvature are $\\underline{\\hspace{2cm}}$ respectively.",
+  "options": [
+   "9 cm and 18 cm",
+   "6 cm and 12 cm",
+   "3 cm and 6 cm",
+   "4.5 cm and 9 cm"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-023",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 23,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A small oil drop of mass $10^{-6}\\ \\mathrm{kg}$ is hanging in at rest between two plates separated by $1\\ \\mathrm{mm}$ having a potential difference of $500\\ \\mathrm{V}$. The charge on the drop is $\\underline{\\hspace{2cm}}$ ($g = 10\\ \\mathrm{ms^{-2}}$)",
+  "options": [
+   "$2 \\times 10^{-9}\\ \\mathrm{C}$",
+   "$2 \\times 10^{-11}\\ \\mathrm{C}$",
+   "$2 \\times 10^{-6}\\ \\mathrm{C}$",
+   "$2 \\times 10^{-8}\\ \\mathrm{C}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-024",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 24,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A uniform electric field in the plane of the paper as shown. Here A, B, C, D are the points on the circle. $V_1$, $V_2$, $V_3$, $V_4$ are the potentials at those points respectively. Then",
+  "options": [
+   "$V_A = V_C$, $V_B = V_D$",
+   "$V_A = V_C$, $V_B > V_D$",
+   "$V_A > V_C$, $V_B > V_D$",
+   "$V_A = V_B$, $V_C = V_D$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [
+   "pyq-2013-physics-024.png"
+  ],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2013-physics-025",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 25,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Two metal spheres of radii $0.01\\ \\mathrm{m}$ and $0.02\\ \\mathrm{m}$ are given a charge of $15\\ \\mathrm{mC}$ and $45\\ \\mathrm{mC}$ respectively. They are then connected by a wire. The final charge on the first sphere is $\\underline{\\hspace{2cm}} \\times 10^{-3}\\ \\mathrm{C}$.",
+  "options": [
+   "40",
+   "30",
+   "20",
+   "10"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-026",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 26,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Two concentric spheres of radii R and r have positive charges $q_1$ and $q_2$ with equal surface charge densities. What is the electric potential at their common centre ?",
+  "options": [
+   "$\\frac{\\sigma}{\\epsilon_0}(R + r)$",
+   "$\\frac{\\sigma}{\\epsilon_0}(R - r)$",
+   "$\\frac{\\sigma}{\\epsilon_0}\\left(\\frac{1}{R} + \\frac{1}{r}\\right)$",
+   "$\\frac{\\sigma}{\\epsilon_0}\\left(\\frac{R}{r}\\right)$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-027",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 27,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "When an additional charge of $2\\ \\mathrm{C}$ is given to a capacitor, energy stored in it is increased by $21\\%$. The original charge of the capacitor is",
+  "options": [
+   "30 C",
+   "40 C",
+   "10 C",
+   "20 C"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-028",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 28,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "When a potential difference of $10^3$ V is applied between A and B, a charge of $0.75\\ \\mathrm{mC}$ is stored in the system of capacitors as shown. The value of C is (in $\\mu$F)",
+  "options": [
+   "$\\frac{1}{2}$",
+   "2",
+   "2.5",
+   "3"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2013-physics-028.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-029",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 29,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "See the diagram. Area of each plate is $2.0\\ \\mathrm{m^2}$ and $d = 2 \\times 10^{-3}$ m. A charge of $8.85 \\times 10^{-8}$ C is given to Q. Then the potential of Q becomes",
+  "options": [
+   "13 V",
+   "10 V",
+   "6.67 V",
+   "8.825 V"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "pyq-2013-physics-029.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-030",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 30,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Three conductors draw currents of 1 A, 2 A and 3 A respectively, when connected in turn across a battery. If they are connected in series and the combination is connected across the same battery, the current drawn will be",
+  "options": [
+   "$\\frac{2}{7}$ A",
+   "$\\frac{3}{7}$ A",
+   "$\\frac{4}{7}$ A",
+   "$\\frac{5}{7}$ A"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2013-physics-031",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 31,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "In the circuit, $R_1 = R_2$. The value of E and $R_1$ are $\\underline{\\hspace{2cm}}$ (E - EMF, $R_1$ - resistance)",
+  "options": [
+   "180 V, 60 $\\Omega$",
+   "120 V, 60 $\\Omega$",
+   "180 V, 10 $\\Omega$",
+   "120 V, 10 $\\Omega$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [
+   "pyq-2013-physics-031.png"
+  ],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2013-physics-032",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 32,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Masses of three wires of copper are in the ratio of $1 : 3 : 5$ and their lengths are in the ratio of $5 : 3 : 1$. The ratio of their electrical resistances is",
+  "options": [
+   "1 : 3 : 5",
+   "5 : 3 : 1",
+   "1 : 15 : 125",
+   "125 : 15 : 1"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-033",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 33,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "For a transformer, the turns ratio is $3$ and its efficiency is $0.75$. The current flowing in the primary coil is $2\\ \\mathrm{A}$ and the voltage applied to it is $100\\ \\mathrm{V}$. Then the voltage and the current flowing in the secondary coil are $\\underline{\\hspace{2cm}}$ respectively.",
+  "options": [
+   "150 V, 1.5 A",
+   "300 V, 0.5 A",
+   "300 V, 1.5 A",
+   "150 V, 0.5 A"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-034",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 34,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A proton and helium nucleus are shot into a magnetic field at right angles to the field with same kinetic energy. Then the ratio of their radii is",
+  "options": [
+   "1 : 1",
+   "1 : 2",
+   "2 : 1",
+   "1 : 4"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-035",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 35,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Two identical circular coils A and B are kept on a horizontal tube side by side without touching each other. If the current in the coil A increases with time, in response, the coil B",
+  "options": [
+   "is attracted by A",
+   "remains stationary",
+   "is repelled",
+   "rotates"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-036",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 36,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "In the diagram, $I_1$, $I_2$ are the strength of the currents in the loop and straight conductors respectively. OA = AB = R. The net magnetic field at the centre O is zero. Then the ratio of the currents in the loop and the straight conductors is",
+  "options": [
+   "$\\pi$",
+   "$2\\pi$",
+   "$\\frac{1}{\\pi}$",
+   "$\\frac{1}{2\\pi}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2013-physics-036.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-037",
+  "subject": "physics",
+  "chapter": "magnetism-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 37,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Two tangent galvanometers, which are identical except in their number of turns, are connected in parallel. The ratio of their resistances of the coils is $1 : 3$. If the deflections in the two tangent galvanometers are $30^\\circ$ and $60^\\circ$ respectively, then the ratio of their number of turns is",
+  "options": [
+   "1 : 1",
+   "3 : 1",
+   "1 : 2",
+   "1 : 6"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2013-physics-038",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 38,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A charged particle with a velocity $2 \\times 10^3\\ \\mathrm{m\\,s^{-1}}$ passes undeflected through electric field and magnetic fields in mutually perpendicular directions. The magnetic field is $1.5\\ \\mathrm{T}$. The magnitude of electric field will be",
+  "options": [
+   "$1.5 \\times 10^3\\ \\mathrm{NC^{-1}}$",
+   "$2 \\times 10^3\\ \\mathrm{NC^{-1}}$",
+   "$3 \\times 10^3\\ \\mathrm{NC^{-1}}$",
+   "$1.33 \\times 10^3\\ \\mathrm{NC^{-1}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-039",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 39,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "In R-L-C series circuit, the potential differences across each element is $20\\ \\mathrm{V}$. Now the value of the resistance alone is doubled, then P.D. across R, L and C respectively",
+  "options": [
+   "20 V, 10 V, 10 V",
+   "20 V, 20 V, 20 V",
+   "20 V, 40 V, 40 V",
+   "10 V, 20 V, 20 V"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-040",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 40,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A rectangular coil of 100 turns and size $0.1\\ \\mathrm{m} \\times 0.05\\ \\mathrm{m}$ is placed perpendicular to a magnetic field of $0.1\\ \\mathrm{T}$. If the field drops to $0.05\\ \\mathrm{T}$ in $0.05$ second, the magnitude of the e.m.f. induced in the coil is",
+  "options": [
+   "$\\sqrt{2}$",
+   "$\\sqrt{3}$",
+   "$\\sqrt{0.6}$",
+   "$\\sqrt{6}$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2013-physics-041",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 41,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "In the circuit diagram, heat produces in R, 2R and 1.5R are in the ratio of",
+  "options": [
+   "4 : 2 : 3",
+   "8 : 4 : 27",
+   "2 : 4 : 3",
+   "27 : 8 : 4"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2013-physics-041.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-042",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 42,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A series combination of resistor (R), capacitor (C) is connected to an A.C. source of angular frequency '$\\omega$'. Keeping the voltage same, if the frequency is changed to $\\omega/3$, the current becomes half of the original current. Then the ratio of the capacitive reactance and resistance at the former frequency is",
+  "options": [
+   "$\\sqrt{0.6}$",
+   "$\\sqrt{3}$",
+   "$\\sqrt{2}$",
+   "$\\sqrt{6}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-043",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 43,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Pick out the correct statement from the following :",
+  "options": [
+   "Mercury vapour lamp produces line emission spectrum.",
+   "Oil flame produces line emission spectrum.",
+   "Band spectrum helps us to study molecular structure.",
+   "Sunlight spectrum is an example for line absorption spectrum."
+  ],
+  "answer": 0,
+  "accepted": [
+   0,
+   2,
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-044",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 44,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Light emitted during the deexcitation of electron from $n = 3$ to $n = 2$, when incident on a metal, photoelectrons are just emitted from that metal. In which of the following deexcitations photoelectric effect is not possible ?",
+  "options": [
+   "From $n = 2$ to $n = 1$",
+   "From $n = 3$ to $n = 1$",
+   "From $n = 5$ to $n = 2$",
+   "From $n = 4$ to $n = 3$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-045",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 45,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The additional energy that should be given to an electron to reduce its de-Broglie wavelength from $1\\ \\mathrm{nm}$ to $0.5\\ \\mathrm{nm}$ is",
+  "options": [
+   "2 times the initial kinetic energy",
+   "3 times the initial kinetic energy",
+   "0.5 times the initial kinetic energy",
+   "4 times the initial kinetic energy"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-046",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 46,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The ionisation energy of an electron in the ground state of helium atom is $24.6\\ \\mathrm{eV}$. The energy required to remove both the electron is",
+  "options": [
+   "51.8 eV",
+   "79 eV",
+   "38.2 eV",
+   "49.2 eV"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-047",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 47,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The figure shows the energy level of certain atom. When the electron deexcites from $3E$ to $E$, an electromagnetic wave of wavelength $\\lambda$ is emitted. What is the wavelength of the electromagnetic wave emitted when the electron deexcites from $\\frac{5E}{3}$ to $E$ ?",
+  "options": [
+   "$3\\lambda$",
+   "$2\\lambda$",
+   "$5\\lambda$",
+   "$\\frac{3\\lambda}{5}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2013-physics-047.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-048",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 48,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Maximum velocity of the photoelectron emitted by a metal is $1.8 \\times 10^6\\ \\mathrm{m\\,s^{-1}}$. Take the value of specific charge of the electron is $1.8 \\times 10^{11}\\ \\mathrm{C\\,kg^{-1}}$. Then the stopping potential in volt is",
+  "options": [
+   "1",
+   "3",
+   "9",
+   "6"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-049",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 49,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "$\\lambda_1$ and $\\lambda_2$ are used to illuminate the slits. $\\beta_1$ and $\\beta_2$ are the corresponding fringe widths. The wavelength $\\lambda_1$ can produce photoelectric effect when incident on a metal. But the wavelength $\\lambda_2$ cannot produce photoelectric effect. The correct relation between $\\beta_1$ and $\\beta_2$ is",
+  "options": [
+   "$\\beta_1 < \\beta_2$",
+   "$\\beta_1 = \\beta_2$",
+   "$\\beta_1 > \\beta_2$",
+   "$\\beta_1 \\geq \\beta_2$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-050",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 50,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Pick out the correct statement/s from the following :\n\n(a) Electron emission during $\\beta$-decay is always accompanied by neutrino.\n\n(b) Nuclear force is charge independent.\n\n(c) Fusion is the chief source of stellar energy.",
+  "options": [
+   "(a), (b) are correct.",
+   "(a), (c) are correct.",
+   "only (a) is correct.",
+   "(b), (c) are correct."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-051",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 51,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A nucleus ${}_{Z}X^{A}$ emits an $\\alpha$-particle with velocity $v$. The recoil speed of the daughter nucleus is",
+  "options": [
+   "$\\frac{A-4}{4v}$",
+   "$\\frac{4v}{A-4}$",
+   "$v$",
+   "$\\frac{v}{4}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-052",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 52,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A radioactive substance emits 100 beta particles in the first 2 seconds and 50 beta particles in the next 2 seconds. The mean life of the sample is",
+  "options": [
+   "4 seconds",
+   "2 seconds",
+   "$\\frac{2}{0.693}$ seconds",
+   "$2 \\times 0.693$ seconds"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-053",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 53,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "In which of the following statements, the obtained impure semiconductor is of p-type ?",
+  "options": [
+   "Germanium is doped with bismuth",
+   "Silicon is doped with antimony",
+   "Germanium is doped with gallium",
+   "Silicon is doped with phosphorus"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-054",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 54,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The width of the depletion region in a P-N junction diode is",
+  "options": [
+   "increased by reverse bias",
+   "increased by forward bias",
+   "decreased by reverse bias",
+   "independent of the bias voltage"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-055",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 55,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "When the transistor is used as an amplifier",
+  "options": [
+   "Emitter-base junction must be reverse biased, Collector-base junction must be forward biased.",
+   "Emitter-base junction must be forward biased, Collector-base junction must be forward biased.",
+   "Emitter-base junction must be reverse biased, Collector-base junction must be reverse biased.",
+   "Emitter-base junction must be forward biased, Collector-base junction must be reverse biased."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-056",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 56,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Which of the following is not made by quarks ?",
+  "options": [
+   "Neutron",
+   "Positron",
+   "Proton",
+   "$\\pi$-meson"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-057",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 57,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "Which one of the following is NOT correct ?",
+  "options": [
+   "In forward biased condition diode conducts.",
+   "If the packing fraction is negative, the element is stable.",
+   "Binding energy is the energy equivalent to mass defect.",
+   "Radioactive element can undergo spontaneous fission."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-058",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 58,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The output of an OR gate is connected to both the inputs of a NAND gate. The combination will serve as",
+  "options": [
+   "AND gate",
+   "NOT gate",
+   "NAND gate",
+   "NOR gate"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-059",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 59,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "A and B are the two radioactive elements. The mixture of these elements show a total activity of 1200 disintegrations/minute. The half life of A is 1 day and that of B is 2 days. What will be the total activity after 4 days ? Given : The initial number of atoms in A and B are equal.",
+  "options": [
+   "200 dis/min",
+   "250 dis/min",
+   "500 dis/min",
+   "150 dis/min"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2013-physics-060",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2013",
+   "year": 2013,
+   "version": "A1",
+   "number": 60,
+   "file": "sources/pyq/2013/physics/2013-physics-question_paper-A1-aglasem.pdf",
+   "page": 15,
+   "key_file": "sources/pyq/2013/physics/2013-physics-answer_key_final-all-kea-wayback.pdf"
+  },
+  "stem": "The binding energy/nucleon of deuteron $\\left({}_{1}H^{2}\\right)$ and the helium atom $\\left({}_{2}He^{4}\\right)$ are 1.1 MeV and 7 MeV respectively. If the two deuteron atoms fuse to form a single helium atom, then the energy released is",
+  "options": [
+   "26.9 MeV",
+   "25.8 MeV",
+   "23.6 MeV",
+   "12.9 MeV"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

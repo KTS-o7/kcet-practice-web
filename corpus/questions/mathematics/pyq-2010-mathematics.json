@@ -1,0 +1,2103 @@
+[
+ {
+  "id": "pyq-2010-mathematics-001",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 1,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "The chord of the circle $x^2+y^2-4x=0$ which is bisected at $(1, 0)$ is perpendicular to the line",
+  "options": [
+   "$x=1$",
+   "$y=1$",
+   "$y=x$",
+   "$x+y=0$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-002",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 2,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "In $\\Delta ABC$, if $a=2$, $B=\\tan^{-1}\\frac{1}{2}$ and $C=\\tan^{-1}\\frac{1}{3}$, then $(A, b)=$",
+  "options": [
+   "$\\left(\\frac{3\\pi}{4}, \\frac{2\\sqrt{2}}{\\sqrt{5}}\\right)$",
+   "$\\left(\\frac{\\pi}{4}, \\frac{2}{\\sqrt{5}}\\right)$",
+   "$\\left(\\frac{3\\pi}{4}, \\frac{2}{\\sqrt{5}}\\right)$",
+   "$\\left(\\frac{\\pi}{4}, \\frac{2\\sqrt{2}}{\\sqrt{5}}\\right)$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-003",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 3,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "The straight line $2x+3y-k=0$, $k>0$ cuts the $X$- and $Y$-axes at $A$ and $B$. The area of $\\Delta OAB$, where $O$ is the origin, is $12$ sq. units. The equation of the circle having $AB$ as diameter is",
+  "options": [
+   "$x^2+y^2-6x+4y=0$",
+   "$x^2+y^2-4x-6y=0$",
+   "$x^2+y^2-6x-4y=0$",
+   "$x^2+y^2+4x-6y=0$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-004",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 4,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "Let $P(x, y)$ be the midpoint of the line joining $(1, 0)$ to a point on the curve $y^2=\\begin{vmatrix} x+1 & x+2 \\\\ x+3 & x+5 \\end{vmatrix}$. The locus of $P$ is symmetrical about",
+  "options": [
+   "$x=1$",
+   "$y=1$",
+   "Y-axis",
+   "X-axis"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-005",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 5,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "The function $f(x)=|x-2|+x$ is",
+  "options": [
+   "continuous at $x = 2$ but not at $x = 0$.",
+   "continuous at both $x = 2$ and $x = 0$.",
+   "differentiable at both $x = 2$ and $x = 0$.",
+   "differentiable at $x = 2$ but not at $x = 0$."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-006",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 6,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "If $a, -a, b$ are the roots of $x^3-5x^2-x+5=0$, then $b$ is a root of",
+  "options": [
+   "$x^2-3x-10=0$",
+   "$x^2+5x-30=0$",
+   "$x^2+3x-20=0$",
+   "$x^2-5x+10=0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-007",
+  "subject": "mathematics",
+  "chapter": "binomial-theorem",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 7,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "In the binomial expansion of $(1+x)^{15}$, the coefficients of $x^r$ and $x^{r+3}$ are equal. Then $r$ is",
+  "options": [
+   "$4$",
+   "$6$",
+   "$8$",
+   "$7$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-008",
+  "subject": "mathematics",
+  "chapter": "sequences-and-series",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 8,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "The $n^{th}$ term of the series $1+3+7+13+21+\\ldots$ is $9901$. The value of $n$ is",
+  "options": [
+   "$900$",
+   "$99$",
+   "$100$",
+   "$90$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-009",
+  "subject": "mathematics",
+  "chapter": "sequences-and-series",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 9,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "If $\\frac{1}{(3-5x)(2+3x)}=\\frac{A}{3-5x}+\\frac{B}{2+3x}$, then $A:B$ is",
+  "options": [
+   "$3:5$",
+   "$3:2$",
+   "$2:3$",
+   "$5:3$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-010",
+  "subject": "mathematics",
+  "chapter": "mathematical-reasoning",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 10,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "Which of the following is NOT true?",
+  "options": [
+   "$p\\rightarrow(q\\wedge r)\\equiv(p\\rightarrow q)\\wedge(p\\rightarrow r)$.",
+   "$\\sim(p\\leftrightarrow q)\\equiv(p\\wedge\\sim q)\\vee(\\sim p\\wedge q)$.",
+   "$(p\\wedge\\sim q)\\leftrightarrow(p\\rightarrow q)$ is a tautology.",
+   "$\\{(p\\rightarrow q)\\wedge(q\\rightarrow r)\\}\\rightarrow(p\\rightarrow r)$ is a tautology."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-011",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions-11",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 11,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "Let $R$ be an equivalence relation defined on a set containing $6$ elements. The minimum number of ordered pairs that $R$ should contain is",
+  "options": [
+   "$64$",
+   "$36$",
+   "$12$",
+   "$6$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-012",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 12,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "The line joining $A(2,-7)$ and $B(6,5)$ is divided into $4$ equal parts by the points $P$, $Q$ and $R$ such that $AQ=RP=QB$. The midpoint of $PR$ is",
+  "options": [
+   "$(4,-1)$",
+   "$(8,-2)$",
+   "$(4,12)$",
+   "$(-8,1)$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-013",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 13,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "Let $P\\equiv(-1,0)$, $Q\\equiv(0,0)$ and $R\\equiv\\left(3,3\\sqrt{3}\\right)$ be three points. The equation of the bisector of the angle $PQR$ is",
+  "options": [
+   "$x+\\sqrt{3}\\,y=0$",
+   "$\\sqrt{3}\\,x+y=0$",
+   "$x-\\sqrt{3}\\,y=0$",
+   "$\\sqrt{3}\\,x-y=0$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-014",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 14,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "If $m$ is the slope of one of the lines represented by $ax^2+2hxy+by^2=0$, then $(h+bm)^2=$",
+  "options": [
+   "$h^2+ab$",
+   "$h^2-ab$",
+   "$(a+b)^2$",
+   "$(a-b)^2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-015",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 15,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "$\\cot 12^\\circ\\cot 102^\\circ+\\cot 102^\\circ\\cot 66^\\circ+\\cot 66^\\circ\\cot 12^\\circ=$",
+  "options": [
+   "$-1$",
+   "$2$",
+   "$-2$",
+   "$1$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-016",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 16,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "$(\\sin\\theta+\\cos\\theta)(\\tan\\theta+\\cot\\theta)=$",
+  "options": [
+   "$\\sec\\theta+\\mathrm{cosec}\\,\\theta$",
+   "$\\sec\\theta\\cdot\\mathrm{cosec}\\,\\theta$",
+   "$\\sin\\theta\\cdot\\cos\\theta$",
+   "$1$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-017",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 17,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "The sides of a triangle are $6+\\sqrt{12}$, $\\sqrt{48}$ and $\\sqrt{24}$. The tangent of the smallest angle of the triangle is",
+  "options": [
+   "$\\sqrt{3}$",
+   "$1$",
+   "$\\frac{1}{\\sqrt{3}}$",
+   "$\\sqrt{2}-1$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-018",
+  "subject": "mathematics",
+  "chapter": "permutations-and-combinations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 18,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "A simple graph contains $24$ edges. Degree of each vertex is $3$. The number of vertices is",
+  "options": [
+   "$21$",
+   "$16$",
+   "$8$",
+   "$12$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-019",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 19,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "$\\lim_{n\\to\\infty}\\left\\{n\\sin\\frac{2\\pi}{3n}\\cdot\\cos\\frac{2\\pi}{3n}\\right\\}=$",
+  "options": [
+   "$1$",
+   "$\\frac{\\pi}{3}$",
+   "$\\frac{\\pi}{6}$",
+   "$\\frac{2\\pi}{3}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-020",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 20,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "The function $f(x)=[x]$, where $[x]$ denotes the greatest integer not greater than $x$, is",
+  "options": [
+   "continuous for all real values of $x$.",
+   "continuous only at rational values of $x$.",
+   "continuous for all nonintegral values of $x$.",
+   "continuous only at positive integral values of $x$."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-021",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 21,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "If $a>b>0$, $\\sec^{-1}\\left(\\frac{a+b}{a-b}\\right)=2\\sin^{-1}x$, then $x=$",
+  "options": [
+   "$-\\sqrt{\\frac{a}{a+b}}$",
+   "$\\sqrt{\\frac{a}{a+b}}$",
+   "$-\\sqrt{\\frac{b}{a+b}}$",
+   "$\\sqrt{\\frac{b}{a+b}}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-022",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 22,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "If $x\\neq n\\pi$, $x\\neq\\frac{(2n+1)\\pi}{2}$, $n\\in\\mathbb{Z}$, then $\\frac{\\sin^{-1}(\\cos x)+\\cos^{-1}(\\sin x)}{\\tan^{-1}(\\cot x)+\\cot^{-1}(\\tan x)}=$",
+  "options": [
+   "$\\frac{\\pi}{4}$",
+   "$\\frac{\\pi}{3}$",
+   "$\\frac{\\pi}{2}$",
+   "$\\frac{\\pi}{6}$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-023",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 23,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "The general solution of $1+\\sin^2x=3\\sin x\\cdot\\cos x$, $\\tan x\\neq\\frac{1}{2}$ is",
+  "options": [
+   "$n\\pi-\\frac{\\pi}{4},\\ n\\in\\mathbb{Z}$",
+   "$n\\pi+\\frac{\\pi}{4},\\ n\\in\\mathbb{Z}$",
+   "$2n\\pi+\\frac{\\pi}{4},\\ n\\in\\mathbb{Z}$",
+   "$2n\\pi-\\frac{\\pi}{4},\\ n\\in\\mathbb{Z}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-024",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 24,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "The least positive integer $n$, for which $\\frac{(1+i)^n}{(1-i)^{n-2}}$ is positive, is",
+  "options": [
+   "$1$",
+   "$2$",
+   "$3$",
+   "$4$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-025",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 25,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "If $x+iy=\\left(-1+i\\sqrt{3}\\right)^{2010}$, then $x=$",
+  "options": [
+   "$1$",
+   "$-1$",
+   "$-2^{2010}$",
+   "$2^{2010}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-026",
+  "subject": "mathematics",
+  "chapter": "principle-of-mathematical-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 26,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "The greatest value of $x$ satisfying $21\\equiv385 \\pmod{x}$ and $587\\equiv167 \\pmod{x}$ is",
+  "options": [
+   "$28$",
+   "$56$",
+   "$156$",
+   "$32$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-027",
+  "subject": "mathematics",
+  "chapter": "principle-of-mathematical-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 27,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "The number $\\left(49^2-4\\right)\\left(49^3-49\\right)$ is divisible by",
+  "options": [
+   "$6!$",
+   "$5!$",
+   "$7!$",
+   "$9!$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0,
+   1,
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-028",
+  "subject": "mathematics",
+  "chapter": "principle-of-mathematical-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 28,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "The least positive integer $x$ satisfying $2^{2010}\\equiv 3x \\pmod{5}$ is",
+  "options": [
+   "$1$",
+   "$2$",
+   "$3$",
+   "$4$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-029",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 29,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "If $A$ and $B$ are two square matrices of the same order such that $AB=B$ and $BA=A$, then $A^2+B^2$ is always equal to",
+  "options": [
+   "$2AB$",
+   "$2BA$",
+   "$I$",
+   "$A+B$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-030",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 30,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "If $A$ is a $3\\times3$ nonsingular matrix and $|A|=3$, then $\\left|(2A)^{-1}\\right|=$",
+  "options": [
+   "$\\frac{1}{3}$",
+   "$\\frac{1}{24}$",
+   "$24$",
+   "$3$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-031",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 31,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "If $A=\\begin{bmatrix}3&2\\\\1&1\\end{bmatrix}$, then $A^2+xA+yI=0$ for $(x, y)=$",
+  "options": [
+   "$(4,-1)$",
+   "$(1, 3)$",
+   "$(-4, 1)$",
+   "$(-1, 3)$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-032",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 32,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "The constant term of the polynomial $\\begin{vmatrix} x+3 & x & x+2 \\\\ x & x+1 & x-1 \\\\ x+2 & 2x & 3x+1 \\end{vmatrix}$ is",
+  "options": [
+   "$-1$",
+   "$1$",
+   "$0$",
+   "$2$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-033",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 33,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "If $\\vec{a}$, $\\vec{b}$ and $\\vec{c}$ are nonzero coplanar vectors, then $\\left[\\,2\\vec{a}-\\vec{b}\\;\\;3\\vec{b}-\\vec{c}\\;\\;4\\vec{c}-\\vec{a}\\,\\right]=$",
+  "options": [
+   "$27$",
+   "$9$",
+   "$25$",
+   "$0$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-034",
+  "subject": "mathematics",
+  "chapter": "three-dimensional-geometry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 34,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "A space vector makes the angles $150^\\circ$ and $60^\\circ$ with the positive direction of $X$- and $Y$-axes. The angle made by the vector with the positive direction of $Z$-axis is",
+  "options": [
+   "$180^\\circ$",
+   "$120^\\circ$",
+   "$90^\\circ$",
+   "$60^\\circ$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-035",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 35,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "If $\\vec{a}$, $\\vec{b}$ and $\\vec{c}$ are unit vectors, such that $\\vec{a}+\\vec{b}+\\vec{c}=\\vec{0}$, then $3\\,\\vec{a}\\cdot\\vec{b}+2\\,\\vec{b}\\cdot\\vec{c}+\\vec{c}\\cdot\\vec{a}=$",
+  "options": [
+   "$-3$",
+   "$3$",
+   "$-1$",
+   "$1$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-036",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 36,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "If $i, j, k$ are unit vectors along the positive direction of $X$-, $Y$- and $Z$-axes, then a FALSE statement in the following is",
+  "options": [
+   "$\\sum i\\cdot(j\\times k)=0$",
+   "$\\sum i\\cdot(j+k)=0$",
+   "$\\sum i\\times(j+k)=\\vec{0}$",
+   "$\\sum i\\times(j\\times k)=\\vec{0}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-037",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 37,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "In $P(X)$, the power set of a nonempty set $X$, a binary operation $*$ is defined by $A*B=A\\cup B\\ \\forall A,B\\in P(X)$. Under $*$, a TRUE statement is",
+  "options": [
+   "commutative law is not satisfied.",
+   "associative law is not satisfied.",
+   "identity law is not satisfied.",
+   "inverse law is not satisfied."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-038",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 38,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "The inverse of $2010$ in the group $Q^{+}$ of all positive rationals under the binary operation $*$ defined by $a*b=\\frac{ab}{2010}$, $\\forall a,b\\in Q^{+}$, is",
+  "options": [
+   "$1$",
+   "$2010$",
+   "$2009$",
+   "$2011$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-039",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 39,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "If the three functions $f(x)$, $g(x)$ and $h(x)$ are such that $h(x)=f(x)\\cdot g(x)$ and $f'(x)\\cdot g'(x)=c$, where $c$ is a constant, then $\\frac{f''(x)}{f(x)}+\\frac{g''(x)}{g(x)}+\\frac{2c}{f(x)\\cdot g(x)}$ is equal to",
+  "options": [
+   "$\\frac{h''(x)}{h(x)}$",
+   "$\\frac{h(x)}{h'(x)}$",
+   "$h'(x)\\cdot h''(x)$",
+   "$\\frac{h(x)}{h''(x)}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-040",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 40,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "The derivative of $e^{ax}\\cos bx$ with respect to $x$ is $re^{ax}\\cos\\left(bx+\\tan^{-1}\\frac{b}{a}\\right)$. When $a>0$, $b>0$, the value of $r$ is",
+  "options": [
+   "$ab$",
+   "$a+b$",
+   "$\\sqrt{a^2+b^2}$",
+   "$\\frac{1}{\\sqrt{ab}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-041",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 41,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "If $x=a\\cos^3\\theta$ and $y=a\\sin^3\\theta$, then $\\frac{dy}{dx}=$",
+  "options": [
+   "$-\\sqrt[3]{\\frac{x}{y}}$",
+   "$-\\sqrt[3]{\\frac{y}{x}}$",
+   "$\\sqrt[3]{\\frac{y}{x}}$",
+   "$\\sqrt[3]{\\frac{x}{y}}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-042",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 42,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "If $y=\\tan^{-1}\\sqrt{x^2-1}$, then the ratio $\\frac{d^2y}{dx^2}:\\frac{dy}{dx}=$",
+  "options": [
+   "$\\frac{1+2x^2}{x(x^2+1)}$",
+   "$\\frac{x(x^2+1)}{1-2x^2}$",
+   "$\\frac{x(x^2-1)}{1+2x^2}$",
+   "$\\frac{1-2x^2}{x(x^2-1)}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-043",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 43,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "$P$ is the point of contact of the tangent from the origin to the curve $y=\\log_e x$. The length of the perpendicular drawn from the origin to the normal at $P$ is",
+  "options": [
+   "$2\\sqrt{e^2+1}$",
+   "$\\sqrt{e^2+1}$",
+   "$\\frac{1}{2e}$",
+   "$\\frac{1}{e}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-044",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 44,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "For the curve $4x^5=5y^4$, the ratio of the cube of the subtangent at a point on the curve to the square of the subnormal at the same point is",
+  "options": [
+   "$\\left(\\frac{4}{5}\\right)^4$",
+   "$\\left(\\frac{5}{4}\\right)^4$",
+   "$x\\left(\\frac{4}{5}\\right)^4$",
+   "$y\\left(\\frac{5}{4}\\right)^4$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-045",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 45,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "The set of real values of $x$ for which $f(x)=\\frac{x}{\\log x}$ is increasing, is",
+  "options": [
+   "$\\{x : x<e\\}$",
+   "$\\{1\\}$",
+   "$\\{x : x\\geq e\\}$",
+   "empty"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-046",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 46,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "A wire of length $20$ cm is bent in the form of a sector of a circle. The maximum area that can be enclosed by the wire is",
+  "options": [
+   "10 sq. cm",
+   "30 sq. cm",
+   "20 sq. cm",
+   "25 sq. cm"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-047",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 47,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "Two circles centered at $(2, 3)$ and $(5, 6)$ intersect each other. If the radii are equal, the equation of the common chord is",
+  "options": [
+   "$x+y-8=0$",
+   "$x-y-8=0$",
+   "$x+y+1=0$",
+   "$x-y+1=0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-048",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 48,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "Equation of the circle centered at $(4, 3)$ touching the circle $x^2+y^2=1$ externally, is",
+  "options": [
+   "$x^2+y^2+8x-6y+9=0$",
+   "$x^2+y^2-8x+6y+9=0$",
+   "$x^2+y^2-8x-6y+9=0$",
+   "$x^2+y^2+8x+6y+9=0$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-049",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 49,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "The points $(1, 0)$, $(0, 1)$, $(0, 0)$ and $(2k, 3k)$, $k\\neq 0$ are concyclic if $k=$",
+  "options": [
+   "$-\\frac{5}{13}$",
+   "$\\frac{5}{13}$",
+   "$\\frac{1}{5}$",
+   "$-\\frac{1}{5}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-050",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 50,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "The locus of the point of intersection of the tangents drawn at the ends of a focal chord of the parabola $x^2=-8y$ is",
+  "options": [
+   "$y=2$",
+   "$y=-2$",
+   "$x=2$",
+   "$x=-2$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-051",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 51,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "The condition for the line $y=mx+c$ to be a normal to the parabola $y^2=4ax$ is",
+  "options": [
+   "$c=\\frac{a}{m}$",
+   "$c=2am+am^3$",
+   "$c=-2am-am^3$",
+   "$c=-\\frac{a}{m}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-052",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 52,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "The eccentric angle of the point $\\left(2, \\sqrt{3}\\right)$ lying on $\\frac{x^2}{16}+\\frac{y^2}{4}=1$ is",
+  "options": [
+   "$\\frac{\\pi}{3}$",
+   "$\\frac{\\pi}{6}$",
+   "$\\frac{\\pi}{4}$",
+   "$\\frac{\\pi}{2}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-053",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 53,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "The distance of the focus of $x^2-y^2=4$, from the directrix which is nearer to it, is",
+  "options": [
+   "$2\\sqrt{2}$",
+   "$\\sqrt{2}$",
+   "$4\\sqrt{2}$",
+   "$8\\sqrt{2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-054",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 54,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "If $\\int f(x)\\sin x\\cdot\\cos x\\,dx=\\frac{1}{2(b^2-a^2)}\\log f(x)+c$, where $c$ is the constant of integration, then $f(x)=$",
+  "options": [
+   "$\\frac{2}{ab\\sin 2x}$",
+   "$\\frac{2}{(b^2-a^2)\\sin 2x}$",
+   "$\\frac{2}{ab\\cos 2x}$",
+   "$\\frac{2}{(b^2-a^2)\\cos 2x}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-055",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 55,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "If $\\int\\frac{\\sqrt{x}}{x(x+1)}\\,dx=k\\tan^{-1}m$, then $(k, m)$ is",
+  "options": [
+   "$(1, \\sqrt{x})$",
+   "$(2, \\sqrt{x})$",
+   "$(2, x)$",
+   "$(1, x)$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-056",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 56,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "$\\int_0^{\\pi/4}\\frac{\\sin x+\\cos x}{3+\\sin 2x}\\,dx=$",
+  "options": [
+   "$\\frac{1}{2}\\log 3$",
+   "$2\\log 3$",
+   "$\\frac{1}{4}\\log 3$",
+   "$\\log 3$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-057",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 57,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "$\\int_0^1 x(1-x)^{3/2}\\,dx=$",
+  "options": [
+   "$\\frac{24}{35}$",
+   "$-\\frac{8}{35}$",
+   "$-\\frac{2}{35}$",
+   "$\\frac{4}{35}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-058",
+  "subject": "mathematics",
+  "chapter": "application-of-integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 58,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "The area bounded by the curve $y=\\begin{cases}x^2, & x<0\\\\ x, & x\\geq 0\\end{cases}$ and the line $y=4$ is",
+  "options": [
+   "$\\frac{40}{3}$",
+   "$\\frac{16}{3}$",
+   "$\\frac{32}{3}$",
+   "$\\frac{8}{3}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-059",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 59,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "The order and degree of the differential equation $y=\\frac{dp}{dx}x+\\sqrt{a^2p^2+b^2}$, where $p=\\frac{dy}{dx}$ (here $a$ and $b$ are arbitrary constants), respectively are",
+  "options": [
+   "$1, 2$",
+   "$2, 1$",
+   "$2, 2$",
+   "$1, 1$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2010-mathematics-060",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2010",
+   "year": 2010,
+   "version": "A1",
+   "number": 60,
+   "file": "sources/pyq/2010/mathematics/2010-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2010/physics/2010-physics-answer_key-A1-aglasem.pdf"
+  },
+  "stem": "The general solution of the differential equation $2x\\frac{dy}{dx}-y=3$ is a family of",
+  "options": [
+   "straight lines",
+   "circles",
+   "hyperbolas",
+   "parabolas"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

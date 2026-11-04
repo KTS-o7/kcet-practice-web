@@ -1,0 +1,536 @@
+[
+ {
+  "id": "tp-ncert-chem-11-ch12-001",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep512.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep512.pdf"
+  },
+  "stem": "Which of the following is the correct IUPAC name?",
+  "options": [
+   "3-Ethyl-4, 4-dimethylheptane",
+   "4,4-Dimethyl-3-ethylheptane",
+   "5-Ethyl-4, 4-dimethylheptane",
+   "4,4-Bis(methyl)-3-ethylheptane"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "disputed",
+   "notes": "Key (ii) read correctly from NCERT answer page, but IUPAC requires alphabetical order (ethyl before dimethyl) so 3-Ethyl-4,4-dimethylheptane (i) is the correct name; (ii) lists substituents non-alphabetically. Official key appears wrong.",
+   "status_reason": "solver disagrees with unofficial key"
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch12-002",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep512.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep512.pdf"
+  },
+  "stem": "The IUPAC name for $\\mathrm{CH_3-C(=O)-CH_2-CH_2-C(=O)-OH}$ is ________.",
+  "options": [
+   "1-hydroxypentane-1,4-dione",
+   "1,4-dioxopentanol",
+   "1-carboxybutan-3-one",
+   "4-oxopentanoic acid"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch12-003",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep512.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep512.pdf"
+  },
+  "stem": "The IUPAC name for",
+  "options": [
+   "1-Chloro-2-nitro-4-methylbenzene",
+   "1-Chloro-4-methyl-2-nitrobenzene",
+   "2-Chloro-1-nitro-5-methylbenzene",
+   "m-Nitro-p-chlorotoluene"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-chem-11-ch12-003.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch12-004",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep512.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep512.pdf"
+  },
+  "stem": "Electronegativity of carbon atoms depends upon their state of hybridisation. In which of the following compounds, the carbon marked with asterisk is most electronegative?",
+  "options": [
+   "$\\mathrm{CH_3-CH_2-{*}CH_2-CH_3}$",
+   "$\\mathrm{CH_3-{*}CH=CH-CH_3}$",
+   "$\\mathrm{CH_3-CH_2-C\\equiv {*}CH}$",
+   "$\\mathrm{CH_3-CH_2-CH={*}CH_2}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch12-005",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep512.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep512.pdf"
+  },
+  "stem": "In which of the following, functional group isomerism is not possible?",
+  "options": [
+   "Alcohols",
+   "Aldehydes",
+   "Alkyl halides",
+   "Cyanides"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch12-006",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep512.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep512.pdf"
+  },
+  "stem": "The fragrance of flowers is due to the presence of some steam volatile organic compounds called essential oils. These are generally insoluble in water at room temperature but are miscible with water vapour in vapour phase. A suitable method for the extraction of these oils from the flowers is:",
+  "options": [
+   "Distillation",
+   "Crystallisation",
+   "Distillation under reduced pressure",
+   "Steam distillation"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch12-007",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 7,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep512.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep512.pdf"
+  },
+  "stem": "During hearing of a court case, the judge suspected that some changes in the documents had been carried out. He asked the forensic department to check the ink used at two different places. According to you which technique can give the best results?",
+  "options": [
+   "Column chromatography",
+   "Solvent extraction",
+   "Distillation",
+   "Thin layer chromatography"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch12-008",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 8,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep512.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep512.pdf"
+  },
+  "stem": "The principle involved in paper chromatography is",
+  "options": [
+   "Adsorption",
+   "Partition",
+   "Solubility",
+   "Volatility"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch12-009",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 9,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep512.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep512.pdf"
+  },
+  "stem": "What is the correct order of decreasing stability of the following cations.",
+  "options": [
+   "II > I > III",
+   "II > III > I",
+   "III > I > II",
+   "I > II > III"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-ncert-chem-11-ch12-009.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch12-010",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 10,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep512.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep512.pdf"
+  },
+  "stem": "Correct IUPAC name for $\\mathrm{H_3C-\\underset{C_2H_5}{CH}-\\underset{C_2H_5}{CH}-CH_3}$ is ___________.",
+  "options": [
+   "2- ethyl-3-methylpentane",
+   "3,4- dimethylhexane",
+   "2-sec-butylbutane",
+   "2, 3-dimethylbutane"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch12-011",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 11,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep512.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep512.pdf"
+  },
+  "stem": "In which of the following compounds the carbon marked with asterisk is expected to have greatest positive charge?",
+  "options": [
+   "$\\mathrm{{*}CH_3-CH_2-Cl}$",
+   "$\\mathrm{{*}CH_3-CH_2-Mg^{+}Cl^{-}}$",
+   "$\\mathrm{{*}CH_3-CH_2-Br}$",
+   "$\\mathrm{{*}CH_3-CH_2-CH_3}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch12-012",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 12,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep512.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep512.pdf"
+  },
+  "stem": "Ionic species are stabilised by the dispersal of charge. Which of the following carboxylate ion is the most stable?",
+  "options": [
+   "$\\mathrm{CH_3-C(=O)-O^{-}}$",
+   "$\\mathrm{Cl-CH_2-C(=O)-O^{-}}$",
+   "$\\mathrm{F-CH_2-C(=O)-O^{-}}$",
+   "$\\mathrm{F_2CH-C(=O)-O^{-}}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch12-013",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 13,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep512.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep512.pdf"
+  },
+  "stem": "Electrophilic addition reactions proceed in two steps. The first step involves the addition of an electrophile. Name the type of intermediate formed in the first step of the following addition reaction.\n\n$\\mathrm{H_3C-HC{=}CH_2 + H^{+} \\longrightarrow ?}$",
+  "options": [
+   "2$^\\circ$ Carbanion",
+   "1$^\\circ$ Carbocation",
+   "2$^\\circ$ Carbocation",
+   "1$^\\circ$ Carbanion"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch12-014",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 14,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep512.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep512.pdf"
+  },
+  "stem": "Covalent bond can undergo fission in two different ways. The correct representation involving a heterolytic fission of $\\mathrm{CH_3-Br}$ is",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-chem-11-ch12-014.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "key_confirmed",
+   "notes": "Arrow from bond toward Br gives CH3+ and Br-; matches key (ii); transcription verified."
+  }
+ },
+ {
+  "id": "tp-ncert-chem-11-ch12-015",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 15,
+   "file": "sources/third-party/chemistry/ncert-exemplar-11/keep512.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/chemistry/ncert-exemplar-11/keep512.pdf"
+  },
+  "stem": "The addition of HCl to an alkene proceeds in two steps. The first step is the attack of $\\mathrm{H^{+}}$ ion to $\\mathrm{\\rangle C{=}C\\langle}$ portion which can be shown as",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-chem-11-ch12-015.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

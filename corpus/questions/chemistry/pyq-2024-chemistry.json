@@ -949,7 +949,7 @@
  {
   "id": "pyq-2024-chemistry-028",
   "subject": "chemistry",
-  "chapter": "some-basic-concepts-of-chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
   "source": {
    "type": "pyq",
    "name": "KCET 2024",
@@ -1290,7 +1290,7 @@
   "in_syllabus": true,
   "checks": {
    "key_official": true,
-   "blind_haiku": 2,
+   "blind_haiku": 1,
    "verify": "key_confirmed",
    "notes": "Transcription matches page 9; 0.1 mol H2O needs 0.2 F = 1.93e4 C; matches key."
   }
@@ -1643,7 +1643,7 @@
  {
   "id": "pyq-2024-chemistry-048",
   "subject": "chemistry",
-  "chapter": "the-p-block-elements-12",
+  "chapter": "the-p-block-elements-11",
   "source": {
    "type": "pyq",
    "name": "KCET 2024",
@@ -1712,7 +1712,7 @@
  {
   "id": "pyq-2024-chemistry-050",
   "subject": "chemistry",
-  "chapter": "the-p-block-elements-12",
+  "chapter": "the-p-block-elements-11",
   "source": {
    "type": "pyq",
    "name": "KCET 2024",
