@@ -1,0 +1,2174 @@
+[
+ {
+  "id": "pyq-2022-mathematics-001",
+  "subject": "mathematics",
+  "chapter": "introduction-to-three-dimensional-geometry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 1,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 1,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The octant in which the point $(2,-4,-7)$ lies is",
+  "options": [
+   "Eighth",
+   "Third",
+   "Fourth",
+   "Fifth"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "fixed",
+   "proofread_changes": "stem: added missing 'lies is'; option A 'Eight' -> 'Eighth'"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-002",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 2,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 1,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $f(x)=\\begin{cases}x^2-1, & 0<x<2\\\\ 2x+3, & 2\\le x<3\\end{cases}$ the quadratic equation whose roots are $\\lim_{x\\to2^-}f(x)$ and $\\lim_{x\\to2^+}f(x)$ is",
+  "options": [
+   "$x^2-14x+49=0$",
+   "$x^2-10x+21=0$",
+   "$x^2-6x+9=0$",
+   "$x^2-7x+8=0$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-003",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 3,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 1,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $3x+i(4x-y)=6-i$ where $x$ and $y$ are real numbers, then the values of $x$ and $y$ are respectively,",
+  "options": [
+   "$3,\\ 9$",
+   "$2,\\ 4$",
+   "$2,\\ 9$",
+   "$3,\\ 4$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "fixed",
+   "proofread_changes": "stem: added missing 'are'"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-004",
+  "subject": "mathematics",
+  "chapter": "permutations-and-combinations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 4,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 1,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If all permutations of the letters of the word MASK are arranged in the order as in dictionary with or without meaning, which one of the following is $19^{\\mathrm{th}}$ word",
+  "options": [
+   "KAMS",
+   "SAMK",
+   "AKMS",
+   "AMSK"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "fixed",
+   "proofread_changes": "stem: 'without meaning' -> 'with or without meaning'",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-005",
+  "subject": "mathematics",
+  "chapter": "sequences-and-series",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 5,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 1,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $a_1,a_2,a_3,\\ldots,a_{10}$ is a geometric progression and $\\frac{a_3}{a_1}=25$, then $\\frac{a_9}{a_5}$ equals",
+  "options": [
+   "$3\\left(5^2\\right)$",
+   "$5^4$",
+   "$5^3$",
+   "$2\\left(5^2\\right)$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-006",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 6,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 1,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If the straight line $2x-3y+17=0$ is perpendicular to the line passing through the points $(7,17)$ and $(15,\\beta)$, then $\\beta$ equals",
+  "options": [
+   "$-5$",
+   "$5$",
+   "$29$",
+   "$-29$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "fixed",
+   "proofread_changes": "stem: 'point' -> 'points'"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-007",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions-11",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 7,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Let the relation R is defined in N by aRb, if $3a+2b=27$ then R is",
+  "options": [
+   "$\\{(1,12)(3,9)(5,6)(7,3)\\}$",
+   "$\\left\\{\\left(0,\\frac{27}{2}\\right)(1,12)(3,9)(5,6)(7,3)\\right\\}$",
+   "$\\{(1,12)(3,9)(5,6)(7,3)(9,0)\\}$",
+   "$\\{(2,1)(9,3)(6,5)(3,7)\\}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-008",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 8,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "$\\lim_{y\\to0}\\frac{\\sqrt{3+y^3}-\\sqrt{3}}{y^3}=$",
+  "options": [
+   "$\\frac{1}{2\\sqrt{3}}$",
+   "$\\frac{1}{3\\sqrt{2}}$",
+   "$2\\sqrt{3}$",
+   "$3\\sqrt{2}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-009",
+  "subject": "mathematics",
+  "chapter": "statistics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 9,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If the standard deviation of the numbers $-1,0,1,k$ is $\\sqrt{5}$ where $k>0$, then $k$ is equal to",
+  "options": [
+   "$4\\sqrt{\\frac{5}{3}}$",
+   "$\\sqrt{6}$",
+   "$2\\sqrt{\\frac{10}{3}}$",
+   "$2\\sqrt{6}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-010",
+  "subject": "mathematics",
+  "chapter": "permutations-and-combinations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 10,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If the set X contains 7 elements and set y contains 8 elements, then the number of bijections from X to Y is",
+  "options": [
+   "$0$",
+   "$^{8}P_{7}$",
+   "$7!$",
+   "$8!$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "fixed",
+   "proofread_changes": "stem: added missing 'and'"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-011",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions-11",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 11,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $f:\\mathbb{R}\\to\\mathbb{R}$ be defined by $f(x)=\\begin{cases}2x & : x>3\\\\ x^2 & : 1<x\\le3\\\\ 3x & : x\\le1\\end{cases}$ then $f(-1)+f(2)+f(4)$ is",
+  "options": [
+   "$5$",
+   "$10$",
+   "$9$",
+   "$14$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-012",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 12,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $A=\\begin{bmatrix}0&1\\\\0&0\\end{bmatrix}$ then $\\left(aI+bA\\right)^n$ is (where $I$ is the identity matrix of order 2)",
+  "options": [
+   "$a^2I+a^{n-1}b.A$",
+   "$a^nI+n.a^{n-1}b.A$",
+   "$a^nI+n\\,a^nbA$",
+   "$a^nI+b^nA$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "fixed",
+   "proofread_changes": "stem: '1'->'I', 'identify'->'identity'"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-013",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 13,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $A$ is a $3\\times3$ matrix such that $|5.\\operatorname{adj}A|=5$ then $|A|$ is equal to",
+  "options": [
+   "$\\pm1$",
+   "$\\pm\\frac{1}{25}$",
+   "$\\pm\\frac{1}{5}$",
+   "$\\pm5$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-014",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 14,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If there are two values of ‘a’ which makes determinant $\\Delta=\\begin{vmatrix}1&-2&5\\\\2&a&-1\\\\0&4&2a\\end{vmatrix}=86$. Then the sum of these numbers is",
+  "options": [
+   "$-4$",
+   "$9$",
+   "$4$",
+   "$5$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "fixed",
+   "proofread_changes": "stem: 'value' -> 'values'"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-015",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 15,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If the vertices of a triangle are $(-2,6)$, $(3,-6)$ and $(1,5)$, then the area of the triangle is",
+  "options": [
+   "40 sq.units",
+   "15.5 sq.units",
+   "30 sq.units",
+   "35 sq.units"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-016",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 16,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Domain of $\\cos^{-1}[x]$ is, where $[.]$ denotes a greatest integer function",
+  "options": [
+   "$(-1,2]$",
+   "$(-1,2)$",
+   "$[-1,2]$",
+   "$[-1,2)$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-017",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 17,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If A is a matrix of order $3\\times3$, then $\\left(A^{2}\\right)^{-1}$ is equal to",
+  "options": [
+   "$\\left(-A^2\\right)^2$",
+   "$\\left(A^{-1}\\right)^2$",
+   "$A^2$",
+   "$(-A)^{-2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-018",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 18,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $A=\\begin{bmatrix}2&-1\\\\3&-2\\end{bmatrix}$, then the inverse of the matrix $A^3$ is",
+  "options": [
+   "$A$",
+   "$-I$",
+   "$I$",
+   "$-A$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-019",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 19,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If A is a skew symmetric matrix, then $A^{2021}$ is",
+  "options": [
+   "Row matrix",
+   "Column matrix",
+   "Symmetric matrix",
+   "Skew symmetric matrix"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-020",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 20,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $f(1)=1,\\ f'(1)=3$ then the derivative of $f\\left(f\\left(f(x)\\right)\\right)+\\left(f(x)\\right)^2$ at $x=1$ is",
+  "options": [
+   "$10$",
+   "$33$",
+   "$35$",
+   "$12$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-021",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 21,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $y=x^{\\sin x}+(\\sin x)^x$ then $\\frac{dy}{dx}$ at $x=\\frac{\\pi}{2}$ is",
+  "options": [
+   "$\\frac{4}{\\pi}$",
+   "$\\pi\\log\\frac{\\pi}{2}$",
+   "$1$",
+   "$\\frac{\\pi^2}{2}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-022",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 22,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $A_n=\\begin{bmatrix}1-n&n\\\\n&1-n\\end{bmatrix}$ then $|A_1|+|A_2|+\\ldots+|A_{2021}|=$",
+  "options": [
+   "$-2021$",
+   "$-(2021)^2$",
+   "$(2021)^2$",
+   "$4042$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-023",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 23,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $y=\\left(1+x^2\\right)\\tan^{-1}x-x$ then $\\frac{dy}{dx}$ is",
+  "options": [
+   "$2x\\tan^{-1}x$",
+   "$\\frac{\\tan^{-1}x}{x}$",
+   "$x^2\\tan^{-1}x$",
+   "$x\\tan^{-1}x$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-024",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 24,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $x=e^{\\theta}\\sin\\theta,\\ y=e^{\\theta}\\cos\\theta$ where $\\theta$ is a parameter, then $\\frac{dy}{dx}$ at $(1,1)$ is equal to",
+  "options": [
+   "$0$",
+   "$\\frac{1}{2}$",
+   "$-\\frac{1}{2}$",
+   "$-\\frac{1}{4}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-025",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 25,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $y=e^{\\sqrt{x\\sqrt{x\\sqrt{x\\cdots}}}}$, $x>1$ then $\\frac{d^2y}{dx^2}$ at $x=\\log_e 3$ is",
+  "options": [
+   "$3$",
+   "$5$",
+   "$0$",
+   "$1$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-026",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 26,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $[x]$ is the greatest integer function not greater than $x$ then $\\int_0^8 [x]\\,dx$ is equal to",
+  "options": [
+   "$28$",
+   "$30$",
+   "$29$",
+   "$20$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-027",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 27,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "$\\int_0^{\\pi/2}\\sqrt{\\sin\\theta}\\,\\cos^3\\theta\\,d\\theta$ is equal to",
+  "options": [
+   "$\\frac{8}{23}$",
+   "$\\frac{7}{23}$",
+   "$\\frac{8}{21}$",
+   "$\\frac{7}{21}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-028",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 28,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $e^y+xy=e$ the ordered pair $\\left(\\frac{dy}{dx},\\frac{d^2y}{dx^2}\\right)$ at $x=0$ is equal to",
+  "options": [
+   "$\\left(\\frac{1}{e},\\frac{1}{e^2}\\right)$",
+   "$\\left(-\\frac{1}{e},-\\frac{1}{e^2}\\right)$",
+   "$\\left(\\frac{1}{e},-\\frac{1}{e^2}\\right)$",
+   "$\\left(-\\frac{1}{e},\\frac{1}{e^2}\\right)$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-029",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 29,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The function $f(x)=\\log(1+x)-\\frac{2x}{2+x}$ is increasing on",
+  "options": [
+   "$(-\\infty,\\infty)$",
+   "$(\\infty,-1)$",
+   "$(-1,\\infty)$",
+   "$(-\\infty,0)$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-030",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 30,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The co-ordinates of the point on the $\\sqrt{x}+\\sqrt{y}=6$ at which the tangent is equally inclined to the axes is",
+  "options": [
+   "$(4,4)$",
+   "$(1,1)$",
+   "$(9,9)$",
+   "$(6,6)$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-031",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 31,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The function $f(x)=4\\sin^3x-6\\sin^2x+12\\sin x+100$ is strictly",
+  "options": [
+   "decreasing in $\\left[-\\frac{\\pi}{2},\\frac{\\pi}{2}\\right]$",
+   "decreasing in $\\left[0,\\frac{\\pi}{2}\\right]$",
+   "increasing in $\\left(\\pi,\\frac{3\\pi}{2}\\right)$",
+   "decreasing in $\\left(\\frac{\\pi}{2},\\pi\\right)$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-032",
+  "subject": "mathematics",
+  "chapter": "application-of-integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 32,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Area of the region bounded by the curve $y=\\tan x$, the x-axis and the line $x=\\frac{\\pi}{3}$ is",
+  "options": [
+   "$\\log\\frac{1}{2}$",
+   "$\\log 2$",
+   "$0$",
+   "$-\\log 2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-033",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 33,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Evaluate $\\int_2^3 x^2\\,dx$ as the limit of a sum",
+  "options": [
+   "$\\frac{72}{6}$",
+   "$\\frac{53}{9}$",
+   "$\\frac{25}{7}$",
+   "$\\frac{19}{3}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-034",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 34,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "$\\int_0^{\\pi/2}\\frac{\\cos x\\,\\sin x}{1+\\sin x}\\,dx$ is equal to",
+  "options": [
+   "$\\log 2-1$",
+   "$\\log 2$",
+   "$-\\log 2$",
+   "$1-\\log 2$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-035",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 35,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "$\\int\\frac{\\cos 2x-\\cos 2\\alpha}{\\cos x-\\cos\\alpha}\\,dx$ is equal to",
+  "options": [
+   "$2\\left(\\sin x-x\\cos\\alpha\\right)+c$",
+   "$2\\left(\\sin x+x\\cos\\alpha\\right)+c$",
+   "$2\\left(\\sin x-2x\\cos\\alpha\\right)+c$",
+   "$2\\left(\\sin x+2x\\cos\\alpha\\right)+c$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-036",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 36,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "$\\int_0^1\\frac{xe^x}{(2+x)^3}\\,dx$ is equal to",
+  "options": [
+   "$\\frac{1}{27}\\cdot e-\\frac{1}{8}$",
+   "$\\frac{1}{27}\\cdot e+\\frac{1}{8}$",
+   "$\\frac{1}{9}\\cdot e+\\frac{1}{4}$",
+   "$\\frac{1}{9}\\cdot e-\\frac{1}{4}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-037",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 37,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $\\int\\frac{dx}{(x+2)(x^2+1)}=a\\log|1+x^2|+b\\tan^{-1}x+\\frac{1}{5}\\log|x+2|+c$, then",
+  "options": [
+   "$a=-\\frac{1}{10},\\ b=\\frac{2}{5}$",
+   "$a=\\frac{1}{10},\\ b=\\frac{2}{5}$",
+   "$a=-\\frac{1}{10},\\ b=-\\frac{2}{5}$",
+   "$a=\\frac{1}{10},\\ b=-\\frac{2}{5}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-038",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 38,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $|\\vec a|=2$ and $|\\vec b|=3$ and the angle between $\\vec a$ and $\\vec b$ is $120^{\\circ}$, then the length of the vector $\\left|\\frac{\\vec a}{2}-\\frac{\\vec b}{3}\\right|^2$ is",
+  "options": [
+   "$2$",
+   "$3$",
+   "$\\frac{1}{6}$",
+   "$1$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-039",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 39,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $\\left|\\vec a\\times\\vec b\\right|+\\left|\\vec a\\cdot\\vec b\\right|^2=36$ and $|\\vec a|=3$ then $|\\vec b|$ is equal to",
+  "options": [
+   "$9$",
+   "$36$",
+   "$4$",
+   "$2$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-040",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 40,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $\\vec\\alpha=\\hat i-3\\hat j$, $\\vec\\beta=\\hat i+2\\hat j-\\hat k$ then express $\\vec\\beta$ in the form $\\vec\\beta=\\vec\\beta_1+\\vec\\beta_2$ where $\\vec\\beta_1$ is parallel to $\\vec\\alpha$ and $\\vec\\beta_2$ is perpendicular to $\\vec\\alpha$ then $\\vec\\beta_1$ is given by",
+  "options": [
+   "$\\frac{5}{8}\\left(\\hat i-3\\hat j\\right)$",
+   "$\\frac{5}{8}\\left(\\hat i+3\\hat j\\right)$",
+   "$\\hat i-3\\hat j$",
+   "$\\hat i+3\\hat j$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-041",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 41,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The sum of the degree and order of the differential equation $\\left(1+y_1^2\\right)^{2/3}=y_2$ is",
+  "options": [
+   "$4$",
+   "$6$",
+   "$5$",
+   "$7$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "fixed",
+   "proofread_changes": "stem: 'Then sum' -> 'The sum'"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-042",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 42,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $\\frac{dy}{dx}+\\frac{y}{x}=x^2$ then $2y(2)-y(1)=$",
+  "options": [
+   "$\\frac{11}{4}$",
+   "$\\frac{15}{4}$",
+   "$\\frac{9}{4}$",
+   "$\\frac{13}{4}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-043",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 43,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The solution of the differential equation $\\frac{dy}{dx}=(x+y)^2$ is",
+  "options": [
+   "$\\tan^{-1}(x+y)=x+c$",
+   "$\\tan^{-1}(x+y)=0$",
+   "$\\cot^{-1}(x+y)=c$",
+   "$\\cot^{-1}(x+y)=x+c$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-044",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 44,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $y(x)$ be the solution of differential equation $x\\log x\\,\\frac{dy}{dx}+y=2x\\log x$, $y(e)$ is equal to",
+  "options": [
+   "$e$",
+   "$0$",
+   "$2$",
+   "$2e$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-045",
+  "subject": "mathematics",
+  "chapter": "linear-programming",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 45,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A dietician has to develop a special diet using two foods X and Y. Each packet (containing 30g) of food. X contains 12 units of calcium, 4 units of iron, 6 units of cholesterol and 6 units of vitamin A. Each packet of the same quantity of food Y contains 3 units of calcium, 20 units of iron, 4 units of cholesterol and 3 units of vitamin A. The diet requires atleast 240 units of calcium, atleast 460 units of iron and atmost 300 units of cholesterol. The corner points of the feasible region are",
+  "options": [
+   "$(2,72),(40,15),(15,20)$",
+   "$(2,72),(15,20),(0,23)$",
+   "$(0,23),(40,15),(2,72)$",
+   "$(2,72),(40,15),(115,0)$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "fixed",
+   "proofread_changes": "stem: 'most' -> 'atmost'"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-046",
+  "subject": "mathematics",
+  "chapter": "three-dimensional-geometry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 46,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The distance of the point whose position vector is $(2\\hat i+\\hat j-\\hat k)$ from the plane $\\vec r\\cdot(\\hat i-2\\hat j+4\\hat k)=4$ is",
+  "options": [
+   "$\\frac{8}{\\sqrt{21}}$",
+   "$8\\sqrt{21}$",
+   "$-\\frac{8}{\\sqrt{21}}$",
+   "$-\\frac{8}{21}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "fixed",
+   "proofread_changes": "stem: added 'whose'"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-047",
+  "subject": "mathematics",
+  "chapter": "three-dimensional-geometry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 47,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The co-ordinate of foot of the perpendicular drawn from the origin to the plane $2x-3y+4z=29$ are",
+  "options": [
+   "$(2,3,4)$",
+   "$(2,-3,-4)$",
+   "$(2,-3,4)$",
+   "$(-2,-3,4)$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-048",
+  "subject": "mathematics",
+  "chapter": "three-dimensional-geometry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 48,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The angle between the pair of lines $\\frac{x+3}{3}=\\frac{y-1}{5}=\\frac{z+3}{4}$ and $\\frac{x+1}{1}=\\frac{y-4}{4}=\\frac{z-5}{2}$ is",
+  "options": [
+   "$\\theta=\\cos^{-1}\\left[\\frac{27}{5}\\right]$",
+   "$\\theta=\\cos^{-1}\\left[\\frac{8\\sqrt{3}}{15}\\right]$",
+   "$\\theta=\\cos^{-1}\\left[\\frac{19}{21}\\right]$",
+   "$\\theta=\\cos^{-1}\\left[\\frac{5\\sqrt{3}}{16}\\right]$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-049",
+  "subject": "mathematics",
+  "chapter": "linear-programming",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 49,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The corner points of the feasible region of an LPP are $(0,2)$, $(3,0)$, $(6,0)$, $(6,8)$ and $(0,5)$ then the minimum value of $z=4x+6y$ occurs at",
+  "options": [
+   "finite number of points",
+   "infinite number of points",
+   "only one point",
+   "only two points"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-050",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 50,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If A and B are two independent events such that $P(\\bar A)=0.75$, $P(A\\cup B)=0.65$, and $P(B)=x$, then find the value of $x$",
+  "options": [
+   "$\\frac{5}{14}$",
+   "$\\frac{8}{15}$",
+   "$\\frac{9}{14}$",
+   "$\\frac{7}{15}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-051",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 51,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Find the mean number of heads in three tosses of a fair coin",
+  "options": [
+   "$1.5$",
+   "$4.5$",
+   "$2.5$",
+   "$3.5$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-052",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 52,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If A and B are two events such that $P(A)=\\frac{1}{2}$, $P(B)=\\frac{1}{3}$ and $P\\left(\\frac{A}{B}\\right)=\\frac{1}{4}$, then $P\\left(A'\\cap B'\\right)$ is",
+  "options": [
+   "$\\frac{1}{4}$",
+   "$\\frac{3}{16}$",
+   "$\\frac{1}{12}$",
+   "$\\frac{3}{4}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-053",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 53,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A pandemic has been spreading all over the world. The probabilities are $0.7$ that there will be a lockdown, $0.8$ that the pandemic is controlled in one month if there is a lockdown and $0.3$ that it is controlled in one month if there is no lockdown. The probability that the pandemic will be controlled in one month is",
+  "options": [
+   "$0.65$",
+   "$1.65$",
+   "$1.46$",
+   "$0.46$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-054",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 54,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The degree measure of $\\frac{\\pi}{32}$ is equal to",
+  "options": [
+   "$5^{\\circ}\\,30'\\,20''$",
+   "$5^{\\circ}\\,37'\\,20''$",
+   "$5^{\\circ}\\,37'\\,30''$",
+   "$4^{\\circ}\\,30'\\,30''$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-055",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 55,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The value of $\\sin\\frac{5\\pi}{12}\\sin\\frac{\\pi}{12}$ is",
+  "options": [
+   "$0$",
+   "$1$",
+   "$\\frac{1}{2}$",
+   "$\\frac{1}{4}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-056",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 56,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "$\\sqrt{2+\\sqrt{2+\\sqrt{2+2\\cos8\\theta}}}=$",
+  "options": [
+   "$\\sin2\\theta$",
+   "$2\\cos\\theta$",
+   "$2\\sin\\theta$",
+   "$2\\cos\\frac{\\theta}{2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-057",
+  "subject": "mathematics",
+  "chapter": "sets",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 57,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $A=\\{1,2,3,\\ldots,10\\}$ then the number of subsets of A containing only odd numbers is",
+  "options": [
+   "$31$",
+   "$27$",
+   "$32$",
+   "$30$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "disputed",
+   "notes": "Key cell (row 57, D3) re-read as 1 = option 31 (official KEA, likely excluding empty set). Question transcription verified. Odd numbers {1,3,5,7,9} give 2^5=32 subsets incl. the empty set (vacuously only odd); the D3 paper's own solution also says 32, so key looks wrong/arguable.",
+   "proofread": "matched_ok",
+   "disputed": true,
+   "status_reason": "official key kept; Sonnet disagrees"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-058",
+  "subject": "mathematics",
+  "chapter": "sets",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 58,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Suppose that the number of elements in set $A$ is $p$, the number of elements in set $B$ is $q$ and the number of elements in $A\\times B$ is $7$ then $p^2+q^2=$ ______",
+  "options": [
+   "$50$",
+   "$51$",
+   "$42$",
+   "$49$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-059",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions-11",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 59,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The domain of the function $f(x)=\\frac{1}{\\log_{10}(1-x)}+\\sqrt{x+2}$ is",
+  "options": [
+   "$[-2,0)\\cap(0,1)$",
+   "$[-2,0)$",
+   "$[-2,1)$",
+   "$[-2,0)\\cup(0,1)$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "fixed",
+   "proofread_changes": "option B '[-2,1)' (duplicate of C) -> '[-2,0)'"
+  }
+ },
+ {
+  "id": "pyq-2022-mathematics-060",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "D3",
+   "number": 60,
+   "file": "sources/pyq/2022/mathematics/2022-mathematics-question_paper-D3-collegedekho.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2022/mathematics/2022-mathematics-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The trigonometric function $y=\\tan x$ in the II quadrant",
+  "options": [
+   "Decreases from $0$ to $\\infty$",
+   "Decreases from $-\\infty$ to $0$",
+   "Increases from $0$ to $\\infty$",
+   "Increases from $-\\infty$ to $0$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "fixed",
+   "proofread_changes": "options A,B: 'form' -> 'from'"
+  }
+ }
+]

@@ -1,0 +1,394 @@
+[
+ {
+  "id": "tp-ncert-phys-12-ch09-001",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep109.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "A ray of light incident at an angle $\\theta$ on a refracting face of a prism emerges from the other face normally. If the angle of the prism is $5^\\circ$ and the prism is made of a material of refractive index 1.5, the angle of incidence is",
+  "options": [
+   "$7.5^\\circ$.",
+   "$5^\\circ$.",
+   "$15^\\circ$.",
+   "$2.5^\\circ$."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch09-002",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep109.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "A short pulse of white light is incident from air to a glass slab at normal incidence. After travelling through the slab, the first colour to emerge is",
+  "options": [
+   "blue.",
+   "green.",
+   "violet.",
+   "red."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch09-003",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep109.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "An object approaches a convergent lens from the left of the lens with a uniform speed $5\\,\\mathrm{m/s}$ and stops at the focus. The image",
+  "options": [
+   "moves away from the lens with an uniform speed $5\\,\\mathrm{m/s}$.",
+   "moves away from the lens with an uniform accleration.",
+   "moves away from the lens with a non-uniform acceleration.",
+   "moves towards the lens with a non-uniform acceleration."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch09-004",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep109.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "A passenger in an aeroplane shall",
+  "options": [
+   "never see a rainbow.",
+   "may see a primary and a secondary rainbow as concentric circles.",
+   "may see a primary and a secondary rainbow as concentric arcs.",
+   "shall never see a secondary rainbow."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "key_confirmed",
+   "notes": "Solver disagreement was spurious; full circular rainbows seen from aeroplane, key (b) correct."
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch09-005",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep109.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "You are given four sources of light each one providing a light of a single colour – red, blue, green and yellow. Suppose the angle of refraction for a beam of yellow light corresponding to a particular angle of incidence at the interface of two media is $90^\\circ$. Which of the following statements is correct if the source of yellow light is replaced with that of other lights without changing the angle of incidence?",
+  "options": [
+   "The beam of red light would undergo total internal reflection.",
+   "The beam of red light would bend towards normal while it gets refracted through the second medium.",
+   "The beam of blue light would undergo total internal reflection.",
+   "The beam of green light would bend away from the normal as it gets refracted through the second medium."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch09-006",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep109.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "The radius of curvature of the curved surface of a plano-convex lens is $20\\,\\mathrm{cm}$. If the refractive index of the material of the lens be 1.5, it will",
+  "options": [
+   "act as a convex lens only for the objects that lie on its curved side.",
+   "act as a concave lens for the objects that lie on its curved side.",
+   "act as a convex lens irrespective of the side on which the object lies.",
+   "act as a concave lens irrespective of side on which the object lies."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch09-007",
+  "subject": "physics",
+  "chapter": "electromagnetic-waves",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 7,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep109.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "The phenomena involved in the reflection of radiowaves by ionosphere is similar to",
+  "options": [
+   "reflection of light by a plane mirror.",
+   "total internal reflection of light in air during a mirage.",
+   "dispersion of light by water molecules during the formation of a rainbow.",
+   "scattering of light by the particles of air."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch09-008",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 8,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep109.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "The direction of ray of light incident on a concave mirror is shown by PQ while directions in which the ray would travel after reflection is shown by four rays marked 1, 2, 3 and 4 (Fig 9.1). Which of the four rays correctly shows the direction of reflected ray?",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-phys-12-ch09-008.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch09-009",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 9,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep109.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "The optical density of turpentine is higher than that of water while its mass density is lower. Fig 9.2. shows a layer of turpentine floating over water in a container. For which one of the four rays incident on turpentine in Fig 9.2, the path shown is correct?",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-phys-12-ch09-009.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch09-010",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 10,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep109.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "A car is moving with at a constant speed of $60\\,\\mathrm{km\\,h^{-1}}$ on a straight road. Looking at the rear view mirror, the driver finds that the car following him is at a distance of $100\\,\\mathrm{m}$ and is approaching with a speed of $5\\,\\mathrm{km\\,h^{-1}}$. In order to keep track of the car in the rear, the driver begins to glance alternatively at the rear and side mirror of his car after every $2\\,\\mathrm{s}$ till the other car overtakes. If the two cars were maintaining their speeds, which of the following statement (s) is/are correct?",
+  "options": [
+   "The speed of the car in the rear is $65\\,\\mathrm{km\\,h^{-1}}$.",
+   "In the side mirror the car in the rear would appear to approach with a speed of $5\\,\\mathrm{km\\,h^{-1}}$ to the driver of the leading car.",
+   "In the rear view mirror the speed of the approaching car would appear to decrease as the distance between the cars decreases.",
+   "In the side mirror, the speed of the approaching car would appear to increase as the distance between the cars decreases."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "disputed",
+   "notes": "Key (d) is printed in the answer file, but (a) is also true (60+5=65 km/h) and the question says 'statement(s) is/are correct', so it has more than one correct option; single-answer use is unsafe.",
+   "status_reason": "solver disagrees with unofficial key"
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch09-011",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 11,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep109.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "There are certain material developed in laboratories which have a negative refractive index (Fig. 9.3). A ray incident from air (medium 1) into such a medium (medium 2) shall follow a path given by",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-ncert-phys-12-ch09-011.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

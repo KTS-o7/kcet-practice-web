@@ -1,0 +1,492 @@
+[
+ {
+  "id": "tp-ncert-math-12-ch05-083",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 83,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep205.pdf",
+   "page": 28,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If $f(x)=2x$ and $g(x)=\\frac{x^2}{2}+1$, then which of the following can be a discontinuous function",
+  "options": [
+   "$f(x)+g(x)$",
+   "$f(x)-g(x)$",
+   "$f(x)\\cdot g(x)$",
+   "$\\frac{g(x)}{f(x)}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch05-084",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 84,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep205.pdf",
+   "page": 28,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The function $f(x)=\\frac{4-x^2}{4x-x^3}$ is",
+  "options": [
+   "discontinuous at only one point",
+   "discontinuous at exactly two points",
+   "discontinuous at exactly three points",
+   "none of these"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch05-085",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 85,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep205.pdf",
+   "page": 28,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The set of points where the function $f$ given by $f(x)=|2x-1|\\sin x$ is differentiable is",
+  "options": [
+   "$\\mathbb{R}$",
+   "$\\mathbb{R}-\\left\\{\\frac{1}{2}\\right\\}$",
+   "$(0,\\infty)$",
+   "none of these"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch05-086",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 86,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep205.pdf",
+   "page": 29,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The function $f(x)=\\cot x$ is discontinuous on the set",
+  "options": [
+   "$\\{x=n\\pi : n\\in\\mathbb{Z}\\}$",
+   "$\\{x=2n\\pi : n\\in\\mathbb{Z}\\}$",
+   "$\\left\\{x=(2n+1)\\frac{\\pi}{2} ; n\\in\\mathbb{Z}\\right\\}$",
+   "$\\left\\{x=\\frac{n\\pi}{2} ; n\\in\\mathbb{Z}\\right\\}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch05-087",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 87,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep205.pdf",
+   "page": 29,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The function $f(x)=e^{|x|}$ is",
+  "options": [
+   "continuous everywhere but not differentiable at $x=0$",
+   "continuous and differentiable everywhere",
+   "not continuous at $x=0$",
+   "none of these."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch05-088",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 88,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep205.pdf",
+   "page": 29,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If $f(x)=x^2\\sin\\frac{1}{x}$, where $x\\neq 0$, then the value of the function $f$ at $x=0$, so that the function is continuous at $x=0$, is",
+  "options": [
+   "$0$",
+   "$-1$",
+   "$1$",
+   "none of these"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch05-089",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 89,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep205.pdf",
+   "page": 29,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If $f(x)=\\begin{cases} mx+1, & \\text{if } x\\le \\frac{\\pi}{2} \\\\ \\sin x+n, & \\text{if } x>\\frac{\\pi}{2} \\end{cases}$, is continuous at $x=\\frac{\\pi}{2}$, then",
+  "options": [
+   "$m=1,\\ n=0$",
+   "$m=\\frac{n\\pi}{2}+1$",
+   "$n=\\frac{m\\pi}{2}$",
+   "$m=n=\\frac{\\pi}{2}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch05-090",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 90,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep205.pdf",
+   "page": 29,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Let $f(x)=|\\sin x|$. Then",
+  "options": [
+   "$f$ is everywhere differentiable",
+   "$f$ is everywhere continuous but not differentiable at $x=n\\pi$, $n\\in\\mathbb{Z}$",
+   "$f$ is everywhere continuous but not differentiable at $x=(2n+1)\\frac{\\pi}{2}$, $n\\in\\mathbb{Z}$",
+   "none of these"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch05-091",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 91,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep205.pdf",
+   "page": 29,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If $y=\\log\\left(\\frac{1-x^2}{1+x^2}\\right)$, then $\\frac{dy}{dx}$ is equal to",
+  "options": [
+   "$\\frac{4x^3}{1-x^4}$",
+   "$\\frac{-4x}{1-x^4}$",
+   "$\\frac{1}{4-x^4}$",
+   "$\\frac{-4x^3}{1-x^4}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch05-092",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 92,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep205.pdf",
+   "page": 30,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If $y=\\sqrt{\\sin x+y}$, then $\\frac{dy}{dx}$ is equal to",
+  "options": [
+   "$\\frac{\\cos x}{2y-1}$",
+   "$\\frac{\\cos x}{1-2y}$",
+   "$\\frac{\\sin x}{1-2y}$",
+   "$\\frac{\\sin x}{2y-1}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch05-093",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 93,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep205.pdf",
+   "page": 30,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The derivative of $\\cos^{-1}(2x^2-1)$ w.r.t. $\\cos^{-1}x$ is",
+  "options": [
+   "$2$",
+   "$\\frac{-1}{2\\sqrt{1-x^2}}$",
+   "$\\frac{2}{x}$",
+   "$1-x^2$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch05-094",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 94,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep205.pdf",
+   "page": 30,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If $x=t^2$, $y=t^3$, then $\\frac{d^2y}{dx^2}$ is",
+  "options": [
+   "$\\frac{3}{2}$",
+   "$\\frac{3}{4t}$",
+   "$\\frac{3}{2t}$",
+   "$\\frac{3}{4}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch05-095",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 95,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep205.pdf",
+   "page": 30,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The value of $c$ in Rolle's theorem for the function $f(x)=x^3-3x$ in the interval $[0,\\sqrt{3}\\,]$ is",
+  "options": [
+   "$1$",
+   "$-1$",
+   "$\\frac{3}{2}$",
+   "$\\frac{1}{3}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch05-096",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 96,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep205.pdf",
+   "page": 31,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "For the function $f(x)=x+\\frac{1}{x}$, $x\\in[1,3]$, the value of $c$ for mean value theorem is",
+  "options": [
+   "$1$",
+   "$\\sqrt{3}$",
+   "$2$",
+   "none of these"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

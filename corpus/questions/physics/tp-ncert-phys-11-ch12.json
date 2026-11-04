@@ -1,0 +1,218 @@
+[
+ {
+  "id": "tp-ncert-phys-11-ch12-001",
+  "subject": "physics",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep312.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "An ideal gas undergoes four different processes from the same initial state (Fig. 12.1). Four processes are adiabatic, isothermal, isobaric and isochoric. Out of 1, 2, 3 and 4 which one is adiabatic.",
+  "options": [
+   "4",
+   "3",
+   "2",
+   "1"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-ncert-phys-11-ch12-001.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch12-002",
+  "subject": "physics",
+  "chapter": "thermal-properties-of-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep312.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "If an average person jogs, hse produces $14.5 \\times 10^{3}$ cal/min. This is removed by the evaporation of sweat. The amount of sweat evaporated per minute (assuming 1 kg requires $580 \\times 10^{3}$ cal for evaparation) is",
+  "options": [
+   "$0.25\\,\\mathrm{kg}$",
+   "$2.25\\,\\mathrm{kg}$",
+   "$0.05\\,\\mathrm{kg}$",
+   "$0.20\\,\\mathrm{kg}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch12-003",
+  "subject": "physics",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep312.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "Consider P-V diagram for an ideal gas shown in Fig 12.2. Out of the following diagrams (Fig. 12.3), which represents the T-P diagram?",
+  "options": [
+   "(iv)",
+   "(ii)",
+   "(iii)",
+   "(i)"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-ncert-phys-11-ch12-003.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch12-004",
+  "subject": "physics",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep312.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "An ideal gas undergoes cyclic process ABCDA as shown in given P-V diagram (Fig. 12.4). The amount of work done by the gas is",
+  "options": [
+   "$6P_oV_o$",
+   "$-2\\,P_oV_o$",
+   "$+2\\,P_oV_o$",
+   "$+4\\,P_oV_o$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-phys-11-ch12-004.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "key_confirmed",
+   "notes": "Cycle A->B->C->D->A is anticlockwise on P-V, area 2V0*P0, so W=-2P0V0; transcription matches page."
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch12-005",
+  "subject": "physics",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep312.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "Consider two containers A and B containing identical gases at the same pressure, volume and temperature. The gas in container A is compressed to half of its original volume isothermally while the gas in container B is compressed to half of its original value adiabatically. The ratio of final pressure of gas in B to that of gas in A is",
+  "options": [
+   "$2^{\\gamma-1}$",
+   "$\\left(\\frac{1}{2}\\right)^{\\gamma-1}$",
+   "$\\left(\\frac{1}{1-\\gamma}\\right)^{2}$",
+   "$\\left(\\frac{1}{\\gamma-1}\\right)^{2}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch12-006",
+  "subject": "physics",
+  "chapter": "thermal-properties-of-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep312.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "Three copper blocks of masses $M_1$, $M_2$ and $M_3$ kg respectively are brought into thermal contact till they reach equilibrium. Before contact, they were at $T_1$, $T_2$, $T_3$ ($T_1 > T_2 > T_3$). Assuming there is no heat loss to the surroundings, the equilibrium temprature $T$ is ($s$ is specific heat of copper)",
+  "options": [
+   "$T=\\frac{T_1+T_2+T_3}{3}$",
+   "$T=\\frac{M_1T_1+M_2T_2+M_3T_3}{M_1+M_2+M_3}$",
+   "$T=\\frac{M_1T_1+M_2T_2+M_3T_3}{3(M_1+M_2+M_3)}$",
+   "$T=\\frac{M_1T_1s+M_2T_2s+M_3T_3s}{M_1+M_2+M_3}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

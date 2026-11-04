@@ -1,0 +1,527 @@
+[
+ {
+  "id": "tp-ncert-math-11-ch07-026",
+  "subject": "mathematics",
+  "chapter": "permutations-and-combinations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 26,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep207.pdf",
+   "page": 11,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "If ${}^{n}C_{12} = {}^{n}C_{8}$, then $n$ is equal to",
+  "options": [
+   "20",
+   "12",
+   "6",
+   "30"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch07-027",
+  "subject": "mathematics",
+  "chapter": "permutations-and-combinations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 27,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep207.pdf",
+   "page": 11,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The number of possible outcomes when a coin is tossed 6 times is",
+  "options": [
+   "36",
+   "64",
+   "12",
+   "32"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch07-028",
+  "subject": "mathematics",
+  "chapter": "permutations-and-combinations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 28,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep207.pdf",
+   "page": 11,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The number of different four digit numbers that can be formed with the digits 2, 3, 4, 7 and using each digit only once is",
+  "options": [
+   "120",
+   "96",
+   "24",
+   "100"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch07-029",
+  "subject": "mathematics",
+  "chapter": "permutations-and-combinations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 29,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep207.pdf",
+   "page": 11,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The sum of the digits in unit place of all the numbers formed with the help of 3, 4, 5 and 6 taken all at a time is",
+  "options": [
+   "432",
+   "108",
+   "36",
+   "18"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch07-030",
+  "subject": "mathematics",
+  "chapter": "permutations-and-combinations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 30,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep207.pdf",
+   "page": 11,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "Total number of words formed by 2 vowels and 3 consonants taken from 4 vowels and 5 consonants is equal to",
+  "options": [
+   "60",
+   "120",
+   "7200",
+   "720"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch07-031",
+  "subject": "mathematics",
+  "chapter": "permutations-and-combinations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 31,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep207.pdf",
+   "page": 11,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "A five digit number divisible by 3 is to be formed using the numbers 0, 1, 2, 3, 4 and 5 without repetitions. The total number of ways this can be done is",
+  "options": [
+   "216",
+   "600",
+   "240",
+   "3125"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch07-032",
+  "subject": "mathematics",
+  "chapter": "permutations-and-combinations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 32,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep207.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "Every body in a room shakes hands with everybody else. The total number of hand shakes is 66. The total number of persons in the room is",
+  "options": [
+   "11",
+   "12",
+   "13",
+   "14"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch07-033",
+  "subject": "mathematics",
+  "chapter": "permutations-and-combinations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 33,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep207.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The number of triangles that are formed by choosing the vertices from a set of 12 points, seven of which lie on the same line is",
+  "options": [
+   "105",
+   "15",
+   "175",
+   "185"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch07-034",
+  "subject": "mathematics",
+  "chapter": "permutations-and-combinations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 34,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep207.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The number of parallelograms that can be formed from a set of four parallel lines intersecting another set of three parallel lines is",
+  "options": [
+   "6",
+   "18",
+   "12",
+   "9"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch07-035",
+  "subject": "mathematics",
+  "chapter": "permutations-and-combinations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 35,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep207.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The number of ways in which a team of eleven players can be selected from 22 players always including 2 of them and excluding 4 of them is",
+  "options": [
+   "${}^{16}C_{11}$",
+   "${}^{16}C_{5}$",
+   "${}^{16}C_{9}$",
+   "${}^{20}C_{9}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch07-036",
+  "subject": "mathematics",
+  "chapter": "permutations-and-combinations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 36,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep207.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The number of 5-digit telephone numbers having atleast one of their digits repeated is",
+  "options": [
+   "90,000",
+   "10,000",
+   "30,240",
+   "69,760"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch07-037",
+  "subject": "mathematics",
+  "chapter": "permutations-and-combinations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 37,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep207.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The number of ways in which we can choose a committee from four men and six women so that the committee includes at least two men and exactly twice as many women as men is",
+  "options": [
+   "94",
+   "126",
+   "128",
+   "None"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch07-038",
+  "subject": "mathematics",
+  "chapter": "permutations-and-combinations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 38,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep207.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The total number of 9 digit numbers which have all different digits is",
+  "options": [
+   "$10!$",
+   "$9!$",
+   "$9 \\times 9!$",
+   "$10\\times 10!$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch07-039",
+  "subject": "mathematics",
+  "chapter": "permutations-and-combinations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 39,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep207.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The number of words which can be formed out of the letters of the word ARTICLE, so that vowels occupy the even place is",
+  "options": [
+   "1440",
+   "144",
+   "$7!$",
+   "${}^{4}C_{4} \\times {}^{3}C_{3}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch07-040",
+  "subject": "mathematics",
+  "chapter": "permutations-and-combinations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 40,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep207.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "Given 5 different green dyes, four different blue dyes and three different red dyes, the number of combinations of dyes which can be chosen taking at least one green and one blue dye is",
+  "options": [
+   "3600",
+   "3720",
+   "3800",
+   "3600"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

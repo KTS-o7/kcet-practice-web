@@ -1,0 +1,807 @@
+[
+ {
+  "id": "tp-ncert-math-11-ch13-054",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 54,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep213.pdf",
+   "page": 18,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "$\\lim_{x\\to\\pi} \\frac{\\sin x}{x-\\pi}$ is",
+  "options": [
+   "1",
+   "2",
+   "$-1$",
+   "$-2$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch13-055",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 55,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep213.pdf",
+   "page": 18,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "$\\lim_{x\\to0} \\frac{x^2 \\cos x}{1-\\cos x}$ is",
+  "options": [
+   "2",
+   "$\\frac{3}{2}$",
+   "$\\frac{-3}{2}$",
+   "1"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch13-056",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 56,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep213.pdf",
+   "page": 18,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "$\\lim_{x\\to0} \\frac{(1+x)^n-1}{x}$ is",
+  "options": [
+   "n",
+   "1",
+   "$-n$",
+   "0"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch13-057",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 57,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep213.pdf",
+   "page": 18,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "$\\lim_{x\\to1} \\frac{x^m-1}{x^n-1}$ is",
+  "options": [
+   "1",
+   "$\\frac{m}{n}$",
+   "$-\\frac{m}{n}$",
+   "$\\frac{m^2}{n^2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch13-058",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 58,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep213.pdf",
+   "page": 18,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "$\\lim_{x\\to0} \\frac{1-\\cos 4\\theta}{1-\\cos 6\\theta}$ is",
+  "options": [
+   "$\\frac{4}{9}$",
+   "$\\frac{1}{2}$",
+   "$-\\frac{1}{2}$",
+   "$-1$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch13-059",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 59,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep213.pdf",
+   "page": 19,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "$\\lim_{x\\to0} \\frac{\\mathrm{cosec}\\,x-\\cot x}{x}$ is",
+  "options": [
+   "$-\\frac{1}{2}$",
+   "1",
+   "$\\frac{1}{2}$",
+   "1"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch13-060",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 60,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep213.pdf",
+   "page": 19,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "$\\lim_{x\\to0} \\frac{\\sin x}{\\sqrt{x+1}-\\sqrt{1-x}}$ is",
+  "options": [
+   "2",
+   "0",
+   "1",
+   "$-1$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch13-061",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 61,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep213.pdf",
+   "page": 19,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "$\\lim_{x\\to\\frac{\\pi}{4}} \\frac{\\sec^2 x-2}{\\tan x-1}$ is",
+  "options": [
+   "3",
+   "1",
+   "0",
+   "$\\sqrt{2}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch13-062",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 62,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep213.pdf",
+   "page": 19,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "$\\lim_{x\\to1} \\frac{(\\sqrt{x}-1)(2x-3)}{2x^2+x-3}$ is",
+  "options": [
+   "$\\frac{1}{10}$",
+   "$-\\frac{1}{10}$",
+   "1",
+   "None of these"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch13-063",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 63,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep213.pdf",
+   "page": 19,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "If $f(x)=\\begin{cases} \\dfrac{\\sin[x]}{[x]}, & [x]\\neq 0 \\\\ 0, & [x]=0 \\end{cases}$, where [.] denotes the greatest integer function, then $\\lim_{x\\to0} f(x)$ is equal to",
+  "options": [
+   "1",
+   "0",
+   "$-1$",
+   "None of these"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch13-064",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 64,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep213.pdf",
+   "page": 19,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "$\\lim_{x\\to0} \\frac{|\\sin x|}{x}$ is",
+  "options": [
+   "1",
+   "$-1$",
+   "does not exist",
+   "None of these"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch13-065",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 65,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep213.pdf",
+   "page": 19,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "Let $f(x)=\\begin{cases} x^2-1, & 0<x<2 \\\\ 2x+3, & 2\\leq x<3 \\end{cases}$, the quadratic equation whose roots are $\\lim_{x\\to2^-} f(x)$ and $\\lim_{x\\to2^+} f(x)$ is",
+  "options": [
+   "$x^2-6x+9=0$",
+   "$x^2-7x+8=0$",
+   "$x^2-14x+49=0$",
+   "$x^2-10x+21=0$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch13-066",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 66,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep213.pdf",
+   "page": 20,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "$\\lim_{x\\to0} \\frac{\\tan 2x-x}{3x-\\sin x}$ is",
+  "options": [
+   "2",
+   "$\\frac{1}{2}$",
+   "$-\\frac{1}{2}$",
+   "$\\frac{1}{4}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch13-067",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 67,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep213.pdf",
+   "page": 20,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "Let $f(x)=x-[x]$; $\\in\\mathbf{R}$, then $f'\\left(\\frac{1}{2}\\right)$ is",
+  "options": [
+   "$\\frac{3}{2}$",
+   "1",
+   "0",
+   "$-1$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch13-068",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 68,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep213.pdf",
+   "page": 20,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "If $y=\\sqrt{x}+\\frac{1}{\\sqrt{x}}$, then $\\frac{dy}{dx}$ at $x=1$ is",
+  "options": [
+   "1",
+   "$\\frac{1}{2}$",
+   "$\\frac{1}{\\sqrt{2}}$",
+   "0"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch13-069",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 69,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep213.pdf",
+   "page": 20,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "If $f(x)=\\frac{x-4}{2\\sqrt{x}}$, then $f'(1)$ is",
+  "options": [
+   "$\\frac{5}{4}$",
+   "$\\frac{4}{5}$",
+   "1",
+   "0"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch13-070",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 70,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep213.pdf",
+   "page": 20,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "If $y=\\frac{1+\\frac{1}{x^2}}{1-\\frac{1}{x^2}}$, then $\\frac{dy}{dx}$ is",
+  "options": [
+   "$\\frac{-4x}{(x^2-1)^2}$",
+   "$\\frac{-4x}{x^2-1}$",
+   "$\\frac{1-x^2}{4x}$",
+   "$\\frac{4x}{x^2-1}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch13-071",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 71,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep213.pdf",
+   "page": 20,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "If $y=\\frac{\\sin x+\\cos x}{\\sin x-\\cos x}$, then $\\frac{dy}{dx}$ at $x=0$ is",
+  "options": [
+   "$-2$",
+   "0",
+   "$\\frac{1}{2}$",
+   "does not exist"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch13-072",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 72,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep213.pdf",
+   "page": 21,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "If $y=\\frac{\\sin(x+9)}{\\cos x}$, then $\\frac{dy}{dx}$ at $x=0$ is",
+  "options": [
+   "$\\cos 9$",
+   "$\\sin 9$",
+   "0",
+   "1"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch13-073",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 73,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep213.pdf",
+   "page": 21,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "If $f(x)=1+x+\\frac{x^2}{2}+\\ldots+\\frac{x^{100}}{100}$, then $f'(1)$ is equal to",
+  "options": [
+   "$\\frac{1}{100}$",
+   "100",
+   "does not exist",
+   "0"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch13-074",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 74,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep213.pdf",
+   "page": 21,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "If $f(x)=\\frac{x^n-a^n}{x-a}$ for some constant '$a$', then $f'(a)$ is",
+  "options": [
+   "1",
+   "0",
+   "does not exist",
+   "$\\frac{1}{2}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "key_confirmed",
+   "notes": "Transcription matches page 21; f undefined at x=a as printed so f'(a) does not exist; key agrees."
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch13-075",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 75,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep213.pdf",
+   "page": 21,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "If $f(x)=x^{100}+x^{99}+\\ldots+x+1$, then $f'(1)$ is equal to",
+  "options": [
+   "5050",
+   "5049",
+   "5051",
+   "50051"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch13-076",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 76,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep213.pdf",
+   "page": 21,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "If $f(x)=1-x+x^2-x^3\\ldots-x^{99}+x^{100}$, then $f'(1)$ is euqal to",
+  "options": [
+   "150",
+   "$-50$",
+   "$-150$",
+   "50"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

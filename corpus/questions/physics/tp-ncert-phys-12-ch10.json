@@ -1,0 +1,183 @@
+[
+ {
+  "id": "tp-ncert-phys-12-ch10-001",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep110.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "Consider a light beam incident from air to a glass slab at Brewster's angle as shown in Fig. 10.1. A polaroid is placed in the path of the emergent ray at point P and rotated about an axis passing through the centre and perpendicular to the plane of the polaroid.",
+  "options": [
+   "For a particular orientation there shall be darkness as observed through the polaoid.",
+   "The intensity of light as seen through the polaroid shall be independent of the rotation.",
+   "The intensity of light as seen through the Polaroid shall go through a minimum but not zero for two orientations of the polaroid.",
+   "The intensity of light as seen through the polaroid shall go through a minimum for four orientations of the polaroid."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-ncert-phys-12-ch10-001.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "key_confirmed",
+   "notes": "Blind disagreement was solver noise; transcription correct, key (c) matches my answer."
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch10-002",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep110.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "Consider sunlight incident on a slit of width $10^4$ A. The image seen through the slit shall",
+  "options": [
+   "be a fine sharp slit white in colour at the center.",
+   "a bright slit white at the center diffusing to zero intensities at the edges.",
+   "a bright slit white at the center diffusing to regions of different colours.",
+   "only be a diffused slit white in colour."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "disputed",
+   "notes": "Transcription and key reading (a) verified. 1e4 A = 1 micron is comparable to visible wavelengths so diffraction gives coloured fringes (c); NCERT key (a) looks wrong.",
+   "status_reason": "solver disagrees with unofficial key"
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch10-003",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep110.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "Consider a ray of light incident from air onto a slab of glass (refractive index $n$) of width $d$, at an angle $\\theta$. The phase difference between the ray reflected by the top surface of the glass and the bottom surface is",
+  "options": [
+   "$\\frac{4\\pi d}{\\lambda}\\left(1-\\frac{1}{n^{2}}\\sin^{2}\\theta\\right)^{1/2}+\\pi$",
+   "$\\frac{4\\pi d}{\\lambda}\\left(1-\\frac{1}{n^{2}}\\sin^{2}\\theta\\right)^{1/2}$",
+   "$\\frac{4\\pi d}{\\lambda}\\left(1-\\frac{1}{n^{2}}\\sin^{2}\\theta\\right)^{1/2}+\\frac{\\pi}{2}$",
+   "$\\frac{4\\pi d}{\\lambda}\\left(1-\\frac{1}{n^{2}}\\sin^{2}\\theta\\right)^{1/2}+2\\pi$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch10-004",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep110.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "In a Young's double slit experiment, the source is white light. One of the holes is covered by a red filter and another by a blue filter. In this case",
+  "options": [
+   "there shall be alternate interference patterns of red and blue.",
+   "there shall be an interference pattern for red distinct from that for blue.",
+   "there shall be no interference fringes.",
+   "there shall be an interference pattern for red mixing with one for blue."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch10-005",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep110.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "Figure 10.2 shows a standard two slit arrangement with slits $S_1$, $S_2$. $P_1$, $P_2$ are the two minima points on either side of $P$ (Fig. 10.2). At $P_2$ on the screen, there is a hole and behind $P_2$ is a second 2-slit arrangement with slits $S_3$, $S_4$ and a second screen behind them.",
+  "options": [
+   "There would be no interference pattern on the second screen but it would be lighted.",
+   "The second screen would be totally dark.",
+   "There would be a single bright point on the second screen.",
+   "There would be a regular two slit pattern on the second screen."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-ncert-phys-12-ch10-005.png"
+  ],
+  "status": "flagged",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "disputed",
+   "notes": "Transcription and key reading (d) verified. P2 is a minimum so no light reaches the hole and the second screen is dark (b); NCERT key (d) looks wrong.",
+   "status_reason": "solver disagrees with unofficial key"
+  }
+ }
+]

@@ -1,0 +1,290 @@
+[
+ {
+  "id": "tp-ncert-phys-11-ch07-001",
+  "subject": "physics",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep307.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "For which of the following does the centre of mass lie outside the body ?",
+  "options": [
+   "A pencil",
+   "A shotput",
+   "A dice",
+   "A bangle"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch07-002",
+  "subject": "physics",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep307.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "Which of the following points is the likely position of the centre of mass of the system shown in Fig. 7.1?",
+  "options": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-ncert-phys-11-ch07-002.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch07-003",
+  "subject": "physics",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep307.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "A particle of mass $m$ is moving in $yz$-plane with a uniform velocity $v$ with its trajectory running parallel to $+ve$ $y$-axis and intersecting $z$-axis at $z = a$ (Fig. 7.2). The change in its angular momentum about the origin as it bounces elastically from a wall at $y = \\text{constant}$ is:",
+  "options": [
+   "$mva\\,\\hat{\\mathbf{e}}_x$",
+   "$2mva\\,\\hat{\\mathbf{e}}_x$",
+   "$ymv\\,\\hat{\\mathbf{e}}_x$",
+   "$2ymv\\,\\hat{\\mathbf{e}}_x$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-phys-11-ch07-003.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch07-004",
+  "subject": "physics",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep307.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "When a disc rotates with uniform angular velocity, which of the following is not true?",
+  "options": [
+   "The sense of rotation remains same.",
+   "The orientation of the axis of rotation remains same.",
+   "The speed of rotation is non-zero and remains same.",
+   "The angular acceleration is non-zero and remains same."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch07-005",
+  "subject": "physics",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep307.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "A uniform square plate has a small piece Q of an irregular shape removed and glued to the centre of the plate leaving a hole behind (Fig. 7.3). The moment of inertia about the $z$-axis is then",
+  "options": [
+   "increased",
+   "decreased",
+   "the same",
+   "changed in unpredicted manner."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-phys-11-ch07-005.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch07-006",
+  "subject": "physics",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep307.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "In problem 7.5, the CM of the plate is now in the following quadrant of $x$-$y$ plane,",
+  "options": [
+   "I",
+   "II",
+   "III",
+   "IV"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-ncert-phys-11-ch07-006.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch07-007",
+  "subject": "physics",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 7,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep307.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "The density of a non-uniform rod of length 1m is given by $\\rho(x) = a(1+bx^2)$ where $a$ and $b$ are constants and $0 \\le x \\le 1$. The centre of mass of the rod will be at",
+  "options": [
+   "$\\frac{3(2+b)}{4(3+b)}$",
+   "$\\frac{4(2+b)}{3(3+b)}$",
+   "$\\frac{3(3+b)}{4(2+b)}$",
+   "$\\frac{4(3+b)}{3(2+b)}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch07-008",
+  "subject": "physics",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 8,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep307.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "A Merry-go-round, made of a ring-like platform of radius $R$ and mass $M$, is revolving with angular speed $\\omega$. A person of mass $M$ is standing on it. At one instant, the person jumps off the round, radially away from the centre of the round (as seen from the round). The speed of the round afterwards is",
+  "options": [
+   "$2\\omega$",
+   "$\\omega$",
+   "$\\frac{\\omega}{2}$",
+   "$0$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

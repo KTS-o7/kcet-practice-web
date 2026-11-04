@@ -1,0 +1,423 @@
+[
+ {
+  "id": "tp-ncert-phys-11-ch02-001",
+  "subject": "physics",
+  "chapter": "units-and-measurement",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep302.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "The number of significant figures in $0.06900$ is",
+  "options": [
+   "5",
+   "4",
+   "2",
+   "3"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch02-002",
+  "subject": "physics",
+  "chapter": "units-and-measurement",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep302.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "The sum of the numbers $436.32$, $227.2$ and $0.301$ in appropriate significant figures is",
+  "options": [
+   "663.821",
+   "664",
+   "663.8",
+   "663.82"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "disputed",
+   "notes": "Transcription and key reading both verified (key says 2.2 (b) 664). Sum 663.821 must be rounded to least decimal places (227.2 has one) giving 663.8 (option c); printed key appears wrong.",
+   "status_reason": "solver disagrees with unofficial key"
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch02-003",
+  "subject": "physics",
+  "chapter": "units-and-measurement",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep302.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "The mass and volume of a body are $4.237\\,\\mathrm{g}$ and $2.5\\,\\mathrm{cm^3}$, respectively. The density of the material of the body in correct significant figures is",
+  "options": [
+   "$1.6048\\,\\mathrm{g\\,cm^{-3}}$",
+   "$1.69\\,\\mathrm{g\\,cm^{-3}}$",
+   "$1.7\\,\\mathrm{g\\,cm^{-3}}$",
+   "$1.695\\,\\mathrm{g\\,cm^{-3}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch02-004",
+  "subject": "physics",
+  "chapter": "units-and-measurement",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep302.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "The numbers $2.745$ and $2.735$ on rounding off to $3$ significant figures will give",
+  "options": [
+   "2.75 and 2.74",
+   "2.74 and 2.73",
+   "2.75 and 2.73",
+   "2.74 and 2.74"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch02-005",
+  "subject": "physics",
+  "chapter": "units-and-measurement",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep302.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "The length and breadth of a rectangular sheet are $16.2\\,\\mathrm{cm}$ and $10.1\\,\\mathrm{cm}$, respectively. The area of the sheet in appropriate significant figures and error is",
+  "options": [
+   "$164 \\pm 3\\,\\mathrm{cm^2}$",
+   "$163.62 \\pm 2.6\\,\\mathrm{cm^2}$",
+   "$163.6 \\pm 2.6\\,\\mathrm{cm^2}$",
+   "$163.62 \\pm 3\\,\\mathrm{cm^2}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch02-006",
+  "subject": "physics",
+  "chapter": "units-and-measurement",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep302.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "Which of the following pairs of physical quantities does not have same dimensional formula?",
+  "options": [
+   "Work and torque.",
+   "Angular momentum and Planck’s constant.",
+   "Tension and surface tension.",
+   "Impulse and linear momentum."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch02-007",
+  "subject": "physics",
+  "chapter": "units-and-measurement",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 7,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep302.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "Measure of two quantities along with the precision of respective measuring instrument is\n\n$A = 2.5\\,\\mathrm{m\\,s^{-1}} \\pm 0.5\\,\\mathrm{m\\,s^{-1}}$\n\n$B = 0.10\\,\\mathrm{s} \\pm 0.01\\,\\mathrm{s}$\n\nThe value of $AB$ will be",
+  "options": [
+   "$(0.25 \\pm 0.08)\\,\\mathrm{m}$",
+   "$(0.25 \\pm 0.5)\\,\\mathrm{m}$",
+   "$(0.25 \\pm 0.05)\\,\\mathrm{m}$",
+   "$(0.25 \\pm 0.135)\\,\\mathrm{m}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch02-008",
+  "subject": "physics",
+  "chapter": "units-and-measurement",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 8,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep302.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "You measure two quantities as $A = 1.0\\,\\mathrm{m} \\pm 0.2\\,\\mathrm{m}$, $B = 2.0\\,\\mathrm{m} \\pm 0.2\\,\\mathrm{m}$. We should report correct value for $\\sqrt{AB}$ as:",
+  "options": [
+   "$1.4\\,\\mathrm{m} \\pm 0.4\\,\\mathrm{m}$",
+   "$1.41\\,\\mathrm{m} \\pm 0.15\\,\\mathrm{m}$",
+   "$1.4\\,\\mathrm{m} \\pm 0.3\\,\\mathrm{m}$",
+   "$1.4\\,\\mathrm{m} \\pm 0.2\\,\\mathrm{m}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch02-009",
+  "subject": "physics",
+  "chapter": "units-and-measurement",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 9,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep302.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "Which of the following measurements is most precise?",
+  "options": [
+   "$5.00\\,\\mathrm{mm}$",
+   "$5.00\\,\\mathrm{cm}$",
+   "$5.00\\,\\mathrm{m}$",
+   "$5.00\\,\\mathrm{km}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch02-010",
+  "subject": "physics",
+  "chapter": "units-and-measurement",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 10,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep302.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "The mean length of an object is $5\\,\\mathrm{cm}$. Which of the following measurements is most accurate?",
+  "options": [
+   "$4.9\\,\\mathrm{cm}$",
+   "$4.805\\,\\mathrm{cm}$",
+   "$5.25\\,\\mathrm{cm}$",
+   "$5.4\\,\\mathrm{cm}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch02-011",
+  "subject": "physics",
+  "chapter": "units-and-measurement",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 11,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep302.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "Young’s modulus of steel is $1.9 \\times 10^{11}\\,\\mathrm{N/m^{2}}$. When expressed in CGS units of $\\mathrm{dynes/cm^{2}}$, it will be equal to ($1\\,\\mathrm{N} = 10^{5}$ dyne, $1\\,\\mathrm{m^{2}} = 10^{4}\\,\\mathrm{cm^{2}}$)",
+  "options": [
+   "$1.9 \\times 10^{10}$",
+   "$1.9 \\times 10^{11}$",
+   "$1.9 \\times 10^{12}$",
+   "$1.9 \\times 10^{13}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch02-012",
+  "subject": "physics",
+  "chapter": "units-and-measurement",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 12,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep302.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "If momentum ($P$), area ($A$) and time ($T$) are taken to be fundamental quantities, then energy has the dimensional formula",
+  "options": [
+   "$(P^{1} A^{-1} T^{1})$",
+   "$(P^{2} A^{1} T^{1})$",
+   "$(P^{1} A^{-1/2} T^{1})$",
+   "$(P^{1} A^{1/2} T^{-1})$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

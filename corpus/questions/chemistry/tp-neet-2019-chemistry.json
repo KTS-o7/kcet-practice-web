@@ -1,0 +1,1592 @@
+[
+ {
+  "id": "tp-neet-2019-chemistry-046",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 46,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "The number of sigma ($\\sigma$) and pi ($\\pi$) bonds in pent-2-en-4-yne is",
+  "options": [
+   "$10\\sigma$ bonds and $3\\pi$ bonds",
+   "$8\\sigma$ bonds and $5\\pi$ bonds",
+   "$11\\sigma$ bonds and $2\\pi$ bonds",
+   "$13\\sigma$ bonds and no $\\pi$ bonds"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-047",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 47,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "The structure of intermediate A in the following reaction, is",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-neet-2019-chemistry-047.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-048",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-12",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 48,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "The correct structure of tribromooctaoxide is",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-neet-2019-chemistry-048.png"
+  ],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-049",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 49,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "$4d$, $5p$, $5f$ and $6p$ orbitals are arranged in the order of decreasing energy. The correct option is",
+  "options": [
+   "$5f > 6p > 5p > 4d$",
+   "$6p > 5f > 5p > 4d$",
+   "$6p > 5f > 4d > 5p$",
+   "$5f > 6p > 4d > 5p$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "key_confirmed",
+   "notes": "n+l: 5f=8>6p=7>5p=6>4d=6, tie broken by n"
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-050",
+  "subject": "chemistry",
+  "chapter": "redox-reactions",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 50,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "Which of the following reactions are disproportionation reaction?\n\n(a) $\\mathrm{2Cu^{+} \\rightarrow Cu^{2+} + Cu^{0}}$\n\n(b) $\\mathrm{3MnO_4^{2-} + 4H^{+} \\rightarrow 2MnO_4^{-} + MnO_2 + 2H_2O}$\n\n(c) $\\mathrm{2KMnO_4 \\xrightarrow{\\Delta} K_2MnO_4 + MnO_2 + O_2}$\n\n(d) $\\mathrm{2MnO_4^{-} + 3Mn^{2+} + 2H_2O \\rightarrow 5MnO_2 + 4H^{+}}$\n\nSelect the correct option from the following",
+  "options": [
+   "(a) and (b) only",
+   "(a), (b) and (c)",
+   "(a), (c) and (d)",
+   "(a) and (d) only"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "key_confirmed",
+   "notes": "(a),(b) disproportionation; (c) only Mn reduced; (d) comproportionation"
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-051",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 51,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "Under isothermal condition, a gas at $300\\,\\mathrm{K}$ expands from $0.1\\,\\mathrm{L}$ to $0.25\\,\\mathrm{L}$ against a constant external pressure of $2\\,\\mathrm{bar}$. The work done by the gas is\n\n(Given that $1\\,\\mathrm{L\\,bar} = 100\\,\\mathrm{J}$)",
+  "options": [
+   "$-30\\,\\mathrm{J}$",
+   "$5\\,\\mathrm{kJ}$",
+   "$25\\,\\mathrm{J}$",
+   "$30\\,\\mathrm{J}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "key_confirmed",
+   "notes": "NTA key P1 Q51 = 4 (30 J); work done BY gas is +30 J literally; Aakash solution uses IUPAC w=-30 J (option 1) but official key reads 4"
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-052",
+  "subject": "chemistry",
+  "chapter": "environmental-chemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 52,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "Among the following, the one that is not a green house gas is",
+  "options": [
+   "Nitrous oxide",
+   "Methane",
+   "Ozone",
+   "Sulphur dioxide"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-053",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 53,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "For the cell reaction\n\n$\\mathrm{2Fe^{3+}(aq) + 2I^{-}(aq) \\rightarrow 2Fe^{2+}(aq) + I_2(aq)}$\n\n$E^{\\circ}_{\\mathrm{cell}} = 0.24\\,\\mathrm{V}$ at $298\\,\\mathrm{K}$. The standard Gibbs energy ($\\Delta_rG^{\\circ}$) of the cell reaction is :\n\n[Given that Faraday constant $F = 96500\\,\\mathrm{C\\,mol^{-1}}$]",
+  "options": [
+   "$-46.32\\,\\mathrm{kJ\\,mol^{-1}}$",
+   "$-23.16\\,\\mathrm{kJ\\,mol^{-1}}$",
+   "$46.32\\,\\mathrm{kJ\\,mol^{-1}}$",
+   "$23.16\\,\\mathrm{kJ\\,mol^{-1}}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-054",
+  "subject": "chemistry",
+  "chapter": "the-s-block-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 54,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "Enzymes that utilize ATP in phosphate transfer require an alkaline earth metal (M) as the cofactor. M is :",
+  "options": [
+   "Be",
+   "Mg",
+   "Ca",
+   "Sr"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-055",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 55,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "The most suitable reagent for the following conversion, is :",
+  "options": [
+   "Na/liquid $\\mathrm{NH_3}$",
+   "$\\mathrm{H_2}$, Pd/C, quinoline",
+   "Zn/HCl",
+   "$\\mathrm{Hg^{2+}/H^{+}, H_2O}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-neet-2019-chemistry-055.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-056",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-12",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 56,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "Which is the correct thermal stability order for $\\mathrm{H_2E}$ (E = O, S, Se, Te and Po)?",
+  "options": [
+   "$\\mathrm{H_2S < H_2O < H_2Se < H_2Te < H_2Po}$",
+   "$\\mathrm{H_2O < H_2S < H_2Se < H_2Te < H_2Po}$",
+   "$\\mathrm{H_2Po < H_2Te < H_2Se < H_2S < H_2O}$",
+   "$\\mathrm{H_2Se < H_2Te < H_2Po < H_2O < H_2S}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-057",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-11",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 57,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "Which of the following is incorrect statement?",
+  "options": [
+   "$\\mathrm{PbF_4}$ is covalent in nature",
+   "$\\mathrm{SiCl_4}$ is easily hydrolysed",
+   "$\\mathrm{GeX_4}$ (X = F, Cl, Br, I) is more stable than $\\mathrm{GeX_2}$",
+   "$\\mathrm{SnF_4}$ is ionic in nature"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-058",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-12",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 58,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "Match the following :\n\n(a) Pure nitrogen (i) Chlorine\n\n(b) Haber process (ii) Sulphuric acid\n\n(c) Contact process (iii) Ammonia\n\n(d) Deacon's process (iv) Sodium azide or Barium azide\n\nWhich of the following is the correct option?\n\n(a) (b) (c) (d)",
+  "options": [
+   "(i) (ii) (iii) (iv)",
+   "(ii) (iv) (i) (iii)",
+   "(iii) (iv) (ii) (i)",
+   "(iv) (iii) (ii) (i)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-059",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 59,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "Which of the following diatomic molecular species has only $\\pi$ bonds according to Molecular Orbital Theory?",
+  "options": [
+   "$\\mathrm{O_2}$",
+   "$\\mathrm{N_2}$",
+   "$\\mathrm{C_2}$",
+   "$\\mathrm{Be_2}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-060",
+  "subject": "chemistry",
+  "chapter": "classification-of-elements-and-periodicity",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 60,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "For the second period elements the correct increasing order of first ionisation enthalpy is:",
+  "options": [
+   "Li < Be < B < C < N < O < F < Ne",
+   "Li < B < Be < C < O < N < F < Ne",
+   "Li < B < Be < C < N < O < F < Ne",
+   "Li < Be < B < C < O < N < F < Ne"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-061",
+  "subject": "chemistry",
+  "chapter": "polymers",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 61,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "The biodegradable polymer is:",
+  "options": [
+   "Nylon-6,6",
+   "Nylon-2-Nylon 6",
+   "Nylon-6",
+   "Buna-S"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-062",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 62,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "pH of a saturated solution of $\\mathrm{Ca(OH)_2}$ is 9. The solubility product ($K_{sp}$) of $\\mathrm{Ca(OH)_2}$ is:",
+  "options": [
+   "$0.5 \\times 10^{-15}$",
+   "$0.25 \\times 10^{-10}$",
+   "$0.125 \\times 10^{-15}$",
+   "$0.5 \\times 10^{-10}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-063",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 63,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "If the rate constant for a first order reaction is k, the time (t) required for the completion of 99% of the reaction is given by:",
+  "options": [
+   "$t = 0.693/k$",
+   "$t = 6.909/k$",
+   "$t = 4.606/k$",
+   "$t = 2.303/k$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-064",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 64,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "The non-essential amino acid among the following is:",
+  "options": [
+   "Valine",
+   "Leucine",
+   "Alanine",
+   "Lysine"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-065",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 65,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 16,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "Among the following, the reaction that proceeds through an electrophilic substitution, is:",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-neet-2019-chemistry-065.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-066",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 66,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 16,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "The mixture that forms maximum boiling azeotrope is:",
+  "options": [
+   "Water + Nitric acid",
+   "Ethanol + Water",
+   "Acetone + Carbon disulphide",
+   "Heptane + Octane"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-067",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 67,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 16,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "For the chemical reaction\n\n$\\mathrm{N_2(g) + 3H_2(g) \\rightleftharpoons 2NH_3(g)}$\n\nThe correct option is:",
+  "options": [
+   "$-\\frac{1}{3}\\frac{d[\\mathrm{H_2}]}{dt} = -\\frac{1}{2}\\frac{d[\\mathrm{NH_3}]}{dt}$",
+   "$-\\frac{d[\\mathrm{N_2}]}{dt} = 2\\frac{d[\\mathrm{NH_3}]}{dt}$",
+   "$-\\frac{d[\\mathrm{N_2}]}{dt} = \\frac{1}{2}\\frac{d[\\mathrm{NH_3}]}{dt}$",
+   "$3\\frac{d[\\mathrm{H_2}]}{dt} = 2\\frac{d[\\mathrm{NH_3}]}{dt}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-068",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 68,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 16,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "The number of moles of hydrogen molecules required to produce $20$ moles of ammonia through Haber's process is :",
+  "options": [
+   "10",
+   "20",
+   "30",
+   "40"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-069",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 69,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 17,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "The compound that is most difficult to protonate is :",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-neet-2019-chemistry-069.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-070",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 70,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 17,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "For an ideal solution, the correct option is :",
+  "options": [
+   "$\\Delta_{\\mathrm{mix}} S = 0$ at constant T and P",
+   "$\\Delta_{\\mathrm{mix}} V \\neq 0$ at constant T and P",
+   "$\\Delta_{\\mathrm{mix}} H = 0$ at constant T and P",
+   "$\\Delta_{\\mathrm{mix}} G = 0$ at constant T and P"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-071",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 71,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 17,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "Conjugate base for Brönsted acids $\\mathrm{H_2O}$ and $\\mathrm{HF}$ are :",
+  "options": [
+   "$\\mathrm{OH^-}$ and $\\mathrm{H_2F^+}$, respectively",
+   "$\\mathrm{H_3O^+}$ and $\\mathrm{F^-}$, respectively",
+   "$\\mathrm{OH^-}$ and $\\mathrm{F^-}$, respectively",
+   "$\\mathrm{H_3O^+}$ and $\\mathrm{H_2F^+}$, respectively"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-072",
+  "subject": "chemistry",
+  "chapter": "surface-chemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 72,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 17,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "Which mixture of the solutions will lead to the formation of negatively charged colloidal $\\mathrm{[AgI]I^{-}}$ sol ?",
+  "options": [
+   "$50\\,\\mathrm{mL}$ of $1\\,\\mathrm{M}$ $\\mathrm{AgNO_3}$ + $50\\,\\mathrm{mL}$ of $1.5\\,\\mathrm{M}$ $\\mathrm{KI}$",
+   "$50\\,\\mathrm{mL}$ of $1\\,\\mathrm{M}$ $\\mathrm{AgNO_3}$ + $50\\,\\mathrm{mL}$ of $2\\,\\mathrm{M}$ $\\mathrm{KI}$",
+   "$50\\,\\mathrm{mL}$ of $2\\,\\mathrm{M}$ $\\mathrm{AgNO_3}$ + $50\\,\\mathrm{mL}$ of $1.5\\,\\mathrm{M}$ $\\mathrm{KI}$",
+   "$50\\,\\mathrm{mL}$ of $0.1\\,\\mathrm{M}$ $\\mathrm{AgNO_3}$ + $50\\,\\mathrm{mL}$ of $0.1\\,\\mathrm{M}$ $\\mathrm{KI}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0,
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-073",
+  "subject": "chemistry",
+  "chapter": "chemistry-in-everyday-life",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 73,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 17,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "Among the following, the narrow spectrum antibiotic is :",
+  "options": [
+   "Penicillin G",
+   "Ampicillin",
+   "Amoxycillin",
+   "Chloramphenicol"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-074",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 74,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 17,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "An alkene \"A\" on reaction with $\\mathrm{O_3}$ and $\\mathrm{Zn–H_2O}$ gives propanone and ethanal in equimolar ratio. Addition of HCl to alkene \"A\" gives \"B\" as the major product. The structure of product \"B\" is:",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-neet-2019-chemistry-074.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-075",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 75,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 18,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "What is the correct electronic configuration of the central atom in $\\mathrm{K_4[Fe(CN)_6]}$ based on crystal field theory?",
+  "options": [
+   "$t_{2g}^{4}e_{g}^{2}$",
+   "$t_{2g}^{6}e_{g}^{0}$",
+   "$e^{3}t_{2}^{3}$",
+   "$e^{4}t_{2}^{2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-076",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 76,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 18,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "Identify the incorrect statement related to $\\mathrm{PCl_5}$ from the following:",
+  "options": [
+   "Three equatorial P–Cl bonds make an angle of $120^\\circ$ with each other",
+   "Two axial P–Cl bonds make an angle of $180^\\circ$ with each other",
+   "Axial P–Cl bonds are longer than equatorial P–Cl bonds",
+   "$\\mathrm{PCl_5}$ molecule is non-reactive"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-077",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 77,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 18,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "Which will make basic buffer?",
+  "options": [
+   "$50\\,\\mathrm{mL}$ of $0.1\\,\\mathrm{M}$ $\\mathrm{NaOH}$ + $25\\,\\mathrm{mL}$ of $0.1\\,\\mathrm{M}$ $\\mathrm{CH_3COOH}$",
+   "$100\\,\\mathrm{mL}$ of $0.1\\,\\mathrm{M}$ $\\mathrm{CH_3COOH}$ + $100\\,\\mathrm{mL}$ of $0.1\\,\\mathrm{M}$ $\\mathrm{NaOH}$",
+   "$100\\,\\mathrm{mL}$ of $0.1\\,\\mathrm{M}$ $\\mathrm{HCl}$ + $200\\,\\mathrm{mL}$ of $0.1\\,\\mathrm{M}$ $\\mathrm{NH_4OH}$",
+   "$100\\,\\mathrm{mL}$ of $0.1\\,\\mathrm{M}$ $\\mathrm{HCl}$ + $100\\,\\mathrm{mL}$ of $0.1\\,\\mathrm{M}$ $\\mathrm{NaOH}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-078",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 78,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 19,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "The major product of the following reaction is:",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-neet-2019-chemistry-078.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-079",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-12",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 79,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 19,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "Match the Xenon compounds in Column-I with its structure in Column-II and assign the correct code:\n\n| Column-I | Column-II |\n|---|---|\n| (a) $\\mathrm{XeF_4}$ | (i) Pyramidal |\n| (b) $\\mathrm{XeF_6}$ | (ii) Square planar |\n| (c) $\\mathrm{XeOF_4}$ | (iii) Distorted octahedral |\n| (d) $\\mathrm{XeO_3}$ | (iv) Square pyramidal |\n\nCode:\n\n(a) (b) (c) (d)",
+  "options": [
+   "(i) (ii) (iii) (iv)",
+   "(ii) (iii) (iv) (i)",
+   "(ii) (iii) (i) (iv)",
+   "(iii) (iv) (i) (ii)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-080",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 80,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 19,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "The manganate and permanganate ions are tetrahedral, due to :",
+  "options": [
+   "The $\\pi$-bonding involves overlap of p-orbitals of oxygen with d-orbitals of manganese",
+   "There is no $\\pi$-bonding",
+   "The $\\pi$-bonding involves overlap of p-orbitals of oxygen with p-orbitals of manganese",
+   "The $\\pi$-bonding involves overlap of d-orbitals of oxygen with d-orbitals of manganese"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-081",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-11",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 81,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 20,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "Which of the following species is not stable?",
+  "options": [
+   "$\\mathrm{[SiF_6]^{2-}}$",
+   "$\\mathrm{[GeCl_6]^{2-}}$",
+   "$\\mathrm{[Sn(OH)_6]^{2-}}$",
+   "$\\mathrm{[SiCl_6]^{2-}}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-082",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 82,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 20,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "For a cell involving one electron $E^{\\circ}_{\\mathrm{cell}} = 0.59\\,\\mathrm{V}$ at $298\\,\\mathrm{K}$, the equilibrium constant for the cell reaction is :\n\n[Given that $\\dfrac{2.303\\,RT}{F} = 0.059\\,\\mathrm{V}$ at $T = 298\\,\\mathrm{K}$]",
+  "options": [
+   "$1.0 \\times 10^{2}$",
+   "$1.0 \\times 10^{5}$",
+   "$1.0 \\times 10^{10}$",
+   "$1.0 \\times 10^{30}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-083",
+  "subject": "chemistry",
+  "chapter": "the-s-block-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 83,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 20,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "Which of the following is an amphoteric hydroxide?",
+  "options": [
+   "$\\mathrm{Sr(OH)_2}$",
+   "$\\mathrm{Ca(OH)_2}$",
+   "$\\mathrm{Mg(OH)_2}$",
+   "$\\mathrm{Be(OH)_2}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-084",
+  "subject": "chemistry",
+  "chapter": "states-of-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 84,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 20,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "A gas at $350\\,\\mathrm{K}$ and $15\\,\\mathrm{bar}$ has molar volume 20 percent smaller than that for an ideal gas under the same conditions. The correct option about the gas and its compressibility factor (Z) is :",
+  "options": [
+   "$Z > 1$ and attractive forces are dominant",
+   "$Z > 1$ and repulsive forces are dominant",
+   "$Z < 1$ and attractive forces are dominant",
+   "$Z < 1$ and repulsive forces are dominant"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-085",
+  "subject": "chemistry",
+  "chapter": "the-solid-state",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 85,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 20,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "A compound is formed by cation C and anion A. The anions form hexagonal close packed (hcp) lattice and the cations occupy 75% of octahedral voids. The formula of the compound is :",
+  "options": [
+   "$\\mathrm{C_2A_3}$",
+   "$\\mathrm{C_3A_2}$",
+   "$\\mathrm{C_3A_4}$",
+   "$\\mathrm{C_4A_3}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-086",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 86,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 21,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "In which case change in entropy is negative?",
+  "options": [
+   "Evaporation of water",
+   "Expansion of a gas at constant temperature",
+   "Sublimation of solid to gas",
+   "$\\mathrm{2H(g) \\rightarrow H_2(g)}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-087",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 87,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 21,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "Which of the following series of transitions in the spectrum of hydrogen atom fall in visible region?",
+  "options": [
+   "Lyman series",
+   "Balmer series",
+   "Paschen series",
+   "Brackett series"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-088",
+  "subject": "chemistry",
+  "chapter": "the-s-block-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 88,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 21,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "The method used to remove temporary hardness of water is :",
+  "options": [
+   "Calgon's method",
+   "Clark's method",
+   "Ion-exchange method",
+   "Synthetic resins method"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-089",
+  "subject": "chemistry",
+  "chapter": "general-principles-and-processes-of-isolation-of-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 89,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 21,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "Which one is malachite from the following?",
+  "options": [
+   "$\\mathrm{CuFeS_2}$",
+   "$\\mathrm{Cu(OH)_2}$",
+   "$\\mathrm{Fe_3O_4}$",
+   "$\\mathrm{CuCO_3.Cu(OH)_2}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-chemistry-090",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 90,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 21,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "The correct order of the basic strength of methyl substituted amines in aqueous solution is :",
+  "options": [
+   "$\\mathrm{(CH_3)_2NH > CH_3NH_2 > (CH_3)_3N}$",
+   "$\\mathrm{(CH_3)_3N > CH_3NH_2 > (CH_3)_2NH}$",
+   "$\\mathrm{(CH_3)_3N > (CH_3)_2NH > CH_3NH_2}$",
+   "$\\mathrm{CH_3NH_2 > (CH_3)_2NH > (CH_3)_3N}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

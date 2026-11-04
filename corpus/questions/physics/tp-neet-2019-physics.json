@@ -1,0 +1,1590 @@
+[
+ {
+  "id": "tp-neet-2019-physics-001",
+  "subject": "physics",
+  "chapter": "mechanical-properties-of-solids",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 1,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "When a block of mass $M$ is suspended by a long wire of length $L$, the length of the wire becomes $(L + l)$. The elastic potential energy stored in the extended wire is :",
+  "options": [
+   "$Mgl$",
+   "$MgL$",
+   "$\\frac{1}{2}Mgl$",
+   "$\\frac{1}{2}MgL$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-002",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 2,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "A mass $m$ is attached to a thin wire and whirled in a vertical circle. The wire is most likely to break when:",
+  "options": [
+   "the mass is at the highest point",
+   "the wire is horizontal",
+   "the mass is at the lowest point",
+   "inclined at an angle of $60^\\circ$ from vertical"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-003",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 3,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "Ionized hydrogen atoms and $\\alpha$-particles with same momenta enters perpendicular to a constant magnetic field, $B$. The ratio of their radii of their paths $r_H : r_\\alpha$ will be :",
+  "options": [
+   "$2 : 1$",
+   "$1 : 2$",
+   "$4 : 1$",
+   "$1 : 4$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-004",
+  "subject": "physics",
+  "chapter": "work-energy-and-power",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 4,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "Body A of mass $4m$ moving with speed $u$ collides with another body B of mass $2m$, at rest. The collision is head on and elastic in nature. After the collision the fraction of energy lost by the colliding body A is :",
+  "options": [
+   "$\\frac{1}{9}$",
+   "$\\frac{8}{9}$",
+   "$\\frac{4}{9}$",
+   "$\\frac{5}{9}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-005",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 5,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "In a double slit experiment, when light of wavelength $400\\,\\mathrm{nm}$ was used, the angular width of the first minima formed on a screen placed $1\\,\\mathrm{m}$ away, was found to be $0.2^\\circ$. What will be the angular width of the first minima, if the entire experimental apparatus is immersed in water? ($\\mu_{\\mathrm{water}} = \\frac{4}{3}$)",
+  "options": [
+   "$0.266^\\circ$",
+   "$0.15^\\circ$",
+   "$0.05^\\circ$",
+   "$0.1^\\circ$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-006",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 6,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "In which of the following devices, the eddy current effect is not used?",
+  "options": [
+   "Induction furnace",
+   "Magnetic braking in train",
+   "Electromagnet",
+   "Electric heater"
+  ],
+  "answer": 2,
+  "accepted": [
+   2,
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-007",
+  "subject": "physics",
+  "chapter": "mechanical-properties-of-fluids",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 7,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "A soap bubble, having radius of $1\\,\\mathrm{mm}$, is blown from a detergent solution having a surface tension of $2.5 \\times 10^{-2}\\,\\mathrm{N/m}$. The pressure inside the bubble equals at a point $Z_0$ below the free surface of water in a container. Taking $g = 10\\,\\mathrm{m/s^2}$, density of water $= 10^{3}\\,\\mathrm{kg/m^3}$, the value of $Z_0$ is :",
+  "options": [
+   "$100\\,\\mathrm{cm}$",
+   "$10\\,\\mathrm{cm}$",
+   "$1\\,\\mathrm{cm}$",
+   "$0.5\\,\\mathrm{cm}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-008",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 8,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "Which colour of the light has the longest wavelength?",
+  "options": [
+   "Red",
+   "Blue",
+   "Green",
+   "Violet"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-009",
+  "subject": "physics",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 9,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "A disc of radius $2\\,\\mathrm{m}$ and mass $100\\,\\mathrm{kg}$ rolls on a horizontal floor. Its centre of mass has speed of $20\\,\\mathrm{cm/s}$. How much work is needed to stop it?",
+  "options": [
+   "$3\\,\\mathrm{J}$",
+   "$30\\,\\mathrm{kJ}$",
+   "$2\\,\\mathrm{J}$",
+   "$1\\,\\mathrm{J}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-010",
+  "subject": "physics",
+  "chapter": "oscillations",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 10,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "The displacement of a particle executing simple harmonic motion is given by $y = A_0 + A\\sin\\omega t + B\\cos\\omega t$. Then the amplitude of its oscillation is given by :",
+  "options": [
+   "$A_0 + \\sqrt{A^2 + B^2}$",
+   "$\\sqrt{A^2 + B^2}$",
+   "$\\sqrt{A_0^2 + (A + B)^2}$",
+   "$A + B$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-011",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 11,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "Two similar thin equi-convex lenses, of focal length $f$ each, are kept coaxially in contact with each other such that the focal length of the combination is $F_1$. When the space between the two lenses is filled with glycerine (which has the same refractive index ($\\mu = 1.5$) as that of glass) then the equivalent focal length is $F_2$. The ratio $F_1 : F_2$ will be :",
+  "options": [
+   "$2 : 1$",
+   "$1 : 2$",
+   "$2 : 3$",
+   "$3 : 4$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-012",
+  "subject": "physics",
+  "chapter": "kinetic-theory",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 12,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "Increase in temperature of a gas filled in a container would lead to :",
+  "options": [
+   "Increase in its mass",
+   "Increase in its kinetic energy",
+   "Decrease in its pressure",
+   "Decrease in intermolecular distance"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-013",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 13,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "An electron is accelerated through a potential difference of 10,000 V. Its de Broglie wavelength is, (nearly) : ($m_e = 9 \\times 10^{-31}\\,\\mathrm{kg}$)",
+  "options": [
+   "$12.2 \\times 10^{-13}\\,\\mathrm{m}$",
+   "$12.2 \\times 10^{-12}\\,\\mathrm{m}$",
+   "$12.2 \\times 10^{-14}\\,\\mathrm{m}$",
+   "$12.2\\,\\mathrm{nm}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-014",
+  "subject": "physics",
+  "chapter": "thermal-properties-of-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 14,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "A copper rod of $88\\,\\mathrm{cm}$ and an aluminium rod of unknown length have their increase in length independent of increase in temperature. The length of aluminium rod is : ($\\alpha_{\\mathrm{Cu}} = 1.7 \\times 10^{-5}\\,\\mathrm{K^{-1}}$ and $\\alpha_{\\mathrm{Al}} = 2.2 \\times 10^{-5}\\,\\mathrm{K^{-1}}$)",
+  "options": [
+   "$6.8\\,\\mathrm{cm}$",
+   "$113.9\\,\\mathrm{cm}$",
+   "$88\\,\\mathrm{cm}$",
+   "$68\\,\\mathrm{cm}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-015",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 15,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "Pick the wrong answer in the context with rainbow.",
+  "options": [
+   "When the light rays undergo two internal reflections in a water drop, a secondary rainbow is formed",
+   "The order of colours is reversed in the secondary rainbow",
+   "An observer can see a rainbow when his front is towards the sun",
+   "Rainbow is a combined effect of dispersion refraction and reflection of sunlight"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-016",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 16,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "A body weighs $200\\,\\mathrm{N}$ on the surface of the earth. How much will it weigh half way down to the centre of the earth ?",
+  "options": [
+   "$150\\,\\mathrm{N}$",
+   "$200\\,\\mathrm{N}$",
+   "$250\\,\\mathrm{N}$",
+   "$100\\,\\mathrm{N}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-017",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 17,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "Six similar bulbs are connected as shown in the figure with a DC source of emf $E$ and zero internal resistance. The ratio of power consumption by the bulbs when (i) all are glowing and (ii) in the situation when two from section A and one from section B are glowing, will be :",
+  "options": [
+   "$4 : 9$",
+   "$9 : 4$",
+   "$1 : 2$",
+   "$2 : 1$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-neet-2019-physics-017.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-018",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 18,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "For a p-type semiconductor, which of the following statements is true ?",
+  "options": [
+   "Electrons are the majority carriers and trivalent atoms are the dopants.",
+   "Holes are the majority carriers and trivalent atoms are the dopants.",
+   "Holes are the majority carriers and pentavalent atoms are the dopants.",
+   "Electrons are the majority carriers and pentavalent atoms are the dopants."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-019",
+  "subject": "physics",
+  "chapter": "oscillations",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 19,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "Average velocity of a particle executing SHM in one complete vibration is :",
+  "options": [
+   "$\\frac{A\\omega}{2}$",
+   "$A\\omega$",
+   "$\\frac{A\\omega^2}{2}$",
+   "Zero"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-020",
+  "subject": "physics",
+  "chapter": "thermal-properties-of-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 20,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "The unit of thermal conductivity is :",
+  "options": [
+   "$\\mathrm{J\\,m\\,K^{-1}}$",
+   "$\\mathrm{J\\,m^{-1}\\,K^{-1}}$",
+   "$\\mathrm{W\\,m\\,K^{-1}}$",
+   "$\\mathrm{W\\,m^{-1}\\,K^{-1}}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-021",
+  "subject": "physics",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 21,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "A solid cylinder of mass $2\\,\\mathrm{kg}$ and radius $4\\,\\mathrm{cm}$ rotating about its axis at the rate of $3$ rpm. The torque required to stop after $2\\pi$ revolutions is",
+  "options": [
+   "$2 \\times 10^{-6}\\,\\mathrm{N\\,m}$",
+   "$2 \\times 10^{-3}\\,\\mathrm{N\\,m}$",
+   "$12 \\times 10^{-4}\\,\\mathrm{N\\,m}$",
+   "$2 \\times 10^{6}\\,\\mathrm{N\\,m}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-022",
+  "subject": "physics",
+  "chapter": "work-energy-and-power",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 22,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "A force $F = 20 + 10y$ acts on a particle in $y$-direction where $F$ is in newton and $y$ in meter. Work done by this force to move the particle from $y = 0$ to $y = 1\\,\\mathrm{m}$ is",
+  "options": [
+   "$30\\,\\mathrm{J}$",
+   "$5\\,\\mathrm{J}$",
+   "$25\\,\\mathrm{J}$",
+   "$20\\,\\mathrm{J}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-023",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 23,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "Which of the following acts as a circuit protecting device?",
+  "options": [
+   "Conductor",
+   "Inductor",
+   "Switch",
+   "Fuse"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-024",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 24,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "In the circuits shown below, the readings of voltmeters and the ammeters will be",
+  "options": [
+   "$V_2 > V_1$ and $i_1 = i_2$",
+   "$V_1 = V_2$ and $i_1 > i_2$",
+   "$V_1 = V_2$ and $i_1 = i_2$",
+   "$V_2 > V_1$ and $i_1 > i_2$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-neet-2019-physics-024.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-025",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 25,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "A hollow metal sphere of radius $R$ is uniformly charged. The electric field due to the sphere at a distance $r$ from the centre",
+  "options": [
+   "Increases as $r$ increases for $r < R$ and for $r > R$",
+   "Zero as $r$ increases for $r < R$, decreases as $r$ increases for $r > R$",
+   "Zero as $r$ increases for $r < R$, increases as $r$ increases for $r > R$",
+   "Decreases as $r$ increases for $r < R$ and for $r > R$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-026",
+  "subject": "physics",
+  "chapter": "magnetism-and-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 26,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 7,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "At a point A on the earth's surface the angle of dip, $\\delta = +25^\\circ$. At a point B on the earth's surface the angle of dip, $\\delta = -25^\\circ$. We can interpret that:",
+  "options": [
+   "A and B are both located in the northern hemisphere.",
+   "A is located in the southern hemisphere and B is located in the northern hemisphere.",
+   "A is located in the northern hemisphere and B is located in the southern hemisphere.",
+   "A and B are both located in the southern hemisphere."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-027",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 27,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 7,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "The total energy of an electron in an atom in an orbit is $-3.4\\,\\mathrm{eV}$. Its kinetic and potential energies are, respectively:",
+  "options": [
+   "$-3.4\\,\\mathrm{eV}$, $-3.4\\,\\mathrm{eV}$",
+   "$-3.4\\,\\mathrm{eV}$, $-6.8\\,\\mathrm{eV}$",
+   "$3.4\\,\\mathrm{eV}$, $-6.8\\,\\mathrm{eV}$",
+   "$3.4\\,\\mathrm{eV}$, $3.4\\,\\mathrm{eV}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-028",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 28,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 7,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "In total internal reflection when the angle of incidence is equal to the critical angle for the pair of media in contact, what will be angle of refraction?",
+  "options": [
+   "$180^\\circ$",
+   "$0^\\circ$",
+   "Equal to angle of incidence",
+   "$90^\\circ$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-029",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 29,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 8,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "The work done to raise a mass $m$ from the surface of the earth to a height $h$, which is equal to the radius of the earth, is:",
+  "options": [
+   "$mgR$",
+   "$2mgR$",
+   "$\\frac{1}{2}mgR$",
+   "$\\frac{3}{2}mgR$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-030",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 30,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 8,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "When an object is shot from the bottom of a long smooth inclined plane kept at an angle $60^\\circ$ with horizontal, it can travel a distance $x_1$ along the plane. But when the inclination is decreased to $30^\\circ$ and the same object is shot with the same velocity, it can travel $x_2$ distance. Then $x_1 : x_2$ will be:",
+  "options": [
+   "$1 : \\sqrt{2}$",
+   "$\\sqrt{2} : 1$",
+   "$1 : \\sqrt{3}$",
+   "$1 : 2\\sqrt{3}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-031",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 31,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 8,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "$\\alpha$-particle consists of :",
+  "options": [
+   "2 protons and 2 neutrons only",
+   "2 electrons, 2 protons and 2 neutrons",
+   "2 electrons and 4 protons only",
+   "2 protons only"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-032",
+  "subject": "physics",
+  "chapter": "motion-in-a-plane",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 32,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 8,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "The speed of a swimmer in still water is $20\\,\\mathrm{m/s}$. The speed of river water is $10\\,\\mathrm{m/s}$ and is flowing due east. If he is standing on the south bank and wishes to cross the river along the shortest path the angle at which he should make his strokes w.r.t. north is given by :",
+  "options": [
+   "$30^\\circ$ west",
+   "$0^\\circ$",
+   "$60^\\circ$ west",
+   "$45^\\circ$ west"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-033",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 33,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 9,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "A particle moving with velocity $\\vec{V}$ is acted by three forces shown by the vector triangle PQR. The velocity of the particle will :",
+  "options": [
+   "Increase",
+   "Decrease",
+   "Remain constant",
+   "Change according to the smallest force $\\vec{QR}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-neet-2019-physics-033.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-034",
+  "subject": "physics",
+  "chapter": "motion-in-a-plane",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 34,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 9,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "Two particles A and B are moving in uniform circular motion in concentric circles of radii $r_A$ and $r_B$ with speed $v_A$ and $v_B$ respectively. Their time period of rotation is the same. The ratio of angular speed of A to that of B will be :",
+  "options": [
+   "$r_A : r_B$",
+   "$v_A : v_B$",
+   "$r_B : r_A$",
+   "$1 : 1$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-035",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 35,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 9,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "A block of mass $10\\,\\mathrm{kg}$ is in contact against the inner wall of a hollow cylindrical drum of radius $1\\,\\mathrm{m}$. The coefficient of friction between the block and the inner wall of the cylinder is $0.1$. The minimum angular velocity needed for the cylinder to keep the block stationary when the cylinder is vertical and rotating about its axis, will be : ($g = 10\\,\\mathrm{m/s^2}$)",
+  "options": [
+   "$\\sqrt{10}\\,\\mathrm{rad/s}$",
+   "$\\frac{10}{2\\pi}\\,\\mathrm{rad/s}$",
+   "$10\\,\\mathrm{rad/s}$",
+   "$10\\pi\\,\\mathrm{rad/s}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-036",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 36,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 9,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "Two parallel infinite line charges with linear charge densities $+\\lambda$ C/m and $-\\lambda$ C/m are placed at a distance of $2R$ in free space. What is the electric field mid-way between the two line charges?",
+  "options": [
+   "Zero",
+   "$\\frac{2\\lambda}{\\pi\\varepsilon_0 R}$ N/C",
+   "$\\frac{\\lambda}{\\pi\\varepsilon_0 R}$ N/C",
+   "$\\frac{\\lambda}{2\\pi\\varepsilon_0 R}$ N/C"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-037",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 37,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 10,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "Two point charges A and B, having charges $+Q$ and $-Q$ respectively, are placed at certain distance apart and force acting between them is $F$. If $25\\%$ charge of A is transferred to B, then force between the charges becomes :",
+  "options": [
+   "$F$",
+   "$\\frac{9F}{16}$",
+   "$\\frac{16F}{9}$",
+   "$\\frac{4F}{3}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-038",
+  "subject": "physics",
+  "chapter": "mechanical-properties-of-fluids",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 38,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 10,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "A small hole of area of cross-section $2\\,\\mathrm{mm^2}$ is present near the bottom of a fully filled open tank of height $2\\,\\mathrm{m}$. Taking $g = 10\\,\\mathrm{m/s^2}$, the rate of flow of water through the open hole would be nearly",
+  "options": [
+   "$12.6 \\times 10^{-6}\\,\\mathrm{m^3/s}$",
+   "$8.9 \\times 10^{-6}\\,\\mathrm{m^3/s}$",
+   "$2.23 \\times 10^{-6}\\,\\mathrm{m^3/s}$",
+   "$6.4 \\times 10^{-6}\\,\\mathrm{m^3/s}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-039",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 39,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 10,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "The correct Boolean operation represented by the circuit diagram drawn is :",
+  "options": [
+   "AND",
+   "OR",
+   "NAND",
+   "NOR"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-neet-2019-physics-039.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "key_confirmed",
+   "notes": "Transcription matches page image; series switches short the lower R only when both are at 1, so output is NAND; agrees with key."
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-040",
+  "subject": "physics",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 40,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 11,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "In which of the following processes, heat is neither absorbed nor released by a system?",
+  "options": [
+   "Isothermal",
+   "Adiabatic",
+   "Isobaric",
+   "Isochoric"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-041",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 41,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 11,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "A 800 turn coil of effective area $0.05\\,\\mathrm{m^2}$ is kept perpendicular to a magnetic field $5 \\times 10^{-5}\\,\\mathrm{T}$. When the plane of the coil is rotated by $90^\\circ$ around any of its coplanar axis in $0.1\\,\\mathrm{s}$, the emf induced in the coil will be:",
+  "options": [
+   "2 V",
+   "0.2 V",
+   "$2 \\times 10^{-3}\\,\\mathrm{V}$",
+   "0.02 V"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-042",
+  "subject": "physics",
+  "chapter": "oscillations",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 42,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 11,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "The radius of circle, the period of revolution, initial position and sense of revolution are indicated in the fig. $y$-projection of the radius vector of rotating particle $P$ is :",
+  "options": [
+   "$y(t) = -3\\cos 2\\pi t$, where $y$ in m",
+   "$y(t) = 4\\sin\\left(\\frac{\\pi t}{2}\\right)$, where $y$ in m",
+   "$y(t) = 3\\cos\\left(\\frac{3\\pi t}{2}\\right)$, where $y$ in m",
+   "$y(t) = 3\\cos\\left(\\frac{\\pi t}{2}\\right)$, where $y$ in m"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-neet-2019-physics-042.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-043",
+  "subject": "physics",
+  "chapter": "electromagnetic-waves",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 43,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "A parallel plate capacitor of capacitance $20\\,\\mu\\mathrm{F}$ is being charged by a voltage source whose potential is changing at the rate of $3$ V/s. The conduction current through the connecting wires, and the displacement current through the plates of the capacitor, would be, respectively:",
+  "options": [
+   "Zero, $60\\,\\mu\\mathrm{A}$",
+   "$60\\,\\mu\\mathrm{A}$, $60\\,\\mu\\mathrm{A}$",
+   "$60\\,\\mu\\mathrm{A}$, zero",
+   "Zero, zero"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-044",
+  "subject": "physics",
+  "chapter": "units-and-measurement",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 44,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "In an experiment, the percentage of error occurred in the measurement of physical quantities A, B, C and D are $1\\%$, $2\\%$, $3\\%$ and $4\\%$ respectively. Then the maximum percentage of error in the measurement X, where $X = \\frac{A^2 B^{1/2}}{C^{1/3} D^3}$, will be",
+  "options": [
+   "$\\left(\\frac{3}{13}\\right)\\%$",
+   "$16\\%$",
+   "$-10\\%$",
+   "$10\\%$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2019-physics-045",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2019",
+   "year": 2019,
+   "version": "P1",
+   "number": 45,
+   "file": "sources/third-party/neet/2019-P1/neet-2019-P1-solved_paper-aakash.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/neet/2019-P1/neet-2019-allbooks-answer_key-nta-via-careers360.pdf"
+  },
+  "stem": "A cylindrical conductor of radius $R$ is carrying a constant current. The plot of the magnitude of the magnetic field. $B$ with the distance $d$ from the centre of the conductor, is correctly represented by the figure :",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-neet-2019-physics-045.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

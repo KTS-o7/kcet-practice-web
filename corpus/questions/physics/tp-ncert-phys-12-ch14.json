@@ -1,0 +1,294 @@
+[
+ {
+  "id": "tp-ncert-phys-12-ch14-001",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep114.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "The conductivity of a semiconductor increases with increase in temperature because",
+  "options": [
+   "number density of free current carriers increases.",
+   "relaxation time increases.",
+   "both number density of carriers and relaxation time increase.",
+   "number density of current carriers increases, relaxation time decreases but effect of decrease in relaxation time is much less than increase in number density."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch14-002",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep114.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "In Fig. 14.1, $V_o$ is the potential barrier across a p-n junction, when no battery is connected across the junction",
+  "options": [
+   "1 and 3 both correspond to forward bias of junction",
+   "3 corresponds to forward bias of junction and 1 corresponds to reverse bias of junction",
+   "1 corresponds to forward bias and 3 corresponds to reverse bias of junction.",
+   "3 and 1 both correspond to reverse bias of junction."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-phys-12-ch14-002.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "key_confirmed",
+   "notes": "Transcription matches page; V0 arrow reaches curve 2 (zero bias), curve 3 lower barrier = forward, curve 1 higher = reverse; key B agrees."
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch14-003",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep114.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "In Fig. 14.2, assuming the diodes to be ideal,",
+  "options": [
+   "$D_1$ is forward biased and $D_2$ is reverse biased and hence current flows from A to B",
+   "$D_2$ is forward biased and $D_1$ is reverse biased and hence no current flows from B to A and vice versa.",
+   "$D_1$ and $D_2$ are both forward biased and hence current flows from A to B.",
+   "$D_1$ and $D_2$ are both reverse biased and hence no current flows from A to B and vice versa."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-phys-12-ch14-003.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch14-004",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep114.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "A $220\\,\\mathrm{V}$ A.C. supply is connected between points A and B (Fig. 14.3). What will be the potential difference $V$ across the capacitor?",
+  "options": [
+   "$220\\,\\mathrm{V}$.",
+   "$110\\,\\mathrm{V}$.",
+   "$0\\,\\mathrm{V}$.",
+   "$220\\sqrt{2}\\,\\mathrm{V}$."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-ncert-phys-12-ch14-004.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch14-005",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep114.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "Hole is",
+  "options": [
+   "an anti-particle of electron.",
+   "a vacancy created when an electron leaves a covalent bond.",
+   "absence of free electrons.",
+   "an artifically created particle."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch14-006",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep114.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "The output of the given circuit in Fig. 14.4.",
+  "options": [
+   "would be zero at all times.",
+   "would be like a half wave rectifier with positive cycles in output.",
+   "would be like a half wave rectifier with negative cycles in output.",
+   "would be like that of a full wave rectifier."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-ncert-phys-12-ch14-006.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch14-007",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 7,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep114.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "In the circuit shown in Fig. 14.5, if the diode forward voltage drop is $0.3\\,\\mathrm{V}$, the voltage difference between A and B is",
+  "options": [
+   "$1.3\\,\\mathrm{V}$",
+   "$2.3\\,\\mathrm{V}$",
+   "0",
+   "$0.5\\,\\mathrm{V}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-phys-12-ch14-007.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch14-008",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 8,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep114.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "Truth table for the given circuit (Fig. 14.6) is",
+  "options": [
+   "| A | B | E |\n|---|---|---|\n| 0 | 0 | 1 |\n| 0 | 1 | 0 |\n| 1 | 0 | 1 |\n| 1 | 1 | 0 |",
+   "| A | B | E |\n|---|---|---|\n| 0 | 0 | 1 |\n| 0 | 1 | 0 |\n| 1 | 0 | 0 |\n| 1 | 1 | 1 |",
+   "| A | B | E |\n|---|---|---|\n| 0 | 0 | 0 |\n| 0 | 1 | 1 |\n| 1 | 0 | 0 |\n| 1 | 1 | 1 |",
+   "| A | B | E |\n|---|---|---|\n| 0 | 0 | 0 |\n| 0 | 1 | 1 |\n| 1 | 0 | 1 |\n| 1 | 1 | 0 |"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-ncert-phys-12-ch14-008.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

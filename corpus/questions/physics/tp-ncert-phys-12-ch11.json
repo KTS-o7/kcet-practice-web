@@ -1,0 +1,282 @@
+[
+ {
+  "id": "tp-ncert-phys-12-ch11-001",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep111.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "A particle is dropped from a height $H$. The de Broglie wavelength of the particle as a function of height is proportional to",
+  "options": [
+   "$H$",
+   "$H^{1/2}$",
+   "$H^{0}$",
+   "$H^{-1/2}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch11-002",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep111.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "The wavelength of a photon needed to remove a proton from a nucleus which is bound to the nucleus with 1 MeV energy is nearly",
+  "options": [
+   "$1.2\\,\\mathrm{nm}$",
+   "$1.2 \\times 10^{-3}\\,\\mathrm{nm}$",
+   "$1.2 \\times 10^{-6}\\,\\mathrm{nm}$",
+   "$1.2 \\times 10^{1}\\,\\mathrm{nm}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch11-003",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep111.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "Consider a beam of electrons (each electron with energy $E_0$) incident on a metal surface kept in an evacuated chamber. Then",
+  "options": [
+   "no electrons will be emitted as only photons can emit electrons.",
+   "electrons can be emitted but all with an energy, $E_0$.",
+   "electrons can be emitted with any energy, with a maximum of $E_0 - \\phi$ ($\\phi$ is the work function).",
+   "electrons can be emitted with any energy, with a maximum of $E_0$."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "key_confirmed",
+   "notes": "Transcription matches page; max emitted energy is E0 (D)."
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch11-004",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep111.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "Consider Fig. 11.7 in the NCERT text book of physics for Class XII. Suppose the voltage applied to A is increased. The diffracted beam will have the maximum at a value of $\\theta$ that",
+  "options": [
+   "will be larger than the earlier value.",
+   "will be the same as the earlier value.",
+   "will be less than the earlier value.",
+   "will depend on the target."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch11-005",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep111.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "A proton, a neutron, an electron and an $\\alpha$-particle have same energy. Then their de Broglie wavelengths compare as",
+  "options": [
+   "$\\lambda_p = \\lambda_n > \\lambda_e > \\lambda_\\alpha$",
+   "$\\lambda_\\alpha < \\lambda_p = \\lambda_n > \\lambda_e$",
+   "$\\lambda_e < \\lambda_p = \\lambda_n > \\lambda_\\alpha$",
+   "$\\lambda_e = \\lambda_p = \\lambda_n = \\lambda_\\alpha$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "key_confirmed",
+   "notes": "Printed options match page; none is physically exact (true order e>p=n>alpha), but (B) is the NCERT-printed answer and closest."
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch11-006",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep111.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "An electron is moving with an initial velocity $\\vec{v} = v_0\\hat{i}$ and is in a magnetic field $\\vec{B} = B_0\\hat{j}$. Then it's de Broglie wavelength",
+  "options": [
+   "remains constant.",
+   "increases with time.",
+   "decreases with time.",
+   "increases and decreases periodically."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch11-007",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 7,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep111.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "An electron (mass $m$) with an initial velocity $\\vec{v} = v_0\\hat{i}$ ($v_0 > 0$) is in an electric field $\\vec{E} = -E_0\\hat{i}$ ($E_0 = \\mathrm{constant} > 0$). It's de Broglie wavelength at time $t$ is given by",
+  "options": [
+   "$\\dfrac{\\lambda_0}{\\left(1+\\dfrac{eE_0}{m}\\dfrac{t}{v_0}\\right)}$",
+   "$\\lambda_0\\left(1+\\dfrac{eE_0 t}{m v_0}\\right)$",
+   "$\\lambda_0$",
+   "$\\lambda_0 t$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch11-008",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 8,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep111.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "An electron (mass $m$) with an initial velocity $\\vec{v} = v_0\\hat{i}$ is in an electric field $\\vec{E} = E_0\\hat{j}$. If $\\lambda_0 = h/mv_0$, it's de Breoglie wavelength at time $t$ is given by",
+  "options": [
+   "$\\lambda_0$",
+   "$\\lambda_0\\sqrt{1+\\dfrac{e^2E_0^2t^2}{m^2v_0^2}}$",
+   "$\\dfrac{\\lambda_0}{\\sqrt{1+\\dfrac{e^2E_0^2t^2}{m^2v_0^2}}}$",
+   "$\\dfrac{\\lambda_0}{\\left(1+\\dfrac{e^2E_0^2t^2}{m^2v_0^2}\\right)}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

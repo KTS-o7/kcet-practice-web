@@ -1,0 +1,215 @@
+[
+ {
+  "id": "tp-ncert-phys-11-ch03-001",
+  "subject": "physics",
+  "chapter": "motion-in-a-straight-line",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep303.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "Among the four graphs (Fig. 3.1), there is only one graph for which average velocity over the time interval $(0, T)$ can vanish for a suitably chosen $T$. Which one is it?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-phys-11-ch03-001.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch03-002",
+  "subject": "physics",
+  "chapter": "motion-in-a-straight-line",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep303.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "A lift is coming from $8^{\\mathrm{th}}$ floor and is just about to reach $4^{\\mathrm{th}}$ floor. Taking ground floor as origin and positive direction upwards for all quantities, which one of the following is correct?",
+  "options": [
+   "$x < 0, v < 0, a > 0$",
+   "$x > 0, v < 0, a < 0$",
+   "$x > 0, v < 0, a > 0$",
+   "$x > 0, v > 0, a < 0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "disputed",
+   "notes": "Key (a) x<0 is impossible: lift is at 4th-8th floor above origin so x>0; moving down v<0; about to stop so a>0 => option (c). Transcription and key reading (3.2 (a)) both confirmed; printed key appears to be an NCERT erratum.",
+   "status_reason": "solver disagrees with unofficial key"
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch03-003",
+  "subject": "physics",
+  "chapter": "motion-in-a-straight-line",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep303.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "In one dimensional motion, instantaneous speed $v$ satisfies $0 \\le v < v_0$.",
+  "options": [
+   "The displacement in time $T$ must always take non-negative values.",
+   "The displacement $x$ in time $T$ satisfies $-v_0 T < x < v_0 T$.",
+   "The acceleration is always a non-negative number.",
+   "The motion has no turning points."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch03-004",
+  "subject": "physics",
+  "chapter": "motion-in-a-straight-line",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep303.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "A vehicle travels half the distance $L$ with speed $V_1$ and the other half with speed $V_2$, then its average speed is",
+  "options": [
+   "$\\frac{V_1 + V_2}{2}$",
+   "$\\frac{2V_1 + V_2}{V_1 + V_2}$",
+   "$\\frac{2V_1V_2}{V_1 + V_2}$",
+   "$\\frac{L(V_1 + V_2)}{V_1V_2}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch03-005",
+  "subject": "physics",
+  "chapter": "motion-in-a-straight-line",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep303.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "The displacement of a particle is given by $x = (t - 2)^2$ where $x$ is in metres and $t$ in seconds. The distance covered by the particle in first 4 seconds is",
+  "options": [
+   "$4\\,\\mathrm{m}$",
+   "$8\\,\\mathrm{m}$",
+   "$12\\,\\mathrm{m}$",
+   "$16\\,\\mathrm{m}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch03-006",
+  "subject": "physics",
+  "chapter": "motion-in-a-straight-line",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep303.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "At a metro station, a girl walks up a stationary escalator in time $t_1$. If she remains stationary on the escalator, then the escalator take her up in time $t_2$. The time taken by her to walk up on the moving escalator will be",
+  "options": [
+   "$\\frac{t_1 + t_2}{2}$",
+   "$\\frac{t_1t_2}{t_2 - t_1}$",
+   "$\\frac{t_1t_2}{t_2 + t_1}$",
+   "$t_1 - t_2$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

@@ -1,0 +1,249 @@
+[
+ {
+  "id": "tp-ncert-phys-12-ch08-001",
+  "subject": "physics",
+  "chapter": "electromagnetic-waves",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep108.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "One requires 11eV of energy to dissociate a carbon monoxide molecule into carbon and oxygen atoms. The minimum frequency of the appropriate electromagnetic radiation to achieve the dissociation lies in",
+  "options": [
+   "visible region",
+   "infrared region",
+   "ultraviolet region",
+   "microwave region"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch08-002",
+  "subject": "physics",
+  "chapter": "electromagnetic-waves",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep108.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "A linearly polarized electromagnetic wave given as $\\mathbf{E} = E_o\\hat{\\mathbf{i}}\\cos(kz - \\omega t)$ is incident normally on a perfectly reflecting infinite wall at $z = a$. Assuming that the material of the wall is optically inactive, the reflected wave will be given as",
+  "options": [
+   "$\\mathbf{E}_r = -E_o\\hat{\\mathbf{i}}\\cos(kz - \\omega t)$",
+   "$\\mathbf{E}_r = E_o\\hat{\\mathbf{i}}\\cos(kz + \\omega t)$",
+   "$\\mathbf{E}_r = -E_o\\hat{\\mathbf{i}}\\cos(kz + \\omega t)$",
+   "$\\mathbf{E}_r = E_o\\hat{\\mathbf{i}}\\sin(kz - \\omega t)$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "disputed",
+   "notes": "Key image reads 8.2 (b) (confirmed). Transcription matches page. Perfect reflector needs E=0 at wall, so reflected wave is -E0 i cos(kz+wt), option (c); (b) has no phase flip.",
+   "status_reason": "solver disagrees with unofficial key"
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch08-003",
+  "subject": "physics",
+  "chapter": "electromagnetic-waves",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep108.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "Light with an energy flux of 20 W/cm$^2$ falls on a non-reflecting surface at normal incidence. If the surface has an area of 30 cm$^2$. the total momentum delivered (for complete absorption) during 30 minutes is",
+  "options": [
+   "$36 \\times 10^{-5}\\ \\mathrm{kg\\,m/s}$",
+   "$36 \\times 10^{-4}\\ \\mathrm{kg\\,m/s}$",
+   "$108 \\times 10^{4}\\ \\mathrm{kg\\,m/s}$",
+   "$1.08 \\times 10^{7}\\ \\mathrm{kg\\,m/s}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch08-004",
+  "subject": "physics",
+  "chapter": "electromagnetic-waves",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep108.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "The electric field intensity produced by the radiations coming from 100 W bulb at a 3 m distance is $E$. The electric field intensity produced by the radiations coming from 50 W bulb at the same distance is",
+  "options": [
+   "$\\frac{E}{2}$",
+   "$2E$",
+   "$\\frac{E}{\\sqrt{2}}$",
+   "$\\sqrt{2}E$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "disputed",
+   "notes": "Key image reads 8.4 (d) (confirmed). Transcription matches page. I proportional to P and E^2, so E scales as sqrt(P): 50 W gives E/sqrt2, option (c); key's sqrt2 E is wrong.",
+   "status_reason": "solver disagrees with unofficial key"
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch08-005",
+  "subject": "physics",
+  "chapter": "electromagnetic-waves",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep108.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "If $\\mathbf{E}$ and $\\mathbf{B}$ represent electric and magnetic field vectors of the electromagnetic wave, the direction of propagation of electromagnetic wave is along",
+  "options": [
+   "$\\mathbf{E}$",
+   "$\\mathbf{B}$",
+   "$\\mathbf{B} \\times \\mathbf{E}$",
+   "$\\mathbf{E} \\times \\mathbf{B}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch08-006",
+  "subject": "physics",
+  "chapter": "electromagnetic-waves",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep108.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "The ratio of contributions made by the electric field and magnetic field components to the intensity of an EM wave is",
+  "options": [
+   "$c : 1$",
+   "$c^2 : 1$",
+   "$1 : 1$",
+   "$\\sqrt{c} : 1$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch08-007",
+  "subject": "physics",
+  "chapter": "electromagnetic-waves",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 7,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep108.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "An EM wave radiates outwards from a dipole antenna, with $E_0$ as the amplitude of its electric field vector. The electric field $E_0$ which transports significant energy from the source falls off as",
+  "options": [
+   "$\\frac{1}{r^3}$",
+   "$\\frac{1}{r^2}$",
+   "$\\frac{1}{r}$",
+   "remains constant"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

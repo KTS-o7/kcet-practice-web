@@ -1,0 +1,212 @@
+[
+ {
+  "id": "tp-ncert-phys-12-ch04-001",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep104.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "Two charged particles traverse identical helical paths in a completely opposite sense in a uniform magnetic field $\\vec{B} = B_0 \\hat{k}$.",
+  "options": [
+   "They have equal $z$-components of momenta.",
+   "They must have equal charges.",
+   "They necessarily represent a particle-antiparticle pair.",
+   "The charge to mass ratio satisfy : $\\left(\\frac{e}{m}\\right)_1 + \\left(\\frac{e}{m}\\right)_2 = 0$."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "key_confirmed",
+   "notes": "Transcription matches page; opposite sense implies opposite charge sign, intended answer (d) e/m sum zero; blind solver picked (a) which is not forced."
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch04-002",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep104.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "Biot-Savart law indicates that the moving electrons (velocity $\\vec{v}$) produce a magnetic field $\\vec{B}$ such that",
+  "options": [
+   "$\\vec{B} \\perp \\vec{v}$.",
+   "$\\vec{B} \\parallel \\vec{v}$.",
+   "it obeys inverse cube law.",
+   "it is along the line joining the electron and point of observation."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch04-003",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep104.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "A current carrying circular loop of radius $R$ is placed in the $x$-$y$ plane with centre at the origin. Half of the loop with $x > 0$ is now bent so that it now lies in the $y$-$z$ plane.",
+  "options": [
+   "The magnitude of magnetic moment now diminishes.",
+   "The magnetic moment does not change.",
+   "The magnitude of $\\vec{B}$ at $(0.0.z)$, $z \\gg R$ increases.",
+   "The magnitude of $\\vec{B}$ at $(0.0.z)$, $z \\gg R$ is unchanged."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch04-004",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep104.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "An electron is projected with uniform velocity along the axis of a current carrying long solenoid. Which of the following is true?",
+  "options": [
+   "The electron will be accelerated along the axis.",
+   "The electron path will be circular about the axis.",
+   "The electron will experience a force at $45^\\circ$ to the axis and hence execute a helical path.",
+   "The electron will continue to move with uniform velocity along the axis of the solenoid."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch04-005",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep104.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "In a cyclotron, a charged particle",
+  "options": [
+   "undergoes acceleration all the time.",
+   "speeds up between the dees because of the magnetic field.",
+   "speeds up in a dee.",
+   "slows down within a dee and speeds up between dees."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch04-006",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep104.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "A circular current loop of magnetic moment $M$ is in an arbitrary orientation in an external magnetic field $\\vec{B}$. The work done to rotate the loop by $30^\\circ$ about an axis perpendicular to its plane is",
+  "options": [
+   "$MB$.",
+   "$\\sqrt{3}\\,\\frac{MB}{2}$.",
+   "$\\frac{MB}{2}$.",
+   "zero."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

@@ -1,0 +1,650 @@
+[
+ {
+  "id": "tp-ncert-phys-11-ch06-001",
+  "subject": "physics",
+  "chapter": "work-energy-and-power",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep306.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "An electron and a proton are moving under the influence of mutual forces. In calculating the change in the kinetic energy of the system during motion, one ignores the magnetic force of one on another. This is because,",
+  "options": [
+   "the two magnetic forces are equal and opposite, so they produce no net effect.",
+   "the magnetic forces do no work on each particle.",
+   "the magnetic forces do equal and opposite (but non-zero) work on each particle.",
+   "the magenetic forces are necessarily negligible."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch06-002",
+  "subject": "physics",
+  "chapter": "work-energy-and-power",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep306.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "A proton is kept at rest. A positively charged particle is released from rest at a distance $d$ in its field. Consider two experiments; one in which the charged particle is also a proton and in another, a positron. In the same time $t$, the work done on the two moving charged particles is",
+  "options": [
+   "same as the same force law is involved in the two experiments.",
+   "less for the case of a positron, as the positron moves away more rapidly and the force on it weakens.",
+   "more for the case of a positron, as the positron moves away a larger distance.",
+   "same as the work done by charged particle on the stationary proton."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch06-003",
+  "subject": "physics",
+  "chapter": "work-energy-and-power",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep306.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "A man squatting on the ground gets straight up and stand. The force of reaction of ground on the man during the process is",
+  "options": [
+   "constant and equal to $mg$ in magnitude.",
+   "constant and greater than $mg$ in magnitude.",
+   "variable but always greater than $mg$.",
+   "at first greater than $mg$, and later becomes equal to $mg$."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch06-004",
+  "subject": "physics",
+  "chapter": "work-energy-and-power",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep306.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "A bicyclist comes to a skidding stop in 10 m. During this process, the force on the bicycle due to the road is 200N and is directly opposed to the motion. The work done by the cycle on the road is",
+  "options": [
+   "$+2000\\,\\mathrm{J}$",
+   "$-200\\,\\mathrm{J}$",
+   "zero",
+   "$-20,000\\,\\mathrm{J}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch06-005",
+  "subject": "physics",
+  "chapter": "work-energy-and-power",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep306.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "A body is falling freely under the action of gravity alone in vacuum. Which of the following quantities remain constant during the fall?",
+  "options": [
+   "Kinetic energy.",
+   "Potential energy.",
+   "Total mechanical energy.",
+   "Total linear momentum."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch06-006",
+  "subject": "physics",
+  "chapter": "work-energy-and-power",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep306.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "During inelastic collision between two bodies, which of the following quantities always remain conserved?",
+  "options": [
+   "Total kinetic energy.",
+   "Total mechanical energy.",
+   "Total linear momentum.",
+   "Speed of each body."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch06-007",
+  "subject": "physics",
+  "chapter": "work-energy-and-power",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 7,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep306.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "Two inclined frictionless tracks, one gradual and the other steep meet at A from where two stones are allowed to slide down from rest, one on each track as shown in Fig. 6.1. Which of the following statement is correct?",
+  "options": [
+   "Both the stones reach the bottom at the same time but not with the same speed.",
+   "Both the stones reach the bottom with the same speed and stone I reaches the bottom earlier than stone II.",
+   "Both the stones reach the bottom with the same speed and stone II reaches the bottom earlier than stone I.",
+   "Both the stones reach the bottom at different times and with different speeds."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-ncert-phys-11-ch06-007.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch06-008",
+  "subject": "physics",
+  "chapter": "work-energy-and-power",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 8,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep306.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "The potential energy function for a particle executing linear SHM is given by $V(x)=\\frac{1}{2}kx^2$ where $k$ is the force constant of the oscillator (Fig. 6.2). For $k = 0.5\\,\\mathrm{N/m}$, the graph of $V(x)$ versus $x$ is shown in the figure. A particle of total energy $E$ turns back when it reaches $x=\\pm x_m$. If $V$ and $K$ indicate the P.E. and K.E., respectively of the particle at $x=+x_m$, then which of the following is correct?",
+  "options": [
+   "$V = 0$, $K = E$",
+   "$V = E$, $K = 0$",
+   "$V < E$, $K = 0$",
+   "$V = 0$, $K < E$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-phys-11-ch06-008.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch06-009",
+  "subject": "physics",
+  "chapter": "work-energy-and-power",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 9,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep306.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "Two identical ball bearings in contact with each other and resting on a frictionless table are hit head-on by another ball bearing of the same mass moving initially with a speed $V$ as shown in Fig. 6.3. If the collision is elastic, which of the following (Fig. 6.4) is a possible result after collision?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-phys-11-ch06-009.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch06-010",
+  "subject": "physics",
+  "chapter": "work-energy-and-power",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 10,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep306.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "A body of mass $0.5\\,\\mathrm{kg}$ travels in a straight line with velocity $v = a x^{3/2}$ where $a = 5\\,\\mathrm{m^{-1/2}s^{-1}}$. The work done by the net force during its displacement from $x = 0$ to $x = 2\\,\\mathrm{m}$ is",
+  "options": [
+   "$1.5\\,\\mathrm{J}$",
+   "$50\\,\\mathrm{J}$",
+   "$10\\,\\mathrm{J}$",
+   "$100\\,\\mathrm{J}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch06-011",
+  "subject": "physics",
+  "chapter": "work-energy-and-power",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 11,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep306.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "A body is moving unidirectionally under the influence of a source of constant power supplying energy. Which of the diagrams shown in Fig. 6.5 correctly shows the displacement-time curve for its motion?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-phys-11-ch06-011.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch06-012",
+  "subject": "physics",
+  "chapter": "work-energy-and-power",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 12,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep306.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "Which of the diagrams shown in Fig. 6.6 most closely shows the variation in kinetic energy of the earth as it moves once around the sun in its elliptical orbit?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-ncert-phys-11-ch06-012.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch06-013",
+  "subject": "physics",
+  "chapter": "work-energy-and-power",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 13,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep306.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "Which of the diagrams shown in Fig. 6.7 represents variation of total mechanical energy of a pendulum oscillating in air as function of time?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-ncert-phys-11-ch06-013.png"
+  ],
+  "status": "flagged",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "disputed",
+   "notes": "Transcription matches page; key (d) read correctly from text layer, but (d) is an undamped oscillating curve going negative. Total mechanical energy of a damped pendulum decreases monotonically to zero and is never negative, so (c) is correct; key looks wrong.",
+   "status_reason": "solver disagrees with unofficial key"
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch06-014",
+  "subject": "physics",
+  "chapter": "work-energy-and-power",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 14,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep306.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "A mass of $5\\,\\mathrm{kg}$ is moving along a circular path of radius $1\\,\\mathrm{m}$. If the mass moves with $300$ revolutions per minute, its kinetic energy would be",
+  "options": [
+   "$250\\pi^2$",
+   "$100\\pi^2$",
+   "$5\\pi^2$",
+   "$0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch06-015",
+  "subject": "physics",
+  "chapter": "work-energy-and-power",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 15,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep306.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "A raindrop falling from a height $h$ above ground, attains a near terminal velocity when it has fallen through a height $(3/4)h$. Which of the diagrams shown in Fig. 6.8 correctly shows the change in kinetic and potential energy of the drop during its fall up to the ground?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-phys-11-ch06-015.png",
+   "tp-ncert-phys-11-ch06-015-2.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch06-016",
+  "subject": "physics",
+  "chapter": "work-energy-and-power",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 16,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep306.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "In a shotput event an athlete throws the shotput of mass $10\\,\\mathrm{kg}$ with an initial speed of $1\\,\\mathrm{m\\,s^{-1}}$ at $45^\\circ$ from a height $1.5\\,\\mathrm{m}$ above ground. Assuming air resistance to be negligible and acceleration due to gravity to be $10\\,\\mathrm{m\\,s^{-2}}$, the kinetic energy of the shotput when it just reaches the ground will be",
+  "options": [
+   "$2.5\\,\\mathrm{J}$",
+   "$5.0\\,\\mathrm{J}$",
+   "$52.5\\,\\mathrm{J}$",
+   "$155.0\\,\\mathrm{J}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch06-017",
+  "subject": "physics",
+  "chapter": "work-energy-and-power",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 17,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep306.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "Which of the diagrams in Fig. 6.9 correctly shows the change in kinetic energy of an iron sphere falling freely in a lake having sufficient depth to impart it a terminal velocity?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-phys-11-ch06-017.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch06-018",
+  "subject": "physics",
+  "chapter": "work-energy-and-power",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 18,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep306.pdf",
+   "page": 7,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "A cricket ball of mass $150\\,\\mathrm{g}$ moving with a speed of $126\\,\\mathrm{km/h}$ hits at the middle of the bat, held firmly at its position by the batsman. The ball moves straight back to the bowler after hitting the bat. Assuming that collision between ball and bat is completely elastic and the two remain in contact for $0.001\\,\\mathrm{s}$, the force that the batsman had to apply to hold the bat firmly at its place would be",
+  "options": [
+   "$10.5\\,\\mathrm{N}$",
+   "$21\\,\\mathrm{N}$",
+   "$1.05 \\times 10^4\\,\\mathrm{N}$",
+   "$2.1 \\times 10^4\\,\\mathrm{N}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

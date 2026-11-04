@@ -1,0 +1,354 @@
+[
+ {
+  "id": "tp-ncert-phys-11-ch15-001",
+  "subject": "physics",
+  "chapter": "waves",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep315.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "Water waves produced by a motor boat sailing in water are",
+  "options": [
+   "neither longitudinal nor transverse.",
+   "both longitudinal and transverse.",
+   "only longitudinal.",
+   "only transverse."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch15-002",
+  "subject": "physics",
+  "chapter": "waves",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep315.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "Sound waves of wavelength $\\lambda$ travelling in a medium with a speed of $v\\,\\mathrm{m/s}$ enter into another medium where its speed is $2v\\,\\mathrm{m/s}$. Wavelength of sound waves in the second medium is",
+  "options": [
+   "$\\lambda$",
+   "$\\frac{\\lambda}{2}$",
+   "$2\\lambda$",
+   "$4\\lambda$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch15-003",
+  "subject": "physics",
+  "chapter": "waves",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep315.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "Speed of sound wave in air",
+  "options": [
+   "is independent of temperature.",
+   "increases with pressure.",
+   "increases with increase in humidity.",
+   "decreases with increase in humidity."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch15-004",
+  "subject": "physics",
+  "chapter": "waves",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep315.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "Change in temperature of the medium changes",
+  "options": [
+   "frequency of sound waves.",
+   "amplitude of sound waves.",
+   "wavelength of sound waves.",
+   "loudness of sound waves."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch15-005",
+  "subject": "physics",
+  "chapter": "waves",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep315.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "With propagation of longitudinal waves through a medium, the quantity transmitted is",
+  "options": [
+   "matter.",
+   "energy.",
+   "energy and matter.",
+   "energy, matter and momentum."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch15-006",
+  "subject": "physics",
+  "chapter": "waves",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep315.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "Which of the following statements are true for wave motion?",
+  "options": [
+   "Mechanical transverse waves can propagate through all mediums.",
+   "Longitudinal waves can propagate through solids only.",
+   "Mechanical transverse waves can propagate through solids only.",
+   "Longitudinal waves can propagate through vacuum."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch15-007",
+  "subject": "physics",
+  "chapter": "waves",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 7,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep315.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "A sound wave is passing through air column in the form of compression and rarefaction. In consecutive compressions and rarefactions,",
+  "options": [
+   "density remains constant.",
+   "Boyle’s law is obeyed.",
+   "bulk modulus of air oscillates.",
+   "there is no transfer of heat."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch15-008",
+  "subject": "physics",
+  "chapter": "waves",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 8,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep315.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "Equation of a plane progressive wave is given by $y = 0.6\\sin 2\\pi\\left(t - \\frac{x}{2}\\right)$. On reflection from a denser medium its amplitude becomes $2/3$ of the amplitude of the incident wave. The equation of the reflected wave is",
+  "options": [
+   "$y = 0.6\\sin 2\\pi\\left(t + \\frac{x}{2}\\right)$",
+   "$y = -0.4\\sin 2\\pi\\left(t + \\frac{x}{2}\\right)$",
+   "$y = 0.4\\sin 2\\pi\\left(t + \\frac{x}{2}\\right)$",
+   "$y = -0.4\\sin 2\\pi\\left(t - \\frac{x}{2}\\right)$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch15-009",
+  "subject": "physics",
+  "chapter": "waves",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 9,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep315.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "A string of mass $2.5\\,\\mathrm{kg}$ is under a tension of $200\\,\\mathrm{N}$. The length of the stretched string is $20.0\\,\\mathrm{m}$. If the transverse jerk is struck at one end of the string, the disturbance will reach the other end in",
+  "options": [
+   "one second",
+   "0.5 second",
+   "2 seconds",
+   "data given is insufficient."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch15-010",
+  "subject": "physics",
+  "chapter": "waves",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 10,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep315.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "A train whistling at constant frequency is moving towards a station at a constant speed $V$. The train goes past a stationary observer on the station. The frequency $n'$ of the sound as heard by the observer is plotted as a function of time $t$ (Fig 15.1). Identify the expected curve.",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-ncert-phys-11-ch15-010.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

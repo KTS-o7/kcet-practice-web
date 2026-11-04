@@ -1,0 +1,288 @@
+[
+ {
+  "id": "tp-ncert-phys-11-ch13-001",
+  "subject": "physics",
+  "chapter": "kinetic-theory",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep313.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "A cubic vessel (with faces horizontal + vertical) contains an ideal gas at NTP. The vessel is being carried by a rocket which is moving at a speed of $500\\,\\mathrm{m\\,s^{-1}}$ in vertical direction. The pressure of the gas inside the vessel as observed by us on the ground",
+  "options": [
+   "remains the same because $500\\,\\mathrm{m\\,s^{-1}}$ is very much smaller than $v_{\\mathrm{rms}}$ of the gas.",
+   "remains the same because motion of the vessel as a whole does not affect the relative motion of the gas molecules and the walls.",
+   "will increase by a factor equal to $\\left(v_{\\mathrm{rms}}^2 + (500)^2\\right)/v_{\\mathrm{rms}}^2$ where $v_{\\mathrm{rms}}$ was the original mean square velocity of the gas.",
+   "will be different on the top wall and bottom wall of the vessel."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch13-002",
+  "subject": "physics",
+  "chapter": "kinetic-theory",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep313.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "1 mole of an ideal gas is contained in a cubical volume $V$, ABCDEFGH at 300 K (Fig. 13.1). One face of the cube (EFGH) is made up of a material which totally absorbs any gas molecule incident on it. At any given time,",
+  "options": [
+   "the pressure on EFGH would be zero.",
+   "the pressure on all the faces will the equal.",
+   "the pressure of EFGH would be double the pressure on ABCD.",
+   "the pressure on EFGH would be half that on ABCD."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-ncert-phys-11-ch13-002.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch13-003",
+  "subject": "physics",
+  "chapter": "kinetic-theory",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep313.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "Boyle's law is applicable for an",
+  "options": [
+   "adiabatic process.",
+   "isothermal process.",
+   "isobaric process.",
+   "isochoric process."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch13-004",
+  "subject": "physics",
+  "chapter": "kinetic-theory",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep313.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "A cylinder containing an ideal gas is in vertical position and has a piston of mass $M$ that is able to move up or down without friction (Fig. 13.2). If the temperature is increased,",
+  "options": [
+   "both $p$ and $V$ of the gas will change.",
+   "only $p$ will increase according to Charle's law.",
+   "$V$ will change but not $p$.",
+   "$p$ will change but not $V$."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-ncert-phys-11-ch13-004.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch13-005",
+  "subject": "physics",
+  "chapter": "kinetic-theory",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep313.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "Volume versus temperature graphs for a given mass of an ideal gas are shown in Fig. 13.3 at two different values of constant pressure. What can be inferred about relation between $P_1$ & $P_2$?",
+  "options": [
+   "$P_1 > P_2$",
+   "$P_1 = P_2$",
+   "$P_1 < P_2$",
+   "data is insufficient."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-ncert-phys-11-ch13-005.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch13-006",
+  "subject": "physics",
+  "chapter": "kinetic-theory",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep313.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "1 mole of $\\mathrm{H_2}$ gas is contained in a box of volume $V = 1.00\\,\\mathrm{m^3}$ at $T = 300\\,\\mathrm{K}$. The gas is heated to a temperature of $T = 3000\\,\\mathrm{K}$ and the gas gets converted to a gas of hydrogen atoms. The final pressure would be (considering all gases to be ideal)",
+  "options": [
+   "same as the pressure initially.",
+   "2 times the pressure initially.",
+   "10 times the pressure initially.",
+   "20 times the pressure initially."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch13-007",
+  "subject": "physics",
+  "chapter": "kinetic-theory",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 7,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep313.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "A vessel of volume $V$ contains a mixture of 1 mole of Hydrogen and 1 mole of Oxygen (both considered as ideal). Let $f_1(v)dv$, denote the fraction of molecules with speed between $v$ and $(v + dv)$ with $f_2(v)dv$, similarly for oxygen. Then",
+  "options": [
+   "$f_1(v) + f_2(v) = f(v)$ obeys the Maxwell's distribution law.",
+   "$f_1(v)$, $f_2(v)$ will obey the Maxwell's distribution law separately.",
+   "Neither $f_1(v)$, nor $f_2(v)$ will obey the Maxwell's distribution law.",
+   "$f_2(v)$ and $f_1(v)$ will be the same."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch13-008",
+  "subject": "physics",
+  "chapter": "kinetic-theory",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 8,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep313.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "An inflated rubber balloon contains one mole of an ideal gas, has a pressure $p$, volume $V$ and temperature $T$. If the temperature rises to $1.1\\,T$, and the volume is increaset to $1.05\\,V$, the final pressure will be",
+  "options": [
+   "$1.1\\,p$",
+   "$p$",
+   "less than $p$",
+   "between $p$ and $1.1$."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

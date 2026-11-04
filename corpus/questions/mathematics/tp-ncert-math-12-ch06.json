@@ -1,0 +1,878 @@
+[
+ {
+  "id": "tp-ncert-math-12-ch06-035",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 35,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep206.pdf",
+   "page": 22,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The sides of an equilateral triangle are increasing at the rate of $2\\,\\mathrm{cm/sec}$. The rate at which the area increases, when side is $10\\,\\mathrm{cm}$ is:",
+  "options": [
+   "$10\\,\\mathrm{cm^2/s}$",
+   "$\\sqrt{3}\\,\\mathrm{cm^2/s}$",
+   "$10\\sqrt{3}\\,\\mathrm{cm^2/s}$",
+   "$\\frac{10}{3}\\,\\mathrm{cm^2/s}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch06-036",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 36,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep206.pdf",
+   "page": 22,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "A ladder, $5$ meter long, standing on a horizontal floor, leans against a vertical wall. If the top of the ladder slides downwards at the rate of $10\\,\\mathrm{cm/sec}$, then the rate at which the angle between the floor and the ladder is decreasing when lower end of ladder is $2$ metres from the wall is:",
+  "options": [
+   "$\\frac{1}{10}$ radian/sec",
+   "$\\frac{1}{20}$ radian/sec",
+   "20 radian/sec",
+   "10 radian/sec"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch06-037",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 37,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep206.pdf",
+   "page": 23,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The curve $y = x^{\\frac{1}{5}}$ has at $(0, 0)$",
+  "options": [
+   "a vertical tangent (parallel to y-axis)",
+   "a horizontal tangent (parallel to x-axis)",
+   "an oblique tangent",
+   "no tangent"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch06-038",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 38,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep206.pdf",
+   "page": 23,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The equation of normal to the curve $3x^2 - y^2 = 8$ which is parallel to the line $x + 3y = 8$ is",
+  "options": [
+   "$3x - y = 8$",
+   "$3x + y + 8 = 0$",
+   "$x + 3y \\pm 8 = 0$",
+   "$x + 3y = 0$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch06-039",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 39,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep206.pdf",
+   "page": 23,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If the curve $ay + x^2 = 7$ and $x^3 = y$, cut orthogonally at $(1, 1)$, then the value of $a$ is:",
+  "options": [
+   "$1$",
+   "$0$",
+   "$-6$",
+   ".6"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch06-040",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 40,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep206.pdf",
+   "page": 23,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If $y = x^4 - 10$ and if $x$ changes from $2$ to $1.99$, what is the change in $y$",
+  "options": [
+   ".32",
+   ".032",
+   "5.68",
+   "5.968"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch06-041",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 41,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep206.pdf",
+   "page": 23,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The equation of tangent to the curve $y(1 + x^2) = 2 - x$, where it crosses x-axis is:",
+  "options": [
+   "$x + 5y = 2$",
+   "$x - 5y = 2$",
+   "$5x - y = 2$",
+   "$5x + y = 2$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch06-042",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 42,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep206.pdf",
+   "page": 23,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The points at which the tangents to the curve $y = x^3 - 12x + 18$ are parallel to x-axis are:",
+  "options": [
+   "$(2, -2), (-2, -34)$",
+   "$(2, 34), (-2, 0)$",
+   "$(0, 34), (-2, 0)$",
+   "$(2, 2), (-2, 34)$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch06-043",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 43,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep206.pdf",
+   "page": 23,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The tangent to the curve $y = e^{2x}$ at the point $(0, 1)$ meets x-axis at:",
+  "options": [
+   "$(0, 1)$",
+   "$\\left(-\\frac{1}{2}, 0\\right)$",
+   "$(2, 0)$",
+   "$(0, 2)$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch06-044",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 44,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep206.pdf",
+   "page": 23,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The slope of tangent to the curve $x = t^2 + 3t - 8$, $y = 2t^2 - 2t - 5$ at the point $(2, -1)$ is:",
+  "options": [
+   "$\\frac{22}{7}$",
+   "$\\frac{6}{7}$",
+   "$\\frac{-6}{7}$",
+   "$-6$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch06-045",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 45,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep206.pdf",
+   "page": 24,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The two curves $x^3 - 3xy^2 + 2 = 0$ and $3x^2y - y^3 - 2 = 0$ intersect at an angle of",
+  "options": [
+   "$\\frac{\\pi}{4}$",
+   "$\\frac{\\pi}{3}$",
+   "$\\frac{\\pi}{2}$",
+   "$\\frac{\\pi}{6}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch06-046",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 46,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep206.pdf",
+   "page": 24,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The interval on which the function $f(x) = 2x^3 + 9x^2 + 12x - 1$ is decreasing is:",
+  "options": [
+   "$[-1, \\infty)$",
+   "$[-2, -1]$",
+   "$(-\\infty, -2]$",
+   "$[-1, 1]$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch06-047",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 47,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep206.pdf",
+   "page": 24,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Let the $f : \\mathbb{R} \\to \\mathbb{R}$ be defined by $f(x) = 2x + \\cos x$, then $f$ :",
+  "options": [
+   "has a minimum at $x = \\pi$",
+   "has a maximum, at $x = 0$",
+   "is a decreasing function",
+   "is an increasing function"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch06-048",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 48,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep206.pdf",
+   "page": 24,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "$y = x(x - 3)^2$ decreases for the values of $x$ given by :",
+  "options": [
+   "$1 < x < 3$",
+   "$x < 0$",
+   "$x > 0$",
+   "$0 < x < \\frac{3}{2}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch06-049",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 49,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep206.pdf",
+   "page": 24,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The function $f(x) = 4\\sin^3 x - 6\\sin^2 x + 12\\sin x + 100$ is strictly",
+  "options": [
+   "increasing in $\\left(\\pi, \\frac{3\\pi}{2}\\right)$",
+   "decreasing in $\\left(\\frac{\\pi}{2}, \\pi\\right)$",
+   "decreasing in $\\left[\\frac{-\\pi}{2}, \\frac{\\pi}{2}\\right]$",
+   "decreasing in $\\left[0, \\frac{\\pi}{2}\\right]$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch06-050",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 50,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep206.pdf",
+   "page": 24,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Which of the following functions is decreasing on $\\left(0, \\frac{\\pi}{2}\\right)$",
+  "options": [
+   "$\\sin 2x$",
+   "$\\tan x$",
+   "$\\cos x$",
+   "$\\cos 3x$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch06-051",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 51,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep206.pdf",
+   "page": 24,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The function $f(x) = \\tan x - x$",
+  "options": [
+   "always increases",
+   "always decreases",
+   "never increases",
+   "sometimes increases and sometimes decreases."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch06-052",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 52,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep206.pdf",
+   "page": 25,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If $x$ is real, the minimum value of $x^2 - 8x + 17$ is",
+  "options": [
+   "$-1$",
+   "$0$",
+   "$1$",
+   "$2$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch06-053",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 53,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep206.pdf",
+   "page": 25,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The smallest value of the polynomial $x^3 - 18x^2 + 96x$ in $[0, 9]$ is",
+  "options": [
+   "$126$",
+   "$0$",
+   "$135$",
+   "$160$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch06-054",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 54,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep206.pdf",
+   "page": 25,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The function $f(x) = 2x^3 - 3x^2 - 12x + 4$, has",
+  "options": [
+   "two points of local maximum",
+   "two points of local minimum",
+   "one maxima and one minima",
+   "no maxima or minima"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch06-055",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 55,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep206.pdf",
+   "page": 25,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The maximum value of $\\sin x \\cdot \\cos x$ is",
+  "options": [
+   "$\\frac{1}{4}$",
+   "$\\frac{1}{2}$",
+   "$\\sqrt{2}$",
+   "$2\\sqrt{2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch06-056",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 56,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep206.pdf",
+   "page": 25,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "At $x = \\frac{5\\pi}{6}$, $f(x) = 2\\sin 3x + 3\\cos 3x$ is:",
+  "options": [
+   "maximum",
+   "minimum",
+   "zero",
+   "neither maximum nor minimum."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "disputed",
+   "notes": "Transcription and key reading both confirmed (key says A). But f'(5pi/6)=6cos(5pi/2)-9sin(5pi/2)=-9 != 0, so not a stationary point: neither max nor min (D); the printed key (maximum) is wrong for the question as printed.",
+   "status_reason": "solver disagrees with unofficial key"
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch06-057",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 57,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep206.pdf",
+   "page": 25,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Maximum slope of the curve $y = -x^3 + 3x^2 + 9x - 27$ is:",
+  "options": [
+   "$0$",
+   "$12$",
+   "$16$",
+   "$32$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch06-058",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 58,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep206.pdf",
+   "page": 25,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "$f(x) = x^x$ has a stationary point at",
+  "options": [
+   "$x = e$",
+   "$x = \\frac{1}{e}$",
+   "$x = 1$",
+   "$x = \\sqrt{e}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch06-059",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 59,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep206.pdf",
+   "page": 25,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The maximum value of $\\left(\\frac{1}{x}\\right)^x$ is:",
+  "options": [
+   "$e$",
+   "$e^e$",
+   "$e^{\\frac{1}{e}}$",
+   "$\\left(\\frac{1}{e}\\right)^{\\frac{1}{e}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

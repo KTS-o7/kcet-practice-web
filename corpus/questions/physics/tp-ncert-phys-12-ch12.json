@@ -1,0 +1,247 @@
+[
+ {
+  "id": "tp-ncert-phys-12-ch12-001",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep112.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "Taking the Bohr radius as $a_0 = 53\\,\\mathrm{pm}$, the radius of $\\mathrm{Li^{++}}$ ion in its ground state, on the basis of Bohr's model, will be about",
+  "options": [
+   "$53\\,\\mathrm{pm}$",
+   "$27\\,\\mathrm{pm}$",
+   "$18\\,\\mathrm{pm}$",
+   "$13\\,\\mathrm{pm}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch12-002",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep112.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "The binding energy of a H-atom, considering an electron moving around a fixed nuclei (proton), is $B = -\\frac{me^4}{8n^2\\varepsilon_0^2h^2}$. ($m$ = electron mass). If one decides to work in a frame of reference where the electron is at rest, the proton would be moving arround it. By similar arguments, the binding energy would be $B = -\\frac{Me^4}{8n^2\\varepsilon_0^2h^2}$ ($M$ = proton mass). This last expression is not correct because",
+  "options": [
+   "$n$ would not be integral.",
+   "Bohr-quantisation applies only to electron",
+   "the frame in which the electron is at rest is not inertial.",
+   "the motion of the proton would not be in circular orbits, even approximately."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "key_confirmed",
+   "notes": "Transcription verified; electron frame is non-inertial."
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch12-003",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep112.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "The simple Bohr model cannot be directly applied to calculate the energy levels of an atom with many electrons. This is because",
+  "options": [
+   "of the electrons not being subject to a central force.",
+   "of the electrons colliding with each other",
+   "of screening effects",
+   "the force between the nucleus and an electron will no longer be given by Coulomb's law."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "key_confirmed",
+   "notes": "Key (a) read correctly from k0-68 text/image; non-central force from e-e repulsion."
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch12-004",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep112.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "For the ground state, the electron in the H-atom has an angular momentum $=\\hbar$, according to the simple Bohr model. Angular momentum is a vector and hence there will be infinitely many orbits with the vector pointing in all possible directions. In actuality, this is not true,",
+  "options": [
+   "because Bohr model gives incorrect values of angular momentum.",
+   "because only one of these would have a minimum energy.",
+   "angular momentum must be in the direction of spin of electron.",
+   "because electrons go around only in horizontal orbits."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "key_confirmed",
+   "notes": "Key (a); true ground state has L=0, Bohr value hbar is wrong. Transcription verified."
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch12-005",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep112.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "$\\mathrm{O_2}$ molecule consists of two oxygen atoms. In the molecule, nuclear force between the nuclei of the two atoms",
+  "options": [
+   "is not important because nuclear forces are short-ranged.",
+   "is as important as electrostatic force for binding the two atoms.",
+   "cancels the repulsive electrostatic force between the nuclei.",
+   "is not important because oxygen nucleus have equal number of neutrons and protons."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch12-006",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep112.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "Two H atoms in the ground state collide inelastically. The maximum amount by which their combined kinetic energy is reduced is",
+  "options": [
+   "$10.20\\,\\mathrm{eV}$",
+   "$20.40\\,\\mathrm{eV}$",
+   "$13.6\\,\\mathrm{eV}$",
+   "$27.2\\,\\mathrm{eV}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "key_confirmed",
+   "notes": "Transcription verified; max KE loss 10.2 eV."
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch12-007",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 7,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep112.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "A set of atoms in an excited state decays.",
+  "options": [
+   "in general to any of the states with lower energy.",
+   "into a lower state only when excited by an external electric field.",
+   "all together simultaneously into a lower state.",
+   "to emit photons only when they collide."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

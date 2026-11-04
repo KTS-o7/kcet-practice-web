@@ -1,0 +1,704 @@
+[
+ {
+  "id": "tp-ncert-math-11-ch10-022",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 22,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep210.pdf",
+   "page": 16,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "A line cutting off intercept $-3$ from the $y$-axis and the tangent at angle to the $x$-axis is $\\frac{3}{5}$, its equation is",
+  "options": [
+   "$5y - 3x + 15 = 0$",
+   "$3y - 5x + 15 = 0$",
+   "$5y - 3x - 15 = 0$",
+   "None of these"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch10-023",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 23,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep210.pdf",
+   "page": 16,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "Slope of a line which cuts off intercepts of equal lengths on the axes is",
+  "options": [
+   "$-1$",
+   "$-0$",
+   "$2$",
+   "$\\sqrt{3}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch10-024",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 24,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep210.pdf",
+   "page": 16,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The equation of the straight line passing through the point $(3, 2)$ and perpendicular to the line $y = x$ is",
+  "options": [
+   "$x - y = 5$",
+   "$x + y = 5$",
+   "$x + y = 1$",
+   "$x - y = 1$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch10-025",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 25,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep210.pdf",
+   "page": 16,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The equation of the line passing through the point $(1, 2)$ and perpendicular to the line $x + y + 1 = 0$ is",
+  "options": [
+   "$y - x + 1 = 0$",
+   "$y - x - 1 = 0$",
+   "$y - x + 2 = 0$",
+   "$y - x - 2 = 0$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch10-026",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 26,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep210.pdf",
+   "page": 16,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The tangent of angle between the lines whose intercepts on the axes are $a, -b$ and $b, -a$, respectively, is",
+  "options": [
+   "$\\frac{a^2 - b^2}{ab}$",
+   "$\\frac{b^2 - a^2}{2}$",
+   "$\\frac{b^2 - a^2}{2ab}$",
+   "None of these"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch10-027",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 27,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep210.pdf",
+   "page": 17,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "If the line $\\frac{x}{a} + \\frac{y}{b} = 1$ passes through the points $(2, -3)$ and $(4, -5)$, then $(a, b)$ is",
+  "options": [
+   "$(1, 1)$",
+   "$(-1, 1)$",
+   "$(1, -1)$",
+   "$(-1, -1)$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch10-028",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 28,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep210.pdf",
+   "page": 17,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The distance of the point of intersection of the lines $2x - 3y + 5 = 0$ and $3x + 4y = 0$ from the line $5x - 2y = 0$ is",
+  "options": [
+   "$\\frac{130}{17\\sqrt{29}}$",
+   "$\\frac{13}{7\\sqrt{29}}$",
+   "$\\frac{130}{7}$",
+   "None of these"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch10-029",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 29,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep210.pdf",
+   "page": 17,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The equations of the lines which pass through the point $(3, -2)$ and are inclined at $60^\\circ$ to the line $\\sqrt{3}\\,x + y = 1$ is",
+  "options": [
+   "$y + 2 = 0, \\; \\sqrt{3}\\,x - y - 2 - 3\\sqrt{3} = 0$",
+   "$x - 2 = 0, \\; \\sqrt{3}\\,x - y + 2 + 3\\sqrt{3} = 0$",
+   "$\\sqrt{3}\\,x - y - 2 - 3\\sqrt{3} = 0$",
+   "None of these"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch10-030",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 30,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep210.pdf",
+   "page": 17,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The equations of the lines passing through the point $(1, 0)$ and at a distance $\\frac{\\sqrt{3}}{2}$ from the origin, are",
+  "options": [
+   "$\\sqrt{3}\\,x + y - \\sqrt{3} = 0, \\; \\sqrt{3}\\,x - y - \\sqrt{3} = 0$",
+   "$\\sqrt{3}\\,x + y + \\sqrt{3} = 0, \\; \\sqrt{3}\\,x - y + \\sqrt{3} = 0$",
+   "$x + \\sqrt{3}\\,y - \\sqrt{3} = 0, \\; x - \\sqrt{3}\\,y - \\sqrt{3} = 0$",
+   "None of these."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch10-031",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 31,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep210.pdf",
+   "page": 17,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The distance between the lines $y = mx + c_1$ and $y = mx + c_2$ is",
+  "options": [
+   "$\\frac{c_1 - c_2}{\\sqrt{m^2 + 1}}$",
+   "$\\frac{|c_1 - c_2|}{\\sqrt{1 + m^2}}$",
+   "$\\frac{c_2 - c_1}{\\sqrt{1 + m^2}}$",
+   "$0$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch10-032",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 32,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep210.pdf",
+   "page": 18,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The coordinates of the foot of perpendiculars from the point $(2, 3)$ on the line $y = 3x + 4$ is given by",
+  "options": [
+   "$\\left(\\frac{37}{10}, \\frac{-1}{10}\\right)$",
+   "$\\left(\\frac{-1}{10}, \\frac{37}{10}\\right)$",
+   "$\\left(\\frac{10}{37}, -10\\right)$",
+   "$\\left(\\frac{2}{3}, -\\frac{1}{3}\\right)$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch10-033",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 33,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep210.pdf",
+   "page": 18,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "If the coordinates of the middle point of the portion of a line intercepted between the coordinate axes is $(3, 2)$, then the equation of the line will be",
+  "options": [
+   "$2x + 3y = 12$",
+   "$3x + 2y = 12$",
+   "$4x - 3y = 6$",
+   "$5x - 2y = 10$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch10-034",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 34,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep210.pdf",
+   "page": 18,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "Equation of the line passing through $(1, 2)$ and parallel to the line $y = 3x - 1$ is",
+  "options": [
+   "$y + 2 = x + 1$",
+   "$y + 2 = 3(x + 1)$",
+   "$y - 2 = 3(x - 1)$",
+   "$y - 2 = x - 1$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch10-035",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 35,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep210.pdf",
+   "page": 18,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "Equations of diagonals of the square formed by the lines $x = 0$, $y = 0$, $x = 1$ and $y = 1$ are",
+  "options": [
+   "$y = x, \\; y + x = 1$",
+   "$y = x, \\; x + y = 2$",
+   "$2y = x, \\; y + x = \\frac{1}{3}$",
+   "$y = 2x, \\; y + 2x = 1$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch10-036",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 36,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep210.pdf",
+   "page": 18,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "For specifying a straight line, how many geometrical parameters should be known?",
+  "options": [
+   "$1$",
+   "$2$",
+   "$4$",
+   "$3$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch10-037",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 37,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep210.pdf",
+   "page": 18,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The point $(4, 1)$ undergoes the following two successive transformations :\n\n(i) Reflection about the line $y = x$\n\n(ii) Translation through a distance 2 units along the positive $x$-axis\n\nThen the final coordinates of the point are",
+  "options": [
+   "$(4, 3)$",
+   "$(3, 4)$",
+   "$(1, 4)$",
+   "$\\left(\\frac{7}{2}, \\frac{7}{2}\\right)$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch10-038",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 38,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep210.pdf",
+   "page": 18,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "A point equidistant from the lines $4x + 3y + 10 = 0$, $5x - 12y + 26 = 0$ and $7x + 24y - 50 = 0$ is",
+  "options": [
+   "$(1, -1)$",
+   "$(1, 1)$",
+   "$(0, 0)$",
+   "$(0, 1)$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch10-039",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 39,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep210.pdf",
+   "page": 18,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "A line passes through $(2, 2)$ and is perpendicular to the line $3x + y = 3$. Its $y$-intercept is",
+  "options": [
+   "$\\frac{1}{3}$",
+   "$\\frac{2}{3}$",
+   "$1$",
+   "$\\frac{4}{3}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "duplicate of pyq-2023-mathematics-037"
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch10-040",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 40,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep210.pdf",
+   "page": 19,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The ratio in which the line $3x + 4y + 2 = 0$ divides the distance between the lines $3x + 4y + 5 = 0$ and $3x + 4y - 5 = 0$ is",
+  "options": [
+   "$1 : 2$",
+   "$3 : 7$",
+   "$2 : 3$",
+   "$2 : 5$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch10-041",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 41,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep210.pdf",
+   "page": 19,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "One vertex of the equilateral triangle with centroid at the origin and one side as $x + y - 2 = 0$ is",
+  "options": [
+   "$(-1, -1)$",
+   "$(2, 2)$",
+   "$(-2, -2)$",
+   "$(2, -2)$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "disputed",
+   "notes": "Key B (2,2) read correctly, but side x+y=2 is at distance sqrt2 (inradius) from centroid so opposite vertex is (-2,-2); (2,2) would have opposite side x+y=-2, not x+y=2.",
+   "status_reason": "solver disagrees with unofficial key"
+  }
+ }
+]

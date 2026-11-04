@@ -1,0 +1,2098 @@
+[
+ {
+  "id": "pyq-2011-mathematics-001",
+  "subject": "mathematics",
+  "chapter": "sequences-and-series",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 1,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $\\frac{\\mathrm{Log}\\,x}{b-c}=\\frac{\\mathrm{Log}\\,y}{c-a}=\\frac{\\mathrm{Log}\\,z}{a-b}$, then the value of $x^{b+c}\\cdot y^{c+a}\\cdot z^{a+b}$ is",
+  "options": [
+   "1",
+   "2",
+   "0",
+   "-1"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-002",
+  "subject": "mathematics",
+  "chapter": "sequences-and-series",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 2,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The sum of the first $n$ terms of $\\frac{1^2}{1}+\\frac{1^2+2^2}{1+2}+\\frac{1^2+2^2+3^2}{1+2+3}+\\cdots$ is",
+  "options": [
+   "$\\frac{n^2-2n}{3}$",
+   "$\\frac{2n^2+n}{3}$",
+   "$\\frac{n(n+2)}{3}$",
+   "$\\frac{2n^2-n}{3}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-003",
+  "subject": "mathematics",
+  "chapter": "binomial-theorem",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 3,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "In $n$ is an odd positive integer and $\\left(1+x+x^2+x^3\\right)^n=\\sum_{r=0}^{3n}a_r x^r$, then $a_0-a_1+a_2-a_3+\\cdots-a_{3n}$ is",
+  "options": [
+   "$4^n$",
+   "1",
+   "-1",
+   "0"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-004",
+  "subject": "mathematics",
+  "chapter": "binomial-theorem",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 4,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $r^{\\text{th}}$ and $(r+1)^{\\text{th}}$ terms in the expansion of $(p+q)^n$ are equal, then $\\frac{(n+1)q}{r(p+q)}$ is",
+  "options": [
+   "0",
+   "1",
+   "$\\frac{1}{4}$",
+   "$\\frac{1}{2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-005",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 5,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $\\alpha$, $\\beta$ and $\\gamma$ are roots of $x^3-2x+1=0$, then the value of $\\sum\\left(\\frac{1}{\\alpha+\\beta-\\gamma}\\right)$ is",
+  "options": [
+   "$-\\frac{1}{2}$",
+   "-1",
+   "0",
+   "$\\frac{1}{2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-006",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 6,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Define a relation $R$ on $A=\\{1,2,3,4\\}$ as $x R y$ if $x$ divides $y$. $R$ is",
+  "options": [
+   "reflexive and transitive",
+   "reflexive and symmetric",
+   "symmetric and transitive",
+   "equivalence"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-007",
+  "subject": "mathematics",
+  "chapter": "mathematical-reasoning",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 7,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The negation of $p\\rightarrow(\\sim p\\vee q)$ is",
+  "options": [
+   "$p\\vee(p\\vee\\sim q)$",
+   "$p\\rightarrow\\sim(p\\vee q)$",
+   "$p\\rightarrow q$",
+   "$p\\wedge\\sim q$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-008",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 8,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "In any triangle $ABC$, the simplified form of $\\frac{\\cos 2A}{a^2}-\\frac{\\cos 2B}{b^2}$ is",
+  "options": [
+   "$a^2-b^2$",
+   "$\\frac{1}{a^2-b^2}$",
+   "$\\frac{1}{a^2}-\\frac{1}{b^2}$",
+   "$a^2+b^2$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-009",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 9,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Angles of elevation of the top of a tower from three points (collinear) $A$, $B$ and $C$ on a road leading to the foot of the tower are $30^\\circ$, $45^\\circ$ and $60^\\circ$ respectively. The ratio of $AB$ to $BC$ is",
+  "options": [
+   "$\\sqrt{3}:1$",
+   "$\\sqrt{3}:2$",
+   "$1:2$",
+   "$2:\\sqrt{3}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-010",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 10,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The value of $\\sin 10 \\cdot \\sin 30 \\cdot \\sin 50 \\cdot \\sin 70$ is",
+  "options": [
+   "$\\frac{1}{8}$",
+   "$\\frac{3}{16}$",
+   "$\\frac{\\sqrt{3}}{16}$",
+   "$\\frac{1}{16}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-011",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 11,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Locus of a point which moves such that its distance from the $X$-axis is twice its distance from the line $x-y=0$ is",
+  "options": [
+   "$x^2+4xy-y^2=0$",
+   "$2x^2-4xy+y^2=0$",
+   "$x^2-4xy+y^2=0$",
+   "$x^2-4xy-y^2=0$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-012",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 12,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The points $A(1,2)$, $B(2,4)$ and $C(4,8)$ form a/an",
+  "options": [
+   "isosceles triangle",
+   "equilateral triangle",
+   "straight line",
+   "right angled triangle"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-013",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 13,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If lines represented by $x+3y-6=0$, $2x+y-4=0$ and $kx-3y+1=0$ are concurrent, then the value of $k$ is",
+  "options": [
+   "$\\frac{6}{19}$",
+   "$\\frac{19}{6}$",
+   "$\\frac{-19}{6}$",
+   "$\\frac{-6}{19}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-014",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 14,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "$\\lim_{x\\to a}\\left[\\frac{\\sqrt{a+2x}-\\sqrt{3x}}{\\sqrt{3a+x}-\\sqrt[3]{x}}\\right]=$",
+  "options": [
+   "$\\frac{2}{3}$",
+   "$\\frac{2}{\\sqrt{3}}$",
+   "$\\frac{3\\sqrt{3}}{2}$",
+   "$\\frac{2}{3\\sqrt{3}}$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-015",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 15,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $f(x)=\\begin{cases}\\dfrac{\\mathrm{Log}\\,x}{x-1}, & x\\neq 1\\\\ k, & x=1\\end{cases}$ is continuous at $x=1$, then the value of $k$ is",
+  "options": [
+   "0",
+   "-1",
+   "1",
+   "$e$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-016",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 16,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $A=\\begin{bmatrix}\\cos\\theta & \\sin\\theta\\\\ -\\sin\\theta & \\cos\\theta\\end{bmatrix}$, then $A\\cdot A'$ is",
+  "options": [
+   "$I$",
+   "$A$",
+   "$-A$",
+   "$A^2$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-017",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 17,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $\\begin{bmatrix}1 & 2 & -1\\\\ 1 & x-2 & 1\\\\ x & 1 & 1\\end{bmatrix}$ is singular, then the value of $x$ is",
+  "options": [
+   "2",
+   "3",
+   "1",
+   "0"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-018",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 18,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $A$ and $B$ are symmetric matrices of the same order, then which one of the following is NOT true?",
+  "options": [
+   "$A+B$ is symmetric",
+   "$A-B$ is symmetric",
+   "$AB+BA$ is symmetric",
+   "$AB-BA$ is symmetric"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-019",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 19,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $\\omega$ is an imaginary cube root of unity, then the value of $\\begin{vmatrix}1 & \\omega^2 & 1-\\omega^4\\\\ \\omega & 1 & 1+\\omega^5\\\\ 1 & \\omega & \\omega^2\\end{vmatrix}$ is",
+  "options": [
+   "$-4$",
+   "$\\omega^2-4$",
+   "$\\omega^2$",
+   "$4$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-020",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 20,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $\\vec{a}$, $\\vec{b}$ and $\\vec{c}$ are unit vectors such that $\\vec{a}+\\vec{b}+\\vec{c}=\\vec{0}$, then the angle between $\\vec{a}$ and $\\vec{b}$ is",
+  "options": [
+   "$\\frac{\\pi}{2}$",
+   "$\\frac{\\pi}{3}$",
+   "$\\frac{2\\pi}{3}$",
+   "$\\pi$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-021",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 21,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $\\vec{a}$, $\\vec{b}$ and $\\vec{c}$ are noncoplanar, then the value of $\\vec{a}\\cdot\\left\\{\\frac{\\vec{b}\\times\\vec{c}}{3\\vec{b}\\cdot(\\vec{c}\\times\\vec{a})}\\right\\}-\\vec{b}\\cdot\\left\\{\\frac{\\vec{c}\\times\\vec{a}}{2\\vec{c}\\cdot(\\vec{a}\\times\\vec{b})}\\right\\}$ is",
+  "options": [
+   "$-\\frac{1}{2}$",
+   "$-\\frac{1}{3}$",
+   "$-\\frac{1}{6}$",
+   "$\\frac{1}{6}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-022",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 22,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $2\\hat{i}+3\\hat{j}$, $\\hat{i}+\\hat{j}+\\hat{k}$ and $\\lambda\\hat{i}+4\\hat{j}+2\\hat{k}$ taken in an order are coterminous edges of a parallelopiped of volume $2$ Cu units, then value of $\\lambda$ is",
+  "options": [
+   "-4",
+   "2",
+   "3",
+   "4"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-023",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 23,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A unit vector perpendicular to both $\\hat{i}+\\hat{j}+\\hat{k}$ and $2\\hat{i}+\\hat{j}+3\\hat{k}$ is",
+  "options": [
+   "$(2\\hat{i}-\\hat{j}-\\hat{k})\\sqrt{6}$",
+   "$\\frac{2\\hat{i}-\\hat{j}-\\hat{k}}{\\sqrt{6}}$",
+   "$2\\hat{i}+\\hat{j}+\\hat{k}$",
+   "$\\frac{3\\hat{i}+\\hat{j}-2\\hat{k}}{\\sqrt{6}}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-024",
+  "subject": "mathematics",
+  "chapter": "principle-of-mathematical-induction",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 24,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The digit in the unit's place of $7^{171}+(177)!$ is",
+  "options": [
+   "3",
+   "2",
+   "1",
+   "0"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-025",
+  "subject": "mathematics",
+  "chapter": "permutations-and-combinations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 25,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The sum of all positive divisors of $242$ except $1$ and itself is",
+  "options": [
+   "156",
+   "242",
+   "342",
+   "399"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-026",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 26,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "On the set of all nonzero reals, an operation $*$ is defined as $a*b=\\frac{3ab}{2}$. In this group, a solution of $(2*x)*3^{-1}=4^{-1}$ is",
+  "options": [
+   "6",
+   "1",
+   "$\\frac{1}{6}$",
+   "$\\frac{3}{2}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-027",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 27,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "$G=\\left\\{\\begin{bmatrix}x & x\\\\ x & x\\end{bmatrix},\\ x \\text{ is a nonzero real number}\\right\\}$ is a group with respect to matrix multiplication. In this group, the inverse of $\\begin{bmatrix}\\frac{1}{3} & \\frac{1}{3}\\\\ \\frac{1}{3} & \\frac{1}{3}\\end{bmatrix}$ is",
+  "options": [
+   "$\\begin{bmatrix}\\frac{4}{3} & \\frac{4}{3}\\\\ \\frac{4}{3} & \\frac{4}{3}\\end{bmatrix}$",
+   "$\\begin{bmatrix}\\frac{3}{4} & \\frac{3}{4}\\\\ \\frac{3}{4} & \\frac{3}{4}\\end{bmatrix}$",
+   "$\\begin{bmatrix}3 & 3\\\\ 3 & 3\\end{bmatrix}$",
+   "$\\begin{bmatrix}1 & 1\\\\ 1 & 1\\end{bmatrix}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-028",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 28,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $2x^2+2y^2+4x+5y+1=0$ and $3x^2+3y^2+6x-7y+3k=0$ are orthogonal, then value of $k$ is",
+  "options": [
+   "$\\frac{17}{12}$",
+   "$\\frac{12}{17}$",
+   "$\\frac{-12}{17}$",
+   "$\\frac{-17}{12}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-029",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 29,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The total number of common tangents of $x^2+y^2-6x-8y+9=0$ and $x^2+y^2=1$ is",
+  "options": [
+   "4",
+   "2",
+   "3",
+   "1"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-030",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 30,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The center of a circle which cuts $x^2+y^2+6x-1=0$, $x^2+y^2-3y+2=0$ and $x^2+y^2+x+y-3=0$ orthogonally is",
+  "options": [
+   "$\\left(\\frac{1}{7},\\frac{9}{7}\\right)$",
+   "$\\left(\\frac{-1}{7},\\frac{-9}{7}\\right)$",
+   "$\\left(\\frac{1}{7},\\frac{-9}{7}\\right)$",
+   "$\\left(\\frac{-1}{7},\\frac{9}{7}\\right)$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-031",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 31,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The length of the latus rectum of $3x^2-4y+6x-3=0$ is",
+  "options": [
+   "$\\frac{3}{4}$",
+   "$\\frac{4}{3}$",
+   "2",
+   "3"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-032",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 32,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The sum of the reciprocals of focal distances of a focal chord $PQ$ of $y^2=4ax$ is",
+  "options": [
+   "$\\frac{1}{a}$",
+   "$a$",
+   "$2a$",
+   "$\\frac{1}{2a}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-033",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 33,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If the focii of $\\frac{x^2}{16}+\\frac{y^2}{4}=1$ and $\\frac{x^2}{a^2}-\\frac{y^2}{3}=1$ coincide, then value of $a$ is",
+  "options": [
+   "$\\sqrt{3}$",
+   "$\\frac{1}{\\sqrt{3}}$",
+   "2",
+   "1"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-034",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 34,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The equation of a hyperbola whose asymptotes are $3x\\pm 5y=0$ and vertices are $(\\pm 5, 0)$ is",
+  "options": [
+   "$3x^2-5y^2=25$",
+   "$5x^2-3y^2=225$",
+   "$25x^2-9y^2=225$",
+   "$9x^2-25y^2=225$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-035",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 35,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The domain of $f(x)=\\sin^{-1}\\left[\\mathrm{Log}_2\\left(\\frac{x}{2}\\right)\\right]$ is",
+  "options": [
+   "$0\\le x\\le 1$",
+   "$0\\le x\\le 4$",
+   "$1\\le x\\le 4$",
+   "$4\\le x\\le 6$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-036",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 36,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $\\tan^{-1}x=\\frac{\\pi}{4}-\\tan^{-1}\\left(\\frac{1}{3}\\right)$, then $x$ is",
+  "options": [
+   "$\\frac{1}{3}$",
+   "$\\frac{1}{2}$",
+   "$\\frac{1}{4}$",
+   "$\\frac{1}{6}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-037",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 37,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A value of $\\theta$ satisfying $\\sin 5\\theta-\\sin 3\\theta+\\sin\\theta=0$ such that $0<\\theta<\\frac{\\pi}{2}$ is",
+  "options": [
+   "$\\frac{\\pi}{12}$",
+   "$\\frac{\\pi}{6}$",
+   "$\\frac{\\pi}{4}$",
+   "$\\frac{\\pi}{2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-038",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 38,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The value of $\\left|\\dfrac{1+i\\sqrt{3}}{\\left(1+\\dfrac{1}{i+1}\\right)^2}\\right|$ is",
+  "options": [
+   "20",
+   "9",
+   "$\\frac{5}{4}$",
+   "$\\frac{4}{5}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-039",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 39,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $\\omega$ is an imaginary cube root of unity, then the value of $(1-\\omega+\\omega^2)\\cdot(1-\\omega^2+\\omega^4)\\cdot(1-\\omega^4+\\omega^8)\\cdots$ ($2n$ factors) is",
+  "options": [
+   "$2^{2n}$",
+   "$2^n$",
+   "1",
+   "0"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-040",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 40,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $P(x,y)$ denotes $z=x+iy$ in Argand's plane and $\\left|\\dfrac{z-1}{z+2i}\\right|=1$, then the locus of $P$ is a/an",
+  "options": [
+   "hyperbola",
+   "ellipse",
+   "circle",
+   "straight line"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-041",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 41,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $\\sqrt{r}=a\\,e^{\\theta\\cot\\alpha}$ where $a$ and $\\alpha$ are real numbers, then $\\frac{d^2r}{d\\theta^2}-4r\\cot^2\\alpha$ is",
+  "options": [
+   "$r$",
+   "$\\frac{1}{r}$",
+   "1",
+   "0"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-042",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 42,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The derivative of $\\tan^{-1}\\left[\\frac{\\sin x}{1+\\cos x}\\right]$ with respect to $\\tan^{-1}\\left[\\frac{\\cos x}{1+\\sin x}\\right]$ is",
+  "options": [
+   "2",
+   "-1",
+   "0",
+   "-2"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-043",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 43,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "$\\frac{d}{dx}\\left[\\cos^2\\left(\\cot^{-1}\\sqrt{\\frac{2+x}{2-x}}\\right)\\right]$ is",
+  "options": [
+   "$\\frac{1}{4}$",
+   "$\\frac{1}{2}$",
+   "$\\frac{-1}{2}$",
+   "$\\frac{-3}{4}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-044",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 44,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $f(x)=\\frac{\\sin^2 x}{1+\\cot x}+\\frac{\\cos^2 x}{1+\\tan x}$, then $f'\\left(\\frac{\\pi}{4}\\right)$ is",
+  "options": [
+   "$\\sqrt{3}$",
+   "$\\frac{1}{\\sqrt{3}}$",
+   "0",
+   "$-\\sqrt{3}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-045",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 45,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $\\cos^{-1}\\left(\\frac{y}{b}\\right)=n\\,\\mathrm{Log}\\left(\\frac{x}{n}\\right)$, then",
+  "options": [
+   "$xy_1=n\\sqrt{b^2-y^2}$",
+   "$xy_1+n\\sqrt{b^2-y^2}=0$",
+   "$y_1=x\\sqrt{b^2-y^2}$",
+   "$xy_1-\\sqrt{b^2-y^2}=0$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-046",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 46,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "Area of a triangle formed by tangent and normal to the curve $\\frac{x^2}{a^2}+\\frac{y^2}{b^2}=1$ at $P\\left(\\frac{a}{\\sqrt{2}},\\frac{b}{\\sqrt{2}}\\right)$ with the $X$-axis is",
+  "options": [
+   "$4ab$",
+   "$\\frac{ab\\sqrt{a^2+b^2}}{4}$",
+   "$\\frac{ab\\sqrt{a^2-b^2}}{4}$",
+   "$\\frac{b(a^2+b^2)}{4a}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-047",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 47,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The angle between $y^2=4x$ and $x^2+y^2=12$ at a point of their intersection is",
+  "options": [
+   "$\\tan^{-1}\\sqrt{2}$",
+   "$\\tan^{-1}2$",
+   "$\\tan^{-1}2\\sqrt{2}$",
+   "$\\tan^{-1}\\left(\\frac{1}{2}\\right)$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-048",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 48,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "A sphere increases its volume at the rate of $\\pi$ cc/s. The rate at which its surface area increases when the radius is $1$ cm is",
+  "options": [
+   "$2\\pi$ sq.cm/s",
+   "$\\pi$ sq.cm/s",
+   "$\\frac{3\\pi}{2}$ sq.cm/s",
+   "$\\frac{\\pi}{2}$ sq.cm/s"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-049",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 49,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The value of $\\int_0^4 |x-1|\\,dx$ is",
+  "options": [
+   "$\\frac{5}{2}$",
+   "5",
+   "4",
+   "1"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-050",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 50,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 11,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $I_n=\\int_0^{\\pi/4}\\tan^n x\\,dx$, where $n$ is a positive integer, then $I_{10}+I_8$ is",
+  "options": [
+   "$\\frac{1}{9}$",
+   "$\\frac{1}{8}$",
+   "$\\frac{1}{7}$",
+   "9"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-051",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 51,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "$\\int e^x\\left[\\frac{\\sin x+\\cos x}{1-\\sin^2 x}\\right]dx$ is",
+  "options": [
+   "$\\left(e^x\\cdot\\csc x\\right)+c$",
+   "$e^x\\cot x+c$",
+   "$\\left(e^x\\cdot\\sec x\\right)+c$",
+   "$e^x\\tan x+c$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-052",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 52,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "When $x>0$, then $\\int\\cos^{-1}\\left(\\frac{1-x^2}{1+x^2}\\right)dx$ is",
+  "options": [
+   "$2\\left[x\\tan^{-1}x-\\mathrm{Log}\\left(1+x^2\\right)\\right]+c$",
+   "$2\\left[x\\tan^{-1}x+\\mathrm{Log}\\left(1+x^2\\right)\\right]+c$",
+   "$2x\\tan^{-1}x+\\mathrm{Log}\\left(1+x^2\\right)+c$",
+   "$2x\\tan^{-1}x-\\mathrm{Log}\\left(1+x^2\\right)+c$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-053",
+  "subject": "mathematics",
+  "chapter": "application-of-integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 53,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If the area between $y=mx^2$ and $x=my^2$ ($m>0$) is $\\frac{1}{4}$ sq. units, then value of $m$ is",
+  "options": [
+   "$\\pm 3\\sqrt{2}$",
+   "$\\pm 2\\sqrt{3}$",
+   "$\\sqrt{2}$",
+   "$\\sqrt{3}$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-054",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 54,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $m$ and $n$ are degree and order of $\\left(1+y_1^2\\right)^{2/3}=y_2$, then the value of $\\frac{m+n}{m-n}$ is",
+  "options": [
+   "3",
+   "4",
+   "5",
+   "2"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-055",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 55,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "The general solution of $\\frac{dy}{dx}=1-x^2-y^2+x^2y^2$ is",
+  "options": [
+   "$2\\sin^{-1}y=x\\sqrt{1-x^2}+\\sin^{-1}x+c$",
+   "$\\cos^{-1}y=x\\cos^{-1}x+c$",
+   "$\\sin^{-1}y=\\frac{1}{2}\\sin^{-1}x+c$",
+   "$2\\sin^{-1}y=x\\sqrt{1-y^2}+c$"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-056",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 56,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $x\\cos\\alpha+y\\sin\\alpha=4$ is tangent to $\\frac{x^2}{25}+\\frac{y^2}{9}=1$, then the value of $\\alpha$ is",
+  "options": [
+   "$\\tan^{-1}\\left(\\frac{3}{7}\\right)$",
+   "$\\tan^{-1}\\left(\\frac{\\sqrt{3}}{7}\\right)$",
+   "$\\tan^{-1}\\left(\\frac{7}{3}\\right)$",
+   "$\\tan^{-1}\\left(\\frac{3}{\\sqrt{7}}\\right)$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-057",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 57,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $P$ is a point on $\\frac{x^2}{a^2}+\\frac{y^2}{b^2}=1$ with focii $S$ and $S'$, then the maximum value of triangle $SPS'$ is",
+  "options": [
+   "$ab$",
+   "$abe^2$",
+   "$abe$",
+   "$\\frac{ab}{e}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-058",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 58,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "In Argand's plane, the point corresponding to $\\frac{(1-i\\sqrt{3})(1+i)}{(\\sqrt{3}+i)}$ lies in",
+  "options": [
+   "quadrant I",
+   "quadrant II",
+   "quadrant III",
+   "quadrant IV"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-059",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 59,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "If $y=\\sin x\\cdot\\sin 2x\\cdot\\sin 3x\\cdots\\sin nx$, then $y'$ is",
+  "options": [
+   "$\\sum_{k=1}^{n}k\\tan kx$",
+   "$y\\cdot\\sum_{k=1}^{n}k\\cot kx$",
+   "$y\\cdot\\sum_{k=1}^{n}k\\tan kn$",
+   "$\\sum_{k=1}^{n}\\cot kx$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2011-mathematics-060",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2011",
+   "year": 2011,
+   "version": "A1",
+   "number": 60,
+   "file": "sources/pyq/2011/mathematics/2011-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 13,
+   "key_file": "sources/pyq/2011/mathematics/2011-mathematics-answer_key-all-kea-wayback.pdf"
+  },
+  "stem": "$\\begin{vmatrix}\\sin\\alpha & \\cos\\alpha & \\sin(\\alpha+\\delta)\\\\ \\sin\\beta & \\cos\\beta & \\sin(\\beta+\\delta)\\\\ \\sin\\gamma & \\cos\\gamma & \\sin(\\gamma+\\delta)\\end{vmatrix}=$",
+  "options": [
+   "0",
+   "1",
+   "$1+\\sin\\alpha\\sin\\beta\\sin\\gamma$",
+   "$1-(\\sin\\alpha-\\sin\\beta)(\\sin\\beta-\\sin\\gamma)(\\sin\\gamma-\\sin\\alpha)$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

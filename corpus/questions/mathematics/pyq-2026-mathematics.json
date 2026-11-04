@@ -1,0 +1,2104 @@
+[
+ {
+  "id": "pyq-2026-mathematics-001",
+  "subject": "mathematics",
+  "chapter": "sets",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 1,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If $A = \\{a, b, c, d, e, f\\}$, then the number of subsets of $A$ which contains at least 2 elements is",
+  "options": [
+   "64",
+   "65",
+   "57",
+   "59"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-002",
+  "subject": "mathematics",
+  "chapter": "sets",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 2,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If $A = \\{1, 2, 3, 4, \\ldots, 10\\}$, then the number of non empty subsets of $A$ containing only even number is",
+  "options": [
+   "31",
+   "32",
+   "30",
+   "29"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-003",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions-11",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 3,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "The domain of the function $\\sqrt{\\dfrac{x-7}{9-x}}$ is",
+  "options": [
+   "(7, 9)",
+   "[7, 9)",
+   "[7, 9]",
+   "(7, 9]"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-004",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions-11",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 4,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If $n(A) = 2$ and the number of relations from set $A$ to set $B$ is $1024$, then $n(B)$ is",
+  "options": [
+   "2",
+   "5",
+   "$2^{5}$",
+   "$5^{2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-005",
+  "subject": "mathematics",
+  "chapter": "probability-11",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 5,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "Probability of at least one of the events $A$ and $B$ occur is $0.6$. If $A$ and $B$ occur simultaneously with probability $0.2$, then $P(\\overline{A}) + P(\\overline{B})$ is",
+  "options": [
+   "1",
+   "0.8",
+   "0.6",
+   "1.2"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-006",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 6,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "The maximum value of $\\sin\\left(x + \\frac{\\pi}{6}\\right) + \\cos\\left(x + \\frac{\\pi}{6}\\right)$ is attained at $x =$",
+  "options": [
+   "$\\frac{\\pi}{2}$",
+   "$\\frac{\\pi}{4}$",
+   "$\\frac{\\pi}{6}$",
+   "$\\frac{\\pi}{12}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-007",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 7,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "The angles of a triangle are in A.P and the greatest angle is double the least angle, then sine of the third angle is",
+  "options": [
+   "$\\frac{\\sqrt{3}}{2}$",
+   "$\\frac{1}{\\sqrt{2}}$",
+   "$\\frac{1}{2}$",
+   "$0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-008",
+  "subject": "mathematics",
+  "chapter": "statistics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 8,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "The mean and standard deviation of 100 items are 50 and 4, respectively then the sum of all squares of the items is",
+  "options": [
+   "250000",
+   "251600",
+   "256100",
+   "265100"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-009",
+  "subject": "mathematics",
+  "chapter": "probability-11",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 9,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "Probability of occurrence of an event $A$ is $\\frac{1}{2}$ and that of $B$ is $\\frac{3}{10}$. If $A$ and $B$ are mutually exclusive, then the probability of occurrence of neither $A$ nor $B$ is",
+  "options": [
+   "$\\frac{4}{5}$",
+   "$\\frac{3}{5}$",
+   "$\\frac{2}{5}$",
+   "$\\frac{1}{5}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-010",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions-11",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 10,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "Let $R$ be the relation in the set $N$ given by $R = \\{(a, b) : a = b - 2, b > 6\\}$. Which of the following is the correct answer?",
+  "options": [
+   "$(2, 4) \\in R$",
+   "$(3, 8) \\in R$",
+   "$(6, 8) \\in R$",
+   "$(8, 7) \\in R$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-011",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 11,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "$f(x) = (x + 1)^2$ for $x \\geq 1$, $g(x)$ is a function whose graph is the reflection of the graph of $f(x)$ in the line $y = x$, then $g(x)$ is",
+  "options": [
+   "$-\\sqrt{x} - 1$",
+   "$\\sqrt{x} + 1$",
+   "$\\sqrt{x} - 1$",
+   "$\\sqrt{x - 1}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-012",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 12,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If $\\sin^{-1} x + \\sin^{-1} y = \\frac{\\pi}{2}$, then $x^2$ is equal to",
+  "options": [
+   "$1 - y^2$",
+   "$1 + y^2$",
+   "$\\sqrt{1 - y^2}$",
+   "$\\sqrt{1 + y^2}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-013",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 13,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "$\\tan^{-1}\\left(\\frac{1}{1+1\\times 2}\\right) + \\tan^{-1}\\left(\\frac{1}{1+2\\times 3}\\right) + \\cdots + \\tan^{-1}\\left(\\frac{1}{1+n(n+1)}\\right) =$",
+  "options": [
+   "$\\tan^{-1}\\left(\\frac{n}{n+2}\\right)$",
+   "$\\tan^{-1}\\left(\\frac{n+1}{n}\\right)$",
+   "$\\tan^{-1}\\left(\\frac{n}{n+1}\\right)$",
+   "$\\tan^{-1}\\left(\\frac{n+2}{n}\\right)$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-014",
+  "subject": "mathematics",
+  "chapter": "linear-programming",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 14,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "The corner points of the feasible region determined by the system of linear constraints are $(0, 10)$, $(5, 5)$, $(15, 15)$, $(0, 20)$. Let $z = px + qy$ where $p, q > 0$. The relation between $p$ and $q$ so that the maximum $z$ occurs at both points $(15, 15)$ and $(0, 20)$ is",
+  "options": [
+   "$p = q$",
+   "$p = 2q$",
+   "$q = 2p$",
+   "$q = 3p$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-015",
+  "subject": "mathematics",
+  "chapter": "linear-programming",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 15,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "In Linear Programming Problem (LPP), the objective function $Z = ax + by$ has the same maximum value at two corner points. The number of points at which $Z_{\\max}$ occurs is",
+  "options": [
+   "1",
+   "2",
+   "0",
+   "Infinity"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-016",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 16,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "Probability of obtaining an even prime number on each die when a pair of dice is rolled is",
+  "options": [
+   "0",
+   "$\\frac{1}{6}$",
+   "$\\frac{1}{12}$",
+   "$\\frac{1}{36}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-017",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 17,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "The probability that a man and his wife live after 20 years are $\\frac{1}{4}$ and $\\frac{1}{3}$ respectively. The probability that neither the man nor his wife live after 20 years is",
+  "options": [
+   "$\\frac{3}{4}$",
+   "$\\frac{1}{12}$",
+   "$\\frac{7}{12}$",
+   "$\\frac{1}{2}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-018",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 18,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "Integrating factor of the differential equation $(1 - x^2)\\frac{dy}{dx} - xy = 1$ is",
+  "options": [
+   "$1 - x^2$",
+   "$\\frac{1}{2}\\log|1 - x^2|$",
+   "$\\frac{x}{1 + x^2}$",
+   "$\\sqrt{1 - x^2}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-019",
+  "subject": "mathematics",
+  "chapter": "probability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 19,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "Recent studies suggest that $12\\%$ of the world population is left handed. Depending on parents' hand usage, the chances of having left handed children are as follows:\n\nA: Both parents are left handed, chances of having left handed children $= 24\\%$\n\nB: Both parents are right handed, chances of having left handed children $= 9\\%$\n\nC: Father left handed and mother right handed, chances of having left handed children $= 17\\%$\n\nD: Father right handed and mother left handed, chances of having left handed children $= 22\\%$\n\nGiven $P(A) = P(B) = P(C) = P(D) = \\frac{1}{4}$ and $L$ denotes child is left handed. What is the probability that $P(A|L)$?",
+  "options": [
+   "$\\frac{17}{100}$",
+   "$\\frac{19}{25}$",
+   "$\\frac{1}{3}$",
+   "$\\frac{2}{3}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-020",
+  "subject": "mathematics",
+  "chapter": "trigonometric-functions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 20,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 12,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If $\\alpha$ and $\\beta$ are acute angles such that $\\alpha + \\beta$ and $\\alpha - \\beta$ satisfy the equation $\\tan^2 \\theta - 4\\tan\\theta + 1 = 0$, then $\\alpha$ and $\\beta$ are respectively,",
+  "options": [
+   "$45^\\circ, 30^\\circ$",
+   "$30^\\circ, 45^\\circ$",
+   "$30^\\circ, 60^\\circ$",
+   "$60^\\circ, 45^\\circ$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-021",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 21,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "$\\sum_{n=1}^{4} \\left(\\sqrt{-1}\\right)^{2n} =$ ______",
+  "options": [
+   "2",
+   "$-i$",
+   "0",
+   "$i$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-022",
+  "subject": "mathematics",
+  "chapter": "linear-inequalities",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 22,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "The solution of $3(x - 1) \\leq 2(x - 3)$ is",
+  "options": [
+   "$x \\leq -3$",
+   "$x \\geq -3$",
+   "$x \\leq 3$",
+   "$x \\geq 3$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-023",
+  "subject": "mathematics",
+  "chapter": "permutations-and-combinations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 23,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "10 distinct points are taken on a circle. Then using these points\n\nStatement I : The number of triangles that can be formed is 100\n\nStatement II : The number of chords that can be formed is 45\n\nWhich of the following is correct?",
+  "options": [
+   "Both Statement I and Statement II are true",
+   "Both Statement I and Statement II are false",
+   "Statement I is true and Statement II is false",
+   "Statement I is false and Statement II is true"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-024",
+  "subject": "mathematics",
+  "chapter": "permutations-and-combinations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 24,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "How many ways can you arrange all the letters and numbers in \"KCET 2025\" which start with K and end with 5?",
+  "options": [
+   "720",
+   "360",
+   "120",
+   "180"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-025",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 25,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 14,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "The value at $x = 2$ for $\\dfrac{x^3 + 3x^2 + 3x + 1}{x^4 + 4x^3 + 6x^2 + 4x + 1} =$ ______",
+  "options": [
+   "$3$",
+   "$\\frac{25}{61}$",
+   "$\\frac{1}{3}$",
+   "$\\frac{19}{73}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-026",
+  "subject": "mathematics",
+  "chapter": "sequences-and-series",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 26,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 16,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If we insert two numbers between $\\sqrt{2}$ and $4$ so that the resulting sequence is in G.P, then the inserted numbers in the order are",
+  "options": [
+   "$8, \\sqrt{2}$",
+   "$2, \\sqrt{8}$",
+   "$\\sqrt{8}, 2$",
+   "$\\sqrt{2}, 8$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-027",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 27,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 16,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "Match List-I with List-II\n\nList-I\n\na) A matrix which is not a square matrix\n\nb) A square matrix $A^{\\prime} = A$\n\nc) The diagonal elements of a diagonal matrix are same\n\nd) A matrix which is both symmetric and skew symmetric\n\nList-II\n\ni) Symmetric matrix\n\nii) Null matrix\n\niii) Rectangular matrix\n\niv) Scalar matrix\n\nCodes:",
+  "options": [
+   "a - iii, b - i, c - ii, d - iv",
+   "a - iii, b - ii, c - iv, d - i",
+   "a - iii, b - i, c - iv, d - ii",
+   "a - iii, b - iv, c - i, d - ii"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-028",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 28,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 16,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "Consider the following statements:\n\nStatement I : If $A$ is a non-singular matrix, then $A^{-1}$ exists.\n\nStatement II : If $A$ and $B$ are symmetric matrices of same order, then $(AB - BA)$ is a skew symmetric matrix.\n\nChoose the correct option.",
+  "options": [
+   "Statement I is true and Statement II is false",
+   "Statement I is false and Statement II is false",
+   "Statement I is true and Statement II is true",
+   "Statement I is false and Statement II is true"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-029",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 29,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 16,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "A row matrix has only",
+  "options": [
+   "One element",
+   "One row with one or more columns",
+   "One column with one or more rows",
+   "One row and one column"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-030",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 30,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 18,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "Let $X$ be a matrix of order $2 \\times n$ and $Z$ be a matrix of order $2 \\times p$. If $n = p$, then the order of the matrix $8X - 9Z$ is",
+  "options": [
+   "$2 \\times n$",
+   "$p \\times 2$",
+   "$n \\times 3$",
+   "$p \\times n$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-031",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 31,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 18,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "Which of the following is correct?",
+  "options": [
+   "Determinant is a square matrix",
+   "Determinant is a number associated to a matrix",
+   "Determinant is a unique number associated to a square matrix",
+   "Determinant is not defined for a square matrix"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-032",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 32,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 18,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If $A$ and $B$ are invertible matrices of same order, then which of the following is not correct?",
+  "options": [
+   "$A.(\\operatorname{adj} A) = (\\operatorname{adj} A).A = AI$",
+   "$A(\\operatorname{adj} A) = (\\operatorname{adj} A).A = |A|I$",
+   "$(AB)^{-1} = B^{-1}A^{-1}$",
+   "$|A| \\neq 0, |B| \\neq 0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-033",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 33,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 18,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If $A$ and $B$ are invertible square matrices of order $n$, then which of the following is not correct?",
+  "options": [
+   "$\\det(AB) = \\det(A) \\cdot \\det(B)$",
+   "$\\det(kA) = k^{n} \\det(A)$",
+   "$\\det(A + B) = \\det(A) + \\det(B)$",
+   "$\\det(A^{\\prime}) = \\frac{1}{\\det(A^{-1})}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-034",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 34,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 18,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "The area of the triangle with vertices $(3, 8)$, $(-4, 2)$ and $(5, 1)$ is $\\frac{P}{4}$, then the value of $P$ is",
+  "options": [
+   "$\\frac{61}{2}$",
+   "$\\frac{2}{61}$",
+   "$122$",
+   "$\\frac{1}{122}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-035",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 35,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 20,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "The system of equations $x + 2y = 3$ and $2x + 3y = 3$ has",
+  "options": [
+   "No solution",
+   "Unique solution",
+   "Infinite solutions",
+   "Only two solutions"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-036",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 36,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 20,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If $\\vec{a} = 2\\hat{i} + 2\\hat{j} - \\hat{k}$, $\\vec{b} = \\alpha\\hat{i} + \\beta\\hat{j} + 2\\hat{k}$ and $|\\vec{a} + \\vec{b}| = |\\vec{a} - \\vec{b}|$, then $\\alpha + \\beta$ is equal to",
+  "options": [
+   "2",
+   "-1",
+   "0",
+   "1"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-037",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 37,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 20,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If $\\vec{a} = \\hat{i} + \\hat{j} + \\hat{k}$, $\\vec{b} = \\hat{j} - \\hat{k}$ and $\\vec{a} \\times \\vec{c} = \\vec{b}$, $\\vec{a} \\cdot \\vec{c} = 3$, then $\\vec{c}$ is",
+  "options": [
+   "$\\frac{5}{3}\\hat{i} + \\frac{2}{3}\\hat{j} - \\frac{2}{3}\\hat{k}$",
+   "$\\frac{5}{3}\\hat{i} - \\frac{2}{3}\\hat{j} + \\frac{2}{3}\\hat{k}$",
+   "$\\frac{5}{3}\\hat{i} + \\frac{2}{3}\\hat{j} + \\frac{2}{3}\\hat{k}$",
+   "$\\frac{5}{3}\\hat{i} - \\frac{2}{3}\\hat{j} - \\frac{2}{3}\\hat{k}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-038",
+  "subject": "mathematics",
+  "chapter": "vector-algebra",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 38,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 20,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "The value of $\\lambda$ for which the vectors $\\vec{a} = 2\\hat{i} + \\lambda\\hat{j} + \\hat{k}$ and $\\vec{b} = \\hat{i} + 2\\hat{j} + 3\\hat{k}$ are orthogonal is",
+  "options": [
+   "$\\frac{5}{2}$",
+   "$\\frac{-5}{2}$",
+   "$\\frac{2}{5}$",
+   "$\\frac{-2}{5}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-039",
+  "subject": "mathematics",
+  "chapter": "three-dimensional-geometry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 39,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 20,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "The angle between the lines whose direction ratios are $a, b, c$ and $b - c, c - a, a - b$ is",
+  "options": [
+   "$90^\\circ$",
+   "$60^\\circ$",
+   "$30^\\circ$",
+   "$0^\\circ$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-040",
+  "subject": "mathematics",
+  "chapter": "three-dimensional-geometry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 40,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 20,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "The measure of the angle between the lines $x = k + 1$, $y = 2k - 1$, $z = 2k + 3$, $k \\in \\mathbb{R}$ and $\\frac{x - 1}{2} = \\frac{y - 2}{1} = \\frac{z - 3}{1}$ is",
+  "options": [
+   "$\\cos^{-1}\\left(\\frac{2}{3}\\right)$",
+   "$\\cos^{-1}\\left(\\sqrt{\\frac{2}{3}}\\right)$",
+   "$\\cos^{-1}\\left(\\sqrt{\\frac{3}{2}}\\right)$",
+   "$\\cos^{-1}\\left(\\frac{3}{2}\\right)$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-041",
+  "subject": "mathematics",
+  "chapter": "straight-lines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 41,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 22,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "The line $L_1$ joining the two points $(-1, 2)$ and $(3, 6)$ divides the line $L_2$ which passes through $(3, -1)$ in the ratio $1 : 3$ internally, then the equation of $L_2$ is",
+  "options": [
+   "$4x - 3y - 9 = 0$",
+   "$4x - 3y + 9 = 0$",
+   "$4x + 3y - 9 = 0$",
+   "$4x + 3y + 9 = 0$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-042",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 42,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 22,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "In the figure\n\nStatement I : When $\\alpha > \\beta \\geq 0$, the section is hyperbola\n\nStatement II : When $\\beta > 90^\\circ$, the section is ellipse\n\nWhich of the following is correct?",
+  "options": [
+   "Statement I is true, Statement II is false",
+   "Statement I is false, Statement II is true",
+   "Both the Statements are true",
+   "Both the Statements are false"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2026-mathematics-042.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-043",
+  "subject": "mathematics",
+  "chapter": "introduction-to-three-dimensional-geometry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 43,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 24,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "The three points $A(2, 4, 3)$, $B(4, a, 9)$ and $C(10, -1, 7)$ form a right-angled triangle with $\\angle B = 90^\\circ$, then the value of “$a$” is",
+  "options": [
+   "$1$ or $4$",
+   "$-1$ or $4$",
+   "$1$ or $-4$",
+   "$-1$ or $-4$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-044",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 44,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 24,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If $\\lim_{x \\to 3}\\left(\\frac{x^2 - ax - 3b}{x - 3}\\right) = 5$, then $a + b =$",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-045",
+  "subject": "mathematics",
+  "chapter": "limits-and-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 45,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 24,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If $f(x) = \\begin{cases} x^2 - 1 & \\text{if } x \\geq 2 \\\\ x + 1 & \\text{if } x < 2 \\end{cases}$, then $\\lim_{x \\to 1} f(x) + \\lim_{x \\to 2} f(x) =$",
+  "options": [
+   "3",
+   "5",
+   "7",
+   "9"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-046",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 46,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 24,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If $y = \\sqrt[3]{\\tan x + y}$, then $\\frac{dy}{dx} =$",
+  "options": [
+   "$\\frac{\\tan x}{3y^2 - 1}$",
+   "$\\frac{\\sec^2 x}{3y - 1}$",
+   "$\\frac{\\tan x}{3y - 1}$",
+   "$\\frac{\\sec^2 x}{3y^2 - 1}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-047",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 47,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 24,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If $f(x) = \\begin{cases} ax + 7 & \\text{if } x < 1 \\\\ 3x - 1 & \\text{if } x = 1 \\\\ \\frac{x + 3}{b} & \\text{if } x > 1 \\end{cases}$ is continuous at $x = 1$, then",
+  "options": [
+   "$a = 5, b = 2$",
+   "$a = -5, b = -2$",
+   "$a = 5, b = -2$",
+   "$a = -5, b = 2$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-048",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 48,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 26,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "The second order derivative of $\\cos^{-1}(4x^3 - 3x)$ with respect to $\\cos^{-1}(2x^2 - 1)$, where $\\frac{1}{2} < x < 1$ is",
+  "options": [
+   "$0$",
+   "$\\frac{-1}{\\sqrt{1 - x^2}}$",
+   "$\\frac{3}{2}$",
+   "$\\frac{-3}{2}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-049",
+  "subject": "mathematics",
+  "chapter": "continuity-and-differentiability",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 49,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 26,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If $f(x) = \\sin^{-1}\\left(\\frac{2x}{1 + x^2}\\right)$, then $f'\\left(\\frac{1}{2}\\right) =$",
+  "options": [
+   "$\\frac{8}{5}$",
+   "$\\frac{5}{8}$",
+   "$\\frac{4}{5}$",
+   "$0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-050",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 50,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 26,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If $\\sqrt{x}\\,\\sqrt[3]{y} = (x + y)^n$ and $x\\frac{dy}{dx} - y = 0$, then $n =$",
+  "options": [
+   "$1$",
+   "$\\frac{6}{5}$",
+   "$\\frac{5}{6}$",
+   "$\\frac{4}{9}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-051",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 51,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 26,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "In a Mahakumbh, a drone camera is moving along $3y = x^3 - 3$. When $y$-coordinate changes $9$ times as fast as $x$-coordinate, it captures good quality pictures. Then one of the precise positions of the drone at that instant is",
+  "options": [
+   "$(-3, -8)$",
+   "$(3, -8)$",
+   "$(3, 8)$",
+   "$(-3, 8)$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-052",
+  "subject": "mathematics",
+  "chapter": "application-of-derivatives",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 52,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 26,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "A Youtube short video is getting viral according to $f(t) = -2t^3 + 3t^2 + 5$. At what time does the video get maximum number of shares? ($t$ is in hours)",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-053",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 53,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 28,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "$\\int x\\, f(x)\\,dx + \\frac{f(x)}{2} = 0$, then $f(x)$ is equal to",
+  "options": [
+   "$e^{-2x}$",
+   "$e^{2x}$",
+   "$e^{-x^2}$",
+   "$e^{x^2}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-054",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 54,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 28,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "One of the possible functions $f(x)$ which satisfies $\\int_{-2}^{2} f(x)\\,dx = 0$ is",
+  "options": [
+   "$\\log\\left(\\frac{2 + x}{2 - x}\\right)$",
+   "$\\sin (2 + x)$",
+   "$2x^3 + 2x + 1$",
+   "$2x \\tan x$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-055",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 55,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 28,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "$\\int_{a-6}^{b-6} f(x + 6)\\,dx$ is equal to",
+  "options": [
+   "$\\int_{a}^{b} f(x - 6)\\,dx$",
+   "$\\int_{a}^{b} f(x + 6)\\,dx$",
+   "$\\int_{a}^{b} f(x)\\,dx$",
+   "$\\int_{a}^{b} f(-x)\\,dx$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-056",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 56,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 28,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "If 'n' is a natural number, then $\\int \\frac{\\sin^{n} x}{\\cos^{n+2} x}\\,dx =$",
+  "options": [
+   "$\\frac{\\tan^{n-1} x}{n - 1} + C$",
+   "$\\frac{\\tan^{n} x}{n} + C$",
+   "$\\frac{\\tan^{n+2} x}{n + 2} + C$",
+   "$\\frac{\\tan^{n+1} x}{n + 1} + C$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-057",
+  "subject": "mathematics",
+  "chapter": "integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 57,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 30,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "$\\int e^{-x\\log 2}\\,2^{x}\\,dx =$",
+  "options": [
+   "$\\log x + C$",
+   "$x + C$",
+   "$\\frac{1}{x} + C$",
+   "$\\frac{x^2}{2} + C$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-058",
+  "subject": "mathematics",
+  "chapter": "application-of-integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 58,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 30,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "The area of the region bounded by the curve $y^2 = x^3$, the $y$-axis and the lines $y = 1$ and $y = 8$ is",
+  "options": [
+   "$\\frac{155}{3}$ sq. units",
+   "$\\frac{93}{5}$ sq. units",
+   "$93$ sq. units",
+   "$155$ sq. units"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-059",
+  "subject": "mathematics",
+  "chapter": "application-of-integrals",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 59,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 30,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "The area enclosed by the curve $x = \\sqrt{3}\\cos\\theta$, $y = \\sqrt{3}\\sin\\theta$ is",
+  "options": [
+   "$\\sqrt{3}\\,\\pi$ sq. units",
+   "$9\\pi$ sq. units",
+   "$6\\pi$ sq. units",
+   "$3\\pi$ sq. units"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2026-mathematics-060",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2026",
+   "year": 2026,
+   "version": "A1",
+   "number": 60,
+   "file": "sources/pyq/2026/mathematics/2026-mathematics-question_paper-A1-aglasem.pdf",
+   "page": 30,
+   "key_file": "sources/pyq/2026/mathematics/2026-mathematics-answer_key_provisional-na-kea.pdf"
+  },
+  "stem": "Sum of the squares of the order and degree (if defined) of a differential equation $2y' + (y'')^2 = \\sqrt{y'' - 3}$ is",
+  "options": [
+   "3",
+   "20",
+   "8",
+   "16"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

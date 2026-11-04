@@ -1,0 +1,1596 @@
+[
+ {
+  "id": "tp-neet-2025-chemistry-046",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 46,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 25,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "The ratio of the wavelengths of the light absorbed by a Hydrogen atom when it undergoes $\\mathrm{n = 2 \\rightarrow n = 3}$ and $\\mathrm{n = 4 \\rightarrow n = 6}$ transitions, respectively, is",
+  "options": [
+   "$\\frac{1}{36}$",
+   "$\\frac{1}{16}$",
+   "$\\frac{1}{9}$",
+   "$\\frac{1}{4}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-047",
+  "subject": "chemistry",
+  "chapter": "classification-of-elements-and-periodicity",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 47,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 25,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Which of the following statements are true?\n\nA. Unlike Ga that has a very high melting point, Cs has a very low melting point.\n\nB. On Pauling scale, the electronegativity values of N and Cl are not the same.\n\nC. $\\mathrm{Ar}$, $\\mathrm{K^+}$, $\\mathrm{Cl^-}$, $\\mathrm{Ca^{2+}}$, and $\\mathrm{S^{2-}}$ are all isoelectronic species.\n\nD. The correct order of the first ionization enthalpies of Na, Mg, Al, and Si is Si >Al > Mg > Na.\n\nE. The atomic radius of Cs is greater than that of Li and Rb.\n\nChoose the correct answer from the options given below :",
+  "options": [
+   "A, B, and E only",
+   "C and E only",
+   "C and D only",
+   "A, C, and E only"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-048",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 48,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 26,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Match List I with List II\n\n| | List-I (Ion) | | List-II (Group Number in Cation Analysis) |\n|---|---|---|---|\n| A. | $\\mathrm{Co^{2+}}$ | I. | Group-I |\n| B. | $\\mathrm{Mg^{2+}}$ | II. | Group-III |\n| C. | $\\mathrm{Pb^{2+}}$ | III. | Group-IV |\n| D. | $\\mathrm{Al^{3+}}$ | IV. | Group-VI |\n\nChoose the correct answer from the options given below :",
+  "options": [
+   "A-III, B-IV, C-II, D-I",
+   "A-III, B-IV, C-I, D-II",
+   "A-III, B-II, C-IV, D-I",
+   "A-III, B-II, C-I, D-IV"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-049",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 49,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 26,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Predict the major product 'P' in the following sequence of reactions-",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-neet-2025-chemistry-049.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-050",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 50,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 27,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Energy and radius of first Bohr orbit of $\\mathrm{He^+}$ and $\\mathrm{Li^{2+}}$ are\n\n[Given $R_H = 2.18 \\times 10^{-18}$ J, $a_0 = 52.9$ pm]",
+  "options": [
+   "$E_n(\\mathrm{Li^{2+}}) = -19.62 \\times 10^{-18}$ J; $r_n(\\mathrm{Li^{2+}}) = 17.6$ pm; $E_n(\\mathrm{He^+}) = -8.72 \\times 10^{-18}$ J; $r_n(\\mathrm{He^+}) = 26.4$ pm",
+   "$E_n(\\mathrm{Li^{2+}}) = -8.72 \\times 10^{-18}$ J; $r_n(\\mathrm{Li^{2+}}) = 26.4$ pm; $E_n(\\mathrm{He^+}) = -19.62 \\times 10^{-18}$ J; $r_n(\\mathrm{He^+}) = 17.6$ pm",
+   "$E_n(\\mathrm{Li^{2+}}) = -19.62 \\times 10^{-16}$ J; $r_n(\\mathrm{Li^{2+}}) = 17.6$ pm; $E_n(\\mathrm{He^+}) = -8.72 \\times 10^{-16}$ J; $r_n(\\mathrm{He^+}) = 26.4$ pm",
+   "$E_n(\\mathrm{Li^{2+}}) = -8.72 \\times 10^{-16}$ J; $r_n(\\mathrm{Li^{2+}}) = 17.6$ pm; $E_n(\\mathrm{He^+}) = -19.62 \\times 10^{-16}$ J; $r_n(\\mathrm{He^+}) = 17.6$ pm"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-051",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 51,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 28,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Which of the following are paramagnetic?\n\nA. $\\mathrm{[NiCl_4]^{2-}}$\n\nB. $\\mathrm{Ni(CO)_4}$\n\nC. $\\mathrm{[Ni(CN)_4]^{2-}}$\n\nD. $\\mathrm{[Ni(H_2O)_6]^{2+}}$\n\nE. $\\mathrm{Ni(PPh_3)_4}$\n\nChoose the correct answer from the options given below :",
+  "options": [
+   "A and C only",
+   "B and E only",
+   "A and D only",
+   "A, D and E only"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-052",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-12",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 52,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 28,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Given below are two statements :\n\nStatement I : Like nitrogen that can form ammonia, arsenic can form arsine.\n\nStatement II : Antimony cannot form antimony pentoxide.\n\nIn the light of the above statements, choose the most appropriate answer from the options given below :",
+  "options": [
+   "Both Statement I and Statement II are correct",
+   "Both Statement I and Statement II are incorrect",
+   "Statement I is correct but Statement II is incorrect",
+   "Statement I is incorrect but Statement II is correct"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-053",
+  "subject": "chemistry",
+  "chapter": "classification-of-elements-and-periodicity",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 53,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 28,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Which among the following electronic configurations belong to main group elements?\n\nA. $\\mathrm{[Ne]3s^1}$\n\nB. $\\mathrm{[Ar]3d^34s^2}$\n\nC. $\\mathrm{[Kr]4d^{10}5s^25p^5}$\n\nD. $\\mathrm{[Ar]3d^{10}4s^1}$\n\nE. $\\mathrm{[Rn]5f^06d^27s^2}$\n\nChoose the correct answer from the option given below :",
+  "options": [
+   "B and E only",
+   "A and C only",
+   "D and E only",
+   "A, C and D only"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-054",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 54,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 29,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Dalton's Atomic theory could not explain which of the following?",
+  "options": [
+   "Law of conservation of mass",
+   "Law of constant proportion",
+   "Law of multiple proportion",
+   "Law of gaseous volume"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-055",
+  "subject": "chemistry",
+  "chapter": "redox-reactions",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 55,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 29,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Consider the following compounds :\n\n$\\mathrm{\\underline{K}O_2}$, $\\mathrm{H_2\\underline{O}_2}$ and $\\mathrm{H_2\\underline{S}O_4}$\n\nThe oxidation state of the underlined elements in them are, respectively,",
+  "options": [
+   "+1, −1, and +6",
+   "+2, −2, and +6",
+   "+1, −2, and +4",
+   "+4, −4, and +6"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-056",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 56,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 29,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "If the half-life ($t_{1/2}$) for a first order reaction is 1 minute, then the time required for 99.9% completion of the reaction is closest to :",
+  "options": [
+   "2 minutes",
+   "4 minutes",
+   "5 minutes",
+   "10 minutes"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-057",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 57,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 30,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "The correct order of the wavelength of light absorbed by the following complexes is,\n\nA. $\\mathrm{[Co(NH_3)_6]^{3+}}$\n\nB. $\\mathrm{[Co(CN)_6]^{3-}}$\n\nC. $\\mathrm{[Cu(H_2O)_4]^{2+}}$\n\nD. $\\mathrm{[Ti(H_2O)_6]^{3+}}$\n\nChoose the correct answer from the options given below:",
+  "options": [
+   "B < D < A < C",
+   "B < A < D < C",
+   "C < D < A < B",
+   "C < A < D < B"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-058",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 58,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 30,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Which one of the following compounds can exist as cis-trans isomers?",
+  "options": [
+   "Pent-1-ene",
+   "2-Methylhex-2-ene",
+   "1, 1-Dimethylcyclopropane",
+   "1, 2-Dimethylcyclohexane"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-059",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 59,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 31,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Phosphoric acid ionizes in three steps with their ionization constant values $K_{a_1}$, $K_{a_2}$ and $K_{a_3}$, respectively, while K is the overall ionization constant. Which of the following statements are true?\n\nA. $\\log K = \\log K_{a_1} + \\log K_{a_2} + \\log K_{a_3}$\n\nB. $\\mathrm{H_3PO_4}$ is a stronger acid than $\\mathrm{H_2PO_4^-}$ and $\\mathrm{HPO_4^{2-}}$\n\nC. $K_{a_1} > K_{a_2} > K_{a_3}$\n\nD. $K_{a_1} = \\frac{K_{a_3} + K_{a_2}}{2}$\n\nChoose the correct answer from the options given below :",
+  "options": [
+   "A and B only",
+   "A and C only",
+   "B, C and D only",
+   "A, B and C only"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-060",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 60,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 31,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Which one of the following reactions does NOT give benzene as the product?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-neet-2025-chemistry-060.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-061",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 61,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 32,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "If the molar conductivity ($\\Lambda_m$) of a 0.050 mol L$^{-1}$ solution of a monobasic weak acid is 90 S cm$^2$ mol$^{-1}$, its extent (degree) of dissociation will be\n\n[Assume $\\Lambda^\\circ_{+} = 349.6$ S cm$^2$ mol$^{-1}$ and $\\Lambda^\\circ_{-} = 50.4$ S cm$^2$ mol$^{-1}$.]",
+  "options": [
+   "0.115",
+   "0.125",
+   "0.225",
+   "0.215"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-062",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 62,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 32,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Given below are two statements :\n\nStatement I : A hypothetical diatomic molecule with bond order zero is quite stable.\n\nStatement II : As bond order increases, the bond length increases.\n\nIn the light of the above statements, choose the most appropriate answer from the options given below :",
+  "options": [
+   "Both Statement I and Statement II are true",
+   "Both Statement I and Statement II are false",
+   "Statement I is true but Statement II is false",
+   "Statement I is false but Statement II is true"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-063",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 63,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 32,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Out of the following complex compounds, which of the compound will be having the minimum conductance in solution?",
+  "options": [
+   "$\\mathrm{[Co(NH_3)_3Cl_3]}$",
+   "$\\mathrm{[Co(NH_3)_4Cl_2]}$",
+   "$\\mathrm{[Co(NH_3)_6]Cl_3}$",
+   "$\\mathrm{[Co(NH_3)_5Cl]Cl}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0,
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-064",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 64,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 33,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Match List-I with List-II\n\n| | List-I | | List-II |\n|---|---|---|---|\n| A. | $\\mathrm{XeO_3}$ | (I) | $\\mathrm{sp^3d}$; linear |\n| B. | $\\mathrm{XeF_2}$ | (II) | $\\mathrm{sp^3}$; pyramidal |\n| C. | $\\mathrm{XeOF_4}$ | (III) | $\\mathrm{sp^3d^3}$; distorted octahedral |\n| D. | $\\mathrm{XeF_6}$ | (IV) | $\\mathrm{sp^3d^2}$; square pyramidal |\n\nChoose the correct answer from the options given below :",
+  "options": [
+   "A-II, B-I, C-IV, D-III",
+   "A-II, B-I, C-III, D-IV",
+   "A-IV, B-II, C-III, D-I",
+   "A-IV, B-II, C-I, D-III"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-065",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 65,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 33,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "$\\mathrm{C(s) + 2H_2(g) \\rightarrow CH_4(g)}$; $\\Delta H = -74.8$ kJ mol$^{-1}$. Which of the following diagrams gives an accurate representation of the above reaction? [R $\\rightarrow$ reactants; P $\\rightarrow$ products]",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-neet-2025-chemistry-065.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-066",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 66,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 34,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Match List-I with List-II\n\n| List-I (Example) | | List-II (Type of Solution) | |\n|---|---|---|---|\n| A. | Humidity | I. | Solid in solid |\n| B. | Alloys | II. | Liquid in gas |\n| C. | Amalgams | III. | Solid in gas |\n| D. | Smoke | IV. | Liquid in solid |\n\nChoose the correct answer from the options given below:",
+  "options": [
+   "A-II, B-IV, C-I,D-III",
+   "A-II, B-I, C-IV, D-III",
+   "A-III, B-I, C-IV, D-II",
+   "A-III, B-II, C-I, D-IV"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-067",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 67,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 34,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "The correct order of decreasing basic strength of the given amines is:",
+  "options": [
+   "N-methylaniline > benzenamine > ethanamine > N-ethylethanamine",
+   "N-ethylethanamine > ethanamine > benzenamine > N-methylaniline",
+   "N-ethylethanamine > ethanamine > N-methylaniline > benzenamine",
+   "benzenamine > ethanamine > N-methylaniline > N-ethylethanamine"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-068",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 68,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 34,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Among the following, choose the ones with equal number of atoms.\n\nA. 212 g of $\\mathrm{Na_2CO_3(s)}$ [molar mass = 106 g]\n\nB. 248 g of $\\mathrm{Na_2O(s)}$ [molar mass = 62 g]\n\nC. 240 g of $\\mathrm{NaOH(s)}$ [molar mass = 40 g]\n\nD. 12 g of $\\mathrm{H_2(g)}$ [molar mass = 2 g]\n\nE. 220 g of $\\mathrm{CO_2(g)}$ [molar mass = 44 g]\n\nChoose the correct answer from the options given below :",
+  "options": [
+   "A, B, and C only",
+   "A, B, and D only",
+   "B, C, and D only",
+   "B, D, and E only"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-069",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 69,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 35,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Match List-I with List-II.\n\n| | List-I (Name of Vitamin) | | List-II (Deficiency disease) |\n|---|---|---|---|\n| A. | Vitamin $\\mathrm{B_{12}}$ | I. | Cheilosis |\n| B. | Vitamin D | II. | Convulsions |\n| C. | Vitamin $\\mathrm{B_2}$ | III. | Rickets |\n| D. | Vitamin $\\mathrm{B_6}$ | IV. | Pernicious anaemia |\n\nChoose the correct answer from the options given below:",
+  "options": [
+   "A-I, B-III, C-II, D-IV",
+   "A-IV, B-III, C-I, D-II",
+   "A-II, B-III, C-I, D-IV",
+   "A-IV, B-III, C-II, D-I"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-070",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 70,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 36,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "The correct order of decreasing acidity of the following aliphatic acids is",
+  "options": [
+   "$\\mathrm{(CH_3)_3CCOOH > (CH_3)_2CHCOOH > CH_3COOH > HCOOH}$",
+   "$\\mathrm{CH_3COOH > (CH_3)_2CHCOOH > (CH_3)_3CCOOH > HCOOH}$",
+   "$\\mathrm{HCOOH > CH_3COOH > (CH_3)_2CHCOOH > (CH_3)_3CCOOH}$",
+   "$\\mathrm{HCOOH > (CH_3)_3CCOOH > (CH_3)_2CHCOOH > CH_3COOH}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-071",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 71,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 36,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Given below are two statements :\n\nStatement I : Ferromagnetism is considered as an extreme form of paramagnetism.\n\nStatement II : The number of unpaired electrons in a $\\mathrm{Cr^{2+}}$ ion (Z = 24) is the same as that of a $\\mathrm{Nd^{3+}}$ ion (Z = 60).\n\nIn the light of the above statements, choose the correct answer from the options given below :",
+  "options": [
+   "Both Statement I and Statement II are true",
+   "Both Statement I and Statement II are false",
+   "Statement I is true but Statement II is false",
+   "Statement I is false but Statement II is true"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-072",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 72,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 36,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Match List I with List II\n\n| | List-I (Mixture) | | List-II (Method of separation) |\n|---|---|---|---|\n| A. | $\\mathrm{CHCl_3 + C_6H_5NH_2}$ | (I) | Distillation under reduced pressure |\n| B. | Crude oil in petroleum industry | (II) | Steam distillation |\n| C. | Glycerol from spent-lye | (III) | Fractional distillation |\n| D. | Aniline - water | (IV) | Simple distillation |\n\nChoose the correct answer from the options given below:",
+  "options": [
+   "A-IV, B-III, C-I, D-II",
+   "A-IV, B-III, C-II, D-I",
+   "A-III, B-IV, C-I, D-II",
+   "A-III, B-IV, C-II, D-I"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-073",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 73,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 37,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "For the reaction $\\mathrm{A(g) \\rightleftharpoons 2B(g)}$, the backward reaction rate constant is higher than the forward reaction rate constant by a factor of 2500, at 1000 K.\n\n[Given : R = 0.0831 L atm mol$^{-1}$ K$^{-1}$]\n\n$K_P$ for the reaction at 1000 K is",
+  "options": [
+   "83.1",
+   "$2.077 \\times 10^{5}$",
+   "0.033",
+   "0.021"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-074",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 74,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 37,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Given below are two statements :\n\nStatement-I : Benzenediazonium salt is prepared by the reaction of aniline with nitrous acid at 273 – 278 K. It decomposes easily in the dry state.\n\nStatement-II : Insertion of iodine into the benzene ring is difficult and hence iodobenzene is prepared through the reaction of benzenediazonium salt with KI.\n\nIn the light of the above statements, choose the most appropriate answer from the options given below :",
+  "options": [
+   "Both Statement I and Statement II are correct",
+   "Both Statement I and Statement II are incorrect",
+   "Statement I is correct but Statement II is incorrect",
+   "Statement I is incorrect but Statement II is correct"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-075",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 75,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 38,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "How many products (including stereoisomers) are expected from monochlorination of the following compound?",
+  "options": [
+   "2",
+   "3",
+   "5",
+   "6"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-neet-2025-chemistry-075.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-076",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 76,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 38,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Among the given compounds I-III, the correct order of bond dissociation energy of C–H bond marked with * is :",
+  "options": [
+   "II > I > III",
+   "I > II > III",
+   "III > II > I",
+   "II > III > I"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-neet-2025-chemistry-076.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-077",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 77,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 39,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Which one of the following compounds does not decolourize bromine water?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-neet-2025-chemistry-077.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-078",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 78,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 39,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "The major product of the following reaction is",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-neet-2025-chemistry-078.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-079",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 79,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 40,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Which of the following aqueous solution will exhibit highest boiling point?",
+  "options": [
+   "0.01M Urea",
+   "0.01M $\\mathrm{KNO_3}$",
+   "0.01M $\\mathrm{Na_2SO_4}$",
+   "0.015M $\\mathrm{C_6H_{12}O_6}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-080",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 80,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 40,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Match List-I with List-II.\n\n| | List-I | | List-II |\n|---|---|---|---|\n| A. | Haber process | I. | Fe catalyst |\n| B. | Wacker oxidation | II. | $\\mathrm{PdCl_2}$ |\n| C. | Wilkinson catalyst | III. | $\\mathrm{[(PPh_3)_3RhCl]}$ |\n| D | Ziegler catalyst | IV. | $\\mathrm{TiCl_4}$ with $\\mathrm{Al(CH_3)_3}$ |\n\nChoose the correct answer from the options given below :",
+  "options": [
+   "A-I, B-II, C-IV, D-III",
+   "A-II, B-III, C-I, D-IV",
+   "A-I, B-II, C-III, D-IV",
+   "A-I, B-IV, C-III, D-II"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-081",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 81,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 41,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "5 moles of liquid X and 10 moles of liquid Y make a solution having a vapour pressure of 70 torr. The vapour pressures of pure X and Y are 63 torr and 78 torr respectively. Which of the following is true regarding the described solution?",
+  "options": [
+   "The solution shows positive deviation.",
+   "The solution shows negative deviation.",
+   "The solution is ideal.",
+   "The solution has volume greater than the sum of individual volumes."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-082",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 82,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 41,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Sugar ‘X’\n\nA. is found in honey\n\nB. is a keto sugar\n\nC. exists in $\\alpha$ and $\\beta$ – anomeric forms.\n\nD. Is laevorotatory.\n\n‘X’ is :",
+  "options": [
+   "D-Glucose",
+   "D-Fructose",
+   "Maltose",
+   "Sucrose"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-083",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 83,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 42,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Identify the suitable reagent for the following conversion.",
+  "options": [
+   "(i) $\\mathrm{LiAlH_4}$, (ii) $\\mathrm{H^+/H_2O}$",
+   "(i) $\\mathrm{AlH(iBu)_2}$, (ii) $\\mathrm{H_2O}$",
+   "(i) $\\mathrm{NaBH_4}$, (ii) $\\mathrm{H^+/H_2O}$",
+   "$\\mathrm{H_2/Pd\\text{-}BaSO_4}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-neet-2025-chemistry-083.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-084",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 84,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 42,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R).\n\nAssertion (A) : (structure shown in figure) undergoes $\\mathrm{S_N2}$ reaction faster than (structure shown in figure).\n\nReason (R) : Iodine is a better leaving group because of its large size.\n\nIn the light of the above statements, choose the correct answer from the options given below:",
+  "options": [
+   "Both A and R are true and R is the correct explanation of A",
+   "Both A and R are true but R is not the correct explanation of A",
+   "A is true but R is false",
+   "A is false but R is true"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-neet-2025-chemistry-084.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-085",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 85,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 43,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "The standard heat of formation, in kcal/mol of $\\mathrm{Ba^{2+}}$ is :\n\n[Given : standard heat of formation of $\\mathrm{SO_4^{2-}}$ ion (aq) = –216 kcal/mol, standard heat of crystallisation of $\\mathrm{BaSO_4(s)}$ = –4.5 kcal/mol, standard heat of formation of $\\mathrm{BaSO_4(s)}$ = – 349 kcal/mol]",
+  "options": [
+   "– 128.5",
+   "– 133.0",
+   "+ 133.0",
+   "+ 220.5"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-086",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 86,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 43,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Total number of possible isomers (both structural as well as stereoisomers) of cyclic ethers of molecular formula $\\mathrm{C_4H_8O}$ is :",
+  "options": [
+   "6",
+   "8",
+   "10",
+   "11"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-087",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 87,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 44,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Identify the correct orders against the property mentioned\n\nA. $\\mathrm{H_2O > NH_3 > CHCl_3}$ – dipole moment\n\nB. $\\mathrm{XeF_4 > XeO_3 > XeF_2}$ – number of lone pairs on central atom\n\nC. $\\mathrm{O–H > C–H > N–O}$ – bond length\n\nD. $\\mathrm{N_2 > O_2 > H_2}$ – bond enthalpy\n\nChoose the correct answer from the options given below:",
+  "options": [
+   "A, D only",
+   "B, D only",
+   "A, C only",
+   "B, C only"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-088",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 88,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 44,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Higher yield of NO in $\\mathrm{N_2(g) + O_2(g) \\rightleftharpoons 2NO(g)}$ can be obtained at\n\n[$\\Delta$H of the reaction = +180.7 kJ mol$^{-1}$]\n\nA. Higher temperature\n\nB. Lower temperature\n\nC. Higher concentration of $\\mathrm{N_2}$\n\nD. Higher concentration of $\\mathrm{O_2}$\n\nChoose the correct answer from the options given below :",
+  "options": [
+   "A, D only",
+   "B, C only",
+   "B, C, D only",
+   "A, C, D only"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-089",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 89,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 45,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "If the rate constant of a reaction is 0.03 $\\mathrm{s^{-1}}$, how much time does it take for 7.2 mol $\\mathrm{L^{-1}}$ concentration of the reactant to get reduced to 0.9 mol $\\mathrm{L^{-1}}$?\n\n(Given: log 2 = 0.301)",
+  "options": [
+   "69.3 s",
+   "23.1 s",
+   "210 s",
+   "21.0 s"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-chemistry-090",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 90,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 45,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Which one of the following reactions does NOT belong to “Lassaigne’s test”?",
+  "options": [
+   "$\\mathrm{Na + C + N \\xrightarrow{\\Delta} NaCN}$",
+   "$\\mathrm{2Na + S \\xrightarrow{\\Delta} Na_2S}$",
+   "$\\mathrm{Na + X \\xrightarrow{\\Delta} + NaX}$",
+   "$\\mathrm{2CuO + C \\xrightarrow{\\Delta} 2Cu + CO_2}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

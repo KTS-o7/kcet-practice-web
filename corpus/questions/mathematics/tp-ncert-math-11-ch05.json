@@ -1,0 +1,563 @@
+[
+ {
+  "id": "tp-ncert-math-11-ch05-035",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 35,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep205.pdf",
+   "page": 23,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "$\\sin x + i\\cos 2x$ and $\\cos x - i\\sin 2x$ are conjugate to each other for:",
+  "options": [
+   "$x = n\\pi$",
+   "$x = \\left(n+\\frac{1}{2}\\right)\\frac{\\pi}{2}$",
+   "$x = 0$",
+   "No value of $x$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch05-036",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 36,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep205.pdf",
+   "page": 23,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The real value of $\\alpha$ for which the expression $\\frac{1-i\\sin\\alpha}{1+2i\\sin\\alpha}$ is purely real is :",
+  "options": [
+   "$\\left(n+1\\right)\\frac{\\pi}{2}$",
+   "$(2n+1)\\frac{\\pi}{2}$",
+   "$n\\pi$",
+   "None of these, where $n \\in \\mathbf{N}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch05-037",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 37,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep205.pdf",
+   "page": 23,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "If $z = x + iy$ lies in the third quadrant, then $\\frac{\\bar{z}}{z}$ also lies in the third quadrant if",
+  "options": [
+   "$x > y > 0$",
+   "$x < y < 0$",
+   "$y < x < 0$",
+   "$y > x > 0$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "disputed",
+   "notes": "Printed key says B (x<y<0), but zbar/z=(x^2-y^2-2ixy)/|z|^2 needs x^2<y^2 and xy>0 with x,y<0, i.e. y<x<0 (C); B gives |x|>|y| so real part positive (4th quadrant). NCERT key erratum; transcription and key reading both verified.",
+   "status_reason": "solver disagrees with unofficial key"
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch05-038",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 38,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep205.pdf",
+   "page": 23,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The value of $(z+3)(\\bar{z}+3)$ is equivalent to",
+  "options": [
+   "$|z+3|^2$",
+   "$|z-3|$",
+   "$z^2+3$",
+   "None of these"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch05-039",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 39,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep205.pdf",
+   "page": 23,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "If $\\left(\\frac{1+i}{1-i}\\right)^x = 1$, then",
+  "options": [
+   "$x = 2n+1$",
+   "$x = 4n$",
+   "$x = 2n$",
+   "$x = 4n+1$, where $n \\in \\mathbf{N}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch05-040",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 40,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep205.pdf",
+   "page": 24,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "A real value of $x$ satisfies the equation $\\frac{3-4ix}{3+4ix} = \\alpha - i\\beta$ ($\\alpha, \\beta \\in \\mathbf{R}$) if $\\alpha^2 + \\beta^2 =$",
+  "options": [
+   "1",
+   "$-1$",
+   "2",
+   "$-2$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch05-041",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 41,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep205.pdf",
+   "page": 24,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "Which of the following is correct for any two complex numbers $z_1$ and $z_2$?",
+  "options": [
+   "$|z_1z_2| = |z_1||z_2|$",
+   "$\\arg(z_1z_2) = \\arg(z_1). \\arg(z_2)$",
+   "$|z_1+z_2| = |z_1|+|z_2|$",
+   "$|z_1+z_2| \\geq |z_1|-|z_2|$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch05-042",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 42,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep205.pdf",
+   "page": 24,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The point represented by the complex number $2-i$ is rotated about origin through an angle $\\frac{\\pi}{2}$ in the clockwise direction, the new position of point is:",
+  "options": [
+   "$1+2i$",
+   "$-1-2i$",
+   "$2+i$",
+   "$-1+2i$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch05-043",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 43,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep205.pdf",
+   "page": 24,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "Let $x, y \\in \\mathbf{R}$, then $x+iy$ is a non real complex number if:",
+  "options": [
+   "$x = 0$",
+   "$y = 0$",
+   "$x \\neq 0$",
+   "$y \\neq 0$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch05-044",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 44,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep205.pdf",
+   "page": 24,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "If $a+ib = c+id$, then",
+  "options": [
+   "$a^2+c^2=0$",
+   "$b^2+c^2=0$",
+   "$b^2+d^2=0$",
+   "$a^2+b^2=c^2+d^2$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch05-045",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 45,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep205.pdf",
+   "page": 24,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The complex number $z$ which satisfies the condition $\\left|\\frac{i+z}{i-z}\\right| = 1$ lies on",
+  "options": [
+   "circle $x^2+y^2=1$",
+   "the $x$-axis",
+   "the $y$-axis",
+   "the line $x+y=1$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch05-046",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 46,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep205.pdf",
+   "page": 24,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "If $z$ is a complex number, then",
+  "options": [
+   "$|z^2| > |z|^2$",
+   "$|z^2| = |z|^2$",
+   "$|z^2| < |z|^2$",
+   "$|z^2| \\geq |z|^2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch05-047",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 47,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep205.pdf",
+   "page": 24,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "$|z_1+z_2| = |z_1|+|z_2|$ is possible if",
+  "options": [
+   "$z_2 = \\bar{z}_1$",
+   "$z_2 = \\frac{1}{z_1}$",
+   "$\\arg(z_1) = \\arg(z_2)$",
+   "$|z_1| = |z_2|$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch05-048",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 48,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep205.pdf",
+   "page": 25,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The real value of $\\theta$ for which the expression $\\frac{1+i\\cos\\theta}{1-2i\\cos\\theta}$ is a real number is:",
+  "options": [
+   "$n\\pi+\\frac{\\pi}{4}$",
+   "$n\\pi+(-1)^n\\frac{\\pi}{4}$",
+   "$2n\\pi\\pm\\frac{\\pi}{2}$",
+   "none of these."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch05-049",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 49,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep205.pdf",
+   "page": 25,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The value of $\\arg(x)$ when $x < 0$ is:",
+  "options": [
+   "0",
+   "$\\frac{\\pi}{2}$",
+   "$\\pi$",
+   "none of these"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch05-050",
+  "subject": "mathematics",
+  "chapter": "complex-numbers-and-quadratic-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 50,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep205.pdf",
+   "page": 25,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "If $f(z) = \\frac{7-z}{1-z^2}$, where $z = 1+2i$, then $|f(z)|$ is",
+  "options": [
+   "$\\frac{|z|}{2}$",
+   "$|z|$",
+   "$2|z|$",
+   "none of these."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

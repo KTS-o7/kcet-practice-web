@@ -1,0 +1,393 @@
+[
+ {
+  "id": "tp-ncert-phys-11-ch14-001",
+  "subject": "physics",
+  "chapter": "oscillations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep314.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "The displacement of a particle is represented by the equation $y = 3\\cos\\left(\\frac{\\pi}{4} - 2\\omega t\\right)$. The motion of the particle is",
+  "options": [
+   "simple harmonic with period 2p/w.",
+   "simple harmonic with period $\\pi/\\omega$.",
+   "periodic but not simple harmonic.",
+   "non-periodic."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch14-002",
+  "subject": "physics",
+  "chapter": "oscillations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep314.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "The displacement of a particle is represented by the equation $y = \\sin^3 \\omega t$. The motion is",
+  "options": [
+   "non-periodic.",
+   "periodic but not simple harmonic.",
+   "simple harmonic with period $2\\pi/\\omega$.",
+   "simple harmonic with period $\\pi/\\omega$."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch14-003",
+  "subject": "physics",
+  "chapter": "oscillations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep314.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "The relation between acceleration and displacement of four particles are given below:\n\nWhich one of the particles is executing simple harmonic motion?",
+  "options": [
+   "$a_x = +2x$.",
+   "$a_x = +2x^2$.",
+   "$a_x = -2x^2$.",
+   "$a_x = -2x$."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch14-004",
+  "subject": "physics",
+  "chapter": "oscillations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep314.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "Motion of an oscillating liquid column in a U-tube is",
+  "options": [
+   "periodic but not simple harmonic.",
+   "non-periodic.",
+   "simple harmonic and time period is independent of the density of the liquid.",
+   "simple harmonic and time-period is directly proportional to the density of the liquid."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch14-005",
+  "subject": "physics",
+  "chapter": "oscillations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep314.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "A particle is acted simultaneously by mutually perpendicular simple harmonic motions $x = a\\cos\\omega t$ and $y = a\\sin\\omega t$. The trajectory of motion of the particle will be",
+  "options": [
+   "an ellipse.",
+   "a parabola.",
+   "a circle.",
+   "a straight line."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch14-006",
+  "subject": "physics",
+  "chapter": "oscillations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep314.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "The displacement of a particle varies with time according to the relation\n\n$y = a\\sin\\omega t + b\\cos\\omega t$.",
+  "options": [
+   "The motion is oscillatory but not S.H.M.",
+   "The motion is S.H.M. with amplitude $a+b$.",
+   "The motion is S.H.M. with amplitude $a^2+b^2$.",
+   "The motion is S.H.M. with amplitude $\\sqrt{a^2+b^2}$."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch14-007",
+  "subject": "physics",
+  "chapter": "oscillations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 7,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep314.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "Four pendulums A, B, C and D are suspended from the same elastic support as shown in Fig. 14.1. A and C are of the same length, while B is smaller than A and D is larger than A. If A is given a transverse displacement,",
+  "options": [
+   "D will vibrate with maximum amplitude.",
+   "C will vibrate with maximum amplitude.",
+   "B will vibrate with maximum amplitude.",
+   "All the four will oscillate with equal amplitude."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-phys-11-ch14-007.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch14-008",
+  "subject": "physics",
+  "chapter": "oscillations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 8,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep314.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "Figure 14.2. shows the circular motion of a particle. The radius of the circle, the period, sense of revolution and the initial position are indicated on the figure. The simple harmonic motion of the $x$-projection of the radius vector of the rotating particle P is",
+  "options": [
+   "$x(t) = B\\sin\\left(\\frac{2\\pi t}{30}\\right)$.",
+   "$x(t) = B\\cos\\left(\\frac{\\pi t}{15}\\right)$.",
+   "$x(t) = B\\sin\\left(\\frac{\\pi t}{15}+\\frac{\\pi}{2}\\right)$.",
+   "$x(t) = B\\cos\\left(\\frac{\\pi t}{15}+\\frac{\\pi}{2}\\right)$."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-ncert-phys-11-ch14-008.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch14-009",
+  "subject": "physics",
+  "chapter": "oscillations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 9,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep314.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "The equation of motion of a particle is $x = a\\cos(\\alpha t)^2$.\n\nThe motion is",
+  "options": [
+   "periodic but not oscillatory.",
+   "periodic and oscillatory.",
+   "oscillatory but not periodic.",
+   "neither periodic nor oscillatory."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "key_confirmed",
+   "notes": "Key cell reads (c) on k0-61; cos((alpha t)^2) oscillates between +-a but has no fixed period. Transcription matches page 3."
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch14-010",
+  "subject": "physics",
+  "chapter": "oscillations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 10,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep314.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "A particle executing S.H.M. has a maximum speed of $30\\,\\mathrm{cm\\,s^{-1}}$ and a maximum acceleration of $60\\,\\mathrm{cm\\,s^{-2}}$. The period of oscillation is",
+  "options": [
+   "$\\pi\\,\\mathrm{s}$.",
+   "$\\frac{\\pi}{2}\\,\\mathrm{s}$.",
+   "$2\\pi\\,\\mathrm{s}$.",
+   "$\\frac{\\pi}{t}\\,\\mathrm{s}$."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch14-011",
+  "subject": "physics",
+  "chapter": "oscillations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 11,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep314.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "When a mass $m$ is connected individually to two springs $S_1$ and $S_2$, the oscillation frequencies are $\\nu_1$ and $\\nu_2$. If the same mass is attached to the two springs as shown in Fig. 14.3, the oscillation frequency would be",
+  "options": [
+   "$\\nu_1 + \\nu_2$.",
+   "$\\sqrt{\\nu_1^2 + \\nu_2^2}$.",
+   "$\\left(\\frac{1}{\\nu_1} + \\frac{1}{\\nu_2}\\right)^{-1}$.",
+   "$\\sqrt{\\nu_1^2 - \\nu_2^2}$."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-phys-11-ch14-011.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

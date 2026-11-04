@@ -1,0 +1,284 @@
+[
+ {
+  "id": "tp-ncert-phys-11-ch08-001",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep308.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "The earth is an approximate sphere. If the interior contained matter which is not of the same density everywhere, then on the surface of the earth, the acceleration due to gravity",
+  "options": [
+   "will be directed towards the centre but not the same everywhere.",
+   "will have the same value everywhere but not directed towards the centre.",
+   "will be same everywhere in magnitude directed towards the centre.",
+   "cannot be zero at any point."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "key_confirmed",
+   "notes": "Transcription matches page; non-uniform density means g need not be central or uniform, only (d) holds; key d agrees."
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch08-002",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep308.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "As observed from earth, the sun appears to move in an approximate circular orbit. For the motion of another planet like mercury as observed from earth, this would",
+  "options": [
+   "be similarly true.",
+   "not be true because the force between earth and mercury is not inverse square law.",
+   "not be true because the major gravitational force on mercury is due to sun.",
+   "not be true because mercury is influenced by forces other than gravitational forces."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch08-003",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep308.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "Different points in earth are at slightly different distances from the sun and hence experience different forces due to gravitation. For a rigid body, we know that if various forces act at various points in it, the resultant motion is as if a net force acts on the c.m. (centre of mass) causing translation and a net torque at the c.m. causing rotation around an axis through the c.m. For the earth-sun system (approximating the earth as a uniform density sphere)",
+  "options": [
+   "the torque is zero.",
+   "the torque causes the earth to spin.",
+   "the rigid body result is not applicable since the earth is not even approximately a rigid body.",
+   "the torque causes the earth to move around the sun."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch08-004",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep308.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "Satellites orbiting the earth have finite life and sometimes debris of satellites fall to the earth. This is because,",
+  "options": [
+   "the solar cells and batteries in satellites run out.",
+   "the laws of gravitation predict a trajectory spiralling inwards.",
+   "of viscous forces causing the speed of satellite and hence height to gradually decrease.",
+   "of collisions with other satellites."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch08-005",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep308.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "Both earth and moon are subject to the gravitational force of the sun. As observed from the sun, the orbit of the moon",
+  "options": [
+   "will be elliptical.",
+   "will not be strictly elliptical because the total gravitational force on it is not central.",
+   "is not elliptical but will necessarily be a closed curve.",
+   "deviates considerably from being elliptical due to influence of planets other than earth."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch08-006",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep308.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "In our solar system, the inter-planetary region has chunks of matter (much smaller in size compared to planets) called asteroids. They",
+  "options": [
+   "will not move around the sun since they have very small masses compared to sun.",
+   "will move in an irregular way because of their small masses and will drift away into outer space.",
+   "will move around the sun in closed orbits but not obey Kepler's laws.",
+   "will move in orbits like planets and obey Kepler's laws."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch08-007",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 7,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep308.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "Choose the wrong option.",
+  "options": [
+   "Inertial mass is a measure of difficulty of accelerating a body by an external force whereas the gravitational mass is relevant in determining the gravitational force on it by an external mass.",
+   "That the gravitational mass and inertial mass are equal is an experimental result.",
+   "That the acceleration due to gravity on earth is the same for all bodies is due to the equality of gravitational mass and inertial mass.",
+   "Gravitational mass of a particle like proton can depend on the presence of neighbouring heavy objects but the inertial mass cannot."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch08-008",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 8,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep308.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "Particles of masses $2M$, $m$ and $M$ are respectively at points A, B and C with AB = $\\frac{1}{2}$ (BC). $m$ is much-much smaller than $M$ and at time $t = 0$, they are all at rest (Fig. 8.1). At subsequent times before any collision takes place:",
+  "options": [
+   "$m$ will remain at rest.",
+   "$m$ will move towards $M$.",
+   "$m$ will move towards $2M$.",
+   "$m$ will have oscillatory motion."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-ncert-phys-11-ch08-008.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

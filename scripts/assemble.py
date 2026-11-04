@@ -24,9 +24,14 @@ notes_all = []
 
 def load(p, default=None):
     try:
-        return json.load(open(p))
+        raw = open(p).read()
     except FileNotFoundError:
         return default
+    try:
+        return json.loads(raw)
+    except json.JSONDecodeError:
+        # agents sometimes write LaTeX with single backslashes (e.g. "\\frac" as "\frac"); repair invalid escapes
+        return json.loads(re.sub(r'\\(?!["\\/bfnrtu])', r'\\\\', raw))
 
 
 def norm(s):

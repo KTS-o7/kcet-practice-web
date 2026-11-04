@@ -1,0 +1,633 @@
+[
+ {
+  "id": "tp-ncert-math-12-ch02-020",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 20,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep202.pdf",
+   "page": 20,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Which of the following is the principal value branch of $\\cos^{-1}x$?",
+  "options": [
+   "$\\left[-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right]$",
+   "$(0, \\pi)$",
+   "$[0, \\pi]$",
+   "$(0, \\pi) - \\left\\{\\frac{\\pi}{2}\\right\\}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch02-021",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 21,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep202.pdf",
+   "page": 20,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Which of the following is the principal value branch of $\\mathrm{cosec}^{-1}x$?",
+  "options": [
+   "$\\left(-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right)$",
+   "$[0, \\pi] - \\left\\{\\frac{\\pi}{2}\\right\\}$",
+   "$\\left[-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right]$",
+   "$\\left[-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right] - \\{0\\}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch02-022",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 22,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep202.pdf",
+   "page": 20,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If $3\\tan^{-1}x + \\cot^{-1}x = \\pi$, then $x$ equals",
+  "options": [
+   "$0$",
+   "$1$",
+   "$-1$",
+   "$\\frac{1}{2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch02-023",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 23,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep202.pdf",
+   "page": 20,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The value of $\\sin^{-1}\\left(\\cos\\left(\\frac{33\\pi}{5}\\right)\\right)$ is",
+  "options": [
+   "$\\frac{3\\pi}{5}$",
+   "$-\\frac{7\\pi}{5}$",
+   "$\\frac{\\pi}{10}$",
+   "$-\\frac{\\pi}{10}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch02-024",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 24,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep202.pdf",
+   "page": 21,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The domain of the function $\\cos^{-1}(2x - 1)$ is",
+  "options": [
+   "$[0, 1]$",
+   "$[-1, 1]$",
+   "$(-1, 1)$",
+   "$[0, \\pi]$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch02-025",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 25,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep202.pdf",
+   "page": 21,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The domain of the function defined by $f(x) = \\sin^{-1}\\sqrt{x-1}$ is",
+  "options": [
+   "$[1, 2]$",
+   "$[-1, 1]$",
+   "$[0, 1]$",
+   "none of these"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch02-026",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 26,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep202.pdf",
+   "page": 21,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If $\\cos\\left(\\sin^{-1}\\frac{2}{5} + \\cos^{-1}x\\right) = 0$, then $x$ is equal to",
+  "options": [
+   "$\\frac{1}{5}$",
+   "$\\frac{2}{5}$",
+   "$0$",
+   "$1$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch02-027",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 27,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep202.pdf",
+   "page": 21,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The value of $\\sin\\left(2\\tan^{-1}(.75)\\right)$ is equal to",
+  "options": [
+   "$.75$",
+   "$1.5$",
+   "$.96$",
+   "$\\sin 1.5$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch02-028",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 28,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep202.pdf",
+   "page": 21,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The value of $\\cos^{-1}\\left(\\cos\\frac{3\\pi}{2}\\right)$ is equal to",
+  "options": [
+   "$\\frac{\\pi}{2}$",
+   "$\\frac{3\\pi}{2}$",
+   "$\\frac{5\\pi}{2}$",
+   "$\\frac{7\\pi}{2}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch02-029",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 29,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep202.pdf",
+   "page": 21,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The value of the expression $2\\sec^{-1}2 + \\sin^{-1}\\left(\\frac{1}{2}\\right)$ is",
+  "options": [
+   "$\\frac{\\pi}{6}$",
+   "$\\frac{5\\pi}{6}$",
+   "$\\frac{7\\pi}{6}$",
+   "$1$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch02-030",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 30,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep202.pdf",
+   "page": 21,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If $\\tan^{-1}x + \\tan^{-1}y = \\frac{4\\pi}{5}$, then $\\cot^{-1}x + \\cot^{-1}y$ equals",
+  "options": [
+   "$\\frac{\\pi}{5}$",
+   "$\\frac{2\\pi}{5}$",
+   "$\\frac{3\\pi}{5}$",
+   "$\\pi$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch02-031",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 31,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep202.pdf",
+   "page": 21,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If $\\sin^{-1}\\left(\\frac{2a}{1+a^2}\\right) + \\cos^{-1}\\left(\\frac{1-a^2}{1+a^2}\\right) = \\tan^{-1}\\left(\\frac{2x}{1-x^2}\\right)$, where $a, x \\in\\ ]0, 1$, then the value of $x$ is",
+  "options": [
+   "$0$",
+   "$\\frac{a}{2}$",
+   "$a$",
+   "$\\frac{2a}{1-a^2}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch02-032",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 32,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep202.pdf",
+   "page": 22,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The value of $\\cot\\left[\\cos^{-1}\\left(\\frac{7}{25}\\right)\\right]$ is",
+  "options": [
+   "$\\frac{25}{24}$",
+   "$\\frac{25}{7}$",
+   "$\\frac{24}{25}$",
+   "$\\frac{7}{24}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch02-033",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 33,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep202.pdf",
+   "page": 22,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The value of the expression $\\tan\\left(\\frac{1}{2}\\cos^{-1}\\frac{2}{\\sqrt{5}}\\right)$ is\n\nHint: $\\tan\\frac{\\theta}{2} = \\sqrt{\\frac{1-\\cos\\theta}{1+\\cos\\theta}}$",
+  "options": [
+   "$2+\\sqrt{5}$",
+   "$\\sqrt{5}-2$",
+   "$\\frac{\\sqrt{5}+2}{2}$",
+   "$5+\\sqrt{2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch02-034",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 34,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep202.pdf",
+   "page": 22,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If $|x| \\le 1$, then $2\\tan^{-1}x + \\sin^{-1}\\left(\\frac{2x}{1+x^2}\\right)$ is equal to",
+  "options": [
+   "$4\\tan^{-1}x$",
+   "$0$",
+   "$\\frac{\\pi}{2}$",
+   "$\\pi$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch02-035",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 35,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep202.pdf",
+   "page": 22,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If $\\cos^{-1}\\alpha + \\cos^{-1}\\beta + \\cos^{-1}\\gamma = 3\\pi$, then $\\alpha(\\beta+\\gamma) + \\beta(\\gamma+\\alpha) + \\gamma(\\alpha+\\beta)$ equals",
+  "options": [
+   "$0$",
+   "$1$",
+   "$6$",
+   "$12$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch02-036",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 36,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep202.pdf",
+   "page": 22,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The number of real solutions of the equation $\\sqrt{1+\\cos 2x} = \\sqrt{2}\\cos^{-1}(\\cos x)$ in $\\left[\\frac{\\pi}{2}, \\pi\\right]$ is",
+  "options": [
+   "$0$",
+   "$1$",
+   "$2$",
+   "Infinite"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch02-037",
+  "subject": "mathematics",
+  "chapter": "inverse-trigonometric-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 37,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep202.pdf",
+   "page": 22,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If $\\cos^{-1}x > \\sin^{-1}x$, then",
+  "options": [
+   "$\\frac{1}{\\sqrt{2}} < x \\le 1$",
+   "$0 \\le x < \\frac{1}{\\sqrt{2}}$",
+   "$-1 \\le x < \\frac{1}{\\sqrt{2}}$",
+   "$x > 0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "disputed",
+   "notes": "Key image clearly prints 37. A, but cos^-1 x > sin^-1 x <=> sin^-1 x < pi/4 <=> -1 <= x < 1/sqrt2 which is (C); (A) gives the reverse inequality. Transcription verified against page image; printed key appears to be an NCERT error.",
+   "status_reason": "solver disagrees with unofficial key"
+  }
+ }
+]

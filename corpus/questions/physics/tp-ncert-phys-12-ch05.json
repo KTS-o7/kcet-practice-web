@@ -1,0 +1,178 @@
+[
+ {
+  "id": "tp-ncert-phys-12-ch05-001",
+  "subject": "physics",
+  "chapter": "magnetism-and-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep105.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "A toroid of $n$ turns, mean radius $R$ and cross-sectional radius $a$ carries current $I$. It is placed on a horizontal table taken as $x$-$y$ plane. Its magnetic moment $\\mathbf{m}$",
+  "options": [
+   "is non-zero and points in the $z$-direction by symmetry.",
+   "points along the axis of the tortoid ($\\mathbf{m} = m\\hat{\\phi}$).",
+   "is zero, otherwise there would be a field falling as $\\frac{1}{r^{3}}$ at large distances outside the toroid.",
+   "is pointing radially outwards."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch05-002",
+  "subject": "physics",
+  "chapter": "magnetism-and-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep105.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "The magnetic field of Earth can be modelled by that of a point dipole placed at the centre of the Earth. The dipole axis makes an angle of $11.3^{\\circ}$ with the axis of Earth. At Mumbai, declination is nearly zero. Then,",
+  "options": [
+   "the declination varies between $11.3^{\\circ}$ W to $11.3^{\\circ}$ E.",
+   "the least declination is $0^{\\circ}$.",
+   "the plane defined by dipole axis and Earth axis passes through Greenwich.",
+   "declination averaged over Earth must be always negative."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "key_confirmed",
+   "notes": "Transcription matches page 1-2; key page reads 5.2 (a). My pick (b) is also physically true, but the question is single-answer and the NCERT key says (a); not clearly wrong, keep key."
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch05-003",
+  "subject": "physics",
+  "chapter": "magnetism-and-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep105.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "In a permanent magnet at room temperature",
+  "options": [
+   "magnetic moment of each molecule is zero.",
+   "the individual molecules have non-zero magnetic moment which are all perfectly aligned.",
+   "domains are partially aligned.",
+   "domains are all perfectly aligned."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "key_confirmed",
+   "notes": "Initial solve.json disagreed; transcription correct, my solve is (c) matching key 5.3 (c).",
+   "status_reason": "duplicate of pyq-2020-physics-030"
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch05-004",
+  "subject": "physics",
+  "chapter": "magnetism-and-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep105.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "Consider the two idealized systems: (i) a parallel plate capacitor with large plates and small separation and (ii) a long solenoid of length $L \\gg R$, radius of cross-section. In (i) $\\mathbf{E}$ is ideally treated as a constant between plates and zero outside. In (ii) magnetic field is constant inside the solenoid and zero outside. These idealised assumptions, however, contradict fundamental laws as below:",
+  "options": [
+   "case (i) contradicts Gauss's law for electrostatic fields.",
+   "case (ii) contradicts Gauss's law for magnetic fields.",
+   "case (i) agrees with $\\oint \\mathbf{E}\\cdot d\\mathbf{l} = 0$ .",
+   "case (ii) contradicts $\\oint \\mathbf{H}\\cdot d\\mathbf{l} = I_{en}$."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch05-005",
+  "subject": "physics",
+  "chapter": "magnetism-and-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep105.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "A paramagnetic sample shows a net magnetisation of $8\\,\\mathrm{A\\,m^{-1}}$ when placed in an external magnetic field of $0.6\\,\\mathrm{T}$ at a temperature of $4\\,\\mathrm{K}$. When the same sample is placed in an external magnetic field of $0.2\\,\\mathrm{T}$ at a temperature of $16\\,\\mathrm{K}$, the magnetisation will be",
+  "options": [
+   "$\\frac{32}{3}\\,\\mathrm{A\\,m^{-1}}$",
+   "$\\frac{2}{3}\\,\\mathrm{A\\,m^{-1}}$",
+   "$6\\,\\mathrm{A\\,m^{-1}}$",
+   "$2.4\\,\\mathrm{A\\,m^{-1}}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

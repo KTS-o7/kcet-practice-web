@@ -1,0 +1,563 @@
+[
+ {
+  "id": "tp-ncert-math-11-ch15-024",
+  "subject": "mathematics",
+  "chapter": "statistics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 24,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep215.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The mean deviation of the data $3, 10, 10, 4, 7, 10, 5$ from the mean is",
+  "options": [
+   "$2$",
+   "$2.57$",
+   "$3$",
+   "$3.75$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch15-025",
+  "subject": "mathematics",
+  "chapter": "statistics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 25,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep215.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "Mean deviation for $n$ observations $x_1, x_2, \\ldots, x_n$ from their mean $\\bar{x}$ is given by",
+  "options": [
+   "$\\sum_{i=1}^{n}(x_i-\\bar{x})$",
+   "$\\frac{1}{n}\\sum_{i=1}^{n}\\left|x_i-\\bar{x}\\right|$",
+   "$\\sum_{i=1}^{n}(x_i-\\bar{x})^2$",
+   "$\\frac{1}{n}\\sum_{i=1}^{n}(x_i-\\bar{x})^2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch15-026",
+  "subject": "mathematics",
+  "chapter": "statistics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 26,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep215.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "When tested, the lives (in hours) of 5 bulbs were noted as follows: $1357, 1090, 1666, 1494, 1623$. The mean deviations (in hours) from their mean is",
+  "options": [
+   "$178$",
+   "$179$",
+   "$220$",
+   "$356$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "disputed",
+   "notes": "Key image prints 26. B (179), read correctly; but mean=1446, abs deviations 89+356+220+48+177=890, 890/5=178 exactly, so (A) is correct and the printed key looks wrong.",
+   "status_reason": "solver disagrees with unofficial key"
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch15-027",
+  "subject": "mathematics",
+  "chapter": "statistics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 27,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep215.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "Following are the marks obtained by 9 students in a mathematics test: $50, 69, 20, 33, 53, 39, 40, 65, 59$. The mean deviation from the median is:",
+  "options": [
+   "$9$",
+   "$10.5$",
+   "$12.67$",
+   "$14.76$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch15-028",
+  "subject": "mathematics",
+  "chapter": "statistics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 28,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep215.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The standard deviation of the data $6, 5, 9, 13, 12, 8, 10$ is",
+  "options": [
+   "$\\sqrt{\\frac{52}{7}}$",
+   "$\\frac{52}{7}$",
+   "$\\sqrt{6}$",
+   "$6$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch15-029",
+  "subject": "mathematics",
+  "chapter": "statistics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 29,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep215.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "Let $x_1, x_2, \\ldots, x_n$ be $n$ observations and $\\bar{x}$ be their arithmetic mean. The formula for the standard deviation is given by",
+  "options": [
+   "$\\sum(x_i-\\bar{x})^2$",
+   "$\\frac{\\sum(x_i-\\bar{x})^2}{n}$",
+   "$\\sqrt{\\frac{\\sum(x_i-\\bar{x})^2}{n}}$",
+   "$\\sqrt{\\frac{\\sum x_i^2}{n}+\\bar{x}^2}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch15-030",
+  "subject": "mathematics",
+  "chapter": "statistics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 30,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep215.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The mean of $100$ observations is $50$ and their standard deviation is $5$. The sum of all squares of all the observations is",
+  "options": [
+   "$50000$",
+   "$250000$",
+   "$252500$",
+   "$255000$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch15-031",
+  "subject": "mathematics",
+  "chapter": "statistics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 31,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep215.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "Let $a, b, c, d, e$ be the observations with mean $m$ and standard deviation $s$. The standard deviation of the observations $a+k, b+k, c+k, d+k, e+k$ is",
+  "options": [
+   "$s$",
+   "$ks$",
+   "$s+k$",
+   "$\\frac{s}{k}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch15-032",
+  "subject": "mathematics",
+  "chapter": "statistics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 32,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep215.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "Let $x_1, x_2, x_3, x_4, x_5$ be the observations with mean $m$ and standard deviation $s$. The standard deviation of the observations $kx_1, kx_2, kx_3, kx_4, kx_5$ is",
+  "options": [
+   "$k+s$",
+   "$\\frac{s}{k}$",
+   "$ks$",
+   "$s$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch15-033",
+  "subject": "mathematics",
+  "chapter": "statistics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 33,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep215.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "Let $x_1, x_2, \\ldots x_n$ be $n$ observations. Let $w_i = lx_i + k$ for $i = 1, 2, \\ldots n$, where $l$ and $k$ are constants. If the mean of $x_i$'s is $48$ and their standard deviation is $12$, the mean of $w_i$'s is $55$ and standard deviation of $w_i$'s is $15$, the values of $l$ and $k$ should be",
+  "options": [
+   "$l = 1.25,\\ k = -5$",
+   "$l = -1.25,\\ k = 5$",
+   "$l = 2.5,\\ k = -5$",
+   "$l = 2.5,\\ k = 5$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch15-034",
+  "subject": "mathematics",
+  "chapter": "statistics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 34,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep215.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "Standard deviations for first $10$ natural numbers is",
+  "options": [
+   "$5.5$",
+   "$3.87$",
+   "$2.97$",
+   "$2.87$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch15-035",
+  "subject": "mathematics",
+  "chapter": "statistics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 35,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep215.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "Consider the numbers $1, 2, 3, 4, 5, 6, 7, 8, 9, 10$. If $1$ is added to each number, the variance of the numbers so obtained is",
+  "options": [
+   "$6.5$",
+   "$2.87$",
+   "$3.87$",
+   "$8.25$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch15-036",
+  "subject": "mathematics",
+  "chapter": "statistics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 36,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep215.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "Consider the first $10$ positive integers. If we multiply each number by $-1$ and then add $1$ to each number, the variance of the numbers so obtained is",
+  "options": [
+   "$8.25$",
+   "$6.5$",
+   "$3.87$",
+   "$2.87$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch15-037",
+  "subject": "mathematics",
+  "chapter": "statistics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 37,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep215.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The following information relates to a sample of size $60$: $\\sum x^2 = 18000$, $\\sum x = 960$. The variance is",
+  "options": [
+   "$6.63$",
+   "$16$",
+   "$22$",
+   "$44$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch15-038",
+  "subject": "mathematics",
+  "chapter": "statistics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 38,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep215.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "Coefficient of variation of two distributions are $50$ and $60$, and their arithmetic means are $30$ and $25$ respectively. Difference of their standard deviation is",
+  "options": [
+   "$0$",
+   "$1$",
+   "$1.5$",
+   "$2.5$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch15-039",
+  "subject": "mathematics",
+  "chapter": "statistics",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 39,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep215.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The standard deviation of some temperature data in $^\\circ$C is $5$. If the data were converted into $^\\circ$F, the variance would be",
+  "options": [
+   "$81$",
+   "$57$",
+   "$36$",
+   "$25$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

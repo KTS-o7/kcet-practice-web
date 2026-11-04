@@ -1,0 +1,1767 @@
+[
+ {
+  "id": "tp-neet-2022-chemistry-051",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 51,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 11,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Which of the following p-V curve represents maximum work done?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-neet-2022-chemistry-051.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-052",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-12",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 52,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 11,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Given below are two statements: one is labelled as Assertion (A) and the other is labelled as Reason (R).\n\nAssertion (A): $\\mathrm{ICl}$ is more reactive than $\\mathrm{I_2}$.\n\nReason (R): I-Cl bond is weaker than I-I bond.\n\nIn the light of the above statements, choose the most appropriate answer from the options given below:",
+  "options": [
+   "Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+   "Both (A) and (R) are correct but (R) is not the correct explanation of (A).",
+   "(A) is correct but (R) is not correct",
+   "(A) is not correct but (R) is correct"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "key_confirmed",
+   "notes": "Transcription matches page 11; ICl polar and weaker bond, R explains A."
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-053",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 53,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 11,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Which compound amongst the following is not an aromatic compound?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-neet-2022-chemistry-053.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-054",
+  "subject": "chemistry",
+  "chapter": "classification-of-elements-and-periodicity",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 54,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 11,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "The IUPAC name of an element with atomic number 119 is",
+  "options": [
+   "ununennium",
+   "unnilennium",
+   "unununnium",
+   "ununoctium"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-055",
+  "subject": "chemistry",
+  "chapter": "chemistry-in-everyday-life",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 55,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Match List-I with List-II.\n\n| List-I (Drug class) | List-II (Drug molecule) |\n|---|---|\n| (a) Antacids | (i) Salvarsan |\n| (b) Antihistamines | (ii) Morphine |\n| (c) Analgesics | (iii) Cimetidine |\n| (d) Antimicrobials | (iv) Seldane |\n\nChoose the correct answer from the options given below :",
+  "options": [
+   "(a) - (iii), (b) – (ii), (c) – (iv), (d) – (i)",
+   "(a) - (iii), (b) – (iv), (c) – (ii), (d) – (i)",
+   "(a) - (i), (b) – (iv), (c) – (ii), (d) – (iii)",
+   "(a) - (iv), (b) – (iii), (c) – (i), (d) – (ii)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-056",
+  "subject": "chemistry",
+  "chapter": "hydrogen",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 56,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Match List-I with List-II.\n\n| List-I (Hydrides) | List-II (Nature) |\n|---|---|\n| (a) $\\mathrm{MgH_2}$ | (i) Electron precise |\n| (b) $\\mathrm{GeH_4}$ | (ii) Electron deficient |\n| (c) $\\mathrm{B_2H_6}$ | (iii) Electron rich |\n| (d) HF | (iv) Ionic |\n\nChoose the correct answer from the options given below",
+  "options": [
+   "(a) – (iv), (b) – (i), (c) – (ii), (d) – (iii)",
+   "(a) – (iii), (b) – (i), (c) – (ii), (d) – (iv)",
+   "(a) – (i), (b) – (ii), (c) – (iv), (d) – (iii)",
+   "(a) – (ii), (b) – (iii), (c) – (iv), (d) – (i)"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-057",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 57,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "The incorrect statement regarding enzymes is",
+  "options": [
+   "Enzymes are biocatalysts.",
+   "Like chemical catalysts enzymes reduce the activation energy of bio processes.",
+   "Enzymes are polysaccharides.",
+   "Enzymes are very specific for a particular reaction and substrate."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-058",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 58,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "The IUPAC name of the complex-\n\n$\\mathrm{[Ag(H_2O)_2][Ag(CN)_2]}$ is:",
+  "options": [
+   "dicyanidosilver(II) diaquaargentate(II)",
+   "diaquasilver(II) dicyanidoargentate(II)",
+   "dicyanidosilver(I) diaquaargentate(I)",
+   "diaquasilver(I) dicyanidoargentate(I)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-059",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 59,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Gadolinium has a low value of third ionisation enthalpy because of",
+  "options": [
+   "small size",
+   "high exchange enthalpy",
+   "high electronegativity",
+   "high basic character"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-060",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 60,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Amongst the following which one will have maximum 'lone pair - lone pair' electron repulsions?",
+  "options": [
+   "$\\mathrm{ClF_3}$",
+   "$\\mathrm{IF_5}$",
+   "$\\mathrm{SF_4}$",
+   "$\\mathrm{XeF_2}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-061",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-11",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 61,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Which of the following statement is not correct about diborane?",
+  "options": [
+   "There are two 3-centre-2-electron bonds.",
+   "The four terminal B-H bonds are two centre two electron bonds.",
+   "The four terminal Hydrogen atoms and the two Boron atoms lie in one plane.",
+   "Both the Boron atoms are $\\mathrm{sp^2}$ hybridised."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-062",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 62,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Given below are two statements :\n\nStatement I : The boiling points of aldehydes and ketones are higher than hydrocarbons of comparable molecular masses because of weak molecular association in aldehydes and ketones due to dipole - dipole interactions.\n\nStatement II : The boiling points of aldehydes and ketones are lower than the alcohols of similar molecular masses due to the absence of H-bonding.\n\nIn the light of the above statements, choose the most appropriate answer from the given below",
+  "options": [
+   "Both Statement I and Statement II are correct",
+   "Both Statement I and Statement II are incorrect",
+   "Statement I is correct but Statement II is incorrect",
+   "Statement I is incorrect but Statement II is correct"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-063",
+  "subject": "chemistry",
+  "chapter": "the-solid-state",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 63,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Given below are two statements: one is labelled as Assertion (A) and the other is labelled as Reason (R).\n\nAssertion (A): In a particular point defect, an ionic solid is electrically neutral, even if few of its cations are missing from its unit cells.\n\nReason (R): In an ionic solid, Frenkel defect arises due to dislocation of cation from its lattice site to interstitial site, maintaining overall electrical neutrality.\n\nIn the light of the above statements, choose the most appropriate answer from the options given below:",
+  "options": [
+   "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+   "Both (A) and (R) are correct but (R) is not the correct explanation of (A)",
+   "(A) is correct but (R) is not correct",
+   "(A) is not correct but (R) is correct"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-064",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-12",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 64,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Given below are two statements\n\nStatement I\n\nThe boiling points of the following hydrides of group 16 elements increases in the order –\n\n$\\mathrm{H_2O < H_2S < H_2Se < H_2Te}$\n\nStatement II\n\nThe boiling points of these hydrides increase with increase in molar mass.\n\nIn the light of the above statements, choose the most appropriate answer from the options given below :",
+  "options": [
+   "Both Statement I and Statement II are correct",
+   "Both Statement I and Statement II are incorrect",
+   "Statement I is correct but Statement II is incorrect",
+   "Statement I is incorrect but Statement II is correct"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "key_confirmed",
+   "notes": "Transcription matches pages 13-14; H2O has highest bp, so both statements incorrect."
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-065",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 65,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "The given graph is a representation of kinetics of a reaction.\n\nThe y and x axes for zero and first order reactions, respectively are",
+  "options": [
+   "zero order (y = concentration and x = time), first order (y = t$_{1/2}$ and x = concentration)",
+   "zero order (y = concentration and x = time), first order (y = rate constant and x = concentration)",
+   "zero order (y = rate and x = concentration), first order (y = t$_{1/2}$ and x = concentration)",
+   "zero order (y = rate and x = concentration), first order (y = rate and x = t$_{1/2}$)"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-neet-2022-chemistry-065.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-066",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 66,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "The incorrect statement regarding chirality is",
+  "options": [
+   "$\\mathrm{S_N1}$ reaction yields 1 : 1 mixture of both enantiomers",
+   "The product obtained by $\\mathrm{S_N2}$ reaction of haloalkane having chirality at the reactive site shows inversion of configuration",
+   "Enantiomers are superimposable mirror images on each other",
+   "A racemic mixture shows zero optical rotation"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-067",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 67,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Which of the following sequence of reactions is suitable to synthesize chlorobenzene?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-neet-2022-chemistry-067.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-068",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 68,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Identify the incorrect statement from the following.",
+  "options": [
+   "All the five 5d orbitals are different in size when compared to the respective 4d orbitals.",
+   "All the five 4d orbitals have shapes similar to the respective 3d orbitals.",
+   "In an atom, all the five 3d orbitals are equal in energy in free state.",
+   "The shapes of $d_{xy}$, $d_{yz}$ and $d_{zx}$ orbitals are similar to each other; and $d_{x^2-y^2}$ and $d_{z^2}$ are similar to each other."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-069",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 69,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "The Kjeldahl's method for the estimation of nitrogen can be used to estimate the amount of nitrogen in which one of the following compounds?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-neet-2022-chemistry-069.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-070",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-11",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 70,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Choose the correct statement:",
+  "options": [
+   "Diamond and graphite have two dimensional network.",
+   "Diamond is covalent and graphite is ionic.",
+   "Diamond is $\\mathrm{sp^3}$ hybridised and graphite is $\\mathrm{sp^2}$ hybridized.",
+   "Both diamond and graphite are used as dry lubricants."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-071",
+  "subject": "chemistry",
+  "chapter": "the-s-block-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 71,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Identify the incorrect statement from the following",
+  "options": [
+   "Alkali metals react with water to form their hydroxides.",
+   "The oxidation number of K in $\\mathrm{KO_2}$ is +4.",
+   "Ionisation enthalpy of alkali metals decreases from top to bottom in the group.",
+   "Lithium is the strongest reducing agent among the alkali metals."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-072",
+  "subject": "chemistry",
+  "chapter": "states-of-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 72,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Which one is not correct mathematical equation for Dalton's Law of partial pressure? Here p = total pressure of gaseous mixture",
+  "options": [
+   "$p = p_1 + p_2 + p_3$",
+   "$p = n_1\\frac{RT}{V} + n_2\\frac{RT}{V} + n_3\\frac{RT}{V}$",
+   "$p_i = \\chi_i p$, where $p_i$ = partial pressure of $i^{th}$ gas, $\\chi_i$ = mole fraction of $i^{th}$ gas in gaseous mixture",
+   "$p_i = \\chi_i p_i^\\circ$, where $\\chi_i$ = mole fraction of $i^{th}$ gas in gaseous mixture, $p_i^\\circ$ = pressure of $i^{th}$ gas in pure state"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-073",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 73,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Given below are two statements\n\nStatement I:\n\nThe acidic strength of monosubstituted nitrophenol is higher than phenol because of electron withdrawing nitro group.\n\nStatement II:\n\no-nitrophenol, m-nitrophenol and p-nitrophenol will have same acidic strength as they have one nitro group attached to the phenolic ring.\n\nIn the light of the above statements, choose the most appropriate answer from the options given below",
+  "options": [
+   "Both Statement I and Statement II are correct.",
+   "Both Statement I and Statement II are incorrect.",
+   "Statement I is correct but Statement II is incorrect.",
+   "Statement I is incorrect but Statement II is correct."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-074",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 74,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 16,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "At 298 K, the standard electrode potentials of Cu$^{2+}$ / Cu, Zn$^{2+}$ / Zn, Fe$^{2+}$ / Fe and Ag$^+$ / Ag are 0.34 V, –0.76 V, –0.44 V and 0.80 V, respectively.\n\nOn the basis of standard electrode potential, predict which of the following reaction cannot occur?",
+  "options": [
+   "$\\mathrm{CuSO_4(aq) + Zn(s) \\rightarrow ZnSO_4(aq) + Cu(s)}$",
+   "$\\mathrm{CuSO_4(aq) + Fe(s) \\rightarrow FeSO_4(aq) + Cu(s)}$",
+   "$\\mathrm{FeSO_4(aq) + Zn(s) \\rightarrow ZnSO_4(aq) + Fe(s)}$",
+   "$\\mathrm{2CuSO_4(aq) + 2Ag(s) \\rightarrow 2Cu(s) + Ag_2SO_4(aq)}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-075",
+  "subject": "chemistry",
+  "chapter": "surface-chemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 75,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 16,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Given below are two statements\n\nStatement I:\n\nIn the coagulation of a negative sol, the flocculating power of the three given ions is in the order\n\n$\\mathrm{Al^{3+} > Ba^{2+} > Na^+}$\n\nStatement II:\n\nIn the coagulation of a positive sol, the flocculating power of the three given salts is in the order\n\n$\\mathrm{NaCl > Na_2SO_4 > Na_3PO_4}$\n\nIn the light of the above statements, choose the most appropriate answer from the options given below",
+  "options": [
+   "Both Statement I and Statement II are correct.",
+   "Both Statement I and Statement II are incorrect.",
+   "Statement I is correct but Statement II is incorrect.",
+   "Statement I is incorrect but Statement II is correct."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-076",
+  "subject": "chemistry",
+  "chapter": "the-s-block-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 76,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 16,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Match List-I with List-II\n\n| List-I | List-II |\n|---|---|\n| (a) Li | (i) absorbent for carbon dioxide |\n| (b) Na | (ii) electrochemical cells |\n| (c) KOH | (iii) coolant in fast breeder reactors |\n| (d) Cs | (iv) photoelectric cell |\n\nChoose the correct answer from the options given below :",
+  "options": [
+   "(a) - (iv), (b) – (i), (c) – (iii), (d) – (ii)",
+   "(a) - (iii), (b) – (iv), (c) – (ii), (d) – (i)",
+   "(a) - (i), (b) – (iii), (c) – (iv), (d) – (ii)",
+   "(a) - (ii), (b) – (iii), (c) – (i), (d) – (iv)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-077",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 77,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 17,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Given below are two statements\n\nStatement I:\n\nPrimary aliphatic amines react with $\\mathrm{HNO_2}$ to give unstable diazonium salts.\n\nStatement II:\n\nPrimary aromatic amines react with $\\mathrm{HNO_2}$ to form diazonium salts which are stable even above 300 K.\n\nIn the light of the above statements, choose the most appropriate answer from the options given below",
+  "options": [
+   "Both Statement I and Statement II are correct.",
+   "Both Statement I and Statement II are incorrect.",
+   "Statement I is correct but Statement II is incorrect.",
+   "Statement I is incorrect but Statement II is correct."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-078",
+  "subject": "chemistry",
+  "chapter": "polymers",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 78,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 17,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Which statement regarding polymers is not correct?",
+  "options": [
+   "Elastomers have polymer chains held together by weak intermolecular forces",
+   "Fibers possess high tensile strength",
+   "Thermoplastic polymers are capable of repeatedly softening and hardening on heating and cooling respectively",
+   "Thermosetting polymers are reusable"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-079",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 79,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 17,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "In one molal solution that contains 0.5 mole of a solute, there is",
+  "options": [
+   "500 mL of solvent",
+   "500 g of solvent",
+   "100 mL of solvent",
+   "1000 g of solvent"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-080",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 80,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 17,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "$\\mathrm{RMgX + CO_2 \\xrightarrow[\\text{ether}]{\\text{dry}} Y \\xrightarrow{H_3O^+} RCOOH}$\n\nWhat is Y in the above reaction?",
+  "options": [
+   "$\\mathrm{RCOO^-Mg^+X}$",
+   "$\\mathrm{R_3CO^-Mg^+X}$",
+   "$\\mathrm{RCOO^-X^+}$",
+   "$\\mathrm{(RCOO)_2Mg}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-081",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 81,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 17,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Given below are half cell reactions:\n\n$\\mathrm{MnO_4^- + 8H^+ + 5e^- \\rightarrow Mn^{2+} + 4H_2O}$ ,\n\n$E^\\circ_{\\mathrm{Mn^{2+}/MnO_4^-}} = -1.510$ V\n\n$\\frac{1}{2}\\mathrm{O_2 + 2H^+ + 2e^- \\rightarrow H_2O}$ ,\n\n$E^\\circ_{\\mathrm{O_2/H_2O}} = +1.223$ V\n\nWill the permanganate ion, $\\mathrm{MnO_4^-}$ liberate $\\mathrm{O_2}$ from water in the presence of an acid?",
+  "options": [
+   "Yes, because $E^\\circ_{cell} = +0.287$ V",
+   "No, because $E^\\circ_{cell} = -0.287$ V",
+   "Yes, because $E^\\circ_{cell} = +2.733$ V",
+   "No, because $E^\\circ_{cell} = -2.733$ V"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-082",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 82,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 18,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "What mass of 95% pure $\\mathrm{CaCO_3}$ will be required to neutralise 50 mL of 0.5 M HCl solution according to the following reaction?\n\n$\\mathrm{CaCO_{3(s)} + 2HCl_{(aq)} \\rightarrow CaCl_{2(aq)} + CO_{2(g)} + 2H_2O_{(l)}}$\n\n[Calculate upto second place of decimal point]",
+  "options": [
+   "1.25 g",
+   "1.32 g",
+   "3.65 g",
+   "9.50 g"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-083",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 83,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 18,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "The pH of the solution containing 50 mL each of 0.10 M sodium acetate and 0.01 M acetic acid is\n\n[Given $\\mathrm{pK_a}$ of $\\mathrm{CH_3COOH}$ = 4.57]",
+  "options": [
+   "5.57",
+   "3.57",
+   "4.57",
+   "2.57"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-084",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 84,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 18,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Match List-I with List-II.\n\n| List-I (Products formed) | List-II (Reaction of carbonyl compound with) |\n|---|---|\n| (a) Cyanohydrin | (i) $\\mathrm{NH_2OH}$ |\n| (b) Acetal | (ii) $\\mathrm{RNH_2}$ |\n| (c) Schiff's base | (iii) alcohol |\n| (d) Oxime | (iv) HCN |\n\nChoose the correct answer from the options given below",
+  "options": [
+   "(a) – (iii), (b) – (iv), (c) – (ii), (d) – (i)",
+   "(a) – (ii), (b) – (iii), (c) – (iv), (d) – (i)",
+   "(a) – (i), (b) – (iii), (c) – (ii), (d) – (iv)",
+   "(a) – (iv), (b) – (iii), (c) – (ii), (d) – (i)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-085",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 85,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 18,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Which amongst the following is incorrect statement?",
+  "options": [
+   "The bond orders of $\\mathrm{O_2^+}$, $\\mathrm{O_2}$, $\\mathrm{O_2^-}$ and $\\mathrm{O_2^{2-}}$ are 2.5, 2, 1.5 and 1, respectively",
+   "$\\mathrm{C_2}$ molecule has four electrons in its two degenerate $\\pi$ molecular orbitals",
+   "$\\mathrm{H_2^+}$ ion has one electron",
+   "$\\mathrm{O_2^+}$ ion is diamagnetic"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-086",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 86,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 18,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Given below are two statements:\n\nStatement I:\n\nIn Lucas test, primary, secondary and tertiary alcohols are distinguished on the basis of their reactivity with conc. $\\mathrm{HCl + ZnCl_2}$, known as Lucas Reagent.\n\nStatement II:\n\nPrimary alcohols are most reactive and immediately produce turbidity at room temperature on reaction with Lucas Reagent.\n\nIn the light of the above statements, choose the most appropriate answer from the options given below:",
+  "options": [
+   "Both Statement I and Statement II are correct",
+   "Both Statement I and Statement II are incorrect",
+   "Statement I is correct but Statement II is incorrect",
+   "Statement I is incorrect but Statement II is correct"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-087",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 87,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 19,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "If radius of second Bohr orbit of the $\\mathrm{He^+}$ ion is 105.8 pm, what is the radius of third Bohr orbit of $\\mathrm{Li^{2+}}$ ion?",
+  "options": [
+   "158.7 pm",
+   "15.87 pm",
+   "1.587 pm",
+   "158.7 Å"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-088",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 88,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 19,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "For a first order reaction $\\mathrm{A \\rightarrow Products}$, initial concentration of A is 0.1 M, which becomes 0.001 M after 5 minutes. Rate constant for the reaction in $\\mathrm{min^{-1}}$ is",
+  "options": [
+   "1.3818",
+   "0.9212",
+   "0.4606",
+   "0.2303"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-089",
+  "subject": "chemistry",
+  "chapter": "states-of-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 89,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 19,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "A 10.0 L flask contains 64 g of oxygen at 27°C. (Assume $\\mathrm{O_2}$ gas is behaving ideally). The pressure inside the flask in bar is (Given R = 0.0831 $\\mathrm{L\\,bar\\,K^{-1}\\,mol^{-1}}$)",
+  "options": [
+   "2.5",
+   "498.6",
+   "49.8",
+   "4.9"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-090",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 90,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 19,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "The correct IUPAC name of the following compound is",
+  "options": [
+   "1-bromo-5-chloro-4-methylhexan-3-ol",
+   "6-bromo-2-chloro-4-methythexan-4-ol",
+   "1-bromo-4-methyl-5-chlorohexan-3-ol",
+   "6-bromo-4-methyl-2-chlorohexan-4-ol"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-neet-2022-chemistry-090.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-091",
+  "subject": "chemistry",
+  "chapter": "environmental-chemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 91,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 19,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "The pollution due to oxides of sulphur gets enhanced due to the presence of:\n\n(a) particulate matter\n\n(b) ozone\n\n(c) hydrocarbons\n\n(d) hydrogen peroxide\n\nChoose the most appropriate answer from the options given below:",
+  "options": [
+   "(a), (d) only",
+   "(a), (b), (d) only",
+   "(b), (c), (d) only",
+   "(a), (c), (d) only"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-092",
+  "subject": "chemistry",
+  "chapter": "the-solid-state",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 92,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 19,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Copper crystallises in fcc unit cell with cell edge length of $3.608 \\times 10^{-8}$ cm. The density of copper is 8.92 g cm$^{-3}$. Calculate the atomic mass of copper.",
+  "options": [
+   "63.1 u",
+   "31.55 u",
+   "60 u",
+   "65 u"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-093",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 93,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 20,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Find the emf of the cell in which the following reaction takes place at 298 K\n\n$\\mathrm{Ni(s) + 2Ag^+(0.001\\,M) \\rightarrow Ni^{2+}(0.001\\,M) + 2Ag(s)}$\n\n(Given that $E^\\circ_{cell} = 10.5$ V, $\\frac{2.303\\,RT}{F} = 0.059$ at 298 K)",
+  "options": [
+   "1.0385 V",
+   "1.385 V",
+   "0.9615 V",
+   "1.05 V"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-094",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 94,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 20,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "The product formed from the following reaction sequence is",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-neet-2022-chemistry-094.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-095",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 95,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 20,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "The order of energy absorbed which is responsible for the color of complexes\n\n(A) $\\mathrm{[Ni(H_2O)_2(en)_2]^{2+}}$\n\n(B) $\\mathrm{[Ni(H_2O)_4(en)]^{2+}}$ and\n\n(C) $\\mathrm{[Ni(en)_3]^{2+}}$\n\nis",
+  "options": [
+   "(A) > (B) > (C)",
+   "(C) > (B) > (A)",
+   "(C) > (A) > (B)",
+   "(B) > (A) > (C)"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-096",
+  "subject": "chemistry",
+  "chapter": "general-principles-and-processes-of-isolation-of-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 96,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 20,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Match List-I with List-II.\n\n| List-I (Ores) | List-II (Composition) |\n|---|---|\n| (a) Haematite | (i) $\\mathrm{Fe_3O_4}$ |\n| (b) Magnetite | (ii) $\\mathrm{ZnCO_3}$ |\n| (c) Calamine | (iii) $\\mathrm{Fe_2O_3}$ |\n| (d) Kaolinite | (iv) $\\mathrm{[Al_2(OH)_4Si_2O_5]}$ |\n\nChoose the correct answer from the options given below:",
+  "options": [
+   "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+   "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+   "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+   "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-097",
+  "subject": "chemistry",
+  "chapter": "redox-reactions",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 97,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 21,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "In the neutral or faintly alkaline medium, $\\mathrm{KMnO_4}$ oxidises iodide into iodate. The change in oxidation state of manganese in this reaction is from",
+  "options": [
+   "+7 to +4",
+   "+6 to +4",
+   "+7 to +3",
+   "+6 to +5"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-098",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 98,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 21,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Compound X on reaction with $\\mathrm{O_3}$ followed by $\\mathrm{Zn/H_2O}$ gives formaldehyde and 2-methyl propanal as products. The compound X is",
+  "options": [
+   "3-Methylbut-1-ene",
+   "2-Methylbut-1-ene",
+   "2-Methylbut-2-ene",
+   "Pent-2-ene"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-099",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 99,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 21,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "$\\mathrm{3O_2(g) \\rightleftharpoons 2O_3(g)}$\n\nfor the above reaction at 298 K, $K_C$ is found to be $3.0 \\times 10^{-59}$. If the concentration of $\\mathrm{O_2}$ at equilibrium is 0.040 M then concentration of $\\mathrm{O_3}$ in M is",
+  "options": [
+   "$4.38 \\times 10^{-32}$",
+   "$1.9 \\times 10^{-63}$",
+   "$2.4 \\times 10^{31}$",
+   "$1.2 \\times 10^{21}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-chemistry-100",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 100,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 21,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Which one of the following is not formed when acetone reacts with 2-pentanone in the presence of dilute NaOH followed by heating?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-neet-2022-chemistry-100.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

@@ -1,0 +1,247 @@
+[
+ {
+  "id": "tp-ncert-math-11-ch08-018",
+  "subject": "mathematics",
+  "chapter": "binomial-theorem",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 18,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep208.pdf",
+   "page": 16,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The total number of terms in the expansion of $(x + a)^{100} + (x - a)^{100}$ after simplification is",
+  "options": [
+   "50",
+   "202",
+   "51",
+   "none of these"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch08-019",
+  "subject": "mathematics",
+  "chapter": "binomial-theorem",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 19,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep208.pdf",
+   "page": 16,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "Given the integers $r > 1$, $n > 2$, and coefficients of $(3r)^{\\mathrm{th}}$ and $(r + 2)^{\\mathrm{nd}}$ terms in the binomial expansion of $(1 + x)^{2n}$ are equal, then",
+  "options": [
+   "$n = 2r$",
+   "$n = 3r$",
+   "$n = 2r + 1$",
+   "none of these"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch08-020",
+  "subject": "mathematics",
+  "chapter": "binomial-theorem",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 20,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep208.pdf",
+   "page": 16,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The two successive terms in the expansion of $(1 + x)^{24}$ whose coefficients are in the ratio $1:4$ are",
+  "options": [
+   "$3^{\\mathrm{rd}}$ and $4^{\\mathrm{th}}$",
+   "$4^{\\mathrm{th}}$ and $5^{\\mathrm{th}}$",
+   "$5^{\\mathrm{th}}$ and $6^{\\mathrm{th}}$",
+   "$6^{\\mathrm{th}}$ and $7^{\\mathrm{th}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch08-021",
+  "subject": "mathematics",
+  "chapter": "binomial-theorem",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 21,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep208.pdf",
+   "page": 16,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The coefficient of $x^n$ in the expansion of $(1 + x)^{2n}$ and $(1 + x)^{2n - 1}$ are in the ratio.",
+  "options": [
+   "1 : 2",
+   "1 : 3",
+   "3 : 1",
+   "2 : 1"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch08-022",
+  "subject": "mathematics",
+  "chapter": "binomial-theorem",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 22,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep208.pdf",
+   "page": 16,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "If the coefficients of $2^{\\mathrm{nd}}$, $3^{\\mathrm{rd}}$ and the $4^{\\mathrm{th}}$ terms in the expansion of $(1 + x)^n$ are in A.P., then value of $n$ is",
+  "options": [
+   "2",
+   "7",
+   "11",
+   "14"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch08-023",
+  "subject": "mathematics",
+  "chapter": "binomial-theorem",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 23,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep208.pdf",
+   "page": 17,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "If $A$ and $B$ are coefficient of $x^n$ in the expansions of $(1 + x)^{2n}$ and $(1 + x)^{2n - 1}$ respectively, then $\\frac{A}{B}$ equals",
+  "options": [
+   "1",
+   "2",
+   "$\\frac{1}{2}$",
+   "$\\frac{1}{n}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch08-024",
+  "subject": "mathematics",
+  "chapter": "binomial-theorem",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 24,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep208.pdf",
+   "page": 17,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "If the middle term of $\\left(\\frac{1}{x} + x\\sin x\\right)^{10}$ is equal to $7\\frac{7}{8}$, then value of $x$ is",
+  "options": [
+   "$2n\\pi + \\frac{\\pi}{6}$",
+   "$n\\pi + \\frac{\\pi}{6}$",
+   "$n\\pi + (-1)^n \\frac{\\pi}{6}$",
+   "$n\\pi + (-1)^n \\frac{\\pi}{3}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

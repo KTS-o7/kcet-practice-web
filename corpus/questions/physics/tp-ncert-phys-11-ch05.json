@@ -1,0 +1,317 @@
+[
+ {
+  "id": "tp-ncert-phys-11-ch05-001",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep305.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "A ball is travelling with uniform translatory motion. This means that",
+  "options": [
+   "it is at rest.",
+   "the path can be a straight line or circular and the ball travels with uniform speed.",
+   "all parts of the ball have the same velocity (magnitude and direction) and the velocity is constant.",
+   "the centre of the ball moves with constant velocity and the ball spins about its centre uniformly."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch05-002",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep305.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "A metre scale is moving with uniform velocity. This implies",
+  "options": [
+   "the force acting on the scale is zero, but a torque about the centre of mass can act on the scale.",
+   "the force acting on the scale is zero and the torque acting about centre of mass of the scale is also zero.",
+   "the total force acting on it need not be zero but the torque on it is zero.",
+   "neither the force nor the torque need to be zero."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch05-003",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep305.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "A cricket ball of mass 150 g has an initial velocity $\\vec{u} = (3\\hat{i} + 4\\hat{j})\\,\\mathrm{m\\,s^{-1}}$ and a final velocity $\\vec{v} = -(3\\hat{i} + 4\\hat{j})\\,\\mathrm{m\\,s^{-1}}$ after being hit. The change in momentum (final momentum-initial momentum) is (in $\\mathrm{kg\\,m\\,s^{1}}$)",
+  "options": [
+   "zero",
+   "$-(0.45\\hat{i} + 0.6\\hat{j})$",
+   "$-(0.9\\hat{i} + 1.2\\hat{j})$",
+   "$-5(\\hat{i} + \\hat{j})$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch05-004",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep305.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "In the previous problem (5.3), the magnitude of the momentum transferred during the hit is",
+  "options": [
+   "Zero",
+   "$0.75\\,\\mathrm{kg\\,m\\,s^{-1}}$",
+   "$1.5\\,\\mathrm{kg\\,m\\,s^{-1}}$",
+   "$14\\,\\mathrm{kg\\,m\\,s^{-1}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch05-005",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep305.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "Conservation of momentum in a collision between particles can be understood from",
+  "options": [
+   "conservation of energy.",
+   "Newton’s first law only.",
+   "Newton’s second law only.",
+   "both Newton’s second and third law."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch05-006",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep305.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "A hockey player is moving northward and suddenly turns westward with the same speed to avoid an opponent. The force that acts on the player is",
+  "options": [
+   "frictional force along westward.",
+   "muscle force along southward.",
+   "frictional force along south-west.",
+   "muscle force along south-west."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch05-007",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 7,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep305.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "A body of mass 2kg travels according to the law $x(t) = pt + qt^{2} + rt^{3}$ where $p = 3\\,\\mathrm{m\\,s^{-1}}$, $q = 4\\,\\mathrm{m\\,s^{-2}}$ and $r = 5\\,\\mathrm{m\\,s^{-3}}$. The force acting on the body at $t = 2$ seconds is",
+  "options": [
+   "$136\\,\\mathrm{N}$",
+   "$134\\,\\mathrm{N}$",
+   "$158\\,\\mathrm{N}$",
+   "$68\\,\\mathrm{N}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch05-008",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 8,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep305.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "A body with mass 5 kg is acted upon by a force $\\vec{F} = (-3\\hat{i} + 4\\hat{j})\\,\\mathrm{N}$. If its initial velocity at $t = 0$ is $\\vec{v} = (6\\hat{i} - 12\\hat{j})\\,\\mathrm{m\\,s^{-1}}$, the time at which it will just have a velocity along the $y$-axis is",
+  "options": [
+   "never",
+   "$10\\,\\mathrm{s}$",
+   "$2\\,\\mathrm{s}$",
+   "$15\\,\\mathrm{s}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch05-009",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 9,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep305.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "A car of mass $m$ starts from rest and acquires a velocity along east $\\vec{v} = v\\hat{i}$ $(v > 0)$ in two seconds. Assuming the car moves with uniform acceleration, the force exerted on the car is",
+  "options": [
+   "$\\frac{mv}{2}$ eastward and is exerted by the car engine.",
+   "$\\frac{mv}{2}$ eastward and is due to the friction on the tyres exerted by the road.",
+   "more than $\\frac{mv}{2}$ eastward exerted due to the engine and overcomes the friction of the road.",
+   "$\\frac{mv}{2}$ exerted by the engine."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

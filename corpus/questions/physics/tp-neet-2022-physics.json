@@ -1,0 +1,1770 @@
+[
+ {
+  "id": "tp-neet-2022-physics-001",
+  "subject": "physics",
+  "chapter": "electromagnetic-waves",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 1,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Match List-I with List-II\n\n| | List-I (Electromagnetic waves) | | List-II (Wavelength) |\n|---|---|---|---|\n| (a) | AM radio waves | (i) | $10^{-10}\\,\\mathrm{m}$ |\n| (b) | Microwaves | (ii) | $10^{2}\\,\\mathrm{m}$ |\n| (c) | Infrared radiations | (iii) | $10^{-2}\\,\\mathrm{m}$ |\n| (d) | X-rays | (iv) | $10^{-4}\\,\\mathrm{m}$ |\n\nChoose the correct answer from the options given below",
+  "options": [
+   "(a) - (iv), (b) - (iii), (c) - (ii), (d) - (i)",
+   "(a) - (iii), (b) - (ii), (c) - (i), (d) - (iv)",
+   "(a) - (iii), (b) - (iv), (c) - (ii), (d) - (i)",
+   "(a) - (ii), (b) - (iii), (c) - (iv), (d) - (i)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-002",
+  "subject": "physics",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 2,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "An ideal gas undergoes four different processes from the same initial state as shown in the figure below. Those processes are adiabatic, isothermal, isobaric and isochoric. The curve which represents the adiabatic process among 1, 2, 3 and 4 is",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-neet-2022-physics-002.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-003",
+  "subject": "physics",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 3,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "The angular speed of a fly wheel moving with uniform angular acceleration changes from 1200 rpm to 3120 rpm in 16 seconds. The angular acceleration in $\\mathrm{rad/s^{2}}$ is",
+  "options": [
+   "$2\\pi$",
+   "$4\\pi$",
+   "$12\\pi$",
+   "$104\\pi$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-004",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 4,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "In the given circuits (a), (b) and (c), the potential drop across the two $p$-$n$ junctions are equal in",
+  "options": [
+   "Circuit (a) only",
+   "Circuit (b) only",
+   "Circuit (c) only",
+   "Both circuits (a) and (c)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-neet-2022-physics-004.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-005",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 5,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "A biconvex lens has radii of curvature, $20\\,\\mathrm{cm}$ each. If the refractive index of the material of the lens is $1.5$, the power of the lens is",
+  "options": [
+   "$+2\\,\\mathrm{D}$",
+   "$+20\\,\\mathrm{D}$",
+   "$+5\\,\\mathrm{D}$",
+   "Infinity"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-006",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 6,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "The graph which shows the variation of the de Broglie wavelength ($\\lambda$) of a particle and its associated momentum ($p$) is",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-neet-2022-physics-006.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-007",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 7,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "As the temperature increases, the electrical resistance",
+  "options": [
+   "Increases for both conductors and semiconductors",
+   "Decreases for both conductors and semiconductors",
+   "Increases for conductors but decreases for semiconductors",
+   "Decreases for conductors but increases for semiconductors"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-008",
+  "subject": "physics",
+  "chapter": "mechanical-properties-of-fluids",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 8,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "A spherical ball is dropped in a long column of a highly viscous liquid. The curve in the graph shown, which represents the speed of the ball ($v$) as a function of time ($t$) is",
+  "options": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-neet-2022-physics-008.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-009",
+  "subject": "physics",
+  "chapter": "units-and-measurement",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 9,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "The dimensions $[\\mathrm{MLT^{-2}A^{-2}}]$ belong to the",
+  "options": [
+   "Magnetic flux",
+   "Self inductance",
+   "Magnetic permeability",
+   "Electric permittivity"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-010",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 10,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "In half wave rectification, if the input frequency is $60\\,\\mathrm{Hz}$, then the output frequency would be",
+  "options": [
+   "Zero",
+   "$30\\,\\mathrm{Hz}$",
+   "$60\\,\\mathrm{Hz}$",
+   "$120\\,\\mathrm{Hz}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-011",
+  "subject": "physics",
+  "chapter": "waves",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 11,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "If the initial tension on a stretched string is doubled, then the ratio of the initial and final speeds of a transverse wave along the string is",
+  "options": [
+   "$1 : 1$",
+   "$\\sqrt{2} : 1$",
+   "$1 : \\sqrt{2}$",
+   "$1 : 2$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-012",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 12,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "A shell of mass $m$ is at rest initially. It explodes into three fragments having mass in the ratio $2 : 2 : 1$. If the fragments having equal mass fly off along mutually perpendicular directions with speed $v$, the speed of the third (lighter) fragment is",
+  "options": [
+   "$v$",
+   "$\\sqrt{2}\\,v$",
+   "$2\\sqrt{2}\\,v$",
+   "$3\\sqrt{2}\\,v$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-013",
+  "subject": "physics",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 13,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Two objects of mass $10\\,\\mathrm{kg}$ and $20\\,\\mathrm{kg}$ respectively are connected to the two ends of a rigid rod of length $10\\,\\mathrm{m}$ with negligible mass. The distance of the center of mass of the system from the $10\\,\\mathrm{kg}$ mass is",
+  "options": [
+   "$\\frac{10}{3}\\,\\mathrm{m}$",
+   "$\\frac{20}{3}\\,\\mathrm{m}$",
+   "$10\\,\\mathrm{m}$",
+   "$5\\,\\mathrm{m}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-014",
+  "subject": "physics",
+  "chapter": "mechanical-properties-of-fluids",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 14,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "If a soap bubble expands, the pressure inside the bubble",
+  "options": [
+   "Decreases",
+   "Increases",
+   "Remains the same",
+   "Is equal to the atmospheric pressure"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-015",
+  "subject": "physics",
+  "chapter": "work-energy-and-power",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 15,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "An electric lift with a maximum load of $2000\\,\\mathrm{kg}$ (lift + passengers) is moving up with a constant speed of $1.5\\,\\mathrm{m\\,s^{-1}}$. The frictional force opposing the motion is $3000\\,\\mathrm{N}$. The minimum power delivered by the motor to the lift in watts is : ($g = 10\\,\\mathrm{m\\,s^{-2}}$)",
+  "options": [
+   "23000",
+   "20000",
+   "34500",
+   "23500"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-016",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 16,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "The angle between the electric lines of force and the equipotential surface is",
+  "options": [
+   "$0^\\circ$",
+   "$45^\\circ$",
+   "$90^\\circ$",
+   "$180^\\circ$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-017",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 17,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "When two monochromatic lights of frequency, $v$ and $\\frac{v}{2}$ are incident on a photoelectric metal, their stopping potential becomes $\\frac{V_s}{2}$ and $V_s$ respectively. The threshold frequency for this metal is",
+  "options": [
+   "$2v$",
+   "$3v$",
+   "$\\frac{2}{3}v$",
+   "$\\frac{3}{2}v$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-018",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 18,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "A long solenoid of radius $1\\,\\mathrm{mm}$ has $100$ turns per mm. If $1\\,\\mathrm{A}$ current flows in the solenoid, the magnetic field strength at the centre of the solenoid is",
+  "options": [
+   "$6.28 \\times 10^{-2}\\,\\mathrm{T}$",
+   "$12.56 \\times 10^{-2}\\,\\mathrm{T}$",
+   "$12.56 \\times 10^{-4}\\,\\mathrm{T}$",
+   "$6.28 \\times 10^{-4}\\,\\mathrm{T}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-019",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 19,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "In the given nuclear reaction, the element $X$ is ${}^{22}_{11}\\mathrm{Na} \\rightarrow X + e^{+} + \\nu$",
+  "options": [
+   "${}^{23}_{11}\\mathrm{Na}$",
+   "${}^{23}_{10}\\mathrm{Ne}$",
+   "${}^{22}_{10}\\mathrm{Ne}$",
+   "${}^{22}_{12}\\mathrm{Mg}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-020",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 20,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Given below are two statements\n\nStatement I : Biot-Savart’s law gives us the expression for the magnetic field strength of an infinitesimal current element ($Idl$) of a current carrying conductor only.\n\nStatement II : Biot-Savart’s law is analogous to Coulomb’s inverse square law of charge $q$, with the former being related to the field produced by a scalar source, $Idl$ while the latter being produced by a vector source, $q$.\n\nIn light of above statements choose the most appropriate answer from the options given below",
+  "options": [
+   "Both Statement I and Statement II are correct",
+   "Both Statement I and Statement II are incorrect",
+   "Statement I is correct and Statement II is incorrect",
+   "Statement I is incorrect and Statement II is correct"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-021",
+  "subject": "physics",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 21,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "The ratio of the radius of gyration of a thin uniform disc about an axis passing through its centre and normal to its plane to the radius of gyration of the disc about its diameter is",
+  "options": [
+   "$2 : 1$",
+   "$\\sqrt{2} : 1$",
+   "$4 : 1$",
+   "$1 : \\sqrt{2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-022",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 22,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "The peak voltage of the ac source is equal to",
+  "options": [
+   "The value of voltage supplied to the circuit",
+   "The rms value of the ac source",
+   "$\\sqrt{2}$ times the rms value of the ac source",
+   "$1/\\sqrt{2}$ times the rms value of the ac source"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-023",
+  "subject": "physics",
+  "chapter": "electromagnetic-waves",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 23,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "The energy that will be ideally radiated by a $100\\,\\mathrm{kW}$ transmitter in $1$ hour is",
+  "options": [
+   "$36 \\times 10^{7}\\,\\mathrm{J}$",
+   "$36 \\times 10^{4}\\,\\mathrm{J}$",
+   "$36 \\times 10^{5}\\,\\mathrm{J}$",
+   "$1 \\times 10^{5}\\,\\mathrm{J}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-024",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 24,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "In a Young’s double slit experiment, a student observes $8$ fringes in a certain segment of screen when a monochromatic light of $600\\,\\mathrm{nm}$ wavelength is used. If the wavelength of light is changed to $400\\,\\mathrm{nm}$, then the number of fringes he would observe in the same region of the screen is",
+  "options": [
+   "6",
+   "8",
+   "9",
+   "12"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-025",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 25,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "A square loop of side $1\\,\\mathrm{m}$ and resistance $1\\,\\Omega$ is placed in a magnetic field of $0.5\\,\\mathrm{T}$. If the plane of loop is perpendicular to the direction of magnetic field, the magnetic flux through the loop is",
+  "options": [
+   "2 weber",
+   "0.5 weber",
+   "1 weber",
+   "Zero weber"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-026",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 26,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Two resistors of resistance $100\\,\\Omega$ and $200\\,\\Omega$ are connected in parallel in an electrical circuit. The ratio of the thermal energy developed in $100\\,\\Omega$ to that in $200\\,\\Omega$ in a given time is",
+  "options": [
+   "$1 : 2$",
+   "$2 : 1$",
+   "$1 : 4$",
+   "$4 : 1$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-027",
+  "subject": "physics",
+  "chapter": "motion-in-a-straight-line",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 27,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "The ratio of the distances travelled by a freely falling body in the $1^{st}$, $2^{nd}$, $3^{rd}$ and $4^{th}$ second",
+  "options": [
+   "$1 : 2 : 3 : 4$",
+   "$1 : 4 : 9 : 16$",
+   "$1 : 3 : 5 : 7$",
+   "$1 : 1 : 1 : 1$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-028",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 28,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "A body of mass $60\\,\\mathrm{g}$ experiences a gravitational force of $3.0\\,\\mathrm{N}$, when placed at a particular point. The magnitude of the gravitational field intensity at that point is",
+  "options": [
+   "$0.05\\,\\mathrm{N/kg}$",
+   "$50\\,\\mathrm{N/kg}$",
+   "$20\\,\\mathrm{N/kg}$",
+   "$180\\,\\mathrm{N/kg}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-029",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 29,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "A light ray falls on a glass surface of refractive index $\\sqrt{3}$, at an angle $60^\\circ$. The angle between the refracted and reflected rays would be",
+  "options": [
+   "$30^\\circ$",
+   "$60^\\circ$",
+   "$90^\\circ$",
+   "$120^\\circ$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-030",
+  "subject": "physics",
+  "chapter": "electromagnetic-waves",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 30,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 7,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "When light propagates through a material medium of relative permittivity $\\varepsilon_r$ and relative permeability $\\mu_r$, the velocity of light, $v$ is given by ($c$-velocity of light in vacuum)",
+  "options": [
+   "$v = c$",
+   "$v = \\sqrt{\\frac{\\mu_r}{\\varepsilon_r}}$",
+   "$v = \\sqrt{\\frac{\\varepsilon_r}{\\mu_r}}$",
+   "$v = \\frac{c}{\\sqrt{\\varepsilon_r\\mu_r}}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-031",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 31,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 7,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Two hollow conducting spheres of radii $R_1$ and $R_2$ ($R_1 \\gg R_2$) have equal charges. The potential would be",
+  "options": [
+   "More on bigger sphere",
+   "More on smaller sphere",
+   "Equal on both the spheres",
+   "Dependent on the material property of the sphere"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-032",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 32,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 7,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "A copper wire of length $10\\,\\mathrm{m}$ and radius $\\left(\\frac{10^{-2}}{\\sqrt{\\pi}}\\right)\\,\\mathrm{m}$ has electrical resistance of $10\\,\\Omega$. The current density in the wire for an electric field strength of $10\\,\\mathrm{(V/m)}$ is",
+  "options": [
+   "$10^{4}\\,\\mathrm{A/m^2}$",
+   "$10^{6}\\,\\mathrm{A/m^2}$",
+   "$10^{-5}\\,\\mathrm{A/m^2}$",
+   "$10^{5}\\,\\mathrm{A/m^2}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-033",
+  "subject": "physics",
+  "chapter": "motion-in-a-straight-line",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 33,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 7,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "The displacement-time graphs of two moving particles make angles of $30^\\circ$ and $45^\\circ$ with the $x$-axis as shown in the figure. The ratio of their respective velocity is",
+  "options": [
+   "$\\sqrt{3} : 1$",
+   "$1 : 1$",
+   "$1 : 2$",
+   "$1 : \\sqrt{3}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-neet-2022-physics-033.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-034",
+  "subject": "physics",
+  "chapter": "units-and-measurement",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 34,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 7,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Plane angle and solid angle have",
+  "options": [
+   "Units but no dimensions",
+   "Dimensions but no units",
+   "No units and no dimensions",
+   "Both units and dimensions"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-035",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 35,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 7,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Let $T_1$ and $T_2$ be the energy of an electron in the first and second excited states of hydrogen atoms, respectively. According to the Bohr’s model of an atom, the ratio $T_1 : T_2$ is",
+  "options": [
+   "$1 : 4$",
+   "$4 : 1$",
+   "$4 : 9$",
+   "$9 : 4$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-036",
+  "subject": "physics",
+  "chapter": "units-and-measurement",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 36,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 8,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Match List-I with List-II\n\n| | List-I | | List-II |\n|---|---|---|---|\n| (a) | Gravitational constant (G) | (i) | $[L^2T^{-2}]$ |\n| (b) | Gravitational potential energy | (ii) | $[M^{-1}L^3T^{-2}]$ |\n| (c) | Gravitational potential | (iii) | $[LT^{-2}]$ |\n| (d) | Gravitational intensity | (iv) | $[ML^2T^{-2}]$ |\n\nChoose the correct answer from the options given below",
+  "options": [
+   "(a) - (ii), (b) - (i), (c) - (iv), (d) - (iii)",
+   "(a) - (ii), (b) - (iv), (c) - (i), (d) - (iii)",
+   "(a) - (ii), (b) - (iv), (c) - (iii), (d) - (i)",
+   "(a) - (iv), (b) - (ii), (c) - (i), (d) - (iii)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-037",
+  "subject": "physics",
+  "chapter": "oscillations",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 37,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 8,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Two pendulums of length $121\\,\\mathrm{cm}$ and $100\\,\\mathrm{cm}$ start vibrating in phase. At some instant, the two are at their mean position in the same phase. The minimum number of vibrations of the shorter pendulum after which the two are again in phase at the mean position is:",
+  "options": [
+   "11",
+   "9",
+   "10",
+   "8"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-038",
+  "subject": "physics",
+  "chapter": "units-and-measurement",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 38,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 8,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "The area of a rectangular field (in $\\mathrm{m^2}$) of length $55.3\\,\\mathrm{m}$ and breadth $25\\,\\mathrm{m}$ after rounding off the value for correct significant digits is",
+  "options": [
+   "$138 \\times 10^{1}$",
+   "1382",
+   "1382.5",
+   "$14 \\times 10^{2}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-039",
+  "subject": "physics",
+  "chapter": "motion-in-a-plane",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 39,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 8,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "A ball is projected with a velocity, $10\\,\\mathrm{m\\,s^{-1}}$, at an angle of $60^\\circ$ with the vertical direction. Its speed at the highest point of its trajectory will be",
+  "options": [
+   "Zero",
+   "$5\\sqrt{3}\\,\\mathrm{m\\,s^{-1}}$",
+   "$5\\,\\mathrm{m\\,s^{-1}}$",
+   "$10\\,\\mathrm{m\\,s^{-1}}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-040",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 40,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 8,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "The truth table for the given logic circuit is",
+  "options": [
+   "| A | B | C |\n|---|---|---|\n| 0 | 0 | 0 |\n| 0 | 1 | 1 |\n| 1 | 0 | 1 |\n| 1 | 1 | 0 |",
+   "| A | B | C |\n|---|---|---|\n| 0 | 0 | 1 |\n| 0 | 1 | 0 |\n| 1 | 0 | 0 |\n| 1 | 1 | 1 |",
+   "| A | B | C |\n|---|---|---|\n| 0 | 0 | 1 |\n| 0 | 1 | 0 |\n| 1 | 0 | 1 |\n| 1 | 1 | 0 |",
+   "| A | B | C |\n|---|---|---|\n| 0 | 0 | 0 |\n| 0 | 1 | 1 |\n| 1 | 0 | 0 |\n| 1 | 1 | 1 |"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-neet-2022-physics-040.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-041",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 41,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 9,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "From Ampere’s circuital law for a long straight wire of circular cross-section carrying a steady current, the variation of magnetic field in the inside and outside region of the wire is",
+  "options": [
+   "Uniform and remains constant for both the regions.",
+   "A linearly increasing function of distance upto the boundary of the wire and then linearly decreasing for the outside region.",
+   "A linearly increasing function of distance $r$ upto the boundary of the wire and then decreasing one with $\\frac{1}{r}$ dependence for the outside region.",
+   "A linearly decreasing function of distance upto the boundary of the wire and then a linearly increasing one for the outside region."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-042",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 42,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 9,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "A series LCR circuit with inductance $10\\,\\mathrm{H}$, capacitance $10\\,\\mu\\mathrm{F}$, resistance $50\\,\\Omega$ is connected to an ac source of voltage, $V = 200\\sin(100t)$ volt. If the resonant frequency of the LCR circuit is $v_1$ and the frequency of the ac source is $v$, then",
+  "options": [
+   "$v_0 = v = 50\\,\\mathrm{Hz}$",
+   "$v_0 = v = \\frac{50}{\\pi}\\,\\mathrm{Hz}$",
+   "$v_0 = \\frac{50}{\\pi}\\,\\mathrm{Hz},\\ v = 50\\,\\mathrm{Hz}$",
+   "$v = 100\\,\\mathrm{Hz};\\ v_0 = \\frac{100}{\\pi}\\,\\mathrm{Hz}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-043",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 43,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 9,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Two point charges $-q$ and $+q$ are placed at a distance of $L$, as shown in the figure. The magnitude of electric field intensity at a distance $R(R \\gg L)$ varies as:",
+  "options": [
+   "$\\frac{1}{R^2}$",
+   "$\\frac{1}{R^3}$",
+   "$\\frac{1}{R^4}$",
+   "$\\frac{1}{R^6}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-neet-2022-physics-043.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-044",
+  "subject": "physics",
+  "chapter": "mechanical-properties-of-solids",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 44,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 9,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Given below are two statements : One is labelled as Assertion (A) and the other is labelled as Reason (R).\n\nAssertion (A): The stretching of a spring is determined by the shear modulus of the material of the spring.\n\nReason (R): A coil spring of copper has more tensile strength than a steel spring of same dimensions.\n\nIn the light of the above statements, choose the most appropriate answer from the options given below",
+  "options": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+   "Both (A) and (R) are true and (R) is not the correct explanation of (A)",
+   "(A) is true but (R) is false",
+   "(A) is false but (R) is true"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-045",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 45,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 9,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "A big circular coil of 1000 turns and average radius 10 m is rotating about its horizontal diameter at $2\\,\\mathrm{rad\\,s^{-1}}$. If the vertical component of earth’s magnetic field at that place is $2 \\times 10^{-5}\\,\\mathrm{T}$ and electrical resistance of the coil is $12.56\\,\\Omega$, then the maximum induced current in the coil will be",
+  "options": [
+   "$0.25\\,\\mathrm{A}$",
+   "$1.5\\,\\mathrm{A}$",
+   "$1\\,\\mathrm{A}$",
+   "$2\\,\\mathrm{A}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-046",
+  "subject": "physics",
+  "chapter": "kinetic-theory",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 46,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 10,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "The volume occupied by the molecules contained in $4.5\\,\\mathrm{kg}$ water at STP, if the intermolecular forces vanish away is",
+  "options": [
+   "$5.6 \\times 10^{6}\\,\\mathrm{m^3}$",
+   "$5.6 \\times 10^{3}\\,\\mathrm{m^3}$",
+   "$5.6 \\times 10^{-3}\\,\\mathrm{m^3}$",
+   "$5.6\\,\\mathrm{m^3}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-047",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 47,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 10,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "A capacitor of capacitance $C = 900\\,\\mathrm{pF}$ is charged fully by $100\\,\\mathrm{V}$ battery $B$ as shown in figure (a). Then it is disconnected from the battery and connected to another uncharged capacitor of capacitance $C = 900\\,\\mathrm{pF}$ as shown in figure (b). The electrostatic energy stored by the system (b) is",
+  "options": [
+   "$4.5 \\times 10^{-6}\\,\\mathrm{J}$",
+   "$3.25 \\times 10^{-6}\\,\\mathrm{J}$",
+   "$2.25 \\times 10^{-6}\\,\\mathrm{J}$",
+   "$1.5 \\times 10^{-6}\\,\\mathrm{J}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-neet-2022-physics-047.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-048",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 48,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 10,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "A wheatstone bridge is used to determine the value of unknown resistance $X$ by adjusting the variable resistance $Y$ as shown in the figure. For the most precise measurement of $X$, the resistances $P$ and $Q$",
+  "options": [
+   "should be approximately equal to $2X$",
+   "should be approximately equal and are small",
+   "should be very large and unequal",
+   "do not play any significant role"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-neet-2022-physics-048.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-049",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 49,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 10,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "Two transparent media $A$ and $B$ are separated by a plane boundary. The speed of light in those media are $1.5 \\times 10^{8}\\,\\mathrm{m/s}$ and $2.0 \\times 10^{8}\\,\\mathrm{m/s}$, respectively. The critical angle for a ray of light for these two media is",
+  "options": [
+   "$\\sin^{-1}(0.500)$",
+   "$\\sin^{-1}(0.750)$",
+   "$\\tan^{-1}(0.500)$",
+   "$\\tan^{-1}(0.750)$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2022-physics-050",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2022",
+   "year": 2022,
+   "version": "Q1",
+   "number": 50,
+   "file": "sources/third-party/neet/2022-Q1/neet-2022-Q1-question_paper-aakash.pdf",
+   "page": 10,
+   "key_file": "sources/third-party/neet/2022-Q1/neet-2022-allsets-answer_key-nta.pdf"
+  },
+  "stem": "A nucleus of mass number $189$ splits into two nuclei having mass number $125$ and $64$. The ratio of radius of two daughter nuclei respectively is",
+  "options": [
+   "$1 : 1$",
+   "$4 : 5$",
+   "$5 : 4$",
+   "$25 : 16$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

@@ -1,0 +1,433 @@
+[
+ {
+  "id": "tp-ncert-math-11-ch06-019",
+  "subject": "mathematics",
+  "chapter": "linear-inequalities",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 19,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep206.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "If $x < 5$, then",
+  "options": [
+   "$-x < -5$",
+   "$-x \\le -5$",
+   "$-x > -5$",
+   "$-x \\ge -5$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch06-020",
+  "subject": "mathematics",
+  "chapter": "linear-inequalities",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 20,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep206.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "Given that $x$, $y$ and $b$ are real numbers and $x < y$, $b < 0$, then",
+  "options": [
+   "$\\frac{x}{b} < \\frac{y}{b}$",
+   "$\\frac{x}{b} \\le \\frac{y}{b}$",
+   "$\\frac{x}{b} > \\frac{y}{b}$",
+   "$\\frac{x}{b} \\ge \\frac{y}{b}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch06-021",
+  "subject": "mathematics",
+  "chapter": "linear-inequalities",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 21,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep206.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "If $-3x + 17 < -13$, then",
+  "options": [
+   "$x \\in (10, \\infty)$",
+   "$x \\in [10, \\infty)$",
+   "$x \\in (-\\infty, 10]$",
+   "$x \\in [-10, 10)$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch06-022",
+  "subject": "mathematics",
+  "chapter": "linear-inequalities",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 22,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep206.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "If $x$ is a real number and $|x| < 3$, then",
+  "options": [
+   "$x \\ge 3$",
+   "$-3 < x < 3$",
+   "$x \\le -3$",
+   "$-3 \\le x \\le 3$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch06-023",
+  "subject": "mathematics",
+  "chapter": "linear-inequalities",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 23,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep206.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "$x$ and $b$ are real numbers. If $b > 0$ and $|x| > b$, then",
+  "options": [
+   "$x \\in (-b, \\infty)$",
+   "$x \\in [-\\infty, b)$",
+   "$x \\in (-b, b)$",
+   "$x \\in (-\\infty, -b) \\cup (b, \\infty)$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch06-024",
+  "subject": "mathematics",
+  "chapter": "linear-inequalities",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 24,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep206.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "If $|x-1| > 5$, then",
+  "options": [
+   "$x \\in (-4, 6)$",
+   "$x \\in [-4, 6]$",
+   "$x \\in [-\\infty, -4) \\cup (6, \\infty)$",
+   "$x \\in [-\\infty, -4) \\cup [6, \\infty)$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch06-025",
+  "subject": "mathematics",
+  "chapter": "linear-inequalities",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 25,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep206.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "If $|x+2| \\le 9$, then",
+  "options": [
+   "$x \\in (-7, 11)$",
+   "$x \\in [-11, 7]$",
+   "$x \\in (-\\infty, -7) \\cup (11, \\infty)$",
+   "$x \\in (-\\infty, -7) \\cup [11, \\infty)$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch06-026",
+  "subject": "mathematics",
+  "chapter": "linear-inequalities",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 26,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep206.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The inequality representing the following graph is:",
+  "options": [
+   "$|x| < 5$",
+   "$|x| \\le 5$",
+   "$|x| > 5$",
+   "$|x| \\ge 5$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-ncert-math-11-ch06-026.png"
+  ],
+  "status": "flagged",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "disputed",
+   "notes": "Key (read correctly from k0-06: 26. A) says |x|<5, but Fig 6.7 shows a shaded band with solid, undashed edges at -5 and 5, which conventionally means |x|<=5 (B). Transcription verified exact. Printed NCERT key is A, likely treating the graph loosely; flag for human decision.",
+   "status_reason": "solver disagrees with unofficial key"
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch06-027",
+  "subject": "mathematics",
+  "chapter": "linear-inequalities",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 27,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep206.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "Solution of a linear inequality in variable $x$ is represented on number line in Exercises 27 to 30.",
+  "options": [
+   "$x \\in (-\\infty, 5)$",
+   "$x \\in (-\\infty, 5]$",
+   "$x \\in [5, \\infty,)$",
+   "$x \\in (5, \\infty)$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-ncert-math-11-ch06-027.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "key_confirmed",
+   "notes": "Open circle at 5, arrow right: (5, infinity) = D; key D matches and the transcription is exact."
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch06-028",
+  "subject": "mathematics",
+  "chapter": "linear-inequalities",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 28,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep206.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "Solution of a linear inequality in variable $x$ is represented on number line in Exercises 27 to 30.",
+  "options": [
+   "$x \\in (\\frac{9}{2}, \\infty)$",
+   "$x \\in [\\frac{9}{2}, \\infty)$",
+   "$x \\in [-\\infty, \\frac{9}{2})$",
+   "$x \\in (-\\infty, \\frac{9}{2}]$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-math-11-ch06-028.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch06-029",
+  "subject": "mathematics",
+  "chapter": "linear-inequalities",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 29,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep206.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "Solution of a linear inequality in variable $x$ is represented on number line in Exercises 27 to 30.",
+  "options": [
+   "$x \\in (-\\infty, \\frac{7}{2})$",
+   "$x \\in (-\\infty, \\frac{7}{2}]$",
+   "$x \\in [\\frac{7}{2}, -\\infty)$",
+   "$x \\in (\\frac{7}{2}, \\infty)$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-ncert-math-11-ch06-029.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch06-030",
+  "subject": "mathematics",
+  "chapter": "linear-inequalities",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 30,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep206.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "Solution of a linear inequality in variable $x$ is represented on number line in Exercises 27 to 30.",
+  "options": [
+   "$x \\in (-\\infty, -2)$",
+   "$x \\in (-\\infty, -2]$",
+   "$x \\in (-2, \\infty]$",
+   "$x \\in [-2, \\infty)$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-math-11-ch06-030.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

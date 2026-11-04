@@ -1,0 +1,1770 @@
+[
+ {
+  "id": "tp-neet-2021-chemistry-051",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 51,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 9,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "Which one among the following is the correct option for right relationship between $C_P$ and $C_V$ for one mole of ideal gas ?",
+  "options": [
+   "$C_P + C_V = R$",
+   "$C_P - C_V = R$",
+   "$C_P = RC_V$",
+   "$C_V = RC_P$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "key_confirmed",
+   "notes": "Cp - Cv = R; transcription matches page 9; solver miss"
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-052",
+  "subject": "chemistry",
+  "chapter": "the-solid-state",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 52,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 9,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "The correct option for the number of body centred unit cells in all 14 types of Bravais lattice unit cells is :",
+  "options": [
+   "7",
+   "5",
+   "2",
+   "3"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-053",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-12",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 53,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 9,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "Noble gases are named because of their inertness towards reactivity. Identify an incorrect statement about them.",
+  "options": [
+   "Noble gases are sparingly soluble in water.",
+   "Noble gases have very high melting and boiling points.",
+   "Noble gases have weak dispersion forces.",
+   "Noble gases have large positive values of electron gain enthalpy."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-054",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 54,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 9,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "The major product formed in dehydrohalogenation reaction of 2-Bromo pentane is Pent-2-ene. This product formation is based on ?",
+  "options": [
+   "Saytzeff’s Rule",
+   "Hund’s Rule",
+   "Hofmann Rule",
+   "Huckel’s Rule"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-055",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 55,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 9,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "The compound which shows metamerism is :",
+  "options": [
+   "$\\mathrm{C_5H_{12}}$",
+   "$\\mathrm{C_3H_8O}$",
+   "$\\mathrm{C_3H_6O}$",
+   "$\\mathrm{C_4H_{10}O}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-056",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 56,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 9,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "$\\mathrm{BF_3}$ is planar and electron deficient compound. Hybridization and number of electrons around the central atom, respectively are :",
+  "options": [
+   "$sp^3$ and 4",
+   "$sp^3$ and 6",
+   "$sp^2$ and 6",
+   "$sp^2$ and 8"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-057",
+  "subject": "chemistry",
+  "chapter": "surface-chemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 57,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 9,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "The right option for the statement “Tyndall effect is exhibited by”, is :",
+  "options": [
+   "NaCl solution",
+   "Glucose solution",
+   "Starch solution",
+   "Urea solution"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-058",
+  "subject": "chemistry",
+  "chapter": "the-s-block-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 58,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 10,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "Among the following alkaline earth metal halides, one which is covalent and soluble in organic solvents is :",
+  "options": [
+   "Calcium chloride",
+   "Strontium chloride",
+   "Magnesium chloride",
+   "Beryllium chloride"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-059",
+  "subject": "chemistry",
+  "chapter": "general-principles-and-processes-of-isolation-of-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 59,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 10,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "Which one of the following methods can be used to obtain highly pure metal which is liquid at room temperature ?",
+  "options": [
+   "Electrolysis",
+   "Chromatography",
+   "Distillation",
+   "Zone refining"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-060",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 60,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 10,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "For a reaction A$\\rightarrow$B, enthalpy of reaction is $-4.2\\ \\mathrm{kJ\\,mol^{-1}}$ and enthalpy of activation is $9.6\\ \\mathrm{kJ\\,mol^{-1}}$. The correct potential energy profile for the reaction is shown in option.",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-neet-2021-chemistry-060.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-061",
+  "subject": "chemistry",
+  "chapter": "polymers",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 61,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 10,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "Which one of the following polymers is prepared by addition polymerisation ?",
+  "options": [
+   "Teflon",
+   "Nylon-66",
+   "Novolac",
+   "Dacron"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-062",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 62,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 10,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "The major product of the following chemical reaction is :\n\n$\\mathrm{(CH_3)_2CH{-}CH{=}CH_2 + HBr \\xrightarrow{(C_6H_5CO)_2O_2} ?}$",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-neet-2021-chemistry-062.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-063",
+  "subject": "chemistry",
+  "chapter": "states-of-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 63,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 11,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "Choose the correct option for graphical representation of Boyle’s law, which shows a graph of pressure vs. volume of a gas at different temperatures :",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-neet-2021-chemistry-063.png"
+  ],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-064",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 64,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 11,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "Dihedral angle of least stable conformer of ethane is :",
+  "options": [
+   "$120^\\circ$",
+   "$180^\\circ$",
+   "$60^\\circ$",
+   "$0^\\circ$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-065",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 65,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 11,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "An organic compound contains 78% (by wt.) carbon and remaining percentage of hydrogen. The right option for the empirical formula of this compound is : [Atomic wt. of C is 12, H is 1]",
+  "options": [
+   "$\\mathrm{CH}$",
+   "$\\mathrm{CH_2}$",
+   "$\\mathrm{CH_3}$",
+   "$\\mathrm{CH_4}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-066",
+  "subject": "chemistry",
+  "chapter": "general-principles-and-processes-of-isolation-of-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 66,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 11,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "The maximum temperature that can be achieved in blast furnace is :",
+  "options": [
+   "upto $1200\\,\\mathrm{K}$",
+   "upto $2200\\,\\mathrm{K}$",
+   "upto $1900\\,\\mathrm{K}$",
+   "upto $5000\\,\\mathrm{K}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-067",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 67,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 11,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "The following solutions were prepared by dissolving 10 g of glucose $\\mathrm{(C_6H_{12}O_6)}$ in 250 ml of water $(P_1)$, 10 g of urea $\\mathrm{(CH_4N_2O)}$ in 250 ml of water $(P_2)$ and 10 g of sucrose $\\mathrm{(C_{12}H_{22}O_{11})}$ in 250 ml of water $(P_3)$. The right option for the decreasing order of osmotic pressure of these solutions is :",
+  "options": [
+   "$P_2 > P_1 > P_3$",
+   "$P_1 > P_2 > P_3$",
+   "$P_2 > P_3 > P_1$",
+   "$P_3 > P_1 > P_2$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-068",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 68,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 11,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "Zr (Z $=40$) and Hf (Z $=72$) have similar atomic and ionic radii because of :",
+  "options": [
+   "belonging to same group",
+   "diagonal relationship",
+   "lanthanoid contraction",
+   "having similar chemical properties"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-069",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 69,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 11,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "The molar conductance of NaCl, HCl and $\\mathrm{CH_3COONa}$ at infinite dilution are 126.45, 426.16 and 91.0 $\\mathrm{S\\,cm^2\\,mol^{-1}}$ respectively. The molar conductance of $\\mathrm{CH_3COOH}$ at infinite dilution is. Choose the right option for your answer.",
+  "options": [
+   "$201.28\\ \\mathrm{S\\,cm^2\\,mol^{-1}}$",
+   "$390.71\\ \\mathrm{S\\,cm^2\\,mol^{-1}}$",
+   "$698.28\\ \\mathrm{S\\,cm^2\\,mol^{-1}}$",
+   "$540.48\\ \\mathrm{S\\,cm^2\\,mol^{-1}}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-070",
+  "subject": "chemistry",
+  "chapter": "the-solid-state",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 70,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 11,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "Right option for the number of tetrahedral and octahedral voids in hexagonal primitive unit cell are :",
+  "options": [
+   "8, 4",
+   "6, 12",
+   "2, 1",
+   "12, 6"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "key_confirmed",
+   "notes": "hcp has 12 tetrahedral and 6 octahedral voids; transcription matches page 11"
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-071",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 71,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 11,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "A particular station of All India Radio, New Delhi, broadcasts on a frequency of 1,368 kHz (kilohertz). The wavelength of the electromagnetic radiation emitted by the transmitter is : [speed of light, $c=3.0\\times10^{8}\\,\\mathrm{m\\,s^{-1}}$]",
+  "options": [
+   "$219.3\\,\\mathrm{m}$",
+   "$219.2\\,\\mathrm{m}$",
+   "$2192\\,\\mathrm{m}$",
+   "$21.92\\,\\mathrm{cm}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-072",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 72,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 11,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "Ethylene diaminetetraacetate (EDTA) ion is :",
+  "options": [
+   "Hexadentate ligand with four “O” and two “N” donor atoms",
+   "Unidentate ligand",
+   "Bidentate ligand with two “N” donor atoms",
+   "Tridentate ligand with three “N” donor atoms"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-073",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 73,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "The correct sequence of bond enthalpy of ‘C–X’ bond is :",
+  "options": [
+   "$\\mathrm{CH_3{-}F < CH_3{-}Cl < CH_3{-}Br < CH_3{-}I}$",
+   "$\\mathrm{CH_3{-}F > CH_3{-}Cl > CH_3{-}Br > CH_3{-}I}$",
+   "$\\mathrm{CH_3{-}F < CH_3{-}Cl > CH_3{-}Br > CH_3{-}I}$",
+   "$\\mathrm{CH_3{-}Cl > CH_3{-}F > CH_3{-}Br > CH_3{-}I}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-074",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 74,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "The $\\mathrm{pK_b}$ of dimethylamine and $\\mathrm{pK_a}$ of acetic acid are 3.27 and 4.77 respectively at T (K). The correct option for the pH of dimethylammonium acetate solution is :",
+  "options": [
+   "8.50",
+   "5.50",
+   "7.75",
+   "6.25"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-075",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 75,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "The structures of beryllium chloride in solid state and vapour phase, are :",
+  "options": [
+   "Chain and dimer, respectively",
+   "Linear in both",
+   "Dimer and Linear, respectively",
+   "Chain in both"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-076",
+  "subject": "chemistry",
+  "chapter": "chemistry-in-everyday-life",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 76,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "Given below are two statements :\n\nStatement I : Aspirin and Paracetamol belong to the class of narcotic analgesics.\n\nStatement II : Morphine and Heroin are non-narcotic analgesics.\n\nIn the light of the above statements, choose the correct answer from the options given below.",
+  "options": [
+   "Both Statement I and Statement II are true.",
+   "Both Statement I and Statement II are false.",
+   "Statement I is correct but Statement II is false.",
+   "Statement I is incorrect but Statement II is true."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-077",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 77,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "Match List - I with List - II.\n\nList - I\n\n(a) $\\mathrm{PCl_5}$\n\n(b) $\\mathrm{SF_6}$\n\n(c) $\\mathrm{BrF_5}$\n\n(d) $\\mathrm{BF_3}$\n\nList - II\n\n(i) Square pyramidal\n\n(ii) Trigonal planar\n\n(iii) Octahedral\n\n(iv) Trigonal bipyramidal\n\nChoose the correct answer from the options given below.",
+  "options": [
+   "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+   "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+   "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+   "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-078",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-12",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 78,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "Statement I :\n\nAcid strength increases in the order given as $\\mathrm{HF \\ll HCl \\ll HBr \\ll HI}$.\n\nStatement II :\n\nAs the size of the elements F, Cl, Br, I increases down the group, the bond strength of HF, HCl, HBr and HI decreases and so the acid strength increases.\n\nIn the light of the above statements, choose the correct answer from the options given below.",
+  "options": [
+   "Both Statement I and Statement II are true.",
+   "Both Statement I and Statement II are false.",
+   "Statement I is correct but Statement II is false.",
+   "Statement I is incorrect but Statement II is true."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-079",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 79,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "Identify the compound that will react with Hinsberg’s reagent to give a solid which dissolves in alkali.",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-neet-2021-chemistry-079.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-080",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 80,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "What is the IUPAC name of the organic compound formed in the following chemical reaction ?\n\n$\\mathrm{Acetone} \\xrightarrow[\\mathrm{(ii)\\ H_2O,\\ H^+}]{\\mathrm{(i)\\ C_2H_5MgBr,\\ dry\\ Ether}} \\mathrm{Product}$",
+  "options": [
+   "2-methyl propan-2-ol",
+   "pentan-2-ol",
+   "pentan-3-ol",
+   "2-methyl butan-2-ol"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-081",
+  "subject": "chemistry",
+  "chapter": "redox-reactions",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 81,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "Which of the following reactions is the metal displacement reaction ? Choose the right option.",
+  "options": [
+   "$\\mathrm{2KClO_3 \\xrightarrow{\\Delta} 2KCl + 3O_2}$",
+   "$\\mathrm{Cr_2O_3 + 2Al \\xrightarrow{\\Delta} Al_2O_3 + 2Cr}$",
+   "$\\mathrm{Fe + 2HCl \\rightarrow FeCl_2 + H_2\\uparrow}$",
+   "$\\mathrm{2Pb(NO_3)_2 \\rightarrow 2PbO + 4NO_2 + O_2\\uparrow}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-082",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 82,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "The correct structure of 2,6-Dimethyl-dec-4-ene is :",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-neet-2021-chemistry-082.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-083",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 83,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "The incorrect statement among the following is :",
+  "options": [
+   "Actinoid contraction is greater for element to element than Lanthanoid contraction.",
+   "Most of the trivalent Lanthanoid ions are colorless in the solid state.",
+   "Lanthanoids are good conductors of heat and electricity.",
+   "Actinoids are highly reactive metals, especially when finely divided."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-084",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 84,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "The RBC deficiency is deficiency disease of :",
+  "options": [
+   "Vitamin $B_{12}$",
+   "Vitamin $B_6$",
+   "Vitamin $B_1$",
+   "Vitamin $B_2$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-085",
+  "subject": "chemistry",
+  "chapter": "hydrogen",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 85,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "Tritium, a radioactive isotope of hydrogen, emits which of the following particles ?",
+  "options": [
+   "Beta ($\\beta^-$)",
+   "Alpha ($\\alpha$)",
+   "Gamma ($\\gamma$)",
+   "Neutron (n)"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-086",
+  "subject": "chemistry",
+  "chapter": "environmental-chemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 86,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "Match List - I with List - II.\n\nList - I\n\n(a) $\\mathrm{2SO_2(g) + O_2(g) \\rightarrow 2SO_3(g)}$\n\n(b) $\\mathrm{HOCl(g) \\xrightarrow{h\\nu} \\dot{O}H + \\dot{C}l}$\n\n(c) $\\mathrm{CaCO_3 + H_2SO_4 \\rightarrow CaSO_4 + H_2O + CO_2}$\n\n(d) $\\mathrm{NO_2(g)} \\xrightarrow{h\\nu} \\mathrm{NO(g) + O(g)}$\n\nList - II\n\n(i) Acid rain\n\n(ii) Smog\n\n(iii) Ozone depletion\n\n(iv) Tropospheric pollution\n\nChoose the correct answer from the options given below.",
+  "options": [
+   "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+   "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+   "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+   "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-087",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 87,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "$\\mathrm{CH_3CH_2COO^-Na^+} \\xrightarrow[\\mathrm{Heat}]{\\mathrm{NaOH,\\ +\\ ?}} \\mathrm{CH_3CH_3 + Na_2CO_3}$.\n\nConsider the above reaction and identify the missing reagent/chemical.",
+  "options": [
+   "$\\mathrm{B_2H_6}$",
+   "Red Phosphorus",
+   "$\\mathrm{CaO}$",
+   "DIBAL-H"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-088",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 88,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "The product formed in the following chemical reaction is :\n\n(reactant drawn in figure) $\\xrightarrow[\\mathrm{C_2H_5OH}]{\\mathrm{NaBH_4}}$ ?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-neet-2021-chemistry-088.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-089",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 89,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "Match List - I with List - II.\n\nList - I\n\n(a) $\\mathrm{[Fe(CN)_6]^{3-}}$\n\n(b) $\\mathrm{[Fe(H_2O)_6]^{3+}}$\n\n(c) $\\mathrm{[Fe(CN)_6]^{4-}}$\n\n(d) $\\mathrm{[Fe(H_2O)_6]^{2+}}$\n\nList - II\n\n(i) 5.92 BM\n\n(ii) 0 BM\n\n(iii) 4.90 BM\n\n(iv) 1.73 BM\n\nChoose the correct answer from the options given below.",
+  "options": [
+   "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+   "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+   "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+   "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-090",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 90,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "From the following pairs of ions which one is not an iso-electronic pair ?",
+  "options": [
+   "$\\mathrm{O^{2-}, F^-}$",
+   "$\\mathrm{Na^+, Mg^{2+}}$",
+   "$\\mathrm{Mn^{2+}, Fe^{3+}}$",
+   "$\\mathrm{Fe^{2+}, Mn^{2+}}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-091",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 91,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "The reagent ‘R’ in the given sequence of chemical reaction is :",
+  "options": [
+   "$\\mathrm{H_2O}$",
+   "$\\mathrm{CH_3CH_2OH}$",
+   "HI",
+   "CuCN/KCN"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-neet-2021-chemistry-091.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-092",
+  "subject": "chemistry",
+  "chapter": "states-of-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 92,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "Choose the correct option for the total pressure (in atm.) in a mixture of 4 g $\\mathrm{O_2}$ and 2 g $\\mathrm{H_2}$ confined in a total volume of one litre at 0°C is :\n\n[Given $R = 0.082\\ \\mathrm{L\\,atm\\,mol^{-1}K^{-1}}$, $T = 273\\ \\mathrm{K}$]",
+  "options": [
+   "2.518",
+   "2.602",
+   "25.18",
+   "26.02"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-093",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 93,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "Which of the following molecules is non-polar in nature ?",
+  "options": [
+   "$\\mathrm{POCl_3}$",
+   "$\\mathrm{CH_2O}$",
+   "$\\mathrm{SbCl_5}$",
+   "$\\mathrm{NO_2}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-094",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-12",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 94,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "In which one of the following arrangements the given sequence is not strictly according to the properties indicated against it ?",
+  "options": [
+   "$\\mathrm{HF < HCl < HBr < HI}$ : Increasing acidic strength",
+   "$\\mathrm{H_2O < H_2S < H_2Se < H_2Te}$ : Increasing $\\mathrm{pK_a}$ values",
+   "$\\mathrm{NH_3 < PH_3 < AsH_3 < SbH_3}$ : Increasing acidic character",
+   "$\\mathrm{CO_2 < SiO_2 < SnO_2 < PbO_2}$ : Increasing oxidizing power"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-095",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 95,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "The correct option for the value of vapour pressure of a solution at 45°C with benzene to octane in molar ratio 3 : 2 is :\n\n[At 45°C vapour pressure of benzene is 280 mm Hg and that of octane is 420 mm Hg. Assume Ideal gas]",
+  "options": [
+   "160 mm of Hg",
+   "168 mm of Hg",
+   "336 mm of Hg",
+   "350 mm of Hg"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-096",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 96,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "The molar conductivity of 0.007 M acetic acid is 20 $\\mathrm{S\\,cm^2\\,mol^{-1}}$. What is the dissociation constant of acetic acid ? Choose the correct option.\n\n$$\\begin{bmatrix}\\Lambda^\\circ_{\\mathrm{H^+}} = 350\\ \\mathrm{S\\,cm^2\\,mol^{-1}} \\\\ \\Lambda^\\circ_{\\mathrm{CH_3COO^-}} = 50\\ \\mathrm{S\\,cm^2\\,mol^{-1}}\\end{bmatrix}$$",
+  "options": [
+   "$1.75\\times10^{-4}\\ \\mathrm{mol\\,L^{-1}}$",
+   "$2.50\\times10^{-4}\\ \\mathrm{mol\\,L^{-1}}$",
+   "$1.75\\times10^{-5}\\ \\mathrm{mol\\,L^{-1}}$",
+   "$2.50\\times10^{-5}\\ \\mathrm{mol\\,L^{-1}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-097",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 97,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "The slope of Arrhenius Plot $\\left(\\ln k \\text{ v/s } \\frac{1}{T}\\right)$ of first order reaction is $-5\\times10^{3}\\ \\mathrm{K}$. The value of $E_a$ of the reaction is. Choose the correct option for your answer.\n\n[Given $R = 8.314\\ \\mathrm{JK^{-1}mol^{-1}}$]",
+  "options": [
+   "$41.5\\ \\mathrm{kJ\\,mol^{-1}}$",
+   "$83.0\\ \\mathrm{kJ\\,mol^{-1}}$",
+   "$166\\ \\mathrm{kJ\\,mol^{-1}}$",
+   "$-83\\ \\mathrm{kJ\\,mol^{-1}}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-098",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 98,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "Match List - I with List - II.\n\nList - I\n\n(a) (benzene ring, see figure) $\\xrightarrow[\\text{Anhyd. }\\mathrm{AlCl_3}/\\mathrm{CuCl}]{\\text{CO, HCl}}$\n\n(b) $\\mathrm{R{-}CO{-}CH_3 + NaOX \\rightarrow}$\n\n(c) $\\mathrm{R{-}CH_2{-}OH + R'COOH \\xrightarrow{Conc.\\ H_2SO_4}}$\n\n(d) $\\mathrm{R{-}CH_2COOH \\xrightarrow[(ii)\\ H_2O]{(i)\\ X_2/Red\\ P}}$\n\nList - II\n\n(i) Hell-Volhard-Zelinsky reaction\n\n(ii) Gattermann-Koch reaction\n\n(iii) Haloform reaction\n\n(iv) Esterification\n\nChoose the correct answer from the options given below.",
+  "options": [
+   "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+   "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+   "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
+   "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-neet-2021-chemistry-098.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-099",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 99,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "The intermediate compound ‘X’ in the following chemical reaction is :\n\n$\\mathrm{C_6H_5CH_3 + CrO_2Cl_2} \\xrightarrow{\\mathrm{CS_2}} \\mathrm{X} \\xrightarrow{\\mathrm{H_3O^+}} \\mathrm{C_6H_5CHO}$",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-neet-2021-chemistry-099.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-chemistry-100",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 100,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "For irreversible expansion of an ideal gas under isothermal condition, the correct option is :",
+  "options": [
+   "$\\Delta U = 0,\\ \\Delta S_{\\text{total}} = 0$",
+   "$\\Delta U \\neq 0,\\ \\Delta S_{\\text{total}} \\neq 0$",
+   "$\\Delta U = 0,\\ \\Delta S_{\\text{total}} \\neq 0$",
+   "$\\Delta U \\neq 0,\\ \\Delta S_{\\text{total}} = 0$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

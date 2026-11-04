@@ -9,6 +9,11 @@ for r in res:
     if r.get("failed") or not os.path.isdir(wd):
         print(f"{j}: FAILED"); continue
     json.dump(r.get("recon") or {}, open(os.path.join(wd, "reconcile_summary.json"), "w"), indent=1)
+    vpath = os.path.join(wd, "verify.json")
+    if not os.path.exists(vpath) and r.get("verify") is not None and not (r["verify"].get("disputed") or []):
+        # verifier found nothing to check and skipped writing its file
+        json.dump({"items": []}, open(vpath, "w"))
+        print(f"{j}: wrote empty verify.json (no disagreements)")
     try:
         k = json.load(open(os.path.join(wd, "key.json")))["answers"]; s = json.load(open(os.path.join(wd, "solve.json")))["answers"]
         keyed = [n for n, v in k.items() if v.get("options")]

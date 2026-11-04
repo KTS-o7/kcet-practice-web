@@ -1,0 +1,356 @@
+[
+ {
+  "id": "tp-ncert-phys-11-ch04-001",
+  "subject": "physics",
+  "chapter": "motion-in-a-plane",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep304.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "The angle between $\\vec{A} = \\hat{i} + \\hat{j}$ and $\\vec{B} = \\hat{i} - \\hat{j}$ is",
+  "options": [
+   "$45^\\circ$",
+   "$90^\\circ$",
+   "$-45^\\circ$",
+   "$180^\\circ$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch04-002",
+  "subject": "physics",
+  "chapter": "motion-in-a-plane",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep304.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "Which one of the following statements is true?",
+  "options": [
+   "A scalar quantity is the one that is conserved in a process.",
+   "A scalar quantity is the one that can never take negative values.",
+   "A scalar quantity is the one that does not vary from one point to another in space.",
+   "A scalar quantity has the same value for observers with different orientations of the axes."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch04-003",
+  "subject": "physics",
+  "chapter": "motion-in-a-plane",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep304.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "Figure 4.1 shows the orientation of two vectors $\\vec{u}$ and $\\vec{v}$ in the $XY$ plane. If $\\vec{u} = a\\hat{i} + b\\hat{j}$ and $\\vec{v} = p\\hat{i} + q\\hat{j}$, which of the following is correct?",
+  "options": [
+   "$a$ and $p$ are positive while $b$ and $q$ are negative.",
+   "$a$, $p$ and $b$ are positive while $q$ is negative.",
+   "$a$, $q$ and $b$ are positive while $p$ is negative.",
+   "$a$, $b$, $p$ and $q$ are all positive."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-phys-11-ch04-003.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch04-004",
+  "subject": "physics",
+  "chapter": "motion-in-a-plane",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep304.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "The component of a vector $\\vec{r}$ along $X$-axis will have maximum value if",
+  "options": [
+   "$\\vec{r}$ is along positive $Y$-axis",
+   "$\\vec{r}$ is along positive $X$-axis",
+   "$\\vec{r}$ makes an angle of $45^\\circ$ with the $X$-axis",
+   "$\\vec{r}$ is along negative $Y$-axis"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch04-005",
+  "subject": "physics",
+  "chapter": "motion-in-a-plane",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep304.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "The horizontal range of a projectile fired at an angle of $15^\\circ$ is $50\\,\\mathrm{m}$. If it is fired with the same speed at an angle of $45^\\circ$, its range will be",
+  "options": [
+   "$60\\,\\mathrm{m}$",
+   "$71\\,\\mathrm{m}$",
+   "$100\\,\\mathrm{m}$",
+   "$141\\,\\mathrm{m}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch04-006",
+  "subject": "physics",
+  "chapter": "motion-in-a-plane",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep304.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "Consider the quantities, pressure, power, energy, impulse, gravitational potential, electrical charge, temperature, area. Out of these, the only vector quantities are",
+  "options": [
+   "Impulse, pressure and area",
+   "Impulse and area",
+   "Area and gravitational potential",
+   "Impulse and pressure"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch04-007",
+  "subject": "physics",
+  "chapter": "motion-in-a-plane",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 7,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep304.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "In a two dimensional motion, instantaneous speed $v_0$ is a positive constant. Then which of the following are necessarily true?",
+  "options": [
+   "The average velocity is not zero at any time.",
+   "Average acceleration must always vanish.",
+   "Displacements in equal time intervals are equal.",
+   "Equal path lengths are traversed in equal intervals."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch04-008",
+  "subject": "physics",
+  "chapter": "motion-in-a-plane",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 8,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep304.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "In a two dimensional motion, instantaneous speed $v_0$ is a positive constant. Then which of the following are necessarily true?",
+  "options": [
+   "The acceleration of the particle is zero.",
+   "The acceleration of the particle is bounded.",
+   "The acceleration of the particle is necessarily in the plane of motion.",
+   "The particle must be undergoing a uniform circular motion"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch04-009",
+  "subject": "physics",
+  "chapter": "motion-in-a-plane",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 9,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep304.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "Three vectors $\\vec{A}$, $\\vec{B}$ and $\\vec{C}$ add up to zero. Find which is false.",
+  "options": [
+   "$(\\vec{A}\\times\\vec{B})\\times\\vec{C}$ is not zero unless $\\vec{B}$, $\\vec{C}$ are parallel",
+   "$(\\vec{A}\\times\\vec{B})\\cdot\\vec{C}$ is not zero unless $\\vec{B}$, $\\vec{C}$ are parallel",
+   "If $\\vec{A}$, $\\vec{B}$, $\\vec{C}$ define a plane, $(\\vec{A}\\times\\vec{B})\\times\\vec{C}$ is in that plane",
+   "$(\\vec{A}\\times\\vec{B})\\cdot\\vec{C} = |\\vec{A}||\\vec{B}||\\vec{C}| \\rightarrow C^2 = A^2 + B^2$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "disputed",
+   "notes": "Key (c) read correctly from printed key, but (c) is true ((AxB)xC is perpendicular to plane normal so lies in plane); (b) is false since A+B+C=0 makes (AxB).C=0 always. NCERT key error.",
+   "status_reason": "solver disagrees with unofficial key"
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch04-010",
+  "subject": "physics",
+  "chapter": "motion-in-a-plane",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 10,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep304.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "It is found that $|\\vec{A}+\\vec{B}| = |\\vec{A}|$. This necessarily implies,",
+  "options": [
+   "$\\vec{B} = 0$",
+   "$\\vec{A}$, $\\vec{B}$ are antiparallel",
+   "$\\vec{A}$, $\\vec{B}$ are perpendicular",
+   "$\\vec{A}\\cdot\\vec{B} \\le 0$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "disputed",
+   "notes": "Key (b) read correctly, but |A+B|=|A| gives A.B=-B^2/2<=0, so only (d) necessarily follows; antiparallel is just a special case (B=-2A) not necessary.",
+   "status_reason": "solver disagrees with unofficial key"
+  }
+ }
+]

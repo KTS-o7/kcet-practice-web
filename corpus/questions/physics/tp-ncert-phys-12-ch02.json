@@ -1,0 +1,218 @@
+[
+ {
+  "id": "tp-ncert-phys-12-ch02-001",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep102.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "A capacitor of $4\\,\\mu\\mathrm{F}$ is connected as shown in the circuit (Fig. 2.1). The internal resistance of the battery is $0.5\\,\\Omega$. The amount of charge on the capacitor plates will be",
+  "options": [
+   "$0$",
+   "$4\\,\\mu\\mathrm{C}$",
+   "$16\\,\\mu\\mathrm{C}$",
+   "$8\\,\\mu\\mathrm{C}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-ncert-phys-12-ch02-001.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch02-002",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep102.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "A positively charged particle is released from rest in an uniform electric field. The electric potential energy of the charge",
+  "options": [
+   "remains a constant because the electric field is uniform.",
+   "increases because the charge moves along the electric field.",
+   "decreases because the charge moves along the electric field.",
+   "decreases because the charge moves opposite to the electric field."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch02-003",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep102.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "Figure 2.2 shows some equipotential lines distributed in space. A charged object is moved from point A to point B.",
+  "options": [
+   "The work done in Fig. (i) is the greatest.",
+   "The work done in Fig. (ii) is least.",
+   "The work done is the same in Fig. (i), Fig. (ii) and Fig. (iii).",
+   "The work done in Fig. (iii) is greater than Fig. (ii)but equal to that in Fig. (i)."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-ncert-phys-12-ch02-003.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch02-004",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep102.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "The electrostatic potential on the surface of a charged conducting sphere is 100V. Two statments are made in this regard:\n\n$S_1$ : At any point inside the sphere, electric intensity is zero.\n\n$S_2$ : At any point inside the sphere, the electrostatic potential is 100V.\n\nWhich of the following is a correct statement?",
+  "options": [
+   "$S_1$ is true but $S_2$ is false.",
+   "Both $S_1$ & $S_2$ are false.",
+   "$S_1$ is true, $S_2$ is also true and $S_1$ is the cause of $S_2$.",
+   "$S_1$ is true, $S_2$ is also true but the statements are independant."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "key_confirmed",
+   "notes": "Transcription matches page image; E=0 inside conductor implies constant potential, so S1 is cause of S2 (C), matching key."
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch02-005",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep102.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "Equipotentials at a great distance from a collection of charges whose total sum is not zero are approximately",
+  "options": [
+   "spheres.",
+   "planes.",
+   "paraboloids",
+   "ellipsoids."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch02-006",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep102.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "A parallel plate capacitor is made of two dielectric blocks in series. One of the blocks has thickness $d_1$ and dielectric constant $k_1$ and the other has thickness $d_2$ and dielectric constant $k_2$ as shown in Fig. 2.3. This arrangement can be thought as a dielectric slab of thickness $d$ (= $d_1+d_2$) and effective dielectric constant $k$. The $k$ is",
+  "options": [
+   "$\\frac{k_1d_1+k_2d_2}{d_1+d_2}$",
+   "$\\frac{k_1d_1+k_2d_2}{k_1+k_2}$",
+   "$\\frac{k_1k_2(d_1+d_2)}{(k_1d_1+k_2d_2)}$",
+   "$\\frac{2k_1k_2}{k_1+k_2}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-ncert-phys-12-ch02-006.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

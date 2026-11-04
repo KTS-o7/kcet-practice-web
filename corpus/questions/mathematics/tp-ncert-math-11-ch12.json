@@ -1,0 +1,458 @@
+[
+ {
+  "id": "tp-ncert-math-11-ch12-022",
+  "subject": "mathematics",
+  "chapter": "introduction-to-three-dimensional-geometry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 22,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep212.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The distance of point P(3, 4, 5) from the $yz$-plane is",
+  "options": [
+   "3 units",
+   "4 units",
+   "5 units",
+   "550"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch12-023",
+  "subject": "mathematics",
+  "chapter": "introduction-to-three-dimensional-geometry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 23,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep212.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "What is the length of foot of perpendicular drawn from the point P (3, 4, 5) on $y$-axis",
+  "options": [
+   "$\\sqrt{41}$",
+   "$\\sqrt{34}$",
+   "5",
+   "none of these"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch12-024",
+  "subject": "mathematics",
+  "chapter": "introduction-to-three-dimensional-geometry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 24,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep212.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "Distance of the point (3, 4, 5) from the origin (0, 0, 0) is",
+  "options": [
+   "$\\sqrt{50}$",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch12-025",
+  "subject": "mathematics",
+  "chapter": "introduction-to-three-dimensional-geometry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 25,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep212.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "If the distance between the points ($a$, 0, 1) and (0, 1, 2) is $\\sqrt{27}$, then the value of $a$ is",
+  "options": [
+   "5",
+   "$\\pm 5$",
+   "$-5$",
+   "none of these"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch12-026",
+  "subject": "mathematics",
+  "chapter": "introduction-to-three-dimensional-geometry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 26,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep212.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "$x$-axis is the intersection of two planes",
+  "options": [
+   "$xy$ and $xz$",
+   "$yz$ and $zx$",
+   "$xy$ and $yz$",
+   "none of these"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch12-027",
+  "subject": "mathematics",
+  "chapter": "introduction-to-three-dimensional-geometry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 27,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep212.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "Equation of $y$-axis is considered as",
+  "options": [
+   "$x=0,\\ y=0$",
+   "$y=0,\\ z=0$",
+   "$z=0,\\ x=0$",
+   "none of these"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "disputed",
+   "notes": "Printed key says B (y=0,z=0 = x-axis), but y-axis is x=0,z=0 = option C; transcription verified against p-15 image, key read correctly.",
+   "status_reason": "solver disagrees with unofficial key"
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch12-028",
+  "subject": "mathematics",
+  "chapter": "introduction-to-three-dimensional-geometry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 28,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep212.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The point $(-2, -3, -4)$ lies in the",
+  "options": [
+   "First octant",
+   "Seventh octant",
+   "Second octant",
+   "Eighth octant"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch12-029",
+  "subject": "mathematics",
+  "chapter": "introduction-to-three-dimensional-geometry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 29,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep212.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "A plane is parallel to $yz$-plane so it is perpendicular to :",
+  "options": [
+   "$x$-axis",
+   "$y$-axis",
+   "$z$-axis",
+   "none of these"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch12-030",
+  "subject": "mathematics",
+  "chapter": "introduction-to-three-dimensional-geometry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 30,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep212.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The locus of a point for which $y=0,\\ z=0$ is",
+  "options": [
+   "equation of $x$-axis",
+   "equation of $y$-axis",
+   "equation at $z$-axis",
+   "none of these"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch12-031",
+  "subject": "mathematics",
+  "chapter": "introduction-to-three-dimensional-geometry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 31,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep212.pdf",
+   "page": 16,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The locus of a point for which $x=0$ is",
+  "options": [
+   "$xy$-plane",
+   "$yz$-plane",
+   "$zx$-plane",
+   "none of these"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch12-032",
+  "subject": "mathematics",
+  "chapter": "introduction-to-three-dimensional-geometry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 32,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep212.pdf",
+   "page": 16,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "If a parallelopiped is formed by planes drawn through the points (5, 8, 10) and (3, 6, 8) parallel to the coordinate planes, then the length of diagonal of the parallelopiped is",
+  "options": [
+   "$2\\sqrt{3}$",
+   "$3\\sqrt{2}$",
+   "$\\sqrt{2}$",
+   "$\\sqrt{3}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch12-033",
+  "subject": "mathematics",
+  "chapter": "introduction-to-three-dimensional-geometry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 33,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep212.pdf",
+   "page": 16,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "L is the foot of the perpendicular drawn from a point P (3, 4, 5) on the $xy$-plane. The coordinates of point L are",
+  "options": [
+   "(3, 0, 0)",
+   "(0, 4, 5)",
+   "(3, 0, 5)",
+   "none of these"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch12-034",
+  "subject": "mathematics",
+  "chapter": "introduction-to-three-dimensional-geometry",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 34,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep212.pdf",
+   "page": 16,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "L is the foot of the perpendicular drawn from a point (3, 4, 5) on $x$-axis. The coordinates of L are",
+  "options": [
+   "(3, 0, 0)",
+   "(0, 4, 0)",
+   "(0, 0, 5)",
+   "none of these"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

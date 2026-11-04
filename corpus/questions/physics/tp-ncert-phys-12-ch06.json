@@ -1,0 +1,218 @@
+[
+ {
+  "id": "tp-ncert-phys-12-ch06-001",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep106.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "A square of side $L$ meters lies in the $x$-$y$ plane in a region, where the magnetic field is given by $\\mathbf{B} = B_o(2\\hat{i} + 3\\hat{j} + 4\\hat{k})\\,\\mathrm{T}$, where $B_o$ is constant. The magnitude of flux passing through the square is",
+  "options": [
+   "$2 B_o L^2\\,\\mathrm{Wb}$",
+   "$3 B_o L^2\\,\\mathrm{Wb}$",
+   "$4 B_o L^2\\,\\mathrm{Wb}$",
+   "$\\sqrt{29}\\, B_o L^2\\,\\mathrm{Wb}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch06-002",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep106.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "A loop, made of straight edges has six corners at $A(0,0,0)$, $B(L,O,0)$, $C(L,L,0)$, $D(0,L,0)$, $E(0,L,L)$ and $F(0,0,L)$. A magnetic field $\\mathbf{B} = B_o(\\hat{i} + \\hat{k})\\,\\mathrm{T}$ is present in the region. The flux passing through the loop ABCDEFA (in that order) is",
+  "options": [
+   "$B_o L^2\\,\\mathrm{Wb}$",
+   "$2 B_o L^2\\,\\mathrm{Wb}$",
+   "$\\sqrt{2}\\, B_o L^2\\,\\mathrm{Wb}$",
+   "$4 B_o L^2\\,\\mathrm{Wb}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch06-003",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep106.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "A cylindrical bar magnet is rotated about its axis (Fig 6.1). A wire is connected from the axis and is made to touch the cylindrical surface through a contact. Then",
+  "options": [
+   "a direct current flows in the ammeter A.",
+   "no current flows through the ammeter A.",
+   "an alternating sinusoidal current flows through the ammeter A with a time period $T=2\\pi/\\omega$.",
+   "a time varying non-sinosoidal current flows through the ammeter A."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-ncert-phys-12-ch06-003.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch06-004",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep106.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "There are two coils A and B as shown in Fig 6.2. A current starts flowing in B as shown, when A is moved towards B and stops when A stops moving. The current in A is counterclockwise. B is kept stationary when A moves. We can infer that",
+  "options": [
+   "there is a constant current in the clockwise direction in A.",
+   "there is a varying current in A.",
+   "there is no current in A.",
+   "there is a constant current in the counterclockwise direction in A."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-ncert-phys-12-ch06-004.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch06-005",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep106.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "Same as problem 4 except the coil A is made to rotate about a vertical axis (Fig 6.3). No current flows in B if A is at rest. The current in coil A, when the current in B (at $t = 0$) is counterclockwise and the coil A is as shown at this instant, $t = 0$, is",
+  "options": [
+   "constant current clockwise.",
+   "varying current clockwise.",
+   "varying current counterclockwise.",
+   "constant current counterclockwise."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-ncert-phys-12-ch06-005.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch06-006",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep106.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "The self inductance $L$ of a solenoid of length $l$ and area of cross-section $A$, with a fixed number of turns $N$ increases as",
+  "options": [
+   "$l$ and $A$ increase.",
+   "$l$ decreases and $A$ increases.",
+   "$l$ increases and $A$ decreases.",
+   "both $l$ and $A$ decrease."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

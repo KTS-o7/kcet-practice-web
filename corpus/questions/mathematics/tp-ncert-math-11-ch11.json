@@ -1,0 +1,458 @@
+[
+ {
+  "id": "tp-ncert-math-11-ch11-047",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 47,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep211.pdf",
+   "page": 20,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The area of the circle centred at $(1, 2)$ and passing through $(4, 6)$ is",
+  "options": [
+   "$5\\pi$",
+   "$10\\pi$",
+   "$25\\pi$",
+   "none of these"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch11-048",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 48,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep211.pdf",
+   "page": 20,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "Equation of a circle which passes through $(3, 6)$ and touches the axes is",
+  "options": [
+   "$x^2 + y^2 + 6x + 6y + 3 = 0$",
+   "$x^2 + y^2 - 6x - 6y - 9 = 0$",
+   "$x^2 + y^2 - 6x - 6y + 9 = 0$",
+   "none of these"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch11-049",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 49,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep211.pdf",
+   "page": 20,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "Equation of the circle with centre on the $y$-axis and passing through the origin and the point $(2, 3)$ is",
+  "options": [
+   "$x^2 + y^2 + 13y = 0$",
+   "$3x^2 + 3y^2 + 13x + 3 = 0$",
+   "$6x^2 + 6y^2 - 13x = 0$",
+   "$x^2 + y^2 + 13x + 3 = 0$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "disputed",
+   "notes": "Transcription matches page. Correct circle is 3x^2+3y^2-13y=0; no option matches. Key (C) 6x^2+6y^2-13x=0 has x/y swapped and wrong scaling (NCERT erratum); question is flawed.",
+   "status_reason": "solver disagrees with unofficial key"
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch11-050",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 50,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep211.pdf",
+   "page": 21,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The equation of a circle with origin as centre and passing through the vertices of an equilateral triangle whose median is of length $3a$ is",
+  "options": [
+   "$x^2 + y^2 = 9a^2$",
+   "$x^2 + y^2 = 16a^2$",
+   "$x^2 + y^2 = 4a^2$",
+   "$x^2 + y^2 = a^2$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch11-051",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 51,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep211.pdf",
+   "page": 21,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "If the focus of a parabola is $(0, -3)$ and its directrix is $y = 3$, then its equation is",
+  "options": [
+   "$x^2 = -12y$",
+   "$x^2 = 12y$",
+   "$y^2 = -12x$",
+   "$y^2 = 12x$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch11-052",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 52,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep211.pdf",
+   "page": 21,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "If the parabola $y^2 = 4ax$ passes through the point $(3, 2)$, then the length of its latus rectum is",
+  "options": [
+   "$\\frac{2}{3}$",
+   "$\\frac{4}{3}$",
+   "$\\frac{1}{3}$",
+   "$4$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch11-053",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 53,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep211.pdf",
+   "page": 21,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "If the vertex of the parabola is the point $(-3, 0)$ and the directrix is the line $x + 5 = 0$, then its equation is",
+  "options": [
+   "$y^2 = 8(x + 3)$",
+   "$x^2 = 8(y + 3)$",
+   "$y^2 = -8(x + 3)$",
+   "$y^2 = 8(x + 5)$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch11-054",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 54,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep211.pdf",
+   "page": 21,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The equation of the ellipse whose focus is $(1, -1)$, the directrix the line $x - y - 3 = 0$ and eccentricity $\\frac{1}{2}$ is",
+  "options": [
+   "$7x^2 + 2xy + 7y^2 - 10x + 10y + 7 = 0$",
+   "$7x^2 + 2xy + 7y^2 + 7 = 0$",
+   "$7x^2 + 2xy + 7y^2 + 10x - 10y - 7 = 0$",
+   "none"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch11-055",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 55,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep211.pdf",
+   "page": 21,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The length of the latus rectum of the ellipse $3x^2 + y^2 = 12$ is",
+  "options": [
+   "$4$",
+   "$3$",
+   "$8$",
+   "$\\frac{4}{\\sqrt{3}}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch11-056",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 56,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep211.pdf",
+   "page": 21,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "If $e$ is the eccentricity of the ellipse $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$ $(a < b)$, then",
+  "options": [
+   "$b^2 = a^2(1 - e^2)$",
+   "$a^2 = b^2(1 - e^2)$",
+   "$a^2 = b^2(e^2 - 1)$",
+   "$b^2 = a^2(e^2 - 1)$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch11-057",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 57,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep211.pdf",
+   "page": 22,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The eccentricity of the hyperbola whose latus rectum is $8$ and conjugate axis is equal to half of the distance between the foci is",
+  "options": [
+   "$\\frac{4}{3}$",
+   "$\\frac{4}{\\sqrt{3}}$",
+   "$\\frac{2}{\\sqrt{3}}$",
+   "none of these"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch11-058",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 58,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep211.pdf",
+   "page": 22,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The distance between the foci of a hyperbola is $16$ and its eccentricity is $\\sqrt{2}$. Its equation is",
+  "options": [
+   "$x^2 - y^2 = 32$",
+   "$\\frac{x^2}{4} - \\frac{y^2}{9} = 1$",
+   "$2x - 3y^2 = 7$",
+   "none of these"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch11-059",
+  "subject": "mathematics",
+  "chapter": "conic-sections",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 59,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep211.pdf",
+   "page": 22,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "Equation of the hyperbola with eccentricty $\\frac{3}{2}$ and foci at $(\\pm 2, 0)$ is",
+  "options": [
+   "$\\frac{x^2}{4} - \\frac{y^2}{5} = \\frac{4}{9}$",
+   "$\\frac{x^2}{9} - \\frac{y^2}{9} = \\frac{4}{9}$",
+   "$\\frac{x^2}{4} - \\frac{y^2}{9} = 1$",
+   "none of these"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

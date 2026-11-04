@@ -1,0 +1,2183 @@
+[
+ {
+  "id": "pyq-2022-chemistry-001",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 1,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 1,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A first order reaction is half completed in 45 min. How long does it need 99.9% of the reaction to be completed?",
+  "options": [
+   "10 Hours",
+   "20 Hours",
+   "5 Hours",
+   "7.5 Hours"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-002",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 2,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 1,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The rate of the reaction $\\mathrm{CH_3COOC_2H_5 + NaOH \\rightarrow CH_3COONa + C_2H_5OH}$ is given by the equation, Rate= $K[\\mathrm{CH_3COOC_2H_5}][\\mathrm{NaOH}]$. If concentration is expressed in mol L$^{-1}$, the unit of K is",
+  "options": [
+   "$\\mathrm{L\\,mol^{-1}s^{-1}}$",
+   "$\\mathrm{s^{-1}}$",
+   "$\\mathrm{mol^{-2}L^{2}s^{-1}}$",
+   "$\\mathrm{molL^{-1}s^{-1}}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-003",
+  "subject": "chemistry",
+  "chapter": "surface-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 3,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 1,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Colloidal solution commonly used in the treatment of skin disease is",
+  "options": [
+   "Colloidal Gold",
+   "Colloidal Antimony",
+   "Colloidal Sulphur",
+   "Colloidal Silver"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-004",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 4,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 1,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Specific conductance of 0.1 M $\\mathrm{HNO_3}$ is $6.3\\times10^{-2}\\ \\mathrm{ohm^{-1}\\,cm^{-1}}$. The molar conductance of the solution is",
+  "options": [
+   "$6.300\\ \\mathrm{ohm^{-1}\\,cm^{2}\\,mol^{-1}}$",
+   "$63.0\\ \\mathrm{ohm^{-1}\\,cm^{2}\\,mol^{-1}}$",
+   "$630\\ \\mathrm{ohm^{-1}\\,cm^{2}\\,mol^{-1}}$",
+   "$315\\ \\mathrm{ohm^{-1}\\,cm^{2}\\,mol^{-1}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-005",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 5,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 1,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "For spontaneity of a cell, which is correct?",
+  "options": [
+   "$\\Delta G = +\\mathrm{ve},\\ \\Delta E = +\\mathrm{ve}$",
+   "$\\Delta G = -\\mathrm{ve}$",
+   "$\\Delta G = 0,\\ \\Delta E = 0$",
+   "$\\Delta G = -\\mathrm{ve},\\ \\Delta E = 0$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-006",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 6,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 1,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "For $n^{\\mathrm{th}}$ of reaction, Half-life period is directly proportional to",
+  "options": [
+   "$a^{n-1}$",
+   "$a^{1-n}$",
+   "$\\frac{1}{a^{n-1}}$",
+   "$\\frac{1}{a^{1-n}}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1,
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-007",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 7,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Half-life of a reaction is found to be inversely proportional to the fifth power of its initial concentration, the order of reaction is",
+  "options": [
+   "5",
+   "6",
+   "3",
+   "4"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "fixed",
+   "proofread_changes": "stem: \"fifth power is initial\" -> \"fifth power of its initial\""
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-008",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-12",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 8,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The strong reducing property of hypophosphorous acid is due to",
+  "options": [
+   "Two P-H bonds",
+   "Presence of phosphorus in its highest oxidation state",
+   "Its concentration",
+   "The positive valency of phosphorus"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-009",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 9,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A transition metal exists in its highest oxidation state. It is expected to behave as",
+  "options": [
+   "An oxidizing agent",
+   "A reducing agent",
+   "A chelating agent",
+   "A central metal in a co-ordination compound"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-010",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 10,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "What will be the value of x in $\\mathrm{Fe^{x+}}$, if the magnetic moment $\\mu = \\sqrt{24}\\ \\mathrm{BM}$?",
+  "options": [
+   "0",
+   "+1",
+   "+2",
+   "+3"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-011",
+  "subject": "chemistry",
+  "chapter": "surface-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 11,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which can adsorb larger volume of hydrogen gas?",
+  "options": [
+   "Finely divided platinum",
+   "Colloidal $\\mathrm{Fe(OH)_3}$",
+   "Finely divided nickel",
+   "Colloidal solution of palladium"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "fixed",
+   "proofread_changes": "stem: added missing word \"volume\""
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-012",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-12",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 12,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The property of halogens which is not correctly matched is",
+  "options": [
+   "I > Br > Cl > F (density)",
+   "F > Cl > Br > I (electron gain enthalpy)",
+   "F > Cl > Br > I (ionization enthalpy)",
+   "F > Cl > Br > I (electronegativity)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-013",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-12",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 13,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which noble gas has least tendency to form compounds?",
+  "options": [
+   "Ar",
+   "Kr",
+   "He",
+   "Ne"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-014",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-12",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 14,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "$\\mathrm{(NH_4)_2Cr_2O_7}$ on heating liberates a gas. The same gas will be obtained by",
+  "options": [
+   "Treating $\\mathrm{H_2O_2}$ with $\\mathrm{NaNO_2}$",
+   "Treating $\\mathrm{Mg_3N_2}$ with $\\mathrm{H_2O}$",
+   "Heating $\\mathrm{NH_4NO_3}$",
+   "Heating $\\mathrm{NH_4NO_2}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-015",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 15,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The complex hexaamine platinum (IV) chloride will give ______ number of ions on ionization.",
+  "options": [
+   "3",
+   "2",
+   "5",
+   "4"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "fixed",
+   "proofread_changes": "stem: hexamine -> hexaamine"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-016",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 16,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In the following pairs of halogen compounds, which compound undergoes faster $\\mathrm{S_N1}$ reaction?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2022-chemistry-016.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "key_confirmed",
+   "notes": "Tertiary (i) and secondary (ii) halides are faster in SN1; option 4 matches key.",
+   "proofread": "fixed",
+   "proofread_changes": "figure: removed stray orbital-box artefact from image (not in original)"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-017",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 17,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The only Lanthanoid which is radioactive",
+  "options": [
+   "Promethium",
+   "Praseodymium",
+   "Lanthanum",
+   "Cerium"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-018",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 18,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "All Cu(II) halides are known, except the iodide, the reason for it is that",
+  "options": [
+   "$\\mathrm{Cu^{+2}}$ has much more negative hydration enthalpy",
+   "$\\mathrm{Cu^{+2}}$ ion has smaller size",
+   "Iodide is bulky ion",
+   "$\\mathrm{Cu^{+2}}$ oxidises iodide to iodine"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "fixed",
+   "proofread_changes": "stem: \"reaction for it\" -> \"reason for it\""
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-019",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 19,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The correct IUPAC name of cis-platin is",
+  "options": [
+   "Diammine dichlorido platinum (O)",
+   "Dichlorido diammine platinum (IV)",
+   "Diammine dichlorido platinum (II)",
+   "Diammine dichlorido platinum (IV)"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "fixed",
+   "proofread_changes": "options 0 and 3: dichloride -> dichlorido"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-020",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 20,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Crystal Field Splitting Energy (CFSE) for $\\mathrm{[CoCl_6]^{4-}}$ is $18000\\,\\mathrm{cm^{-1}}$. The Crystal Field Splitting Energy (CFSE) for $\\mathrm{[CoCl_4]^{2-}}$ will be",
+  "options": [
+   "$8000\\,\\mathrm{cm^{-1}}$",
+   "$10{,}000\\,\\mathrm{cm^{-1}}$",
+   "$18{,}000\\,\\mathrm{cm^{-1}}$",
+   "$16{,}000\\,\\mathrm{cm^{-1}}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-021",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 21,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The major product obtained when ethanol is heated with excess of conc. $\\mathrm{H_2SO_4}$ at 443K is",
+  "options": [
+   "ethane",
+   "methane",
+   "ethene",
+   "ethyne"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "fixed",
+   "proofread_changes": "stem: removed duplicated \"at\""
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-022",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 22,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Among the following, the products formed by the reaction of anisole with HI are",
+  "options": [
+   "Benzene + Methanol",
+   "Phenol + Methane",
+   "Phenol + Iodomethane",
+   "Sodium phenate + Methanol"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-023",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 23,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which one of the following Chlorohydrocarbon readily undergoes solvolysis?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 0,
+  "accepted": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "images": [
+   "pyq-2022-chemistry-023.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-024",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 24,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Identify the products A and B in the reactions:\n\n$\\mathrm{R-X + AgCN \\rightarrow A + AgX}$\n\n$\\mathrm{R-X + KCN \\rightarrow B + KX}$",
+  "options": [
+   "$\\mathrm{A = RNC;\\ B = RCN}$",
+   "$\\mathrm{A = RNC;\\ B = RNC}$",
+   "$\\mathrm{A = R-CN;\\ B = RCN}$",
+   "$\\mathrm{A = RCN;\\ B = RNC}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-025",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 25,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "An organic compound with molecular formula $\\mathrm{C_7H_8O}$ dissolves in NaOH and gives a characteristic colour with $\\mathrm{FeCl_3}$. On treatment with bromine, it gives a tribromo derivative $\\mathrm{C_7H_5OBr_3}$. The compound is",
+  "options": [
+   "m-Cresol",
+   "p-Cresol",
+   "Benzyl alcohol",
+   "o-Cresol"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-026",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 26,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In Kolbes reaction the reacting substances are",
+  "options": [
+   "Sodium phenate and $\\mathrm{CCl_4}$",
+   "Phenol and $\\mathrm{CHCl_3}$",
+   "Sodium phenate and $\\mathrm{CO_2}$",
+   "Phenol and $\\mathrm{CCl_4}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-027",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 27,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In Carbylamine test for primary amines the resulting foul smelting product is",
+  "options": [
+   "$\\mathrm{CH_3NC}$",
+   "$\\mathrm{COCl_2}$",
+   "$\\mathrm{CH_3NCl_2}$",
+   "$\\mathrm{CH_3CN}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-028",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 28,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Ethanoic acid undergoes Hell-Volhard Zelinsky reaction but Methanoic acid does not, because of",
+  "options": [
+   "absence of $\\alpha$-H atom in ethanoic acid",
+   "higher acidic strength of ethanoic acid than methanoic acid",
+   "presence of $\\alpha$-H atom in methanoic acid",
+   "presence of $\\alpha$-H atom in ethanoic acid"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-029",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 29,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The general name of the compound formed by the reaction between aldehyde and alcohol is",
+  "options": [
+   "Glycol",
+   "Acetate",
+   "Ester",
+   "Acetal"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-030",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 30,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Reaction by which benzaldehyde can not be prepared is",
+  "options": [
+   "Toluene $\\xrightarrow[\\mathrm{(ii)\\ H_3O^+}]{\\mathrm{(i)\\ CrO_2Cl_2\\ in\\ CS_2}}$",
+   "Benzoyl chloride $+\\ \\mathrm{H_2}\\xrightarrow[\\Delta]{\\mathrm{Pd\\text{-}BaSO_4}}$",
+   "Benzene $+\\ \\mathrm{CO} + \\mathrm{HCl}\\xrightarrow{\\mathrm{anhydrous\\ AlCl_3}}$",
+   "Benzoic acid $\\xrightarrow{\\mathrm{Zn\\text{-}Hg\\ and\\ con.HCl}}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-031",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 31,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The test to differentiate between pentan-2-one and pentan-3-one is",
+  "options": [
+   "Fehling's test",
+   "Iodoform test",
+   "Baeyer's test",
+   "Benedict's test"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-032",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 32,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A secondary amine is",
+  "options": [
+   "a compound with an $\\mathrm{NH_2}$ group on the carbon atom in number 2 position",
+   "a compound in which 2 of the hydrogen of $\\mathrm{NH_3}$ have been replaced by organic groups",
+   "an organic compound with two $\\mathrm{NH_2}$ group",
+   "a compound with two carbon atom and an $\\mathrm{NH_2}$ group"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-033",
+  "subject": "chemistry",
+  "chapter": "polymers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 33,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which of the following is correctly matched?",
+  "options": [
+   "Bakelite - Novolac",
+   "Polyster - tetrafluoroethene",
+   "Nylon - acrylonitrile",
+   "Teflon – copralactum"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-034",
+  "subject": "chemistry",
+  "chapter": "chemistry-in-everyday-life",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 34,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which institute has approved the emergency use of 2-deoxy-D-Glucose as additive therapy for COVID-19 patients?",
+  "options": [
+   "Ministry of Health and Family Welfare",
+   "Drug Controller General of India",
+   "Indian Council of Medical Research",
+   "World Health Organisation"
+  ],
+  "answer": -1,
+  "accepted": [],
+  "images": [],
+  "status": "dropped",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "fixed",
+   "proofread_changes": "option: Controlled -> Controller",
+   "status_reason": "grace mark in key"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-035",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 35,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A Nucleic acid, whether DNA or RNA gives on complete hydrolysis, two purine bases, two pyrimidine bases, a pentose sugar and phosphoric acid. Nucleotides which are intermediate products in the hydrolysis contain",
+  "options": [
+   "purine or pyrimidine base and ortho-phosphoric acid",
+   "purine or pyrimidine base, a pentose sugar and ortho-phosphoric acid",
+   "purine or pyrimidine base and pentose sugar",
+   "a purine base, pentose sugar and ortho-phosphoric acid"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "fixed",
+   "proofread_changes": "stem: \"purines bases\" -> \"purine bases\""
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-036",
+  "subject": "chemistry",
+  "chapter": "states-of-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 36,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which is most VISCOUS?",
+  "options": [
+   "Ethylene glycol",
+   "Glycerol",
+   "Methanol",
+   "Ethanol"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-037",
+  "subject": "chemistry",
+  "chapter": "states-of-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 37,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The volume of $2.8\\,\\mathrm{g}$ of $\\mathrm{CO}$ at $27^{\\circ}\\mathrm{C}$ and $0.821\\,\\mathrm{atm}$, pressure is (R - $0.08210\\,\\mathrm{lit.atm.K^{-1}mol^{-1}}$)",
+  "options": [
+   "3 litres",
+   "30 litres",
+   "0.3 litres",
+   "1.5 litres"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-038",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 38,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The work done when 2 moles of an ideal gas expands reversibly and isothermally from a volume of $1\\,\\mathrm{L}$ to $10\\,\\mathrm{L}$ at $300\\,\\mathrm{K}$ is (R - $0.0083\\,\\mathrm{kJ\\,K\\,mol^{-1}}$)",
+  "options": [
+   "0.115 kJ",
+   "58.5 kJ",
+   "11.5 kJ",
+   "5.8 kJ"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-039",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 39,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "An aqueous solution of alcohol contains 18 g of water and 414 g of ethyl alcohol. The mole fraction of water is",
+  "options": [
+   "0.7",
+   "0.9",
+   "0.1",
+   "0.4"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-040",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 40,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If wavelength of photon is $2.2\\times10^{-11}\\,\\mathrm{m}$ and $h = 6.6\\times10^{-34}\\,\\mathrm{J\\,s}$, then momentum of photon",
+  "options": [
+   "$1.452\\times10^{-44}\\,\\mathrm{kg\\,m\\,s^{-1}}$",
+   "$6.89\\times10^{43}\\,\\mathrm{kg\\,m\\,s^{-1}}$",
+   "$3\\times10^{-23}\\,\\mathrm{kg\\,m\\,s^{-1}}$",
+   "$3.33\\times10^{-22}\\,\\mathrm{kg\\,m\\,s^{-1}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-041",
+  "subject": "chemistry",
+  "chapter": "classification-of-elements-and-periodicity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 41,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Elements X, Y and Z have atomic number 19, 37 and 55 respectively. Which of the following statements is true about them?",
+  "options": [
+   "Z would have the highest ionization potential",
+   "Y would have the highest ionization potential",
+   "Their ionization potential would increase with increasing atomic number",
+   "Y would have an ionization potential between those of X and Z"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-042",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 42,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In oxygen and carbon molecule the bonding is",
+  "options": [
+   "$\\mathrm{O_2}$: $1\\sigma, 1\\pi$; $\\mathrm{C_2}$: $0\\sigma, 2\\pi$",
+   "$\\mathrm{O_2}$: $0\\sigma, 2\\pi$; $\\mathrm{C_2}$: $2\\sigma, 0\\pi$",
+   "$\\mathrm{O_2}$: $1\\sigma, 1\\pi$; $\\mathrm{C_2}$: $1\\sigma, 1\\pi$",
+   "$\\mathrm{O_2}$: $2\\sigma, 0\\pi$; $\\mathrm{C_2}$: $0\\sigma, 2\\pi$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-043",
+  "subject": "chemistry",
+  "chapter": "classification-of-elements-and-periodicity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 43,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Amphoteric oxide among the following:",
+  "options": [
+   "$\\mathrm{Ag_2O}$",
+   "$\\mathrm{SnO_2}$",
+   "BeO",
+   "$\\mathrm{CO_2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1,
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-044",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-12",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 44,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which property of $\\mathrm{CO_2}$ makes it biologically and geo-chemically important?",
+  "options": [
+   "Its low solubility in water",
+   "Its high compressibility",
+   "Its acidic nature",
+   "Its colourless and odourless nature"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "key_confirmed",
+   "notes": "Low solubility in water (carbonic acid/bicarbonate buffer) matches key; blind solver had picked acidic nature.",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-045",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 45,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The IUPAC name for $\\mathrm{CH_3-C(=O)-CH_2-CH_2-C(=O)-OH}$ is",
+  "options": [
+   "1-carboxybutan-3-one",
+   "4-oxopentanoic acid",
+   "1-hydroxy pentane-1, 4-dione",
+   "1,4-dioxopentanol"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2022-chemistry-045.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-046",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 46,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "1 mole of HI is heated in a closed container of capacity of 2 L. At equilibrium half a mole of HI is dissociated. The equilibrium constant of the reaction is",
+  "options": [
+   "0.25",
+   "0.35",
+   "1",
+   "0.5"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-047",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 47,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which among the following has highest pH?",
+  "options": [
+   "$\\mathrm{1M\\,H_2SO_4}$",
+   "$\\mathrm{0.1M\\,NaOH}$",
+   "$\\mathrm{1M\\,HCl}$",
+   "$\\mathrm{1M\\,NaOH}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-048",
+  "subject": "chemistry",
+  "chapter": "redox-reactions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 48,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In which of the following compounds, an element exhibits two different oxidation states?",
+  "options": [
+   "$\\mathrm{N_2H_4}$",
+   "$\\mathrm{N_3H}$",
+   "$\\mathrm{NH_2CONH_2}$",
+   "$\\mathrm{NH_4NO_3}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-049",
+  "subject": "chemistry",
+  "chapter": "hydrogen",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 49,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which of the following hydrides is electron deficient?",
+  "options": [
+   "$\\mathrm{CH_4}$",
+   "$\\mathrm{B_2H_6}$",
+   "$\\mathrm{NaH}$",
+   "$\\mathrm{CaH_2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-050",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 50,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Identify A and B in the reaction",
+  "options": [
+   "A : $\\mathrm{CH_3-CH(Br)-CH_3}$; B : $\\mathrm{CH_3-CH_2-CH_2-I}$",
+   "A : $\\mathrm{CH_3-CH(Br)-CH_3}$; B : $\\mathrm{CH_3-CH(I)-CH_3}$",
+   "A : $\\mathrm{CH_3-CH_2-CH_2-Br}$; B : $\\mathrm{CH_3-CH_2-CH_2-I}$",
+   "A : $\\mathrm{CH_3-CH_2-CH_2-Br}$; B : $\\mathrm{CH_3-CH(I)-CH_3}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2022-chemistry-050.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-051",
+  "subject": "chemistry",
+  "chapter": "the-solid-state",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 51,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Vacant space in body centered cubic lattice unit cell is about",
+  "options": [
+   "23%",
+   "46%",
+   "32%",
+   "10%"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-052",
+  "subject": "chemistry",
+  "chapter": "the-solid-state",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 52,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "How many number of atoms are there in a cube based unit cell, having one atom on each corner and 2 atom on each body diagonal of cube?",
+  "options": [
+   "4",
+   "9",
+   "8",
+   "6"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "key_confirmed",
+   "notes": "1 + 4x2 = 9 atoms; matches key.",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-053",
+  "subject": "chemistry",
+  "chapter": "the-solid-state",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 53,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which of the following is NOT true about the amorphous solids?",
+  "options": [
+   "Amorphous solids can be moulded by heating",
+   "They are anisotropic in nature",
+   "On heating they may become crystalline at certain temperature",
+   "They may become crystalline on keeping for long time."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-054",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 54,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which of the following colligative properties can provide molar mass of proteins, polymers, and colloids with greater precision?",
+  "options": [
+   "Depression in freezing point",
+   "Osmotic pressure",
+   "Relative lowering of vapour pressure",
+   "Elevation in boiling point"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-055",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 55,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In Fuel cells _____ are used as catalysts.",
+  "options": [
+   "Zinc - Mercury",
+   "Lead - Manganese",
+   "Platinum - Palladium",
+   "Nickel - Cadmium"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-056",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 56,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The molar conductivity is maximum for the solution of concentration",
+  "options": [
+   "0.005 M",
+   "0.001 M",
+   "0.004 M",
+   "0.002 M"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-057",
+  "subject": "chemistry",
+  "chapter": "the-solid-state",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 57,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Alkali halides do not show dislocation defect because",
+  "options": [
+   "Cations and anions have almost equal size",
+   "There is large difference in size of cations and anions",
+   "Cations and anions have low co-ordination number.",
+   "Anions cannot be accommodated in vacant spaces."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-058",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 58,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Solubility of a gas in a liquid increases with",
+  "options": [
+   "increase of P and decrease of T",
+   "decrease of P and decrease of T",
+   "increase of P and increase of T",
+   "decrease of P and increase of T"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-059",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 59,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The rise in boiling point of a solution containing 1.8 g of glucose in 100g of solvent is $0.1\\,^{0}\\mathrm{C}$. The molal elevation constant of the liquid is",
+  "options": [
+   "$2\\,\\mathrm{K\\,kg\\,/\\,mol}$",
+   "$10\\,\\mathrm{K\\,kg\\,/\\,mol}$",
+   "$0.1\\,\\mathrm{K\\,kg\\,/\\,mol}$",
+   "$1\\,\\mathrm{K\\,kg\\,/\\,mol}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ },
+ {
+  "id": "pyq-2022-chemistry-060",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2022",
+   "year": 2022,
+   "version": "B3",
+   "number": 60,
+   "file": "sources/pyq/2022/chemistry/2022-chemistry-question_paper-B3-collegedekho.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2022/chemistry/2022-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If $3\\,\\mathrm{g}$ of glucose (molar mass $=180\\,\\mathrm{g}$) is dissolved in $60\\,\\mathrm{g}$ of water at $15^{0}\\mathrm{C}$, the osmotic pressure of the solution will be",
+  "options": [
+   "6.57 atm",
+   "5.57 atm",
+   "0.34 atm",
+   "0.65 atm"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": "",
+   "proofread": "matched_ok"
+  }
+ }
+]

@@ -1,0 +1,1475 @@
+[
+ {
+  "id": "tp-ncert-math-12-ch09-034",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 34,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 17,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The degree of the differential equation $\\left(\\frac{d^2y}{dx^2}\\right)^2+\\left(\\frac{dy}{dx}\\right)^2=x\\sin\\left(\\frac{dy}{dx}\\right)$ is:",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "not defined"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-035",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 35,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 17,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The degree of the differential equation $\\left[1+\\left(\\frac{dy}{dx}\\right)^2\\right]^{\\frac{3}{2}}=\\frac{d^2y}{dx^2}$ is",
+  "options": [
+   "4",
+   "$\\frac{3}{2}$",
+   "not defined",
+   "2"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "disputed",
+   "notes": "Squaring gives (1+p^2)^3=(y'')^2, polynomial in derivatives, degree 2; 'not defined' is wrong (NCERT key erratum).",
+   "status_reason": "solver disagrees with unofficial key"
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-036",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 36,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 17,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The order and degree of the differential equation $\\frac{d^2y}{dx^2}+\\left(\\frac{dy}{dx}\\right)^{\\frac{1}{4}}+x^{\\frac{1}{5}}=0$, respectively, are",
+  "options": [
+   "2 and not defined",
+   "2 and 2",
+   "2 and 3",
+   "3 and 3"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-037",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 37,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 17,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If $y=e^{-x}(A\\cos x+B\\sin x)$, then y is a solution of",
+  "options": [
+   "$\\frac{d^2y}{dx^2}+2\\frac{dy}{dx}=0$",
+   "$\\frac{d^2y}{dx^2}-2\\frac{dy}{dx}+2y=0$",
+   "$\\frac{d^2y}{dx^2}+2\\frac{dy}{dx}+2y=0$",
+   "$\\frac{d^2y}{dx^2}+2y=0$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-038",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 38,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 18,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The differential equation for $y=A\\cos\\alpha x+B\\sin\\alpha x$, where A and B are arbitrary constants is",
+  "options": [
+   "$\\frac{d^2y}{dx^2}-\\alpha^2y=0$",
+   "$\\frac{d^2y}{dx^2}+\\alpha^2y=0$",
+   "$\\frac{d^2y}{dx^2}+\\alpha y=0$",
+   "$\\frac{d^2y}{dx^2}-\\alpha y=0$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-039",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 39,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 18,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Solution of differential equation $xdy-ydx=0$ represents:",
+  "options": [
+   "a rectangular hyperbola",
+   "parabola whose vertex is at origin",
+   "straight line passing through origin",
+   "a circle whose centre is at origin"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-040",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 40,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 18,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Integrating factor of the differential equation $\\cos x\\frac{dy}{dx}+y\\sin x=1$ is:",
+  "options": [
+   "$\\cos x$",
+   "$\\tan x$",
+   "$\\sec x$",
+   "$\\sin x$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-041",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 41,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 18,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Solution of the differential equation $\\tan y\\sec^2x\\,dx+\\tan x\\sec^2y\\,dy=0$ is:",
+  "options": [
+   "$\\tan x+\\tan y=k$",
+   "$\\tan x-\\tan y=k$",
+   "$\\frac{\\tan x}{\\tan y}=k$",
+   "$\\tan x\\cdot\\tan y=k$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-042",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 42,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 18,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Family $y=Ax+A^3$ of curves is represented by the differential equation of degree:",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "disputed",
+   "notes": "y=Ax+A^3 with A=y' gives y=xy'+y'^3, degree 3; key A (1) is wrong.",
+   "status_reason": "solver disagrees with unofficial key"
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-043",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 43,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 18,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Integrating factor of $x\\frac{dy}{dx}-y=x^4-3x$ is:",
+  "options": [
+   "$x$",
+   "$\\log x$",
+   "$\\frac{1}{x}$",
+   "$-x$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-044",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 44,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 18,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Solution of $\\frac{dy}{dx}-y=1$, $y(0)=1$ is given by",
+  "options": [
+   "$xy=-e^x$",
+   "$xy=-e^{-x}$",
+   "$xy=-1$",
+   "$y=2e^x-1$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-045",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 45,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 19,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The number of solutions of $\\frac{dy}{dx}=\\frac{y+1}{x-1}$ when $y(1)=2$ is:",
+  "options": [
+   "none",
+   "one",
+   "two",
+   "infinite"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "disputed",
+   "notes": "General solution y+1=C(x-1) gives y(1)=-1, never 2, so no solution; key B (one) is wrong.",
+   "status_reason": "solver disagrees with unofficial key"
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-046",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 46,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 19,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Which of the following is a second order differential equation?",
+  "options": [
+   "$(y')^2+x=y^2$",
+   "$y'y''+y=\\sin x$",
+   "$y''+(y')^2+y=0$",
+   "$y'=y^2$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-047",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 47,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 19,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Integrating factor of the differential equation $(1-x^2)\\frac{dy}{dx}-xy=1$ is",
+  "options": [
+   "$-x$",
+   "$\\frac{x}{1+x^2}$",
+   "$\\sqrt{1-x^2}$",
+   "$\\frac{1}{2}\\log(1-x^2)$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-048",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 48,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 19,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "$\\tan^{-1}x+\\tan^{-1}y=c$ is the general solution of the differential equation:",
+  "options": [
+   "$\\frac{dy}{dx}=\\frac{1+y^2}{1+x^2}$",
+   "$\\frac{dy}{dx}=\\frac{1+x^2}{1+y^2}$",
+   "$(1+x^2)\\,dy+(1+y^2)\\,dx=0$",
+   "$(1+x^2)\\,dx+(1+y^2)\\,dy=0$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-049",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 49,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 19,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The differential equation $y\\frac{dy}{dx}+x=c$ represents:",
+  "options": [
+   "Family of hyperbolas",
+   "Family of parabolas",
+   "Family of ellipses",
+   "Family of circles"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-050",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 50,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 19,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The general solution of $e^x\\cos y\\,dx-e^x\\sin y\\,dy=0$ is:",
+  "options": [
+   "$e^x\\cos y=k$",
+   "$e^x\\sin y=k$",
+   "$e^x=k\\cos y$",
+   "$e^x=k\\sin y$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-051",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 51,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 19,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The degree of the differential equation $\\frac{d^2y}{dx^2}+\\left(\\frac{dy}{dx}\\right)^3+6y^5=0$ is:",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "5"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-052",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 52,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 19,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The solution of $\\frac{dy}{dx}+y=e^{-x}$, $y(0)=0$ is:",
+  "options": [
+   "$y=e^x(x-1)$",
+   "$y=xe^{-x}$",
+   "$y=xe^{-x}+1$",
+   "$y=(x+1)e^{-x}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-053",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 53,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 20,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Integrating factor of the differential equation $\\frac{dy}{dx}+y\\tan x-\\sec x=0$ is:",
+  "options": [
+   "$\\cos x$",
+   "$\\sec x$",
+   "$e^{\\cos x}$",
+   "$e^{\\sec x}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-054",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 54,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 20,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The solution of the differential equation $\\frac{dy}{dx}=\\frac{1+y^2}{1+x^2}$ is:",
+  "options": [
+   "$y=\\tan^{-1}x$",
+   "$y-x=k(1+xy)$",
+   "$x=\\tan^{-1}y$",
+   "$\\tan(xy)=k$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-055",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 55,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 20,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The integrating factor of the differential equation $\\frac{dy}{dx}+y=\\frac{1+y}{x}$ is:",
+  "options": [
+   "$\\frac{x}{e^x}$",
+   "$\\frac{e^x}{x}$",
+   "$xe^x$",
+   "$e^x$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-056",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 56,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 20,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "$y=ae^{mx}+be^{-mx}$ satisfies which of the following differential equation?",
+  "options": [
+   "$\\frac{dy}{dx}+my=0$",
+   "$\\frac{dy}{dx}-my=0$",
+   "$\\frac{d^2y}{dx^2}-m^2y=0$",
+   "$\\frac{d^2y}{dx^2}+m^2y=0$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-057",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 57,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 20,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The solution of the differential equation $\\cos x\\sin y\\,dx+\\sin x\\cos y\\,dy=0$ is:",
+  "options": [
+   "$\\frac{\\sin x}{\\sin y}=c$",
+   "$\\sin x\\sin y=c$",
+   "$\\sin x+\\sin y=c$",
+   "$\\cos x\\cos y=c$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-058",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 58,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 20,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The solution of $x\\frac{dy}{dx}+y=e^x$ is:",
+  "options": [
+   "$y=\\frac{e^x}{x}+\\frac{k}{x}$",
+   "$y=xe^x+cx$",
+   "$y=xe^x+k$",
+   "$x=\\frac{e^y}{y}+\\frac{k}{y}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-059",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 59,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 21,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The differential equation of the family of curves $x^2+y^2-2ay=0$, where $a$ is arbitrary constant, is:",
+  "options": [
+   "$(x^2-y^2)\\frac{dy}{dx}=2xy$",
+   "$2(x^2+y^2)\\frac{dy}{dx}=xy$",
+   "$2(x^2-y^2)\\frac{dy}{dx}=xy$",
+   "$(x^2+y^2)\\frac{dy}{dx}=2xy$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-060",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 60,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 21,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Family $y=Ax+A^3$ of curves will correspond to a differential equation of order",
+  "options": [
+   "3",
+   "2",
+   "1",
+   "not defined"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-061",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 61,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 21,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The general solution of $\\frac{dy}{dx}=2xe^{x^2-y}$ is:",
+  "options": [
+   "$e^{x^2-y}=c$",
+   "$e^{-y}+e^{x^2}=c$",
+   "$e^y=e^{x^2}+c$",
+   "$e^{x^2+y}=c$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-062",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 62,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 21,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The curve for which the slope of the tangent at any point is equal to the ratio of the abscissa to the ordinate of the point is:",
+  "options": [
+   "an ellipse",
+   "parabola",
+   "circle",
+   "rectangular hyperbola"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-063",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 63,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 21,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The general solution of the differential equation $\\frac{dy}{dx}=e^{\\frac{x^2}{2}}+xy$ is:",
+  "options": [
+   "$y=ce^{-\\frac{x^2}{2}}$",
+   "$y=ce^{\\frac{x^2}{2}}$",
+   "$y=(x+c)e^{\\frac{x^2}{2}}$",
+   "$y=(c-x)e^{\\frac{x^2}{2}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-064",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 64,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 21,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The solution of the equation $(2y-1)\\,dx-(2x+3)\\,dy=0$ is:",
+  "options": [
+   "$\\frac{2x-1}{2y+3}=k$",
+   "$\\frac{2y+1}{2x-3}=k$",
+   "$\\frac{2x+3}{2y-1}=k$",
+   "$\\frac{2x-1}{2y-1}=k$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-065",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 65,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 22,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The differential equation for which $y=a\\cos x+b\\sin x$ is a solution, is:",
+  "options": [
+   "$\\frac{d^2y}{dx^2}+y=0$",
+   "$\\frac{d^2y}{dx^2}-y=0$",
+   "$\\frac{d^2y}{dx^2}+(a+b)y=0$",
+   "$\\frac{d^2y}{dx^2}+(a-b)y=0$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-066",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 66,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 22,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The solution of $\\frac{dy}{dx}+y=e^{-x}$, $y(0)=0$ is:",
+  "options": [
+   "$y=e^{-x}(x-1)$",
+   "$y=xe^x$",
+   "$y=xe^{-x}+1$",
+   "$y=xe^{-x}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-067",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 67,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 22,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The order and degree of the differential equation $\\left(\\frac{d^3y}{dx^3}\\right)^2-3\\frac{d^2y}{dx^2}+2\\left(\\frac{dy}{dx}\\right)^4=y^4$ are:",
+  "options": [
+   "1, 4",
+   "3, 4",
+   "2, 4",
+   "3, 2"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-068",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 68,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 22,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The order and degree of the differential equation $\\left[1+\\left(\\frac{dy}{dx}\\right)^2\\right]=\\frac{d^2y}{dx^2}$ are:",
+  "options": [
+   "2, $\\frac{3}{2}$",
+   "2, 3",
+   "2, 1",
+   "3, 4"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-069",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 69,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 22,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The differential equation of the family of curves $y^2=4a(x+a)$ is:",
+  "options": [
+   "$y^2=4\\frac{dy}{dx}\\left(x+\\frac{dy}{dx}\\right)$",
+   "$2y\\frac{dy}{dx}=4a$",
+   "$y\\frac{d^2y}{dx^2}+\\left(\\frac{dy}{dx}\\right)^2=0$",
+   "$2x\\frac{dy}{dx}+y\\left(\\frac{dy}{dx}\\right)^2-y$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "key_confirmed",
+   "notes": "Differentiating 2yy'=4a again gives yy''+y'^2=0, valid; D is printed without =0 so C is the defensible answer."
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-070",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 70,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 22,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Which of the following is the general solution of $\\frac{d^2y}{dx^2}-2\\frac{dy}{dx}+y=0$?",
+  "options": [
+   "$y=(Ax+B)e^x$",
+   "$y=(Ax+B)e^{-x}$",
+   "$y=Ae^x+Be^{-x}$",
+   "$y=A\\cos x+B\\sin x$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-071",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 71,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 23,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "General solution of $\\frac{dy}{dx}+y\\tan x=\\sec x$ is:",
+  "options": [
+   "$y\\sec x=\\tan x+c$",
+   "$y\\tan x=\\sec x+c$",
+   "$\\tan x=y\\tan x+c$",
+   "$x\\sec x=\\tan y+c$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-072",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 72,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 23,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Solution of the differential equation $\\frac{dy}{dx}+\\frac{y}{x}=\\sin x$ is:",
+  "options": [
+   "$x(y+\\cos x)=\\sin x+c$",
+   "$x(y-\\cos x)=\\sin x+c$",
+   "$xy\\cos x=\\sin x+c$",
+   "$x(y+\\cos x)=\\cos x+c$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-073",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 73,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 23,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The general solution of the differential equation $(e^x+1)\\,y\\,dy=(y+1)e^x\\,dx$ is:",
+  "options": [
+   "$(y+1)=k(e^x+1)$",
+   "$y+1=e^x+1+k$",
+   "$y=\\log\\{k(y+1)(e^x+1)\\}$",
+   "$y=\\log\\left\\{\\frac{e^x+1}{y+1}\\right\\}+k$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-074",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 74,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 23,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The solution of the differential equation $\\frac{dy}{dx}=e^{x-y}+x^2e^{-y}$ is:",
+  "options": [
+   "$y=e^{x-y}-x^2e^{-y}+c$",
+   "$e^y-e^x=\\frac{x^3}{3}+c$",
+   "$e^x+e^y=\\frac{x^3}{3}+c$",
+   "$e^x-e^y=\\frac{x^3}{3}+c$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch09-075",
+  "subject": "mathematics",
+  "chapter": "differential-equations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 75,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep209.pdf",
+   "page": 23,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The solution of the differential equation $\\frac{dy}{dx}+\\frac{2xy}{1+x^2}=\\frac{1}{(1+x^2)^2}$ is:",
+  "options": [
+   "$y(1+x^2)=c+\\tan^{-1}x$",
+   "$\\frac{y}{1+x^2}=c+\\tan^{-1}x$",
+   "$y\\log(1+x^2)=c+\\tan^{-1}x$",
+   "$y(1+x^2)=c+\\sin^{-1}x$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

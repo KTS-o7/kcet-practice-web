@@ -1,0 +1,423 @@
+[
+ {
+  "id": "tp-ncert-math-11-ch02-024",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions-11",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 24,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep202.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "Let $n(A) = m$, and $n(B) = n$. Then the total number of non-empty relations that can be defined from $A$ to $B$ is",
+  "options": [
+   "$m^n$",
+   "$n^m - 1$",
+   "$mn - 1$",
+   "$2^{mn} - 1$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch02-025",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions-11",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 25,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep202.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "If $[x]^2 - 5[x] + 6 = 0$, where $[\\,.\\,]$ denote the greatest integer function, then",
+  "options": [
+   "$x \\in [3, 4]$",
+   "$x \\in (2, 3]$",
+   "$x \\in [2, 3]$",
+   "$x \\in [2, 4)$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch02-026",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions-11",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 26,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep202.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "Range of $f(x) = \\frac{1}{1-2\\cos x}$ is",
+  "options": [
+   "$\\left[\\frac{1}{3}, 1\\right]$",
+   "$\\left[-1, \\frac{1}{3}\\right]$",
+   "$(-\\infty, -1] \\cup \\left[\\frac{1}{3}, \\infty\\right)$",
+   "$\\left[-\\frac{1}{3}, 1\\right]$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "disputed",
+   "notes": "Key image reads B, but 1-2cosx in [-1,3]\\{0} so range of reciprocal is (-inf,-1] U [1/3,inf) = C; printed key is an NCERT error (B cannot be the range since f(0)=-1 is attained but f can be 1/3<... values >1 too).",
+   "status_reason": "solver disagrees with unofficial key"
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch02-027",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions-11",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 27,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep202.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "Let $f(x) = \\sqrt{1+x^2}$, then",
+  "options": [
+   "$f(xy) = f(x) \\cdot f(y)$",
+   "$f(xy) \\geq f(x) \\cdot f(y)$",
+   "$f(xy) \\leq f(x) \\cdot f(y)$",
+   "None of these"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch02-028",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions-11",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 28,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep202.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "Domain of $\\sqrt{a^2 - x^2}$ $(a > 0)$ is",
+  "options": [
+   "$(-a, a)$",
+   "$[-a, a]$",
+   "$[0, a]$",
+   "$(-a, 0]$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch02-029",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions-11",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 29,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep202.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "If $f(x) = ax + b$, where $a$ and $b$ are integers, $f(-1) = -5$ and $f(3) = 3$, then $a$ and $b$ are equal to",
+  "options": [
+   "$a = -3, b = -1$",
+   "$a = 2, b = -3$",
+   "$a = 0, b = 2$",
+   "$a = 2, b = 3$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch02-030",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions-11",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 30,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep202.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The domain of the function $f$ defined by $f(x) = \\sqrt{4-x} + \\frac{1}{\\sqrt{x^2-1}}$ is equal to",
+  "options": [
+   "$(-\\infty, -1) \\cup (1, 4]$",
+   "$(-\\infty, -1] \\cup (1, 4]$",
+   "$(-\\infty, -1) \\cup [1, 4]$",
+   "$(-\\infty, -1) \\cup [1, 4)$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch02-031",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions-11",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 31,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep202.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The domain and range of the real function $f$ defined by $f(x) = \\frac{4-x}{x-4}$ is given by",
+  "options": [
+   "Domain $= \\mathbf{R}$, Range $= \\{-1, 1\\}$",
+   "Domain $= \\mathbf{R} - \\{1\\}$, Range $= \\mathbf{R}$",
+   "Domain $= \\mathbf{R} - \\{4\\}$, Range $= \\{-1\\}$",
+   "Domain $= \\mathbf{R} - \\{-4\\}$, Range $= \\{-1, 1\\}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch02-032",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions-11",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 32,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep202.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The domain and range of real function $f$ defined by $f(x) = \\sqrt{x-1}$ is given by",
+  "options": [
+   "Domain $= (1, \\infty)$, Range $= (0, \\infty)$",
+   "Domain $= [1, \\infty)$, Range $= (0, \\infty)$",
+   "Domain $= [1, \\infty)$, Range $= [0, \\infty)$",
+   "Domain $= [1, \\infty)$, Range $= [0, \\infty)$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch02-033",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions-11",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 33,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep202.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The domain of the function $f$ given by $f(x) = \\frac{x^2 + 2x + 1}{x^2 - x - 6}$",
+  "options": [
+   "$\\mathbf{R} - \\{3, -2\\}$",
+   "$\\mathbf{R} - \\{-3, 2\\}$",
+   "$\\mathbf{R} - [3, -2]$",
+   "$\\mathbf{R} - (3, -2)$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch02-034",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions-11",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 34,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep202.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The domain and range of the function $f$ given by $f(x) = 2 - |x-5|$ is",
+  "options": [
+   "Domain $= \\mathbf{R}^+$, Range $= (-\\infty, 1]$",
+   "Domain $= \\mathbf{R}$, Range $= (-\\infty, 2]$",
+   "Domain $= \\mathbf{R}$, Range $= (-\\infty, 2)$",
+   "Domain $= \\mathbf{R}^+$, Range $= (-\\infty, 2]$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-11-ch02-035",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions-11",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 35,
+   "file": "sources/third-party/mathematics/ncert-exemplar-11/keep202.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-11/keep217.pdf"
+  },
+  "stem": "The domain for which the functions defined by $f(x) = 3x^2 - 1$ and $g(x) = 3 + x$ are equal is",
+  "options": [
+   "$\\left\\{-1, \\frac{4}{3}\\right\\}$",
+   "$\\left\\{-1, \\frac{4}{3}\\right\\}$",
+   "$\\left(-1, \\frac{4}{3}\\right)$",
+   "$\\left[-1, \\frac{4}{3}\\right)$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

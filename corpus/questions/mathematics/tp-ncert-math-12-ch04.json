@@ -1,0 +1,493 @@
+[
+ {
+  "id": "tp-ncert-math-12-ch04-024",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 24,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep204.pdf",
+   "page": 16,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If $\\begin{vmatrix} 2x & 5 \\\\ 8 & x \\end{vmatrix} = \\begin{vmatrix} 6 & -2 \\\\ 7 & 3 \\end{vmatrix}$, then value of x is",
+  "options": [
+   "3",
+   "$\\pm 3$",
+   "$\\pm 6$",
+   "6"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch04-025",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 25,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep204.pdf",
+   "page": 16,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The value of determinant $\\begin{vmatrix} a-b & b+c & a \\\\ b-a & c+a & b \\\\ c-a & a+b & c \\end{vmatrix}$",
+  "options": [
+   "$a^3+b^3+c^3$",
+   "$3bc$",
+   "$a^3+b^3+c^3-3abc$",
+   "None of these"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "disputed",
+   "notes": "Key (read as C, confirmed on image) gives a^3+b^3+c^3-3abc, but the determinant as printed is 0 (e.g. a=1,b=c=0: rows 2 and 3 equal, det 0, while C=1; a=0,b=c=1: det 0, B=3); so none of these (D).",
+   "status_reason": "solver disagrees with unofficial key"
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch04-026",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 26,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep204.pdf",
+   "page": 16,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The area of a triangle with vertices $(-3, 0)$, $(3, 0)$ and $(0, k)$ is 9 sq. units. The value of k will be",
+  "options": [
+   "9",
+   "3",
+   "-9",
+   "6"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch04-027",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 27,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep204.pdf",
+   "page": 16,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The determinant $\\begin{vmatrix} b^2-ab & b-c & bc-ac \\\\ ab-a^2 & a-b & b^2-ab \\\\ bc-ac & c-a & ab-a^2 \\end{vmatrix}$ equals",
+  "options": [
+   "$abc\\,(b-c)(c-a)(a-b)$",
+   "$(b-c)(c-a)(a-b)$",
+   "$(a+b+c)(b-c)(c-a)(a-b)$",
+   "None of these"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch04-028",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 28,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep204.pdf",
+   "page": 17,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The number of distinct real roots of $\\begin{vmatrix} \\sin x & \\cos x & \\cos x \\\\ \\cos x & \\sin x & \\cos x \\\\ \\cos x & \\cos x & \\sin x \\end{vmatrix} = 0$ in the interval $-\\frac{\\pi}{4} \\le x \\le \\frac{\\pi}{4}$ is",
+  "options": [
+   "0",
+   "2",
+   "1",
+   "3"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch04-029",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 29,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep204.pdf",
+   "page": 17,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If A, B and C are angles of a triangle, then the determinant $\\begin{vmatrix} -1 & \\cos C & \\cos B \\\\ \\cos C & -1 & \\cos A \\\\ \\cos B & \\cos A & -1 \\end{vmatrix}$ is equal to",
+  "options": [
+   "0",
+   "-1",
+   "1",
+   "None of these"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch04-030",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 30,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep204.pdf",
+   "page": 17,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Let $f(t) = \\begin{vmatrix} \\cos t & t & 1 \\\\ 2\\sin t & t & 2t \\\\ \\sin t & t & t \\end{vmatrix}$, then $\\lim_{t \\to 0} \\dfrac{f(t)}{t^2}$ is equal to",
+  "options": [
+   "0",
+   "-1",
+   "2",
+   "3"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch04-031",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 31,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep204.pdf",
+   "page": 17,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The maximum value of $=\\begin{vmatrix} 1 & 1 & 1 \\\\ 1 & 1+\\sin\\theta & 1 \\\\ 1+\\cos\\theta & 1 & 1 \\end{vmatrix}$ is ($\\theta$ is real number)",
+  "options": [
+   "$\\dfrac{1}{2}$",
+   "$\\dfrac{\\sqrt{3}}{2}$",
+   "$\\sqrt{2}$",
+   "$\\dfrac{2\\sqrt{3}}{4}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch04-032",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 32,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep204.pdf",
+   "page": 18,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If $f(x) = \\begin{vmatrix} 0 & x-a & x-b \\\\ x+a & 0 & x-c \\\\ x+b & x+c & 0 \\end{vmatrix}$, then",
+  "options": [
+   "$f(a) = 0$",
+   "$f(b) = 0$",
+   "$f(0) = 0$",
+   "$f(1) = 0$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch04-033",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 33,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep204.pdf",
+   "page": 18,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If $A = \\begin{bmatrix} 2 & \\lambda & -3 \\\\ 0 & 2 & 5 \\\\ 1 & 1 & 3 \\end{bmatrix}$, then $A^{-1}$ exists if",
+  "options": [
+   "$\\lambda = 2$",
+   "$\\lambda \\neq 2$",
+   "$\\lambda \\neq -2$",
+   "None of these"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch04-034",
+  "subject": "mathematics",
+  "chapter": "matrices",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 34,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep204.pdf",
+   "page": 18,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If $A$ and $B$ are invertible matrices, then which of the following is not correct?",
+  "options": [
+   "$\\mathrm{adj}\\,A = |A|. A^{-1}$",
+   "$\\det(A)^{-1} = [\\det(A)]^{-1}$",
+   "$(AB)^{-1} = B^{-1}A^{-1}$",
+   "$(A+B)^{-1} = B^{-1}+A^{-1}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch04-035",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 35,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep204.pdf",
+   "page": 18,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If $x, y, z$ are all different from zero and $\\begin{vmatrix} 1+x & 1 & 1 \\\\ 1 & 1+y & 1 \\\\ 1 & 1 & 1+z \\end{vmatrix} = 0$, then value of $x^{-1}+y^{-1}+z^{-1}$ is",
+  "options": [
+   "$xyz$",
+   "$x^{-1}y^{-1}z^{-1}$",
+   "$-x-y-z$",
+   "$-1$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch04-036",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 36,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep204.pdf",
+   "page": 18,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The value of the determinant $\\begin{vmatrix} x & x+y & x+2y \\\\ x+2y & x & x+y \\\\ x+y & x+2y & x \\end{vmatrix}$ is",
+  "options": [
+   "$9x^2(x+y)$",
+   "$9y^2(x+y)$",
+   "$3y^2(x+y)$",
+   "$7x^2(x+y)$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch04-037",
+  "subject": "mathematics",
+  "chapter": "determinants",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 37,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep204.pdf",
+   "page": 19,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "There are two values of $a$ which makes determinant, $=\\begin{vmatrix} 1 & -2 & 5 \\\\ 2 & a & -1 \\\\ 0 & 4 & 2a \\end{vmatrix} = 86$, then sum of these number is",
+  "options": [
+   "4",
+   "5",
+   "-4",
+   "9"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

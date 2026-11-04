@@ -1,0 +1,214 @@
+[
+ {
+  "id": "tp-ncert-phys-12-ch03-001",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep103.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "Consider a current carrying wire (current $I$) in the shape of a circle. Note that as the current progresses along the wire, the direction of $\\mathbf{j}$ (current density) changes in an exact manner, while the current $I$ remain unaffected. The agent that is essentially responsible for is",
+  "options": [
+   "source of emf.",
+   "electric field produced by charges accumulated on the surface of wire.",
+   "the charges just behind a given segment of wire which push them just the right way by repulsion.",
+   "the charges ahead."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "key_confirmed",
+   "notes": "Transcription matches page; surface charges set up the field steering current, key B agrees."
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch03-002",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep103.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "Two batteries of emf $\\varepsilon_1$ and $\\varepsilon_2$ ($\\varepsilon_2 > \\varepsilon_1$) and internal resistances $r_1$ and $r_2$ respectively are connected in parallel as shown in Fig 3.1.",
+  "options": [
+   "The equivalent emf $\\varepsilon_{eq}$ of the two cells is between $\\varepsilon_1$ and $\\varepsilon_2$, i.e. $\\varepsilon_1 < \\varepsilon_{eq} < \\varepsilon_2$.",
+   "The equivalent emf $\\varepsilon_{eq}$ is smaller than $\\varepsilon_1$.",
+   "The $\\varepsilon_{eq}$ is given by $\\varepsilon_{eq} = \\varepsilon_1 + \\varepsilon_2$ always.",
+   "$\\varepsilon_{eq}$ is independent of internal resistances $r_1$ and $r_2$."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-ncert-phys-12-ch03-002.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch03-003",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep103.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "A resistance $R$ is to be measured using a meter bridge. Student chooses the standard resistance $S$ to be $100\\,\\Omega$. He finds the null point at $l_1 = 2.9\\,\\mathrm{cm}$. He is told to attempt to improve the accuracy. Which of the following is a useful way?",
+  "options": [
+   "He should measure $l_1$ more accurately.",
+   "He should change $S$ to $1000\\,\\Omega$ and repeat the experiment.",
+   "He should change $S$ to $3\\,\\Omega$ and repeat the experiment.",
+   "He should give up hope of a more accurate measurement with a meter bridge."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch03-004",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep103.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "Two cells of emf's approximately $5\\,\\mathrm{V}$ and $10\\,\\mathrm{V}$ are to be accurately compared using a potentiometer of length $400\\,\\mathrm{cm}$.",
+  "options": [
+   "The battery that runs the potentiometer should have voltage of $8\\,\\mathrm{V}$.",
+   "The battery of potentiometer can have a voltage of $15\\,\\mathrm{V}$ and $R$ adjusted so that the potential drop across the wire slightly exceeds $10\\,\\mathrm{V}$.",
+   "The first portion of $50\\,\\mathrm{cm}$ of wire itself should have a potential drop of $10\\,\\mathrm{V}$.",
+   "Potentiometer is usually used for comparing resistances and not voltages."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch03-005",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep103.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "A metal rod of length $10\\,\\mathrm{cm}$ and a rectangular cross-section of $1\\,\\mathrm{cm}\\times\\frac{1}{2}\\,\\mathrm{cm}$ is connected to a battery across opposite faces. The resistance will be",
+  "options": [
+   "maximum when the battery is connected across $1\\,\\mathrm{cm}\\times\\frac{1}{2}\\,\\mathrm{cm}$ faces.",
+   "maximum when the battery is connected across $10\\,\\mathrm{cm}\\times 1\\,\\mathrm{cm}$ faces.",
+   "maximum when the battery is connected across $10\\,\\mathrm{cm}\\times\\frac{1}{2}\\,\\mathrm{cm}$ faces.",
+   "same irrespective of the three faces."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch03-006",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep103.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "Which of the following characteristics of electrons determines the current in a conductor?",
+  "options": [
+   "Drift velocity alone.",
+   "Thermal velocity alone.",
+   "Both drift velocity and thermal velocity.",
+   "Neither drift nor thermal velocity."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

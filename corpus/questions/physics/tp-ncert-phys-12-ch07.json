@@ -1,0 +1,247 @@
+[
+ {
+  "id": "tp-ncert-phys-12-ch07-001",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep107.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "If the rms current in a $50\\,\\mathrm{Hz}$ ac circuit is $5\\,\\mathrm{A}$, the value of the current $1/300$ seconds after its value becomes zero is",
+  "options": [
+   "$5\\sqrt{2}\\,\\mathrm{A}$",
+   "$5\\sqrt{3/2}\\,\\mathrm{A}$",
+   "$5/6\\,\\mathrm{A}$",
+   "$5/\\sqrt{2}\\,\\mathrm{A}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch07-002",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep107.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "An alternating current generator has an internal resistance $R_g$ and an internal reactance $X_g$. It is used to supply power to a passive load consisting of a resistance $R_g$ and a reactance $X_L$. For maximum power to be delivered from the generator to the load, the value of $X_L$ is equal to",
+  "options": [
+   "zero",
+   "$X_g$",
+   "$-X_g$",
+   "$R_g$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch07-003",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep107.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "When a voltage measuring device is connected to AC mains, the meter shows the steady input voltage of $220\\,\\mathrm{V}$. This means",
+  "options": [
+   "input voltage cannot be AC voltage, but a DC voltage",
+   "maximum input voltage is $220\\,\\mathrm{V}$",
+   "the meter reads not $v$ but $\\langle v^2 \\rangle$ and is calibrated to read $\\sqrt{\\langle v^2 \\rangle}$",
+   "the pointer of the meter is stuck by some mechanical defect"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch07-004",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep107.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "To reduce the reasonant frequency in an LCR series circuit with a generator",
+  "options": [
+   "the generator frequency should be reduced",
+   "another capacitor should be added in parallel to the first",
+   "the iron core of the inductor should be removed",
+   "dielectric in the capacitor should be removed"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch07-005",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep107.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "Which of the following combinations should be selected for better tuning of an $LCR$ circuit used for communication?",
+  "options": [
+   "$R = 20\\,\\Omega$, $L = 1.5\\,\\mathrm{H}$, $C = 35\\,\\mu\\mathrm{F}$",
+   "$R = 25\\,\\Omega$, $L = 2.5\\,\\mathrm{H}$, $C = 45\\,\\mu\\mathrm{F}$",
+   "$R = 15\\,\\Omega$, $L = 3.5\\,\\mathrm{H}$, $C = 30\\,\\mu\\mathrm{F}$",
+   "$R = 25\\,\\Omega$, $L = 1.5\\,\\mathrm{H}$, $C = 45\\,\\mu\\mathrm{F}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch07-006",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep107.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "An inductor of reactance $1\\,\\Omega$ and a resistor of $2\\,\\Omega$ are connected in series to the terminals of a $6\\,\\mathrm{V}$ (rms) a.c. source. The power dissipated in the circuit is",
+  "options": [
+   "$8\\,\\mathrm{W}$",
+   "$12\\,\\mathrm{W}$",
+   "$14.4\\,\\mathrm{W}$",
+   "$18\\,\\mathrm{W}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch07-007",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 7,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep107.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "The output of a step-down transformer is measured to be $24\\,\\mathrm{V}$ when connected to a $12\\,\\mathrm{watt}$ light bulb. The value of the peak current is",
+  "options": [
+   "$\\frac{1}{\\sqrt{2}}\\,\\mathrm{A}$",
+   "$\\sqrt{2}\\,\\mathrm{A}$",
+   "$2\\,\\mathrm{A}$",
+   "$2\\sqrt{2}\\,\\mathrm{A}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

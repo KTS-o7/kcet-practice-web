@@ -1,0 +1,387 @@
+[
+ {
+  "id": "tp-ncert-math-12-ch08-024",
+  "subject": "mathematics",
+  "chapter": "application-of-integrals",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 24,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep208.pdf",
+   "page": 8,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The area of the region bounded by the y-axis, $y=\\cos x$ and $y=\\sin x$, $0 \\le x \\le \\frac{\\pi}{2}$ is",
+  "options": [
+   "$\\sqrt{2}$ sq units",
+   "$(\\sqrt{2}+1)$ sq units",
+   "$(\\sqrt{2}-1)$ sq units",
+   "$(2\\sqrt{2}-1)$ sq units"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch08-025",
+  "subject": "mathematics",
+  "chapter": "application-of-integrals",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 25,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep208.pdf",
+   "page": 8,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The area of the region bounded by the curve $x^2=4y$ and the straight line $x=4y-2$ is",
+  "options": [
+   "$\\frac{3}{8}$ sq units",
+   "$\\frac{5}{8}$ sq units",
+   "$\\frac{7}{8}$ sq units",
+   "$\\frac{9}{8}$ sq units"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch08-026",
+  "subject": "mathematics",
+  "chapter": "application-of-integrals",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 26,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep208.pdf",
+   "page": 8,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The area of the region bounded by the curve $y=\\sqrt{16-x^2}$ and x-axis is",
+  "options": [
+   "8 sq units",
+   "$20\\pi$ sq units",
+   "$16\\pi$ sq units",
+   "$256\\pi$ sq units"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "key_confirmed",
+   "notes": "True area is 8pi; printed option A reads \"8 sq units\" (pi dropped in the source print, verified on image); A is the only intended match."
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch08-027",
+  "subject": "mathematics",
+  "chapter": "application-of-integrals",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 27,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep208.pdf",
+   "page": 9,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Area of the region in the first quadrant enclosed by the x-axis, the line $y=x$ and the circle $x^2+y^2=32$ is",
+  "options": [
+   "$16\\pi$ sq units",
+   "$4\\pi$ sq units",
+   "$32\\pi$ sq units",
+   "24 sq units"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch08-028",
+  "subject": "mathematics",
+  "chapter": "application-of-integrals",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 28,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep208.pdf",
+   "page": 9,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Area of the region bounded by the curve $y=\\cos x$ between $x=0$ and $x=\\pi$ is",
+  "options": [
+   "2 sq units",
+   "4 sq units",
+   "3 sq units",
+   "1 sq units"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch08-029",
+  "subject": "mathematics",
+  "chapter": "application-of-integrals",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 29,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep208.pdf",
+   "page": 9,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The area of the region bounded by parabola $y^2=x$ and the straight line $2y=x$ is",
+  "options": [
+   "$\\frac{4}{3}$ sq units",
+   "1 sq units",
+   "$\\frac{2}{3}$ sq units",
+   "$\\frac{1}{3}$ sq units"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch08-030",
+  "subject": "mathematics",
+  "chapter": "application-of-integrals",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 30,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep208.pdf",
+   "page": 9,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The area of the region bounded by the curve $y=\\sin x$ between the ordinates $x=0$, $x=\\frac{\\pi}{2}$ and the x-axis is",
+  "options": [
+   "2 sq units",
+   "4 sq units",
+   "3 sq units",
+   "1 sq units"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch08-031",
+  "subject": "mathematics",
+  "chapter": "application-of-integrals",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 31,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep208.pdf",
+   "page": 9,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The area of the region bounded by the ellipse $\\frac{x^2}{25}+\\frac{y^2}{16}=1$ is",
+  "options": [
+   "$20\\pi$ sq units",
+   "$20\\pi^2$ sq units",
+   "$16\\pi^2$ sq units",
+   "$25\\pi$ sq units"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch08-032",
+  "subject": "mathematics",
+  "chapter": "application-of-integrals",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 32,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep208.pdf",
+   "page": 9,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The area of the region bounded by the circle $x^2+y^2=1$ is",
+  "options": [
+   "$2\\pi$ sq units",
+   "$\\pi$ sq units",
+   "$3\\pi$ sq units",
+   "$4\\pi$ sq units"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch08-033",
+  "subject": "mathematics",
+  "chapter": "application-of-integrals",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 33,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep208.pdf",
+   "page": 9,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The area of the region bounded by the curve $y=x+1$ and the lines $x=2$ and $x=3$ is",
+  "options": [
+   "$\\frac{7}{2}$ sq units",
+   "$\\frac{9}{2}$ sq units",
+   "$\\frac{11}{2}$ sq units",
+   "$\\frac{13}{2}$ sq units"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch08-034",
+  "subject": "mathematics",
+  "chapter": "application-of-integrals",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 34,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep208.pdf",
+   "page": 9,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The area of the region bounded by the curve $x=2y+3$ and the y lines. $y=1$ and $y=-1$ is",
+  "options": [
+   "4 sq units",
+   "$\\frac{3}{2}$ sq units",
+   "6 sq units",
+   "8 sq units"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

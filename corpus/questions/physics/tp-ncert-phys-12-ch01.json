@@ -1,0 +1,258 @@
+[
+ {
+  "id": "tp-ncert-phys-12-ch01-001",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep101.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "In Fig.1.1, two positive charges $q_2$ and $q_3$ fixed along the $y$ axis, exert a net electric force in the $+x$ direction on a charge $q_1$ fixed along the $x$ axis. If a positive charge $Q$ is added at $(x, 0)$, the force on $q_1$",
+  "options": [
+   "shall increase along the positive $x$-axis.",
+   "shall decrease along the positive $x$-axis.",
+   "shall point along the negative $x$-axis.",
+   "shall increase but the direction changes because of the intersection of $Q$ with $q_2$ and $q_3$."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-ncert-phys-12-ch01-001.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "key_confirmed",
+   "notes": "Transcription matches page; q1 is negative, Q attracts it toward +x so force increases along +x."
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch01-002",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep101.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "A point positive charge is brought near an isolated conducting sphere (Fig. 1.2). The electric field is best given by",
+  "options": [
+   "Fig (i)",
+   "Fig (ii)",
+   "Fig (iii)",
+   "Fig (iv)"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-ncert-phys-12-ch01-002.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch01-003",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep101.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "The Electric flux through the surface",
+  "options": [
+   "in Fig.1.3 (iv) is the largest.",
+   "in Fig. 1.3 (iii) is the least.",
+   "in Fig. 1.3 (ii) is same as Fig. 1.3 (iii) but is smaller than Fig. 1.3 (iv)",
+   "is the same for all the figures."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-ncert-phys-12-ch01-003.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch01-004",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep101.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "Five charges $q_1$, $q_2$, $q_3$, $q_4$, and $q_5$ are fixed at their positions as shown in Fig. 1.4. $S$ is a Gaussian surface. The Gauss's law is given by $$\\oint_S \\mathbf{E}\\cdot d\\mathbf{s} = \\frac{q}{\\varepsilon_0}$$ Which of the following statements is correct?",
+  "options": [
+   "$\\mathbf{E}$ on the LHS of the above equation will have a contribution from $q_1$, $q_5$ and $q_3$ while $q$ on the RHS will have a contribution from $q_2$ and $q_4$ only.",
+   "$\\mathbf{E}$ on the LHS of the above equation will have a contribution from all charges while $q$ on the RHS will have a contribution from $q_2$ and $q_4$ only.",
+   "$\\mathbf{E}$ on the LHS of the above equation will have a contribution from all charges while $q$ on the RHS will have a contribution from $q_1$, $q_3$ and $q_5$ only.",
+   "Both $\\mathbf{E}$ on the LHS and $q$ on the RHS will have contributions from $q_2$ and $q_4$ only."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-phys-12-ch01-004.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch01-005",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep101.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "Figure 1.5 shows electric field lines in which an electric dipole $\\mathbf{p}$ is placed as shown. Which of the following statements is correct?",
+  "options": [
+   "The dipole will not experience any force.",
+   "The dipole will experience a force towards right.",
+   "The dipole will experience a force towards left.",
+   "The dipole will experience a force upwards."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-ncert-phys-12-ch01-005.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch01-006",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep101.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "A point charge $+q$, is placed at a distance $d$ from an isolated conducting plane. The field at a point P on the other side of the plane is",
+  "options": [
+   "directed perpendicular to the plane and away from the plane.",
+   "directed perpendicular to the plane but towards the plane.",
+   "directed radially away from the point charge.",
+   "directed radially towards the point charge."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-12-ch01-007",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 7,
+   "file": "sources/third-party/physics/ncert-exemplar-12/leep101.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-12/leep117.pdf"
+  },
+  "stem": "A hemisphere is uniformly charged positively. The electric field at a point on a diameter away from the centre is directed",
+  "options": [
+   "perpendicular to the diameter",
+   "parallel to the diameter",
+   "at an angle tilted towards the diameter",
+   "at an angle tilted away from the diameter."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "flagged",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "disputed",
+   "notes": "Key image reads 1.7 (a) (official NCERT answer), transcription correct. But all charge lies on one side of the flat-face plane, so at an outside point on a diameter the field has radial and out-of-plane components; not perpendicular, tilted away from the diameter (d). Official key is likely idealised/wrong.",
+   "status_reason": "solver disagrees with unofficial key"
+  }
+ }
+]

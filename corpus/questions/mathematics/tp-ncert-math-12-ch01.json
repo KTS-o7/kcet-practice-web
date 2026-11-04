@@ -1,0 +1,702 @@
+[
+ {
+  "id": "tp-ncert-math-12-ch01-028",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 28,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep201.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Let T be the set of all triangles in the Euclidean plane, and let a relation R on T be defined as $aRb$ if $a$ is congruent to $b$ $\\forall\\, a, b \\in T$. Then R is",
+  "options": [
+   "reflexive but not transitive",
+   "transitive but not symmetric",
+   "equivalence",
+   "none of these"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch01-029",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 29,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep201.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Consider the non-empty set consisting of children in a family and a relation R defined as $aRb$ if $a$ is brother of $b$. Then R is",
+  "options": [
+   "symmetric but not transitive",
+   "transitive but not symmetric",
+   "neither symmetric nor transitive",
+   "both symmetric and transitive"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch01-030",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 30,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep201.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The maximum number of equivalence relations on the set $A = \\{1, 2, 3\\}$ are",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "5"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch01-031",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 31,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep201.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If a relation R on the set $\\{1, 2, 3\\}$ be defined by $R = \\{(1, 2)\\}$, then R is",
+  "options": [
+   "reflexive",
+   "transitive",
+   "symmetric",
+   "none of these"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch01-032",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 32,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep201.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Let us define a relation R in $\\mathbb{R}$ as $aRb$ if $a \\geq b$. Then R is",
+  "options": [
+   "an equivalence relation",
+   "reflexive, transitive but not symmetric",
+   "symmetric, transitive but not reflexive",
+   "neither transitive nor reflexive but symmetric"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch01-033",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 33,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep201.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Let $A = \\{1, 2, 3\\}$ and consider the relation $R = \\{(1, 1), (2, 2), (3, 3), (1, 2), (2, 3), (1, 3)\\}$. Then R is",
+  "options": [
+   "reflexive but not symmetric",
+   "reflexive but not transitive",
+   "symmetric and transitive",
+   "neither symmetric, nor transitive"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch01-034",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 34,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep201.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "The identity element for the binary operation $\\ast$ defined on $\\mathbb{Q} \\sim \\{0\\}$ as $a \\ast b = \\frac{ab}{2}$ $\\forall\\, a, b \\in \\mathbb{Q} \\sim \\{0\\}$ is",
+  "options": [
+   "1",
+   "0",
+   "2",
+   "none of these"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch01-035",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 35,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep201.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "If the set A contains 5 elements and the set B contains 6 elements, then the number of one-one and onto mappings from A to B is",
+  "options": [
+   "720",
+   "120",
+   "0",
+   "none of these"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch01-036",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 36,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep201.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Let $A = \\{1, 2, 3, \\ldots n\\}$ and $B = \\{a, b\\}$. Then the number of surjections from A into B is",
+  "options": [
+   "$^{n}P_{2}$",
+   "$2^{n} - 2$",
+   "$2^{n} - 1$",
+   "None of these"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch01-037",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 37,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep201.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Let $f : \\mathbb{R} \\to \\mathbb{R}$ be defined by $f(x) = \\frac{1}{x}$ $\\forall\\, x \\in \\mathbb{R}$. Then f is",
+  "options": [
+   "one-one",
+   "onto",
+   "bijective",
+   "f is not defined"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch01-038",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 38,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep201.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Let $f : \\mathbb{R} \\to \\mathbb{R}$ be defined by $f(x) = 3x^2 - 5$ and $g : \\mathbb{R} \\to \\mathbb{R}$ by $g(x) = \\frac{x}{x^2 + 1}$. Then $g \\circ f$ is",
+  "options": [
+   "$\\frac{3x^2 - 5}{9x^4 - 30x^2 + 26}$",
+   "$\\frac{3x^2 - 5}{9x^4 - 6x^2 + 26}$",
+   "$\\frac{3x^2}{x^4 + 2x^2 - 4}$",
+   "$\\frac{3x^2}{9x^4 + 30x^2 - 2}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch01-039",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 39,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep201.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Which of the following functions from $\\mathbb{Z}$ into $\\mathbb{Z}$ are bijections?",
+  "options": [
+   "$f(x) = x^3$",
+   "$f(x) = x + 2$",
+   "$f(x) = 2x + 1$",
+   "$f(x) = x^2 + 1$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch01-040",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 40,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep201.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Let $f : \\mathbb{R} \\to \\mathbb{R}$ be the functions defined by $f(x) = x^3 + 5$. Then $f^{-1}(x)$ is",
+  "options": [
+   "$(x+5)^{\\frac{1}{3}}$",
+   "$(x-5)^{\\frac{1}{3}}$",
+   "$(5-x)^{\\frac{1}{3}}$",
+   "$5 - x$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch01-041",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 41,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep201.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Let $f : A \\to B$ and $g : B \\to C$ be the bijective functions. Then $(g \\circ f)^{-1}$ is",
+  "options": [
+   "$f^{-1} \\circ g^{-1}$",
+   "$f \\circ g$",
+   "$g^{-1} \\circ f^{-1}$",
+   "$g \\circ f$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch01-042",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 42,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep201.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Let $f : \\mathbb{R} - \\left\\{\\frac{3}{5}\\right\\} \\to \\mathbb{R}$ be defined by $f(x) = \\frac{3x + 2}{5x - 3}$. Then",
+  "options": [
+   "$f^{-1}(x) = f(x)$",
+   "$f^{-1}(x) = -f(x)$",
+   "$(f \\circ f)\\, x = -x$",
+   "$f^{-1}(x) = \\frac{1}{19} f(x)$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch01-043",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 43,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep201.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Let $f : [0, 1] \\to [0, 1]$ be defined by $f(x) = \\begin{cases} x, & \\text{if } x \\text{ is rational} \\\\ 1 - x, & \\text{if } x \\text{ is irrational} \\end{cases}$ Then $(f \\circ f)\\, x$ is",
+  "options": [
+   "constant",
+   "$1 + x$",
+   "$x$",
+   "none of these"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch01-044",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 44,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep201.pdf",
+   "page": 16,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Let $f : [2, \\infty) \\to \\mathbb{R}$ be the function defined by $f(x) = x^2 - 4x + 5$, then the range of f is",
+  "options": [
+   "$\\mathbb{R}$",
+   "$[1, \\infty)$",
+   "$[4, \\infty)$",
+   "$[5, \\infty)$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch01-045",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 45,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep201.pdf",
+   "page": 16,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Let $f : \\mathbb{N} \\to \\mathbb{R}$ be the function defined by $f(x) = \\frac{2x - 1}{2}$ and $g : \\mathbb{Q} \\to \\mathbb{R}$ be another function defined by $g(x) = x + 2$. Then $(g \\circ f)\\left(\\frac{3}{2}\\right)$ is",
+  "options": [
+   "1",
+   "1",
+   "$\\frac{7}{2}$",
+   "none of these"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch01-046",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 46,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep201.pdf",
+   "page": 16,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Let $f : \\mathbb{R} \\to \\mathbb{R}$ be defined by $f(x) = \\begin{cases} 2x, & x > 3 \\\\ x^2, & 1 < x \\leq 3 \\\\ 3x, & x \\leq 1 \\end{cases}$ Then $f(-1) + f(2) + f(4)$ is",
+  "options": [
+   "9",
+   "14",
+   "5",
+   "none of these"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-math-12-ch01-047",
+  "subject": "mathematics",
+  "chapter": "relations-and-functions",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 12",
+   "year": 0,
+   "version": "",
+   "number": 47,
+   "file": "sources/third-party/mathematics/ncert-exemplar-12/leep201.pdf",
+   "page": 16,
+   "key_file": "sources/third-party/mathematics/ncert-exemplar-12/leep216.pdf"
+  },
+  "stem": "Let $f : \\mathbb{R} \\to \\mathbb{R}$ be given by $f(x) = \\tan x$. Then $f^{-1}(1)$ is",
+  "options": [
+   "$\\frac{\\pi}{4}$",
+   "$\\{n\\pi + \\frac{\\pi}{4} : n \\in \\mathbb{Z}\\}$",
+   "does not exist",
+   "none of these"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

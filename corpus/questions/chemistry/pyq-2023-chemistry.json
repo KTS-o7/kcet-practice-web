@@ -1,0 +1,2114 @@
+[
+ {
+  "id": "pyq-2023-chemistry-001",
+  "subject": "chemistry",
+  "chapter": "organic-chemistry-basic-principles-and-techniques",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 1,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 1,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A pair of compounds having the same boiling points are",
+  "options": [
+   "cis but-2-ene and trans but-2-ene",
+   "n-hexane and neo-hexane",
+   "benzene and naphthalene",
+   "(+) butan – 2 – ol and (–) butan –2-ol"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-002",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 2,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 1,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Identify A, B and C in the sequence :\n\n$\\mathrm{CH_3CH_2Br}\\xrightarrow[\\mathrm{alc}]{\\mathrm{KCN}}\\mathrm{A}\\xrightarrow{\\mathrm{LiAlH_4}}\\mathrm{B}\\xrightarrow[0^\\circ\\mathrm{C}]{\\mathrm{HNO_2}}\\mathrm{C}$",
+  "options": [
+   "$\\mathrm{CH_3CH_2CN},\\ \\mathrm{CH_3CH_2CH_2NH_2},\\ \\mathrm{CH_3CH_2CH_2OH}$",
+   "$\\mathrm{CH_3CH_2NC},\\ \\mathrm{CH_3CH_2OH},\\ \\mathrm{CH_3CH_2CH_2NH_2}$",
+   "$\\mathrm{CH_3CH_2CN},\\ \\mathrm{C_2H_5OH},\\ \\mathrm{C_2H_5N_2Cl}$",
+   "$\\mathrm{CH_3CH_2CN},\\ \\mathrm{CH_3CH_2NH_2},\\ \\mathrm{C_2H_5OH}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-003",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 3,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 1,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "$\\mathrm{CH_3-CH{=}CH-CH_2OH}\\xrightarrow{\\mathrm{PCC}}\\mathrm{CH_3-CH{=}CH-CHO}$\n\nHybridisation change involved at C-1 in the above reaction",
+  "options": [
+   "$\\mathrm{sp^3}$ to $\\mathrm{sp}$",
+   "$\\mathrm{sp^3}$ to $\\mathrm{sp^2}$",
+   "$\\mathrm{sp^2}$ to $\\mathrm{sp^3}$",
+   "$\\mathrm{sp}$ to $\\mathrm{sp^2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-004",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 4,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 1,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If a didentate ligand ethane –1, 2 – diamine is progressively added in the molar ratio en : Ni :: 1 : 1, 2 : 1, 3 : 1 to $\\mathrm{[Ni(H_2O)_6]^{2+}}$ aq solution, following co-ordination entities are formed.\n\nI. $\\mathrm{[Ni(H_2O)_4en]^{2+}_{(aq)}}$ – pale blue\n\nII. $\\mathrm{[Ni(H_2O)_2(en)_2]^{2+}_{(aq)}}$ – blue/purple\n\nIII. $\\mathrm{[Ni(en)_3]^{2+}_{(aq)}}$ – violet\n\nThe wavelength in nm of light absorbed in case of I and III are respectively",
+  "options": [
+   "475 nm and 310 nm",
+   "300 nm and 475 nm",
+   "310 nm and 500 nm",
+   "600 nm and 535 nm"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-005",
+  "subject": "chemistry",
+  "chapter": "haloalkanes-and-haloarenes",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 5,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 1,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which of the following is an organometallic compound ?",
+  "options": [
+   "$\\mathrm{CH_3COONa}$",
+   "$\\mathrm{CH_3CH_2MgBr}$",
+   "$\\mathrm{(CH_3COO)_2Ca}$",
+   "$\\mathrm{CH_3ONa}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-006",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 6,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A better reagent to oxidize primary alcohols into aldehyde is :",
+  "options": [
+   "PCC",
+   "Alkaline $\\mathrm{KMnO_4}$",
+   "Acidified $\\mathrm{K_2Cr_2O_7}$",
+   "$\\mathrm{CrO_3}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-007",
+  "subject": "chemistry",
+  "chapter": "aldehydes-ketones-and-carboxylic-acids",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 7,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In the reaction :\n\n$\\mathrm{C_6H_5CN}\\xrightarrow[\\mathrm{(ii)\\ H_3O^+}]{\\mathrm{(i)\\ SnCl_2 + HCl}}\\mathrm{X}\\xrightarrow{\\text{con.}\\ \\mathrm{KOH}}\\mathrm{Y + Z,}$\n\nFormation of X, formation of Y and Z are known by",
+  "options": [
+   "Rosenmund reduction, Cannizaro reaction.",
+   "Clemmensen reduction, Sandmeyer reaction.",
+   "Wolff-Kishner reduction, Wurtz reaction.",
+   "Stephen reaction, Cannizaro reaction."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-008",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 8,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Compounds P and R in the following reaction are\n\n$\\mathrm{CH_3CHO}\\xrightarrow[\\mathrm{(ii)\\ H_3O^+}]{\\mathrm{(i)\\ CH_3MgBr}}\\mathrm{P}\\xrightarrow[\\text{heat}]{\\text{conc.}\\ \\mathrm{H_2SO_4}}\\mathrm{Q}\\xrightarrow[\\mathrm{(ii)\\ H_2O_2OH^-}]{\\mathrm{(i)\\ B_2H_6}}\\mathrm{R}$",
+  "options": [
+   "Position isomers",
+   "Functional isomers",
+   "Metamers",
+   "Identical"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-009",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 9,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Aniline does not undergo",
+  "options": [
+   "Nitration",
+   "Sulphonation",
+   "Friedel-Craft reaction",
+   "Bromination"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-010",
+  "subject": "chemistry",
+  "chapter": "alcohols-phenols-and-ethers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 10,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The heating of phenyl methyl ether with HI produces an aromatic compound A which on treatment with con. $\\mathrm{HNO_3}$ gives B. A and B respectively are,",
+  "options": [
+   "Methanol, Ethanoic acid",
+   "Picric acid, Phenol",
+   "Iodobenzene, 1-Iodo-4-nitrobenzene",
+   "Phenol, Picric acid"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-011",
+  "subject": "chemistry",
+  "chapter": "chemistry-in-everyday-life",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 11,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 2,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Y in the above reaction is",
+  "options": [
+   "Salicylaldehyde",
+   "Aspirin",
+   "Cumene",
+   "Picric acid"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "pyq-2023-chemistry-011.png"
+  ],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-012",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 12,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Sucrose is dextrorotatory but after hydrolysis the mixture show laevorotation, this is because of",
+  "options": [
+   "Laevorotation of glucose is more than dextrorotation of fructose.",
+   "Sucrose is a non-reducing sugar.",
+   "Recemic mixture is formed.",
+   "Laevorotation of fructose is more than dextrorotation of glucose."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-013",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 13,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The correct order of match between column X and column Y is :\n\n| X | Y |\n|---|---|\n| I. Vitamin A | i. Muscular weakness |\n| II. Vitamin D | ii. Increased blood clotting time |\n| III. Vitamin E | iii. Night-blindness |\n| IV. Vitamin K | iv. Osteomalacia |",
+  "options": [
+   "I – iv, II – iii, III – ii, IV – i",
+   "I – ii, II – i, III – iii, IV – iv",
+   "I – iii, II – ii, III – iv, IV – i",
+   "I – iii, II – iv, III – i, IV – ii"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-014",
+  "subject": "chemistry",
+  "chapter": "amines",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 14,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In the reaction :\n\nP, Q and R respectively are :",
+  "options": [
+   "$\\mathrm{NaNO_2}$ + dil. $\\mathrm{HCl}$, $\\mathrm{HBF_4}$, $\\mathrm{Cu} + \\mathrm{NaNO_2}$",
+   "$\\mathrm{NaNO_2}$ + con. $\\mathrm{HCl}$, $\\mathrm{F_2}$, $\\mathrm{Cu} + \\mathrm{NaNO_3}$",
+   "$\\mathrm{NaNO_2}$ + dil. $\\mathrm{HCl}$, $\\mathrm{BF_3}$, $\\mathrm{Cu} + \\mathrm{NaNO_2}$",
+   "$\\mathrm{NaNO_3}$ + dil. $\\mathrm{HCl}$, $\\mathrm{F_2}$, $\\mathrm{Cu} + \\mathrm{NaNO_3}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2023-chemistry-014.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-015",
+  "subject": "chemistry",
+  "chapter": "biomolecules",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 15,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 3,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Thyroxine produced in the thyroid gland is an iodinated derivative of ______.",
+  "options": [
+   "threonine",
+   "lysine",
+   "tyrosine",
+   "tryptophan"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-016",
+  "subject": "chemistry",
+  "chapter": "chemistry-in-everyday-life",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 16,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which one of the following is a non-narcotic analgesic ?",
+  "options": [
+   "Heroin",
+   "Codeine",
+   "Aspirin",
+   "Morphine"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-017",
+  "subject": "chemistry",
+  "chapter": "chemistry-in-everyday-life",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 17,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Receptors are proteins and crucial to body communication process. These receptors are embedded in",
+  "options": [
+   "Cell membrane",
+   "Protein",
+   "Endocrine gland",
+   "Chromosomes"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-018",
+  "subject": "chemistry",
+  "chapter": "polymers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 18,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which of the following monomers form biodegradable polymers ?",
+  "options": [
+   "Ethylene glycol and pthalic acid",
+   "Caprolactum and 1, 3 – Butadiene",
+   "Phenol and formaldehyde",
+   "3-hydroxybutanoic acid and 3-hydroxypentanoic acid"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-019",
+  "subject": "chemistry",
+  "chapter": "polymers",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 19,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 4,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Match the List-I with List-II in the following :\n\n**List-I**\n\n1. Caprolactum\n\n2. Vinyl chloride\n\n3. Styrene\n\n4. Propene\n\n**List-II**\n\n(a) $-\\left(\\mathrm{CH_2-\\underset{\\mathrm{CH_3}}{CH}}\\right)_n-$\n\n(b) $-\\left(\\mathrm{CH_2-\\underset{\\mathrm{C_6H_5}}{CH}}\\right)_n-$\n\n(c) $-\\left(\\mathrm{CH_2-\\underset{\\mathrm{Cl}}{CH}}\\right)_n-$\n\n(d) $-\\left[\\mathrm{\\overset{O}{\\overset{\\|}{C}}-(CH_2)_5-\\underset{\\mathrm{H}}{N}}\\right]_n-$",
+  "options": [
+   "1-c, 2-d, 3-a, 4-b",
+   "1-a, 2-d, 3-c, 4-b",
+   "1-d, 2-c, 3-a, 4-b",
+   "1-d, 2-c, 3-b, 4-a"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2023-chemistry-019.png"
+  ],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-020",
+  "subject": "chemistry",
+  "chapter": "classification-of-elements-and-periodicity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 20,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The correct order of first ionisation enthalpy of given elements is",
+  "options": [
+   "$\\mathrm{Li < B < Be < C}$",
+   "$\\mathrm{Be < Li < B < C}$",
+   "$\\mathrm{C < B < Be < Li}$",
+   "$\\mathrm{Li < Be < B < C}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-021",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 21,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which of the following statement is INCORRECT ?",
+  "options": [
+   "Bond length of $\\mathrm{O_2}$ > Bond length of $\\mathrm{O_2^{2+}}$",
+   "Bond order of $\\mathrm{O_2^{+}}$ < Bond order of $\\mathrm{O_2^{2-}}$",
+   "Bond length of $\\mathrm{O_2}$ < Bond length of $\\mathrm{O_2^{2-}}$",
+   "Bond order of $\\mathrm{O_2}$ > Bond order of $\\mathrm{O_2^{2-}}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-022",
+  "subject": "chemistry",
+  "chapter": "states-of-matter",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 22,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A gas at a pressure of 2 atm is heated from $25\\ ^\\circ\\mathrm{C}$ to $323\\ ^\\circ\\mathrm{C}$ and simultaneously compressed to $\\frac{2}{3}^{\\mathrm{rd}}$ of its original value. Then the final pressure is",
+  "options": [
+   "1.33 atm",
+   "6 atm",
+   "2 atm",
+   "4 atm"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-023",
+  "subject": "chemistry",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 23,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Lattice enthalpy for NaCl is $+788\\ \\mathrm{kJ\\,mol^{-1}}$ and $\\Delta H^\\circ_{\\mathrm{Hyd}} = -784\\ \\mathrm{kJ\\,mol^{-1}}$. Enthalpy of solution of NaCl is",
+  "options": [
+   "$+572\\ \\mathrm{kJ\\,mol^{-1}}$",
+   "$+4\\ \\mathrm{kJ\\,mol^{-1}}$",
+   "$-572\\ \\mathrm{kJ\\,mol^{-1}}$",
+   "$-4\\ \\mathrm{kJ\\,mol^{-1}}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-024",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 24,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "At 500 K, for a reversible reaction $\\mathrm{A_{2(g)} + B_{2(g)} \\rightleftharpoons 2AB_{(g)}}$ in a closed container, $K_C = 2 \\times 10^{-5}$. In the presence of catalyst, the equilibrium is attaining 10 times faster. The equilibrium constant $K_C$ in the presence of catalyst at the same temperature is",
+  "options": [
+   "$2 \\times 10^{-4}$",
+   "$2 \\times 10^{-6}$",
+   "$2 \\times 10^{-10}$",
+   "$2 \\times 10^{-5}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-025",
+  "subject": "chemistry",
+  "chapter": "equilibrium",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 25,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A weak acid with $\\mathrm{pK_a}$ 5.9 and weak base with $\\mathrm{pK_b}$ 5.8 are mixed in equal proportions. pH of the resulting solution is",
+  "options": [
+   "7.005",
+   "7.5",
+   "7",
+   "7.05"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-026",
+  "subject": "chemistry",
+  "chapter": "some-basic-concepts-of-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 26,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Temperature of $25\\,^\\circ\\mathrm{C}$ in Fahrenheit and Kelvin scale respectively are",
+  "options": [
+   "$77\\,^\\circ\\mathrm{F}$ and $298.15\\ \\mathrm{K}$",
+   "$17\\,^\\circ\\mathrm{F}$ and $298.15\\ \\mathrm{K}$",
+   "$45\\,^\\circ\\mathrm{F}$ and $260.15\\ \\mathrm{K}$",
+   "$47\\,^\\circ\\mathrm{F}$ and $312.15\\ \\mathrm{K}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-027",
+  "subject": "chemistry",
+  "chapter": "structure-of-atom",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 27,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 5,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The number of protons, neutrons and electrons in the ion $^{32}_{16}\\mathrm{S}^{2-}$ respectively are",
+  "options": [
+   "16, 18, 16",
+   "16, 16, 18",
+   "18, 16, 16",
+   "16, 16, 16"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-028",
+  "subject": "chemistry",
+  "chapter": "classification-of-elements-and-periodicity",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 28,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A pair of amphoteric oxides is",
+  "options": [
+   "$\\mathrm{Al_2O_3,\\ Li_2O}$",
+   "$\\mathrm{BeO,\\ BO_3}$",
+   "$\\mathrm{BeO,\\ MgO}$",
+   "$\\mathrm{BeO,\\ ZnO}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-029",
+  "subject": "chemistry",
+  "chapter": "hydrogen",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 29,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The composition of water gas is",
+  "options": [
+   "$\\mathrm{CO_{(g)} + N_{2(g)}}$",
+   "$\\mathrm{CH_{4(g)}}$",
+   "$\\mathrm{CO_{(g)} + H_2O_{(g)}}$",
+   "$\\mathrm{CO_{(g)} + H_{2(g)}}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-030",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 30,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "IUPAC name of the compound is",
+  "options": [
+   "2, 3 – dimethylbut-2-ene",
+   "2, 3 – dimethyl butyne",
+   "1, 1, 2, 2 – tetra methylethene",
+   "2, 3 – dimethyl butene"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "pyq-2023-chemistry-030.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-031",
+  "subject": "chemistry",
+  "chapter": "hydrocarbons",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 31,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Among the following :\n\nThe set which represents aromatic species is",
+  "options": [
+   "I, II and III",
+   "III, IV and V",
+   "II and III",
+   "I, II and IV"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "pyq-2023-chemistry-031.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-032",
+  "subject": "chemistry",
+  "chapter": "environmental-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 32,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which one of the following gases converts haemoglobin into carboxy haemoglobin ?",
+  "options": [
+   "CO",
+   "$\\mathrm{O_2}$",
+   "NO",
+   "$\\mathrm{CO_2}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-033",
+  "subject": "chemistry",
+  "chapter": "redox-reactions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 33,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "What is the oxidation number of S in $\\mathrm{H_2S_2O_8}$ ?",
+  "options": [
+   "+5",
+   "+4",
+   "+7",
+   "+6"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-034",
+  "subject": "chemistry",
+  "chapter": "hydrogen",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 34,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 6,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A 30% solution of hydrogen peroxide is",
+  "options": [
+   "‘30 volume’ hydrogen peroxide",
+   "‘10 volume’ hydrogen peroxide",
+   "‘50 volume’ hydrogen peroxide",
+   "‘100 volume’ hydrogen peroxide"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-035",
+  "subject": "chemistry",
+  "chapter": "the-solid-state",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 35,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "If ‘a’ stands for the edge length of the cubic systems – The ratio of radii in simple cubic, body centered cubic and face centered cubic unit cells is",
+  "options": [
+   "$1a : \\sqrt{3}a : \\sqrt{2}a$",
+   "$\\frac{1}{2}a : \\frac{\\sqrt{3}}{4}a : \\frac{1}{2\\sqrt{2}}a$",
+   "$\\frac{1}{2}a : \\frac{\\sqrt{3}}{2}a : \\frac{\\sqrt{2}}{2}a$",
+   "$\\frac{1}{2}a : \\sqrt{3}a : \\frac{1}{\\sqrt{2}}a$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-036",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 36,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Dimerisation of solute molecules in low dielectric constant solvent is due to :",
+  "options": [
+   "Hydrogen bond",
+   "Covalent bond",
+   "Co-ordinate bond",
+   "Ionic bond"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-037",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 37,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The swelling in feet and ankles of an aged person due to sitting continuously for long hours during travel, is reduced by soaking the feet in warm salt water. This is because of :",
+  "options": [
+   "Reverse Osmosis",
+   "Osmosis",
+   "Edema",
+   "Diffusion"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-038",
+  "subject": "chemistry",
+  "chapter": "solutions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 38,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A sample of water is found to contain 5.85% $\\left(\\frac{w}{w}\\right)$ of AB (molecular mass 58.5) and 9.50% $\\left(\\frac{w}{w}\\right)$ $\\mathrm{XY_2}$ (molecular mass 95). Assuming 80% ionisation of AB and 60% ionisation of $\\mathrm{XY_2}$, the freezing point of water sample is [Given : $K_f$ for water $1.86\\ \\mathrm{K\\,kg\\,mol^{-1}}$, Freezing point of pure water is 273 K and A, B and Y are monovalent ions)",
+  "options": [
+   "264.25 K",
+   "265.56 K",
+   "280.44 K",
+   "281.75 K"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "key_confirmed",
+   "notes": "Transcription matches page 7; solvent mass 84.65 g gives Tf about 264.2 K, matching key A; the blind solver likely assumed 100 g water."
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-039",
+  "subject": "chemistry",
+  "chapter": "the-solid-state",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 39,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Match the column A (type of crystalline solid) with the column B (example for each type) :\n\n| A | B |\n|---|---|\n| P. Molecular Solid | i. SiC |\n| Q. Ionic Solid | ii. Mg |\n| R. Metallic Solid | iii. $\\mathrm{H_2O}$ |\n| S. Network Solid | iv. $\\mathrm{MgO}$ |",
+  "options": [
+   "P-iii, Q-i, R-ii, S-iv",
+   "P-iv, Q-iii, R-ii, S-i",
+   "P-ii, Q-iv, R-iii, S-i",
+   "P-iii, Q-iv, R-ii, S-i"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-040",
+  "subject": "chemistry",
+  "chapter": "the-solid-state",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 40,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 7,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "A metal crystallises in a body centered cubic lattice with the metallic radius $\\sqrt{3}$ Å. The volume of the unit cell in $\\mathrm{m^3}$ is",
+  "options": [
+   "$64 \\times 10^{-29}$",
+   "$4 \\times 10^{-29}$",
+   "$6.4 \\times 10^{-29}$",
+   "$4 \\times 10^{-10}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-041",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 41,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The resistance of 0.1 M weak acid HA in a conductivity cell is $2 \\times 10^3$ Ohm. The cell constant of the cell is $0.78\\ \\mathrm{C\\,m^{-1}}$ and $\\lambda^\\circ_m$ of acid HA is $390\\ \\mathrm{S\\,cm^2\\,mol^{-1}}$. The pH of the solution is",
+  "options": [
+   "3.3",
+   "4.2",
+   "5",
+   "3"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-042",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 42,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In which one of the following reactions, rate constant has the unit $\\mathrm{mol\\,L^{-1}\\,s^{-1}}$ ?",
+  "options": [
+   "Acid catalysed hydrolysis of $\\mathrm{CH_3COOCH_3}$",
+   "$\\mathrm{CHCl_3 + Cl_2 \\longrightarrow CCl_4 + HCl}$",
+   "$\\mathrm{2NO_{(g)} + O_{2(g)} \\longrightarrow 2NO_{2(g)}}$",
+   "Decomposition of HI on the surface of Gold"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-043",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 43,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "For a reaction, the value of rate constant at 300 K is $6.0 \\times 10^5\\ \\mathrm{s^{-1}}$. The value of Arrhenius factor A at infinitely high temperature is :",
+  "options": [
+   "$6 \\times 10^5 \\times e^{-Ea/300R}$",
+   "$e^{-Ea/300R}$",
+   "$\\frac{6 \\times 10^{-5}}{300}$",
+   "$6 \\times 10^5$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-044",
+  "subject": "chemistry",
+  "chapter": "chemical-kinetics",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 44,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The rate constants $k_1$ and $k_2$ for two different reactions are $10^{16} \\times e^{-2000/T}$ and $10^{15} \\times e^{-1000/T}$ respectively. The temperature at which $k_1 = k_2$ is :",
+  "options": [
+   "$\\frac{2000}{2.303}$ K",
+   "2000 K",
+   "$\\frac{1000}{2.303}$ K",
+   "1000 K"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-045",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 45,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "During the electrolysis of brine, by using inert electrodes,",
+  "options": [
+   "$\\mathrm{O_2}$ liberates at anode",
+   "$\\mathrm{H_2}$ liberates at anode",
+   "Na deposits on cathode",
+   "$\\mathrm{Cl_2}$ liberates at anode"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-046",
+  "subject": "chemistry",
+  "chapter": "electrochemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 46,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 8,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Consider the following 4 electrodes\n\nA : $\\mathrm{Ag^+}$ (0.0001 M)/$\\mathrm{Ag_{(s)}}$; B : $\\mathrm{Ag^+}$ (0.1 M)/$\\mathrm{Ag_{(s)}}$; C : $\\mathrm{Ag^+}$ (0.01 M)/$\\mathrm{Ag_{(s)}}$; D : $\\mathrm{Ag^+}$ (0.001 M)/$\\mathrm{Ag_{(s)}}$; $E^\\circ_{\\mathrm{Ag^+/Ag}} = +0.80$ V.\n\nThen reduction potential in volts of the electrodes in the order",
+  "options": [
+   "B > C > D > A",
+   "C > D > A > B",
+   "A > D > C > B",
+   "A > B > C > D"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-047",
+  "subject": "chemistry",
+  "chapter": "surface-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 47,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "When $\\mathrm{FeCl_3}$ is added to excess of hot water gives a sol ‘X’. When $\\mathrm{FeCl_3}$ is added to $\\mathrm{NaOH_{(aq)}}$ solution, gives sol ‘Y’.\n\nX and Y formed in the above processes respectively are",
+  "options": [
+   "$\\mathrm{Fe_2O_3 \\cdot xH_2O / OH^-}$ and $\\mathrm{Fe_2O_3 \\cdot xH_2O / Fe^{3+}}$",
+   "$\\mathrm{Fe_2O_3 \\cdot xH_2O / H^+}$ and $\\mathrm{Fe_2O_3 \\cdot xH_2O / Na^+}$",
+   "$\\mathrm{Fe_2O_3 \\cdot xH_2O / Cl^-}$ and $\\mathrm{Fe_2O_3 \\cdot xH_2O / OH^-}$",
+   "$\\mathrm{Fe_2O_3 \\cdot xH_2O / Fe^{3+}}$ and $\\mathrm{Fe_2O_3 \\cdot xH_2O / OH^-}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-048",
+  "subject": "chemistry",
+  "chapter": "general-principles-and-processes-of-isolation-of-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 48,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The reducing agent in the given equations :\n\n$\\mathrm{4Ag_{(s)} + 8CN^-_{(aq)} + 2H_2O_{(aq)} + O_{2(g)} \\longrightarrow 4[Ag(CN)_2]^-_{(aq)} + 4OH^-_{(aq)}}$\n\n$\\mathrm{2[Ag(CN)_2]^-_{(aq)} + Zn_{(s)} \\longrightarrow [Zn(CN)_4]^{2-}_{(aq)} + 2Ag_{(s)}}$",
+  "options": [
+   "Zn",
+   "$\\mathrm{O_2}$",
+   "$\\mathrm{H_2O}$",
+   "$\\mathrm{CN^-}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-049",
+  "subject": "chemistry",
+  "chapter": "general-principles-and-processes-of-isolation-of-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 49,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "For the formation of which compound in Ellingham diagram $\\Delta G^\\circ$ becomes more and more negative with increase in temperature ?",
+  "options": [
+   "CO",
+   "FeO",
+   "ZnO",
+   "$\\mathrm{Cu_2O}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-050",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-12",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 50,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which of the following compound does not give dinitrogen on heating ?",
+  "options": [
+   "$\\mathrm{Ba(N_3)_2}$",
+   "$\\mathrm{NH_4NO_2}$",
+   "$\\mathrm{NH_4NO_3}$",
+   "$\\mathrm{(NH_4)_2Cr_2O_7}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-051",
+  "subject": "chemistry",
+  "chapter": "surface-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 51,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Aqueous solution of raw sugar when passed over beds of animal charcoal, it becomes colourless. Pick the correct set of terminologies that can be used for the above example.",
+  "options": [
+   "Adsorbent: Solution of Sugar; Adsorbate: Animal Charcoal; Process: Sorption",
+   "Adsorbent: Animal Charcoal; Adsorbate: Solution of Sugar; Process: Absorption",
+   "Adsorbent: Animal Charcoal; Adsorbate: Colouring substance; Process: Adsorption",
+   "Adsorbent: Colouring Substance; Adsorbate: Animal Charcoal; Process: Adsorption"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-052",
+  "subject": "chemistry",
+  "chapter": "surface-chemistry",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 52,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 9,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "For Freundlich adsorption isotherm, a graph of $\\log(x/m)$ Vs. $\\log(P)$ gives a straight line. The slope of line and its Y-axis intercept respectively are",
+  "options": [
+   "$\\log\\left(\\frac{1}{n}\\right)$, $K$",
+   "$\\frac{1}{n}$, $\\log K$",
+   "$\\log\\left(\\frac{1}{n}\\right)$, $\\log K$",
+   "$\\frac{1}{n}$, $K$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-053",
+  "subject": "chemistry",
+  "chapter": "chemical-bonding-and-molecular-structure",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 53,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In solid state, $\\mathrm{PCl_5}$ is a/an",
+  "options": [
+   "Octahedral structure",
+   "Ionic solid with $\\mathrm{[PCl_6]^+}$ and $\\mathrm{[PCl_4]^-}$",
+   "Ionic solid with $\\mathrm{[PCl_4]^+}$ and $\\mathrm{[PCl_6]^-}$",
+   "Covalent solid present in the form of $\\mathrm{P_2Cl_{10}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-054",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 54,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "In which one of the following pairs, both the elements does not have $(n-1)d^{10}ns^2$ configuration in its elementary state ?",
+  "options": [
+   "Zn, Cd",
+   "Cd, Hg",
+   "Hg, Cn",
+   "Cu, Zn"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-055",
+  "subject": "chemistry",
+  "chapter": "the-d-and-f-block-elements",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 55,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which of the following is CORRECT with respect to melting point of a transition element ?",
+  "options": [
+   "$\\mathrm{V > Cr}$",
+   "$\\mathrm{Cr > Mn}$",
+   "$\\mathrm{Mn > Fe}$",
+   "$\\mathrm{Ti > V}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "disputed",
+   "notes": "Key B2 cell reads 2 (Cr>Mn) confirmed; but NCERT mp values (V 2183 K > Cr 2180 K) also make A true, so two options are defensible; key choice B may rest on other data (Cr 1907 C > V 1890 C).",
+   "disputed": true,
+   "status_reason": "official key kept; Sonnet disagrees"
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-056",
+  "subject": "chemistry",
+  "chapter": "redox-reactions",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 56,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "$a\\mathrm{MnO_4^-} + b\\mathrm{S_2O_3^{2-}} + \\mathrm{H_2O} \\longrightarrow x\\mathrm{MnO_2} + y\\mathrm{SO_4^{2-}} + z\\mathrm{OH^-}$\n\na and y respectively are",
+  "options": [
+   "8; 3",
+   "8; 6",
+   "3; 6",
+   "8; 8"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-057",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 57,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which formula and name combination is INCORRECT ?",
+  "options": [
+   "$\\mathrm{K_3[Al(C_2O_4)_3]}$ – Potassium trioxalatoaluminate (III)",
+   "$\\mathrm{[Pt(NH_3)_2Cl(NO_2)]}$ – Diamminechloridonitrito – N – platinum (II)",
+   "$\\mathrm{[CoCl_2(en)_2]Cl}$ – Dichloridodiethylenediammine cobalt (II) chloride",
+   "$\\mathrm{[Co(NH_3)_4(H_2O)Cl]Cl_2}$ – Tetraammineaquachloridocobalt (III) chloride"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-058",
+  "subject": "chemistry",
+  "chapter": "coordination-compounds",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 58,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which of the following system in an octahedral complex has maximum unpaired electrons ?",
+  "options": [
+   "$d^9$ (high spin)",
+   "$d^6$ (low spin)",
+   "$d^4$ (low spin)",
+   "$d^7$ (high spin)"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-059",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-12",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 59,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "The correct decreasing order of basicity of hydrides of Group-15 elements is",
+  "options": [
+   "$\\mathrm{SbH_3 > AsH_3 > PH_3 > NH_3}$",
+   "$\\mathrm{PH_3 > AsH_3 > SbH_3 > NH_3}$",
+   "$\\mathrm{AsH_3 > SbH_3 > NH_3 > PH_3}$",
+   "$\\mathrm{NH_3 > PH_3 > AsH_3 > SbH_3}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "pyq-2023-chemistry-060",
+  "subject": "chemistry",
+  "chapter": "the-p-block-elements-12",
+  "source": {
+   "type": "pyq",
+   "name": "KCET 2023",
+   "year": 2023,
+   "version": "B2",
+   "number": 60,
+   "file": "sources/pyq/2023/chemistry/2023-chemistry-question_paper-B2-collegedekho.pdf",
+   "page": 10,
+   "key_file": "sources/pyq/2023/chemistry/2023-chemistry-answer_key_final-na-kea.pdf"
+  },
+  "stem": "Which one of the following oxoacids of phosphorus can reduce $\\mathrm{AgNO_3}$ to metallic silver ?",
+  "options": [
+   "$\\mathrm{H_3PO_2}$",
+   "$\\mathrm{H_4P_2O_7}$",
+   "$\\mathrm{H_4P_2O_6}$",
+   "$\\mathrm{H_3PO_4}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": false,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

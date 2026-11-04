@@ -1,0 +1,1600 @@
+[
+ {
+  "id": "tp-neet-2025-physics-001",
+  "subject": "physics",
+  "chapter": "mechanical-properties-of-fluids",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 1,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Consider a water tank shown in the figure. It has one wall at $x = L$ and can be taken to be very wide in the $z$ direction. When filled with a liquid of surface tension $S$ and density $\\rho$, the liquid surface makes angle $\\theta_0$ ($\\theta_0 \\ll 1$) with the $x$-axis at $x = L$. If $y(x)$ is the height of the surface then the equation for $y(x)$ is:\n\n(take $\\theta(x) = \\sin\\theta(x) = \\tan\\theta(x) = \\frac{dy}{dx}$, $g$ is the acceleration due to gravity)",
+  "options": [
+   "$\\frac{d^2y}{dx^2}=\\frac{\\rho g}{S}x$",
+   "$\\frac{d^2y}{dx^2}=\\frac{\\rho g}{S}y$",
+   "$\\frac{d^2y}{dx^2}=\\sqrt{\\frac{\\rho g}{S}}$",
+   "$\\frac{dy}{dx}=\\sqrt{\\frac{\\rho g}{S}}\\,x$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-neet-2025-physics-001.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-002",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 2,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "A microscope has an objective of focal length 2 cm, eyepiece of focal length 4 cm and the tube length of 40 cm. If the distance of distinct vision of eye is 25 cm, the magnification in the microscope is",
+  "options": [
+   "100",
+   "125",
+   "150",
+   "250"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-003",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 3,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "An electron (mass $9\\times10^{-31}$ kg and charge $1.6\\times10^{-19}$ C) moving with speed $c/100$ ($c$ = speed of light) is injected into a magnetic field $\\vec{B}$ of magnitude $9\\times10^{-4}$ T perpendicular to its direction of motion. We wish to apply an uniform electric field $\\vec{E}$ together with the magnetic field so that the electron does not deflect from its path. Then (speed of light $c = 3\\times10^{8}\\ \\mathrm{m\\,s^{-1}}$)",
+  "options": [
+   "$\\vec{E}$ is perpendicular to $\\vec{B}$ and its magnitude is $27\\times10^{4}\\ \\mathrm{V\\,m^{-1}}$",
+   "$\\vec{E}$ is perpendicular to $\\vec{B}$ and its magnitude is $27\\times10^{2}\\ \\mathrm{V\\,m^{-1}}$",
+   "$\\vec{E}$ is parallel to $\\vec{B}$ and its magnitude is $27\\times10^{2}\\ \\mathrm{V\\,m^{-1}}$",
+   "$\\vec{E}$ is parallel to $\\vec{B}$ and its magnitude is $27\\times10^{4}\\ \\mathrm{V\\,m^{-1}}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-004",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 4,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "There are two inclined surfaces of equal length ($L$) and same angle of inclination $45^\\circ$ with the horizontal. One of them is rough and the other is perfectly smooth. A given body takes 2 times as much time to slide down on rough surface than on the smooth surface. The coefficient of kinetic friction ($\\mu_k$) between the object and the rough surface is close to",
+  "options": [
+   "0.25",
+   "0.40",
+   "0.5",
+   "0.75"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-005",
+  "subject": "physics",
+  "chapter": "work-energy-and-power",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 5,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "The kinetic energies of two similar cars $A$ and $B$ are 100 J and 225 J respectively. On applying breaks, car $A$ stops after 1000 m and car $B$ stops after 1500 m. If $F_A$ and $F_B$ are the forces applied by the breaks on cars $A$ and $B$ respectively, then the ratio $\\frac{F_A}{F_B}$ is",
+  "options": [
+   "$\\frac{3}{2}$",
+   "$\\frac{2}{3}$",
+   "$\\frac{1}{3}$",
+   "$\\frac{1}{2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-006",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 6,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "The current passing through the battery in the given circuit, is:",
+  "options": [
+   "2.0 A",
+   "0.5 A",
+   "2.5 A",
+   "1.5 A"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-neet-2025-physics-006.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-007",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 7,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "A bob of heavy mass $m$ is suspended by a light string of length $l$. The bob is given a horizontal velocity $v_0$ as shown in figure. If the string gets slack at some point $P$ making an angle $\\theta$ from the horizontal, the ratio of the speed $v$ of the bob at point $P$ to its initial speed $v_0$ is:",
+  "options": [
+   "$(\\sin\\theta)^{\\frac{1}{2}}$",
+   "$\\left(\\frac{1}{2+3\\sin\\theta}\\right)^{\\frac{1}{2}}$",
+   "$\\left(\\frac{\\cos\\theta}{2+3\\sin\\theta}\\right)^{\\frac{1}{2}}$",
+   "$\\left(\\frac{\\sin\\theta}{2+3\\sin\\theta}\\right)^{\\frac{1}{2}}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-neet-2025-physics-007.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-008",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 8,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "The output ($Y$) of the given logic implementation is similar to the output of an/a _____ gate.",
+  "options": [
+   "AND",
+   "NAND",
+   "OR",
+   "NOR"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-neet-2025-physics-008.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-009",
+  "subject": "physics",
+  "chapter": "electromagnetic-waves",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 9,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 7,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "The electric field in a plane electromagnetic wave is given by\n\n$E_z = 60\\cos(5x + 1.5\\times10^{9}\\,t)$ V/m.\n\nThen expression for the corresponding magnetic field is (here subscripts denote the direction of the field) :",
+  "options": [
+   "$B_y = 2\\times10^{-7}\\cos(5x + 1.5\\times10^{9}\\,t)\\ \\mathrm{T}$",
+   "$B_x = 2\\times10^{-7}\\cos(5x + 1.5\\times10^{9}\\,t)\\ \\mathrm{T}$",
+   "$B_z = 60\\cos(5x + 1.5\\times10^{9}\\,t)\\ \\mathrm{T}$",
+   "$B_y = 60\\sin(5x + 1.5\\times10^{9}\\,t)\\ \\mathrm{T}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-010",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 10,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 7,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "A ball of mass 0.5 kg is dropped from a height of 40 m. The ball hits the ground and rises to a height of 10 m. The impulse imparted to the ball during its collision with the ground is (Take $g = 9.8\\ \\mathrm{m/s^2}$)",
+  "options": [
+   "21 NS",
+   "7 NS",
+   "0",
+   "84 NS"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-011",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 11,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 8,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "$AB$ is a part of an electrical circuit (see figure). The potential difference “$V_A - V_B$”, at the instant when current $i = 2$ A and is increasing at a rate of 1 amp/second is:",
+  "options": [
+   "5 volt",
+   "6 volt",
+   "9 volt",
+   "10 volt"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-neet-2025-physics-011.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-012",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 12,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 8,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "A 2 amp current is flowing through two different small circular copper coils having radii ratio $1:2$. The ratio of their respective magnetic moments will be",
+  "options": [
+   "$1:4$",
+   "$1:2$",
+   "$2:1$",
+   "$4:1$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-013",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 13,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 8,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "In a certain camera, a combination of four similar thin convex lenses are arranged axially in contact. Then the power of the combination and the total magnification in comparison to the power ($p$) and magnification ($m$) for each lens will be, respectively",
+  "options": [
+   "$4p$ and $4m$",
+   "$p^4$ and $4m$",
+   "$4p$ and $m^4$",
+   "$p^4$ and $m^4$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-014",
+  "subject": "physics",
+  "chapter": "kinetic-theory",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 14,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 8,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "An oxygen cylinder of volume 30 litre has 18.20 moles of oxygen. After some oxygen is withdrawn from the cylinder, its gauge pressure drops to 11 atmospheric pressure at temperature 27°C. The mass of the oxygen withdrawn from the cylinder is nearly equal to:\n\n[Given, $R=\\frac{100}{12}\\ \\mathrm{J\\,mol^{-1}\\,K^{-1}}$, and molecular mass of $\\mathrm{O_2}$ = 32, 1 atm pressure = $1.01\\times10^{5}$ N/m]",
+  "options": [
+   "0.125 kg",
+   "0.144 kg",
+   "0.116 kg",
+   "0.156 kg"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "key_confirmed",
+   "notes": "Gauge 11 atm = 12 atm absolute; n=14.54 mol, withdrawn 3.66 mol = 0.116 kg; transcription matches page 8."
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-015",
+  "subject": "physics",
+  "chapter": "motion-in-a-straight-line",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 15,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 9,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "In some appropriate units, time ($t$) and position ($x$) relation of a moving particle is given by $t = x^2 + x$. The acceleration of the particle is",
+  "options": [
+   "$-\\frac{2}{(x+2)^3}$",
+   "$-\\frac{2}{(2x+1)^3}$",
+   "$+\\frac{2}{(x+1)^3}$",
+   "$+\\frac{2}{2x+1}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-016",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 16,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 9,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "To an ac power supply of 220 V at 50 Hz, a resistor of 20 $\\Omega$, a capacitor of reactance 25 $\\Omega$ and an inductor of reactance 45 $\\Omega$ are connected in series. The corresponding current in the circuit and the phase angle between the current and the voltage is, respectively",
+  "options": [
+   "7.8 A and 30°",
+   "7.8 A and 45°",
+   "15.6 A and 30°",
+   "15.6 A and 45°"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-017",
+  "subject": "physics",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 17,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 10,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "The Sun rotates around its centre once in 27 days. What will be the period of revolution if the Sun were to expand to twice its present radius without any external influence? Assume the Sun to be a sphere of uniform density.",
+  "options": [
+   "100 days",
+   "105 days",
+   "115 days",
+   "108 days"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-018",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 18,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 10,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "A model for quantized motion of an electron in a uniform magnetic field $B$ states that the flux passing through the orbit of the electron is $n\\left(\\frac{h}{e}\\right)$ where $n$ is an integer, $h$ is Planck’s constant and $e$ is the magnitude of electron’s charge. According to the model, the magnetic moment of an electron in its lowest energy state will be ($m$ is the mass of the electron)",
+  "options": [
+   "$\\frac{he}{\\pi m}$",
+   "$\\frac{he}{2\\pi m}$",
+   "$\\frac{heB}{\\pi m}$",
+   "$\\frac{heB}{2\\pi m}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-019",
+  "subject": "physics",
+  "chapter": "thermal-properties-of-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 19,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 11,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Three identical heat conducting rods are connected in series as shown in the figure. The rods on the sides have thermal conductivity $2K$ while that in the middle has thermal conductivity $K$. The left end of the combination is maintained at temperature $3T$ and the right end at $T$. The rods are thermally insulated from outside. In steady state, temperature at the left junction is $T_1$ and that at the right junction is $T_2$. The ratio $T_1/T_2$ is",
+  "options": [
+   "$\\frac{3}{2}$",
+   "$\\frac{4}{3}$",
+   "$\\frac{5}{3}$",
+   "$\\frac{5}{4}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-neet-2025-physics-019.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-020",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 20,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 11,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "The plates of a parallel plate capacitor are separated by $d$. Two slabs of different dielectric constant $K_1$ and $K_2$ with thickness $\\frac{3}{8}d$ and $\\frac{d}{2}$, respectively are inserted in the capacitor. Due to this, the capacitance becomes two times larger than when there is nothing between the plates.\n\nIf $K_1 = 1.25\\,K_2$, the value of $K_1$ is:",
+  "options": [
+   "2.66",
+   "2.33",
+   "1.60",
+   "1.33"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-021",
+  "subject": "physics",
+  "chapter": "motion-in-a-straight-line",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 21,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 12,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Two cities $X$ and $Y$ are connected by a regular bus service with a bus leaving in either direction every $T$ min. A girl is driving scooty with a speed of 60 km/h in the direction $X$ to $Y$ notices that a bus goes past her every 30 minutes in the direction of her motion, and every 10 minutes in the opposite direction. Choose the correct option for the period $T$ of the bus service and the speed (assumed constant) of the buses.",
+  "options": [
+   "9 min, 40 km/h",
+   "25 min, 100 km/h",
+   "10 min, 90 km/h",
+   "15 min, 120 km/h"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-022",
+  "subject": "physics",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 22,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "A uniform rod of mass 20 kg and length 5 m leans against a smooth vertical wall making an angle of $60^\\circ$ with it. The other end rests on a rough horizontal floor. The friction force that the floor exerts on the rod is (Take $g = 10\\ \\mathrm{m/s^2}$)",
+  "options": [
+   "100 N",
+   "$100\\sqrt{3}$ N",
+   "200 N",
+   "$200\\sqrt{3}$ N"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-023",
+  "subject": "physics",
+  "chapter": "oscillations",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 23,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 13,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "In an oscillating spring mass system, a spring is connected to a box filled with sand. As the box oscillates, sand leaks slowly out of the box vertically so that the average frequency $\\omega(t)$ and average amplitude $A(t)$ of the system change with time $t$. Which one of the following options schematically depicts these changes correctly?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-neet-2025-physics-023.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "key_confirmed",
+   "notes": "Omega rises as mass falls and amplitude decreases (option 2); transcription and option mapping match the image."
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-024",
+  "subject": "physics",
+  "chapter": "units-and-measurement",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 24,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "A balloon is made of a material of surface tension $S$ and its inflation outlet (from where gas is filled in it) has small area $A$. It is filled with a gas of density $\\rho$ and takes a spherical shape of radius $R$. When the gas is allowed to flow freely out of it, its radius $r$ changes from $R$ to $0$ (zero) in time $T$. If the speed $v(r)$ of gas coming out of the balloon depends on $r$ as $r^{a}$ and $T \\propto S^{\\alpha} A^{\\beta} \\rho^{\\gamma} R^{\\delta}$ then",
+  "options": [
+   "$a=\\frac{1}{2},\\ \\alpha=\\frac{1}{2},\\ \\beta=-1,\\ \\gamma=+1,\\ \\delta=\\frac{3}{2}$",
+   "$a=-\\frac{1}{2},\\ \\alpha=-\\frac{1}{2},\\ \\beta=-1,\\ \\gamma=-\\frac{1}{2},\\ \\delta=\\frac{5}{2}$",
+   "$a=-\\frac{1}{2},\\ \\alpha=-\\frac{1}{2},\\ \\beta=-1,\\ \\gamma=\\frac{1}{2},\\ \\delta=\\frac{7}{2}$",
+   "$a=\\frac{1}{2},\\ \\alpha=\\frac{1}{2},\\ \\beta=-\\frac{1}{2},\\ \\gamma=\\frac{1}{2},\\ \\delta=\\frac{7}{2}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-025",
+  "subject": "physics",
+  "chapter": "units-and-measurement",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 25,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 14,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Consider the diameter of a spherical object being measured with the help of a Vernier callipers. Suppose its 10 Vernier Scale Divisions (V.S.D.) are equal to its 9 Main Scale Divisions (M.S.D.). The least division in the M.S. is 0.1 cm and the zero of V.S. is at $x = 0.1$ cm when the jaws of Vernier callipers are closed.\n\nIf the main scale reading for the diameter is $M = 5$ cm and the number of coinciding vernier division is 8, the measured diameter after zero error correction, is",
+  "options": [
+   "5.18 cm",
+   "5.08 cm",
+   "4.98 cm",
+   "5.00 cm"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-026",
+  "subject": "physics",
+  "chapter": "electromagnetic-waves",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 26,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "A parallel plate capacitor made of circular plates is being charged such that the surface charge density on its plates is increasing at a constant rate with time. The magnetic field arising due to displacement current is:",
+  "options": [
+   "Zero at all places",
+   "Constant between the plates and zero outside the plates",
+   "Non-zero everywhere with maximum at the imaginary cylindrical surface connecting peripheries of the plates",
+   "Zero between the plates and non-zero outside"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-027",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 27,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 15,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "An unpolarized light beam travelling in air is incident on a medium of refractive index 1.73 at Brewster’s angle. Then",
+  "options": [
+   "Reflected light is completely polarized and the angle of reflection is close to $60^\\circ$",
+   "Reflected light is partially polarized and the angle of reflection is close to $30^\\circ$",
+   "Both reflected and transmitted light are perfectly polarized with angles of reflection and refraction close to $60^\\circ$ and $30^\\circ$, respectively",
+   "Transmitted light is completely polarized with angle of refraction close to $30^\\circ$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-028",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 28,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 16,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Two identical charged conducting spheres $A$ and $B$ have their centres separated by a certain distance. Charge on each sphere is $q$ and the force of repulsion between them is $F$. A third identical uncharged conducting sphere is brought in contact with sphere $A$ first and then with $B$ and finally removed from both. New force of repulsion between spheres $A$ and $B$ (Radii of $A$ and $B$ are negligible compared to the distance of separation so that for calculating force between them they can be considered as point charges) is best given as:",
+  "options": [
+   "$\\frac{3F}{5}$",
+   "$\\frac{2F}{3}$",
+   "$\\frac{F}{2}$",
+   "$\\frac{3F}{8}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-029",
+  "subject": "physics",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 29,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 16,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "A container has two chambers of volumes $V_1 = 2$ litres and $V_2 = 3$ litres separated by a partition made of a thermal insulator. The chambers contain $n_1 = 5$ and $n_2 = 4$ moles of ideal gas at pressures $p_1 = 1$ atm and $p_2 = 2$ atm, respectively. When the partition is removed, the mixture attains an equilibrium pressure of",
+  "options": [
+   "1.3 atm",
+   "1.6 atm",
+   "1.4 atm",
+   "1.8 atm"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-030",
+  "subject": "physics",
+  "chapter": "atoms",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 30,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 16,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "A particle of mass $m$ is moving around the origin with a constant force $F$ pulling it towards the origin. If Bohr model is used to describe its motion, the radius of the $n^{th}$ orbit and the particle’s speed $v$ in the orbit depend on $n$ as",
+  "options": [
+   "$r \\propto n^{1/3}$; $v \\propto n^{1/3}$",
+   "$r \\propto n^{1/3}$; $v \\propto n^{2/3}$",
+   "$r \\propto n^{2/3}$; $v \\propto n^{1/3}$",
+   "$r \\propto n^{4/3}$; $v \\propto n^{-1/3}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-031",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 31,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 17,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "The radius of Martian orbit around the Sun is about 4 times the radius of the orbit of Mercury. The Martian year is 687 Earth days. Then which of the following is the length of 1 year on Mercury?",
+  "options": [
+   "88 earth days",
+   "225 earth days",
+   "172 earth days",
+   "124 earth days"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-032",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 32,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 17,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "A body weighs 48 N on the surface of the earth. The gravitational force experienced by the body due to the earth at a height equal to one-third the radius of the earth from its surface is :",
+  "options": [
+   "16 N",
+   "27 N",
+   "32 N",
+   "36 N"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-033",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 33,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 17,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "A wire of resistance $R$ is cut into 8 equal pieces. From these pieces two equivalent resistances are made by adding four of these together in parallel. Then these two sets are added in series. The net effective resistance of the combination is:",
+  "options": [
+   "$\\frac{R}{64}$",
+   "$\\frac{R}{32}$",
+   "$\\frac{R}{16}$",
+   "$\\frac{R}{8}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-034",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 34,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 18,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "De-Broglie wavelength of an electron orbiting in the $n = 2$ state of hydrogen atom is close to\n\n(Given Bohr radius = 0.052 nm)",
+  "options": [
+   "0.067 nm",
+   "0.67 nm",
+   "1.67 nm",
+   "2.67 nm"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-035",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 35,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 18,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "An electric dipole with dipole moment $5\\times10^{-6}$ Cm is aligned with the direction of a uniform electric field of magnitude $4\\times10^{5}$ N/C. The dipole is then rotated through an angle of $60^\\circ$ with respect to the electric field. The change in the potential energy of the dipole is:",
+  "options": [
+   "0.8 J",
+   "1.0 J",
+   "1.2 J",
+   "1.5 J"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-036",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 36,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 19,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "A constant voltage of 50 V is maintained between the points $A$ and $B$ of the circuit shown in the figure. The current through the branch $CD$ of the circuit is:",
+  "options": [
+   "1.5 A",
+   "2.0 A",
+   "2.5 A",
+   "3.0 A"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-neet-2025-physics-036.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-037",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 37,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 19,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "A photon and an electron (mass $m$) have the same energy $E$. The ratio ($\\lambda_{\\text{photon}}/\\lambda_{\\text{electron}}$) of their de Broglie wavelengths is: ($c$ is the speed of light)",
+  "options": [
+   "$\\sqrt{\\frac{E}{2m}}$",
+   "$c\\sqrt{2mE}$",
+   "$c\\sqrt{\\frac{2m}{E}}$",
+   "$\\frac{1}{c}\\sqrt{\\frac{E}{2m}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-038",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 38,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 20,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Which of the following options represent the variation of photoelectric current with property of light shown on the $x$-axis?",
+  "options": [
+   "A only",
+   "A and C",
+   "A and D",
+   "B and D"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-neet-2025-physics-038.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-039",
+  "subject": "physics",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 39,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 20,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "A sphere of radius $R$ is cut from a larger solid sphere of radius $2R$ as shown in the figure. The ratio of the moment of inertia of the smaller sphere to that of the rest part of the sphere about the $Y$-axis is:",
+  "options": [
+   "$\\frac{7}{8}$",
+   "$\\frac{7}{40}$",
+   "$\\frac{7}{57}$",
+   "$\\frac{7}{64}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-neet-2025-physics-039.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-040",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 40,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 21,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "A full wave rectifier circuit with diodes ($D_1$) and ($D_2$) is shown in the figure. If input supply voltage $V_{in} = 220\\sin(100\\pi t)$ volt, then at $t = 15$ msec",
+  "options": [
+   "$D_1$ is forward biased, $D_2$ is reverse biased",
+   "$D_1$ is reverse biased, $D_2$ is forward biased.",
+   "$D_1$ and $D_2$ both are forward biased",
+   "$D_1$ and $D_2$ both are reverse biased"
+  ],
+  "answer": 0,
+  "accepted": [
+   0,
+   1
+  ],
+  "images": [
+   "tp-neet-2025-physics-040.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-041",
+  "subject": "physics",
+  "chapter": "thermodynamics",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 41,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 22,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Two gases $A$ and $B$ are filled at the same pressure in separate cylinders with movable pistons of radius $r_A$ and $r_B$, respectively. On supplying an equal amount of heat to both the systems reversibly under constant pressure, the pistons of gas $A$ and $B$ are displaced by 16 cm and 9 cm, respectively. If the change in their internal energy is the same, then the ratio $\\frac{r_A}{r_B}$ is equal to",
+  "options": [
+   "$\\frac{4}{3}$",
+   "$\\frac{3}{4}$",
+   "$\\frac{2}{\\sqrt{3}}$",
+   "$\\frac{\\sqrt{3}}{2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-042",
+  "subject": "physics",
+  "chapter": "units-and-measurement",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 42,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 23,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "A physical quantity $P$ is related to four observations $a$, $b$, $c$ and $d$ as follows:\n\n$P=\\frac{a^3b^2}{c\\sqrt{d}}$\n\nThe percentage errors of measurement in $a$, $b$, $c$ and $d$ are 1%, 3%, 2%, and 4% respectively. The percentage error in the quantity $P$ is",
+  "options": [
+   "10%",
+   "2%",
+   "13%",
+   "15%"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-043",
+  "subject": "physics",
+  "chapter": "wave-optics",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 43,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 23,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "The intensity of transmitted light when a polaroid sheet, placed between two crossed polaroids at $22.5^\\circ$ from the polarization axis of one of the polaroids, is ($I_0$ is the intensity of polarised light after passing through the first polaroid):",
+  "options": [
+   "$\\frac{I_0}{2}$",
+   "$\\frac{I_0}{4}$",
+   "$\\frac{I_0}{8}$",
+   "$\\frac{I_0}{16}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-044",
+  "subject": "physics",
+  "chapter": "oscillations",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 44,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 24,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "Two identical point masses $P$ and $Q$, suspended from two separate massless springs of spring constants $k_1$ and $k_2$, respectively, oscillate vertically. If their maximum speeds are the same, the ratio ($A_Q/A_P$) of the amplitude $A_Q$ of mass $Q$ to the amplitude $A_P$ of mass $P$ is",
+  "options": [
+   "$\\frac{k_2}{k_1}$",
+   "$\\frac{k_1}{k_2}$",
+   "$\\sqrt{\\frac{k_2}{k_1}}$",
+   "$\\sqrt{\\frac{k_1}{k_2}}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2025-physics-045",
+  "subject": "physics",
+  "chapter": "waves",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2025",
+   "year": 2025,
+   "version": "45",
+   "number": 45,
+   "file": "sources/third-party/neet/2025-45/neet-2025-45-solved_paper-aakash.pdf",
+   "page": 24,
+   "key_file": "sources/third-party/neet/2025-45/neet-2025-allcodes-answer_key-nta.pdf"
+  },
+  "stem": "A pipe open at both ends has a fundamental frequency $f$ in air. The pipe is now dipped vertically in a water drum to half of its length. The fundamental frequency of the air column is now equal to:",
+  "options": [
+   "$\\frac{f}{2}$",
+   "$f$",
+   "$\\frac{3f}{2}$",
+   "$2f$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

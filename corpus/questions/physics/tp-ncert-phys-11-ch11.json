@@ -1,0 +1,284 @@
+[
+ {
+  "id": "tp-ncert-phys-11-ch11-001",
+  "subject": "physics",
+  "chapter": "thermal-properties-of-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 1,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep311.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "A bimetallic strip is made of aluminium and steel $(\\alpha_{\\mathrm{Al}} > \\alpha_{\\mathrm{steel}})$. On heating, the strip will",
+  "options": [
+   "remain straight.",
+   "get twisted.",
+   "will bend with aluminium on concave side.",
+   "will bend with steel on concave side."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch11-002",
+  "subject": "physics",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 2,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep311.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "A uniform metallic rod rotates about its perpendicular bisector with constant angular speed. If it is heated uniformly to raise its temperature slightly",
+  "options": [
+   "its speed of rotation increases.",
+   "its speed of rotation decreases.",
+   "its speed of rotation remains same.",
+   "its speed increases because its moment of inertia increases."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch11-003",
+  "subject": "physics",
+  "chapter": "thermal-properties-of-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 3,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep311.pdf",
+   "page": 1,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "The graph between two temperature scales A and B is shown in Fig. 11.1. Between upper fixed point and lower fixed point there are 150 equal division on scale A and 100 on scale B. The relationship for conversion between the two scales is given by",
+  "options": [
+   "$\\frac{t_A - 180}{100} = \\frac{t_B}{150}$",
+   "$\\frac{t_A - 30}{150} = \\frac{t_B}{100}$",
+   "$\\frac{t_B - 180}{150} = \\frac{t_A}{100}$",
+   "$\\frac{t_B - 40}{100} = \\frac{t_A}{180}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-ncert-phys-11-ch11-003.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch11-004",
+  "subject": "physics",
+  "chapter": "mechanical-properties-of-fluids",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 4,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep311.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "An aluminium sphere is dipped into water. Which of the following is true?",
+  "options": [
+   "Buoyancy will be less in water at $0^\\circ\\mathrm{C}$ than that in water at $4^\\circ\\mathrm{C}$.",
+   "Buoyancy will be more in water at $0^\\circ\\mathrm{C}$ than that in water at $4^\\circ\\mathrm{C}$.",
+   "Buoyancy in water at $0^\\circ\\mathrm{C}$ will be same as that in water at $4^\\circ\\mathrm{C}$.",
+   "Buoyancy may be more or less in water at $4^\\circ\\mathrm{C}$ depending on the radius of the sphere."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch11-005",
+  "subject": "physics",
+  "chapter": "oscillations",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 5,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep311.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "As the temperature is increased, the time period of a pendulum",
+  "options": [
+   "increases as its effective length increases even though its centre of mass still remains at the centre of the bob.",
+   "decreases as its effective length increases even though its centre of mass still remains at the centre of the bob.",
+   "increases as its effective length increases due to shifting of centre of mass below the centre of the bob.",
+   "decreases as its effective length remains same but the centre of mass shifts above the centre of the bob."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch11-006",
+  "subject": "physics",
+  "chapter": "thermal-properties-of-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 6,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep311.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "Heat is associated with",
+  "options": [
+   "kinetic energy of random motion of molecules.",
+   "kinetic energy of orderly motion of molecules.",
+   "total kinetic energy of random and orderly motion of molecules.",
+   "kinetic energy of random motion in some cases and kinetic energy of orderly motion in other."
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch11-007",
+  "subject": "physics",
+  "chapter": "thermal-properties-of-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 7,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep311.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "The radius of a metal sphere at room temperature $T$ is $R$, and the coefficient of linear expansion of the metal is $\\alpha$. The sphere is heated a little by a temperature $\\Delta T$ so that its new temperature is $T + \\Delta T$. The increase in the volume of the sphere is approximately",
+  "options": [
+   "$2\\pi R\\alpha\\,\\Delta T$",
+   "$\\pi R^2\\alpha\\,\\Delta T$",
+   "$4\\pi R^3\\alpha\\,\\Delta T / 3$",
+   "$4\\pi R^3\\alpha\\,\\Delta T$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-ncert-phys-11-ch11-008",
+  "subject": "physics",
+  "chapter": "thermal-properties-of-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NCERT Exemplar 11",
+   "year": 0,
+   "version": "",
+   "number": 8,
+   "file": "sources/third-party/physics/ncert-exemplar-11/keep311.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/physics/ncert-exemplar-11/keep316.pdf"
+  },
+  "stem": "A sphere, a cube and a thin circular plate, all of same material and same mass are initially heated to same high temperature.",
+  "options": [
+   "Plate will cool fastest and cube the slowest",
+   "Sphere will cool fastest and cube the slowest",
+   "Plate will cool fastest and sphere the slowest",
+   "Cube will cool fastest and plate the slowest."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": false,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]

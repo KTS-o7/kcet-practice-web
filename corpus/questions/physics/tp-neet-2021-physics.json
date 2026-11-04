@@ -1,0 +1,1772 @@
+[
+ {
+  "id": "tp-neet-2021-physics-001",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 1,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "Consider the following statements (A) and (B) and identify the correct answer.\n\n(A) A zener diode is connected in reverse bias, when used as a voltage regulator.\n\n(B) The potential barrier of p-n junction lies between 0.1 V to 0.3 V.",
+  "options": [
+   "(A) and (B) both are correct.",
+   "(A) and (B) both are incorrect.",
+   "(A) is correct and (B) is incorrect.",
+   "(A) is incorrect but (B) is correct."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-002",
+  "subject": "physics",
+  "chapter": "electromagnetic-waves",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 2,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "A capacitor of capacitance '$C$', is connected across an ac source of voltage $V$, given by\n\n$V = V_0\\sin\\omega t$\n\nThe displacement current between the plates of the capacitor, would then be given by :",
+  "options": [
+   "$I_d = V_0\\,\\omega C\\cos\\omega t$",
+   "$I_d = \\frac{V_0}{\\omega C}\\cos\\omega t$",
+   "$I_d = \\frac{V_0}{\\omega C}\\sin\\omega t$",
+   "$I_d = V_0\\,\\omega C\\sin\\omega t$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-003",
+  "subject": "physics",
+  "chapter": "oscillations",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 3,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "A body is executing simple harmonic motion with frequency '$n$', the frequency of its potential energy is :",
+  "options": [
+   "$n$",
+   "$2n$",
+   "$3n$",
+   "$4n$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-004",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 4,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "The equivalent capacitance of the combination shown in the figure is :",
+  "options": [
+   "$3C$",
+   "$2C$",
+   "$\\frac{C}{2}$",
+   "$\\frac{3C}{2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-neet-2021-physics-004.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-005",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 5,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "Find the value of the angle of emergence from the prism. Refractive index of the glass is $\\sqrt{3}$.",
+  "options": [
+   "$60^\\circ$",
+   "$30^\\circ$",
+   "$45^\\circ$",
+   "$90^\\circ$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [
+   "tp-neet-2021-physics-005.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-006",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 6,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "A dipole is placed in an electric field as shown. In which direction will it move ?",
+  "options": [
+   "towards the left as its potential energy will increase.",
+   "towards the right as its potential energy will decrease.",
+   "towards the left as its potential energy will decrease.",
+   "towards the right as its potential energy will increase."
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-neet-2021-physics-006.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-007",
+  "subject": "physics",
+  "chapter": "kinetic-theory",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 7,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 2,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "Match Column - I and Column - II and choose the correct match from the given choices.\n\n| Column - I | Column - II |\n|---|---|\n| (A) Root mean square speed of gas molecules | (P) $\\frac{1}{3}nm\\bar{v}^2$ |\n| (B) Pressure exerted by ideal gas | (Q) $\\sqrt{\\frac{3RT}{M}}$ |\n| (C) Average kinetic energy of a molecule | (R) $\\frac{5}{2}RT$ |\n| (D) Total internal energy of 1 mole of a diatomic gas | (S) $\\frac{3}{2}k_BT$ |",
+  "options": [
+   "(A) - (R), (B) - (P), (C) - (S), (D) - (Q)",
+   "(A) - (Q), (B) - (R), (C) - (S), (D) - (P)",
+   "(A) - (Q), (B) - (P), (C) - (S), (D) - (R)",
+   "(A) - (R), (B) - (Q), (C) - (P), (D) - (S)"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-008",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 8,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "A convex lens '$A$' of focal length $20$ cm and a concave lens '$B$' of focal length $5$ cm are kept along the same axis with a distance '$d$' between them. If a parallel beam of light falling on '$A$' leaves '$B$' as a parallel beam, then the distance '$d$' in cm will be :",
+  "options": [
+   "25",
+   "15",
+   "50",
+   "30"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-009",
+  "subject": "physics",
+  "chapter": "units-and-measurement",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 9,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "If force $[F]$, acceleration $[A]$ and time $[T]$ are chosen as the fundamental physical quantities. Find the dimensions of energy.",
+  "options": [
+   "$[F][A][T]$",
+   "$[F][A][T^2]$",
+   "$[F][A][T^{-1}]$",
+   "$[F][A^{-1}][T]$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-010",
+  "subject": "physics",
+  "chapter": "thermal-properties-of-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 10,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "A cup of coffee cools from $90^\\circ$C to $80^\\circ$C in $t$ minutes, when the room temperature is $20^\\circ$C. The time taken by a similar cup of coffee to cool from $80^\\circ$C to $60^\\circ$C at a room temperature same at $20^\\circ$C is :",
+  "options": [
+   "$\\frac{13}{10}t$",
+   "$\\frac{13}{5}t$",
+   "$\\frac{10}{13}t$",
+   "$\\frac{5}{13}t$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-011",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 11,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "A particle is released from height $S$ from the surface of the Earth. At a certain height its kinetic energy is three times its potential energy. The height from the surface of earth and the speed of the particle at that instant are respectively :",
+  "options": [
+   "$\\frac{S}{4},\\ \\frac{3gS}{2}$",
+   "$\\frac{S}{4},\\ \\frac{\\sqrt{3gS}}{2}$",
+   "$\\frac{S}{2},\\ \\frac{\\sqrt{3gS}}{2}$",
+   "$\\frac{S}{4},\\ \\sqrt{\\frac{3gS}{2}}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-012",
+  "subject": "physics",
+  "chapter": "mechanical-properties-of-fluids",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 12,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "The velocity of a small ball of mass $M$ and density $d$, when dropped in a container filled with glycerine becomes constant after some time. If the density of glycerine is $\\frac{d}{2}$, then the viscous force acting on the ball will be :",
+  "options": [
+   "$\\frac{Mg}{2}$",
+   "$Mg$",
+   "$\\frac{3}{2}Mg$",
+   "$2Mg$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-013",
+  "subject": "physics",
+  "chapter": "electromagnetic-waves",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 13,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "For a plane electromagnetic wave propagating in $x$-direction, which one of the following combination gives the correct possible directions for electric field (E) and magnetic field (B) respectively ?",
+  "options": [
+   "$\\hat{j}+\\hat{k},\\ \\hat{j}+\\hat{k}$",
+   "$-\\hat{j}+\\hat{k},\\ -\\hat{j}-\\hat{k}$",
+   "$\\hat{j}+\\hat{k},\\ -\\hat{j}-\\hat{k}$",
+   "$-\\hat{j}+\\hat{k},\\ -\\hat{j}+\\hat{k}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-014",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 14,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "Column - I gives certain physical terms associated with flow of current through a metallic conductor. Column - II gives some mathematical relations involving electrical quantities. Match Column - I and Column - II with appropriate relations.\n\n| Column - I | Column - II |\n|---|---|\n| (A) Drift Velocity | (P) $\\frac{m}{ne^2\\rho}$ |\n| (B) Electrical Resistivity | (Q) $nev_d$ |\n| (C) Relaxation Period | (R) $\\frac{eE}{m}\\tau$ |\n| (D) Current Density | (S) $\\frac{E}{J}$ |",
+  "options": [
+   "(A)-(R), (B)-(S), (C)-(P), (D)-(Q)",
+   "(A)-(R), (B)-(S), (C)-(Q), (D)-(P)",
+   "(A)-(R), (B)-(P), (C)-(S), (D)-(Q)",
+   "(A)-(R), (B)-(Q), (C)-(S), (D)-(P)"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-015",
+  "subject": "physics",
+  "chapter": "oscillations",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 15,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 3,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "A spring is stretched by $5$ cm by a force $10$ N. The time period of the oscillations when a mass of $2$ kg is suspended by it is :",
+  "options": [
+   "$0.0628$ s",
+   "$6.28$ s",
+   "$3.14$ s",
+   "$0.628$ s"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-016",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 16,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "A parallel plate capacitor has a uniform electric field $\\vec{E}$ in the space between the plates. If the distance between the plates is '$d$' and the area of each plate is '$A$', the energy stored in the capacitor is : ($\\varepsilon_0$ = permittivity of free space)",
+  "options": [
+   "$\\frac{1}{2}\\varepsilon_0 E^2$",
+   "$\\varepsilon_0 E A d$",
+   "$\\frac{1}{2}\\varepsilon_0 E^2 A d$",
+   "$\\frac{E^2 A d}{\\varepsilon_0}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-017",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 17,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "An infinitely long straight conductor carries a current of $5\\,\\mathrm{A}$ as shown. An electron is moving with a speed of $10^5\\,\\mathrm{m/s}$ parallel to the conductor. The perpendicular distance between the electron and the conductor is $20\\,\\mathrm{cm}$ at an instant. Calculate the magnitude of the force experienced by the electron at that instant.",
+  "options": [
+   "$4\\times10^{-20}$ N",
+   "$8\\pi\\times10^{-20}$ N",
+   "$4\\pi\\times10^{-20}$ N",
+   "$8\\times10^{-20}$ N"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-neet-2021-physics-017.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-018",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 18,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "A lens of large focal length and large aperture is best suited as an objective of an astronomical telescope since :",
+  "options": [
+   "a large aperture contributes to the quality and visibility of the images.",
+   "a large area of the objective ensures better light gathering power.",
+   "a large aperture provides a better resolution.",
+   "all of the above."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-019",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 19,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "A radioactive nucleus ${}^{A}_{Z}\\mathrm{X}$ undergoes spontaneous decay in the sequence\n\n${}^{A}_{Z}\\mathrm{X} \\rightarrow {}_{Z-1}\\mathrm{B} \\rightarrow {}_{Z-3}\\mathrm{C} \\rightarrow {}_{Z-2}\\mathrm{D}$, where $Z$ is the atomic number of element $\\mathrm{X}$. The possible decay particles in the sequence are :",
+  "options": [
+   "$\\alpha,\\ \\beta^-,\\ \\beta^+$",
+   "$\\alpha,\\ \\beta^+,\\ \\beta^-$",
+   "$\\beta^+,\\ \\alpha,\\ \\beta^-$",
+   "$\\beta^-,\\ \\alpha,\\ \\beta^+$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-020",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 20,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "An inductor of inductance $L$, a capacitor of capacitance $C$ and a resistor of resistance '$R$' are connected in series to an ac source of potential difference '$V$' volts as shown in figure. Potential difference across $L$, $C$ and $R$ is $40$ V, $10$ V and $40$ V, respectively. The amplitude of current flowing through LCR series circuit is $10\\sqrt{2}$ A. The impedance of the circuit is :",
+  "options": [
+   "$4\\sqrt{2}\\ \\Omega$",
+   "$\\frac{5}{\\sqrt{2}}\\ \\Omega$",
+   "$4\\ \\Omega$",
+   "$5\\ \\Omega$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-neet-2021-physics-020.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "key_confirmed",
+   "notes": "Key M4 Q20 = 4 read correctly on k0-13; voltages are rms (50 V), I_rms = 10 A, so Z = 5 ohm; transcription matches page 4."
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-021",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 21,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "The escape velocity from the Earth's surface is $v$. The escape velocity from the surface of another planet having a radius, four times that of Earth and same mass density is :",
+  "options": [
+   "$v$",
+   "$2v$",
+   "$3v$",
+   "$4v$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-022",
+  "subject": "physics",
+  "chapter": "units-and-measurement",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 22,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "A screw gauge gives the following readings when used to measure the diameter of a wire.\n\nMain scale reading : $0$ mm\n\nCircular scale reading : $52$ divisions\n\nGiven that $1$ mm on main scale corresponds to $100$ divisions on the circular scale. The diameter of the wire from the above data is :",
+  "options": [
+   "$0.52$ cm",
+   "$0.026$ cm",
+   "$0.26$ cm",
+   "$0.052$ cm"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-023",
+  "subject": "physics",
+  "chapter": "work-energy-and-power",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 23,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 4,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "Water falls from a height of $60$ m at the rate of $15$ kg/s to operate a turbine. The losses due to frictional force are $10\\%$ of the input energy. How much power is generated by the turbine ? ($g = 10\\ \\mathrm{m/s^2}$)",
+  "options": [
+   "10.2 kW",
+   "8.1 kW",
+   "12.3 kW",
+   "7.0 kW"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-024",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 24,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "A small block slides down on a smooth inclined plane, starting from rest at time $t = 0$. Let $S_n$ be the distance travelled by the block in the interval $t = n-1$ to $t = n$. Then, the ratio $\\frac{S_n}{S_{n+1}}$ is :",
+  "options": [
+   "$\\frac{2n-1}{2n}$",
+   "$\\frac{2n-1}{2n+1}$",
+   "$\\frac{2n+1}{2n-1}$",
+   "$\\frac{2n}{2n-1}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-025",
+  "subject": "physics",
+  "chapter": "electric-charges-and-fields",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 25,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "Polar molecules are the molecules :",
+  "options": [
+   "having zero dipole moment.",
+   "acquire a dipole moment only in the presence of electric field due to displacement of charges.",
+   "acquire a dipole moment only when magnetic field is absent.",
+   "having a permanent electric dipole moment."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-026",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 26,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "A thick current carrying cable of radius '$R$' carries current '$I$' uniformly distributed across its cross-section. The variation of magnetic field $B(r)$ due to the cable with the distance '$r$' from the axis of the cable is represented by :",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-neet-2021-physics-026.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-027",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 27,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "In a potentiometer circuit a cell of EMF $1.5$ V gives balance point at $36$ cm length of wire. If another cell of EMF $2.5$ V replaces the first cell, then at what length of the wire, the balance point occurs ?",
+  "options": [
+   "$60$ cm",
+   "$21.6$ cm",
+   "$64$ cm",
+   "$62$ cm"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-028",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 28,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "Two charged spherical conductors of radius $R_1$ and $R_2$ are connected by a wire. Then the ratio of surface charge densities of the spheres ($\\sigma_1/\\sigma_2$) is :",
+  "options": [
+   "$\\frac{R_1}{R_2}$",
+   "$\\frac{R_2}{R_1}$",
+   "$\\sqrt{\\frac{R_1}{R_2}}$",
+   "$\\frac{R_1^2}{R_2^2}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-029",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 29,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "An electromagnetic wave of wavelength '$\\lambda$' is incident on a photosensitive surface of negligible work function. If '$m$' mass is of photoelectron emitted from the surface has de-Broglie wavelength $\\lambda_d$, then :",
+  "options": [
+   "$\\lambda=\\left(\\frac{2m}{hc}\\right)\\lambda_d^{\\,2}$",
+   "$\\lambda_d=\\left(\\frac{2mc}{h}\\right)\\lambda^{2}$",
+   "$\\lambda=\\left(\\frac{2mc}{h}\\right)\\lambda_d^{\\,2}$",
+   "$\\lambda=\\left(\\frac{2h}{mc}\\right)\\lambda_d^{\\,2}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-030",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 30,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 5,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "The electron concentration in an n-type semiconductor is the same as hole concentration in a p-type semiconductor. An external field (electric) is applied across each of them. Compare the currents in them.",
+  "options": [
+   "current in n-type = current in p-type.",
+   "current in p-type > current in n-type.",
+   "current in n-type > current in p-type.",
+   "No current will flow in p-type, current will only flow in n-type."
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-031",
+  "subject": "physics",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 31,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "The number of photons per second on an average emitted by the source of monochromatic light of wavelength $600$ nm, when it delivers the power of $3.3\\times10^{-3}$ watt will be : ($h = 6.6\\times10^{-34}$ Js)",
+  "options": [
+   "$10^{18}$",
+   "$10^{17}$",
+   "$10^{16}$",
+   "$10^{15}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-032",
+  "subject": "physics",
+  "chapter": "units-and-measurement",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 32,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "If $E$ and $G$ respectively denote energy and gravitational constant, then $\\frac{E}{G}$ has the dimensions of :",
+  "options": [
+   "$[M^2][L^{-1}][T^0]$",
+   "$[M][L^{-1}][T^{-1}]$",
+   "$[M][L^0][T^0]$",
+   "$[M^2][L^{-2}][T^{-1}]$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-033",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 33,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "The effective resistance of a parallel connection that consists of four wires of equal length, equal area of cross-section and same material is $0.25\\ \\Omega$. What will be the effective resistance if they are connected in series ?",
+  "options": [
+   "$0.25\\ \\Omega$",
+   "$0.5\\ \\Omega$",
+   "$1\\ \\Omega$",
+   "$4\\ \\Omega$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-034",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 34,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "The half-life of a radioactive nuclide is $100$ hours. The fraction of original activity that will remain after $150$ hours would be :",
+  "options": [
+   "$\\frac{1}{2}$",
+   "$\\frac{1}{2\\sqrt{2}}$",
+   "$\\frac{2}{3}$",
+   "$\\frac{2}{3\\sqrt{2}}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-035",
+  "subject": "physics",
+  "chapter": "nuclei",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 35,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "A nucleus with mass number $240$ breaks into two fragments each of mass number $120$, the binding energy per nucleon of unfragmented nuclei is $7.6$ MeV while that of fragments is $8.5$ MeV. The total gain in the Binding Energy in the process is :",
+  "options": [
+   "0.9 MeV",
+   "9.4 MeV",
+   "804 MeV",
+   "216 MeV"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-036",
+  "subject": "physics",
+  "chapter": "electromagnetic-induction",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 36,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "Two conducting circular loops of radii $R_1$ and $R_2$ are placed in the same plane with their centres coinciding. If $R_1 \\gg R_2$, the mutual inductance $M$ between them will be directly proportional to :",
+  "options": [
+   "$\\frac{R_1}{R_2}$",
+   "$\\frac{R_2}{R_1}$",
+   "$\\frac{R_1^2}{R_2}$",
+   "$\\frac{R_2^2}{R_1}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-037",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 37,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 6,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "In the product\n\n$$\\vec{F} = q\\left(\\vec{v}\\times\\vec{B}\\right) = q\\,\\vec{v}\\times\\left(B\\hat{i}+B\\hat{j}+B_0\\hat{k}\\right)$$\n\nFor $q = 1$ and $\\vec{v} = 2\\hat{i}+4\\hat{j}+6\\hat{k}$ and $\\vec{F} = 4\\hat{i}-20\\hat{j}+12\\hat{k}$\n\nWhat will be the complete expression for $\\vec{B}$ ?",
+  "options": [
+   "$-8\\hat{i}-8\\hat{j}-6\\hat{k}$",
+   "$-6\\hat{i}-6\\hat{j}-8\\hat{k}$",
+   "$8\\hat{i}+8\\hat{j}-6\\hat{k}$",
+   "$6\\hat{i}+6\\hat{j}-8\\hat{k}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-038",
+  "subject": "physics",
+  "chapter": "semiconductor-electronics",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 38,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 7,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "For the given circuit, the input digital signals are applied at the terminals A, B and C. What would be the output at the terminal $y$ ?",
+  "options": [
+   "(A)",
+   "(B)",
+   "(C)",
+   "(D)"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [
+   "tp-neet-2021-physics-038.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-039",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 39,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 7,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "A series LCR circuit containing $5.0$ H inductor, $80\\ \\mu$F capacitor and $40\\ \\Omega$ resistor is connected to $230$ V variable frequency ac source. The angular frequencies of the source at which power transferred to the circuit is half the power at the resonant angular frequency are likely to be :",
+  "options": [
+   "$25\\ \\mathrm{rad\\,s^{-1}}$ and $75\\ \\mathrm{rad\\,s^{-1}}$",
+   "$50\\ \\mathrm{rad\\,s^{-1}}$ and $25\\ \\mathrm{rad\\,s^{-1}}$",
+   "$46\\ \\mathrm{rad\\,s^{-1}}$ and $54\\ \\mathrm{rad\\,s^{-1}}$",
+   "$42\\ \\mathrm{rad\\,s^{-1}}$ and $58\\ \\mathrm{rad\\,s^{-1}}$"
+  ],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 2,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-040",
+  "subject": "physics",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 40,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 7,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "A uniform rod of length $200$ cm and mass $500$ g is balanced on a wedge placed at $40$ cm mark. A mass of $2$ kg is suspended from the rod at $20$ cm and another unknown mass '$m$' is suspended from the rod at $160$ cm mark as shown in the figure. Find the value of '$m$' such that the rod is in equilibrium. ($g = 10\\ \\mathrm{m\\,s^{-2}}$)",
+  "options": [
+   "$\\frac{1}{2}$ kg",
+   "$\\frac{1}{3}$ kg",
+   "$\\frac{1}{6}$ kg",
+   "$\\frac{1}{12}$ kg"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-neet-2021-physics-040.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-041",
+  "subject": "physics",
+  "chapter": "ray-optics-and-optical-instruments",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 41,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 7,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "A point object is placed at a distance of $60$ cm from a convex lens of focal length $30$ cm. If a plane mirror were put perpendicular to the principal axis of the lens and at a distance of $40$ cm from it, the final image would be formed at a distance of :",
+  "options": [
+   "$20$ cm from the lens, it would be a real image.",
+   "$30$ cm from the lens, it would be a real image.",
+   "$30$ cm from the plane mirror, it would be a virtual image.",
+   "$20$ cm from the plane mirror, it would be a virtual image."
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [
+   "tp-neet-2021-physics-041.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-042",
+  "subject": "physics",
+  "chapter": "motion-in-a-plane",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 42,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 7,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "A car starts from rest and accelerates at $5\\ \\mathrm{m\\,s^{-2}}$. At $t = 4$ s, a ball is dropped out of a window by a person sitting in the car. What is the velocity and acceleration of the ball at $t = 6$ s ? (Take $g = 10\\ \\mathrm{m\\,s^{-2}}$)",
+  "options": [
+   "$20\\ \\mathrm{m\\,s^{-1}}$, $5\\ \\mathrm{m\\,s^{-2}}$",
+   "$20\\ \\mathrm{m\\,s^{-1}}$, $0$",
+   "$20\\sqrt{2}\\ \\mathrm{m\\,s^{-1}}$, $0$",
+   "$20\\sqrt{2}\\ \\mathrm{m\\,s^{-1}}$, $10\\ \\mathrm{m\\,s^{-2}}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-043",
+  "subject": "physics",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 43,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 8,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "Twenty seven drops of same size are charged at $220$ V each. They combine to form a bigger drop. Calculate the potential of the bigger drop.",
+  "options": [
+   "$660\\ \\mathrm{V}$",
+   "$1320\\ \\mathrm{V}$",
+   "$1520\\ \\mathrm{V}$",
+   "$1980\\ \\mathrm{V}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-044",
+  "subject": "physics",
+  "chapter": "moving-charges-and-magnetism",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 44,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 8,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "A uniform conducting wire of length $12a$ and resistance '$R$' is wound up as a current carrying coil in the shape of,\n\n(i) an equilateral triangle of side '$a$'.\n\n(ii) a square of side '$a$'.\n\nThe magnetic dipole moments of the coil in each case respectively are :",
+  "options": [
+   "$\\sqrt{3}\\,Ia^2$ and $3\\,Ia^2$",
+   "$3\\,Ia^2$ and $Ia^2$",
+   "$3\\,Ia^2$ and $4\\,Ia^2$",
+   "$4\\,Ia^2$ and $3\\,Ia^2$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-045",
+  "subject": "physics",
+  "chapter": "laws-of-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 45,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 8,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "A ball of mass $0.15$ kg is dropped from a height $10$ m, strikes the ground and rebounds to the same height. The magnitude of impulse imparted to the ball is ($g = 10\\ \\mathrm{m\\,s^{-2}}$) nearly :",
+  "options": [
+   "$0\\ \\mathrm{kg\\,m\\,s^{-1}}$",
+   "$4.2\\ \\mathrm{kg\\,m\\,s^{-1}}$",
+   "$2.1\\ \\mathrm{kg\\,m\\,s^{-1}}$",
+   "$1.4\\ \\mathrm{kg\\,m\\,s^{-1}}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-046",
+  "subject": "physics",
+  "chapter": "alternating-current",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 46,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 8,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "A step down transformer connected to an ac mains supply of $220$ V is made to operate at $11$ V, $44$ W lamp. Ignoring power losses in the transformer, what is the current in the primary circuit ?",
+  "options": [
+   "$0.2\\ \\mathrm{A}$",
+   "$0.4\\ \\mathrm{A}$",
+   "$2\\ \\mathrm{A}$",
+   "$4\\ \\mathrm{A}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-047",
+  "subject": "physics",
+  "chapter": "motion-in-a-plane",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 47,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 8,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "A particle moving in a circle of radius $R$ with a uniform speed takes a time $T$ to complete one revolution.\n\nIf this particle were projected with the same speed at an angle '$\\theta$' to the horizontal, the maximum height attained by it equals $4R$. The angle of projection, $\\theta$, is then given by :",
+  "options": [
+   "$\\theta=\\cos^{-1}\\left(\\frac{gT^2}{\\pi^2R}\\right)^{1/2}$",
+   "$\\theta=\\cos^{-1}\\left(\\frac{\\pi^2R}{gT^2}\\right)^{1/2}$",
+   "$\\theta=\\sin^{-1}\\left(\\frac{\\pi^2R}{gT^2}\\right)^{1/2}$",
+   "$\\theta=\\sin^{-1}\\left(\\frac{2gT^2}{\\pi^2R}\\right)^{1/2}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-048",
+  "subject": "physics",
+  "chapter": "gravitation",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 48,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 8,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "A particle of mass '$m$' is projected with a velocity $v = kV_e$ ($k < 1$) from the surface of the earth.\n\n($V_e$ = escape velocity)\n\nThe maximum height above the surface reached by the particle is :",
+  "options": [
+   "$R\\left(\\frac{k}{1-k}\\right)^2$",
+   "$R\\left(\\frac{k}{1+k}\\right)^2$",
+   "$\\frac{R^2k}{1+k}$",
+   "$\\frac{Rk^2}{1-k^2}$"
+  ],
+  "answer": 3,
+  "accepted": [
+   3
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 3,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-049",
+  "subject": "physics",
+  "chapter": "current-electricity",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 49,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 9,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "Three resistors having resistances $r_1$, $r_2$ and $r_3$ are connected as shown in the given circuit. The ratio $\\frac{i_3}{i_1}$ of currents in terms of resistances used in the circuit is :",
+  "options": [
+   "$\\frac{r_1}{r_2+r_3}$",
+   "$\\frac{r_2}{r_2+r_3}$",
+   "$\\frac{r_1}{r_1+r_2}$",
+   "$\\frac{r_2}{r_1+r_3}$"
+  ],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
+  "images": [
+   "tp-neet-2021-physics-049.png"
+  ],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 1,
+   "verify": "agreed",
+   "notes": ""
+  }
+ },
+ {
+  "id": "tp-neet-2021-physics-050",
+  "subject": "physics",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "source": {
+   "type": "third-party",
+   "name": "NEET 2021",
+   "year": 2021,
+   "version": "M4",
+   "number": 50,
+   "file": "sources/third-party/neet/2021-M4/neet-2021-M4-question_paper-aakash.pdf",
+   "page": 9,
+   "key_file": "sources/third-party/neet/2021-M4/neet-2021-allbooks-answer_key-nta.pdf"
+  },
+  "stem": "From a circular ring of mass '$M$' and radius '$R$' an arc corresponding to a $90^\\circ$ sector is removed. The moment of inertia of the remaining part of the ring about an axis passing through the centre of the ring and perpendicular to the plane of the ring is '$K$' times '$MR^2$'. Then the value of '$K$' is :",
+  "options": [
+   "$\\frac{3}{4}$",
+   "$\\frac{7}{8}$",
+   "$\\frac{1}{4}$",
+   "$\\frac{1}{8}$"
+  ],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
+  "images": [],
+  "status": "verified",
+  "in_syllabus": true,
+  "checks": {
+   "key_official": true,
+   "blind_haiku": 0,
+   "verify": "agreed",
+   "notes": ""
+  }
+ }
+]
