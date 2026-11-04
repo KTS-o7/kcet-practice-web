@@ -12,6 +12,8 @@ import (
 	"sort"
 	"strings"
 	"time"
+
+	"golang.org/x/crypto/bcrypt"
 )
 
 type App struct {
@@ -52,6 +54,7 @@ func (app *App) routes(mux *http.ServeMux) {
 		writeJSON(w, 200, map[string]any{"ok": true, "questions": len(app.corpus.Questions)})
 	})
 	mux.HandleFunc("POST /api/login", app.login)
+	mux.HandleFunc("POST /api/signup", app.signup)
 	mux.HandleFunc("POST /api/logout", func(w http.ResponseWriter, r *http.Request) {
 		app.auth.clear(w)
 		writeJSON(w, 200, map[string]bool{"ok": true})
@@ -71,32 +74,71 @@ func (app *App) routes(mux *http.ServeMux) {
 
 var usernameRE = regexp.MustCompile(`^[\p{L}\p{N} ._-]{2,32}$`)
 
-func (app *App) login(w http.ResponseWriter, r *http.Request) {
-	var in struct{ Username, Passcode string }
+type credentials struct{ Username, Password string }
+
+func (app *App) readCreds(w http.ResponseWriter, r *http.Request) (credentials, string, bool) {
+	var in credentials
 	if err := readJSON(r, &in); err != nil {
 		fail(w, 400, "bad request")
-		return
+		return in, "", false
 	}
 	ip := clientIP(r)
 	if !app.auth.allowAttempt(ip) {
 		fail(w, 429, "Too many tries. Wait 15 minutes.")
-		return
+		return in, ip, false
 	}
-	name := strings.TrimSpace(in.Username)
-	if !usernameRE.MatchString(name) {
+	in.Username = strings.TrimSpace(in.Username)
+	if !usernameRE.MatchString(in.Username) {
 		fail(w, 400, "Name should be 2–32 letters or numbers.")
+		return in, ip, false
+	}
+	return in, ip, true
+}
+
+func (app *App) signup(w http.ResponseWriter, r *http.Request) {
+	in, ip, ok := app.readCreds(w, r)
+	if !ok {
 		return
 	}
-	if !app.auth.checkPasscode(in.Passcode) {
+	if len(in.Password) < 6 || len(in.Password) > 72 {
+		fail(w, 400, "Password should be at least 6 characters.")
+		return
+	}
+	app.auth.fail(ip) // every sign-up counts toward the per-IP limit, so bots can't mass-create accounts
+	hash, err := bcrypt.GenerateFromPassword([]byte(in.Password), bcrypt.DefaultCost)
+	if err != nil {
+		fail(w, 500, "server error")
+		return
+	}
+	id, err := app.store.CreateUser(in.Username, string(hash))
+	if errors.Is(err, errUserExists) {
+		fail(w, 409, "That name is taken. Log in instead, or pick another name.")
+		return
+	}
+	if err != nil {
+		log.Printf("signup: %v", err)
+		fail(w, 500, "server error")
+		return
+	}
+	u := User{id, in.Username}
+	app.auth.issue(w, u)
+	writeJSON(w, 201, u)
+}
+
+func (app *App) login(w http.ResponseWriter, r *http.Request) {
+	in, ip, ok := app.readCreds(w, r)
+	if !ok {
+		return
+	}
+	id, stored, hash, err := app.store.UserByName(in.Username)
+	if err != nil && !errors.Is(err, errNotFound) {
+		fail(w, 500, "server error")
+		return
+	}
+	if errors.Is(err, errNotFound) || hash == "" || bcrypt.CompareHashAndPassword([]byte(hash), []byte(in.Password)) != nil {
 		app.auth.fail(ip)
 		time.Sleep(400 * time.Millisecond)
-		fail(w, 401, "That passcode isn't right.")
-		return
-	}
-	id, stored, err := app.store.UpsertUser(name)
-	if err != nil {
-		log.Printf("login: %v", err)
-		fail(w, 500, "server error")
+		fail(w, 401, "Name or password isn't right.")
 		return
 	}
 	u := User{id, stored}

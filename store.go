@@ -59,18 +59,40 @@ func OpenStore(path string) (*Store, error) {
 	if _, err := db.Exec(schema); err != nil {
 		return nil, err
 	}
+	// v2: per-user passwords (accounts created by the student himself)
+	var n int
+	_ = db.QueryRow(`SELECT COUNT(*) FROM pragma_table_info('users') WHERE name = 'password_hash'`).Scan(&n)
+	if n == 0 {
+		if _, err := db.Exec(`ALTER TABLE users ADD COLUMN password_hash TEXT NOT NULL DEFAULT ''`); err != nil {
+			return nil, err
+		}
+	}
 	return &Store{db}, nil
 }
 
-func (s *Store) UpsertUser(name string) (int64, string, error) {
-	now := time.Now().Unix()
-	if _, err := s.db.Exec(`INSERT INTO users(username, created_at) VALUES(?, ?) ON CONFLICT(username) DO NOTHING`, name, now); err != nil {
-		return 0, "", err
+var errUserExists = errors.New("user exists")
+
+// CreateUser adds a new account; errUserExists if the name is taken (case-insensitive).
+func (s *Store) CreateUser(name, hash string) (int64, error) {
+	res, err := s.db.Exec(`INSERT INTO users(username, created_at, password_hash) VALUES(?, ?, ?) ON CONFLICT(username) DO NOTHING`, name, time.Now().Unix(), hash)
+	if err != nil {
+		return 0, err
 	}
+	if n, _ := res.RowsAffected(); n == 0 {
+		return 0, errUserExists
+	}
+	return res.LastInsertId()
+}
+
+// UserByName returns id, stored name and password hash.
+func (s *Store) UserByName(name string) (int64, string, string, error) {
 	var id int64
-	var stored string
-	err := s.db.QueryRow(`SELECT id, username FROM users WHERE username = ?`, name).Scan(&id, &stored)
-	return id, stored, err
+	var stored, hash string
+	err := s.db.QueryRow(`SELECT id, username, password_hash FROM users WHERE username = ?`, name).Scan(&id, &stored, &hash)
+	if errors.Is(err, sql.ErrNoRows) {
+		return 0, "", "", errNotFound
+	}
+	return id, stored, hash, err
 }
 
 type Attempt struct {

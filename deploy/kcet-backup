@@ -1,7 +1,0 @@
-#!/bin/sh
-# /etc/cron.daily/kcet-backup — nightly SQLite snapshot, 14 days kept.
-set -eu
-DIR=/opt/kcet/backups
-mkdir -p "$DIR"
-sqlite3 /opt/kcet/data/kcet.db ".backup '$DIR/kcet-$(date +%F).db'"
-find "$DIR" -name 'kcet-*.db' -mtime +14 -delete

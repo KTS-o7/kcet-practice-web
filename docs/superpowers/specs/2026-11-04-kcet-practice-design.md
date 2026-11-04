@@ -16,20 +16,20 @@ a wrong answer key teaches the wrong thing, which is worse than a missing questi
 - Fast, beautiful, working. Laptop-first (1366×768 @125% must look right), usable on phone.
 
 ## Non-goals
-Explanations/solutions, public sign-up, leaderboards, admin UI (fix by editing corpus files + redeploy), tests (personal project; user said no tests).
+Explanations/solutions, leaderboards, admin UI (fix by editing corpus files + redeploy), tests (personal project; user said no tests).
 
 ## Anti-goals
 - Any question live with an unverified answer. Flagged questions are hidden until resolved.
 - Search-engine indexing (site is private: `X-Robots-Tag: noindex`, robots.txt disallow, passcode gate).
 
 ## Decisions (user's)
-Go server + React frontend, SQLite, self-hosted on the shenthar.me VPS. Username login. Text + LaTeX
+Go server + React frontend, SQLite, self-hosted on the user's own VPS. Username login. Text + LaTeX
 with diagram images. Out-of-syllabus questions tagged and hidden by default. Haiku subagents for cheap
 extraction, Sonnet subagents to check; source PDFs live in the repo.
 
 ## Decisions (my calls)
-- One Go binary (`net/http`, `modernc.org/sqlite`, CGO off) embedding the built SPA and the compiled corpus. systemd unit `kcet`, port 8093, nginx vhost `kcet.shenthar.me` behind Cloudflare, deploy script modelled on preview's (build → scp → restart → health check → rollback).
-- Login = any username + one shared passcode (env `KCET_PASSCODE`). Signed HttpOnly session cookie. Login rate-limited.
+- One Go binary (`net/http`, `modernc.org/sqlite`, CGO off) embedding the built SPA and the compiled corpus. systemd service behind nginx + Cloudflare (server details kept in a private infra repo); deploy script builds, ships, health-checks and rolls back (build → scp → restart → health check → rollback).
+- Accounts: the student creates his own (name + password, bcrypt). Signed HttpOnly session cookie. Sign-up and login rate-limited per IP.
 - Frontend: Vite + React + TypeScript, Tailwind, React Router, TanStack Query, KaTeX. Hand-built components in a calm, focused style; light/dark; one accent colour per subject.
 - Nightly SQLite backup on the VPS (`sqlite3 .backup`, 14 days kept).
 

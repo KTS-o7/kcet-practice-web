@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
 # Build locally, ship the single binary, restart, health-check, roll back on failure.
-# First-time server setup is in deploy/README.md.
+# Settings come from deploy.env (gitignored; see deploy.env.example). Server setup is documented privately.
 set -euo pipefail
-HOST="${HOST:-personal}"
-DIR=/opt/kcet
-URL="${URL:-https://kcet.shenthar.me}"
-
 cd "$(dirname "$0")/.."
+[ -f deploy.env ] || { echo "missing deploy.env (copy deploy.env.example)" >&2; exit 1; }
+set -a; . ./deploy.env; set +a
+: "${HOST:?}" "${DIR:?}" "${URL:?}" "${OWNER:=deploy}"
+
 (cd web && bun install && bunx tsc -b --noEmit && bun run build)
 python3 -I scripts/assemble.py >/dev/null
 mkdir -p dist
@@ -16,7 +16,7 @@ echo "built dist/kcet ($(du -h dist/kcet | cut -f1))"
 scp -q dist/kcet "$HOST:$DIR/kcet.new"
 ssh "$HOST" "set -e
   cd $DIR
-  chown deploy:deploy kcet.new && chmod 755 kcet.new
+  chown $OWNER:$OWNER kcet.new && chmod 755 kcet.new
   [ -f kcet ] && cp -p kcet kcet.prev
   mv kcet.new kcet
   systemctl restart kcet"

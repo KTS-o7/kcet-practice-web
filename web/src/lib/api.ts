@@ -48,7 +48,7 @@ async function request<T>(method: string, path: string, body?: unknown, opts: { 
         : res.status >= 500
           ? 'The server had a problem. Try again in a moment.'
           : `Request failed (${res.status}).`
-    if (res.status === 401 && path !== '/api/login' && onUnauthorized) onUnauthorized()
+    if (res.status === 401 && path !== '/api/login' && path !== '/api/signup' && onUnauthorized) onUnauthorized()
     throw new ApiError(res.status, msg)
   }
   return data as T
@@ -56,7 +56,8 @@ async function request<T>(method: string, path: string, body?: unknown, opts: { 
 
 export const api = {
   me: () => request<User>('GET', '/api/me'),
-  login: (username: string, passcode: string) => request<User>('POST', '/api/login', { username, passcode }),
+  login: (username: string, password: string) => request<User>('POST', '/api/login', { username, password }),
+  signup: (username: string, password: string) => request<User>('POST', '/api/signup', { username, password }),
   logout: () => request<{ ok: boolean }>('POST', '/api/logout'),
   meta: () => request<Meta>('GET', '/api/meta'),
   stats: () => request<Stats>('GET', '/api/stats'),

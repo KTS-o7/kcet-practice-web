@@ -3,7 +3,6 @@ package main
 import (
 	"crypto/hmac"
 	"crypto/sha256"
-	"crypto/subtle"
 	"encoding/base64"
 	"fmt"
 	"net"
@@ -18,9 +17,8 @@ const cookieName = "kcet_session"
 const sessionTTL = 180 * 24 * time.Hour
 
 type Auth struct {
-	secret   []byte
-	passcode string
-	secure   bool
+	secret []byte
+	secure bool
 
 	mu       sync.Mutex
 	failures map[string][]time.Time
@@ -106,8 +104,4 @@ func (a *Auth) fail(ip string) {
 	a.mu.Lock()
 	a.failures[ip] = append(a.failures[ip], time.Now())
 	a.mu.Unlock()
-}
-
-func (a *Auth) checkPasscode(p string) bool {
-	return subtle.ConstantTimeCompare([]byte(p), []byte(a.passcode)) == 1
 }

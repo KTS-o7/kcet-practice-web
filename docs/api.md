@@ -3,7 +3,8 @@
 All `/api/*` except login return 401 `{"error"}` when not logged in. Errors: `{"error": "human readable message"}`.
 
 ## Auth
-- `POST /api/login` `{username, passcode}` → `User {id, name}` (sets HttpOnly cookie). 401 wrong passcode, 429 too many tries.
+- `POST /api/signup` `{username, password}` → 201 `User {id, name}` (sets HttpOnly cookie). 409 name taken, 400 bad name / password < 6 chars, 429 too many tries.
+- `POST /api/login` `{username, password}` → `User {id, name}` (sets cookie). 401 wrong name or password, 429 too many tries.
 - `POST /api/logout` → `{ok}`
 - `GET /api/me` → `User`
 

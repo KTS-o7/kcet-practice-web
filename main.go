@@ -20,9 +20,9 @@ var webFS embed.FS
 var corpusFS embed.FS
 
 func main() {
-	addr := flag.String("addr", "127.0.0.1:8093", "listen address")
+	addr := flag.String("addr", "127.0.0.1:8080", "listen address")
 	dbPath := flag.String("db", "kcet.db", "SQLite database path")
-	dev := flag.Bool("dev", false, "dev mode: passcode defaults to 'kcet', cookies not Secure, serve corpus from disk")
+	dev := flag.Bool("dev", false, "dev mode: random session secret, cookies not Secure, serve corpus from disk")
 	corpusDir := flag.String("corpus", "corpus", "corpus directory to read in dev mode")
 	flag.Parse()
 
@@ -42,13 +42,6 @@ func main() {
 		log.Fatalf("db: %v", err)
 	}
 
-	passcode := os.Getenv("KCET_PASSCODE")
-	if passcode == "" {
-		if !*dev {
-			log.Fatal("KCET_PASSCODE must be set")
-		}
-		passcode = "kcet"
-	}
 	secret := []byte(os.Getenv("KCET_SECRET"))
 	if len(secret) < 32 {
 		if !*dev {
@@ -58,7 +51,7 @@ func main() {
 		_, _ = rand.Read(secret)
 	}
 
-	app := &App{corpus: corpus, store: store, auth: &Auth{secret: secret, passcode: passcode, secure: !*dev, failures: map[string][]time.Time{}}}
+	app := &App{corpus: corpus, store: store, auth: &Auth{secret: secret, secure: !*dev, failures: map[string][]time.Time{}}}
 	mux := http.NewServeMux()
 	app.routes(mux)
 
