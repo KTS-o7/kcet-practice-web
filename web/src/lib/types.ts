@@ -6,6 +6,12 @@ export interface User {
   id: number
   name: string
   admin?: boolean
+  has_recovery?: boolean
+}
+
+/** Sign-up and password reset hand back a one-time recovery code to show the student. */
+export interface WithRecovery extends User {
+  recovery_code: string
 }
 
 export interface ChapterMeta {

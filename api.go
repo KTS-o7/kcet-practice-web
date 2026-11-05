@@ -76,12 +76,18 @@ func (app *App) routes(mux *http.ServeMux) {
 	mux.HandleFunc("POST /api/login", app.login)
 	mux.HandleFunc("POST /api/signup", app.signup)
 	mux.HandleFunc("POST /api/account/password", app.authed(app.changePassword))
+	mux.HandleFunc("POST /api/account/recovery", app.authed(app.newOwnRecovery))
+	mux.HandleFunc("POST /api/reset", app.resetWithRecovery)
 	mux.HandleFunc("POST /api/logout", func(w http.ResponseWriter, r *http.Request) {
 		app.auth.clear(w)
 		writeJSON(w, 200, map[string]bool{"ok": true})
 	})
 	mux.HandleFunc("GET /api/me", app.authed(func(w http.ResponseWriter, r *http.Request, u User) {
-		writeJSON(w, 200, map[string]any{"id": u.ID, "name": u.Name, "admin": app.isAdmin(u)})
+		hasRecovery := false
+		if acc, err := app.store.AccountByID(u.ID); err == nil {
+			hasRecovery = acc.Recovery != ""
+		}
+		writeJSON(w, 200, map[string]any{"id": u.ID, "name": u.Name, "admin": app.isAdmin(u), "has_recovery": hasRecovery})
 	}))
 	mux.HandleFunc("GET /api/meta", app.authed(app.meta))
 	mux.HandleFunc("POST /api/attempts", app.authed(app.createAttempt))
@@ -95,6 +101,7 @@ func (app *App) routes(mux *http.ServeMux) {
 	mux.HandleFunc("POST /api/reports", app.authed(app.report))
 	mux.HandleFunc("GET /api/admin/overview", app.adminOnly(app.adminOverview))
 	mux.HandleFunc("GET /api/admin/students/{id}", app.adminOnly(app.adminStudent))
+	mux.HandleFunc("POST /api/admin/students/{id}/recovery", app.adminOnly(app.adminNewRecovery))
 }
 
 var usernameRE = regexp.MustCompile(`^[\p{L}\p{N} ._-]{2,32}$`)
@@ -135,7 +142,12 @@ func (app *App) signup(w http.ResponseWriter, r *http.Request) {
 		fail(w, 500, "server error")
 		return
 	}
-	id, err := app.store.CreateUser(in.Username, string(hash))
+	code, recHash, err := newRecoveryCode()
+	if err != nil {
+		fail(w, 500, "server error")
+		return
+	}
+	id, err := app.store.CreateUser(in.Username, string(hash), recHash)
 	if errors.Is(err, errUserExists) {
 		fail(w, 409, "That name is taken. Log in instead, or pick another name.")
 		return
@@ -147,7 +159,7 @@ func (app *App) signup(w http.ResponseWriter, r *http.Request) {
 	}
 	u := User{ID: id, Name: in.Username}
 	app.auth.issue(w, u)
-	writeJSON(w, 201, u)
+	writeJSON(w, 201, map[string]any{"id": u.ID, "name": u.Name, "admin": app.isAdmin(u), "has_recovery": true, "recovery_code": code})
 }
 
 func (app *App) login(w http.ResponseWriter, r *http.Request) {
