@@ -1,7 +1,9 @@
-import { ArrowLeftIcon, ArrowClockwiseIcon } from '@phosphor-icons/react'
+import { ArrowLeftIcon, ArrowClockwiseIcon, CheckIcon, CopyIcon, KeyIcon } from '@phosphor-icons/react'
+import { useState } from 'react'
+import { Dialog } from '../components/Dialog'
 import { Link, useParams, useSearchParams } from 'react-router'
-import { ErrorState, Meter, Skeleton, subjectBgClass } from '../components/ui'
-import { ApiError } from '../lib/api'
+import { ErrorState, Meter, Skeleton, Spinner, subjectBgClass } from '../components/ui'
+import { api, ApiError } from '../lib/api'
 import { attemptMeta, duration, isLive, isSubject, pct, plural, relDay, SUBJECTS, subjectName } from '../lib/format'
 import { useAdminStudent, useMe, useMeta } from '../lib/queries'
 import type { AdminStudentDetail, Attempt, Meta, SubjectId } from '../lib/types'
@@ -103,9 +105,12 @@ function Detail({ d, meta, refetch, fetching }: { d: AdminStudentDetail; meta: M
             {relDay(student.last_active, true).replace(/^(Today|Yesterday)/, (m) => m.toLowerCase())}
           </p>
         </div>
-        <button type="button" className="btn btn-secondary btn-sm" onClick={refetch} disabled={fetching}>
-          <ArrowClockwiseIcon size={16} aria-hidden className={fetching ? 'animate-spin' : ''} /> Refresh
-        </button>
+        <div className="flex gap-2">
+          <ResetPassword id={student.id} name={student.name} />
+          <button type="button" className="btn btn-secondary btn-sm" onClick={refetch} disabled={fetching}>
+            <ArrowClockwiseIcon size={16} aria-hidden className={fetching ? 'animate-spin' : ''} /> Refresh
+          </button>
+        </div>
       </div>
 
       <dl className="grid grid-cols-2 gap-3 sm:grid-cols-4">
@@ -228,5 +233,99 @@ function TestRow({ t }: { t: Attempt }) {
         )}
       </div>
     </li>
+  )
+}
+
+/** For a student who forgot their password and lost their recovery code: make a new code to pass on. */
+function ResetPassword({ id, name }: { id: number; name: string }) {
+  const [open, setOpen] = useState(false)
+  const [busy, setBusy] = useState(false)
+  const [code, setCode] = useState<string | null>(null)
+  const [error, setError] = useState('')
+  const [copied, setCopied] = useState(false)
+
+  const close = () => {
+    setOpen(false)
+    setCode(null)
+    setError('')
+  }
+  const make = async () => {
+    setBusy(true)
+    setError('')
+    try {
+      setCode((await api.adminNewRecovery(id)).recovery_code)
+    } catch (err) {
+      setError(err instanceof Error ? err.message : 'Something went wrong.')
+    } finally {
+      setBusy(false)
+    }
+  }
+
+  return (
+    <>
+      <button type="button" className="btn btn-secondary btn-sm" onClick={() => setOpen(true)}>
+        <KeyIcon size={16} aria-hidden /> Reset password
+      </button>
+      <Dialog
+        open={open}
+        onClose={close}
+        title={code ? `New recovery code for ${name}` : `Reset ${name}’s password?`}
+        labelledBy="reset-h"
+        footer={
+          code ? (
+            <button type="button" className="btn btn-primary" onClick={close}>
+              Done
+            </button>
+          ) : (
+            <>
+              <button type="button" className="btn btn-secondary" onClick={close}>
+                Cancel
+              </button>
+              <button type="button" className="btn btn-primary" onClick={make} disabled={busy} data-autofocus>
+                {busy && <Spinner />} Make a new code
+              </button>
+            </>
+          )
+        }
+      >
+        {code ? (
+          <div className="space-y-3">
+            <p className="text-label font-normal text-muted">
+              Send this to {name} privately. On the login page they choose <b>Forgot password?</b>, enter their name and this code,
+              and set a new password. The code works once. It’s shown only now.
+            </p>
+            <p className="rounded-[10px] border border-dashed border-line-strong bg-paper px-4 py-3 text-center font-mono text-[22px] font-semibold tracking-[0.12em] select-all">
+              {code}
+            </p>
+            <button
+              type="button"
+              className="btn btn-secondary btn-sm"
+              onClick={() =>
+                void navigator.clipboard?.writeText(code).then(() => {
+                  setCopied(true)
+                  setTimeout(() => setCopied(false), 1600)
+                })
+              }
+            >
+              {copied ? <CheckIcon size={15} aria-hidden /> : <CopyIcon size={15} aria-hidden />}
+              {copied ? 'Copied' : 'Copy'}
+            </button>
+          </div>
+        ) : (
+          <div className="space-y-2 text-label font-normal text-muted">
+            <p>
+              This makes a new one-time recovery code for {name}. Their old code stops working. Their password and progress don’t
+              change, and they stay logged in until they use the code.
+            </p>
+            <p>Only do this when {name} has asked, and send the code to them directly.</p>
+            {error && (
+              <p role="alert" className="font-medium text-wrong">
+                {error}
+              </p>
+            )}
+          </div>
+        )}
+      </Dialog>
+    </>
   )
 }

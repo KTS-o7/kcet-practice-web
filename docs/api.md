@@ -7,6 +7,13 @@ All `/api/*` except login return 401 `{"error"}` when not logged in. Errors: `{"
 - `POST /api/login` `{username, password}` → `User {id, name}` (sets cookie). 401 wrong name or password, 429 too many tries.
 - `POST /api/logout` → `{ok}`
 - `GET /api/me` → `User & {admin: boolean}`
+- `POST /api/signup` also returns `recovery_code` (shown once), and `GET /api/me` includes `has_recovery`.
+- `POST /api/reset` `{username, code, password}` (not logged in) → `User & {recovery_code}`. Checks the one-time
+  recovery code (any case, dashes optional). Sets the new password, issues a fresh code (the used one is spent), signs
+  out every other device, and logs this one in. 401 `"Name or recovery code isn't right."`. Same per-IP limit and
+  per-account lockout as login.
+- `POST /api/account/recovery` `{current}` → `{recovery_code}`. Needs the current password (403 if wrong). Replaces
+  the old code.
 - `POST /api/account/password` `{current, password}` → `{ok}`. Needs the current password (403 if wrong, 400 if the new
   one isn't 6–72 characters). Bumps the account's session generation, which signs out every other device, and
   re-issues this device's cookie.
@@ -80,6 +87,9 @@ match our key, one other option ≥ 50%), `reports`, `students`.
 `GET /api/admin/students/{id}` → `{student: {id, name, joined, last_active}, stats, tests}`: one student's
 progress. `stats` has the same shape as `/api/stats`; `tests` is every test they started (finished or not), newest
 first. 404 `"No such student."` for an unknown id.
+
+`POST /api/admin/students/{id}/recovery` → `{name, recovery_code}`: a new code for a student who lost theirs. Their
+old code stops working. It doesn't change their password or sign them out. Logged server-side.
 
 Access: only account **ids** listed in `KCET_ADMINS` (comma-separated, in `/opt/kcet/.env`). Anyone else
 gets 404; logged out gets 401. Ids, not names, because anyone can sign up and claim a listed name.

@@ -1,4 +1,4 @@
-import type { AdminOverview, AdminStudentDetail, Attempt, AttemptDetail, CreateAttemptInput, Meta, ReviewItem, Stats, User } from './types'
+import type { AdminOverview, AdminStudentDetail, Attempt, WithRecovery, AttemptDetail, CreateAttemptInput, Meta, ReviewItem, Stats, User } from './types'
 
 export class ApiError extends Error {
   status: number
@@ -48,7 +48,7 @@ async function request<T>(method: string, path: string, body?: unknown, opts: { 
         : res.status >= 500
           ? 'The server had a problem. Try again in a moment.'
           : `Request failed (${res.status}).`
-    if (res.status === 401 && path !== '/api/login' && path !== '/api/signup' && onUnauthorized) onUnauthorized()
+    if (res.status === 401 && path !== '/api/login' && path !== '/api/signup' && path !== '/api/reset' && onUnauthorized) onUnauthorized()
     throw new ApiError(res.status, msg)
   }
   return data as T
@@ -57,13 +57,18 @@ async function request<T>(method: string, path: string, body?: unknown, opts: { 
 export const api = {
   me: () => request<User>('GET', '/api/me'),
   login: (username: string, password: string) => request<User>('POST', '/api/login', { username, password }),
-  signup: (username: string, password: string) => request<User>('POST', '/api/signup', { username, password }),
+  signup: (username: string, password: string) => request<WithRecovery>('POST', '/api/signup', { username, password }),
+  reset: (username: string, code: string, password: string) =>
+    request<WithRecovery>('POST', '/api/reset', { username, code, password }),
+  newRecovery: (current: string) => request<{ recovery_code: string }>('POST', '/api/account/recovery', { current }),
   logout: () => request<{ ok: boolean }>('POST', '/api/logout'),
   changePassword: (current: string, password: string) =>
     request<{ ok: boolean }>('POST', '/api/account/password', { current, password }),
   meta: () => request<Meta>('GET', '/api/meta'),
   stats: () => request<Stats>('GET', '/api/stats'),
   adminOverview: () => request<AdminOverview>('GET', '/api/admin/overview'),
+  adminNewRecovery: (id: number) =>
+    request<{ name: string; recovery_code: string }>('POST', `/api/admin/students/${id}/recovery`),
   adminStudent: (id: string) => request<AdminStudentDetail>('GET', `/api/admin/students/${encodeURIComponent(id)}`),
   attempts: () => request<Attempt[]>('GET', '/api/attempts'),
   attempt: (id: string) => request<AttemptDetail>('GET', `/api/attempts/${encodeURIComponent(id)}`),

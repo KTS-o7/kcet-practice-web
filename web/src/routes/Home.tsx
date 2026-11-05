@@ -1,4 +1,4 @@
-import { ArrowRightIcon, ClockIcon, PlayIcon, TrashIcon } from '@phosphor-icons/react'
+import { ArrowRightIcon, ClockIcon, LifebuoyIcon, PlayIcon, TrashIcon } from '@phosphor-icons/react'
 import { useMutation, useQueryClient } from '@tanstack/react-query'
 import { useEffect, useMemo, useState } from 'react'
 import { Link, useNavigate } from 'react-router'
@@ -36,6 +36,20 @@ export default function Home() {
         </h1>
         <p className="text-label font-medium text-muted">{longToday()}</p>
       </div>
+
+      {me.data?.has_recovery === false && (
+        <Link
+          to="/account#recovery"
+          className="card mb-6 flex items-center gap-3 px-4 py-3 shadow-[0_0_0_1px_var(--color-marked)] transition-colors hover:bg-raised"
+        >
+          <LifebuoyIcon size={22} weight="duotone" className="shrink-0 text-marked" aria-hidden />
+          <span className="min-w-0 flex-1 text-label">
+            <span className="font-semibold">Make a recovery code.</span>{' '}
+            <span className="font-normal text-muted">It’s the only way back in if you forget your password.</span>
+          </span>
+          <ArrowRightIcon size={16} className="shrink-0 text-muted" aria-hidden />
+        </Link>
+      )}
 
       {attempts.data && <ContinueStrip attempts={attempts.data} />}
 

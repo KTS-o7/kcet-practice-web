@@ -1,8 +1,10 @@
-import { CheckCircleIcon } from '@phosphor-icons/react'
+import { CheckCircleIcon, WarningCircleIcon } from '@phosphor-icons/react'
+import { useQueryClient } from '@tanstack/react-query'
 import { useState, type FormEvent } from 'react'
+import { RecoveryCodeCard } from '../components/RecoveryCode'
 import { PageTitle, Spinner } from '../components/ui'
 import { api, ApiError } from '../lib/api'
-import { useMe } from '../lib/queries'
+import { qk, useMe } from '../lib/queries'
 
 type Field = 'current' | 'password' | 'confirm' | 'form'
 
@@ -11,7 +13,10 @@ export default function Account() {
   return (
     <div className="mx-auto max-w-[560px]">
       <PageTitle sub={me.data ? `Signed in as ${me.data.name}` : undefined}>Account</PageTitle>
-      <ChangePassword />
+      <div className="space-y-6">
+        <Recovery />
+        <ChangePassword />
+      </div>
     </div>
   )
 }
@@ -102,6 +107,88 @@ function ChangePassword() {
         <button type="submit" className="btn btn-primary" disabled={busy}>
           {busy && <Spinner />}
           {busy ? 'Changing password' : 'Change password'}
+        </button>
+      </form>
+    </section>
+  )
+}
+
+function Recovery() {
+  const me = useMe()
+  const qc = useQueryClient()
+  const has = me.data?.has_recovery
+  const [current, setCurrent] = useState('')
+  const [error, setError] = useState('')
+  const [busy, setBusy] = useState(false)
+  const [code, setCode] = useState<string | null>(null)
+
+  const make = async (e: FormEvent) => {
+    e.preventDefault()
+    if (busy) return
+    if (!current) return setError('Enter your current password.')
+    setBusy(true)
+    setError('')
+    try {
+      const r = await api.newRecovery(current)
+      setCode(r.recovery_code)
+      setCurrent('')
+      if (me.data) qc.setQueryData(qk.me, { ...me.data, has_recovery: true })
+    } catch (err) {
+      setError(err instanceof Error ? err.message : 'Something went wrong.')
+    } finally {
+      setBusy(false)
+    }
+  }
+
+  if (code) {
+    return (
+      <section id="recovery" className="card p-5 sm:p-6">
+        <RecoveryCodeCard
+          code={code}
+          name={me.data?.name ?? ''}
+          title="Your new recovery code"
+          intro="Your old code (if you had one) no longer works. If you forget your password, use “Forgot password?” on the login page with this code."
+          doneLabel="Done"
+          onDone={() => setCode(null)}
+        />
+      </section>
+    )
+  }
+
+  return (
+    <section id="recovery" aria-labelledby="rec-h" className={`card p-5 sm:p-6 ${has === false ? 'shadow-[0_0_0_2px_var(--color-marked)]' : ''}`}>
+      <h2 id="rec-h" className="flex items-center gap-2 text-h2">
+        {has === false && <WarningCircleIcon size={22} weight="fill" className="text-marked" aria-hidden />}
+        Recovery code
+      </h2>
+      <p className="mt-1 text-label font-normal text-muted">
+        {has === false
+          ? 'You don’t have one yet. Without it, a forgotten password can’t be recovered (there’s no email reset). Make one now and keep it safe.'
+          : 'You have a recovery code. Lost it? Make a new one; the old one stops working.'}
+      </p>
+      <form onSubmit={make} noValidate className="mt-5 space-y-4">
+        <input type="text" autoComplete="username" value={me.data?.name ?? ''} readOnly hidden />
+        <div>
+          <label htmlFor="rec-current" className="label mb-1.5 block">
+            Current password
+          </label>
+          <input
+            id="rec-current"
+            type="password"
+            className="field"
+            autoComplete="current-password"
+            value={current}
+            onChange={(e) => setCurrent(e.target.value)}
+            aria-invalid={!!error}
+            aria-describedby={error ? 'rec-err' : undefined}
+          />
+        </div>
+        <p id="rec-err" role="alert" aria-live="assertive" className="min-h-[18px] text-label font-medium text-wrong">
+          {error}
+        </p>
+        <button type="submit" className={`btn ${has === false ? 'btn-primary' : 'btn-secondary'}`} disabled={busy}>
+          {busy && <Spinner />}
+          {has === false ? 'Make a recovery code' : 'Make a new recovery code'}
         </button>
       </form>
     </section>

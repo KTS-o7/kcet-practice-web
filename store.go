@@ -72,6 +72,10 @@ func OpenStore(path string) (*Store, error) {
 	if err := addColumn(db, "users", "session_gen", "INTEGER NOT NULL DEFAULT 0"); err != nil {
 		return nil, err
 	}
+	// v5: bcrypt hash of the account's one-time recovery code ('' = none yet)
+	if err := addColumn(db, "users", "recovery_hash", "TEXT NOT NULL DEFAULT ''"); err != nil {
+		return nil, err
+	}
 	return &Store{db}, nil
 }
 
@@ -90,8 +94,8 @@ func addColumn(db *sql.DB, table, col, decl string) error {
 var errUserExists = errors.New("user exists")
 
 // CreateUser adds a new account; errUserExists if the name is taken (case-insensitive).
-func (s *Store) CreateUser(name, hash string) (int64, error) {
-	res, err := s.db.Exec(`INSERT INTO users(username, created_at, password_hash) VALUES(?, ?, ?) ON CONFLICT(username) DO NOTHING`, name, time.Now().Unix(), hash)
+func (s *Store) CreateUser(name, hash, recoveryHash string) (int64, error) {
+	res, err := s.db.Exec(`INSERT INTO users(username, created_at, password_hash, recovery_hash) VALUES(?, ?, ?, ?) ON CONFLICT(username) DO NOTHING`, name, time.Now().Unix(), hash, recoveryHash)
 	if err != nil {
 		return 0, err
 	}
@@ -103,10 +107,11 @@ func (s *Store) CreateUser(name, hash string) (int64, error) {
 
 // Account is what login needs to know about a user.
 type Account struct {
-	ID   int64
-	Name string // as stored (original capitalisation)
-	Hash string // bcrypt
-	Gen  int    // session generation
+	ID       int64
+	Name     string // as stored (original capitalisation)
+	Hash     string // bcrypt
+	Gen      int    // session generation
+	Recovery string // bcrypt of the recovery code, '' if none
 }
 
 // AccountByName looks up an account by name (case-insensitive).
@@ -121,11 +126,34 @@ func (s *Store) AccountByID(id int64) (*Account, error) {
 
 func (s *Store) account(where string, arg any) (*Account, error) {
 	a := &Account{}
-	err := s.db.QueryRow(`SELECT id, username, password_hash, session_gen FROM users WHERE `+where, arg).Scan(&a.ID, &a.Name, &a.Hash, &a.Gen)
+	err := s.db.QueryRow(`SELECT id, username, password_hash, session_gen, recovery_hash FROM users WHERE `+where, arg).Scan(&a.ID, &a.Name, &a.Hash, &a.Gen, &a.Recovery)
 	if errors.Is(err, sql.ErrNoRows) {
 		return nil, errNotFound
 	}
 	return a, err
+}
+
+// SetRecovery replaces the account's recovery code (the old one stops working).
+func (s *Store) SetRecovery(id int64, recoveryHash string) error {
+	res, err := s.db.Exec(`UPDATE users SET recovery_hash = ? WHERE id = ?`, recoveryHash, id)
+	if err != nil {
+		return err
+	}
+	if n, _ := res.RowsAffected(); n == 0 {
+		return errNotFound
+	}
+	return nil
+}
+
+// ResetPassword sets a new password and a new recovery code together (the used code is spent),
+// and bumps the session generation so every device is signed out. Returns the new generation.
+func (s *Store) ResetPassword(id int64, hash, recoveryHash string) (int, error) {
+	var gen int
+	err := s.db.QueryRow(`UPDATE users SET password_hash = ?, recovery_hash = ?, session_gen = session_gen + 1 WHERE id = ? RETURNING session_gen`, hash, recoveryHash, id).Scan(&gen)
+	if errors.Is(err, sql.ErrNoRows) {
+		return 0, errNotFound
+	}
+	return gen, err
 }
 
 // SessionGen is the account's current session generation; errNotFound if the account is gone.
