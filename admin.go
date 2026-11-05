@@ -10,7 +10,7 @@ import (
 )
 
 // Owner dashboard: read-only aggregates over every account. Only account IDs listed in
-// KCET_ADMINS (comma-separated, e.g. "2") can call it; everyone else gets a plain 404.
+// KCET_ADMINS (comma-separated account ids) can call it; everyone else gets a plain 404.
 // IDs, not usernames: anyone can sign up, so a listed name could be claimed by a stranger.
 // Remove an ID from the list before ever deleting that account (SQLite can reuse the last id).
 

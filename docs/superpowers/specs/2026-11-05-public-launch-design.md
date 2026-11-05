@@ -35,7 +35,7 @@ The site was built for one student. He started using it on 2026-11-05. Krishna n
 
 ## 1. Owner dashboard
 
-**Access.** A new setting, `KCET_ADMINS`, holds a comma-separated list of account IDs in `/opt/kcet/.env` and is never in the repo. IDs, not usernames, because anyone can sign up and claim a listed name. Krishna's account `anon` is ID 2. `/api/admin/*` returns 404 for anyone else, so the page's existence isn't revealed. `/admin` is a page in the SPA that uses the same design as the rest of the site. It is read-only.
+**Access.** A new setting, `KCET_ADMINS`, holds a comma-separated list of account IDs in `/opt/kcet/.env` and is never in the repo. IDs, not usernames, because anyone can sign up and claim a listed name. `/api/admin/*` returns 404 for anyone else, so the page's existence isn't revealed. `/admin` is a page in the SPA that uses the same design as the rest of the site. It is read-only.
 
 **Panels**, from one `GET /api/admin/overview` call:
 
