@@ -21,7 +21,8 @@ type Auth struct {
 	secure bool
 
 	mu       sync.Mutex
-	failures map[string][]time.Time
+	failures map[string][]time.Time // per IP
+	accounts map[string][]time.Time // wrong passwords per account name (lower-cased), from any IP
 }
 
 type User struct {
@@ -114,4 +115,78 @@ func (a *Auth) fail(ip string) {
 	a.mu.Lock()
 	a.failures[ip] = append(a.failures[ip], time.Now())
 	a.mu.Unlock()
+}
+
+// Per-account lockout. The per-IP limit alone doesn't stop someone guessing one account's password
+// from many addresses, so wrong passwords are also counted per account name, whatever the IP:
+// after accountMaxFails within accountWindow, that name refuses every login (even a correct one)
+// until accountLock has passed since the last wrong try. Names that don't exist are tracked the
+// same way, so the response never reveals whether an account exists.
+// Counts live in memory and reset when the server restarts.
+const (
+	accountMaxFails = 10
+	accountWindow   = time.Hour
+	accountLock     = 15 * time.Minute
+)
+
+func accountKey(name string) string { return strings.ToLower(strings.TrimSpace(name)) }
+
+// accountLocked reports whether the name is locked out, and for how much longer.
+func (a *Auth) accountLocked(name string) (bool, time.Duration) {
+	a.mu.Lock()
+	defer a.mu.Unlock()
+	k := accountKey(name)
+	recent := pruneBefore(a.accounts[k], time.Now().Add(-accountWindow))
+	if len(recent) == 0 {
+		delete(a.accounts, k)
+		return false, 0
+	}
+	a.accounts[k] = recent
+	if len(recent) < accountMaxFails {
+		return false, 0
+	}
+	left := accountLock - time.Since(recent[len(recent)-1])
+	return left > 0, left
+}
+
+func (a *Auth) accountFail(name string) {
+	a.mu.Lock()
+	defer a.mu.Unlock()
+	if len(a.accounts) > 50_000 { // bound memory under a flood of made-up names
+		cut := time.Now().Add(-accountWindow)
+		for k, ts := range a.accounts {
+			if len(pruneBefore(ts, cut)) == 0 {
+				delete(a.accounts, k)
+			}
+		}
+	}
+	k := accountKey(name)
+	a.accounts[k] = append(a.accounts[k], time.Now())
+}
+
+// accountOK clears the count after a successful login.
+func (a *Auth) accountOK(name string) {
+	a.mu.Lock()
+	delete(a.accounts, accountKey(name))
+	a.mu.Unlock()
+}
+
+func pruneBefore(ts []time.Time, cut time.Time) []time.Time {
+	i := 0
+	for i < len(ts) && !ts[i].After(cut) {
+		i++
+	}
+	return ts[i:]
+}
+
+func lockedMessage(left time.Duration) string {
+	m := int(left.Minutes() + 0.999)
+	if m < 1 {
+		m = 1
+	}
+	unit := "minutes"
+	if m == 1 {
+		unit = "minute"
+	}
+	return fmt.Sprintf("Too many wrong passwords for this account. Try again in %d %s.", m, unit)
 }

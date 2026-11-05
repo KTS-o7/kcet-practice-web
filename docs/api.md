@@ -11,6 +11,11 @@ All `/api/*` except login return 401 `{"error"}` when not logged in. Errors: `{"
   one isn't 6–72 characters). Bumps the account's session generation, which signs out every other device, and
   re-issues this device's cookie.
 
+Limits: 8 failed logins or sign-ups per IP per 15 minutes (429). Separately, 10 wrong passwords for one account
+name within an hour, from any IP, lock that name for 15 minutes after the last wrong try (429, even with the right
+password). Unknown names are counted the same way, so the response doesn't reveal whether an account exists. Wrong
+"current password" tries on `/api/account/password` count too. Counts are in memory and reset on restart.
+
 Sessions: the cookie carries the account's session generation. Every authenticated request checks it against
 `users.session_gen`, so a password change (or a deleted account) ends old logins. Cookies from before this existed
 count as generation 0 and keep working until the first password change.

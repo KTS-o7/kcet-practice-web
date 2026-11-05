@@ -155,6 +155,10 @@ func (app *App) login(w http.ResponseWriter, r *http.Request) {
 	if !ok {
 		return
 	}
+	if locked, left := app.auth.accountLocked(in.Username); locked {
+		fail(w, 429, lockedMessage(left))
+		return
+	}
 	acc, err := app.store.AccountByName(in.Username)
 	if err != nil && !errors.Is(err, errNotFound) {
 		fail(w, 500, "server error")
@@ -162,10 +166,12 @@ func (app *App) login(w http.ResponseWriter, r *http.Request) {
 	}
 	if acc == nil || acc.Hash == "" || bcrypt.CompareHashAndPassword([]byte(acc.Hash), []byte(in.Password)) != nil {
 		app.auth.fail(ip)
+		app.auth.accountFail(in.Username)
 		time.Sleep(400 * time.Millisecond)
 		fail(w, 401, "Name or password isn't right.")
 		return
 	}
+	app.auth.accountOK(in.Username)
 	u := User{ID: acc.ID, Name: acc.Name, Gen: acc.Gen}
 	app.auth.issue(w, u)
 	writeJSON(w, 200, u)
@@ -193,8 +199,13 @@ func (app *App) changePassword(w http.ResponseWriter, r *http.Request, u User) {
 		fail(w, 500, "server error")
 		return
 	}
+	if locked, left := app.auth.accountLocked(acc.Name); locked {
+		fail(w, 429, lockedMessage(left))
+		return
+	}
 	if bcrypt.CompareHashAndPassword([]byte(acc.Hash), []byte(in.Current)) != nil {
 		app.auth.fail(ip)
+		app.auth.accountFail(acc.Name)
 		time.Sleep(400 * time.Millisecond)
 		fail(w, 403, "Current password isn't right.") // 403, not 401: the session is fine
 		return
