@@ -59,15 +59,28 @@ func OpenStore(path string) (*Store, error) {
 	if _, err := db.Exec(schema); err != nil {
 		return nil, err
 	}
+	// Migrations are additive only: existing rows and progress are never rewritten.
 	// v2: per-user passwords (accounts created by the student himself)
-	var n int
-	_ = db.QueryRow(`SELECT COUNT(*) FROM pragma_table_info('users') WHERE name = 'password_hash'`).Scan(&n)
-	if n == 0 {
-		if _, err := db.Exec(`ALTER TABLE users ADD COLUMN password_hash TEXT NOT NULL DEFAULT ''`); err != nil {
-			return nil, err
-		}
+	if err := addColumn(db, "users", "password_hash", "TEXT NOT NULL DEFAULT ''"); err != nil {
+		return nil, err
+	}
+	// v3: when a response was last saved, for the admin activity view (old rows stay NULL)
+	if err := addColumn(db, "responses", "updated_at", "INTEGER"); err != nil {
+		return nil, err
 	}
 	return &Store{db}, nil
+}
+
+func addColumn(db *sql.DB, table, col, decl string) error {
+	var n int
+	if err := db.QueryRow(`SELECT COUNT(*) FROM pragma_table_info(?) WHERE name = ?`, table, col).Scan(&n); err != nil {
+		return err
+	}
+	if n > 0 {
+		return nil
+	}
+	_, err := db.Exec(`ALTER TABLE ` + table + ` ADD COLUMN ` + col + ` ` + decl)
+	return err
 }
 
 var errUserExists = errors.New("user exists")
@@ -197,13 +210,14 @@ func (s *Store) Responses(attemptID string) (map[string]*Response, error) {
 }
 
 func (s *Store) SaveResponse(attemptID string, r *Response) error {
-	_, err := s.db.Exec(`INSERT INTO responses(attempt_id,qid,choice,marked,time_ms,revealed) VALUES(?,?,?,?,?,?)
+	_, err := s.db.Exec(`INSERT INTO responses(attempt_id,qid,choice,marked,time_ms,revealed,updated_at) VALUES(?,?,?,?,?,?,?)
 		ON CONFLICT(attempt_id,qid) DO UPDATE SET
 		  choice = CASE WHEN responses.revealed THEN responses.choice ELSE excluded.choice END,
 		  marked = excluded.marked,
 		  time_ms = MAX(responses.time_ms, excluded.time_ms),
-		  revealed = MAX(responses.revealed, excluded.revealed)`,
-		attemptID, r.QID, r.Choice, r.Marked, r.TimeMS, r.Revealed)
+		  revealed = MAX(responses.revealed, excluded.revealed),
+		  updated_at = excluded.updated_at`,
+		attemptID, r.QID, r.Choice, r.Marked, r.TimeMS, r.Revealed, time.Now().Unix())
 	return err
 }
 

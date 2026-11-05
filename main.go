@@ -51,7 +51,8 @@ func main() {
 		_, _ = rand.Read(secret)
 	}
 
-	app := &App{corpus: corpus, store: store, auth: &Auth{secret: secret, secure: !*dev, failures: map[string][]time.Time{}}}
+	app := &App{corpus: corpus, store: store, auth: &Auth{secret: secret, secure: !*dev, failures: map[string][]time.Time{}}, admins: parseAdmins(os.Getenv("KCET_ADMINS"))}
+	log.Printf("admins: %d", len(app.admins))
 	mux := http.NewServeMux()
 	app.routes(mux)
 

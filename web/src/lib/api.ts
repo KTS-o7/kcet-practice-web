@@ -1,4 +1,4 @@
-import type { Attempt, AttemptDetail, CreateAttemptInput, Meta, ReviewItem, Stats, User } from './types'
+import type { AdminOverview, Attempt, AttemptDetail, CreateAttemptInput, Meta, ReviewItem, Stats, User } from './types'
 
 export class ApiError extends Error {
   status: number
@@ -61,6 +61,7 @@ export const api = {
   logout: () => request<{ ok: boolean }>('POST', '/api/logout'),
   meta: () => request<Meta>('GET', '/api/meta'),
   stats: () => request<Stats>('GET', '/api/stats'),
+  adminOverview: () => request<AdminOverview>('GET', '/api/admin/overview'),
   attempts: () => request<Attempt[]>('GET', '/api/attempts'),
   attempt: (id: string) => request<AttemptDetail>('GET', `/api/attempts/${encodeURIComponent(id)}`),
   createAttempt: (input: CreateAttemptInput) => request<{ id: string }>('POST', '/api/attempts', input),

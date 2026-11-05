@@ -6,7 +6,7 @@ All `/api/*` except login return 401 `{"error"}` when not logged in. Errors: `{"
 - `POST /api/signup` `{username, password}` → 201 `User {id, name}` (sets HttpOnly cookie). 409 name taken, 400 bad name / password < 6 chars, 429 too many tries.
 - `POST /api/login` `{username, password}` → `User {id, name}` (sets cookie). 401 wrong name or password, 429 too many tries.
 - `POST /api/logout` → `{ok}`
-- `GET /api/me` → `User`
+- `GET /api/me` → `User & {admin: boolean}`
 
 ## Meta
 `GET /api/meta` →
@@ -57,6 +57,17 @@ Attempt = { id, subject: "physics"|"chemistry"|"mathematics"|"all", mode, practi
 
 ## Reports
 `POST /api/reports` `{qid, note}` → `{ok}` ("this question looks wrong").
+
+## Admin (owner dashboard)
+`GET /api/admin/overview` → everything the `/admin` page shows, computed on demand (days in IST):
+`today`/`week` totals (sign-ups, active students, tests finished, questions answered), `days` (last 30),
+`retention` (by sign-up week, % active in weeks 1–4 after joining; `null` until that week is over),
+`modes`/`subjects`/`kinds` usage, `hardest` chapters (30+ answers), `suspects` (8+ students, under 25%
+match our key, one other option ≥ 50%), `reports`, `students`.
+
+Access: only account **ids** listed in `KCET_ADMINS` (comma-separated, in `/opt/kcet/.env`). Anyone else
+gets 404; logged out gets 401. Ids, not names, because anyone can sign up and claim a listed name.
+Take an id off the list before deleting that account (SQLite can hand the last id to the next sign-up).
 
 ## Static
 `/img/<name>` question images (auth required). Everything else: SPA (`index.html` fallback). `robots.txt` disallows all.
