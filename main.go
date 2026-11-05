@@ -76,7 +76,7 @@ func main() {
 
 func (app *App) authedHandler(h http.HandlerFunc) http.HandlerFunc {
 	return func(w http.ResponseWriter, r *http.Request) {
-		if _, ok := app.auth.user(r); !ok {
+		if _, ok := app.session(w, r); !ok {
 			http.Error(w, "not logged in", http.StatusUnauthorized)
 			return
 		}

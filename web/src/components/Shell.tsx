@@ -1,4 +1,4 @@
-import { CaretDownIcon, ChartBarIcon, DesktopIcon, MoonIcon, SignOutIcon, SunIcon } from '@phosphor-icons/react'
+import { CaretDownIcon, ChartBarIcon, DesktopIcon, KeyIcon, MoonIcon, SignOutIcon, SunIcon } from '@phosphor-icons/react'
 import { useQueryClient } from '@tanstack/react-query'
 import { Suspense, useEffect, useRef, useState } from 'react'
 import { Navigate, NavLink, Outlet, useLocation, useNavigate } from 'react-router'
@@ -89,6 +89,17 @@ function UserMenu({ name, admin = false }: { name: string; admin?: boolean }) {
           <p className="px-2.5 pt-1.5 pb-2 text-caption text-muted">
             Signed in as <span className="font-semibold text-ink">{name}</span>
           </p>
+          <button
+            role="menuitem"
+            type="button"
+            className="flex h-9 w-full items-center gap-2.5 rounded-md px-2.5 text-left hover:bg-paper"
+            onClick={() => {
+              setOpen(false)
+              navigate('/account')
+            }}
+          >
+            <KeyIcon size={16} aria-hidden /> Account and password
+          </button>
           {admin && (
             <button
               role="menuitem"

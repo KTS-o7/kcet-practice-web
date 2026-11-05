@@ -41,7 +41,7 @@ func readJSON(r *http.Request, v any) error {
 
 func (app *App) authed(h func(http.ResponseWriter, *http.Request, User)) http.HandlerFunc {
 	return func(w http.ResponseWriter, r *http.Request) {
-		u, ok := app.auth.user(r)
+		u, ok := app.session(w, r)
 		if !ok {
 			fail(w, http.StatusUnauthorized, "not logged in")
 			return
@@ -50,12 +50,32 @@ func (app *App) authed(h func(http.ResponseWriter, *http.Request, User)) http.Ha
 	}
 }
 
+// session returns the logged-in user. A cookie is only good while its account still exists and
+// its session generation is current (a password change bumps it, signing out other devices).
+func (app *App) session(w http.ResponseWriter, r *http.Request) (User, bool) {
+	u, ok := app.auth.user(r)
+	if !ok {
+		return User{}, false
+	}
+	gen, err := app.store.SessionGen(u.ID)
+	if err != nil || gen != u.Gen {
+		if err != nil && !errors.Is(err, errNotFound) {
+			log.Printf("session: %v", err)
+			return User{}, false // database trouble: refuse, but keep the cookie
+		}
+		app.auth.clear(w)
+		return User{}, false
+	}
+	return u, true
+}
+
 func (app *App) routes(mux *http.ServeMux) {
 	mux.HandleFunc("GET /healthz", func(w http.ResponseWriter, r *http.Request) {
 		writeJSON(w, 200, map[string]any{"ok": true, "questions": len(app.corpus.Questions), "version": version})
 	})
 	mux.HandleFunc("POST /api/login", app.login)
 	mux.HandleFunc("POST /api/signup", app.signup)
+	mux.HandleFunc("POST /api/account/password", app.authed(app.changePassword))
 	mux.HandleFunc("POST /api/logout", func(w http.ResponseWriter, r *http.Request) {
 		app.auth.clear(w)
 		writeJSON(w, 200, map[string]bool{"ok": true})
@@ -125,7 +145,7 @@ func (app *App) signup(w http.ResponseWriter, r *http.Request) {
 		fail(w, 500, "server error")
 		return
 	}
-	u := User{id, in.Username}
+	u := User{ID: id, Name: in.Username}
 	app.auth.issue(w, u)
 	writeJSON(w, 201, u)
 }
@@ -135,20 +155,63 @@ func (app *App) login(w http.ResponseWriter, r *http.Request) {
 	if !ok {
 		return
 	}
-	id, stored, hash, err := app.store.UserByName(in.Username)
+	acc, err := app.store.AccountByName(in.Username)
 	if err != nil && !errors.Is(err, errNotFound) {
 		fail(w, 500, "server error")
 		return
 	}
-	if errors.Is(err, errNotFound) || hash == "" || bcrypt.CompareHashAndPassword([]byte(hash), []byte(in.Password)) != nil {
+	if acc == nil || acc.Hash == "" || bcrypt.CompareHashAndPassword([]byte(acc.Hash), []byte(in.Password)) != nil {
 		app.auth.fail(ip)
 		time.Sleep(400 * time.Millisecond)
 		fail(w, 401, "Name or password isn't right.")
 		return
 	}
-	u := User{id, stored}
+	u := User{ID: acc.ID, Name: acc.Name, Gen: acc.Gen}
 	app.auth.issue(w, u)
 	writeJSON(w, 200, u)
+}
+
+// changePassword needs the current password. It signs out every other device (new session
+// generation) and re-issues this device's cookie so it stays logged in.
+func (app *App) changePassword(w http.ResponseWriter, r *http.Request, u User) {
+	var in struct{ Current, Password string }
+	if err := readJSON(r, &in); err != nil {
+		fail(w, 400, "bad request")
+		return
+	}
+	ip := clientIP(r)
+	if !app.auth.allowAttempt(ip) {
+		fail(w, 429, "Too many tries. Wait 15 minutes.")
+		return
+	}
+	if len(in.Password) < 6 || len(in.Password) > 72 {
+		fail(w, 400, "New password should be 6 to 72 characters.")
+		return
+	}
+	acc, err := app.store.AccountByID(u.ID)
+	if err != nil {
+		fail(w, 500, "server error")
+		return
+	}
+	if bcrypt.CompareHashAndPassword([]byte(acc.Hash), []byte(in.Current)) != nil {
+		app.auth.fail(ip)
+		time.Sleep(400 * time.Millisecond)
+		fail(w, 403, "Current password isn't right.") // 403, not 401: the session is fine
+		return
+	}
+	hash, err := bcrypt.GenerateFromPassword([]byte(in.Password), bcrypt.DefaultCost)
+	if err != nil {
+		fail(w, 500, "server error")
+		return
+	}
+	gen, err := app.store.SetPassword(u.ID, string(hash))
+	if err != nil {
+		log.Printf("change password: %v", err)
+		fail(w, 500, "server error")
+		return
+	}
+	app.auth.issue(w, User{ID: acc.ID, Name: acc.Name, Gen: gen})
+	writeJSON(w, 200, map[string]bool{"ok": true})
 }
 
 func (app *App) meta(w http.ResponseWriter, r *http.Request, u User) {

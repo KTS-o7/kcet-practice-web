@@ -59,6 +59,8 @@ export const api = {
   login: (username: string, password: string) => request<User>('POST', '/api/login', { username, password }),
   signup: (username: string, password: string) => request<User>('POST', '/api/signup', { username, password }),
   logout: () => request<{ ok: boolean }>('POST', '/api/logout'),
+  changePassword: (current: string, password: string) =>
+    request<{ ok: boolean }>('POST', '/api/account/password', { current, password }),
   meta: () => request<Meta>('GET', '/api/meta'),
   stats: () => request<Stats>('GET', '/api/stats'),
   adminOverview: () => request<AdminOverview>('GET', '/api/admin/overview'),

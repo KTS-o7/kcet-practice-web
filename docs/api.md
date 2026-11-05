@@ -7,6 +7,13 @@ All `/api/*` except login return 401 `{"error"}` when not logged in. Errors: `{"
 - `POST /api/login` `{username, password}` → `User {id, name}` (sets cookie). 401 wrong name or password, 429 too many tries.
 - `POST /api/logout` → `{ok}`
 - `GET /api/me` → `User & {admin: boolean}`
+- `POST /api/account/password` `{current, password}` → `{ok}`. Needs the current password (403 if wrong, 400 if the new
+  one isn't 6–72 characters). Bumps the account's session generation, which signs out every other device, and
+  re-issues this device's cookie.
+
+Sessions: the cookie carries the account's session generation. Every authenticated request checks it against
+`users.session_gen`, so a password change (or a deleted account) ends old logins. Cookies from before this existed
+count as generation 0 and keep working until the first password change.
 
 ## Meta
 `GET /api/meta` →
