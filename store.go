@@ -68,6 +68,10 @@ func OpenStore(path string) (*Store, error) {
 	if err := addColumn(db, "responses", "updated_at", "INTEGER"); err != nil {
 		return nil, err
 	}
+	// v4: session generation. Bumped on every password change, which signs out all other devices.
+	if err := addColumn(db, "users", "session_gen", "INTEGER NOT NULL DEFAULT 0"); err != nil {
+		return nil, err
+	}
 	return &Store{db}, nil
 }
 
@@ -97,15 +101,52 @@ func (s *Store) CreateUser(name, hash string) (int64, error) {
 	return res.LastInsertId()
 }
 
-// UserByName returns id, stored name and password hash.
-func (s *Store) UserByName(name string) (int64, string, string, error) {
-	var id int64
-	var stored, hash string
-	err := s.db.QueryRow(`SELECT id, username, password_hash FROM users WHERE username = ?`, name).Scan(&id, &stored, &hash)
+// Account is what login needs to know about a user.
+type Account struct {
+	ID   int64
+	Name string // as stored (original capitalisation)
+	Hash string // bcrypt
+	Gen  int    // session generation
+}
+
+// AccountByName looks up an account by name (case-insensitive).
+func (s *Store) AccountByName(name string) (*Account, error) {
+	return s.account(`username = ?`, name)
+}
+
+// AccountByID looks up an account by id.
+func (s *Store) AccountByID(id int64) (*Account, error) {
+	return s.account(`id = ?`, id)
+}
+
+func (s *Store) account(where string, arg any) (*Account, error) {
+	a := &Account{}
+	err := s.db.QueryRow(`SELECT id, username, password_hash, session_gen FROM users WHERE `+where, arg).Scan(&a.ID, &a.Name, &a.Hash, &a.Gen)
 	if errors.Is(err, sql.ErrNoRows) {
-		return 0, "", "", errNotFound
+		return nil, errNotFound
 	}
-	return id, stored, hash, err
+	return a, err
+}
+
+// SessionGen is the account's current session generation; errNotFound if the account is gone.
+func (s *Store) SessionGen(id int64) (int, error) {
+	var gen int
+	err := s.db.QueryRow(`SELECT session_gen FROM users WHERE id = ?`, id).Scan(&gen)
+	if errors.Is(err, sql.ErrNoRows) {
+		return 0, errNotFound
+	}
+	return gen, err
+}
+
+// SetPassword stores a new password hash and bumps the session generation, so every existing
+// login cookie for this account stops working. Returns the new generation.
+func (s *Store) SetPassword(id int64, hash string) (int, error) {
+	var gen int
+	err := s.db.QueryRow(`UPDATE users SET password_hash = ?, session_gen = session_gen + 1 WHERE id = ? RETURNING session_gen`, hash, id).Scan(&gen)
+	if errors.Is(err, sql.ErrNoRows) {
+		return 0, errNotFound
+	}
+	return gen, err
 }
 
 // UserInfo is an account as the admin dashboard sees it.

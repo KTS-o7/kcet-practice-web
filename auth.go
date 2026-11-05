@@ -27,6 +27,7 @@ type Auth struct {
 type User struct {
 	ID   int64  `json:"id"`
 	Name string `json:"name"`
+	Gen  int    `json:"-"` // session generation the cookie was issued for
 }
 
 func (a *Auth) sign(payload string) string {
@@ -37,7 +38,7 @@ func (a *Auth) sign(payload string) string {
 
 func (a *Auth) issue(w http.ResponseWriter, u User) {
 	exp := time.Now().Add(sessionTTL).Unix()
-	payload := fmt.Sprintf("%d|%s|%d", u.ID, base64.RawURLEncoding.EncodeToString([]byte(u.Name)), exp)
+	payload := fmt.Sprintf("%d|%s|%d|%d", u.ID, base64.RawURLEncoding.EncodeToString([]byte(u.Name)), exp, u.Gen)
 	http.SetCookie(w, &http.Cookie{
 		Name: cookieName, Value: payload + "|" + a.sign(payload), Path: "/",
 		HttpOnly: true, Secure: a.secure, SameSite: http.SameSiteLaxMode, Expires: time.Unix(exp, 0),
@@ -61,17 +62,26 @@ func (a *Auth) user(r *http.Request) (User, bool) {
 	if !hmac.Equal([]byte(sig), []byte(a.sign(payload))) {
 		return User{}, false
 	}
+	// id|name|exp, or id|name|exp|gen. Cookies from before session generations existed count as gen 0.
 	parts := strings.Split(payload, "|")
-	if len(parts) != 3 {
+	if len(parts) != 3 && len(parts) != 4 {
 		return User{}, false
 	}
 	id, _ := strconv.ParseInt(parts[0], 10, 64)
 	name, _ := base64.RawURLEncoding.DecodeString(parts[1])
 	exp, _ := strconv.ParseInt(parts[2], 10, 64)
+	gen := 0
+	if len(parts) == 4 {
+		g, err := strconv.Atoi(parts[3])
+		if err != nil {
+			return User{}, false
+		}
+		gen = g
+	}
 	if id == 0 || time.Now().Unix() > exp {
 		return User{}, false
 	}
-	return User{id, string(name)}, true
+	return User{ID: id, Name: string(name), Gen: gen}, true
 }
 
 func clientIP(r *http.Request) string {
