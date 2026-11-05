@@ -7,8 +7,8 @@ The project lives in PostHog's **EU cloud**. Its public project key is in `web/s
 | Who | Tracked | Linked to |
 |---|---|---|
 | Logged-out visitor (login and sign-up pages) | yes, with PostHog's cookie | an anonymous PostHog ID |
-| Logged-in student who **allowed** analytics | yes: page views, clicks (autocapture), and the events below | an **opaque analytics ID** `s_…` |
-| Logged-in student who declined, or hasn't answered yet | **nothing**; PostHog isn't even loaded | — |
+| Logged-in student (default, or chose "on") | yes: page views, clicks (autocapture), and the events below | an **opaque analytics ID** `s_…` |
+| Logged-in student who **turned it off** | **nothing**; PostHog isn't even loaded | — |
 
 - **The opaque ID** is a keyed hash (HMAC) of the account ID. It can't be turned back into the account ID or the name without the server secret. **Names are never sent.**
 - **Session recordings and surveys are off.**
@@ -23,13 +23,15 @@ The project lives in PostHog's **EU cloud**. Its public project key is in `web/s
   - `recovery_code_made`
 - **Sign-out** resets PostHog, so the next visitor on that device starts with a new anonymous ID.
 
-## Consent
+## Opting out
 
-- **At sign-up:** a checkbox, unticked by default: *"Help improve Kaagada: allow usage analytics while I'm logged in. My name is never sent. I'm 18 or older, or my parent or guardian agrees."*
-- **Older accounts:** accounts made before this are asked once on Home (Allow / No thanks).
+Analytics are **on by default** (Krishna's choice, 2026-11-05), and every student can turn them off.
+
+- **At sign-up:** a checkbox, **ticked by default**: *"Help improve Kaagada: allow usage analytics while I'm logged in. My name is never sent. I'm 18 or older, or my parent or guardian agrees."*
+- **Older accounts:** accounts made before this count as on. They see a one-time notice on Home (Turn off / OK).
 - **Any time:** the switch on the Account page changes it.
-- **Storage:** the choice is saved in `users.analytics_consent` (`NULL` = not asked yet), so it follows the student across devices.
-- **Disclosure:** a line under the login form says the site uses PostHog with cookies.
+- **Storage:** the choice is saved in `users.analytics_consent` (`NULL` = never asked, which counts as on), so it follows the student across devices.
+- **Disclosure:** a line under the login form says the site uses PostHog with cookies, and that analytics can be turned off.
 
 This is a practical consent step for a free site, not legal advice. India's DPDP rules on children's data apply from about 2027.
 

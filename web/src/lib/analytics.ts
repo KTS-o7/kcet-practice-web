@@ -5,8 +5,8 @@ import type { User } from './types'
  * Usage analytics with PostHog (EU cloud), sent through /ingest on our own server.
  *
  * - Logged-out visitors: tracked with PostHog's cookie (where they came from, the sign-up funnel).
- * - Logged in: only if the student allowed it (sign-up checkbox, Account page, or the one-time question
- *   on Home). They're identified by an opaque analytics id, never their name or account id.
+ * - Logged in: on by default; off only if the student turned it off (sign-up checkbox, Account page, or
+ *   the one-time notice on Home). They're identified by an opaque analytics id, never their name or account id.
  * - No session recordings, no surveys.
  *
  * Only runs on the live site, or in a build with VITE_ANALYTICS=1 (for testing).
@@ -59,15 +59,15 @@ let lastSynced: string | null = null
 
 /**
  * Called once we know who's here (and whenever /api/me changes). PostHog only loads when allowed:
- * logged out, or logged in with consent. For a student who hasn't allowed it, it isn't loaded at all
- * (or, if it already is, it stops capturing), so nothing leaks before their choice is known.
+ * logged out, or logged in without having turned it off. For a student who turned it off, it isn't
+ * loaded at all (or, if it already is, it stops capturing), so nothing leaks before their choice is known.
  */
 export function syncAnalyticsUser(user: User | null | undefined) {
   const key = user ? `${user.id}:${user.analytics}` : 'out'
   if (key === lastSynced) return
   const wasIn = lastSynced !== null && lastSynced !== 'out'
   lastSynced = key
-  allowed = !user || (user.analytics === true && !!user.analytics_id)
+  allowed = !user || (user.analytics !== false && !!user.analytics_id)
   if (!user) {
     withPh((p) => {
       if (wasIn) p.reset() // forget the link to the student who just logged out
@@ -75,7 +75,7 @@ export function syncAnalyticsUser(user: User | null | undefined) {
     })
     return
   }
-  if (user.analytics === true && user.analytics_id) {
+  if (user.analytics !== false && user.analytics_id) {
     const id = user.analytics_id
     withPh((p) => {
       if (p.has_opted_out_capturing()) p.opt_in_capturing({ captureEventName: false })
@@ -83,7 +83,7 @@ export function syncAnalyticsUser(user: User | null | undefined) {
     })
     return
   }
-  // declined or not asked yet: never start PostHog for them; stop it if it's already running
+  // turned off: never start PostHog for them; stop it if it's already running
   queue.length = 0
   ph?.opt_out_capturing()
 }

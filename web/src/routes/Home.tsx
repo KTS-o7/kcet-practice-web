@@ -343,7 +343,7 @@ function WeakChapters({ stats, loading }: { stats?: Stats; loading: boolean }) {
   )
 }
 
-/** Accounts made before the consent question existed are asked once. */
+/** Accounts made before the analytics choice existed see this once: it's on, and they can turn it off. */
 function AnalyticsAsk() {
   const me = useMe()
   const qc = useQueryClient()
@@ -360,18 +360,18 @@ function AnalyticsAsk() {
   return (
     <section aria-label="Usage analytics" className="card mb-6 flex flex-wrap items-center gap-x-4 gap-y-3 px-4 py-3">
       <p className="min-w-[240px] flex-1 text-label">
-        <span className="font-semibold">Help improve Kaagada?</span>{' '}
+        <span className="font-semibold">Kaagada uses usage analytics.</span>{' '}
         <span className="font-normal text-muted">
-          Allow usage analytics while you’re logged in: pages, clicks and tests, under a random ID, never your name. Only if you’re
-          18 or older, or your parent or guardian agrees. You can change it on the Account page.
+          Pages, clicks and tests go to PostHog under a random ID, never your name, to help us improve the site. You can turn it
+          off now or any time on the Account page.
         </span>
       </p>
       <div className="flex gap-2">
         <button type="button" className="btn btn-secondary btn-sm" disabled={busy} onClick={() => void answer(false)}>
-          No thanks
+          Turn off
         </button>
         <button type="button" className="btn btn-primary btn-sm" disabled={busy} onClick={() => void answer(true)}>
-          Allow
+          OK
         </button>
       </div>
     </section>

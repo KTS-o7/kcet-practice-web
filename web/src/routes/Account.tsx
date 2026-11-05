@@ -201,7 +201,7 @@ function Analytics() {
   const qc = useQueryClient()
   const [busy, setBusy] = useState(false)
   const [error, setError] = useState('')
-  const on = me.data?.analytics === true
+  const on = me.data?.analytics !== false // never asked = on
   const set = async (allow: boolean) => {
     setBusy(true)
     setError('')
@@ -223,8 +223,8 @@ function Analytics() {
         checked={on}
         disabled={busy || !me.data}
         onChange={(v) => void set(v)}
-        label="Allow usage analytics while I’m logged in"
-        description="Pages you open, buttons you click and tests you take go to PostHog (in the EU) under a random ID, never your name. It helps us see what to improve. Only if you’re 18 or older, or your parent or guardian agrees."
+        label="Usage analytics while I’m logged in"
+        description="Pages you open, buttons you click and tests you take go to PostHog (in the EU) under a random ID, never your name. It helps us see what to improve. Turn it off any time."
       />
       {error && (
         <p role="alert" className="mt-3 text-label font-medium text-wrong">

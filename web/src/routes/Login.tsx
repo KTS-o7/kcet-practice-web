@@ -28,7 +28,7 @@ export default function Login() {
   const [code, setCode] = useState('')
   const [password, setPassword] = useState('')
   const [confirm, setConfirm] = useState('')
-  const [analytics, setAnalytics] = useState(false)
+  const [analytics, setAnalytics] = useState(true) // on by default; students can untick it
   const [error, setError] = useState<{ field: Field; msg: string } | null>(null)
   const [busy, setBusy] = useState(false)
   // After sign-up or a reset: the new recovery code, shown once before going on.
@@ -280,8 +280,8 @@ export default function Login() {
           </form>
         )}
         <p className="caption mx-auto mt-4 max-w-[360px] text-center text-muted">
-          Kaagada uses PostHog analytics (with cookies) to see how the site is used. After you log in, only if you allow it, and
-          never with your name.
+          Kaagada uses PostHog analytics (with cookies) to see how the site is used, never with your name. You can turn it off any
+          time on the Account page.
         </p>
       </main>
     </div>

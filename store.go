@@ -76,7 +76,7 @@ func OpenStore(path string) (*Store, error) {
 	if err := addColumn(db, "users", "recovery_hash", "TEXT NOT NULL DEFAULT ''"); err != nil {
 		return nil, err
 	}
-	// v6: usage-analytics consent. NULL = not asked yet, 1 = allowed, 0 = declined.
+	// v6: usage-analytics choice. NULL = never asked (counts as on), 1 = on, 0 = turned off.
 	if err := addColumn(db, "users", "analytics_consent", "INTEGER"); err != nil {
 		return nil, err
 	}
