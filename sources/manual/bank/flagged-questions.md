@@ -1,6 +1,6 @@
 # Questions still flagged after verification
 
-KCET practice bank, bank. Two blind solve passes, plus an external-evidence pass against official KEA and NCERT sources wherever a disagreement could be settled from outside.
+KCET practice bank. Two blind solve passes, plus an external-evidence pass against official KEA and NCERT sources wherever a disagreement could be settled from outside.
 Last checked 2026-11-04T18:13:10Z.
 
 128 of 3051 checked questions are still flagged and are hidden from the app until they are resolved.

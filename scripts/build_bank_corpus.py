@@ -244,7 +244,7 @@ def write_review(recs, now, applied, note):
     lines = [
         "# Questions still flagged after verification",
         "",
-        f"KCET practice bank, bank. {note}",
+        f"KCET practice bank. {note}",
         f"Last checked {now}.",
         "",
         f"{len(unverified)} of {applied} checked questions are still flagged and are hidden "

@@ -24,13 +24,12 @@
     },
     {
       "id": "examon-kcet-che-hard-267",
-      "correct_index": 2,
-      "correct_text": "+3, 1 unpaired electron",
-      "source": "NCERT Class 12 Chemistry (Unit 8, coordination compounds) and the NCERT Chemistry lab manual experiment on potassium trioxalatoferrate(III)",
-      "url": "https://www.drcarman.info/qcalabbk/chap13.pdf",
-      "note": "NCERT's spectrochemical series ranks oxalate above F- and H2O, and for a d5 ion (Fe3+) the inner-orbital d2sp3 case leaves one unpaired electron. The NCERT lab manual measures ferrioxalate at about 1.73 BM, i.e. one unpaired electron. Examon's key (+3, 5) is wrong.",
-      "examon_key_was_wrong": true,
-      "examon_key_index": 2
+      "correct_index": 1,
+      "correct_text": "+3, 5 unpaired electrons",
+      "source": "NCERT Class 12 Chemistry (Unit 8) spectrochemical series and the NCERT Chemistry lab manual experiment on potassium trioxalatoferrate(III)",
+      "note": "NCERT's spectrochemical series places oxalate BELOW water (F- < OH- < C2O4^2- < H2O), so it is a weak-field ligand and Fe(III) stays high-spin d5. The NCERT lab manual states that for Fe(III) octahedral complexes inner-orbital complexes have one unpaired electron while outer-orbital ones have five, and the experiment measures which case applies; the observed moment for ferrioxalate is about 5.9 BM, i.e. five unpaired electrons. The published key (+3, 5) is correct.",
+      "examon_key_was_wrong": false,
+      "examon_key_index": 1
     },
     {
       "id": "examon-kcet-che-wave3-03-012",
