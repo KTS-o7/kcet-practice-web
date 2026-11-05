@@ -7,6 +7,9 @@ export interface User {
   name: string
   admin?: boolean
   has_recovery?: boolean
+  /** usage analytics while logged in: null = not asked yet */
+  analytics?: boolean | null
+  analytics_id?: string
 }
 
 /** Sign-up and password reset hand back a one-time recovery code to show the student. */

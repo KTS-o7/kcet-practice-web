@@ -76,6 +76,10 @@ func OpenStore(path string) (*Store, error) {
 	if err := addColumn(db, "users", "recovery_hash", "TEXT NOT NULL DEFAULT ''"); err != nil {
 		return nil, err
 	}
+	// v6: usage-analytics consent. NULL = not asked yet, 1 = allowed, 0 = declined.
+	if err := addColumn(db, "users", "analytics_consent", "INTEGER"); err != nil {
+		return nil, err
+	}
 	return &Store{db}, nil
 }
 
@@ -94,8 +98,8 @@ func addColumn(db *sql.DB, table, col, decl string) error {
 var errUserExists = errors.New("user exists")
 
 // CreateUser adds a new account; errUserExists if the name is taken (case-insensitive).
-func (s *Store) CreateUser(name, hash, recoveryHash string) (int64, error) {
-	res, err := s.db.Exec(`INSERT INTO users(username, created_at, password_hash, recovery_hash) VALUES(?, ?, ?, ?) ON CONFLICT(username) DO NOTHING`, name, time.Now().Unix(), hash, recoveryHash)
+func (s *Store) CreateUser(name, hash, recoveryHash string, analytics bool) (int64, error) {
+	res, err := s.db.Exec(`INSERT INTO users(username, created_at, password_hash, recovery_hash, analytics_consent) VALUES(?, ?, ?, ?, ?) ON CONFLICT(username) DO NOTHING`, name, time.Now().Unix(), hash, recoveryHash, analytics)
 	if err != nil {
 		return 0, err
 	}
@@ -112,6 +116,7 @@ type Account struct {
 	Hash     string // bcrypt
 	Gen      int    // session generation
 	Recovery string // bcrypt of the recovery code, '' if none
+	Consent  *bool  // usage analytics: nil = not asked yet
 }
 
 // AccountByName looks up an account by name (case-insensitive).
@@ -126,11 +131,17 @@ func (s *Store) AccountByID(id int64) (*Account, error) {
 
 func (s *Store) account(where string, arg any) (*Account, error) {
 	a := &Account{}
-	err := s.db.QueryRow(`SELECT id, username, password_hash, session_gen, recovery_hash FROM users WHERE `+where, arg).Scan(&a.ID, &a.Name, &a.Hash, &a.Gen, &a.Recovery)
+	err := s.db.QueryRow(`SELECT id, username, password_hash, session_gen, recovery_hash, analytics_consent FROM users WHERE `+where, arg).Scan(&a.ID, &a.Name, &a.Hash, &a.Gen, &a.Recovery, &a.Consent)
 	if errors.Is(err, sql.ErrNoRows) {
 		return nil, errNotFound
 	}
 	return a, err
+}
+
+// SetAnalyticsConsent records whether the student allows usage analytics while logged in.
+func (s *Store) SetAnalyticsConsent(id int64, allow bool) error {
+	_, err := s.db.Exec(`UPDATE users SET analytics_consent = ? WHERE id = ?`, allow, id)
+	return err
 }
 
 // SetRecovery replaces the account's recovery code (the old one stops working).

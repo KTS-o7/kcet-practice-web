@@ -112,7 +112,9 @@ func (app *App) resetWithRecovery(w http.ResponseWriter, r *http.Request) {
 	}
 	app.auth.accountOK(in.Username)
 	app.auth.issue(w, User{ID: acc.ID, Name: acc.Name, Gen: gen})
-	writeJSON(w, 200, map[string]any{"id": acc.ID, "name": acc.Name, "recovery_code": code})
+	out := app.me(acc.ID, acc.Name, nil)
+	out["recovery_code"] = code
+	writeJSON(w, 200, out)
 }
 
 // newOwnRecovery: POST /api/account/recovery {current}. A logged-in student makes a new code

@@ -28,6 +28,7 @@ export default function Login() {
   const [code, setCode] = useState('')
   const [password, setPassword] = useState('')
   const [confirm, setConfirm] = useState('')
+  const [analytics, setAnalytics] = useState(false)
   const [error, setError] = useState<{ field: Field; msg: string } | null>(null)
   const [busy, setBusy] = useState(false)
   // After sign-up or a reset: the new recovery code, shown once before going on.
@@ -70,9 +71,9 @@ export default function Login() {
     setError(null)
     try {
       if (signup || reset) {
-        const res = signup ? await api.signup(username.trim(), password) : await api.reset(username.trim(), code, password)
+        const res = signup ? await api.signup(username.trim(), password, analytics) : await api.reset(username.trim(), code, password)
         remember(res.name)
-        const user: User = { id: res.id, name: res.name, admin: res.admin, has_recovery: true }
+        const user: User = { id: res.id, name: res.name, admin: res.admin, has_recovery: true, analytics: res.analytics, analytics_id: res.analytics_id }
         if (signup) qc.setQueryData(qk.me, user)
         else await qc.invalidateQueries({ queryKey: qk.me })
         setSaved({ code: res.recovery_code, name: res.name, after: signup ? 'signup' : 'reset' })
@@ -243,6 +244,20 @@ export default function Login() {
                   />
                 </div>
               )}
+              {signup && (
+                <label className="flex cursor-pointer items-start gap-2.5 text-label font-normal">
+                  <input
+                    type="checkbox"
+                    className="mt-0.5 h-4 w-4 shrink-0 accent-[var(--color-accent)]"
+                    checked={analytics}
+                    onChange={(e) => setAnalytics(e.target.checked)}
+                  />
+                  <span>
+                    Help improve Kaagada: allow usage analytics while I’m logged in. My name is never sent.{' '}
+                    <span className="text-muted">I’m 18 or older, or my parent or guardian agrees. You can change this any time.</span>
+                  </span>
+                </label>
+              )}
               <p id="login-err" role="alert" aria-live="assertive" className="min-h-[18px] text-label font-medium text-wrong">
                 {error?.msg}
               </p>
@@ -264,6 +279,10 @@ export default function Login() {
             </div>
           </form>
         )}
+        <p className="caption mx-auto mt-4 max-w-[360px] text-center text-muted">
+          Kaagada uses PostHog analytics (with cookies) to see how the site is used. After you log in, only if you allow it, and
+          never with your name.
+        </p>
       </main>
     </div>
   )
