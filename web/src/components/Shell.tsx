@@ -2,6 +2,7 @@ import { CaretDownIcon, ChartBarIcon, DesktopIcon, KeyIcon, MoonIcon, SignOutIco
 import { useQueryClient } from '@tanstack/react-query'
 import { Suspense, useEffect, useRef, useState } from 'react'
 import { Navigate, NavLink, Outlet, useLocation, useNavigate } from 'react-router'
+import { syncAnalyticsUser } from '../lib/analytics'
 import { api, ApiError } from '../lib/api'
 import { useMe } from '../lib/queries'
 import { useTheme } from '../lib/theme'
@@ -58,6 +59,7 @@ function UserMenu({ name, admin = false }: { name: string; admin?: boolean }) {
     try {
       await api.logout()
     } finally {
+      syncAnalyticsUser(null)
       qc.clear()
       navigate('/login', { replace: true })
     }

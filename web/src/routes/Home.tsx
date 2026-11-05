@@ -51,6 +51,8 @@ export default function Home() {
         </Link>
       )}
 
+      {me.data?.analytics === null && <AnalyticsAsk />}
+
       {attempts.data && <ContinueStrip attempts={attempts.data} />}
 
       <section aria-label="Subjects" className="grid gap-4 md:grid-cols-3">
@@ -338,5 +340,40 @@ function WeakChapters({ stats, loading }: { stats?: Stats; loading: boolean }) {
         </li>
       ))}
     </ul>
+  )
+}
+
+/** Accounts made before the analytics choice existed see this once: it's on, and they can turn it off. */
+function AnalyticsAsk() {
+  const me = useMe()
+  const qc = useQueryClient()
+  const [busy, setBusy] = useState(false)
+  const answer = async (allow: boolean) => {
+    setBusy(true)
+    try {
+      await api.setAnalytics(allow)
+      if (me.data) qc.setQueryData(qk.me, { ...me.data, analytics: allow })
+    } finally {
+      setBusy(false)
+    }
+  }
+  return (
+    <section aria-label="Usage analytics" className="card mb-6 flex flex-wrap items-center gap-x-4 gap-y-3 px-4 py-3">
+      <p className="min-w-[240px] flex-1 text-label">
+        <span className="font-semibold">Kaagada uses usage analytics.</span>{' '}
+        <span className="font-normal text-muted">
+          Pages, clicks and tests go to PostHog under a random ID, never your name, to help us improve the site. You can turn it
+          off now or any time on the Account page.
+        </span>
+      </p>
+      <div className="flex gap-2">
+        <button type="button" className="btn btn-secondary btn-sm" disabled={busy} onClick={() => void answer(false)}>
+          Turn off
+        </button>
+        <button type="button" className="btn btn-primary btn-sm" disabled={busy} onClick={() => void answer(true)}>
+          OK
+        </button>
+      </div>
+    </section>
   )
 }

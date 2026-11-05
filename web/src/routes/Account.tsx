@@ -2,7 +2,7 @@ import { CheckCircleIcon, WarningCircleIcon } from '@phosphor-icons/react'
 import { useQueryClient } from '@tanstack/react-query'
 import { useState, type FormEvent } from 'react'
 import { RecoveryCodeCard } from '../components/RecoveryCode'
-import { PageTitle, Spinner } from '../components/ui'
+import { PageTitle, Spinner, Switch } from '../components/ui'
 import { api, ApiError } from '../lib/api'
 import { qk, useMe } from '../lib/queries'
 
@@ -15,6 +15,7 @@ export default function Account() {
       <PageTitle sub={me.data ? `Signed in as ${me.data.name}` : undefined}>Account</PageTitle>
       <div className="space-y-6">
         <Recovery />
+        <Analytics />
         <ChangePassword />
       </div>
     </div>
@@ -191,6 +192,45 @@ function Recovery() {
           {has === false ? 'Make a recovery code' : 'Make a new recovery code'}
         </button>
       </form>
+    </section>
+  )
+}
+
+function Analytics() {
+  const me = useMe()
+  const qc = useQueryClient()
+  const [busy, setBusy] = useState(false)
+  const [error, setError] = useState('')
+  const on = me.data?.analytics !== false // never asked = on
+  const set = async (allow: boolean) => {
+    setBusy(true)
+    setError('')
+    try {
+      await api.setAnalytics(allow)
+      if (me.data) qc.setQueryData(qk.me, { ...me.data, analytics: allow })
+    } catch (err) {
+      setError(err instanceof Error ? err.message : 'Something went wrong.')
+    } finally {
+      setBusy(false)
+    }
+  }
+  return (
+    <section aria-labelledby="an-h" className="card p-5 sm:p-6">
+      <h2 id="an-h" className="mb-3 text-h2">
+        Usage analytics
+      </h2>
+      <Switch
+        checked={on}
+        disabled={busy || !me.data}
+        onChange={(v) => void set(v)}
+        label="Usage analytics while I’m logged in"
+        description="Pages you open, buttons you click and tests you take go to PostHog (in the EU) under a random ID, never your name. It helps us see what to improve. Turn it off any time."
+      />
+      {error && (
+        <p role="alert" className="mt-3 text-label font-medium text-wrong">
+          {error}
+        </p>
+      )}
     </section>
   )
 }

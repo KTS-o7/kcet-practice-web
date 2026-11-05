@@ -77,17 +77,18 @@ func (app *App) routes(mux *http.ServeMux) {
 	mux.HandleFunc("POST /api/signup", app.signup)
 	mux.HandleFunc("POST /api/account/password", app.authed(app.changePassword))
 	mux.HandleFunc("POST /api/account/recovery", app.authed(app.newOwnRecovery))
+	mux.HandleFunc("POST /api/account/analytics", app.authed(app.setAnalytics))
+	ph := posthogProxy() // one pattern per method: a method-less "/ingest/" would clash with "GET /"
+	for _, m := range []string{"GET", "POST", "OPTIONS"} {
+		mux.Handle(m+" /ingest/", ph)
+	}
 	mux.HandleFunc("POST /api/reset", app.resetWithRecovery)
 	mux.HandleFunc("POST /api/logout", func(w http.ResponseWriter, r *http.Request) {
 		app.auth.clear(w)
 		writeJSON(w, 200, map[string]bool{"ok": true})
 	})
 	mux.HandleFunc("GET /api/me", app.authed(func(w http.ResponseWriter, r *http.Request, u User) {
-		hasRecovery := false
-		if acc, err := app.store.AccountByID(u.ID); err == nil {
-			hasRecovery = acc.Recovery != ""
-		}
-		writeJSON(w, 200, map[string]any{"id": u.ID, "name": u.Name, "admin": app.isAdmin(u), "has_recovery": hasRecovery})
+		writeJSON(w, 200, app.me(u.ID, u.Name, nil))
 	}))
 	mux.HandleFunc("GET /api/meta", app.authed(app.meta))
 	mux.HandleFunc("POST /api/attempts", app.authed(app.createAttempt))
@@ -106,7 +107,10 @@ func (app *App) routes(mux *http.ServeMux) {
 
 var usernameRE = regexp.MustCompile(`^[\p{L}\p{N} ._-]{2,32}$`)
 
-type credentials struct{ Username, Password string }
+type credentials struct {
+	Username, Password string
+	Analytics          bool // sign-up only: allowed usage analytics
+}
 
 func (app *App) readCreds(w http.ResponseWriter, r *http.Request) (credentials, string, bool) {
 	var in credentials
@@ -147,7 +151,7 @@ func (app *App) signup(w http.ResponseWriter, r *http.Request) {
 		fail(w, 500, "server error")
 		return
 	}
-	id, err := app.store.CreateUser(in.Username, string(hash), recHash)
+	id, err := app.store.CreateUser(in.Username, string(hash), recHash, in.Analytics)
 	if errors.Is(err, errUserExists) {
 		fail(w, 409, "That name is taken. Log in instead, or pick another name.")
 		return
@@ -159,7 +163,9 @@ func (app *App) signup(w http.ResponseWriter, r *http.Request) {
 	}
 	u := User{ID: id, Name: in.Username}
 	app.auth.issue(w, u)
-	writeJSON(w, 201, map[string]any{"id": u.ID, "name": u.Name, "admin": app.isAdmin(u), "has_recovery": true, "recovery_code": code})
+	out := app.me(u.ID, u.Name, nil)
+	out["recovery_code"] = code
+	writeJSON(w, 201, out)
 }
 
 func (app *App) login(w http.ResponseWriter, r *http.Request) {
@@ -186,7 +192,7 @@ func (app *App) login(w http.ResponseWriter, r *http.Request) {
 	app.auth.accountOK(in.Username)
 	u := User{ID: acc.ID, Name: acc.Name, Gen: acc.Gen}
 	app.auth.issue(w, u)
-	writeJSON(w, 200, u)
+	writeJSON(w, 200, app.me(acc.ID, acc.Name, acc))
 }
 
 // changePassword needs the current password. It signs out every other device (new session

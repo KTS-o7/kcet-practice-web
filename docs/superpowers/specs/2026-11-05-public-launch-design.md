@@ -54,6 +54,8 @@ The site was built for one student. He started using it on 2026-11-05. Krishna n
 
 ## 2. PostHog
 
+> **Changed 2026-11-05:** Krishna chose full tracking with consent, instead of cookieless-only. What shipped is described in `docs/analytics.md`.
+
 - **Account:** PostHog Cloud, EU region, free tier. Krishna creates the project and gives me the project key. The key is public by design and goes in the frontend build.
 - **What it records:** page views on public pages (landing, login, sign-up, about), the referrer and UTM tags (so each Reddit post can have its own link), and three events: `signup_started`, `signup_completed`, `first_test_started`.
 - **Privacy settings:** cookieless mode, no person profiles, no session recording, no surveys, autocapture off, no usernames or user IDs sent. After login, nothing except `first_test_started` is sent.
