@@ -19,6 +19,9 @@ var webFS embed.FS
 //go:embed corpus
 var corpusFS embed.FS
 
+// version is the git commit this binary was built from; scripts/deploy.sh sets it with -ldflags.
+var version = "dev"
+
 func main() {
 	if len(os.Args) > 1 && os.Args[1] == "set-password" {
 		os.Exit(setPasswordCmd(os.Args[2:]))
@@ -55,7 +58,7 @@ func main() {
 	}
 
 	app := &App{corpus: corpus, store: store, auth: &Auth{secret: secret, secure: !*dev, failures: map[string][]time.Time{}}, admins: parseAdmins(os.Getenv("KCET_ADMINS"))}
-	log.Printf("admins: %d", len(app.admins))
+	log.Printf("version %s, admins: %d", version, len(app.admins))
 	mux := http.NewServeMux()
 	app.routes(mux)
 

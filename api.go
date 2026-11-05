@@ -71,7 +71,7 @@ func (app *App) session(w http.ResponseWriter, r *http.Request) (User, bool) {
 
 func (app *App) routes(mux *http.ServeMux) {
 	mux.HandleFunc("GET /healthz", func(w http.ResponseWriter, r *http.Request) {
-		writeJSON(w, 200, map[string]any{"ok": true, "questions": len(app.corpus.Questions)})
+		writeJSON(w, 200, map[string]any{"ok": true, "questions": len(app.corpus.Questions), "version": version})
 	})
 	mux.HandleFunc("POST /api/login", app.login)
 	mux.HandleFunc("POST /api/signup", app.signup)
