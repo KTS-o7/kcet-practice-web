@@ -10,6 +10,7 @@ const Results = lazy(() => import('./routes/Results'))
 const Progress = lazy(() => import('./routes/Progress'))
 const History = lazy(() => import('./routes/History'))
 const Admin = lazy(() => import('./routes/Admin'))
+const AdminStudent = lazy(() => import('./routes/AdminStudent'))
 
 function RouteError() {
   const err = useRouteError()
@@ -59,6 +60,7 @@ export const router = createBrowserRouter([
           { path: '/progress', element: <Progress /> },
           { path: '/history', element: <History /> },
           { path: '/admin', element: <Admin /> },
+          { path: '/admin/students/:id', element: <AdminStudent /> },
           { path: '*', element: <NotFound /> },
         ],
       },

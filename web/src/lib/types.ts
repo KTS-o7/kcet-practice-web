@@ -50,6 +50,7 @@ export interface Attempt {
   submitted_at: number | null
   score: number | null
   total: number
+  answered?: number
 }
 
 export interface Question {
@@ -208,4 +209,10 @@ export interface AdminOverview {
   reports: AdminReport[]
   students: AdminStudent[]
   thresholds: { suspect_min_students: number; suspect_max_correct: number; suspect_min_top: number; hard_min_answers: number }
+}
+
+export interface AdminStudentDetail {
+  student: { id: number; name: string; joined: number; last_active: number }
+  stats: Stats
+  tests: Attempt[] // every test started, newest first
 }

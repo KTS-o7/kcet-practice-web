@@ -108,6 +108,27 @@ func (s *Store) UserByName(name string) (int64, string, string, error) {
 	return id, stored, hash, err
 }
 
+// UserInfo is an account as the admin dashboard sees it.
+type UserInfo struct {
+	ID         int64  `json:"id"`
+	Name       string `json:"name"`
+	Joined     int64  `json:"joined"`
+	LastActive int64  `json:"last_active"`
+}
+
+// UserInfoByID returns the account and when it last did anything (started or finished a test, saved an answer).
+func (s *Store) UserInfoByID(id int64) (*UserInfo, error) {
+	u := &UserInfo{}
+	err := s.db.QueryRow(`SELECT u.id, u.username, u.created_at, MAX(u.created_at,
+		  IFNULL((SELECT MAX(MAX(started_at, IFNULL(submitted_at, 0))) FROM attempts WHERE user_id = u.id), 0),
+		  IFNULL((SELECT MAX(r.updated_at) FROM responses r JOIN attempts a ON a.id = r.attempt_id WHERE a.user_id = u.id), 0))
+		FROM users u WHERE u.id = ?`, id).Scan(&u.ID, &u.Name, &u.Joined, &u.LastActive)
+	if errors.Is(err, sql.ErrNoRows) {
+		return nil, errNotFound
+	}
+	return u, err
+}
+
 type Attempt struct {
 	ID          string   `json:"id"`
 	UserID      int64    `json:"-"`
