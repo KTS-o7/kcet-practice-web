@@ -160,6 +160,9 @@ func (a *Auth) accountFail(name string) {
 			}
 		}
 	}
+	if a.accounts == nil {
+		a.accounts = map[string][]time.Time{}
+	}
 	k := accountKey(name)
 	a.accounts[k] = append(a.accounts[k], time.Now())
 }
