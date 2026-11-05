@@ -5,6 +5,7 @@ export type Mode = 'mock' | 'full' | 'quick' | 'chapter' | 'year'
 export interface User {
   id: number
   name: string
+  admin?: boolean
 }
 
 export interface ChapterMeta {
@@ -122,4 +123,89 @@ export interface Stats {
   chapters: ChapterStat[]
   attempts: Attempt[]
   days: Record<string, number>
+}
+
+/* ---------- Owner dashboard (/api/admin/overview) ---------- */
+
+export interface AdminTotals {
+  signups: number
+  active: number
+  tests: number
+  answered: number
+}
+
+export interface AdminDay extends AdminTotals {
+  day: string // YYYY-MM-DD, IST
+}
+
+export interface AdminCohort {
+  week: string
+  size: number
+  weeks: (number | null)[]
+}
+
+export interface AdminCount {
+  key: string
+  started: number
+  finished: number
+}
+
+export interface AdminChapter {
+  subject: SubjectId
+  chapter: string
+  name: string
+  answered: number
+  correct: number
+}
+
+export interface AdminSuspect {
+  id: string
+  subject: SubjectId
+  chapter_name: string
+  source: string
+  stem: string
+  options: string[]
+  accepted: number[]
+  picks: number[]
+  students: number
+  top: number
+  live: boolean
+}
+
+export interface AdminReport {
+  id: number
+  user: string
+  qid: string
+  subject?: SubjectId | ''
+  chapter_name?: string
+  note: string
+  created_at: number
+}
+
+export interface AdminStudent {
+  id: number
+  name: string
+  joined: number
+  last_active: number
+  tests: number
+  answered: number
+  score: number
+  total: number
+}
+
+export interface AdminOverview {
+  generated_at: number
+  today: AdminTotals
+  week: AdminTotals
+  students_total: number
+  days: AdminDay[]
+  retention: AdminCohort[]
+  modes: AdminCount[]
+  subjects: AdminCount[]
+  kinds: AdminCount[]
+  hardest: AdminChapter[]
+  suspects: AdminSuspect[]
+  reports: AdminReport[]
+  students: AdminStudent[]
+  thresholds: { suspect_min_students: number; suspect_max_correct: number; suspect_min_top: number; hard_min_answers: number }
 }

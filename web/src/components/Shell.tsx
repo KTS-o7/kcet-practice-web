@@ -1,4 +1,4 @@
-import { CaretDownIcon, DesktopIcon, MoonIcon, SignOutIcon, SunIcon } from '@phosphor-icons/react'
+import { CaretDownIcon, ChartBarIcon, DesktopIcon, MoonIcon, SignOutIcon, SunIcon } from '@phosphor-icons/react'
 import { useQueryClient } from '@tanstack/react-query'
 import { Suspense, useEffect, useRef, useState } from 'react'
 import { Navigate, NavLink, Outlet, useLocation, useNavigate } from 'react-router'
@@ -31,7 +31,7 @@ export function ThemeToggle() {
   )
 }
 
-function UserMenu({ name }: { name: string }) {
+function UserMenu({ name, admin = false }: { name: string; admin?: boolean }) {
   const [open, setOpen] = useState(false)
   const ref = useRef<HTMLDivElement>(null)
   const qc = useQueryClient()
@@ -89,6 +89,19 @@ function UserMenu({ name }: { name: string }) {
           <p className="px-2.5 pt-1.5 pb-2 text-caption text-muted">
             Signed in as <span className="font-semibold text-ink">{name}</span>
           </p>
+          {admin && (
+            <button
+              role="menuitem"
+              type="button"
+              className="flex h-9 w-full items-center gap-2.5 rounded-md px-2.5 text-left hover:bg-paper sm:hidden"
+              onClick={() => {
+                setOpen(false)
+                navigate('/admin')
+              }}
+            >
+              <ChartBarIcon size={16} aria-hidden /> Admin
+            </button>
+          )}
           {pref !== 'system' && (
             <button
               role="menuitem"
@@ -123,7 +136,7 @@ const navCls = ({ isActive }: { isActive: boolean }) =>
       : 'text-muted hover:text-ink'
   }`
 
-export function TopBar({ name }: { name: string }) {
+export function TopBar({ name, admin = false }: { name: string; admin?: boolean }) {
   return (
     <header className="sticky top-0 z-20 border-b border-line bg-paper/92 backdrop-blur-[6px]">
       <div className="mx-auto flex h-12 max-w-[1120px] items-center gap-3 px-3 sm:gap-6 sm:px-6">
@@ -140,10 +153,15 @@ export function TopBar({ name }: { name: string }) {
           <NavLink to="/history" className={navCls}>
             History
           </NavLink>
+          {admin && (
+            <NavLink to="/admin" className={(a) => `${navCls(a)} max-sm:hidden`}>
+              Admin
+            </NavLink>
+          )}
         </nav>
         <div className="ml-auto flex shrink-0 items-center gap-0.5 sm:gap-1">
           <ThemeToggle />
-          <UserMenu name={name} />
+          <UserMenu name={name} admin={admin} />
         </div>
       </div>
     </header>
@@ -214,7 +232,7 @@ export function AppShell() {
       >
         Skip to content
       </a>
-      <TopBar name={me.data?.name ?? ''} />
+      <TopBar name={me.data?.name ?? ''} admin={me.data?.admin} />
       <main id="main" className="mx-auto max-w-[1120px] px-4 pt-6 pb-16 sm:px-6 sm:pt-8">
         <Suspense fallback={<FullSkeletonInner />}>
           <Outlet />

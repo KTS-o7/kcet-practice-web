@@ -20,6 +20,7 @@ type App struct {
 	corpus *Corpus
 	store  *Store
 	auth   *Auth
+	admins map[int64]bool // account ids from KCET_ADMINS
 }
 
 func writeJSON(w http.ResponseWriter, status int, v any) {
@@ -59,7 +60,9 @@ func (app *App) routes(mux *http.ServeMux) {
 		app.auth.clear(w)
 		writeJSON(w, 200, map[string]bool{"ok": true})
 	})
-	mux.HandleFunc("GET /api/me", app.authed(func(w http.ResponseWriter, r *http.Request, u User) { writeJSON(w, 200, u) }))
+	mux.HandleFunc("GET /api/me", app.authed(func(w http.ResponseWriter, r *http.Request, u User) {
+		writeJSON(w, 200, map[string]any{"id": u.ID, "name": u.Name, "admin": app.isAdmin(u)})
+	}))
 	mux.HandleFunc("GET /api/meta", app.authed(app.meta))
 	mux.HandleFunc("POST /api/attempts", app.authed(app.createAttempt))
 	mux.HandleFunc("GET /api/attempts", app.authed(app.listAttempts))
@@ -70,6 +73,7 @@ func (app *App) routes(mux *http.ServeMux) {
 	mux.HandleFunc("POST /api/attempts/{id}/submit", app.authed(app.submit))
 	mux.HandleFunc("GET /api/stats", app.authed(app.stats))
 	mux.HandleFunc("POST /api/reports", app.authed(app.report))
+	mux.HandleFunc("GET /api/admin/overview", app.adminOnly(app.adminOverview))
 }
 
 var usernameRE = regexp.MustCompile(`^[\p{L}\p{N} ._-]{2,32}$`)
