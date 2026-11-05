@@ -20,6 +20,9 @@ var webFS embed.FS
 var corpusFS embed.FS
 
 func main() {
+	if len(os.Args) > 1 && os.Args[1] == "set-password" {
+		os.Exit(setPasswordCmd(os.Args[2:]))
+	}
 	addr := flag.String("addr", "127.0.0.1:8080", "listen address")
 	dbPath := flag.String("db", "kcet.db", "SQLite database path")
 	dev := flag.Bool("dev", false, "dev mode: random session secret, cookies not Secure, serve corpus from disk")
