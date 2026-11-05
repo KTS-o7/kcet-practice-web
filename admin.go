@@ -1,6 +1,7 @@
 package main
 
 import (
+	"errors"
 	"log"
 	"net/http"
 	"sort"
@@ -462,4 +463,39 @@ func (app *App) buildOverview(now time.Time) (map[string]any, error) {
 			"suspect_min_top": suspectMinTop, "hard_min_answers": hardMinAnswers,
 		},
 	}, nil
+}
+
+// adminStudent is one student's progress, the same numbers they see on their own Progress page,
+// plus every test they started (finished or not).
+func (app *App) adminStudent(w http.ResponseWriter, r *http.Request, _ User) {
+	id, err := strconv.ParseInt(r.PathValue("id"), 10, 64)
+	if err != nil || id <= 0 {
+		http.NotFound(w, r)
+		return
+	}
+	info, err := app.store.UserInfoByID(id)
+	if errors.Is(err, errNotFound) {
+		fail(w, 404, "No such student.")
+		return
+	}
+	if err != nil {
+		log.Printf("admin student: %v", err)
+		fail(w, 500, "server error")
+		return
+	}
+	stats, err := app.statsFor(id)
+	if err != nil {
+		log.Printf("admin student stats: %v", err)
+		fail(w, 500, "server error")
+		return
+	}
+	tests, err := app.store.ListAttempts(id, 500)
+	if err != nil {
+		fail(w, 500, "server error")
+		return
+	}
+	if tests == nil {
+		tests = []*Attempt{}
+	}
+	writeJSON(w, 200, map[string]any{"student": info, "stats": stats, "tests": tests})
 }

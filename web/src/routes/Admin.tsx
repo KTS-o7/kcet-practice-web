@@ -92,14 +92,14 @@ function Overview({ d }: { d: AdminOverview }) {
 
       <DailyChart days={d.days} />
 
-      <div className="grid gap-x-6 gap-y-10 md:grid-cols-2">
+      <div className="grid grid-cols-[minmax(0,1fr)] gap-x-6 gap-y-10 md:grid-cols-2">
         <Retention d={d} />
         <UsageMix d={d} />
       </div>
 
       <Suspects d={d} />
 
-      <div className="grid gap-x-6 gap-y-10 md:grid-cols-2">
+      <div className="grid grid-cols-[minmax(0,1fr)] gap-x-6 gap-y-10 md:grid-cols-2">
         <Hardest d={d} />
         <Reports d={d} />
       </div>
@@ -527,7 +527,7 @@ function Students({ students }: { students: AdminStudent[] }) {
   }
 
   return (
-    <Section id="stu-h" title="Students" aside={plural(students.length, 'account')}>
+    <Section id="stu-h" title="Students" aside={`${plural(students.length, 'account')} · open a name for their progress`}>
       {students.length === 0 ? (
         <EmptyState title="No accounts yet" />
       ) : (
@@ -548,7 +548,11 @@ function Students({ students }: { students: AdminStudent[] }) {
                 const avg = s.total ? Math.round((s.score / s.total) * 100) : null
                 return (
                   <tr key={s.id} className="border-t border-line">
-                    <td className="max-w-[18ch] truncate px-3 py-2.5 font-semibold">{s.name}</td>
+                    <td className="max-w-[18ch] truncate px-3 py-2.5 font-semibold">
+                      <Link to={`/admin/students/${s.id}`} className="link">
+                        {s.name}
+                      </Link>
+                    </td>
                     <td className="px-3 py-2.5 text-muted">{relDay(s.joined)}</td>
                     <td className="px-3 py-2.5">{relDay(s.last_active, true)}</td>
                     <td className="px-3 py-2.5 text-right num">{s.tests}</td>

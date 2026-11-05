@@ -65,6 +65,10 @@ Attempt = { id, subject: "physics"|"chemistry"|"mathematics"|"all", mode, practi
 `modes`/`subjects`/`kinds` usage, `hardest` chapters (30+ answers), `suspects` (8+ students, under 25%
 match our key, one other option ≥ 50%), `reports`, `students`.
 
+`GET /api/admin/students/{id}` → `{student: {id, name, joined, last_active}, stats, tests}`: one student's
+progress. `stats` has the same shape as `/api/stats`; `tests` is every test they started (finished or not), newest
+first. 404 `"No such student."` for an unknown id.
+
 Access: only account **ids** listed in `KCET_ADMINS` (comma-separated, in `/opt/kcet/.env`). Anyone else
 gets 404; logged out gets 401. Ids, not names, because anyone can sign up and claim a listed name.
 Take an id off the list before deleting that account (SQLite can hand the last id to the next sign-up).

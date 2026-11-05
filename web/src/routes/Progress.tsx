@@ -62,7 +62,8 @@ function ProgressSkeleton() {
   )
 }
 
-function SubjectProgress({ subject, stats, meta }: { subject: SubjectId; stats: Stats; meta: Meta }) {
+/** One subject's progress. `admin` = read-only view of someone else's progress (no practice links, third person). */
+export function SubjectProgress({ subject, stats, meta, admin = false }: { subject: SubjectId; stats: Stats; meta: Meta; admin?: boolean }) {
   const st = stats.subjects[subject]
   const bank = meta.subjects.find((x) => x.id === subject)
   const tests = stats.attempts.filter((a) => a.subject === subject)
@@ -78,12 +79,14 @@ function SubjectProgress({ subject, stats, meta }: { subject: SubjectId; stats: 
 
   return (
     <div className="space-y-8">
-      <dl className="grid grid-cols-2 gap-3 sm:grid-cols-4">
-        <Tile label="Accuracy" value={acc == null ? '—' : `${acc}%`} sub={st?.answered ? `${st.correct} of ${st.answered} answered` : 'No answers yet'} />
-        <Tile label="Questions practised" value={String(st?.unique ?? 0)} sub={bank ? `of ${bank.count} in the bank` : undefined} />
-        <Tile label="Tests finished" value={String(tests.length)} sub={tests[0] ? `latest ${relDay(tests[0].submitted_at ?? tests[0].started_at).replace(/^(Today|Yesterday)/, (m) => m.toLowerCase())}` : undefined} />
-        <Tile label="Time spent" value={st?.time_ms ? duration(st.time_ms) : '—'} sub={st?.answered ? `${Math.round(st.time_ms / 1000 / Math.max(1, st.answered + st.skipped))} s per question` : undefined} />
-      </dl>
+      {!admin && (
+        <dl className="grid grid-cols-2 gap-3 sm:grid-cols-4">
+          <Tile label="Accuracy" value={acc == null ? '—' : `${acc}%`} sub={st?.answered ? `${st.correct} of ${st.answered} answered` : 'No answers yet'} />
+          <Tile label="Questions practised" value={String(st?.unique ?? 0)} sub={bank ? `of ${bank.count} in the bank` : undefined} />
+          <Tile label="Tests finished" value={String(tests.length)} sub={tests[0] ? `latest ${relDay(tests[0].submitted_at ?? tests[0].started_at).replace(/^(Today|Yesterday)/, (m) => m.toLowerCase())}` : undefined} />
+          <Tile label="Time spent" value={st?.time_ms ? duration(st.time_ms) : '—'} sub={st?.answered ? `${Math.round(st.time_ms / 1000 / Math.max(1, st.answered + st.skipped))} s per question` : undefined} />
+        </dl>
+      )}
 
       <section aria-labelledby="trend-h">
         <div className="mb-3 flex items-baseline justify-between">
@@ -92,10 +95,10 @@ function SubjectProgress({ subject, stats, meta }: { subject: SubjectId; stats: 
           </h2>
           <p className="caption text-muted">{tests.length > 1 ? `last ${Math.min(tests.length, 30)} tests` : ''}</p>
         </div>
-        <TrendCard subject={subject} tests={tests} />
+        <TrendCard subject={subject} tests={tests} admin={admin} />
       </section>
 
-      <ChapterSection subject={subject} stats={stats} meta={meta} />
+      <ChapterSection subject={subject} stats={stats} meta={meta} admin={admin} />
 
       <section aria-labelledby="act-h">
         <div className="mb-3 flex items-baseline justify-between">
@@ -104,14 +107,16 @@ function SubjectProgress({ subject, stats, meta }: { subject: SubjectId; stats: 
           </h2>
           <p className="caption text-muted">All subjects · last 8 weeks</p>
         </div>
-        <Activity days={stats.days} />
+        <Activity days={stats.days} admin={admin} />
       </section>
 
-      <div className="flex justify-end">
-        <Link to="/history" className="link inline-flex items-center gap-1.5 text-label">
-          Every test you’ve taken <ArrowRightIcon size={14} aria-hidden />
-        </Link>
-      </div>
+      {!admin && (
+        <div className="flex justify-end">
+          <Link to="/history" className="link inline-flex items-center gap-1.5 text-label">
+            Every test you’ve taken <ArrowRightIcon size={14} aria-hidden />
+          </Link>
+        </div>
+      )}
     </div>
   )
 }
@@ -148,7 +153,7 @@ function useWidth<T extends HTMLElement>() {
   return [ref, w] as const
 }
 
-function TrendCard({ subject, tests }: { subject: SubjectId; tests: Attempt[] }) {
+function TrendCard({ subject, tests, admin = false }: { subject: SubjectId; tests: Attempt[]; admin?: boolean }) {
   const pts = useMemo(
     () =>
       tests
@@ -165,12 +170,16 @@ function TrendCard({ subject, tests }: { subject: SubjectId; tests: Attempt[] })
       <EmptyState
         title={pts.length ? `One test so far: ${Math.round(pts[0].v)}%` : 'No finished tests yet'}
         action={
-          <Link to={`/practice/${subject}`} className="btn btn-secondary">
-            Start a {subjectName[subject]} test
-          </Link>
+          admin ? undefined : (
+            <Link to={`/practice/${subject}`} className="btn btn-secondary">
+              Start a {subjectName[subject]} test
+            </Link>
+          )
         }
       >
-        Finish {pts.length ? 'one more test' : 'two tests'} in {subjectName[subject]} and your score trend appears here.
+        {admin
+          ? `A trend appears after two finished ${subjectName[subject]} tests.`
+          : `Finish ${pts.length ? 'one more test' : 'two tests'} in ${subjectName[subject]} and your score trend appears here.`}
       </EmptyState>
     )
   }
@@ -264,7 +273,7 @@ function TrendCard({ subject, tests }: { subject: SubjectId; tests: Attempt[] })
 
 /* ---------------- Chapters: heatmap tiles or weakest-first list ---------------- */
 
-function ChapterSection({ subject, stats, meta }: { subject: SubjectId; stats: Stats; meta: Meta }) {
+function ChapterSection({ subject, stats, meta, admin = false }: { subject: SubjectId; stats: Stats; meta: Meta; admin?: boolean }) {
   const [list, setList] = useState(false)
   const chapters = useMemo(() => {
     const st = new Map(stats.chapters.filter((c) => c.subject === subject).map((c) => [c.chapter, c]))
@@ -294,7 +303,9 @@ function ChapterSection({ subject, stats, meta }: { subject: SubjectId; stats: S
       </div>
       {!touched.length && (
         <p className="mb-3 text-label font-normal text-muted">
-          No chapter has answers yet. Tiles fill in with your accuracy as you practise — tap one to practise just that chapter.
+          {admin
+            ? 'No chapter has answers yet.'
+            : 'No chapter has answers yet. Tiles fill in with your accuracy as you practise — tap one to practise just that chapter.'}
         </p>
       )}
       {list ? (
@@ -302,8 +313,9 @@ function ChapterSection({ subject, stats, meta }: { subject: SubjectId; stats: S
           {sorted.map((c) => {
             const a = c.correct / c.answered
             return (
-              <Link
+              <MaybeLink
                 key={c.id}
+                admin={admin}
                 to={`/practice/${subject}?mode=chapter&practice=1&chapters=${encodeURIComponent(c.id)}`}
                 className="grid grid-cols-[minmax(0,1fr)_auto] items-center gap-x-4 gap-y-1.5 px-4 py-3 transition-colors hover:bg-raised sm:grid-cols-[minmax(0,1fr)_200px_96px] focus-visible:outline-offset-[-2px]"
               >
@@ -312,7 +324,7 @@ function ChapterSection({ subject, stats, meta }: { subject: SubjectId; stats: S
                 <span className="text-right text-label num">
                   {Math.round(a * 100)}%<span className="font-normal text-muted"> of {c.answered}</span>
                 </span>
-              </Link>
+              </MaybeLink>
             )
           })}
           {untouched.length > 0 && (
@@ -329,10 +341,11 @@ function ChapterSection({ subject, stats, meta }: { subject: SubjectId; stats: S
             const dark = has && t >= 0.6
             return (
               <li key={c.id}>
-                <Link
+                <MaybeLink
+                  admin={admin}
                   to={`/practice/${subject}?mode=chapter&practice=1&chapters=${encodeURIComponent(c.id)}`}
                   title={`${c.name}: ${has ? `${Math.round(t * 100)}% of ${c.answered}` : 'not practised yet'}`}
-                  aria-label={`${c.name}, ${has ? `${Math.round(t * 100)} percent of ${c.answered} answered` : 'not practised yet'}. Practise this chapter`}
+                  aria-label={`${c.name}, ${has ? `${Math.round(t * 100)} percent of ${c.answered} answered` : 'not practised yet'}${admin ? '' : '. Practise this chapter'}`}
                   className={`flex h-16 flex-col justify-between rounded-[10px] px-2.5 py-2 transition-transform duration-150 ease-k hover:-translate-y-px ${
                     has ? '' : 'border border-dashed border-line-strong text-muted'
                   }`}
@@ -350,7 +363,7 @@ function ChapterSection({ subject, stats, meta }: { subject: SubjectId; stats: S
                     <span className="text-[13px] font-semibold">{has ? `${Math.round(t * 100)}%` : '—'}</span>
                     <span className="opacity-75">{has ? `${c.answered} Q` : ''}</span>
                   </span>
-                </Link>
+                </MaybeLink>
               </li>
             )
           })}
@@ -362,7 +375,7 @@ function ChapterSection({ subject, stats, meta }: { subject: SubjectId; stats: S
 
 /* ---------------- Activity: 8-week calendar strip ---------------- */
 
-function Activity({ days }: { days: Record<string, number> }) {
+function Activity({ days, admin = false }: { days: Record<string, number>; admin?: boolean }) {
   const weeks = 8
   const today = new Date()
   today.setHours(0, 0, 0, 0)
@@ -423,10 +436,40 @@ function Activity({ days }: { days: Record<string, number> }) {
           questions answered on {plural(active, 'day')}
           {todayN ? ` · ${todayN} today` : ''}
         </p>
-        {total === 0 && (
+        {total === 0 && !admin && (
           <p className="mt-2 text-label font-normal text-muted">Finish a test and today’s square fills in. A little every day adds up.</p>
         )}
       </div>
     </div>
+  )
+}
+
+/** A practice link for the student; plain, non-interactive in the admin's read-only view. */
+function MaybeLink({
+  admin,
+  to,
+  className,
+  children,
+  ...rest
+}: {
+  admin: boolean
+  to: string
+  className: string
+  children: React.ReactNode
+  title?: string
+  'aria-label'?: string
+  style?: React.CSSProperties
+}) {
+  if (admin) {
+    return (
+      <div className={`${className} pointer-events-auto hover:translate-y-0 hover:bg-transparent`} {...rest}>
+        {children}
+      </div>
+    )
+  }
+  return (
+    <Link to={to} className={className} {...rest}>
+      {children}
+    </Link>
   )
 }

@@ -1,4 +1,4 @@
-import type { AdminOverview, Attempt, AttemptDetail, CreateAttemptInput, Meta, ReviewItem, Stats, User } from './types'
+import type { AdminOverview, AdminStudentDetail, Attempt, AttemptDetail, CreateAttemptInput, Meta, ReviewItem, Stats, User } from './types'
 
 export class ApiError extends Error {
   status: number
@@ -62,6 +62,7 @@ export const api = {
   meta: () => request<Meta>('GET', '/api/meta'),
   stats: () => request<Stats>('GET', '/api/stats'),
   adminOverview: () => request<AdminOverview>('GET', '/api/admin/overview'),
+  adminStudent: (id: string) => request<AdminStudentDetail>('GET', `/api/admin/students/${encodeURIComponent(id)}`),
   attempts: () => request<Attempt[]>('GET', '/api/attempts'),
   attempt: (id: string) => request<AttemptDetail>('GET', `/api/attempts/${encodeURIComponent(id)}`),
   createAttempt: (input: CreateAttemptInput) => request<{ id: string }>('POST', '/api/attempts', input),

@@ -8,6 +8,7 @@ export const qk = {
   attempts: ['attempts'] as const,
   attempt: (id: string) => ['attempt', id] as const,
   admin: ['admin'] as const,
+  adminStudent: (id: string) => ['admin', 'student', id] as const,
 }
 
 export const useMe = () => useQuery({ queryKey: qk.me, queryFn: api.me, staleTime: Infinity, retry: false })
@@ -15,3 +16,5 @@ export const useMeta = () => useQuery({ queryKey: qk.meta, queryFn: api.meta, st
 export const useStats = () => useQuery({ queryKey: qk.stats, queryFn: api.stats })
 export const useAttempts = () => useQuery({ queryKey: qk.attempts, queryFn: api.attempts })
 export const useAdminOverview = () => useQuery({ queryKey: qk.admin, queryFn: api.adminOverview, staleTime: 60_000, retry: false })
+export const useAdminStudent = (id: string, enabled = true) =>
+  useQuery({ queryKey: qk.adminStudent(id), queryFn: () => api.adminStudent(id), staleTime: 60_000, retry: false, enabled })

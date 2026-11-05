@@ -74,6 +74,7 @@ func (app *App) routes(mux *http.ServeMux) {
 	mux.HandleFunc("GET /api/stats", app.authed(app.stats))
 	mux.HandleFunc("POST /api/reports", app.authed(app.report))
 	mux.HandleFunc("GET /api/admin/overview", app.adminOnly(app.adminOverview))
+	mux.HandleFunc("GET /api/admin/students/{id}", app.adminOnly(app.adminStudent))
 }
 
 var usernameRE = regexp.MustCompile(`^[\p{L}\p{N} ._-]{2,32}$`)
@@ -535,10 +536,19 @@ func (app *App) submit(w http.ResponseWriter, r *http.Request, u User) {
 }
 
 func (app *App) stats(w http.ResponseWriter, r *http.Request, u User) {
-	rows, err := app.store.History(u.ID)
+	out, err := app.statsFor(u.ID)
 	if err != nil {
 		fail(w, 500, "server error")
 		return
+	}
+	writeJSON(w, 200, out)
+}
+
+// statsFor is one student's progress: per-subject and per-chapter accuracy, finished tests, daily activity.
+func (app *App) statsFor(userID int64) (map[string]any, error) {
+	rows, err := app.store.History(userID)
+	if err != nil {
+		return nil, err
 	}
 	type chStat struct {
 		Subject  string `json:"subject"`
@@ -599,10 +609,9 @@ func (app *App) stats(w http.ResponseWriter, r *http.Request, u User) {
 		chList = append(chList, c)
 	}
 	sort.Slice(chList, func(i, j int) bool { return chList[i].Subject+chList[i].Name < chList[j].Subject+chList[j].Name })
-	attempts, err := app.store.ListAttempts(u.ID, 500)
+	attempts, err := app.store.ListAttempts(userID, 500)
 	if err != nil {
-		fail(w, 500, "server error")
-		return
+		return nil, err
 	}
 	done := []*Attempt{}
 	for _, a := range attempts {
@@ -610,7 +619,7 @@ func (app *App) stats(w http.ResponseWriter, r *http.Request, u User) {
 			done = append(done, a)
 		}
 	}
-	writeJSON(w, 200, map[string]any{"subjects": subj, "chapters": chList, "attempts": done, "days": days})
+	return map[string]any{"subjects": subj, "chapters": chList, "attempts": done, "days": days}, nil
 }
 
 func (app *App) report(w http.ResponseWriter, r *http.Request, u User) {
