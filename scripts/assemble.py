@@ -187,7 +187,8 @@ def main():
     with open(os.path.join(ROOT, "corpus/review.md"), "w") as f:
         f.write("# Questions that need a human look\n\n")
         f.write("Flagged = hidden from practice until fixed. A question is live only when a blind solver agreed with its answer key.\n")
-        f.write("Fix by editing the question's JSON in corpus/questions/ (stem/options/answer/status) and redeploying.\n\n")
+        f.write("Fix by editing the question's JSON in corpus/questions/ (stem/options/answer/status), committing, and deploying.\n")
+        f.write("Note: re-running scripts/assemble.py rebuilds PYQ/Exemplar/NEET files from work/ and would undo such hand edits; check `git diff corpus/` before committing.\n\n")
         f.write("| Question | Status | Why | Source | Key | Checker |\n|---|---|---|---|---|---|\n")
         for qid, status, reason, src, k, v in sorted(review, key=lambda r: r[0]):
             label = status
@@ -197,6 +198,8 @@ def main():
         for jid, u in notes_all:
             f.write(f"- **{jid}**: {u}\n")
     print(json.dumps(totals, indent=1))
+    print("assemble: wrote corpus/. Review with `git diff corpus/` (hand fixes to PYQ/Exemplar/NEET files are overwritten "
+          "from work/), then commit. Deploys ship corpus/ as committed.", file=sys.stderr)
     print(f"review items: {len(review)}")
 
 
