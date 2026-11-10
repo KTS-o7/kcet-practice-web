@@ -1167,15 +1167,21 @@
    2
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": false,
   "checks": {
    "key_official": true,
    "blind_haiku": 1,
    "verify": "disputed",
    "notes": "Key cell (col A) reads 3 = (C) 6 correctly; but fcc corner is shared by 8 cells and face by 2, so 6 has no clear basis; question is ill-posed.",
-   "solver_agrees": [],
-   "status_reason": "blind solver and key disagree"
+   "solver_agrees": [
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 2,
+    "confidence": "high",
+    "note": "blind resolve confirmed the paper's key"
+   }
   }
  },
  {

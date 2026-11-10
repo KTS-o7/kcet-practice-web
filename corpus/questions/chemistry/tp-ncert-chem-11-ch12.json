@@ -20,20 +20,34 @@
    "5-Ethyl-4, 4-dimethylheptane",
    "4,4-Bis(methyl)-3-ethylheptane"
   ],
-  "answer": 1,
+  "answer": 0,
   "accepted": [
-   1
+   0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "checks": {
    "key_official": false,
    "blind_haiku": 0,
    "verify": "disputed",
    "notes": "Key (ii) read correctly from NCERT answer page, but IUPAC requires alphabetical order (ethyl before dimethyl) so 3-Ethyl-4,4-dimethylheptane (i) is the correct name; (ii) lists substituents non-alphabetically. Official key appears wrong.",
-   "solver_agrees": [],
-   "status_reason": "blind solver and key disagree"
+   "key_override": {
+    "reason": "IUPAC cites substituent prefixes in alphabetical order (di/tri ignored), so ethyl precedes methyl and the name is 3-ethyl-4,4-dimethylheptane, option (i). The printed key (ii) lists '4,4-Dimethyl-3-ethylheptane', which violates the alphabetical rule; the paper page prints no structure, so the options alone decide it.",
+    "published_key": [
+     1
+    ]
+   },
+   "solver_agrees": [
+    "haiku",
+    "sonnet",
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 0,
+    "confidence": "high",
+    "note": "blind resolve confirmed the corrected answer"
+   }
   }
  },
  {

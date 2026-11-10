@@ -210,20 +210,34 @@
    "$z=0,\\ x=0$",
    "none of these"
   ],
-  "answer": 1,
+  "answer": 2,
   "accepted": [
-   1
+   2
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "checks": {
    "key_official": false,
    "blind_haiku": 2,
    "verify": "disputed",
    "notes": "Printed key says B (y=0,z=0 = x-axis), but y-axis is x=0,z=0 = option C; transcription verified against p-15 image, key read correctly.",
-   "solver_agrees": [],
-   "status_reason": "blind solver and key disagree"
+   "key_override": {
+    "reason": "Paper page p-15 image confirms the options, and the key cell on page 313 reads '27. B' (alignment proven by 22-26 and 28-30 matching). B (y=0, z=0) is the x-axis; the y-axis consists of points (0,t,0), which needs both x=0 and z=0, i.e. option C 'z=0, x=0'. The exemplar's own text states the y-axis has equation z=0, x=0.",
+    "published_key": [
+     1
+    ]
+   },
+   "solver_agrees": [
+    "haiku",
+    "sonnet",
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 2,
+    "confidence": "high",
+    "note": "blind resolve confirmed the corrected answer"
+   }
   }
  },
  {

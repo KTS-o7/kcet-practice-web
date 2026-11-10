@@ -286,20 +286,34 @@
    "formic acid > hypochlorous acid > acetic acid",
    "formic acid > acetic acid > hypochlorous acid"
   ],
-  "answer": 3,
+  "answer": 1,
   "accepted": [
-   3
+   1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "checks": {
    "key_official": false,
    "blind_haiku": 1,
    "verify": "disputed",
    "notes": "Key (iv) read correctly from answers text layer, but higher Ka means lower pH; Ka formic > acetic > HOCl so pH order is HOCl > acetic > formic = option (ii); key (iv) lists the Ka order, not pH.",
-   "solver_agrees": [],
-   "status_reason": "blind solver and key disagree"
+   "key_override": {
+    "reason": "The printed key (iv) is the Ka/strength order, not a pH order: [H+] = sqrt(Ka*C) at C = 0.1 M gives pH 4.26 (HOCl), 2.88 (acetic), 2.37 (formic), so the pH order is hypochlorous > acetic > formic, option (ii). Transcription and the '(iv)' key cell (key page k0-12) verified against the paper page.",
+    "published_key": [
+     3
+    ]
+   },
+   "solver_agrees": [
+    "haiku",
+    "sonnet",
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 1,
+    "confidence": "high",
+    "note": "blind resolve confirmed the corrected answer"
+   }
   }
  },
  {

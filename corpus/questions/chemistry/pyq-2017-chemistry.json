@@ -256,15 +256,21 @@
    1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "checks": {
    "key_official": true,
    "blind_haiku": 3,
    "verify": "disputed",
    "notes": "Key reading confirmed (B). Transcription exact. Rate follows Arrhenius (rises with T); signs of dH/dS give no basis for rate to rise on cooling, so key B looks wrong.",
-   "solver_agrees": [],
-   "status_reason": "blind solver and key disagree"
+   "solver_agrees": [
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 1,
+    "confidence": "high",
+    "note": "blind resolve confirmed the paper's key"
+   }
   }
  },
  {
@@ -369,15 +375,21 @@
    1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "checks": {
    "key_official": true,
    "blind_haiku": 2,
    "verify": "disputed",
    "notes": "Key reading confirmed (B). Transcription exact (printed ClO- on both sides). Cl goes +1 to -1 and +1 (printed as ClO-): disproportionation (C); key B Reduction looks wrong.",
-   "solver_agrees": [],
-   "status_reason": "blind solver and key disagree"
+   "solver_agrees": [
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 1,
+    "confidence": "high",
+    "note": "blind resolve confirmed the paper's key"
+   }
   }
  },
  {

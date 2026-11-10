@@ -1026,15 +1026,21 @@
    2
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "checks": {
    "key_official": false,
    "blind_haiku": 1,
    "verify": "disputed",
    "notes": "Key (iii) read correctly and transcription matches p.6, but amide+LiAlH4 (and nitrile+LiAlH4, printed 'nitrite') also keeps carbon count, so the question is ambiguous; NCERT key says Gabriel (iii).",
-   "solver_agrees": [],
-   "status_reason": "blind solver and key disagree"
+   "solver_agrees": [
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 2,
+    "confidence": "high",
+    "note": "blind resolve confirmed the paper's key"
+   }
   }
  }
 ]

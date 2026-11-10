@@ -139,15 +139,21 @@
    2
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "checks": {
    "key_official": true,
    "blind_haiku": 3,
    "verify": "key_confirmed",
    "notes": "Transcription exact; key image A1 Q4 = 3 (C). Thermal agitation at room temperature means domains only partially aligned; my first pick (D) was too idealised.",
-   "solver_agrees": [],
-   "status_reason": "blind solver and key disagree"
+   "solver_agrees": [
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 2,
+    "confidence": "high",
+    "note": "blind resolve confirmed the paper's key"
+   }
   }
  },
  {
@@ -1283,20 +1289,34 @@
    "$0.25$",
    "$-0.25$"
   ],
-  "answer": 1,
+  "answer": 0,
   "accepted": [
-   1
+   0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "checks": {
    "key_official": true,
    "blind_haiku": 0,
    "verify": "disputed",
    "notes": "Key image A1 Q34 = 2 (B, -0.50) read correctly; transcription exact. Constant-volume wire gives Poisson ratio +0.5, and -0.5 is unphysical for this case, so the official key looks wrong.",
-   "solver_agrees": [],
-   "status_reason": "blind solver and key disagree"
+   "key_override": {
+    "reason": "Paper p-17 prints the stem and the option order (A) 0.50 (B) -0.50 (C) 0.25 (D) -0.25 exactly as transcribed, and the official key cell (A1, row 34 = '2') does read -0.50 - but that key is wrong: constant volume gives sigma = +0.50, and a negative Poisson ratio is unphysical for an ordinary wire. The correct option is (A) 0.50, index 0.",
+    "published_key": [
+     1
+    ]
+   },
+   "solver_agrees": [
+    "haiku",
+    "sonnet",
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 0,
+    "confidence": "high",
+    "note": "blind resolve confirmed the corrected answer"
+   }
   }
  },
  {

@@ -5923,12 +5923,12 @@
    "$(C_2H_5)_2NH > (C_2H_5)_3N > C_2H_5NH_2 > NH_3$",
    "$NH_3 > C_2H_5NH_2 > (C_2H_5)_2NH > (C_2H_5)_3N$"
   ],
-  "answer": 1,
+  "answer": 2,
   "accepted": [
-   1
+   2
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Basicity in Water",
   "difficulty": "medium",
@@ -5938,7 +5938,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.95,
    "examon_audit_model": "gpt-5.4",
@@ -5949,29 +5949,8 @@
    "examon_repair_note": "Fixed answer key to the correct aqueous basicity order for ethylamines.",
    "solver_confidence": "high",
    "solver_correct_index": 2,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "external source contradicts the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 1,
-    "examon_answer_text": "$(C_2H_5)_2NH > C_2H_5NH_2 > (C_2H_5)_3N > NH_3$",
-    "solver_answer": 2,
-    "solver_answer_text": "$(C_2H_5)_2NH > (C_2H_5)_3N > C_2H_5NH_2 > NH_3$",
-    "solver_correct_text": "",
-    "note": "NCERT aqueous order for ethyl amines: (C2H5)2NH > (C2H5)3N > C2H5NH2 > NH3.",
-    "solver_2_answer": 2,
-    "solver_2_answer_text": "$(C_2H_5)_2NH > (C_2H_5)_3N > C_2H_5NH_2 > NH_3$",
-    "solver_2_correct_text": "",
-    "solver_2_note": "NCERT aqueous ethylamine order: (C2H5)2NH > (C2H5)3N > C2H5NH2 > NH3.",
-    "external_check": {
-     "source": "NCERT Class 12 Chemistry Part II, Unit 9 (Amines), p. 269 - basicity of alkyl amines in aqueous solution",
-     "url": "https://ncert.nic.in/textbook/pdf/lech204.pdf",
-     "note": "NCERT verbatim: '(C2H5)2NH > (C2H5)3N > C2H5NH2 > NH3 (CH3)2NH > CH3NH2 > (CH3)3N > NH3'. Examon's key used the methyl-series order for the ethyl series, which NCERT says changes. Examon's key is wrong."
-    },
-    "external_correct_index": 2,
-    "external_correct_text": "(C2H5)2NH > (C2H5)3N > C2H5NH2 > NH3"
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 2,
@@ -5984,7 +5963,18 @@
     "url": "https://ncert.nic.in/textbook/pdf/lech204.pdf",
     "note": "NCERT verbatim: '(C2H5)2NH > (C2H5)3N > C2H5NH2 > NH3 (CH3)2NH > CH3NH2 > (CH3)3N > NH3'. Examon's key used the methyl-series order for the ethyl series, which NCERT says changes. Examon's key is wrong.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "external_contradicts_key": true,
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": 1,
+    "confidence": "high",
+    "note": "In water, solvation (H-bonding) of the conjugate acid dominates the +I effect: diethylamine > ethylamine > triethylamine > ammonia (pKb 3.0, 3.3, 3.25, 4.75).",
+    "working": "Conjugate acids: Et2NH2+ has 2 N-H (good hydration), EtNH3+ has 3, Et3NH+ has 1 and is also sterically crowded, NH4+ has 4 but no +I alkyl group to help. Net aqueous order: (C2H5)2NH > C2H5NH2 > (C2H5)3N > NH3, which is option (b).",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -8377,12 +8367,12 @@
    "$0.0500$",
    "$0.0900$"
   ],
-  "answer": 1,
+  "answer": 0,
   "accepted": [
-   1
+   0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Raoult's Law",
   "difficulty": "medium",
@@ -8392,7 +8382,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": false,
    "examon_audit_confidence": 0.98,
    "examon_audit_model": "gpt-5.4",
@@ -8407,27 +8397,23 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "no_correct_option",
-    "examon_answer": 1,
-    "examon_answer_text": "$0.0278$",
-    "solver_answer": -1,
-    "solver_answer_text": null,
-    "solver_correct_text": "≈0.005 (x_glucose = 0.05/10.05 = 4.98×10⁻³)",
-    "note": "True value x(glucose) = 0.05/10.05 = 0.005; option A 0.0090 would need only 100 g water.",
-    "solver_2_answer": 0,
-    "solver_2_answer_text": "$0.0090$",
-    "solver_2_correct_text": "",
-    "solver_2_note": "Exact value x_solute = 0.05/10.05 = 0.0050; nearest listed option is 0.0090."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "medium",
    "solver_2_correct_index": 0,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "n(glucose)=0.05, n(H2O)=10 gives x=0.005; key's 0.0278 wrongly used 1.8 mol water, and 0.005 is absent from options.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": 0,
+    "confidence": "medium",
+    "note": "The exact value is 0.0050 (0.50%), which is not listed; the nearest of the four options is 0.0090, and the stem explicitly asks for the value 'closest to'.",
+    "working": "n(glucose) = 9.0/180 = 0.05 mol; n(H2O) = 180/18 = 10 mol. Relative lowering of vapour pressure = x(glucose) = 0.05/10.05 = 0.00498 (dilute approx 0.05/10 = 0.0050). Distances to options: |0.0090-0.0050| = 0.0040; |0.0278-0.0050| = 0.0228; |0.0500-0.0050| = 0.045; |0.0900-0.0050| = 0.085. Nearest = 0.0090. The stem's numbers are off by roughly a factor of 2 from the option set, so this one is only partly self-consistent.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -8456,7 +8442,7 @@
    3
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Positive Deviation",
   "difficulty": "easy",
@@ -8466,7 +8452,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the published key)",
    "examon_verified": false,
    "examon_audit_confidence": 0.97,
    "examon_audit_model": "gpt-5.4",
@@ -8481,27 +8467,22 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "no_correct_option",
-    "examon_answer": 3,
-    "examon_answer_text": "Phenol + aniline",
-    "solver_answer": -1,
-    "solver_answer_text": null,
-    "solver_correct_text": "Ethanol + acetone (or CS2 + acetone) — NCERT positive-deviation pairs",
-    "note": "NCERT: chloroform+acetone, phenol+aniline and HNO3+water are negative deviation; n-hexane+CCl4 near-ideal.",
-    "solver_2_answer": 2,
-    "solver_2_answer_text": "n-hexane + CCl$_4$",
-    "solver_2_correct_text": "",
-    "solver_2_note": "Chloroform+acetone, water+HNO3, phenol+aniline all show negative deviation; n-hexane+CCl4 shows slight positive deviation."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "medium",
    "solver_2_correct_index": 2,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Chloroform+acetone, phenol+aniline and HNO3+water all show negative deviation; n-hexane+CCl4 is near-ideal. No option is positive.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 3,
+   "examon_key": 3,
+   "resolve": {
+    "correct_index": 1,
+    "confidence": "high",
+    "note": "Water + nitric acid is the classic positive-deviation pair: HNO3 ionises in water, so solute-solvent attractions are weaker than the ideal average.",
+    "working": "Chloroform + acetone (H-bond between CHCl3-H and acetone O) and phenol + aniline (O-H...N H-bonding) both show negative deviation; n-hexane + CCl4 are near-ideal (both non-polar, similar intermolecular forces). HNO3 + H2O ionises to H3O+ + NO3-, giving weaker A-B interaction than the A-A/B-B average -> positive deviation.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   }
   }
  },
  {
@@ -13402,12 +13383,12 @@
    "(i) > (ii) > (iii) > (iv)",
    "(iv) > (i) > (iii) > (ii)"
   ],
-  "answer": 0,
+  "answer": 1,
   "accepted": [
-   0
+   1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Phenol acidity comparison",
   "difficulty": "medium",
@@ -13417,7 +13398,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": false,
    "examon_audit_confidence": 0.78,
    "examon_audit_model": "gpt-5.4",
@@ -13430,27 +13411,23 @@
    "solver_correct_index": 1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 0,
-    "examon_answer_text": "(ii) > (iii) > (i) > (iv)",
-    "solver_answer": 1,
-    "solver_answer_text": "(iii) > (ii) > (i) > (iv)",
-    "solver_correct_text": "",
-    "note": "p-nitrophenol > o-nitrophenol (intramolecular H-bond) > phenol > p-cresol.",
-    "solver_2_answer": 1,
-    "solver_2_answer_text": "(iii) > (ii) > (i) > (iv)",
-    "solver_2_correct_text": "",
-    "solver_2_note": "pKa: p-nitrophenol 7.15 < o-nitrophenol 7.17 < phenol 9.95 < p-cresol 10.26; ortho isomer favoured by intramolecular H-bonding."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 1,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "p-Nitrophenol pKa 7.15 < o-nitrophenol 7.23 (intramolecular H-bond); order is (iii)>(ii)>(i)>(iv), p-cresol weakest.",
    "adjudication_correct_index": 1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": 1,
+    "confidence": "medium",
+    "note": "-NO2 at para is more effective than at ortho (no intramolecular H-bond in the neutral o-isomer); p-cresol is the weakest since -CH3 is electron donating.",
+    "working": "pKa values: p-nitrophenol 7.15, o-nitrophenol 7.23 (intramolecular H-bond stabilises the neutral form), phenol 10.0, p-cresol 10.26 (+I/hyperconjugation of -CH3 reduces acidity). Lower pKa = stronger acid, so decreasing acidity: (iii) > (ii) > (i) > (iv).",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -15792,7 +15769,7 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Born–Haber Cycle",
   "difficulty": "medium",
@@ -15802,7 +15779,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.97,
    "examon_audit_model": "gpt-5.4",
@@ -15814,27 +15791,23 @@
    "solver_correct_index": 1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 0,
-    "examon_answer_text": "−787 kJ·mol⁻¹",
-    "solver_answer": 1,
-    "solver_answer_text": "+787 kJ·mol⁻¹",
-    "solver_correct_text": "",
-    "note": "Born-Haber: lattice formation = -787; NCERT tabulates magnitude 787 kJ/mol.",
-    "solver_2_answer": 1,
-    "solver_2_answer_text": "+787 kJ·mol⁻¹",
-    "solver_2_correct_text": "",
-    "solver_2_note": "Born-Haber: -411 = 108+121+496-349+U(formation), so U(formation) = -787; lattice energy to separate ions = +787 kJ/mol."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "medium",
    "solver_2_correct_index": 1,
    "adjudication_verdict": "examon_right",
    "adjudication_reason": "Born-Haber: U = -411 - (108+121+496-349) = -787 kJ/mol for lattice formation; +787 is the dissociation enthalpy.",
    "adjudication_correct_index": 0,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": 0,
+    "confidence": "medium",
+    "note": "Born-Haber cycle gives the lattice formation enthalpy as -787 kJ/mol (the corresponding lattice dissociation energy is +787 kJ/mol).",
+    "working": "ΔH_f = ΔH_sub + ½D(Cl2) + IE(Na) + EA(Cl) + ΔH_lattice(form). -411 = 108 + 121 + 496 - 349 + U = 376 + U. So U = -411 - 376 = -787 kJ/mol.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -16244,7 +16217,7 @@
    "solver_correct_index": -2,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
+   "flag_reason": "Zn2+, Cd2+ and Hg2+ are d10, so they form no coloured ions (option A is true) AND are diamagnetic with no unpaired d-electrons (option D is true) - the printed item has at least two defensible answers, and the publisher's key (D) even contradicts its own explanation, which claims 'D. Low melting point', an option not present in the list. The item needs rewriting; if the key is kept, D (index 3) is chemically true but A (index 0) is equally true.",
    "disagreement": {
     "kind": "solver_unsure",
     "examon_answer": 3,
@@ -16264,7 +16237,16 @@
    "adjudication_verdict": "still_ambiguous",
    "adjudication_reason": "d10 Zn2+/Cd2+/Hg2+ are colourless AND diamagnetic, so both coloured-ion formation and unpaired-d paramagnetism are absent: two correct options.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 3,
+   "examon_key": 3,
+   "resolve": {
+    "correct_index": 0,
+    "confidence": "low",
+    "note": "Zn2+, Cd2+, Hg2+ are d10, so their salts are white and they show neither the typical coloured ions nor unpaired-electron paramagnetism - the question as printed has two defensible options (coloured ions and paramagnetism).",
+    "working": "Zn/Cd/Hg: common ion configuration 3d10 -> no d-d transitions (colourless ions), no unpaired electrons (diamagnetic). 'Formation of coloured ions' is the textbook-stated reason group 12 are not typical transition metals, but option 4 (paramagnetism due to unpaired d-electrons) is equally absent, so the item is ambiguous.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   }
   }
  },
  {
@@ -16917,7 +16899,7 @@
    "solver_correct_index": 0,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
+   "flag_reason": "Two conventions are in play and no textbook settles it: the diagonal relationship is usually explained by comparable size and ionisation enthalpy (the published key), while electronegativity is the other quoted comparison. Nothing here proves the key wrong, so the question stays hidden rather than being published on a contested answer.",
    "disagreement": {
     "kind": "different_option",
     "examon_answer": 1,
@@ -16937,7 +16919,16 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Li 152 pm vs Mg 160 pm and EN 1.0 vs 1.2 are comparable; IE1 520 vs 738 is not, so option B's pairing fails.",
    "adjudication_correct_index": 0,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": 1,
+    "confidence": "high",
+    "note": "Li (152 pm) is much closer in size to Mg (160 pm) than to Na (186 pm), and its ionisation enthalpy is likewise nearer Mg's; electronegativity of Li (~0.98) matches Na (~0.93), so option 0 fails.",
+    "working": "Diagonal relationship arises from comparable charge/radius: Li+ (76 pm) and Mg2+ (72 pm) have similar charge densities. Atomic radii: Li 152, Mg 160, Na 186 pm -> Li ~ Mg. IE1: Li 520, Mg 737 kJ/mol (Li nearer Mg than the value pattern of option 0: EN Li 0.98 vs Na 0.93). Hence IE and atomic radius are the comparable pair.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   }
   }
  },
  {
@@ -17017,7 +17008,7 @@
    2
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Periodic Trends",
   "difficulty": "easy",
@@ -17039,7 +17030,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 2,
@@ -17059,7 +17049,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "IE1: B 801 < Be 899 < C 1086 < O 1314 < N 1402. No option matches; Examon's key wrongly places Be below C.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 2,
+   "examon_key": 2,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "The printed options are broken: no option matches the true order, since each one misplaces either Be/B or N/O.",
+    "working": "IE1 (kJ/mol): B 800.6 < Be 899.5 (B's 2p electron is higher in energy than Be's 2s) < C 1086.5 < O 1313.9 < N 1402.3 (N's half-filled 2p3 is stable; O's paired 2p electron is easier to remove). Correct increasing order: B < Be < C < O < N. Option 0 has N < O, option 1 has Be < B and N < O, option 2 is scrambled, option 3 has Be < B.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "The true increasing order is B < Be < C < O < N (IE1: 800.6 < 899.5 < 1086.5 < 1313.9 < 1402.3 kJ/mol), and no printed option matches it: option 0 misplaces N/O, option 1 misplaces Be/B, option 2 misplaces Be/C, option 3 misplaces Be/B. The publisher's own explanation text prints the correct order while its key points to 'B < C < Be < O < N'; the item is broken as printed."
   }
  },
  {
@@ -19345,12 +19345,12 @@
    "Br⁻",
    "I⁻"
   ],
-  "answer": 0,
+  "answer": 3,
   "accepted": [
-   0
+   3
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Nucleophile Strength",
   "difficulty": "medium",
@@ -19360,7 +19360,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.95,
    "examon_audit_model": "gpt-5.4",
@@ -19372,27 +19372,23 @@
    "solver_correct_index": 3,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 0,
-    "examon_answer_text": "F⁻",
-    "solver_answer": 3,
-    "solver_answer_text": "I⁻",
-    "solver_correct_text": "",
-    "note": "In DMSO (polar aprotic) halides are poorly solvated; I- is most polarizable hence most nucleophilic.",
-    "solver_2_answer": 3,
-    "solver_2_answer_text": "I⁻",
-    "solver_2_correct_text": "",
-    "solver_2_note": "In polar aprotic DMSO halide nucleophilicity rises with polarizability: F < Cl < Br < I; I- is strongest nucleophile."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 3,
    "adjudication_verdict": "examon_right",
    "adjudication_reason": "In polar aprotic DMSO anions stay unsolvated, so nucleophilicity tracks basicity: F- > Cl- > Br- > I-. I- wins only in protic media.",
    "adjudication_correct_index": 0,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": 3,
+    "confidence": "high",
+    "note": "In a polar aprotic solvent (DMSO) the anion is not hydrogen-solvated, so halide nucleophilicity follows size/polarisability rather than basicity: I⁻ > Br⁻ > Cl⁻ > F⁻. The F⁻ > Cl⁻ > Br⁻ > I⁻ order holds only in polar protic solvents.",
+    "working": "DMSO is polar aprotic: it solvates the cation but cannot H-bond to the anion, so the smaller F⁻ is not selectively stabilised. Nucleophilicity therefore rises with polarisability: I⁻ > Br⁻ > Cl⁻ > F⁻. Option 3 (I⁻).",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -22248,7 +22244,7 @@
    2
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "d-Block Melting Points",
   "difficulty": "medium",
@@ -22258,7 +22254,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "external source confirmed the published key",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the published key)",
    "examon_verified": true,
    "examon_audit_confidence": 0.96,
    "examon_audit_model": "gpt-5.4",
@@ -22268,7 +22264,7 @@
    "notes": "",
    "solver_confidence": "low",
    "solver_correct_index": 1,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "medium",
@@ -22283,7 +22279,16 @@
     "note": "V = 2183 K vs Cr = 2180 K, so vanadium is nominally higher, but NCERT and every coaching module credit chromium with the 3d melting-point crown and the exam answer follows that convention. Examon's key (Cr) stands.",
     "checked_on": "2026-11-04"
    },
-   "status_reason": "strict rule: solver and original key did not agree (external source confirmed the published key); corrected answer kept for review"
+   "external_confirms_key": true,
+   "published_key": 2,
+   "examon_key": 2,
+   "resolve": {
+    "correct_index": 1,
+    "confidence": "high",
+    "note": "NCERT melting points for the 3d series: Sc 1541, V 1910, Cr 1907, Zn 420 °C, so V (1910 °C) is the highest — narrowly ahead of Cr.",
+    "working": "Melting points (°C): Sc 1541, Ti 1665, V 1910, Cr 1907, Mn 1246, Fe 1538, Co 1495, Ni 1455, Cu 1085, Zn 419.5. Maximum = V at 1910 °C. Option 1.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   }
   }
  },
  {
@@ -23141,7 +23146,7 @@
    "examon_harden_note": "Added a property-based clue so student must know diagonal relationship and connect it to nitride formation.",
    "solver_confidence": "high",
    "solver_correct_index": 1,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "medium",
@@ -27580,7 +27585,7 @@
    1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Relative lowering of vapour pressure and molar mass",
   "difficulty": "hard",
@@ -27603,7 +27608,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 1,
@@ -27623,7 +27627,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "RLVP = n2/n1 = 0.05; n1 = 52/18 = 2.889, n2 = 0.1444, M = 2.6/0.1444 = 18 g/mol (exact mole fraction 17.1); no option matches.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "medium",
+    "note": "BROKEN AS PRINTED: the stated numbers give 18 g/mol (17.1 g/mol with the exact mole-fraction form), which is not among 78/39/156/26. The option set is built around 78 g/mol, which would require 12 g (not 52 g) of water, so stem and options are inconsistent.",
+    "working": "Relative lowering = x(solute) ~ (w2/M2)/(w1/M1) = w2*M1/(w1*M2). 0.05 = (2.6 x 18)/(52 x M2) => 0.05 x 52 x M2 = 46.8 => M2 = 46.8/2.6 = 18 g/mol. Exact form: x = 0.05 => n(solute) = (0.05/0.95)(52/18) = 0.1520 mol => M = 2.6/0.1520 = 17.1 g/mol. Neither value appears in the options; no option is correct.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "The printed numbers give a molar mass of 18 g/mol (dilute approximation) or 17.1 g/mol (exact mole-fraction form), and none of 78/39/156/26 matches. The publisher's explanation reaches '78' only by putting M(water) = 78 (benzene's molar mass) into M2 = w2*M1/(w1*RLVP) instead of 18, so the item is broken as printed."
   }
  },
  {
@@ -27703,7 +27717,7 @@
    3
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Relative lowering of vapour pressure and molar mass",
   "difficulty": "hard",
@@ -27726,7 +27740,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 3,
@@ -27746,7 +27759,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "n1 = 156/18 = 8.667; n2 = 0.025 x 8.667 = 0.2167; M = 7.8/0.2167 = 36 g/mol (exact 35.1); key 312 is arithmetically wrong.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 3,
+   "examon_key": 3,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "medium",
+    "note": "BROKEN AS PRINTED: the stated numbers give 36 g/mol (35.1 g/mol exact), which is not among 78/156/234/312. 156 g/mol would require 36 g of water (not 156 g), so stem and options are inconsistent.",
+    "working": "0.025 = (7.8 x 18)/(156 x M2) => 0.025 x 156 x M2 = 140.4 => 3.9 M2 = 140.4 => M2 = 36 g/mol. Exact form: n(solute) = (0.025/0.975)(156/18) = 0.2222 mol => M = 7.8/0.2222 = 35.1 g/mol. This item is exactly the 3x-scaled twin of batch-che-hard-037 (whose value is 18 g/mol); neither matches any listed option.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "The printed numbers give 36 g/mol (or 35.1 g/mol with the exact mole-fraction form), which is not among 78/156/234/312. The publisher's '156' comes from the same M(water) = 78 slip as its sibling question, and its keyed 312 is arithmetically wrong; the item is broken as printed."
   }
  },
  {
@@ -31389,12 +31412,12 @@
    "965 s",
    "61277.5 s"
   ],
-  "answer": 1,
+  "answer": 0,
   "accepted": [
-   1
+   0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Electrolysis time for metal deposition",
   "difficulty": "hard",
@@ -31404,7 +31427,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -31417,27 +31440,23 @@
    "solver_correct_index": 0,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 1,
-    "examon_answer_text": "3860 s",
-    "solver_answer": 0,
-    "solver_answer_text": "1930 s",
-    "solver_correct_text": "",
-    "note": "0.635 g Cu = 0.01 mol, 2e- each = 1930 C, at 1 A gives 1930 s",
-    "solver_2_answer": 0,
-    "solver_2_answer_text": "1930 s",
-    "solver_2_correct_text": "",
-    "solver_2_note": "0.635/63.5 = 0.01 mol Cu, needs 0.02 mol electrons = 1930 C; t = 1930 s at 1 A."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 0,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Cu2+ + 2e- -> Cu: 0.01 mol Cu needs 0.02 mol e- = 1930 C; t = 1930/1 = 1930 s. Key's 3860 s double-counts electrons.",
    "adjudication_correct_index": 0,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": 0,
+    "confidence": "high",
+    "note": "Cu2+ needs 2 electrons per Cu; Q = n_e F = 1930 C and I = 1 A gives t = 1930 s.",
+    "working": "n(Cu) = 0.635/63.5 = 0.010 mol; n(e-) = 2 x 0.010 = 0.020 mol; Q = 0.020 x 96500 = 1930 C; t = Q/I = 1930 C / 1 A = 1930 s.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -31767,12 +31786,12 @@
    "965 s",
    "1930 s"
   ],
-  "answer": 1,
+  "answer": 0,
   "accepted": [
-   1
+   0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Electrolysis time for metal deposition",
   "difficulty": "hard",
@@ -31782,7 +31801,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -31795,27 +31814,23 @@
    "solver_correct_index": 0,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 1,
-    "examon_answer_text": "5790 s",
-    "solver_answer": 0,
-    "solver_answer_text": "2895 s",
-    "solver_correct_text": "",
-    "note": "0.81 g Al = 0.03 mol, 3e- each = 8685 C, at 3 A gives 2895 s",
-    "solver_2_answer": 0,
-    "solver_2_answer_text": "2895 s",
-    "solver_2_correct_text": "",
-    "solver_2_note": "0.81/27 = 0.03 mol Al, needs 0.09 mol electrons = 8685 C; t = 8685/3 = 2895 s."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 0,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Al3+ + 3e- -> Al: 0.03 mol Al needs 0.09 mol e- = 8685 C; t = 8685/3 = 2895 s. Key's 5790 s double-counts electrons.",
    "adjudication_correct_index": 0,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": 0,
+    "confidence": "high",
+    "note": "Al3+ needs 3 electrons per Al; total charge 8685 C at 3 A gives 2895 s.",
+    "working": "n(Al) = 0.81/27 = 0.030 mol; n(e-) = 3 x 0.030 = 0.090 mol; Q = 0.090 x 96500 = 8685 C; t = 8685 C / 3 A = 2895 s.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -37407,7 +37422,7 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Molality of a solution",
   "difficulty": "hard",
@@ -37430,7 +37445,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 0,
@@ -37450,7 +37464,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "m = 0.30/0.060 = 5.0; solution 72 g / 1.20 g mL-1 = 60 mL so M = 0.30/0.060 = 5.0; M - m = 0, no option lists 0.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "medium",
+    "note": "BROKEN AS PRINTED: density 1.20 g/mL here is exactly (12+60)/60 = 1 + w2/w1, the condition that makes solution volume (60 mL) numerically equal to the solvent mass in kg, so molarity = molality and the difference is exactly 0 - none of the four options (0.50/0.80/1.00/1.50) is correct.",
+    "working": "n(solute) = 12/40 = 0.30 mol. Molality m = 0.30 mol / 0.060 kg water = 5.00 mol kg^-1. Mass of solution = 12 + 60 = 72 g; V = 72 g / 1.20 g mL^-1 = 60 mL = 0.060 L; molarity M = 0.30/0.060 = 5.00 mol L^-1. Difference M - m = 5.00 - 5.00 = 0.00, which is absent from the options.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "Molarity and molality come out exactly equal (both 5.0) because the stated density 1.20 g/mL equals 1 + w2/w1, the condition that makes solution volume numerically equal to solvent mass in kg. The requested difference is therefore exactly 0, and none of 0.50/0.80/1.00/1.50 is correct; the item is broken as printed."
   }
  },
  {
@@ -39292,7 +39316,7 @@
    1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Structure, hybridization and magnetic properties",
   "difficulty": "medium",
@@ -39302,7 +39326,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the published key)",
    "examon_verified": false,
    "examon_audit_confidence": 0.58,
    "examon_audit_model": "gpt-5.4",
@@ -39316,29 +39340,8 @@
    "examon_harden_note": "Extended oxidation-state question by combining it with ligand field idea and magnetic property.",
    "solver_confidence": "high",
    "solver_correct_index": 2,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "external source contradicts the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 1,
-    "examon_answer_text": "$+3,\\ 5$",
-    "solver_answer": 2,
-    "solver_answer_text": "$+3,\\ 1$",
-    "solver_correct_text": "",
-    "note": "Fe(III) d5; oxalate strong field, inner-orbital d2sp3, 1 unpaired electron",
-    "solver_2_answer": 2,
-    "solver_2_answer_text": "$+3,\\ 1$",
-    "solver_2_correct_text": "",
-    "solver_2_note": "Fe(III) d5; oxalate strong field gives low-spin t2g5 with one unpaired electron.",
-    "external_check": {
-     "source": "NCERT Class 12 Chemistry (Unit 8, coordination compounds) and the NCERT Chemistry lab manual experiment on potassium trioxalatoferrate(III)",
-     "url": "https://www.drcarman.info/qcalabbk/chap13.pdf",
-     "note": "NCERT's spectrochemical series ranks oxalate above F- and H2O, and for a d5 ion (Fe3+) the inner-orbital d2sp3 case leaves one unpaired electron. The NCERT lab manual measures ferrioxalate at about 1.73 BM, i.e. one unpaired electron. Examon's key (+3, 5) is wrong."
-    },
-    "external_correct_index": 2,
-    "external_correct_text": "+3, 1 unpaired electron"
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 2,
@@ -39347,10 +39350,20 @@
    "adjudication_correct_index": 1,
    "adjudicated_at": "2026-11-04T18:12:46Z",
    "external_check": {
-    "source": "NCERT Class 12 Chemistry (Unit 8, coordination compounds) and the NCERT Chemistry lab manual experiment on potassium trioxalatoferrate(III)",
-    "url": "https://www.drcarman.info/qcalabbk/chap13.pdf",
-    "note": "NCERT's spectrochemical series ranks oxalate above F- and H2O, and for a d5 ion (Fe3+) the inner-orbital d2sp3 case leaves one unpaired electron. The NCERT lab manual measures ferrioxalate at about 1.73 BM, i.e. one unpaired electron. Examon's key (+3, 5) is wrong.",
+    "source": "NCERT Class 12 Chemistry (Unit 8) spectrochemical series and the NCERT Chemistry lab manual experiment on potassium trioxalatoferrate(III)",
+    "url": "",
+    "note": "NCERT's spectrochemical series places oxalate BELOW water (F- < OH- < C2O4^2- < H2O), so it is a weak-field ligand and Fe(III) stays high-spin d5. The NCERT lab manual states that for Fe(III) octahedral complexes inner-orbital complexes have one unpaired electron while outer-orbital ones have five, and the experiment measures which case applies; the observed moment for ferrioxalate is about 5.9 BM, i.e. five unpaired electrons. The published key (+3, 5) is correct.",
     "checked_on": "2026-11-04"
+   },
+   "external_confirms_key": true,
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": 2,
+    "confidence": "high",
+    "note": "Oxalate carries 2- each, so Fe is +3 (d5); oxalate is a strong-field ligand, giving a low-spin d5 complex with a single unpaired electron.",
+    "working": "K3[Fe(C2O4)3]: 3(+1) + x + 3(-2) = 0 => x = +3. Fe3+ is 3d5. Oxalate (C2O4 2-) is a strong-field ligand, so the complex is low spin: t2g^5 eg^0 = 1 unpaired electron. (High-spin d5 with 5 unpaired would need a weak-field ligand.)",
+    "resolved_at": "2026-11-10T15:35:54Z"
    }
   }
  },
@@ -39879,12 +39892,12 @@
    "3 unpaired electrons",
    "5 unpaired electrons"
   ],
-  "answer": 2,
+  "answer": 0,
   "accepted": [
-   2
+   0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Properties of transition elements and inner transition elements",
   "difficulty": "hard",
@@ -39894,7 +39907,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.98,
    "examon_audit_model": "gpt-5.4",
@@ -39907,27 +39920,23 @@
    "solver_correct_index": 0,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 2,
-    "examon_answer_text": "3 unpaired electrons",
-    "solver_answer": 0,
-    "solver_answer_text": "4 unpaired electrons",
-    "solver_correct_text": "",
-    "note": "mu = sqrt(n(n+2)) = sqrt(24) gives n = 4 unpaired electrons.",
-    "solver_2_answer": 0,
-    "solver_2_answer_text": "4 unpaired electrons",
-    "solver_2_correct_text": "",
-    "solver_2_note": "n(n+2)=24 => n^2+2n-24=0 => n=4 unpaired electrons."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 0,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "n(n+2) = 24 gives n = 4 (4 x 6 = 24), so 4 unpaired electrons; Examon's own solution derives n = 4, contradicting its key of 3.",
    "adjudication_correct_index": 0,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 2,
+   "examon_key": 2,
+   "resolve": {
+    "correct_index": 0,
+    "confidence": "high",
+    "note": "Spin-only moment mu = sqrt(n(n+2)) BM; sqrt(24) gives n = 4.",
+    "working": "mu^2 = n(n+2) = 24 => n^2 + 2n - 24 = 0 => n = (-2 + sqrt(4 + 96))/2 = (-2 + 10)/2 = 4. Check: 4 x 6 = 24, mu = sqrt(24) = 4.90 BM.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -41013,12 +41022,12 @@
    "Glucose; $0.10$ mol",
    "Sucrose; $0.20$ mol"
   ],
-  "answer": 2,
+  "answer": 0,
   "accepted": [
-   2
+   0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Biomolecule structure and tests",
   "difficulty": "medium",
@@ -41028,7 +41037,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": false,
    "examon_audit_confidence": 0.97,
    "examon_audit_model": "gpt-5.4",
@@ -41043,27 +41052,23 @@
    "solver_correct_index": 0,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 2,
-    "examon_answer_text": "Glucose; $0.10$ mol",
-    "solver_answer": 0,
-    "solver_answer_text": "Glucose; $0.20$ mol",
-    "solver_correct_text": "",
-    "note": "16.2 g/162 = 0.1 mol units gives 0.1 mol glucose; each glucose reduces 2 mol Tollens, so 0.20 mol.",
-    "solver_2_answer": 0,
-    "solver_2_answer_text": "Glucose; $0.20$ mol",
-    "solver_2_correct_text": "",
-    "solver_2_note": "16.2/162=0.1 mol starch units -> 0.1 mol glucose; each glucose reduces 2 mol Tollens reagent, total 0.20 mol."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 0,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "16.2/162 = 0.1 mol glucose; each glucose reduces 2 mol Ag+ in Tollens' reagent, so maximum 0.20 mol reagent reduced.",
    "adjudication_correct_index": 0,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 2,
+   "examon_key": 2,
+   "resolve": {
+    "correct_index": 0,
+    "confidence": "high",
+    "note": "Starch is a polymer of alpha-D-glucose, so complete hydrolysis yields glucose only; each glucose oxidises to gluconic acid and reduces 2 mol of Tollens' reagent.",
+    "working": "M(C6H10O5) = 6(12)+10(1)+5(16) = 162 g/mol. Moles of repeat units = 16.2/162 = 0.10 mol -> 0.10 mol glucose. Tollens: 1 mol glucose (aldose) reduces 2 mol of Tollens' reagent (Ag+ -> Ag). n(Tollens) = 2 x 0.10 = 0.20 mol.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -41288,12 +41293,12 @@
    "0.99 V",
    "1.05 V"
   ],
-  "answer": 2,
+  "answer": 0,
   "accepted": [
-   2
+   0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Nernst equation for a non-standard galvanic cell",
   "difficulty": "hard",
@@ -41303,7 +41308,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.98,
    "examon_audit_model": "gpt-5.4",
@@ -41315,27 +41320,23 @@
    "solver_correct_index": 0,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 2,
-    "examon_answer_text": "0.99 V",
-    "solver_answer": 0,
-    "solver_answer_text": "0.93 V",
-    "solver_correct_text": "",
-    "note": "Q = [Ni2+]/[Ag+]^2 = 1/0.0001 = 10^4; E = 1.05 - (0.0591/2)(4) = 0.932 V.",
-    "solver_2_answer": 0,
-    "solver_2_answer_text": "0.93 V",
-    "solver_2_correct_text": "",
-    "solver_2_note": "Q=[Ni2+]/[Ag+]^2=1/(0.01)^2=10^4; E=1.05-(0.0592/2)(4)=0.932 V."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 0,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Ni + 2Ag+ -> Ni2+ + 2Ag gives Q = [Ni2+]/[Ag+]^2 = 10^4; E = 1.05 - 0.0591/2 x 4 = 0.93 V. Key used unsquared Q.",
    "adjudication_correct_index": 0,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 2,
+   "examon_key": 2,
+   "resolve": {
+    "correct_index": 0,
+    "confidence": "high",
+    "note": "Ag+ is below its standard concentration, so the cell emf is lowered by (0.0591/2)log Q = 0.1182 V.",
+    "working": "Reaction: Ni + 2Ag+ -> Ni2+ + 2Ag, n = 2. Q = [Ni2+]/[Ag+]^2 = 1/(0.01)^2 = 10^4, log Q = 4. E = 1.05 - (0.0591/2)(4) = 1.05 - 0.1182 = 0.9318 ~ 0.93 V.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -41466,12 +41467,12 @@
    "1.24 V",
    "1.18 V"
   ],
-  "answer": 1,
+  "answer": 3,
   "accepted": [
-   1
+   3
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Nernst equation for a non-standard galvanic cell",
   "difficulty": "hard",
@@ -41481,7 +41482,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -41493,27 +41494,23 @@
    "solver_correct_index": 3,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 1,
-    "examon_answer_text": "1.21 V",
-    "solver_answer": 3,
-    "solver_answer_text": "1.18 V",
-    "solver_correct_text": "",
-    "note": "Q = [Fe2+]/[Ag+]^2 = 100; E = 1.24 - (0.0591/2)(2) = 1.181 V.",
-    "solver_2_answer": 3,
-    "solver_2_answer_text": "1.18 V",
-    "solver_2_correct_text": "",
-    "solver_2_note": "Q=[Fe2+]/[Ag+]^2=100; E=1.24-(0.0592/2)(2)=1.181 V."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 3,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Fe + 2Ag+ -> Fe2+ + 2Ag gives Q = 1/(0.1)^2 = 100; E = 1.24 - 0.0591/2 x 2 = 1.18 V. Key used Q = 10.",
    "adjudication_correct_index": 3,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": 3,
+    "confidence": "high",
+    "note": "Dilution of Ag+ to 0.1 M lowers E by (0.0591/2)log 100 = 0.0591 V.",
+    "working": "Reaction: Fe + 2Ag+ -> Fe2+ + 2Ag, n = 2. Q = [Fe2+]/[Ag+]^2 = 1/(0.1)^2 = 10^2, log Q = 2. E = 1.24 - (0.0591/2)(2) = 1.24 - 0.0591 = 1.1809 ~ 1.18 V.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -43654,12 +43651,12 @@
    "120.41 min",
    "30.1 min"
   ],
-  "answer": 0,
+  "answer": 1,
   "accepted": [
-   0
+   1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "First-order concentration change over a non-trivial ratio",
   "difficulty": "hard",
@@ -43669,7 +43666,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -43682,27 +43679,23 @@
    "solver_correct_index": 1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 0,
-    "examon_answer_text": "100 min",
-    "solver_answer": 1,
-    "solver_answer_text": "60.21 min",
-    "solver_correct_text": "",
-    "note": "t=(2.303/0.02303)*log4=100*0.60206=60.21 min",
-    "solver_2_answer": 1,
-    "solver_2_answer_text": "60.21 min",
-    "solver_2_correct_text": "",
-    "solver_2_note": "t=(2.303/0.02303)log(0.40/0.10)=100x0.6021=60.21 min."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 1,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "t = (2.303/0.02303)log(0.40/0.10) = 100 x 0.6021 = 60.21 min; Examon's own solution says 60.21, key says 100.",
    "adjudication_correct_index": 1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": 1,
+    "confidence": "high",
+    "note": "First-order integrated law: t = (2.303/k)log(a/(a-x)); the log term is log(4) = 0.602, giving 60.2 min (100 min would come from wrongly taking the log as 1).",
+    "working": "k = 2.303/t log(a0/a) -> t = (2.303/0.02303) log(0.40/0.10) = (2.303/0.02303) x log 4 = 99.9996 x 0.60206 = 60.204 ~ 60.21 min. (Check: t = ln4/0.02303 = 1.3863/0.02303 = 60.2 min.)",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -46347,12 +46340,12 @@
    "0.94 V",
    "0.82 V"
   ],
-  "answer": 0,
+  "answer": 3,
   "accepted": [
-   0
+   3
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Nernst equation for a non-standard galvanic cell",
   "difficulty": "hard",
@@ -46362,7 +46355,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -46374,27 +46367,23 @@
    "solver_correct_index": 3,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 0,
-    "examon_answer_text": "0.88 V",
-    "solver_answer": 3,
-    "solver_answer_text": "0.82 V",
-    "solver_correct_text": "",
-    "note": "Q=[Sn2+]/[Ag+]^2=10^4; E=0.94-0.1182=0.82 V.",
-    "solver_2_answer": 3,
-    "solver_2_answer_text": "0.82 V",
-    "solver_2_correct_text": "",
-    "solver_2_note": "Q=[Sn2+]/[Ag+]^2=10^4; E=0.94-(0.0592/2)(4)=0.822 V."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 3,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Sn + 2Ag+ gives Q = [Sn2+]/[Ag+]^2 = 10^4; E = 0.94 - (0.0591/2)(4) = 0.82 V. Examon dropped the square on Ag+.",
    "adjudication_correct_index": 3,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": 3,
+    "confidence": "high",
+    "note": "Same Nernst penalty as the Ni/Ag cell: (0.0591/2)log 10^4 = 0.1182 V subtracted from E° = 0.94 V.",
+    "working": "Reaction: Sn + 2Ag+ -> Sn2+ + 2Ag, n = 2. Q = [Sn2+]/[Ag+]^2 = 1/(0.01)^2 = 10^4, log Q = 4. E = 0.94 - (0.0591/2)(4) = 0.94 - 0.1182 = 0.8218 ~ 0.82 V.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
