@@ -60,20 +60,34 @@
    "a bright slit white at the center diffusing to regions of different colours.",
    "only be a diffused slit white in colour."
   ],
-  "answer": 0,
+  "answer": 2,
   "accepted": [
-   0
+   2
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "checks": {
    "key_official": false,
    "blind_haiku": 2,
    "verify": "disputed",
    "notes": "Transcription and key reading (a) verified. 1e4 A = 1 micron is comparable to visible wavelengths so diffraction gives coloured fringes (c); NCERT key (a) looks wrong.",
-   "solver_agrees": [],
-   "status_reason": "blind solver and key disagree"
+   "key_override": {
+    "reason": "The key cell \"10.2 (a)\" is read correctly on the answers page (k0-56, p.161), but (a) is impossible: a slit of 10^4 Å = 1 µm is only 1.25–2.5 times the visible wavelength, so the image cannot be a \"fine sharp slit\"; the first minimum for violet is already at 23.6° and for red at 44.4°, so the common white region ends at the violet minimum and beyond it each colour diffracts to its own angles, giving coloured regions. That is exactly option (c), which also matches NCERT's own textbook statement that in white-light single-slit diffraction the central maximum is white while the secondary maxima are coloured. The stem transcription \"10^4 A\" was zoom-verified against paper p.62 (no dropped minus sign or exponent).",
+    "published_key": [
+     0
+    ]
+   },
+   "solver_agrees": [
+    "haiku",
+    "sonnet",
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 2,
+    "confidence": "high",
+    "note": "blind resolve confirmed the corrected answer"
+   }
   }
  },
  {
@@ -180,15 +194,21 @@
   "images": [
    "tp-ncert-phys-12-ch10-005.png"
   ],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "checks": {
    "key_official": false,
    "blind_haiku": 1,
    "verify": "disputed",
    "notes": "Transcription and key reading (d) verified. P2 is a minimum so no light reaches the hole and the second screen is dark (b); NCERT key (d) looks wrong.",
-   "solver_agrees": [],
-   "status_reason": "blind solver and key disagree"
+   "solver_agrees": [
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 3,
+    "confidence": "high",
+    "note": "blind resolve confirmed the paper's key"
+   }
   }
  }
 ]

@@ -63,15 +63,21 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "checks": {
    "key_official": true,
    "blind_haiku": 3,
    "verify": "disputed",
    "notes": "Key cell reads 1 (confirmed). On charging, PbSO4 at the anode (positive plate) is oxidized to PbO2; option 1 (anode reduced to Pb) is chemically wrong.",
-   "solver_agrees": [],
-   "status_reason": "blind solver and key disagree"
+   "solver_agrees": [
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 0,
+    "confidence": "high",
+    "note": "blind resolve confirmed the paper's key"
+   }
   }
  },
  {
@@ -475,20 +481,34 @@
    "Copper has less affinity for oxygen than Sulphur at high temperature.",
    "Sulphur has less affinity for oxygen at high temperature."
   ],
-  "answer": 0,
+  "answer": 2,
   "accepted": [
-   0
+   2
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": false,
   "checks": {
    "key_official": true,
    "blind_haiku": 2,
    "verify": "disputed",
    "notes": "Key cell reads 1 (confirmed). Cu has LESS affinity for O than S (Cu2S stays while FeS oxidises); option 1 states the reverse, so key looks wrong; option 3 is correct.",
-   "solver_agrees": [],
-   "status_reason": "blind solver and key disagree"
+   "key_override": {
+    "reason": "Bessemerising works because copper has LESS affinity for oxygen than for sulphur, so the oxide Cu2O formed on partial roasting is reduced back by the remaining Cu2S (2Cu2O + Cu2S -> 6Cu + SO2); the key's option 1 states the opposite and is false. The key cell (A1 Q13 = 1) was re-read on the key image and the options on paper page p-04.png match the transcription, so this is a genuine official-key error, not a transcription slip.",
+    "published_key": [
+     0
+    ]
+   },
+   "solver_agrees": [
+    "haiku",
+    "sonnet",
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 2,
+    "confidence": "high",
+    "note": "blind resolve confirmed the corrected answer"
+   }
   }
  },
  {

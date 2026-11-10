@@ -2211,7 +2211,7 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "checks": {
    "key_official": true,
@@ -2219,8 +2219,14 @@
    "verify": "disputed",
    "notes": "Key cell (row 57, D3) re-read as 1 = option 31 (official KEA, likely excluding empty set). Question transcription verified. Odd numbers {1,3,5,7,9} give 2^5=32 subsets incl. the empty set (vacuously only odd); the D3 paper's own solution also says 32, so key looks wrong/arguable.",
    "proofread": "matched_ok",
-   "solver_agrees": [],
-   "status_reason": "blind solver and key disagree"
+   "solver_agrees": [
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 0,
+    "confidence": "high",
+    "note": "blind resolve confirmed the paper's key"
+   }
   }
  },
  {

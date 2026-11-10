@@ -19,7 +19,28 @@ chapter_ok = {s: {c["id"]: c for c in cs} for s, cs in chapters.items()}
 
 
 ILLEGIBLE = re.compile(r"\[(hidden|illegible|unclear|unreadable|missing|\?)|\?\?\?", re.I)
+# A comprehension's sub-questions share one printed number; each carries its part letter
+# on its own line, right after the shared passage ("\n\n(a) <the question>").
+PART_MARK = re.compile(r"\n\s*\(([a-j])\)\s")
 notes_all = []
+
+
+def part_of(stem):
+    """The part letter of a sub-question that shares its printed number with others."""
+    m = None
+    for m in PART_MARK.finditer(stem or ""):
+        pass
+    return m.group(1) if m else ""
+
+
+def resolve_answer(resolve, n, part, qid):
+    """Look up a third-pass blind solve: by "12a" for sub-questions, else by number or id."""
+    if not resolve:
+        return None
+    for k in (f"{n}{part}" if part else None, qid, n):
+        if k is not None and str(k) in resolve:
+            return resolve[str(k)]
+    return None
 
 
 def load(p, default=None):
@@ -65,6 +86,9 @@ def main():
         key = load(os.path.join(wd, "key.json"))["answers"]
         solve = load(os.path.join(wd, "solve.json"), {"answers": {}})["answers"]
         sonnet = load(os.path.join(wd, "sonnet.json"), {"answers": {}}).get("answers", {})
+        resolve = load(os.path.join(wd, "resolve.json"), {"answers": {}}).get("answers", {})
+        overrides = load(os.path.join(wd, "overrides.json"), {})
+        drops = load(os.path.join(wd, "drop.json"), {})
         verify = {str(i["number"]): i for i in load(vpath, {"items": []}).get("items", [])}
         cross = {str(i["number"]): i for i in load(os.path.join(wd, "crosscheck.json"), {"items": []}).get("items", [])}
         for u in load(os.path.join(wd, "reconcile_summary.json"), {}).get("unresolved", []):
@@ -94,33 +118,59 @@ def main():
                 if cx.get("changes"):
                     checks["proofread_changes"] = cx["changes"]
             accepted = sorted(set(k.get("options") or []))
+            part = part_of(q.get("stem", "")) if q["number"] in dupn else ""
             if q["number"] in dupn:
-                status, reason = "flagged", "several sub-questions share one printed number; key mapping ambiguous"
-            elif k.get("grace"):
-                status, reason = "dropped", "grace mark in key"
-            elif not accepted:
-                status, reason = "flagged", "no key entry"
-            elif ILLEGIBLE.search(q.get("stem", "") + " ".join(q.get("options") or [])):
-                status, reason = "flagged", "text not fully legible in source"
-            else:
-                # Live only if an independent blind solver's answer is one of the key's accepted options.
-                # Computed from the solver files themselves, not from the verifier's verdict label.
-                haiku_c = s.get("choice")
-                sonnet_c = (sonnet.get(n) or {}).get("choice")
-                cx_c = (cx or {}).get("solve")
-                text_fixed = bool(v and v.get("verdict") == "transcription_fixed")
-                agree_sources = []
-                if haiku_c in accepted and not text_fixed:
-                    agree_sources.append("haiku")
-                if sonnet_c in accepted:
-                    agree_sources.append("sonnet")
-                if cx_c in accepted:
-                    agree_sources.append("proofread")
-                if cx and cx.get("key_agrees") is False:
+                # Sub-questions of one comprehension: the key splits the entry per part.
+                parts = k.get("parts") or {}
+                if part and isinstance(parts.get(part), int):
+                    accepted = [parts[part]]
+                else:
+                    status, reason = "flagged", "several sub-questions share one printed number; key mapping ambiguous"
+            o = overrides.get(n) or {}
+            if o:
+                # A corrected answer for a question whose published key is wrong.
+                if o.get("parts") and part and isinstance(o["parts"].get(part), int):
+                    accepted = [o["parts"][part]]
+                    checks["key_override"] = {"reason": o.get("reason", "")}
+                elif o.get("options"):
+                    accepted = sorted(set(o["options"]))
+                    checks["key_override"] = {"reason": o.get("reason", ""),
+                                              "published_key": k.get("options") or []}
+            if n in drops:
+                status, reason = "dropped", drops[n]
+            elif status != "flagged":
+                if k.get("grace"):
+                    status, reason = "dropped", "grace mark in key"
+                elif not accepted:
+                    status, reason = "flagged", "no key entry"
+                elif ILLEGIBLE.search(q.get("stem", "") + " ".join(q.get("options") or [])):
+                    status, reason = "flagged", "text not fully legible in source"
+                else:
+                    # Live only if an independent blind solver's answer is one of the key's accepted options.
+                    # Computed from the solver files themselves, not from the verifier's verdict label.
+                    haiku_c = s.get("choice")
+                    sonnet_c = (sonnet.get(n) or {}).get("choice")
+                    cx_c = (cx or {}).get("solve")
+                    res = resolve_answer(resolve, n, part, qid)
+                    res_c = res.get("choice") if res else None
+                    text_fixed = bool(v and v.get("verdict") == "transcription_fixed")
                     agree_sources = []
-                checks["solver_agrees"] = agree_sources
-                if not agree_sources:
-                    status, reason = "flagged", "blind solver and key disagree"
+                    if haiku_c in accepted and not text_fixed:
+                        agree_sources.append("haiku")
+                    if sonnet_c in accepted:
+                        agree_sources.append("sonnet")
+                    if cx_c in accepted:
+                        agree_sources.append("proofread")
+                    if res_c in accepted:
+                        agree_sources.append("resolve")
+                    if cx and cx.get("key_agrees") is False:
+                        agree_sources = []
+                    checks["solver_agrees"] = agree_sources
+                    if res:
+                        checks["resolve"] = {"choice": res_c, "confidence": res.get("confidence", ""),
+                                             "note": (res.get("note") or "")[:500]}
+                    if not agree_sources:
+                        status, reason = "flagged", "blind solver and key disagree"
             opts = q.get("options") or []
             if status != "dropped" and (len(opts) != 4 or any(not str(o).strip() for o in opts) or any(a not in range(4) for a in accepted)):
                 status, reason = "flagged", "mechanical: options/answer"
@@ -152,12 +202,14 @@ def main():
 
     # Final gate for the examon import: live only when a blind solver agreed with examon's own key.
     # Questions whose key was wrong and got corrected (formula / external source) are hidden under the strict rule.
+    # An authoritative outside source (official paper, NCERT) may confirm a key on its own.
     for ep in sorted(glob.glob(os.path.join(ROOT, "corpus/questions/*/bank-kcet.json"))):
         recs = json.load(open(ep))
         changed = False
         for rec in recs:
             solver = str(rec.get("checks", {}).get("solver") or "")
-            if rec.get("status") == "verified" and not solver.startswith("minimax"):
+            confirmed = bool(rec.get("checks", {}).get("external_confirms_key"))
+            if rec.get("status") == "verified" and not solver.startswith("minimax") and not confirmed:
                 rec["status"] = "flagged"
                 rec["checks"]["status_reason"] = f"strict rule: solver and original key did not agree ({solver}); corrected answer kept for review"
                 review.append((rec["id"], "flagged", "examon key was wrong; corrected answer available", rec["source"], {}, {"note": rec["checks"].get("adjudication_reason", "")}))

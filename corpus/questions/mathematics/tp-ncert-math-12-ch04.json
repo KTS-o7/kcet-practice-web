@@ -58,20 +58,34 @@
    "$a^3+b^3+c^3-3abc$",
    "None of these"
   ],
-  "answer": 2,
+  "answer": 3,
   "accepted": [
-   2
+   3
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "checks": {
    "key_official": false,
    "blind_haiku": 3,
    "verify": "disputed",
    "notes": "Key (read as C, confirmed on image) gives a^3+b^3+c^3-3abc, but the determinant as printed is 0 (e.g. a=1,b=c=0: rows 2 and 3 equal, det 0, while C=1; a=0,b=c=1: det 0, B=3); so none of these (D).",
-   "solver_agrees": [],
-   "status_reason": "blind solver and key disagree"
+   "key_override": {
+    "reason": "Paper page p-16 image confirms the matrix |a-b b+c a; b-a c+a b; c-a a+b c| and options (A) a^3+b^3+c^3 (B) 3bc (C) a^3+b^3+c^3-3abc (D) none of these; the key cell on page 292 reads '25. C'. But the determinant actually equals -(a-b)(b-c)(a+b+c), which matches none of A, B or C (e.g. a=1,b=0,c=0 gives 0 while C gives 1; a=1,b=2,c=3 gives -6 while C gives 30), so 'none of these' (D) is correct. This identical determinant appeared in KCET 2018 where 'none of these' is the official answer.",
+    "published_key": [
+     2
+    ]
+   },
+   "solver_agrees": [
+    "haiku",
+    "sonnet",
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 3,
+    "confidence": "high",
+    "note": "blind resolve confirmed the corrected answer"
+   }
   }
  },
  {
