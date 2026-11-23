@@ -22,6 +22,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from bank_chapters import map_chapter  # noqa: E402
 from latex_fix import fix_question  # noqa: E402
 from bank_computed_rules import expected_for, match_option  # noqa: E402
+from resolve_lib import decide, load_results  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW = os.path.join(ROOT, "sources/manual/bank/raw")
@@ -588,12 +589,14 @@ def apply_external():
                 rec["accepted"] = [rec["answer"]]
                 rec["status"] = "verified"
                 rec["checks"]["solver"] = "external source confirmed the published key"
+                rec["checks"]["external_confirms_key"] = True
                 rec["checks"].pop("flag_reason", None)
                 rec["checks"].pop("disagreement", None)
                 confirmed += 1
             elif e.get("examon_key_was_wrong") is True:
                 # Outside source contradicts the published key: keep it flagged.
                 rec["status"] = "flagged"
+                rec["checks"]["external_contradicts_key"] = True
                 rec["checks"]["flag_reason"] = "external source contradicts the published key"
                 dis = rec["checks"].get("disagreement", {})
                 dis["external_check"] = {"source": e["source"], "url": e.get("url", ""), "note": e["note"]}
@@ -613,12 +616,116 @@ def apply_external():
                  "KEA and NCERT sources wherever a disagreement could be settled from outside.")
 
 
+def apply_resolution():
+    """Third pass: apply a fresh blind solve to every still-flagged question.
+
+    The resolve agents saw only the stem, the options and the diagram — no key, no
+    solution, no adjudication. The answer a question is published with is the one the
+    blind resolve agrees with:
+
+      - the adjudicated (corrected) answer, when the adjudication concluded the published
+        key was wrong and the blind resolve reaches the same answer;
+      - the published key, when the blind resolve agrees with it and nothing refutes it.
+
+    An authoritative outside source (an official paper, NCERT) outranks a solver, so a
+    question whose key an outside source confirms stays live on that key. A question
+    whose four options carry no correct answer at all is dropped: it cannot be answered
+    as printed and the original wording is not recoverable from the source.
+    """
+    results = load_results(sorted(glob.glob(os.path.join(SCRATCH, "resolve-results", "*.json"))))
+    if not results:
+        raise SystemExit("no resolve results found")
+    adjudications = load_results(sorted(glob.glob(os.path.join(SCRATCH, "resolve-adjudications", "*.json"))))
+
+    # The published key of a record can have been overwritten by an earlier pass, so the
+    # key Examon shipped is read back from the raw source file.
+    raw_by_id = {}
+    for fname in QUESTION_FILES:
+        path = os.path.join(RAW, fname)
+        for q in json.load(open(path)):
+            if isinstance(q, dict) and q.get("id"):
+                raw_by_id["examon-" + q["id"]] = q.get("answerIndex")
+
+    external = {}
+    ext_path = os.path.join(ROOT, "sources/manual/bank/external-checks.json")
+    if os.path.exists(ext_path):
+        for e in json.load(open(ext_path)).get("entries", []):
+            external[e["id"]] = e
+
+    now = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    changed = kept = corrected = dropped = still = 0
+    for subject in ("physics", "chemistry", "mathematics"):
+        cpath = os.path.join(CORPUS, "questions", subject, "bank-kcet.json")
+        recs = json.load(open(cpath))
+        for rec in recs:
+            # A record that a blind solve already confirmed is settled; one that was
+            # published on a formula or an outside source still needs a blind solve.
+            if rec["status"] == "verified" and str(rec.get("checks", {}).get("solver") or "").startswith("minimax"):
+                continue
+            v = results.get(rec["id"])
+            if not v:
+                continue
+            changed += 1
+            ck = rec["checks"]
+            examon_key = raw_by_id.get(rec["id"], rec["answer"])
+            ck["published_key"] = rec["answer"]
+            ck["examon_key"] = examon_key
+            ck["resolve"] = {"correct_index": v.get("correct_index"), "confidence": v.get("confidence", ""),
+                             "note": (v.get("note") or "")[:2000], "working": (v.get("working") or "")[:2000],
+                             "resolved_at": now}
+            action, index, reason = decide(rec, v, adjudications.get(rec["id"]),
+                                          external.get(rec["id"]), examon_key=examon_key)
+
+            if action == "publish_corrected":
+                ck["examon_key_was_wrong"] = True
+                rec["answer"] = index
+                rec["accepted"] = [index]
+                rec["status"] = "verified"
+                ck["solver"] = "minimax-m3.1-flash (blind resolve confirmed the corrected answer)"
+                ck.pop("flag_reason", None)
+                ck.pop("disagreement", None)
+                ck.pop("status_reason", None)
+                corrected += 1
+            elif action == "publish_key":
+                rec["answer"] = index
+                rec["accepted"] = [index]
+                rec["status"] = "verified"
+                ck["solver"] = "minimax-m3.1-flash (blind resolve confirmed the published key)"
+                ck.pop("flag_reason", None)
+                ck.pop("disagreement", None)
+                ck.pop("status_reason", None)
+                kept += 1
+            elif action == "drop":
+                rec["status"] = "dropped"
+                ck["status_reason"] = reason
+                ck.pop("flag_reason", None)
+                dropped += 1
+            else:
+                rec["status"] = "flagged"
+                ck["flag_reason"] = reason
+                still += 1
+        with open(cpath, "w") as fh:
+            json.dump(recs, fh, indent=1, ensure_ascii=False)
+            fh.write("\n")
+    print(f"resolve pass: {changed} results applied — {kept} confirmed the published key, "
+          f"{corrected} confirmed the corrected answer, {dropped} dropped as broken, {still} still flagged")
+    all_recs = []
+    for subject in ("physics", "chemistry", "mathematics"):
+        all_recs += json.load(open(os.path.join(CORPUS, "questions", subject, "bank-kcet.json")))
+    write_review(all_recs, now, len(all_recs),
+                 "Two blind solve passes, an external-evidence pass against official KEA and "
+                 "NCERT sources, and a third blind resolve pass for every question that was "
+                 "still flagged.")
+    return changed
+
+
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--apply", action="store_true")
     ap.add_argument("--apply-adjudication", action="store_true")
     ap.add_argument("--apply-external", action="store_true")
     ap.add_argument("--apply-second", action="store_true")
+    ap.add_argument("--apply-resolution", action="store_true")
     args = ap.parse_args()
     if args.apply:
         apply_verification()
@@ -628,5 +735,7 @@ if __name__ == "__main__":
         apply_second_solve()
     elif args.apply_external:
         apply_external()
+    elif args.apply_resolution:
+        apply_resolution()
     else:
         build()

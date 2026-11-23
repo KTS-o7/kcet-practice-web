@@ -1434,7 +1434,7 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Ohm's Law",
   "difficulty": "easy",
@@ -1460,7 +1460,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 0,
@@ -1480,7 +1479,17 @@
    "adjudication_verdict": "both_wrong",
    "adjudication_reason": "R = 12/3 = 4 ohm, so P = 8^2/4 = 16 W. No option equals 16 W (16/3 would need R = 12 ohm).",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": 0,
+    "confidence": "low",
+    "note": "As printed R = 4 ohm gives P = 16 W, which is not offered (printed stem is inconsistent). 16/3 W is the only listed value consistent with the 12 V data, i.e. R = 12 ohm (12 V, 1 A), which is the intended version of this item.",
+    "working": "Printed stem: R = 12/3 = 4 ohm; at 8 V, P = V^2/R = 64/4 = 16 W (not listed). Intended version: R = 12 ohm (12 V, 1 A) so at 8 V, I = 8/12 = 2/3 A and P = 8 x 2/3 = 64/12 = 16/3 W.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "From the 12 V / 3 A data the resistor is R = 12/3 = 4 ohm, so at 8 V the power is P = V^2/R = 64/4 = 16 W, which is not among {16/3, 12, 18, 24}. The keyed 16/3 W would require R = 12 ohm (i.e. a 12 V, 1 A source), and Examon's explanation substitutes the old current 3 A into P = I^2 R to reach 36 W, ignoring the 8 V condition. Correct value: 16 W; no option carries it."
   }
  },
  {
@@ -2972,14 +2981,14 @@
    "$\\mu=\\tan\\theta$",
    "$\\mu=\\cos\\theta$"
   ],
-  "answer": 2,
+  "answer": 0,
   "accepted": [
-   2
+   0
   ],
   "images": [
    "examon-kcet-phy-pyq25-001.svg"
   ],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Friction — Angle of Repose",
   "difficulty": "medium",
@@ -2989,7 +2998,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": false,
    "examon_audit_confidence": 0.86,
    "examon_audit_model": "gpt-5.4",
@@ -3002,29 +3011,8 @@
    "examon_repair_note": "Added the missing intended geometry context and corrected the key from $\\cot\\theta$ to $\\tan\\theta$.",
    "solver_confidence": "high",
    "solver_correct_index": 0,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "external source contradicts the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 2,
-    "examon_answer_text": "$\\mu=\\tan\\theta$",
-    "solver_answer": 0,
-    "solver_answer_text": "$\\mu=\\cot\\theta$",
-    "solver_correct_text": "",
-    "note": "KCET 2025 Q1: knot gives T sin(theta) = Mg and T cos(theta) = mu Mg, hence mu = cot(theta).",
-    "solver_2_answer": 0,
-    "solver_2_answer_text": "$\\mu=\\cot\\theta$",
-    "solver_2_correct_text": "",
-    "solver_2_note": "Ring at O with three strings: T_A = Mg cot(theta), f = T_A, N = Mg, so mu = cot(theta); stem wording conflicts with figure.",
-    "external_check": {
-     "source": "Official KCET 2025 Physics (Code D4) question paper with answer key",
-     "url": "https://media.getmyuni.com/assets/downloadables/c512d3a8-55f3-4845-8e80-7263a1980bde.pdf",
-     "note": "Official key: Q1 -> option 1 (mu = cot theta). String at O makes angle theta with the vertical: T2 sin(theta) = Mg, T1 = T2 cos(theta), f = mu Mg -> mu = cot(theta). Examon's key (tan theta) is wrong; the official KEA answer is option A."
-    },
-    "external_correct_index": 0,
-    "external_correct_text": "$\\mu=\\cot\\theta$"
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "medium",
    "solver_2_correct_index": 0,
@@ -3037,7 +3025,18 @@
     "url": "https://media.getmyuni.com/assets/downloadables/c512d3a8-55f3-4845-8e80-7263a1980bde.pdf",
     "note": "Official key: Q1 -> option 1 (mu = cot theta). String at O makes angle theta with the vertical: T2 sin(theta) = Mg, T1 = T2 cos(theta), f = mu Mg -> mu = cot(theta). Examon's key (tan theta) is wrong; the official KEA answer is option A.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "external_contradicts_key": true,
+   "published_key": 2,
+   "examon_key": 2,
+   "resolve": {
+    "correct_index": 2,
+    "confidence": "low",
+    "note": "Question as printed is internally inconsistent: the figure shows A's string horizontal with theta on the inclined support string, while the stem says A's segment makes theta with the horizontal. Taking the intended 'angle of repose' reading (the angle at which the block is at limiting equilibrium equals the angle of friction), mu = tan(theta). If the stem is taken literally (string at A tilted theta above horizontal, hanging block of equal mass), the result is mu = cos(theta)/(1 - sin(theta)), which is not offered.",
+    "working": "B hangs free in equilibrium -> T = Mg. A is held by string tension T at angle theta to the horizontal: f = T cos(theta), N = Mg - T sin(theta). Strictly mu_min = f/N = cos(theta)/(1 - sin(theta)) = tan(45 deg + theta/2), which is absent from the options; the option set {cot, sin, tan, cos} together with the topic tag 'angle of repose' points to the standard relation mu = tan(phi) with phi = theta (angle of friction = angle of repose) -> index 2. (Ring-at-O reading of the figure with the inclined member at theta to the horizontal would give T_A = T_B cot(theta) and mu = cot(theta) - the two candidate readings differ, hence low confidence.)",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -5848,7 +5847,7 @@
    3
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Spring Force",
   "difficulty": "medium",
@@ -5874,7 +5873,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 3,
@@ -5894,7 +5892,17 @@
    "adjudication_verdict": "both_wrong",
    "adjudication_reason": "Series springs carry the same 12 N, so the 200 N/m spring stretches 12/200 = 0.06 m; 0.10 m is the total extension.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 3,
+   "examon_key": 3,
+   "resolve": {
+    "correct_index": 2,
+    "confidence": "low",
+    "note": "BROKEN AS PRINTED: the 200 N/m spring stretches 12/200 = 0.06 m, which is not offered; the option set (0.02 parallel-k slip, 0.04 other spring, 0.10 total extension) matches an option list of 0.02/0.04/0.06/0.10 in which 0.06 has been mis-printed as 0.05 in this slot.",
+    "working": "Series combination: 1/k = 1/200 + 1/300 = 5/600 => k = 120 N/m, so the total extension = 12/120 = 0.10 m. The same force 12 N acts in each spring: extension of the 200 N/m spring = 12/200 = 0.06 m and of the 300 N/m spring = 12/300 = 0.04 m. Printed answer should be 0.06 m; the remaining options are the classic slips 12/500 = 0.02 (parallel k) and 0.10 (total), so the true value 0.06 was apparently corrupted to 0.05 in the third slot.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "no option carries the correct value; the question is broken as printed"
   }
  },
  {
@@ -6724,12 +6732,12 @@
    "$4\\,\\text{m/s}$",
    "$5\\,\\text{m/s}$"
   ],
-  "answer": 2,
+  "answer": 0,
   "accepted": [
-   2
+   0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Spring PE",
   "difficulty": "medium",
@@ -6739,7 +6747,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -6752,27 +6760,23 @@
    "solver_correct_index": 0,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 2,
-    "examon_answer_text": "$4\\,\\text{m/s}$",
-    "solver_answer": 0,
-    "solver_answer_text": "$2\\,\\text{m/s}$",
-    "solver_correct_text": "",
-    "note": "v = x sqrt(k/m) = 0.05*sqrt(320/0.2) = 2 m/s.",
-    "solver_2_answer": 0,
-    "solver_2_answer_text": "$2\\,\\text{m/s}$",
-    "solver_2_correct_text": "",
-    "solver_2_note": "Half k x^2 = Half m v^2 gives v = x sqrt(k/m) = 0.05 x 40 = 2 m/s."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 0,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "v = x sqrt(k/m) = 0.05 sqrt(320/0.2) = 0.05 x 40 = 2 m/s; Examon wrongly substituted x = 0.10 m.",
    "adjudication_correct_index": 0,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 2,
+   "examon_key": 2,
+   "resolve": {
+    "correct_index": 0,
+    "confidence": "high",
+    "note": "Conservation of energy: the spring's elastic PE becomes the ball's KE on a smooth surface.",
+    "working": "x = 5 cm = 0.05 m, k = 320 N/m, m = 0.2 kg. (1/2)kx^2 = (1/2)mv^2 => v = x sqrt(k/m) = 0.05·sqrt(320/0.2) = 0.05·sqrt(1600) = 0.05·40 = 2 m/s. Check: (1/2)(320)(0.0025) = 0.4 J = (1/2)(0.2)v^2 => v^2 = 4 => v = 2 m/s.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -7554,7 +7558,7 @@
    1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Moment of Inertia of Disc",
   "difficulty": "medium",
@@ -7577,7 +7581,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 1,
@@ -7597,7 +7600,17 @@
    "adjudication_verdict": "both_wrong",
    "adjudication_reason": "Hole mass M/4 at d = R/2: I = (1/2)MR^2 - (MR^2/32 + MR^2/16) = 13/32 MR^2. Not offered.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": 1,
+    "confidence": "low",
+    "note": "BROKEN AS PRINTED: the printed configuration (hole centred midway, axis through the original centre) gives 13/32 MR^2, which is not offered; option B is the intended key, obtained when the hole's parallel-axis shift is omitted (equivalently an axis through the hole's centre).",
+    "working": "Hole radius R/2 => hole mass m = M·(1/4) = M/4, its centre at d = R/2 from the disc centre. I_disc = (1/2)MR^2. I_removed about the original centre's axis = (1/2)m(R/2)^2 + m d^2 = (1/2)(M/4)(R^2/4) + (M/4)(R^2/4) = MR^2/32 + MR^2/16 = 3MR^2/32. So I_remaining = (1/2)MR^2 - 3MR^2/32 = 13MR^2/32 (not listed). Dropping the shift term (or taking the axis through the hole's centre) gives (1/2)MR^2 - MR^2/32 = 15MR^2/32, option B.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "no option carries the correct value; the question is broken as printed"
   }
  },
  {
@@ -7727,12 +7740,12 @@
    "$1 \\times 10^{-4}\\,\\text{N/m}$, attractive",
    "$2.5 \\times 10^{-5}\\,\\text{N/m}$, attractive"
   ],
-  "answer": 3,
+  "answer": 0,
   "accepted": [
-   3
+   0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Force between Parallel Wires",
   "difficulty": "medium",
@@ -7742,7 +7755,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -7755,27 +7768,23 @@
    "solver_correct_index": 0,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 3,
-    "examon_answer_text": "$2.5 \\times 10^{-5}\\,\\text{N/m}$, attractive",
-    "solver_answer": 0,
-    "solver_answer_text": "$5 \\times 10^{-5}\\,\\text{N/m}$, attractive",
-    "solver_correct_text": "",
-    "note": "F/L = mu0 I1 I2/(2 pi d) = 4pi e-7 x 50/(2 pi x 0.2) = 5e-5 N/m; same-direction currents attract.",
-    "solver_2_answer": 0,
-    "solver_2_answer_text": "$5 \\times 10^{-5}\\,\\text{N/m}$, attractive",
-    "solver_2_correct_text": "",
-    "solver_2_note": "F/L = mu0 I1 I2/(2 pi d) = 4pi x 10^-7 x 50/(2pi x 0.2) = 5 x 10^-5 N/m; same direction, attractive."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 0,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "F/L = mu0 I1 I2/(2 pi d) = 4pi x 10^-7 x 50/(0.4 pi) = 5 x 10^-5 N/m; same-direction currents attract.",
    "adjudication_correct_index": 0,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 3,
+   "examon_key": 3,
+   "resolve": {
+    "correct_index": 0,
+    "confidence": "high",
+    "note": "Force per unit length between parallel wires = mu0 I1 I2 / (2 pi d); currents in the same direction attract.",
+    "working": "d = 20 cm = 0.2 m, I1 = 5 A, I2 = 10 A, mu0 = 4 pi x 10^-7 N/A^2. F/L = (4 pi x 10^-7)(5)(10)/(2 pi x 0.2) = (2 pi x 10^-5)/(0.4 pi) = 5 x 10^-5 N/m. Same direction => attractive.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -8099,12 +8108,12 @@
    "$0.24\\,\\text{N}$",
    "$1.20\\,\\text{N}$"
   ],
-  "answer": 0,
+  "answer": 1,
   "accepted": [
-   0
+   1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Force on Current-carrying Wire",
   "difficulty": "medium",
@@ -8114,7 +8123,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -8127,27 +8136,23 @@
    "solver_correct_index": 1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 0,
-    "examon_answer_text": "$0.12\\,\\text{N}$",
-    "solver_answer": 1,
-    "solver_answer_text": "$0.60\\,\\text{N}$",
-    "solver_correct_text": "",
-    "note": "F = BIL sin30 = 0.6x0.4x5x0.5 = 0.6 N.",
-    "solver_2_answer": 1,
-    "solver_2_answer_text": "$0.60\\,\\text{N}$",
-    "solver_2_correct_text": "",
-    "solver_2_note": "F = BIL sin30 = 0.6 x 5 x 0.4 x 0.5 = 0.6 N."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 1,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "F = BIL sin(theta) = 0.6 x 5 x 0.4 x 0.5 = 0.6 N. Examon's own working also yields 0.6 N.",
    "adjudication_correct_index": 1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": 1,
+    "confidence": "high",
+    "note": "Standard magnetic force on a current-carrying wire, F = BIL sin(theta), with the sine factor included.",
+    "working": "F = BIL sin(theta) = (0.6 T)(5 A)(0.40 m) sin 30 deg = 3 x 0.40 x 0.5 = 0.60 N.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -8422,14 +8427,14 @@
    "radially outward",
    "zero"
   ],
-  "answer": 0,
+  "answer": 1,
   "accepted": [
-   0
+   1
   ],
   "images": [
    "examon-kcet-phy-batch03-016.svg"
   ],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Solenoid Cross-section — Field Direction",
   "difficulty": "medium",
@@ -8439,7 +8444,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.88,
    "examon_audit_model": "gpt-5.4",
@@ -8452,27 +8457,23 @@
    "solver_correct_index": 1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 0,
-    "examon_answer_text": "along the axis, pointing right",
-    "solver_answer": 1,
-    "solver_answer_text": "along the axis, pointing left",
-    "solver_correct_text": "",
-    "note": "Top current into page, bottom out of page: circulation is clockwise seen from right end, so internal field points left.",
-    "solver_2_answer": 1,
-    "solver_2_answer_text": "along the axis, pointing left",
-    "solver_2_correct_text": "",
-    "solver_2_note": "Top into page, bottom out of page: both wire fields at axis point left, so B is along axis to the left."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 1,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Top row into page, bottom row out of page: both wires' fields on the axis point left, so internal B points left. Drawn arrow is wrong.",
    "adjudication_correct_index": 1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": 1,
+    "confidence": "high",
+    "note": "Both rows of turns drive the internal field the same way (to the left), so the field inside is axial, not radial and not zero.",
+    "working": "Top wire: current into page (dl = -z); the axis lies below it (r = -y); B direction = dl x r = (-z) x (-y) = z x y = -x (left). Bottom wire: current out of page (dl = +z); axis lies above it (r = +y); B = z x y = -x (left). Fields add: total field inside is along the axis, pointing LEFT.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -12156,7 +12157,7 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "First law",
   "difficulty": "medium",
@@ -12179,7 +12180,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 0,
@@ -12199,7 +12199,17 @@
    "adjudication_verdict": "both_wrong",
    "adjudication_reason": "dU = 200 - 80 = 120 J; in process II W = Q - dU = 120 - 120 = 0 J, which is not among the options.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": 0,
+    "confidence": "low",
+    "note": "As printed the stem forces W(II) = 0 J, which is not offered (printed stem is internally inconsistent). 40 J is the value for the standard version of this item (process II absorbs 120 J and does 40 J of work) and is the only listed option consistent with that intended version.",
+    "working": "Delta U (state function) = Q - W = 200 - 80 = 120 J. As printed: Q(II) = 120 J and Delta U = 120 J give W(II) = 120 - 120 = 0 J (not among the options). For the intended version (process II also does 40 J of work, NCERT-exemplar numbers 200/80 and 120/40): Delta U(II) = 120 - 40 = 80 J. The listed option 40 J is the work done in process II.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "First law with the printed data: dU = Q - W = 200 - 80 = 120 J for process I, and since dU is a state function it is 120 J in process II too, so W(II) = Q(II) - dU = 120 - 120 = 0 J. Zero is not offered, so the stem as printed has no matching option; the keyed 40 J only comes from a different version of the item (process II doing 40 J of work), and Examon's own solution reaches 120 J and then picks the option by fiat. Correct value: 0 J."
   }
  },
  {
@@ -13036,14 +13046,14 @@
    "$260\\,\\text{Hz}$",
    "$254\\,\\text{Hz}$"
   ],
-  "answer": 2,
+  "answer": 0,
   "accepted": [
-   2
+   0
   ],
   "images": [
    "examon-kcet-phy-batch05-026.svg"
   ],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Beats",
   "difficulty": "easy",
@@ -13053,7 +13063,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": false,
    "examon_audit_confidence": 0.63,
    "examon_audit_model": "gpt-5.4",
@@ -13068,27 +13078,23 @@
    "solver_correct_index": 0,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 2,
-    "examon_answer_text": "$260\\,\\text{Hz}$",
-    "solver_answer": 0,
-    "solver_answer_text": "$252\\,\\text{Hz}$",
-    "solver_correct_text": "",
-    "note": "Wax lowers 256 Hz fork; other fork 252 gives beat 4 then 2 (254 vs 252).",
-    "solver_2_answer": 0,
-    "solver_2_answer_text": "$252\\,\\text{Hz}$",
-    "solver_2_correct_text": "",
-    "solver_2_note": "Other fork = 252 Hz; wax lowers 256 Hz to 254 Hz, leaving 2 beats (260 Hz case impossible)."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 0,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Wax lowers the 256 Hz fork; beats 4 -> 2 needs the other fork below 256, so 252 Hz. A 260 Hz fork would give more beats.",
    "adjudication_correct_index": 0,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 2,
+   "examon_key": 2,
+   "resolve": {
+    "correct_index": 0,
+    "confidence": "high",
+    "note": "Wax loading can only lower the 256 Hz fork, so the other fork must be the lower one (252 Hz); 260 Hz is impossible.",
+    "working": "|f1 - f2| = 4 with f1 = 256 Hz gives f2 = 252 Hz or 260 Hz. After wax loading f1' < 256 Hz and |f1' - f2| = 2. If f2 = 260 Hz then f1' = 258 Hz > 256 Hz, impossible (wax lowers frequency). Hence f2 = 252 Hz (f1' = 250 or 254 Hz, both < 256 Hz).",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -14043,7 +14049,7 @@
    3
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Banking with friction",
   "difficulty": "hard",
@@ -14066,7 +14072,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 3,
@@ -14086,7 +14091,17 @@
    "adjudication_verdict": "both_wrong",
    "adjudication_reason": "v_max^2=rg(tan+mu)/(1-mu tan)=900*sqrt3, so v=30*3^(1/4). Key's 30sqrt3 mis-equals v^2's root; no option fits.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 3,
+   "examon_key": 3,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "Correct banked-road maximum speed is √(Rg√3) ≈ 39.5 m/s, which none of the four options equals; option 4 (30√3 ≈ 52 m/s) looks like a mangled form of 30·3^(1/4).",
+    "working": "tanθ = 1/√3 ⇒ θ = 30° (sinθ = 1/2, cosθ = √3/2), μ = 1/√3. At max speed friction acts down the bank: N sinθ + μN cosθ = mv²/R and N cosθ − μN sinθ = mg. So N(0.5 + 0.5774·0.8660) = N(1.0) = mv²/R and N(0.8660 − 0.5774·0.5) = N(0.5774) = mg ⇒ N = 1.732 mg. Hence v² = 1.732·R·g = 1.732·90·10 = 1558.8 ⇒ v = 39.48 m/s (equivalently v_max = √[Rg(μ+tanθ)/(1−μtanθ)] = √[900×√3]).",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "no option carries the correct value; the question is broken as printed"
   }
  },
  {
@@ -14110,12 +14125,12 @@
    "$2\\pi\\sqrt{\\dfrac{1}{5}}\\ \\text{s}$",
    "$\\pi\\sqrt{2}\\ \\text{s}$"
   ],
-  "answer": 1,
+  "answer": 0,
   "accepted": [
-   1
+   0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Conical pendulum",
   "difficulty": "medium",
@@ -14125,7 +14140,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -14138,27 +14153,23 @@
    "solver_correct_index": 0,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 1,
-    "examon_answer_text": "$2\\pi\\sqrt{\\dfrac{1}{10}}\\ \\text{s}$",
-    "solver_answer": 0,
-    "solver_answer_text": "$2\\pi\\sqrt{\\dfrac{1}{20}}\\ \\text{s}$",
-    "solver_correct_text": "",
-    "note": "Conical pendulum T = 2π√(L cosθ/g) = 2π√(1×0.5/10) = 2π√(1/20) s.",
-    "solver_2_answer": 0,
-    "solver_2_answer_text": "$2\\pi\\sqrt{\\dfrac{1}{20}}\\ \\text{s}$",
-    "solver_2_correct_text": "",
-    "solver_2_note": "Conical pendulum T = 2*pi*sqrt(L cos(theta)/g) = 2*pi*sqrt(0.5/10) = 2*pi*sqrt(1/20) s."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 0,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "T=2pi*sqrt(L cos60/g)=2pi*sqrt(0.5/10)=2pi*sqrt(1/20) (A). Examon key contradicts its own working solution.",
    "adjudication_correct_index": 0,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": 0,
+    "confidence": "high",
+    "note": "Conical pendulum period is T = 2π√(L cosθ/g); with L = 1 m, θ = 60°, g = 10 this is 2π√(1/20) s.",
+    "working": "T = 2π√(L cosθ/g) = 2π√(1 × 0.5 / 10) = 2π√(1/20) s ≈ 1.41 s.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -14439,7 +14450,7 @@
   "images": [
    "examon-kcet-phy-wave2-01-012.svg"
   ],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Variable force F(x) — graph reading",
   "difficulty": "medium",
@@ -14461,7 +14472,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 2,
@@ -14481,7 +14491,17 @@
    "adjudication_verdict": "both_wrong",
    "adjudication_reason": "Area = 0.5(10+20)(2) + 20(2) + 0.5(20+10)(2) = 30+40+30 = 100 J from the plotted graph; no option equals 100.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 2,
+   "examon_key": 2,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "The printed graph (10 N → 20 N → 20 N → 10 N) encloses 100 J, which no option matches; 90 J would require the force to fall to 0 N at x = 6 m, but the diagram clearly ends well above the axis at the same height as it starts.",
+    "working": "Work = area under F–x curve = ½(10+20)(2) + 20×2 + ½(20+10)(2) = 30 + 40 + 30 = 100 J. Options 60/80/90/120 J exclude this.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "no option carries the correct value; the question is broken as printed"
   }
  },
  {
@@ -15065,14 +15085,14 @@
    "$5$",
    "$12.5$"
   ],
-  "answer": 1,
+  "answer": 0,
   "accepted": [
-   1
+   0
   ],
   "images": [
    "examon-kcet-phy-wave2-01-024.svg"
   ],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Angular velocity — θ-t graph reading",
   "difficulty": "medium",
@@ -15082,7 +15102,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.88,
    "examon_audit_model": "gpt-5.4",
@@ -15094,26 +15114,23 @@
    "solver_correct_index": 1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "agree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "low_confidence_agreement",
-    "examon_answer": 1,
-    "examon_answer_text": "$2.5$",
-    "solver_answer": 1,
-    "solver_answer_text": "$2.5$",
-    "note": "α = 0 for 0–2 s, 2.5 rad/s² for 2–4 s; mean over 0–4 s is 1.25 (not offered); B only nonzero α shown.",
-    "solver_2_answer": 0,
-    "solver_2_answer_text": "$0$",
-    "solver_2_correct_text": "",
-    "solver_2_note": "Theta-t graph piecewise linear, so omega constant (10 then 12.5 rad/s): alpha = 0 in both segments."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "medium",
    "solver_2_correct_index": 0,
    "adjudication_verdict": "both_wrong",
    "adjudication_reason": "omega is 10 then 12.5 rad/s, so alpha=2.5/2=1.25 rad/s^2 (mean 0.625); option 2.5 is only delta-omega in rad/s.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": 0,
+    "confidence": "medium",
+    "note": "The θ–t curve is straight (piecewise linear) up to t = 4 s, so ω is constant on each segment and α = 0; the average α over 0–4 s would be 0.625 rad/s², which is not offered, so 0 is the only option consistent with the printed graph.",
+    "working": "ω = Δθ/Δt: 10 rad/s (0–2 s), (45−20)/2 = 12.5 rad/s (2–4 s), 0 (4–6 s). Each straight segment has constant ω ⇒ α = dω/dt = 0 (only an impulsive change at t = 2 s); mean α over 0–4 s = (12.5−10)/4 = 0.625 rad/s², not among the options.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -16562,12 +16579,12 @@
    "$4 \\times 10^{-27}\\,\\text{kg}$",
    "$4 \\times 10^{-26}\\,\\text{kg}$"
   ],
-  "answer": 1,
+  "answer": 0,
   "accepted": [
-   1
+   0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Mass spectrometer",
   "difficulty": "hard",
@@ -16577,7 +16594,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": false,
    "examon_audit_confidence": 0.98,
    "examon_audit_model": "gpt-5.4",
@@ -16592,27 +16609,23 @@
    "solver_correct_index": 0,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 1,
-    "examon_answer_text": "$2 \\times 10^{-26}\\,\\text{kg}$",
-    "solver_answer": 0,
-    "solver_answer_text": "$2 \\times 10^{-27}\\,\\text{kg}$",
-    "solver_correct_text": "",
-    "note": "v = E/B0 = 2e6 m/s; m = qBr/v = 2e-27 kg.",
-    "solver_2_answer": 0,
-    "solver_2_answer_text": "$2 \\times 10^{-27}\\,\\text{kg}$",
-    "solver_2_correct_text": "",
-    "solver_2_note": "v = E/B0 = 2e6 m/s; m = qBr/v = (1.6e-19*0.5*0.05)/2e6 = 2e-27 kg."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 0,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "v=E/B0=2e6 m/s; m=qBr/v=(1.6e-19)(0.5)(0.05)/(2e6)=2e-27 kg (A). Examon key double-counted a factor 10.",
    "adjudication_correct_index": 0,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": 0,
+    "confidence": "high",
+    "note": "Velocity selector fixes v = E/B₀ = 2×10⁶ m/s; the ion then traces r = mv/(qB), giving m = 2×10⁻²⁷ kg.",
+    "working": "v = E/B₀ = 2×10⁵/0.1 = 2×10⁶ m/s; m = qBr/v = (1.6×10⁻¹ × 0.5 × 0.05)/(2×10⁶) = 4×10⁻²¹/2×10⁶ = 2×10⁻²⁷ kg.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -16939,12 +16952,12 @@
    "$0.20\\,\\text{A}$",
    "$0.50\\,\\text{A}$"
   ],
-  "answer": 0,
+  "answer": 1,
   "accepted": [
-   0
+   1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Transformer efficiency",
   "difficulty": "medium",
@@ -16954,7 +16967,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": false,
    "examon_audit_confidence": 0.98,
    "examon_audit_model": "gpt-5.4",
@@ -16969,27 +16982,23 @@
    "solver_correct_index": 1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 0,
-    "examon_answer_text": "$0.18\\,\\text{A}$",
-    "solver_answer": 1,
-    "solver_answer_text": "$0.22\\,\\text{A}$",
-    "solver_correct_text": "",
-    "note": "Vs = 11 V, output 44 W, input 48.9 W, Ip = 48.9/220 = 0.22 A.",
-    "solver_2_answer": 1,
-    "solver_2_answer_text": "$0.22\\,\\text{A}$",
-    "solver_2_correct_text": "",
-    "solver_2_note": "Vs = 11 V; Pout = 44 W; Pin = 44/0.9 = 48.9 W; Ip = 48.9/220 = 0.22 A."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 1,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Vs=11 V, Pout=44 W, Pin=48.9 W, Ip=48.9/220=0.222 A (B). Examon's own solution also gives 0.22 A.",
    "adjudication_correct_index": 1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": 1,
+    "confidence": "high",
+    "note": "Vs = Vp·(Ns/Np) = 11 V, Pout = 44 W, Pin = 44/0.9 = 48.9 W, so Ip = 48.9/220 = 0.22 A.",
+    "working": "Vs = 220 × (1/20) = 11 V; Pout = Vs·Is = 11 × 4 = 44 W; Pin = Pout/η = 44/0.9 = 48.89 W; Ip = Pin/Vp = 48.89/220 = 0.222 A ≈ 0.22 A.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -17364,14 +17373,14 @@
    "$15$ mm",
    "$0.5$ mm"
   ],
-  "answer": 1,
+  "answer": 0,
   "accepted": [
-   1
+   0
   ],
   "images": [
    "examon-kcet-phy-wave2-03-008.svg"
   ],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "YDSE Slab Shift",
   "difficulty": "medium",
@@ -17381,7 +17390,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": false,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -17396,27 +17405,23 @@
    "solver_correct_index": 0,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 1,
-    "examon_answer_text": "$5$ mm",
-    "solver_answer": 0,
-    "solver_answer_text": "$10$ mm",
-    "solver_correct_text": "",
-    "note": "Shift = (mu-1)tD/d = 0.5 x 10e-6 / 0.5e-3 = 0.01 m = 10 mm.",
-    "solver_2_answer": 0,
-    "solver_2_answer_text": "$10$ mm",
-    "solver_2_correct_text": "",
-    "solver_2_note": "Shift = (mu-1)tD/d = 0.5*10e-6*1/0.5e-3 = 0.01 m = 10 mm, toward slab side."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 0,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Shift=D(mu-1)t/d = 1*0.5*1e-5/(5e-4)=0.01 m=10 mm (A). Examon key contradicts its own computed 10 mm.",
    "adjudication_correct_index": 0,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": 0,
+    "confidence": "high",
+    "note": "Fringe displacement for a thin slab is (mu-1)tD/d, which gives exactly 10 mm; the shift is toward the slit carrying the slab, as drawn.",
+    "working": "shift = (mu - 1) t D / d = (1.5 - 1)(10e-6 m)(1 m) / (0.5e-3 m) = 5e-6 / 5e-4 = 1e-2 m = 10 mm (toward the slab side)",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -18359,7 +18364,7 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "E and B Field Ratio",
   "difficulty": "easy",
@@ -18369,7 +18374,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the published key)",
    "examon_verified": false,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -18384,27 +18389,22 @@
    "solver_correct_index": 1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 0,
-    "examon_answer_text": "$600\\,\\text{V m}^{-1}$",
-    "solver_answer": 1,
-    "solver_answer_text": "$6\\times10^2\\,\\text{V m}^{-1}$",
-    "solver_correct_text": "",
-    "note": "E0 = cB0 = 3e8 x 2e-6 = 6e2 V/m. Option A (600 V/m) is numerically identical duplicate.",
-    "solver_2_answer": 1,
-    "solver_2_answer_text": "$6\\times10^2\\,\\text{V m}^{-1}$",
-    "solver_2_correct_text": "",
-    "solver_2_note": "E = cB0 = 3e8*2e-6 = 600 V/m = 6e2 V/m; option A states the identical value."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "medium",
    "solver_2_correct_index": 1,
    "adjudication_verdict": "examon_right",
    "adjudication_reason": "E0=cB0=3e8*2e-6=600 V/m (A). Option B (6e2 V/m) is a numerically identical duplicate, so solver's index is also valid.",
    "adjudication_correct_index": 0,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": 1,
+    "confidence": "medium",
+    "note": "E0 = c*B0 = 600 V/m. The printed option 0 ('600 V/m') is numerically identical to option 1, so the item has a duplicate value; the scientific-notation form is the one consistent with the rest of the option family.",
+    "working": "In vacuum E0 = c B0 = (3e8 m/s)(2e-6 T) = 6e2 V/m",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   }
   }
  },
  {
@@ -18683,14 +18683,14 @@
    "$0.98$ m/s²",
    "$1.96$ m/s²"
   ],
-  "answer": 1,
+  "answer": 2,
   "accepted": [
-   1
+   2
   ],
   "images": [
    "examon-kcet-phy-wave3-01-003.svg"
   ],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Friction on rough incline (diagram)",
   "difficulty": "medium",
@@ -18700,7 +18700,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.98,
    "examon_audit_model": "gpt-5.4",
@@ -18713,27 +18713,23 @@
    "solver_correct_index": 2,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 1,
-    "examon_answer_text": "$0.49$ m/s²",
-    "solver_answer": 2,
-    "solver_answer_text": "$0.98$ m/s²",
-    "solver_correct_text": "",
-    "note": "tanθ=0.2 gives sinθ=0.1961, cosθ=0.9806; a=10(0.1961-0.1×0.9806)=0.98 m/s².",
-    "solver_2_answer": 2,
-    "solver_2_answer_text": "$0.98$ m/s²",
-    "solver_2_correct_text": "",
-    "solver_2_note": "a = g(sin(theta) - mu_k cos(theta)) = 10*(0.2-0.1)/sqrt(1.04) = 0.98 m/s2."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 2,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "sin=0.1961, cos=0.9806; a=g(sin-mu_k cos)=10(0.1961-0.0981)=0.98 m/s^2 (C). Examon key halved its own result.",
    "adjudication_correct_index": 2,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": 2,
+    "confidence": "high",
+    "note": "Once sliding, only kinetic friction acts: a = g(sin(theta) - mu_k cos(theta)) = 10*cos(theta)*(tan(theta) - mu_k).",
+    "working": "tan(theta) = 0.2 => cos(theta) = 1/sqrt(1.04) = 0.9806, sin(theta) = 0.1961. a = 10(0.1961 - 0.1*0.9806) = 10(0.0981) = 0.98 m/s^2",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -19567,12 +19563,12 @@
    "$12$ J",
    "$14$ J"
   ],
-  "answer": 3,
+  "answer": 2,
   "accepted": [
-   3
+   2
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Variable force — integration",
   "difficulty": "medium",
@@ -19582,7 +19578,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -19595,27 +19591,23 @@
    "solver_correct_index": 2,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 3,
-    "examon_answer_text": "$14$ J",
-    "solver_answer": 2,
-    "solver_answer_text": "$12$ J",
-    "solver_correct_text": "",
-    "note": "∫0^2(3x²+2x)dx = [x³+x²]0^2 = 8+4 = 12 J.",
-    "solver_2_answer": 2,
-    "solver_2_answer_text": "$12$ J",
-    "solver_2_correct_text": "",
-    "solver_2_note": "W = integral (3x^2+2x)dx = x^3 + x^2 evaluated at 2 = 8 + 4 = 12 J."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 2,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "W=int_0^2(3x^2+2x)dx=[x^3+x^2]=8+4=12 J (C). Examon key contradicts its own solution.",
    "adjudication_correct_index": 2,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 3,
+   "examon_key": 3,
+   "resolve": {
+    "correct_index": 2,
+    "confidence": "high",
+    "note": "Direct integration of the position-dependent force from x = 0 to x = 2 m.",
+    "working": "W = integral of (3x^2 + 2x) dx from 0 to 2 = [x^3 + x^2] from 0 to 2 = (8 + 4) - 0 = 12 J",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -21769,12 +21761,12 @@
    "$2\\times 10^{-6}\\,\\text{N/m}$ (attractive)",
    "$0$"
   ],
-  "answer": 2,
+  "answer": 0,
   "accepted": [
-   2
+   0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Force Between Parallel Currents",
   "difficulty": "medium",
@@ -21784,7 +21776,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -21797,27 +21789,23 @@
    "solver_correct_index": 0,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 2,
-    "examon_answer_text": "$2\\times 10^{-6}\\,\\text{N/m}$ (attractive)",
-    "solver_answer": 0,
-    "solver_answer_text": "$2\\times 10^{-4}\\,\\text{N/m}$ (attractive)",
-    "solver_correct_text": "",
-    "note": "F/L = mu0*I1*I2/(2*pi*d) = 2e-4 N/m; same-direction currents attract.",
-    "solver_2_answer": 0,
-    "solver_2_answer_text": "$2\\times 10^{-4}\\,\\text{N/m}$ (attractive)",
-    "solver_2_correct_text": "",
-    "solver_2_note": "F/L = mu0*I^2/(2*pi*d) = 2e-4 N/m; same-direction currents attract."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 0,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "F/L=mu0*I1*I2/(2*pi*d)=4pi*1e-7*100/(0.2*pi)=2e-4 N/m, attractive for same-direction currents (A).",
    "adjudication_correct_index": 0,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 2,
+   "examon_key": 2,
+   "resolve": {
+    "correct_index": 0,
+    "confidence": "high",
+    "note": "Parallel currents in the same direction attract each other.",
+    "working": "F/L = mu0 I1 I2 / (2 pi d) = (4pi e-7)(10)(10) / (2 pi * 0.1) = 4pi e-5 / 0.2pi = 2e-4 N/m, attractive since currents are parallel and codirectional",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -25208,12 +25196,12 @@
    "$2.02v$",
    "$4.04v$"
   ],
-  "answer": 0,
+  "answer": 1,
   "accepted": [
-   0
+   1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Wave on a stretched string — tension dependence",
   "difficulty": "medium",
@@ -25223,7 +25211,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.94,
    "examon_audit_model": "gpt-5.4",
@@ -25236,27 +25224,23 @@
    "solver_correct_index": 1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 0,
-    "examon_answer_text": "$1.98v$",
-    "solver_answer": 1,
-    "solver_answer_text": "$2.00v$",
-    "solver_correct_text": "",
-    "note": "mu'=mu/1.01, v'=sqrt(4x1.01)v=2.00998v. Closest listed is 2.00v (2.02v nearly tied); 1.98v is farther.",
-    "solver_2_answer": 1,
-    "solver_2_answer_text": "$2.00v$",
-    "solver_2_correct_text": "",
-    "solver_2_note": "mu' = mu/1.01 so v' = sqrt(4T*1.01/mu) = 2.01v; 2.00v nearest listed, 2.02v nearly equidistant."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "medium",
    "solver_2_correct_index": 1,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "v'=sqrt(4T/(mu/1.01))=sqrt(4.04)v=2.00998v; closest listed option is 2.00v (marginally over 2.02v), 1.98v is farther.",
    "adjudication_correct_index": 1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": 1,
+    "confidence": "low",
+    "note": "Exact value is 2.00998v (approx 2.01v), which sits almost exactly midway between options 1 (2.00v) and 2 (2.02v); 2.00v is marginally nearer, so this item is poorly designed.",
+    "working": "mass constant, length 1.01L => mu' = mu/1.01. v' = sqrt(T'/mu') = sqrt(4T/(mu/1.01)) = v*sqrt(4*1.01) = 2*sqrt(1.01) v = 2.00998 v ~ 2.01 v",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -26791,12 +26775,12 @@
    "1.2 A",
    "4.8 A"
   ],
-  "answer": 2,
+  "answer": 1,
   "accepted": [
-   2
+   1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Series-parallel branch current",
   "difficulty": "hard",
@@ -26806,7 +26790,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.98,
    "examon_audit_model": "gpt-5.4",
@@ -26819,27 +26803,23 @@
    "solver_correct_index": 1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 2,
-    "examon_answer_text": "1.2 A",
-    "solver_answer": 1,
-    "solver_answer_text": "3.6 A",
-    "solver_correct_text": "",
-    "note": "4||12=3 ohm; Rtot=5; I=4.8 A; V=14.4 V; I4=3.6 A.",
-    "solver_2_answer": 1,
-    "solver_2_answer_text": "3.6 A",
-    "solver_2_correct_text": "",
-    "solver_2_note": "4 ohm parallel 12 ohm = 3 ohm; total 5 ohm, I = 4.8 A; parallel voltage 14.4 V gives 3.6 A."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 1,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Rp=4||12=3 ohm, Rtot=5 ohm, I=4.8 A, Vp=14.4 V; the 4-ohm branch carries 14.4/4=3.6 A, not 1.2 A.",
    "adjudication_correct_index": 1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 2,
+   "examon_key": 2,
+   "resolve": {
+    "correct_index": 1,
+    "confidence": "high",
+    "note": "Parallel combination is 3 ohm; the 4 ohm branch carries 14.4 V across it.",
+    "working": "4 || 12 = (4 x 12)/16 = 3 ohm. Total R = 2 + 3 = 5 ohm. Total current I = 24/5 = 4.8 A. Voltage across parallel part = 24 - 4.8 x 2 = 14.4 V. Current in 4 ohm branch = 14.4/4 = 3.6 A.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -28772,12 +28752,12 @@
    "zero",
    "cannot be determined"
   ],
-  "answer": 1,
+  "answer": 3,
   "accepted": [
-   1
+   3
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Field at the centre of a circular loop",
   "difficulty": "medium",
@@ -28787,7 +28767,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": false,
    "examon_audit_confidence": 0.92,
    "examon_audit_model": "gpt-5.4",
@@ -28803,27 +28783,23 @@
    "solver_correct_index": 3,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 1,
-    "examon_answer_text": "anticlockwise",
-    "solver_answer": 3,
-    "solver_answer_text": "cannot be determined",
-    "solver_correct_text": "",
-    "note": "Centre lies on the wire axis, so the wire field there is undefined; wire current direction unspecified, so coil current sense is not fixed.",
-    "solver_2_answer": 3,
-    "solver_2_answer_text": "cannot be determined",
-    "solver_2_correct_text": "",
-    "solver_2_note": "Coil field at centre lies along axis, wire's field there lies in plane and is singular: no cancellation, coil current not determinable."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "medium",
    "solver_2_correct_index": 3,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Wire in the coil plane gives a centre field in-plane and singular, while the coil field is normal to the plane; cancellation impossible, wire sense unspecified.",
    "adjudication_correct_index": 3,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": 3,
+    "confidence": "medium",
+    "note": "The coil's field at its centre is along the coil axis while the straight wire (lying in the plane of the coil) produces an in-plane field there; the two are perpendicular, so they can never cancel, and the wire's current direction is not specified either.",
+    "working": "Coil field at centre: B = mu0 N I/(2r) = (4pi x 10^-7 x 5 x 4)/(0.40) = 6.3 x 10^-4 T, directed along the coil axis. Wire field at centre: B = mu0 I/(2 pi r) = (4pi x 10^-7 x 10)/(2 pi x 0.20) = 1.0 x 10^-5 T, directed in the plane of the coil (perpendicular to the wire). These are mutually perpendicular, so the resultant can never be zero for any coil current, and the wire's current direction is unspecified; hence the coil current cannot be determined.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -28847,12 +28823,12 @@
    "$12\\,\\text{cm}$ on the right of the combination",
    "at infinity"
   ],
-  "answer": 0,
+  "answer": 1,
   "accepted": [
-   0
+   1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Combination of lenses",
   "difficulty": "medium",
@@ -28862,7 +28838,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -28875,27 +28851,23 @@
    "solver_correct_index": 1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 0,
-    "examon_answer_text": "$60\\,\\text{cm}$ on the right of the combination",
-    "solver_answer": 1,
-    "solver_answer_text": "$60\\,\\text{cm}$ on the left of the combination",
-    "solver_correct_text": "",
-    "note": "F = +60 cm; 1/v = 1/60 - 1/30 = -1/60 so v = -60 cm: virtual image 60 cm on the left (object side).",
-    "solver_2_answer": 1,
-    "solver_2_answer_text": "$60\\,\\text{cm}$ on the left of the combination",
-    "solver_2_correct_text": "",
-    "solver_2_note": "1/F=1/20-1/30=1/60; u=-30 gives 1/v=1/60-1/30=-1/60, v=-60 cm: virtual image 60 cm left."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 1,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "1/F=1/20-1/30 so F=+60 cm; 1/v=1/60-1/30=-1/60 gives v=-60 cm, a virtual image 60 cm on the left.",
    "adjudication_correct_index": 1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": 1,
+    "confidence": "high",
+    "note": "Equivalent focal length is +60 cm and the object lies inside it, so the image is virtual, on the object side (left).",
+    "working": "1/F = 1/20 + 1/(-30) = (3 - 2)/60 = 1/60, so F = +60 cm. u = -30 cm. 1/v = 1/F + 1/u = 1/60 - 1/30 = -1/60, so v = -60 cm: virtual, erect (m = v/u = +2) image 60 cm to the LEFT of the combination.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -28924,7 +28896,7 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Combination of lenses",
   "difficulty": "medium",
@@ -28947,7 +28919,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 0,
@@ -28967,7 +28938,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "F=6 cm; u=-12 cm gives v=+12 cm, so m=v/u=-1; none of +5, -5, +5/2, -5/2 is correct.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": 1,
+    "confidence": "low",
+    "note": "As printed the combination gives m = -1, which is not offered (printed stem is inconsistent). -5 is the listed value for the intended version (equivalent focal length 10 cm with the object at 12 cm, real inverted image at 60 cm).",
+    "working": "Printed stem: 1/F = 1/15 + 1/10 = 1/6, F = 6 cm; u = -12 cm; 1/v = 1/6 - 1/12 = 1/12, v = +12 cm, so m = v/u = -1 (not among the options). Intended version: F = 10 cm (e.g. the second lens's focal length taken as the equivalent), 1/v = 1/10 - 1/12 = 1/60, v = +60 cm (real, inverted), m = 60/(-12) = -5.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "Printed data give a unit magnification: F = (15x10)/(15+10) = 6 cm and the object at 12 cm sits exactly at 2F, so the image is real, inverted and the same size (m = -1). None of +5, -5, +5/2, -5/2 equals -1, so the item is broken as printed. The publisher's own worked solution only reaches 'm = +5' by hand-waving ('since the keyed answer is positive and magnified'); option -5 (index 1) would require F = 10 cm, i.e. a single 10 cm lens."
   }
  },
  {
@@ -29097,7 +29078,7 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Combination of lenses",
   "difficulty": "medium",
@@ -29120,7 +29101,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 0,
@@ -29140,7 +29120,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "F=12 cm; 1/v=1/12-1/30=1/20 so v=+20 cm behind the lenses; infinity, 60, 12 and 24 cm are all wrong.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": 1,
+    "confidence": "low",
+    "note": "As printed the combination gives an image 20 cm behind the lenses, which is not offered (printed stem is inconsistent). 60 cm behind is the listed value for the intended version (equivalent focal length taken as 20 cm, the second lens).",
+    "working": "Printed stem: 1/F = 1/30 + 1/20 = 1/12, F = 12 cm; u = -30 cm; 1/v = 1/12 - 1/30 = 1/20, v = +20 cm behind the lenses (not among the options). Intended version: F = 20 cm, 1/v = 1/20 - 1/30 = 1/60, v = +60 cm behind the lenses.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "For lenses in contact F = 12 cm, and with the object at 30 cm the lens formula gives 1/v = 1/12 - 1/30 = 1/20, i.e. a real image 20 cm behind the lenses. 20 cm is not offered (infinity needs u = 12 cm; 60 cm needs F = 20 cm; 12 cm and 24 cm are wrong), so the question is broken as printed. The publisher's own solution correctly computes v = 20 cm and then asserts 'the keyed option is infinity' without any basis."
   }
  },
  {
@@ -30575,7 +30565,7 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Carnot efficiency",
   "difficulty": "medium",
@@ -30599,7 +30589,6 @@
    "solver_correct_index": 1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "different_option",
     "examon_answer": 0,
@@ -30619,7 +30608,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Th=500 K, then 700 K; eta=1-300/700=4/7=57.1%; nearest listed option is 60%, while 50% is farther away.",
    "adjudication_correct_index": 1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": 2,
+    "confidence": "medium",
+    "note": "BROKEN AS PRINTED: the stem gives eta' = 1 - 300/700 = 4/7 = 57.1%, which is not offered. The option set is only coherent if the initial efficiency is 50% (T1 = 600 K -> 800 K -> 62.5%, with 50% appearing as the 'efficiency unchanged' distractor), so 62.5% is the evidently intended key and '40%' is a transcription error in the stem.",
+    "working": "Carnot: eta = 1 - T_sink/T_source = 0.40 with T_sink = 300 K -> T_source = 300/0.6 = 500 K. As printed: T_source' = 500 + 200 = 700 K -> eta' = 1 - 300/700 = 400/700 = 4/7 = 57.14%, not among the options. Reconstructing each option: 50% needs source 600 K (eta0 = 50% or dT = 100 K); 60% needs 750 K (eta0 = 45.45% or dT = 250 K); 62.5% needs 800 K (eta0 = 50% or dT = 300 K); 75% needs 1200 K (eta0 = 70% or dT = 700 K). Only 62.5% gives a clean MCQ (eta0 = 50% -> T_source = 600 K, +200 K -> 800 K, eta' = 1 - 300/800 = 62.5%, with 50% as the unchanged distractor), so key = 62.5% with the stem mis-printed as 40% (or dT mis-printed as 200 K for 300 K).",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "As printed: 0.40 = 1 - 300/T_h gives T_h = 500 K, so T_h' = 700 K and eta' = 1 - 300/700 = 4/7 = 57.1%, which is not among 50%, 60%, 62.5%, 75%. The option set only becomes coherent if the stem's 40% should read 50% (T_h = 600 K -> 800 K -> 62.5%, with 50% as the 'unchanged' distractor), so 62.5% (index 2) is the evidently intended key but the question is broken as printed. The published key of 50% is wrong under every reading."
   }
  },
  {
@@ -31958,7 +31957,7 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -31968,7 +31967,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "computed from the textbook formula",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -31978,7 +31977,7 @@
    "notes": "KCET hard extension; patterned after repeated KCET PYQ archetypes and 2024-2025 high-yield topic mix with values changed.",
    "solver_confidence": "high",
    "solver_correct_index": 0,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
@@ -31995,7 +31994,16 @@
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
    },
-   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
+   "published_key": 0,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": 0,
+    "confidence": "high",
+    "note": "Balance condition R_known/R_unknown = l/(100-l) with l = 25 cm measured from the known-resistance end gives R_unknown = 3 x 4 = 12 ohm.",
+    "working": "Metre bridge: R_known/R_unknown = l/(100-l) = 25/75 = 1/3. R_unknown = R_known x (100-l)/l = 4 x 75/25 = 12 ohm.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -32024,7 +32032,7 @@
    3
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -32034,7 +32042,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "computed from the textbook formula",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -32044,7 +32052,7 @@
    "notes": "KCET hard extension; patterned after repeated KCET PYQ archetypes and 2024-2025 high-yield topic mix with values changed.",
    "solver_confidence": "high",
    "solver_correct_index": 3,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
@@ -32061,7 +32069,16 @@
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
    },
-   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
+   "published_key": 3,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": 3,
+    "confidence": "high",
+    "note": "R_unknown = 6 x (100-30)/30 = 14 ohm; the known 6 ohm sits across the shorter (30 cm) segment.",
+    "working": "R_known/R_unknown = 30/70. R_unknown = 6 x (100-30)/30 = 6 x 70/30 = 420/30 = 14 ohm.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -32090,7 +32107,7 @@
    2
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -32100,7 +32117,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "computed from the textbook formula",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -32110,7 +32127,7 @@
    "notes": "KCET hard extension; patterned after repeated KCET PYQ archetypes and 2024-2025 high-yield topic mix with values changed.",
    "solver_confidence": "high",
    "solver_correct_index": 2,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
@@ -32127,7 +32144,16 @@
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
    },
-   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
+   "published_key": 2,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": 2,
+    "confidence": "high",
+    "note": "R_unknown = 8 x 65/35 = 14.857 ohm, matching the 14.86 ohm option.",
+    "working": "R_known/R_unknown = 35/65. R_unknown = 8 x (100-35)/35 = 8 x 65/35 = 520/35 = 14.857 ohm.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -32156,7 +32182,7 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -32166,7 +32192,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "computed from the textbook formula",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -32176,7 +32202,7 @@
    "notes": "KCET hard extension; patterned after repeated KCET PYQ archetypes and 2024-2025 high-yield topic mix with values changed.",
    "solver_confidence": "high",
    "solver_correct_index": 0,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
@@ -32193,7 +32219,16 @@
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
    },
-   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
+   "published_key": 0,
+   "examon_key": 2,
+   "resolve": {
+    "correct_index": 0,
+    "confidence": "high",
+    "note": "R_unknown = 10 x 60/40 = 15 ohm.",
+    "working": "R_known/R_unknown = 40/60. R_unknown = 10 x (100-40)/40 = 10 x 60/40 = 15 ohm.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -32222,7 +32257,7 @@
    3
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -32232,7 +32267,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "computed from the textbook formula",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -32242,7 +32277,7 @@
    "notes": "KCET hard extension; patterned after repeated KCET PYQ archetypes and 2024-2025 high-yield topic mix with values changed.",
    "solver_confidence": "high",
    "solver_correct_index": 3,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
@@ -32259,7 +32294,16 @@
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
    },
-   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
+   "published_key": 3,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": 3,
+    "confidence": "high",
+    "note": "R_unknown = 4 x 55/45 = 4.889 ohm, matching 4.89 ohm.",
+    "working": "R_known/R_unknown = 45/55. R_unknown = 4 x (100-45)/45 = 4 x 55/45 = 220/45 = 4.889 ohm.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -32288,7 +32332,7 @@
    3
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -32298,7 +32342,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "computed from the textbook formula",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the published key)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -32308,7 +32352,7 @@
    "notes": "KCET hard extension; patterned after repeated KCET PYQ archetypes and 2024-2025 high-yield topic mix with values changed.",
    "solver_confidence": "high",
    "solver_correct_index": 3,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "agree",
    "external_check": {
     "source": "NCERT metre-bridge balance condition R/S = l/(100-l); derivations at CBSE Tuts, Shaalaa (CISCE) and GeeksforGeeks",
@@ -32318,7 +32362,15 @@
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
    },
-   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
+   "published_key": 3,
+   "examon_key": 3,
+   "resolve": {
+    "correct_index": 3,
+    "confidence": "high",
+    "note": "Midpoint balance means the two gaps carry equal resistance: R_unknown = 6 ohm.",
+    "working": "l = 50 cm (midpoint). R_known/R_unknown = 50/50 = 1. R_unknown = 6 x (100-50)/50 = 6 ohm.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   }
   }
  },
  {
@@ -32347,7 +32399,7 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -32357,7 +32409,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "computed from the textbook formula",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.98,
    "examon_audit_model": "gpt-5.4",
@@ -32367,7 +32419,7 @@
    "notes": "KCET hard extension; patterned after repeated KCET PYQ archetypes and 2024-2025 high-yield topic mix with values changed.",
    "solver_confidence": "high",
    "solver_correct_index": 0,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
@@ -32384,7 +32436,16 @@
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
    },
-   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
+   "published_key": 0,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": 0,
+    "confidence": "high",
+    "note": "R_unknown = 8 x 45/55 = 6.545 ohm, matching 6.55 ohm.",
+    "working": "R_known/R_unknown = 55/45. R_unknown = 8 x (100-55)/55 = 8 x 45/55 = 360/55 = 6.545 ohm.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -32413,7 +32474,7 @@
    1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -32423,7 +32484,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "computed from the textbook formula",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.98,
    "examon_audit_model": "gpt-5.4",
@@ -32433,7 +32494,7 @@
    "notes": "KCET hard extension; patterned after repeated KCET PYQ archetypes and 2024-2025 high-yield topic mix with values changed.",
    "solver_confidence": "high",
    "solver_correct_index": 1,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
@@ -32450,7 +32511,16 @@
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
    },
-   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
+   "published_key": 1,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": 1,
+    "confidence": "high",
+    "note": "R_unknown = 10 x 40/60 = 6.667 ohm, matching 6.67 ohm.",
+    "working": "R_known/R_unknown = 60/40. R_unknown = 10 x (100-60)/60 = 10 x 40/60 = 400/60 = 6.667 ohm.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -32479,7 +32549,7 @@
    1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -32489,7 +32559,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "computed from the textbook formula",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.98,
    "examon_audit_model": "gpt-5.4",
@@ -32499,7 +32569,7 @@
    "notes": "KCET hard extension; patterned after repeated KCET PYQ archetypes and 2024-2025 high-yield topic mix with values changed.",
    "solver_confidence": "high",
    "solver_correct_index": 1,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
@@ -32516,7 +32586,16 @@
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
    },
-   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
+   "published_key": 1,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": 1,
+    "confidence": "high",
+    "note": "R_unknown = 4 x 35/65 = 2.154 ohm, matching 2.15 ohm.",
+    "working": "R_known/R_unknown = 65/35. R_unknown = 4 x (100-65)/65 = 4 x 35/65 = 140/65 = 2.154 ohm.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -32545,7 +32624,7 @@
    2
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -32555,7 +32634,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "computed from the textbook formula",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.98,
    "examon_audit_model": "gpt-5.4",
@@ -32565,7 +32644,7 @@
    "notes": "KCET hard extension; patterned after repeated KCET PYQ archetypes and 2024-2025 high-yield topic mix with values changed.",
    "solver_confidence": "high",
    "solver_correct_index": 2,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
@@ -32582,7 +32661,16 @@
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
    },
-   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
+   "published_key": 2,
+   "examon_key": 3,
+   "resolve": {
+    "correct_index": 2,
+    "confidence": "high",
+    "note": "Meter-bridge balance gives R/S = l/(100-l) with l measured from the end adjacent to the known 6 ohm gap, so S = 6 x (100-70)/70 = 2.57 ohm.",
+    "working": "Balance: R/S = l/(100-l) = 70/30. 6/S = 70/30 -> S = 6*30/70 = 18/7 = 2.571 ohm. (The reversed form 6*70/30 = 14 ohm is the distractor.)",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -34322,12 +34410,12 @@
    "0.05 m",
    "10 m"
   ],
-  "answer": 3,
+  "answer": 1,
   "accepted": [
-   3
+   1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Radius of a charged particle in a magnetic field",
   "difficulty": "hard",
@@ -34337,7 +34425,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -34350,27 +34438,23 @@
    "solver_correct_index": 1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 3,
-    "examon_answer_text": "10 m",
-    "solver_answer": 1,
-    "solver_answer_text": "20 m",
-    "solver_correct_text": "",
-    "note": "r = mv/(qB) = (2e-6 x 18)/(2e-6 x 0.9) = 20 m.",
-    "solver_2_answer": 1,
-    "solver_2_answer_text": "20 m",
-    "solver_2_correct_text": "",
-    "solver_2_note": "r=mv/(qB)=(2e-6)(18)/(2e-6)(0.9)=20 m."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 1,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "r = mv/(qB) = (2e-6*18)/(2e-6*0.9) = 36/1.8 = 20 m (option B). Examon's key 10 m is wrong.",
    "adjudication_correct_index": 1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 3,
+   "examon_key": 3,
+   "resolve": {
+    "correct_index": 1,
+    "confidence": "high",
+    "note": "With v perpendicular to B the path is a circle of radius r = mv/(qB); the mass and charge cancel.",
+    "working": "r = mv/(qB) = (2e-6 kg x 18 m/s)/(2e-6 C x 0.9 T) = 18/0.9 = 20 m.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -34700,7 +34784,7 @@
    1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Transformer turns ratio",
   "difficulty": "hard",
@@ -34723,7 +34807,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 1,
@@ -34743,7 +34826,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Vs = (225/120)*120 = 225 V; resistor drops 225-15 = 210 V, fraction 210/225 = 14/15, absent from options.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "medium",
+    "note": "As printed the secondary gives 225 V and the series resistor must drop 210 V, i.e. 14/15 of Vs, which is not among 1/3, 5/9, 4/9, 2/3 - the item is broken as printed. The option set looks like it was built for a 45 V secondary (or a 75 V device), where the drop fraction would be 2/3, so option 3 is probably the intended key.",
+    "working": "Vs = Vp(Ns/Np) = 120 x 225/120 = 225 V. Voltage across series resistor = 225 - 15 = 210 V. Fraction = 210/225 = 14/15 = 0.933. For 2/3 one needs Vs = 45 V (Vp = 24 V) or a 75 V device.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "Vs = Vp(Ns/Np) = 120 x 225/120 = 225 V, so the series resistor must drop 225 - 15 = 210 V, i.e. a fraction 210/225 = 14/15 = 0.933 of the secondary voltage, which is absent from {1/3, 5/9, 4/9, 2/3}. The publisher's solution silently substitutes Vp = 24 V to manufacture Vs = 45 V and a fraction 2/3, which does not follow from the printed stem (and does not even match its own keyed 5/9). The item is broken as printed."
   }
  },
  {
@@ -34823,7 +34916,7 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Transformer turns ratio",
   "difficulty": "hard",
@@ -34846,7 +34939,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 0,
@@ -34866,7 +34958,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Vs = 275 V, Is = 0.5 A; Ip = Is*Ns/Np = 0.5*275/160 = 0.859 A, not listed. Examon inverted the current ratio.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "Ideal transformer: Vs = 275 V, Is = 0.50 A, output power 137.5 W, so Ip = 137.5/160 = 0.86 A, which is absent from the options - broken as printed. The option set {0.50 = Is, 0.625} matches a 220-turn/220-V primary, where Ip = 0.625 A, so option 3 is probably the intended key.",
+    "working": "Vs = Vp(Ns/Np) = 160 x 275/160 = 275 V; Is = 275/550 = 0.5 A; P_out = Vs.Is = 137.5 W; Ip = P_out/Vp = 137.5/160 = 0.859 A. (For Np = 220, Vp = 220: Vs = 275, Is = 0.5, Ip = 137.5/220 = 0.625 A.)",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "Vs = 160 x 275/160 = 275 V and Is = 275/550 = 0.50 A, so the output power is 137.5 W and the primary current is Ip = 137.5/160 = 0.859 A (equivalently Ip = Is x Ns/Np = 0.5 x 275/160). 0.859 A is absent from {0.50, 0.275, 0.80, 0.625}; the published key 0.50 A is the secondary current, i.e. the publisher inverted the current ratio. The item is broken as printed."
   }
  },
  {
@@ -35211,7 +35313,7 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Maximum speed in SHM",
   "difficulty": "medium",
@@ -35234,7 +35336,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 0,
@@ -35254,7 +35355,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "omega^2 = 0.0144/(0.04^2-0.02^2) = 12; v_max = sqrt(12)*0.04 = 0.1386 m/s. No option matches.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "Printed data give omega = sqrt(0.12^2/(0.04^2-0.02^2)) = 3.464 rad/s and v_max = 0.1386 m/s, which is not among 0.16/0.12/0.20/0.24 - broken as printed. The option set matches an original speed of 0.12*sqrt(3) m/s (omega = 6 rad/s), which would give 0.24 m/s (option 3).",
+    "working": "v^2 = omega^2(A^2-x^2) -> omega^2 = 0.0144/(0.0016-0.0004) = 12 s^-2, omega = 3.464 rad/s; v_max = omega.A = 3.464 x 0.04 = 0.1386 m/s.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "From v = omega*sqrt(A^2 - x^2): omega^2 = 0.12^2/(0.04^2 - 0.02^2) = 0.0144/0.0012 = 12, so omega = 3.464 rad/s and v_max = omega*A = 0.1386 m/s. That value is absent from {0.16, 0.12, 0.20, 0.24} m/s, so the question is broken as printed. The publisher's own solution derives 0.139 m/s and then asserts the keyed 0.16 m/s, and its explanation (v_max = 0.04 x 4) simply invents omega = 4 s^-1."
   }
  },
  {
@@ -35334,7 +35445,7 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Maximum speed in SHM",
   "difficulty": "medium",
@@ -35359,7 +35470,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 0,
@@ -35379,7 +35489,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "omega = 0.18/0.04243 = 4.243 rad/s; v_max = omega*A = 0.2546 m/s; no option exact (0.24 nearest), solver's value right.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "Printed data give omega = sqrt(0.18^2/(0.06^2-0.042426^2)) = 4.243 rad/s and v_max = 0.2546 m/s (~0.25), which is not among 0.36/0.18/0.24/0.54 - broken as printed. The option set matches an original speed of 0.18*sqrt(2) m/s (omega = 6 rad/s), which would give 0.36 m/s (option 0).",
+    "working": "A^2-x^2 = 36-18 = 18 cm^2 = 0.0018 m^2; omega^2 = 0.0324/0.0018 = 18 s^-2; v_max = omega.A = 4.243 x 0.06 = 0.2546 m/s.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "no option carries the correct value; the question is broken as printed"
   }
  },
  {
@@ -35408,7 +35528,7 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Maximum acceleration in SHM",
   "difficulty": "medium",
@@ -35434,7 +35554,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 0,
@@ -35454,7 +35573,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "omega^2 = 0.1764/(0.07^2-0.05^2) = 73.5; a_max = 73.5*0.07 = 5.145 m/s^2. Examon wrongly used 0.04 m for A.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "Printed data give omega^2 = 0.42^2/(0.07^2-0.05^2) = 73.5 s^-2 and a_max = 73.5 x 0.07 = 5.145 m/s^2, absent from the options - broken as printed. The option set (0.49 = v_max, 2.94 = omega.v, 3.43 = omega^2.A for omega = 7 rad/s) matches an original displacement of 3.6 cm, where a_max = 3.43 m/s^2 (option 1).",
+    "working": "omega^2 = 0.1764/0.0024 = 73.5 s^-2; a_max = omega^2.A = 73.5 x 0.07 = 5.145 m/s^2. With x = 3.6 cm: omega = 0.42/0.0600 = 7 rad/s, a_max = 49 x 0.07 = 3.43 m/s^2.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "no option carries the correct value; the question is broken as printed"
   }
  },
  {
@@ -37134,12 +37263,12 @@
    "0.3 rad/s$^2$",
    "1.2 rad/s$^2$"
   ],
-  "answer": 3,
+  "answer": 0,
   "accepted": [
-   3
+   0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Angular acceleration under a constant torque",
   "difficulty": "hard",
@@ -37149,7 +37278,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": false,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -37164,27 +37293,23 @@
    "solver_correct_index": 0,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 3,
-    "examon_answer_text": "1.2 rad/s$^2$",
-    "solver_answer": 0,
-    "solver_answer_text": "2.4 rad/s$^2$",
-    "solver_correct_text": "",
-    "note": "Ring I = mr² = 1.25 kg m²; alpha = 3/1.25 = 2.4 rad/s².",
-    "solver_2_answer": 0,
-    "solver_2_answer_text": "2.4 rad/s$^2$",
-    "solver_2_correct_text": "",
-    "solver_2_note": "I = MR^2 = 5*0.25 = 1.25 kg m^2; alpha = tau/I = 3/1.25 = 2.4 rad/s^2."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 0,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Ring I = MR^2 = 5*0.25 = 1.25 kg m^2; alpha = 3/1.25 = 2.4 rad/s^2 (option A). Examon's I = 2.5 is an arithmetic slip.",
    "adjudication_correct_index": 0,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 3,
+   "examon_key": 3,
+   "resolve": {
+    "correct_index": 0,
+    "confidence": "high",
+    "note": "A ring is a thin hoop, I = mR^2 = 1.25 kg m^2, so alpha = tau/I = 3/1.25 = 2.4 rad/s^2.",
+    "working": "I = mR^2 = 5 x 0.5^2 = 1.25 kg m^2; alpha = tau/I = 3 N m / 1.25 kg m^2 = 2.4 rad/s^2.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -37313,7 +37438,7 @@
    2
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -37323,7 +37448,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "computed from the textbook formula",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -37333,7 +37458,7 @@
    "notes": "KCET hard extension; patterned after repeated KCET PYQ archetypes and 2024-2025 high-yield topic mix with values changed.",
    "solver_confidence": "high",
    "solver_correct_index": 2,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
@@ -37350,7 +37475,16 @@
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
    },
-   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
+   "published_key": 2,
+   "examon_key": 3,
+   "resolve": {
+    "correct_index": 2,
+    "confidence": "high",
+    "note": "With the balance 27 cm from the 6 ohm end, R/S = 27/73, so S = 6 x 73/27 = 16.22 ohm.",
+    "working": "Balance: 6/S = 27/(100-27) = 27/73 -> S = 6 x 73/27 = 438/27 = 16.222 ohm. (The reversed form 6 x 27/73 = 2.22 ohm is the distractor.)",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -37379,7 +37513,7 @@
    1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -37389,7 +37523,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "computed from the textbook formula",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -37399,7 +37533,7 @@
    "notes": "KCET hard extension; patterned after repeated KCET PYQ archetypes and 2024-2025 high-yield topic mix with values changed.",
    "solver_confidence": "high",
    "solver_correct_index": 1,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
@@ -37416,7 +37550,16 @@
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
    },
-   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
+   "published_key": 1,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": 1,
+    "confidence": "high",
+    "note": "Balance 32 cm from the 8 ohm end: R/S = 32/68, so S = 8 x 68/32 = 17 ohm exactly.",
+    "working": "Balance: 8/S = 32/(100-32) = 32/68 -> S = 8 x 68/32 = 17 ohm. (The reversed form 8 x 32/68 = 3.76 ohm is the distractor.)",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -37445,7 +37588,7 @@
    1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -37455,7 +37598,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "computed from the textbook formula",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -37465,7 +37608,7 @@
    "notes": "KCET hard extension; patterned after repeated KCET PYQ archetypes and 2024-2025 high-yield topic mix with values changed.",
    "solver_confidence": "high",
    "solver_correct_index": 1,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
@@ -37482,7 +37625,16 @@
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
    },
-   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
+   "published_key": 1,
+   "examon_key": 2,
+   "resolve": {
+    "correct_index": 1,
+    "confidence": "high",
+    "note": "Meter bridge balance gives R_known/R_unknown = l/(100-l) with l measured from the end carrying the known gap, so the unknown gap resistance is R(100-l)/l.",
+    "working": "l = 37 cm, so other segment = 63 cm. Balance: R/X = 37/63 -> X = 10 * 63/37 = 630/37 = 17.027 ~ 17.03 ohm. (The 5.87 ohm option is the inverted ratio R*l/(100-l), which applies to the opposite gap.)",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -37511,7 +37663,7 @@
    3
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -37521,7 +37673,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "computed from the textbook formula",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -37531,7 +37683,7 @@
    "notes": "KCET hard extension; patterned after repeated KCET PYQ archetypes and 2024-2025 high-yield topic mix with values changed.",
    "solver_confidence": "high",
    "solver_correct_index": 3,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
@@ -37548,7 +37700,16 @@
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
    },
-   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
+   "published_key": 3,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": 3,
+    "confidence": "high",
+    "note": "X = R(100-l)/l for the gap opposite the end from which the balance length is measured.",
+    "working": "l = 42 cm, remaining 58 cm. R/X = 42/58 -> X = 4 * 58/42 = 232/42 = 5.5238 ~ 5.52 ohm. Distractor 2.9 ohm = 4*42/58 (inverted ratio).",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -37577,7 +37738,7 @@
    1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -37587,7 +37748,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "computed from the textbook formula",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -37597,7 +37758,7 @@
    "notes": "KCET hard extension; patterned after repeated KCET PYQ archetypes and 2024-2025 high-yield topic mix with values changed.",
    "solver_confidence": "high",
    "solver_correct_index": 1,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
@@ -37614,7 +37775,16 @@
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
    },
-   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
+   "published_key": 1,
+   "examon_key": 2,
+   "resolve": {
+    "correct_index": 1,
+    "confidence": "high",
+    "note": "R_known/X = l/(100-l); the known gap sits at the measured end, hence X = R(100-l)/l.",
+    "working": "l = 47 cm, remaining 53 cm. R/X = 47/53 -> X = 6 * 53/47 = 318/47 = 6.7660 ~ 6.77 ohm. Distractor 5.32 ohm = 6*47/53.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -37643,7 +37813,7 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -37653,7 +37823,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "computed from the textbook formula",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.98,
    "examon_audit_model": "gpt-5.4",
@@ -37663,7 +37833,7 @@
    "notes": "KCET hard extension; patterned after repeated KCET PYQ archetypes and 2024-2025 high-yield topic mix with values changed.",
    "solver_confidence": "high",
    "solver_correct_index": 0,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
@@ -37680,7 +37850,16 @@
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
    },
-   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
+   "published_key": 0,
+   "examon_key": 2,
+   "resolve": {
+    "correct_index": 0,
+    "confidence": "high",
+    "note": "Balance condition R_known/R_unknown = l/(100-l) with l from the known-resistance end.",
+    "working": "l = 52 cm, remaining 48 cm. R/X = 52/48 -> X = 8 * 48/52 = 384/52 = 7.3846 ~ 7.38 ohm. Distractor 8.67 ohm = 8*52/48.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -37709,7 +37888,7 @@
    2
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -37719,7 +37898,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "computed from the textbook formula",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.98,
    "examon_audit_model": "gpt-5.4",
@@ -37729,7 +37908,7 @@
    "notes": "KCET hard extension; patterned after repeated KCET PYQ archetypes and 2024-2025 high-yield topic mix with values changed.",
    "solver_confidence": "high",
    "solver_correct_index": 2,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
@@ -37746,7 +37925,16 @@
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
    },
-   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
+   "published_key": 2,
+   "examon_key": 3,
+   "resolve": {
+    "correct_index": 2,
+    "confidence": "high",
+    "note": "X = R(100-l)/l; l is measured from the end near the known resistance, so the unknown gap corresponds to the (100-l) segment.",
+    "working": "l = 57 cm, remaining 43 cm. R/X = 57/43 -> X = 10 * 43/57 = 430/57 = 7.5439 ~ 7.54 ohm. Distractor 13.26 ohm = 10*57/43.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -37775,7 +37963,7 @@
    3
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -37785,7 +37973,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "computed from the textbook formula",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.98,
    "examon_audit_model": "gpt-5.4",
@@ -37795,7 +37983,7 @@
    "notes": "KCET hard extension; patterned after repeated KCET PYQ archetypes and 2024-2025 high-yield topic mix with values changed.",
    "solver_confidence": "high",
    "solver_correct_index": 3,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
@@ -37812,7 +38000,16 @@
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
    },
-   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
+   "published_key": 3,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": 3,
+    "confidence": "high",
+    "note": "R_known/R_unknown = l/(100-l) -> unknown = R(100-l)/l = 2.45 ohm.",
+    "working": "l = 62 cm, remaining 38 cm. R/X = 62/38 -> X = 4 * 38/62 = 152/62 = 2.4516 ~ 2.45 ohm. Distractor 6.53 ohm = 4*62/38.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -37841,7 +38038,7 @@
    1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -37851,7 +38048,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "computed from the textbook formula",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.98,
    "examon_audit_model": "gpt-5.4",
@@ -37861,7 +38058,7 @@
    "notes": "KCET hard extension; patterned after repeated KCET PYQ archetypes and 2024-2025 high-yield topic mix with values changed.",
    "solver_confidence": "high",
    "solver_correct_index": 1,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
@@ -37878,7 +38075,16 @@
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
    },
-   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
+   "published_key": 1,
+   "examon_key": 2,
+   "resolve": {
+    "correct_index": 1,
+    "confidence": "high",
+    "note": "Meter bridge balance: X = R(100-l)/l for the gap on the far side of the balance point.",
+    "working": "l = 67 cm, remaining 33 cm. R/X = 67/33 -> X = 6 * 33/67 = 198/67 = 2.9552 ~ 2.96 ohm. Distractor 12.18 ohm = 6*67/33.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -37907,7 +38113,7 @@
    3
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Meter bridge and unknown resistance",
   "difficulty": "hard",
@@ -37917,7 +38123,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "computed from the textbook formula",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.98,
    "examon_audit_model": "gpt-5.4",
@@ -37927,7 +38133,7 @@
    "notes": "KCET hard extension; patterned after repeated KCET PYQ archetypes and 2024-2025 high-yield topic mix with values changed.",
    "solver_confidence": "high",
    "solver_correct_index": 3,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
@@ -37944,7 +38150,16 @@
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
    },
-   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
+   "published_key": 3,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": 3,
+    "confidence": "high",
+    "note": "R_known/R_unknown = l/(100-l) with l from the known-resistance end, so X = R(100-l)/l.",
+    "working": "l = 72 cm, remaining 28 cm. R/X = 72/28 -> X = 8 * 28/72 = 224/72 = 3.1111 ~ 3.11 ohm. Distractor 20.57 ohm = 8*72/28.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -39783,7 +39998,7 @@
    2
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Radius of a charged particle in a magnetic field",
   "difficulty": "hard",
@@ -39806,7 +40021,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 2,
@@ -39826,7 +40040,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "r = mv/(qB) = (4e-6*22)/(2e-6*0.5) = 88 m; no option matches. Examon dropped the B factor to force 44 m.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 2,
+   "examon_key": 2,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "BROKEN AS PRINTED: the stated data give r = mv/(qB) = 88 m, which is not among the four options. Option 44 m would need q = 4x10^-6 C (or B = 1 T).",
+    "working": "For v perpendicular to B: r = mv/(qB) = (4e-6 kg * 22 m/s)/((2e-6 C)(0.5 T)) = 8.8e-5/1e-6 = 88 m. No option equals 88 m (0.016, 31.43, 44, 62.86).",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "With v perpendicular to B, r = mv/(qB) = (4e-6 x 22)/((2e-6)(0.5)) = 88e-6/1e-6 = 88 m, which is not among {0.016, 31.43, 44, 62.86} m. The publisher's solution itself evaluates the formula to 88 m and then reverts to r = mv/q = 44 m by dropping the B factor, which is a blatant fudge; 62.86 m would need B = 0.7 T. The item is broken as printed."
   }
  },
  {
@@ -39951,12 +40175,12 @@
    "0.012 m",
    "42 m"
   ],
-  "answer": 3,
+  "answer": 0,
   "accepted": [
-   3
+   0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Radius of a charged particle in a magnetic field",
   "difficulty": "hard",
@@ -39966,7 +40190,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -39979,27 +40203,23 @@
    "solver_correct_index": 0,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 3,
-    "examon_answer_text": "42 m",
-    "solver_answer": 0,
-    "solver_answer_text": "84 m",
-    "solver_correct_text": "",
-    "note": "r = mv/qB = 8.4e-5/1.0e-6 = 84 m.",
-    "solver_2_answer": 0,
-    "solver_2_answer_text": "84 m",
-    "solver_2_correct_text": "",
-    "solver_2_note": "r = mv/(qB) = (3e-6*28)/(2e-6*0.5) = 84 m."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 0,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "r = mv/(qB) = (3e-6*28)/(2e-6*0.5) = 84 m (option A). Examon's key 42 m omitted the B factor.",
    "adjudication_correct_index": 0,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 3,
+   "examon_key": 3,
+   "resolve": {
+    "correct_index": 0,
+    "confidence": "high",
+    "note": "Radius of the circular path for a charge entering perpendicular to a uniform field: r = mv/(qB).",
+    "working": "r = mv/(qB) = (3e-6 kg * 28 m/s)/((2e-6 C)(0.5 T)) = 8.4e-5/1e-6 = 84 m.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -41006,7 +41226,7 @@
    1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Maximum acceleration in SHM",
   "difficulty": "medium",
@@ -41031,7 +41251,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 1,
@@ -41051,7 +41270,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "omega^2 = v^2/(A^2-x^2) = 0.1296/0.0048 = 27, so a_max = omega^2 A = 27 x 0.08 = 2.16 m/s^2; no option matches. Key 2.43 came from an altered v.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "The printed option set does not contain the value the data give: SHM with A = 8 cm, x = 4 cm, v = 0.36 m/s fixes omega^2 = 27 s^-2 and a_max = 2.16 m/s^2, which is not listed (1.62/2.43/3.24/4.86). Option 4.86 would correspond to a speed of 0.54 m/s instead of 0.36 m/s, so the question as printed is broken.",
+    "working": "v^2 = w^2 (A^2 - x^2) -> 0.1296 = w^2 (0.08^2 - 0.04^2) = w^2 (0.0048) -> w^2 = 27 s^-2 (w = 5.196 rad/s). a_max = w^2 A = 27 x 0.08 = 2.16 m/s^2. (For reference a = w^2 x = 1.08 m/s^2 at that point; v_max = wA = 0.416 m/s.)",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "no option carries the correct value; the question is broken as printed"
   }
  },
  {
@@ -41780,7 +42009,7 @@
    3
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Combination of a convex and a concave lens",
   "difficulty": "medium",
@@ -41806,7 +42035,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 3,
@@ -41826,7 +42054,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Contact combo F = -60 cm; 1/v = 1/F + 1/u = -1/30, so v = -30 cm: virtual image 30 cm on object side, not infinity.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 3,
+   "examon_key": 3,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "The combination is diverging (F = -60 cm), so the image must be virtual and on the object side; option 2 has the right magnitude 30 cm but wrongly says 'opposite side', so none of the four options is correct as printed. If the intended key is option 2, the option text contains a 'same/opposite' typo.",
+    "working": "1/F = 1/f1 + 1/f2 = 1/30 + 1/(-20) = (2-3)/60 = -1/60 -> F = -60 cm (diverging). Lens formula 1/v - 1/u = 1/F with u = -60 cm: 1/v = 1/F + 1/u = -1/60 - 1/60 = -1/30 -> v = -30 cm. Negative v = virtual image 30 cm in front of the lens, i.e. on the same side as the object; magnification m = v/u = 0.5. Check by two-step: convex lens f = +30 with u = -60 gives v1 = +60 cm; this acts as a virtual object (u2 = +60) for the concave lens f = -20: 1/v2 = -1/20 + 1/60 = -1/30 -> v2 = -30 cm. (At infinity would require F = +60 cm; '60 cm opposite' would require F = +60 with u = -60; '30 cm opposite' would require a converging F = +20 cm.)",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "no option carries the correct value; the question is broken as printed"
   }
  },
  {
@@ -42605,7 +42843,7 @@
    1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Three-branch node analysis",
   "difficulty": "hard",
@@ -42628,7 +42866,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 1,
@@ -42648,7 +42885,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "KCL: 6(V-6)+4(V-4)+3V = 0 gives 13V = 52, V = 4 V, so I_4ohm = 1.00 A (Thevenin check: 5.2 V / 5.2 ohm = 1 A).",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "Nodal analysis gives exactly 1.0 A, which is not in the option list (1.11/0.89/0.50/1.50); the printed question is broken.",
+    "working": "Let V = V_A - V_B. Cell 1 (6 V, 2 ohm) delivers I1 = (6 - V)/2 into node A; cell 2 (4 V, 3 ohm) delivers I2 = (4 - V)/3; the load current is V/4. KCL at A: (6-V)/2 + (4-V)/3 = V/4 -> 6(6-V) + 4(4-V) = 3V -> 36 - 6V + 16 - 4V = 3V -> 52 = 13V -> V = 4 V. I_load = 4/4 = 1.0 A. Check: I1 = (6-4)/2 = 1 A, I2 = (4-4)/3 = 0 A (the 4 V cell is exactly at its terminal voltage), total 1 A through the 4 ohm resistor. Equivalent-cell view: E_eq = (6/2 + 4/3)/(1/2+1/3) = 5.2 V, r_eq = 1.2 ohm, I = 5.2/(4+1.2) = 1.0 A.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "Nodal analysis is unambiguous: with V = V_A - V_B, (6-V)/2 + (4-V)/3 = V/4 gives 13V = 52, V = 4 V, so the 4 ohm branch carries exactly 1.00 A (Thevenin check: E = 5.2 V, r = 1.2 ohm, I = 5.2/5.2 = 1.0 A). 1.00 A is absent from {1.11, 0.89, 0.50, 1.50}, so the question is broken as printed, and the published key 0.89 A is an arithmetic slip (their own explanation field already states 'Correct Answer D. 1 A')."
   }
  },
  {
@@ -43640,7 +43887,7 @@
    3
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Dipole field-potential relation on axial line",
   "difficulty": "hard",
@@ -43650,7 +43897,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "computed from the textbook formula",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -43660,7 +43907,7 @@
    "notes": "KCET very hard extension; upper-end KCET-style problems built from recurring PYQ archetypes, NCERT formulas, and multi-step chapter combinations.",
    "solver_confidence": "high",
    "solver_correct_index": 3,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
@@ -43677,7 +43924,16 @@
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
    },
-   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
+   "published_key": 3,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": 3,
+    "confidence": "high",
+    "note": "On the axial line of a short dipole, E/V = 2/x, which for x = 0.2 m is 10 m^-1 - exactly the fourth option, so this item is internally consistent.",
+    "working": "Axial point of a short dipole: V = kp/x^2, E = 2kp/x^3, hence E/V = 2/x. With x = 0.2 m: E/V = 2/0.2 = 10 m^-1 (units: (N/C)/(V) = 1/m).",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -43706,7 +43962,7 @@
    1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Dipole field-potential relation on axial line",
   "difficulty": "hard",
@@ -43726,9 +43982,8 @@
    "notes": "KCET very hard extension; upper-end KCET-style problems built from recurring PYQ archetypes, NCERT formulas, and multi-step chapter combinations.",
    "solver_confidence": "high",
    "solver_correct_index": -1,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "no option carries the correct value",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 1,
@@ -43757,7 +44012,17 @@
     "derivation": "E/V = 2/r = 2/0.25 = 8",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "For x = 0.25 m the correct ratio 2/x = 8 m^-1 is absent from the options (12.5, 800, 3200, 400); the printed option set is broken. Note 800 = 200/x and 3200 = 200/x^2 are the generator's distractors and 12.5 = 50x, none of which is 2/x.",
+    "working": "E/V = 2/x for an axial point (V = kp/x^2, E = 2kp/x^3). With x = 0.25 m: E/V = 2/0.25 = 8 m^-1, which is not among the four options.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "no option carries the correct value; the question is broken as printed"
   }
  },
  {
@@ -43786,7 +44051,7 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Dipole field-potential relation on axial line",
   "difficulty": "hard",
@@ -43806,9 +44071,8 @@
    "notes": "KCET very hard extension; upper-end KCET-style problems built from recurring PYQ archetypes, NCERT formulas, and multi-step chapter combinations.",
    "solver_confidence": "high",
    "solver_correct_index": -1,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "no option carries the correct value",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 0,
@@ -43837,7 +44101,17 @@
     "derivation": "E/V = 2/r = 2/0.3 = 6.667",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "For x = 0.3 m the correct ratio 2/x = 6.67 m^-1 is absent from the options (666.67, 2222.22, 15, 333.33); the printed option set is broken (those are 200/x, 200/x^2, 50x and 100/x).",
+    "working": "E/V = 2/x for an axial point (V = kp/x^2, E = 2kp/x^3). With x = 0.3 m: E/V = 2/0.3 = 6.67 m^-1, not among the options.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "no option carries the correct value; the question is broken as printed"
   }
  },
  {
@@ -43866,7 +44140,7 @@
    1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Dipole field-potential relation on axial line",
   "difficulty": "hard",
@@ -43886,9 +44160,8 @@
    "notes": "KCET very hard extension; upper-end KCET-style problems built from recurring PYQ archetypes, NCERT formulas, and multi-step chapter combinations.",
    "solver_confidence": "high",
    "solver_correct_index": -1,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "no option carries the correct value",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 1,
@@ -43917,7 +44190,17 @@
     "derivation": "E/V = 2/r = 2/0.35 = 5.714",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "For x = 0.35 m the correct ratio 2/x = 5.71 m^-1 is absent from the options (285.71, 571.43, 1632.65, 17.5); the printed option set is broken (those are 100/x, 200/x, 200/x^2 and 50x).",
+    "working": "E/V = 2/x for an axial point (V = kp/x^2, E = 2kp/x^3). With x = 0.35 m: E/V = 2/0.35 = 5.71 m^-1, not among the options.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "no option carries the correct value; the question is broken as printed"
   }
  },
  {
@@ -43946,7 +44229,7 @@
    2
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Dipole field-potential relation on axial line",
   "difficulty": "hard",
@@ -43956,7 +44239,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "computed from the textbook formula",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -43966,7 +44249,7 @@
    "notes": "KCET very hard extension; upper-end KCET-style problems built from recurring PYQ archetypes, NCERT formulas, and multi-step chapter combinations.",
    "solver_confidence": "high",
    "solver_correct_index": 2,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
@@ -43983,7 +44266,16 @@
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
    },
-   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
+   "published_key": 2,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": 2,
+    "confidence": "high",
+    "note": "Same physics as examon-kcet-phy-vhard-021 with the options in a different order: for x = 0.2 m, E/V = 2/x = 10 m^-1, which is the third option here.",
+    "working": "Axial point of a short dipole: V = kp/x^2, E = 2kp/x^3, hence E/V = 2/x. With x = 0.2 m: E/V = 2/0.2 = 10 m^-1 (units: (N/C)/(V) = 1/m).",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -44012,7 +44304,7 @@
    3
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Dipole field-potential relation on axial line",
   "difficulty": "hard",
@@ -44032,9 +44324,8 @@
    "notes": "KCET very hard extension; upper-end KCET-style problems built from recurring PYQ archetypes, NCERT formulas, and multi-step chapter combinations.",
    "solver_confidence": "high",
    "solver_correct_index": -1,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "no option carries the correct value",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 3,
@@ -44063,7 +44354,17 @@
     "derivation": "E/V = 2/r = 2/0.25 = 8",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "published_key": 3,
+   "examon_key": 3,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "Same physics as examon-kcet-phy-vhard-022 with the options reordered: for x = 0.25 m, E/V = 2/x = 8 m^-1, which is not among 3200, 12.5, 400, 800; the printed option set is broken.",
+    "working": "E/V = 2/x for an axial point (V = kp/x^2, E = 2kp/x^3). With x = 0.25 m: E/V = 2/0.25 = 8 m^-1, not among the options.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "no option carries the correct value; the question is broken as printed"
   }
  },
  {
@@ -44092,7 +44393,7 @@
    1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Dipole field-potential relation on axial line",
   "difficulty": "hard",
@@ -44112,9 +44413,8 @@
    "notes": "KCET very hard extension; upper-end KCET-style problems built from recurring PYQ archetypes, NCERT formulas, and multi-step chapter combinations.",
    "solver_confidence": "high",
    "solver_correct_index": -1,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "no option carries the correct value",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 1,
@@ -44143,7 +44443,17 @@
     "derivation": "E/V = 2/r = 2/0.3 = 6.667",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "Question as printed is broken: no option equals 2/0.3 = 6.67 m^-1. The listed 666.67 m^-1 equals 2/0.003, i.e. it treats the stated 0.3 as centimetres; the whole option family (200/r, 100/r, 50r) is generated from a cm reading, a factor-100 unit slip. The intended key is most likely option 1 (666.67 m^-1) if the stem should read '0.3 cm'.",
+    "working": "Short dipole on the axial line: V = (1/4*pi*eps0)*p/r^2 and E = (1/4*pi*eps0)*2p/r^3, so E/V = 2/r. With r = 0.3 m: E/V = 2/0.3 = 6.667 m^-1. Options: 2222.22 (=2/0.0009), 666.67 (=2/0.003), 333.33 (=1/0.003), 15 (=50*0.3) — none is 6.67.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "no option carries the correct value; the question is broken as printed"
   }
  },
  {
@@ -44172,7 +44482,7 @@
    1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Dipole field-potential relation on axial line",
   "difficulty": "hard",
@@ -44192,9 +44502,8 @@
    "notes": "KCET very hard extension; upper-end KCET-style problems built from recurring PYQ archetypes, NCERT formulas, and multi-step chapter combinations.",
    "solver_confidence": "high",
    "solver_correct_index": -1,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "no option carries the correct value",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 1,
@@ -44223,7 +44532,17 @@
     "derivation": "E/V = 2/r = 2/0.35 = 5.714",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "Question as printed is broken: none of the options is 2/0.35 = 5.71 m^-1. The option 571.43 m^-1 equals 2/0.0035, i.e. the same statement read with 0.35 cm instead of 0.35 m; options 100/r = 285.71 and 50r = 17.5 share that cm-based family. Intended key is most likely option 1 (571.43 m^-1) if the stem should read '0.35 cm'.",
+    "working": "V = k*p/r^2, E = 2*k*p/r^3 for an axial point of a short dipole, so E/V = 2/r. With r = 0.35 m: E/V = 2/0.35 = 5.714 m^-1. Options: 17.5, 571.43 (=2/0.0035), 285.71 (=1/0.0035), 1632.65 (=1000/0.35 *0.57...) none equals 5.71.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "no option carries the correct value; the question is broken as printed"
   }
  },
  {
@@ -44252,7 +44571,7 @@
    3
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Dipole field-potential relation on axial line",
   "difficulty": "hard",
@@ -44262,7 +44581,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "computed from the textbook formula",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -44272,7 +44591,7 @@
    "notes": "KCET very hard extension; upper-end KCET-style problems built from recurring PYQ archetypes, NCERT formulas, and multi-step chapter combinations.",
    "solver_confidence": "high",
    "solver_correct_index": 3,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
@@ -44289,7 +44608,16 @@
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
    },
-   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
+   "published_key": 3,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": 3,
+    "confidence": "high",
+    "note": "For the printed 0.2 m the dipole relation gives exactly 10 m^-1, which is present. Note the option 1000 m^-1 equals 2/0.002, i.e. it comes from a cm reading of the distance, so this item's option set is unit-inconsistent even though 10 m^-1 is the physically correct value for the stem as printed.",
+    "working": "Short dipole, axial point: V = k*p/r^2, E = 2*k*p/r^3 => E/V = 2/r = 2/0.2 = 10 m^-1, which matches option 3.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -44318,7 +44646,7 @@
    2
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Dipole field-potential relation on axial line",
   "difficulty": "hard",
@@ -44338,9 +44666,8 @@
    "notes": "KCET very hard extension; upper-end KCET-style problems built from recurring PYQ archetypes, NCERT formulas, and multi-step chapter combinations.",
    "solver_confidence": "high",
    "solver_correct_index": -1,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "no option carries the correct value",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 2,
@@ -44369,7 +44696,17 @@
     "derivation": "E/V = 2/r = 2/0.25 = 8",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "published_key": 2,
+   "examon_key": 2,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "Question as printed is broken: no option equals 2/0.25 = 8 m^-1. The listed 800 m^-1 equals 2/0.0025 (0.25 cm reading) and 400 m^-1 equals 1/0.0025; 12.5 = 50*0.25. Intended key is most likely option 2 (800 m^-1) if the stem should read '0.25 cm'.",
+    "working": "E/V = 2/r for a short dipole on its axial line (E = 2kp/r^3, V = kp/r^2). With r = 0.25 m: E/V = 2/0.25 = 8 m^-1. Options: 3200, 400 (=1/0.0025), 800 (=2/0.0025), 12.5 — none is 8.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "no option carries the correct value; the question is broken as printed"
   }
  },
  {
@@ -44443,12 +44780,12 @@
    "480 C/kg",
    "1600 C/kg"
   ],
-  "answer": 3,
+  "answer": 1,
   "accepted": [
-   3
+   1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Velocity selector followed by circular motion",
   "difficulty": "hard",
@@ -44458,7 +44795,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -44471,27 +44808,23 @@
    "solver_correct_index": 1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 3,
-    "examon_answer_text": "1600 C/kg",
-    "solver_answer": 1,
-    "solver_answer_text": "3200 C/kg",
-    "solver_correct_text": "",
-    "note": "q/m = E/(B^2 r) = 120/(0.25x0.15) = 3200 C/kg, option B.",
-    "solver_2_answer": 1,
-    "solver_2_answer_text": "3200 C/kg",
-    "solver_2_correct_text": "",
-    "solver_2_note": "v = E/B = 120/0.5 = 240 m/s; q/m = v/(Br) = 240/(0.5x0.15) = 3200 C/kg."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 1,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "v = E/B = 240 m/s; q/m = v/(Br) = 240/(0.5*0.15) = 3200 C/kg, option B. Examon's key 1600 forgets factor B.",
    "adjudication_correct_index": 1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 3,
+   "examon_key": 3,
+   "resolve": {
+    "correct_index": 1,
+    "confidence": "high",
+    "note": "Velocity selector fixes v = E/B; in the second (same) field, r = mv/(qB) gives q/m = v/(rB) = 3200 C/kg, matching option 1. Distractors 1600 (v/r) and 480 (v/B) come from missing factors of B and r.",
+    "working": "Undeflected in crossed fields: qE = qvB => v = E/B = 120/0.5 = 240 m/s. Circular motion: qvB = mv^2/r => q/m = v/(rB) = 240/(0.15 x 0.5) = 240/0.075 = 3200 C/kg.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -44515,12 +44848,12 @@
    "1944.44 C/kg",
    "1166.67 C/kg"
   ],
-  "answer": 3,
+  "answer": 2,
   "accepted": [
-   3
+   2
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Velocity selector followed by circular motion",
   "difficulty": "hard",
@@ -44530,7 +44863,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": false,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -44545,27 +44878,23 @@
    "solver_correct_index": 2,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 3,
-    "examon_answer_text": "1166.67 C/kg",
-    "solver_answer": 2,
-    "solver_answer_text": "1944.44 C/kg",
-    "solver_correct_text": "",
-    "note": "q/m = E/(B^2 r) = 140/(0.36x0.2) = 1944.44 C/kg, option C.",
-    "solver_2_answer": 2,
-    "solver_2_answer_text": "1944.44 C/kg",
-    "solver_2_correct_text": "",
-    "solver_2_note": "v = 140/0.6 = 233.33 m/s; q/m = v/(Br) = 233.33/(0.6x0.2) = 1944.44 C/kg."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 2,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "v = 140/0.6 = 233.3 m/s; q/m = v/(Br) = 233.3/(0.6*0.2) = 1944.44 C/kg, option C. Examon's key 1166.67 omits B.",
    "adjudication_correct_index": 2,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 3,
+   "examon_key": 3,
+   "resolve": {
+    "correct_index": 2,
+    "confidence": "high",
+    "note": "Straightforward two-step: v = E/B then q/m = v/(rB) = 1944.44 C/kg. The option 1166.67 C/kg is the error of using E instead of v in the second step; 972.22 C/kg drops a factor of 2.",
+    "working": "v = E/B = 140/0.6 = 233.33 m/s. Then q/m = v/(rB) = 233.33/(0.2 x 0.6) = 233.33/0.12 = 1944.44 C/kg.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -44942,12 +45271,12 @@
    "3422.4 W",
    "1210 W"
   ],
-  "answer": 0,
+  "answer": 3,
   "accepted": [
-   0
+   3
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Average power in series LCR circuit",
   "difficulty": "hard",
@@ -44957,7 +45286,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": false,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -44972,27 +45301,23 @@
    "solver_correct_index": 3,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 0,
-    "examon_answer_text": "605 W",
-    "solver_answer": 3,
-    "solver_answer_text": "1210 W",
-    "solver_correct_text": "",
-    "note": "Z^2 = 20^2 + 20^2 = 800; P = 220^2 x 20/800 = 1210 W, option D.",
-    "solver_2_answer": 3,
-    "solver_2_answer_text": "1210 W",
-    "solver_2_correct_text": "",
-    "solver_2_note": "X = 25-5 = 20 ohm, Z = 20 sqrt2, I = 7.778 A, P = I^2 R = 1210 W."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 3,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "X = 25-5 = 20 ohm, Z^2 = 400+400 = 800; P = 220^2*20/800 = 1210 W, option D. Examon's 605 wrongly used Z=40.",
    "adjudication_correct_index": 3,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": 3,
+    "confidence": "high",
+    "note": "Only the resistance dissipates average power: P = I_rms^2 R with Z = sqrt(R^2 + (X_L - X_C)^2) = 28.28 ohm, giving 1210 W. The option 3422.4 W comes from omitting the power factor.",
+    "working": "X = X_L - X_C = 25 - 5 = 20 ohm; Z = sqrt(20^2 + 20^2) = 28.28 ohm; I_rms = 220/28.28 = 7.778 A; P = I^2 R = 7.778^2 x 20 = 60.51 x 20 = 1210 W. (Check: P = V I cos(phi) = 220 x 7.778 x 20/28.28 = 1210 W.)",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -49006,7 +49331,7 @@
    3
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Dipole field-potential relation on axial line",
   "difficulty": "hard",
@@ -49016,7 +49341,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "computed from the textbook formula",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -49026,7 +49351,7 @@
    "notes": "KCET very hard extension; upper-end KCET-style problems built from recurring PYQ archetypes, NCERT formulas, and multi-step chapter combinations.",
    "solver_confidence": "high",
    "solver_correct_index": 3,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
@@ -49043,7 +49368,16 @@
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
    },
-   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
+   "published_key": 3,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": 3,
+    "confidence": "high",
+    "note": "For the printed 0.2 m the dipole relation gives exactly 10 m^-1, present as the last option. The option 1000 m^-1 equals 2/0.002 (a cm reading of the distance), so the option set is unit-inconsistent even though 10 m^-1 is correct for the stem as printed.",
+    "working": "Short dipole, axial point: V = k*p/r^2, E = 2*k*p/r^3 => E/V = 2/r = 2/0.2 = 10 m^-1, matching option 3.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -49072,7 +49406,7 @@
    1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Dipole field-potential relation on axial line",
   "difficulty": "hard",
@@ -49092,9 +49426,8 @@
    "notes": "KCET very hard extension; upper-end KCET-style problems built from recurring PYQ archetypes, NCERT formulas, and multi-step chapter combinations.",
    "solver_confidence": "high",
    "solver_correct_index": -1,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "no option carries the correct value",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 1,
@@ -49123,7 +49456,17 @@
     "derivation": "E/V = 2/r = 2/0.25 = 8",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "Question as printed is broken: none of the options equals 2/0.25 = 8 m^-1. Option 800 m^-1 = 2/0.0025 (0.25 cm reading), 400 m^-1 = 1/0.0025, 3200 m^-1 and 12.5 m^-1 (=50*0.25) are from the same generated family. Intended key is most likely option 1 (800 m^-1) if the stem should read '0.25 cm'.",
+    "working": "E/V = 2/r for a short dipole on its axial line. With r = 0.25 m: E/V = 2/0.25 = 8 m^-1. Options: 400, 800 (=2/0.0025), 3200, 12.5 — none is 8.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "no option carries the correct value; the question is broken as printed"
   }
  },
  {
@@ -49152,7 +49495,7 @@
    1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Dipole field-potential relation on axial line",
   "difficulty": "hard",
@@ -49172,9 +49515,8 @@
    "notes": "KCET very hard extension; upper-end KCET-style problems built from recurring PYQ archetypes, NCERT formulas, and multi-step chapter combinations.",
    "solver_confidence": "high",
    "solver_correct_index": -1,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "no option carries the correct value",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 1,
@@ -49203,7 +49545,17 @@
     "derivation": "E/V = 2/r = 2/0.3 = 6.667",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "Question as printed is broken: no option equals 2/0.3 = 6.67 m^-1. The listed 666.67 m^-1 = 2/0.003 treats the stated 0.3 as centimetres; the whole option family (200/r, 100/r, 50r) is cm-based, a factor-100 unit slip. Intended key is most likely option 1 (666.67 m^-1) if the stem should read '0.3 cm'.",
+    "working": "Short dipole axial point: V = k*p/r^2, E = 2*k*p/r^3 => E/V = 2/r. With r = 0.3 m: E/V = 2/0.3 = 6.667 m^-1. Options: 2222.22, 666.67 (=2/0.003), 15 (=50*0.3), 333.33 (=1/0.003) — none is 6.67.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "no option carries the correct value; the question is broken as printed"
   }
  },
  {
@@ -49232,7 +49584,7 @@
    2
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Dipole field-potential relation on axial line",
   "difficulty": "hard",
@@ -49252,9 +49604,8 @@
    "notes": "KCET very hard extension; upper-end KCET-style problems built from recurring PYQ archetypes, NCERT formulas, and multi-step chapter combinations.",
    "solver_confidence": "high",
    "solver_correct_index": -1,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "no option carries the correct value",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 2,
@@ -49283,7 +49634,17 @@
     "derivation": "E/V = 2/r = 2/0.35 = 5.714",
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
-   }
+   },
+   "published_key": 2,
+   "examon_key": 2,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "As printed, E/V = 2/r = 5.71 m$^{-1}$, which no option matches; option 3 (571.43 m$^{-1}$) would be right only for r = 3.5 mm (= 0.35 cm), so the stem's '0.35 m' looks like a unit slip.",
+    "working": "Axial line: V = (1/4πε₀)(p/r²), E = (1/4πε₀)(2p/r³) => E/V = 2/r = 2/0.35 = 5.71 m⁻¹. Options (1632.65, 285.71, 571.43, 17.5) contain no such value: 285.71 = 1/0.0035, 571.43 = 2/0.0035, 1632.65 = 2/0.35² × 100, 17.5 = 50×0.35.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "no option carries the correct value; the question is broken as printed"
   }
  },
  {
@@ -49312,7 +49673,7 @@
    2
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Dipole field-potential relation on axial line",
   "difficulty": "hard",
@@ -49322,7 +49683,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "computed from the textbook formula",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the published key)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -49332,7 +49693,7 @@
    "notes": "KCET very hard extension; upper-end KCET-style problems built from recurring PYQ archetypes, NCERT formulas, and multi-step chapter combinations.",
    "solver_confidence": "high",
    "solver_correct_index": 2,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "agree",
    "external_check": {
     "source": "NCERT metre-bridge balance condition R/S = l/(100-l); derivations at CBSE Tuts, Shaalaa (CISCE) and GeeksforGeeks",
@@ -49342,7 +49703,15 @@
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
    },
-   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
+   "published_key": 2,
+   "examon_key": 2,
+   "resolve": {
+    "correct_index": 2,
+    "confidence": "high",
+    "note": "Decisive step: on the axial line of a dipole V ∝ 1/r² and E ∝ 2/r³, so E/V = 2/r exactly.",
+    "working": "E/V = 2/r = 2/0.2 = 10 m⁻¹ (E = 2kp/r³, V = kp/r²).",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   }
   }
  },
  {
@@ -49524,7 +49893,7 @@
    3
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Dipole field-potential relation on axial line",
   "difficulty": "hard",
@@ -49534,7 +49903,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "computed from the textbook formula",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the published key)",
    "examon_verified": true,
    "examon_audit_confidence": 0.98,
    "examon_audit_model": "gpt-5.4",
@@ -49545,7 +49914,7 @@
    "examon_repair_note": "Kept stem/options; corrected answerIndex from 2 to 3.",
    "solver_confidence": "high",
    "solver_correct_index": 3,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "agree",
    "external_check": {
     "source": "NCERT metre-bridge balance condition R/S = l/(100-l); derivations at CBSE Tuts, Shaalaa (CISCE) and GeeksforGeeks",
@@ -49555,7 +49924,15 @@
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
    },
-   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
+   "published_key": 3,
+   "examon_key": 3,
+   "resolve": {
+    "correct_index": 3,
+    "confidence": "high",
+    "note": "Same dipole relation as the axial-line item with r = 0.2 m: E/V = 2/r.",
+    "working": "E/V = 2/r = 2/0.2 = 10 m⁻¹.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   }
   }
  },
  {
@@ -49584,7 +49961,7 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Dipole field-potential relation on axial line",
   "difficulty": "hard",
@@ -49594,7 +49971,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "computed from the textbook formula",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the published key)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -49605,7 +49982,7 @@
    "examon_repair_note": "Replaced broken options to include the correct value and set answerIndex accordingly.",
    "solver_confidence": "high",
    "solver_correct_index": 0,
-   "verified_at": "2026-11-04T18:13:10Z",
+   "verified_at": "2026-11-10T15:35:54Z",
    "first_pass_verdict": "agree",
    "external_check": {
     "source": "NCERT metre-bridge balance condition R/S = l/(100-l); derivations at CBSE Tuts, Shaalaa (CISCE) and GeeksforGeeks",
@@ -49615,7 +49992,15 @@
     "note": "Examon's hard-batch key uses the inverted formula S = R*l/(100-l), i.e. it reads the balance length from the other end. Examon's own core-bank items use the correct convention (they key 7.5, 2.67 and 6 ohm for the same kind of question), so the hard batch is inconsistent with the rest of the bank.",
     "checked_on": "2026-11-04"
    },
-   "status_reason": "strict rule: solver and original key did not agree (computed from the textbook formula); corrected answer kept for review"
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": 0,
+    "confidence": "high",
+    "note": "E/V = 2/r on the axial line; with r = 0.25 m this is 8 m$^{-1}$.",
+    "working": "E/V = 2/r = 2/0.25 = 8 m⁻¹.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   }
   }
  },
  {

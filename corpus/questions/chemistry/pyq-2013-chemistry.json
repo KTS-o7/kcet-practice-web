@@ -2260,7 +2260,7 @@
    1
   ],
   "images": [],
-  "status": "verified",
+  "status": "dropped",
   "in_syllabus": true,
   "checks": {
    "key_official": true,
@@ -2269,7 +2269,8 @@
    "notes": "",
    "solver_agrees": [
     "haiku"
-   ]
+   ],
+   "status_reason": "duplicate of pyq-2008-chemistry-116"
   }
  }
 ]

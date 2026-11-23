@@ -666,20 +666,34 @@
    "$-1 \\le x < \\frac{1}{\\sqrt{2}}$",
    "$x > 0$"
   ],
-  "answer": 0,
+  "answer": 2,
   "accepted": [
-   0
+   2
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "checks": {
    "key_official": false,
    "blind_haiku": 2,
    "verify": "disputed",
    "notes": "Key image clearly prints 37. A, but cos^-1 x > sin^-1 x <=> sin^-1 x < pi/4 <=> -1 <= x < 1/sqrt2 which is (C); (A) gives the reverse inequality. Transcription verified against page image; printed key appears to be an NCERT error.",
-   "solver_agrees": [],
-   "status_reason": "blind solver and key disagree"
+   "key_override": {
+    "reason": "Paper page p-22 image confirms the options, and the key cell on page 289 reads '37. A' (alignment proven by 32-36 matching). A states the reverse inequality: since cos^-1 x + sin^-1 x = pi/2, the condition cos^-1 x > sin^-1 x means cos^-1 x > pi/4, and cos^-1 is decreasing, so x < 1/sqrt2; with the domain x in [-1,1] the answer is -1 <= x < 1/sqrt2 = option C.",
+    "published_key": [
+     0
+    ]
+   },
+   "solver_agrees": [
+    "haiku",
+    "sonnet",
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 2,
+    "confidence": "high",
+    "note": "blind resolve confirmed the corrected answer"
+   }
   }
  }
 ]

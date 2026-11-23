@@ -20,20 +20,34 @@
    "$\\frac{3}{7}$",
    "none of these"
   ],
-  "answer": 0,
+  "answer": 1,
   "accepted": [
-   0
+   1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "checks": {
    "key_official": false,
    "blind_haiku": 1,
    "verify": "disputed",
    "notes": "Key image prints A (1/7), read correctly; but non-leap year has 52 weeks + 1 extra day, 53 Tue or Wed iff extra day is Tue or Wed = 2/7 (B); printed key is wrong.",
-   "solver_agrees": [],
-   "status_reason": "blind solver and key disagree"
+   "key_override": {
+    "reason": "Key cell 18. A is read correctly on page 320 (alignment proven by 19. B = 187/190 matching the printed question), but A is wrong: 365 = 52*7+1, so exactly one weekday occurs 53 times - the weekday of 1 January - and '53 Tuesdays or 53 Wednesdays' is the union of two mutually exclusive cases, each of probability 1/7, giving 2/7 = option B.",
+    "published_key": [
+     0
+    ]
+   },
+   "solver_agrees": [
+    "haiku",
+    "sonnet",
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 1,
+    "confidence": "high",
+    "note": "blind resolve confirmed the corrected answer"
+   }
   }
  },
  {

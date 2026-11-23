@@ -96,20 +96,34 @@
    "$y < x < 0$",
    "$y > x > 0$"
   ],
-  "answer": 1,
+  "answer": 2,
   "accepted": [
-   1
+   2
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "checks": {
    "key_official": false,
    "blind_haiku": 2,
    "verify": "disputed",
    "notes": "Printed key says B (x<y<0), but zbar/z=(x^2-y^2-2ixy)/|z|^2 needs x^2<y^2 and xy>0 with x,y<0, i.e. y<x<0 (C); B gives |x|>|y| so real part positive (4th quadrant). NCERT key erratum; transcription and key reading both verified.",
-   "solver_agrees": [],
-   "status_reason": "blind solver and key disagree"
+   "key_override": {
+    "reason": "Transcription verified against paper page p-23 (Q37) and the key cell on page 308 reads '37. B', but B is wrong: zbar/z = (x^2-y^2-2ixy)/(x^2+y^2) is in the third quadrant only when x^2<y^2 (with x,y<0 giving xy>0 automatically), i.e. y<x<0 = option C. Counterexample for B: z=-2-i gives zbar/z=(3-4i)/5, a fourth-quadrant point; textbook solutions and Math StackExchange confirm C.",
+    "published_key": [
+     1
+    ]
+   },
+   "solver_agrees": [
+    "haiku",
+    "sonnet",
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 2,
+    "confidence": "high",
+    "note": "blind resolve confirmed the corrected answer"
+   }
   }
  },
  {

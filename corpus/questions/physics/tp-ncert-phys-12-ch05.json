@@ -63,15 +63,21 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "checks": {
    "key_official": false,
    "blind_haiku": 2,
    "verify": "key_confirmed",
    "notes": "Transcription matches page 1-2; key page reads 5.2 (a). My pick (b) is also physically true, but the question is single-answer and the NCERT key says (a); not clearly wrong, keep key.",
-   "solver_agrees": [],
-   "status_reason": "blind solver and key disagree"
+   "solver_agrees": [
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 0,
+    "confidence": "high",
+    "note": "blind resolve confirmed the paper's key"
+   }
   }
  },
  {

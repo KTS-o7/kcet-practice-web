@@ -133,20 +133,34 @@
    "$\\frac{E}{\\sqrt{2}}$",
    "$\\sqrt{2}E$"
   ],
-  "answer": 3,
+  "answer": 2,
   "accepted": [
-   3
+   2
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "checks": {
    "key_official": false,
    "blind_haiku": 2,
    "verify": "disputed",
    "notes": "Key image reads 8.4 (d) (confirmed). Transcription matches page. I proportional to P and E^2, so E scales as sqrt(P): 50 W gives E/sqrt2, option (c); key's sqrt2 E is wrong.",
-   "solver_agrees": [],
-   "status_reason": "blind solver and key disagree"
+   "key_override": {
+    "reason": "The answers page (key image k0-40, p.145) is read correctly as \"8.4 (d)\", but (d) is physically impossible: halving the bulb power at fixed distance must reduce the field, never increase it, and √2E would require a 200 W bulb. With I = P/(4πr²) and I = ½cε₀E₀², E₀ ∝ √P, so E₅₀ = E·√(50/100) = E/√2, i.e. option (c); NCERT's own published solutions (Vedantu/Inspireup/Byjus) also give (c), so the printed answers-list cell is a typo. Transcription of stem and options verified against paper page 48 (all four options match).",
+    "published_key": [
+     3
+    ]
+   },
+   "solver_agrees": [
+    "haiku",
+    "sonnet",
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 2,
+    "confidence": "high",
+    "note": "blind resolve confirmed the corrected answer"
+   }
   }
  },
  {

@@ -400,20 +400,28 @@
    "$x > y$",
    "$x < y$"
   ],
-  "answer": 2,
+  "answer": 3,
   "accepted": [
-   2
+   3
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "checks": {
    "key_official": false,
    "blind_haiku": 3,
    "verify": "disputed",
    "notes": "Key (iii) x>y read correctly from image; but (a) is reverse atomisation of CH4 (about -1665 kJ/mol) vs formation y (about -75), so x<y; printed key justification only holds for magnitudes.",
-   "solver_agrees": [],
-   "status_reason": "blind solver and key disagree"
+   "key_override": {
+    "reason": "The printed options (i) x=y (ii) x=2y (iii) x>y (iv) x<y are transcribed correctly and the book's ANSWERS page gives 11. (iii), but that key is wrong for signed Delta_rH values: reaction (a) needs no bond broken while (b) must break 2 H-H bonds, so (a) is far more exothermic and x is the more negative number, i.e. x < y. The book's own justification ('bonds between reactant molecules are broken only in reaction (b)') points the same way; (iii) holds only for magnitudes.",
+    "published_key": [
+     2
+    ]
+   },
+   "solver_agrees": [
+    "haiku",
+    "sonnet"
+   ]
   }
  },
  {

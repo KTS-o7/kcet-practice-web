@@ -818,20 +818,34 @@
    "zero",
    "neither maximum nor minimum."
   ],
-  "answer": 0,
+  "answer": 3,
   "accepted": [
-   0
+   3
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "checks": {
    "key_official": false,
    "blind_haiku": 3,
    "verify": "disputed",
    "notes": "Transcription and key reading both confirmed (key says A). But f'(5pi/6)=6cos(5pi/2)-9sin(5pi/2)=-9 != 0, so not a stationary point: neither max nor min (D); the printed key (maximum) is wrong for the question as printed.",
-   "solver_agrees": [],
-   "status_reason": "blind solver and key disagree"
+   "key_override": {
+    "reason": "Paper page p-25 image confirms 'At x = 5pi/6, f(x) = 2 sin 3x + 3 cos 3x is:' and the key cell on page 295 reads '56. A' (alignment proven by 52-55 matching). A is wrong: f'(5pi/6) = 6cos(5pi/2) - 9sin(5pi/2) = 0 - 9 = -9 != 0, so the point is not stationary and is neither a maximum nor a minimum; f(5pi/6) = 2 != 0 so it is not zero either. Option D is correct.",
+    "published_key": [
+     0
+    ]
+   },
+   "solver_agrees": [
+    "haiku",
+    "sonnet",
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 3,
+    "confidence": "high",
+    "note": "blind resolve confirmed the corrected answer"
+   }
   }
  },
  {

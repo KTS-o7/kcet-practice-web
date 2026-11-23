@@ -823,15 +823,21 @@
    1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": false,
   "checks": {
    "key_official": true,
    "blind_haiku": 2,
    "verify": "disputed",
    "notes": "Key cell A1 Q22 read correctly as 2 (800-1000 C); transcription exact. Standard textbook: slag formation zone is 1200-1500 C, 800-1000 C is lower reduction zone; some sources differ, so key may follow a different textbook.",
-   "solver_agrees": [],
-   "status_reason": "blind solver and key disagree"
+   "solver_agrees": [
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 1,
+    "confidence": "high",
+    "note": "blind resolve confirmed the paper's key"
+   }
   }
  },
  {

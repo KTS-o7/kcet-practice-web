@@ -2087,15 +2087,21 @@
    1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "checks": {
    "key_official": true,
    "blind_haiku": 0,
    "verify": "disputed",
    "notes": "Key B2 cell reads 2 (Cr>Mn) confirmed; but NCERT mp values (V 2183 K > Cr 2180 K) also make A true, so two options are defensible; key choice B may rest on other data (Cr 1907 C > V 1890 C).",
-   "solver_agrees": [],
-   "status_reason": "blind solver and key disagree"
+   "solver_agrees": [
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 1,
+    "confidence": "high",
+    "note": "blind resolve confirmed the paper's key"
+   }
   }
  },
  {

@@ -2109,20 +2109,34 @@
    "3",
    "4"
   ],
-  "answer": 1,
+  "answer": 2,
   "accepted": [
-   1
+   2
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "checks": {
    "key_official": true,
    "blind_haiku": 2,
    "verify": "disputed",
    "notes": "Key cell re-read as 2 (confirmed on image) and transcription exact, but insulin has 3 disulphide linkages (2 inter-chain, 1 intra-chain in A), so option 3; key appears wrong.",
-   "solver_agrees": [],
-   "status_reason": "blind solver and key disagree"
+   "key_override": {
+    "reason": "Insulin carries three disulphide bridges (two inter-chain A7-B7 and A20-B19, plus one intra-chain A6-A11), so option 3 is the correct answer and the official key cell (A1 Q116 = 2) is simply wrong. I re-read the key image (k0-2.png, Q116 = 2) and the paper page (p-13.png), which prints the stem and options 1) 1  2) 2  3) 3  4) 4 exactly as transcribed.",
+    "published_key": [
+     1
+    ]
+   },
+   "solver_agrees": [
+    "haiku",
+    "sonnet",
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 2,
+    "confidence": "high",
+    "note": "blind resolve confirmed the corrected answer"
+   }
   }
  },
  {

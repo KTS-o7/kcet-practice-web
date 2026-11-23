@@ -745,20 +745,34 @@
    "$i_\\mathrm{A} = i_\\mathrm{B} = i_\\mathrm{C}$",
    "$i_\\mathrm{A} < i_\\mathrm{B} > i_\\mathrm{C}$"
   ],
-  "answer": 2,
+  "answer": 0,
   "accepted": [
-   2
+   0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "checks": {
    "key_official": false,
    "blind_haiku": 0,
    "verify": "disputed",
    "notes": "Key (iii) i_A=i_B=i_C is wrong: NaCl dissociation increases on dilution so i rises, iA<iB<iC (option i). Transcription and key reading verified.",
-   "solver_agrees": [],
-   "status_reason": "blind solver and key disagree"
+   "key_override": {
+    "reason": "For NaCl i = 1 + (v-1)alpha = 1 + alpha, and alpha rises on dilution because interionic attraction falls; NCERT's own Table 2.4 gives i = 1.87 / 1.94 / 1.97 at 0.1 / 0.01 / 0.001 m for exactly these concentrations, so iA < iB < iC (option i). The printed key (iii) assumes complete dissociation (i = 2) at all concentrations and contradicts NCERT's own table; the identical item in JEE Main 2024 (01 Feb, shift 1) is keyed option (1) iA < iB < iC.",
+    "published_key": [
+     2
+    ]
+   },
+   "solver_agrees": [
+    "haiku",
+    "sonnet",
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 0,
+    "confidence": "high",
+    "note": "blind resolve confirmed the corrected answer"
+   }
   }
  },
  {
@@ -860,20 +874,33 @@
    "vapour pressure of solution decreases because less number of molecules of only one of the liquids escape from the solution.",
    "A–B interactions are weaker than those between A–A or B–B."
   ],
-  "answer": 0,
+  "answer": 3,
   "accepted": [
-   0
+   3
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "checks": {
    "key_official": false,
    "blind_haiku": 1,
    "verify": "disputed",
    "notes": "Key (i) A-B stronger is wrong: minimum boiling azeotrope arises from positive deviation, i.e. weaker A-B interactions (option iv). Transcription and key reading verified.",
-   "solver_agrees": [],
-   "status_reason": "blind solver and key disagree"
+   "key_override": {
+    "reason": "A minimum-boiling azeotrope arises from positive deviation from Raoult's law, which requires the A-B interactions to be weaker than A-A and B-B, option (iv). The printed key (i) states the opposite and is the condition for a maximum-boiling (negative-deviation) azeotrope; universally accepted solution for this NCERT item is (iv).",
+    "published_key": [
+     0
+    ]
+   },
+   "solver_agrees": [
+    "sonnet",
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 3,
+    "confidence": "high",
+    "note": "blind resolve confirmed the corrected answer"
+   }
   }
  },
  {
@@ -935,20 +962,34 @@
    "At specific composition methanol-acetone mixture will form minimum boiling azeotrope and will show negative deviation from Raoult’s law.",
    "At specific composition methanol-acetone mixture will form maximum boiling azeotrope and will show negative deviation from Raoult’s law."
   ],
-  "answer": 1,
+  "answer": 0,
   "accepted": [
-   1
+   0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "checks": {
    "key_official": false,
    "blind_haiku": 0,
    "verify": "disputed",
    "notes": "Key (ii) maximum boiling with positive deviation is self-contradictory; positive deviation gives minimum boiling azeotrope (option i). Transcription and key reading verified.",
-   "solver_agrees": [],
-   "status_reason": "blind solver and key disagree"
+   "key_override": {
+    "reason": "Breaking methanol-methanol hydrogen bonds weakens the like-molecule forces, so the mixture deviates positively from Raoult's law and shows a minimum-boiling azeotrope, option (i). The printed key (ii) is self-contradictory (maximum boiling together with positive deviation is impossible) and is the only option the key cell points to.",
+    "published_key": [
+     1
+    ]
+   },
+   "solver_agrees": [
+    "haiku",
+    "sonnet",
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 0,
+    "confidence": "high",
+    "note": "blind resolve confirmed the corrected answer"
+   }
   }
  },
  {

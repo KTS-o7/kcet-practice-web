@@ -438,17 +438,26 @@
    "$d$-block",
    "$f$-block"
   ],
-  "answer": -1,
-  "accepted": [],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": false,
   "checks": {
    "key_official": false,
    "blind_haiku": null,
    "verify": "agreed",
    "notes": "",
-   "status_reason": "several sub-questions share one printed number; key mapping ambiguous"
+   "solver_agrees": [
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 2,
+    "confidence": "high",
+    "note": "blind resolve confirmed the paper's key"
+   }
   }
  },
  {
@@ -472,17 +481,26 @@
    "$4f^{14}\\,5d^{10}\\,6s^2\\,6p^6$",
    "$4f^{14}\\,5d^{10}\\,6s^2\\,6p^4$"
   ],
-  "answer": -1,
-  "accepted": [],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": false,
   "checks": {
    "key_official": false,
    "blind_haiku": null,
    "verify": "agreed",
    "notes": "",
-   "status_reason": "several sub-questions share one printed number; key mapping ambiguous"
+   "solver_agrees": [
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 2,
+    "confidence": "high",
+    "note": "blind resolve confirmed the paper's key"
+   }
   }
  },
  {
@@ -506,17 +524,26 @@
    "126",
    "102"
   ],
-  "answer": -1,
-  "accepted": [],
+  "answer": 2,
+  "accepted": [
+   2
+  ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": false,
   "checks": {
    "key_official": false,
    "blind_haiku": null,
    "verify": "agreed",
    "notes": "",
-   "status_reason": "several sub-questions share one printed number; key mapping ambiguous"
+   "solver_agrees": [
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 2,
+    "confidence": "high",
+    "note": "blind resolve confirmed the paper's key"
+   }
   }
  },
  {
@@ -540,17 +567,26 @@
    "$1s^2\\,2s^2\\,2p^6\\,3s^2\\,3p^6\\,3d^6\\,4s^2$",
    "$1s^2\\,2s^2\\,2p^6\\,3s^2\\,3p^6\\,3d^7\\,4s^2$"
   ],
-  "answer": -1,
-  "accepted": [],
+  "answer": 0,
+  "accepted": [
+   0
+  ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": false,
   "checks": {
    "key_official": false,
    "blind_haiku": null,
    "verify": "agreed",
    "notes": "",
-   "status_reason": "several sub-questions share one printed number; key mapping ambiguous"
+   "solver_agrees": [
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 0,
+    "confidence": "high",
+    "note": "blind resolve confirmed the paper's key"
+   }
   }
  },
  {
@@ -574,17 +610,26 @@
    "heavy metals",
    "light metals"
   ],
-  "answer": -1,
-  "accepted": [],
+  "answer": 1,
+  "accepted": [
+   1
+  ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": false,
   "checks": {
    "key_official": false,
    "blind_haiku": null,
    "verify": "agreed",
    "notes": "",
-   "status_reason": "several sub-questions share one printed number; key mapping ambiguous"
+   "solver_agrees": [
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 1,
+    "confidence": "high",
+    "note": "blind resolve confirmed the paper's key"
+   }
   }
  },
  {

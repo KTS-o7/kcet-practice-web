@@ -2039,7 +2039,7 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "checks": {
    "key_official": true,
@@ -2047,8 +2047,14 @@
    "verify": "disputed",
    "notes": "Key cell A4 re-read as 1 (option A, total energy) and transcription is exact; but P = (2/3)(N/V)<KE> so average kinetic energy (B) is the direct answer (for an ideal gas total energy = KE too, so A is also arguable); third-party solution on the paper page also says B.",
    "proofread": "matched_ok",
-   "solver_agrees": [],
-   "status_reason": "blind solver and key disagree"
+   "solver_agrees": [
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 0,
+    "confidence": "high",
+    "note": "blind resolve confirmed the paper's key"
+   }
   }
  },
  {

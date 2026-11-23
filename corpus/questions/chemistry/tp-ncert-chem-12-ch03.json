@@ -559,15 +559,21 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "checks": {
    "key_official": false,
    "blind_haiku": 3,
    "verify": "disputed",
    "notes": "Key reads (i) correctly, but on charging (electrolytic mode) the Pb plate is the cathode where PbSO4 is reduced to Pb; (i) calls it anode, which is wrong in electrolytic convention (known NCERT key issue).",
-   "solver_agrees": [],
-   "status_reason": "blind solver and key disagree"
+   "solver_agrees": [
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 0,
+    "confidence": "high",
+    "note": "blind resolve confirmed the paper's key"
+   }
   }
  },
  {
@@ -634,15 +640,21 @@
    1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "checks": {
    "key_official": false,
    "blind_haiku": 3,
    "verify": "disputed",
    "notes": "Key reads (ii) correctly, but Cl- oxidation (iv) is the actual anode reaction in brine electrolysis; the book's own answer to Q34 says Cl- is oxidised instead of water due to O2 overpotential.",
-   "solver_agrees": [],
-   "status_reason": "blind solver and key disagree"
+   "solver_agrees": [
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 1,
+    "confidence": "high",
+    "note": "blind resolve confirmed the paper's key"
+   }
   }
  }
 ]

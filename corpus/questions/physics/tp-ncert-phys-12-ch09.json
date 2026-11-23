@@ -371,15 +371,21 @@
    3
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "checks": {
    "key_official": false,
    "blind_haiku": 1,
    "verify": "disputed",
    "notes": "Key (d) is printed in the answer file, but (a) is also true (60+5=65 km/h) and the question says 'statement(s) is/are correct', so it has more than one correct option; single-answer use is unsafe.",
-   "solver_agrees": [],
-   "status_reason": "blind solver and key disagree"
+   "solver_agrees": [
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 3,
+    "confidence": "high",
+    "note": "blind resolve confirmed the paper's key"
+   }
   }
  },
  {

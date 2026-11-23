@@ -1332,15 +1332,21 @@
   "images": [
    "pyq-2021-physics-035.png"
   ],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "checks": {
    "key_official": true,
    "blind_haiku": 3,
    "verify": "disputed",
    "notes": "Key cell (A1, Q35) reads 3 = option C (concentric circles), read correctly; transcription is fine (options are images). Concentric circles cannot be a static electric field (non-conservative), whereas the dipole loop pattern D is valid for both electric and magnetic dipoles, so D looks correct.",
-   "solver_agrees": [],
-   "status_reason": "blind solver and key disagree"
+   "solver_agrees": [
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 2,
+    "confidence": "high",
+    "note": "blind resolve confirmed the paper's key"
+   }
   }
  },
  {

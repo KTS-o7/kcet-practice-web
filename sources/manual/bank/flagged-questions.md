@@ -1,80 +1,15 @@
 # Questions still flagged after verification
 
-KCET practice bank. Two blind solve passes, plus an external-evidence pass against official KEA and NCERT sources wherever a disagreement could be settled from outside.
-Last checked 2026-11-04T18:13:10Z.
+KCET practice bank. Two blind solve passes, an external-evidence pass against official KEA and NCERT sources, and a third blind resolve pass for every question that was still flagged.
+Last checked 2026-11-10T15:35:54Z.
 
-128 of 3051 checked questions are still flagged and are hidden from the app until they are resolved.
-
-## examon-kcet-che-batch02-022
-
-- Subject / chapter: chemistry / amines
-- Topic: Basicity in Water
-- Reason: external source contradicts the published key
-- Examon key: **B** — $(C_2H_5)_2NH > C_2H_5NH_2 > (C_2H_5)_3N > NH_3$
-- Solver chose: **C** — $(C_2H_5)_2NH > (C_2H_5)_3N > C_2H_5NH_2 > NH_3$
-- External source: NCERT Class 12 Chemistry Part II, Unit 9 (Amines), p. 269 - basicity of alkyl amines in aqueous solution
-- Correct answer per that source: **C** — $(C_2H_5)_2NH > (C_2H_5)_3N > C_2H_5NH_2 > NH_3$
-- Why: NCERT verbatim: '(C2H5)2NH > (C2H5)3N > C2H5NH2 > NH3 (CH3)2NH > CH3NH2 > (CH3)3N > NH3'. Examon's key used the methyl-series order for the ethyl series, which NCERT says changes. Examon's key is wrong.
-- Adjudication verdict: **solver_right**
-- Adjudicator: NCERT text and its pKb table (3.00, 3.25, 3.29, 4.75) give aqueous order Et2NH > Et3N > EtNH2 > NH3; Examon's key contradicts NCERT.
-- Note: NCERT aqueous order for ethyl amines: (C2H5)2NH > (C2H5)3N > C2H5NH2 > NH3.
-
-    Correct order of basicity in aqueous solution among the following is:
-
-    A. $(C_2H_5)_3N > (C_2H_5)_2NH > C_2H_5NH_2 > NH_3$
-    B. $(C_2H_5)_2NH > C_2H_5NH_2 > (C_2H_5)_3N > NH_3$ (key)
-    C. $(C_2H_5)_2NH > (C_2H_5)_3N > C_2H_5NH_2 > NH_3$
-    D. $NH_3 > C_2H_5NH_2 > (C_2H_5)_2NH > (C_2H_5)_3N$
-
-```
-
-## examon-kcet-che-batch03-030
-
-- Subject / chapter: chemistry / solutions
-- Topic: Raoult's Law
-- Reason: both blind solves disagreed with the published key
-- Examon key: **B** — $0.0278$
-- Solver chose: **@** — None
-- Solver's derived answer: `≈0.005 (x_glucose = 0.05/10.05 = 4.98×10⁻³)`
-- Adjudication verdict: **solver_right**
-- Adjudicator: n(glucose)=0.05, n(H2O)=10 gives x=0.005; key's 0.0278 wrongly used 1.8 mol water, and 0.005 is absent from options.
-- Note: True value x(glucose) = 0.05/10.05 = 0.005; option A 0.0090 would need only 100 g water.
-
-    A solution is prepared by dissolving $9.0\,\text{g}$ of glucose $(\mathrm{C_6H_{12}O_6})$ in $180\,\text{g}$ of water. Assuming glucose is non-volatile and the solution is dilute, the relative lowering of vapour pressure of water is closest to:
-
-    A. $0.0090$
-    B. $0.0278$ (key)
-    C. $0.0500$
-    D. $0.0900$
-
-```
-
-## examon-kcet-che-batch03-031
-
-- Subject / chapter: chemistry / solutions
-- Topic: Positive Deviation
-- Reason: both blind solves disagreed with the published key
-- Examon key: **D** — Phenol + aniline
-- Solver chose: **@** — None
-- Solver's derived answer: `Ethanol + acetone (or CS2 + acetone) — NCERT positive-deviation pairs`
-- Adjudication verdict: **solver_right**
-- Adjudicator: Chloroform+acetone, phenol+aniline and HNO3+water all show negative deviation; n-hexane+CCl4 is near-ideal. No option is positive.
-- Note: NCERT: chloroform+acetone, phenol+aniline and HNO3+water are negative deviation; n-hexane+CCl4 near-ideal.
-
-    Which of the following pairs shows positive deviation from Raoult's law?
-
-    A. Chloroform + acetone
-    B. Water + nitric acid
-    C. n-hexane + CCl$_4$
-    D. Phenol + aniline (key)
-
-```
+66 of 3051 checked questions are still flagged and are hidden from the app until they are resolved.
 
 ## examon-kcet-che-hard-037
 
 - Subject / chapter: chemistry / solutions
 - Topic: Relative lowering of vapour pressure and molar mass
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **B** — 39 g/mol
 - Solver chose: **@** — None
 - Solver's derived answer: `18 g/mol`
@@ -95,7 +30,7 @@ Last checked 2026-11-04T18:13:10Z.
 
 - Subject / chapter: chemistry / solutions
 - Topic: Relative lowering of vapour pressure and molar mass
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **D** — 312 g/mol
 - Solver chose: **@** — None
 - Solver's derived answer: `36 g/mol`
@@ -112,51 +47,11 @@ Last checked 2026-11-04T18:13:10Z.
 
 ```
 
-## examon-kcet-che-hard-112
-
-- Subject / chapter: chemistry / electrochemistry
-- Topic: Electrolysis time for metal deposition
-- Reason: both blind solves disagreed with the published key
-- Examon key: **B** — 3860 s
-- Solver chose: **A** — 1930 s
-- Adjudication verdict: **solver_right**
-- Adjudicator: Cu2+ + 2e- -> Cu: 0.01 mol Cu needs 0.02 mol e- = 1930 C; t = 1930/1 = 1930 s. Key's 3860 s double-counts electrons.
-- Note: 0.635 g Cu = 0.01 mol, 2e- each = 1930 C, at 1 A gives 1930 s
-
-    How much time is required to deposit 0.635 g of Cu from a solution of $\mathrm{Cu^{2+}}$ ions using a current of 1 A? $(\text{Atomic mass of Cu} = 63.5)$
-
-    A. 1930 s
-    B. 3860 s (key)
-    C. 965 s
-    D. 61277.5 s
-
-```
-
-## examon-kcet-che-hard-119
-
-- Subject / chapter: chemistry / electrochemistry
-- Topic: Electrolysis time for metal deposition
-- Reason: both blind solves disagreed with the published key
-- Examon key: **B** — 5790 s
-- Solver chose: **A** — 2895 s
-- Adjudication verdict: **solver_right**
-- Adjudicator: Al3+ + 3e- -> Al: 0.03 mol Al needs 0.09 mol e- = 8685 C; t = 8685/3 = 2895 s. Key's 5790 s double-counts electrons.
-- Note: 0.81 g Al = 0.03 mol, 3e- each = 8685 C, at 3 A gives 2895 s
-
-    How much time is required to deposit $0.81\,\text{g}$ of Al from a solution containing $\mathrm{Al^{3+}}$ ions using a current of $3\,\text{A}$? $(\text{Atomic mass of Al}=27)$
-
-    A. 2895 s
-    B. 5790 s (key)
-    C. 965 s
-    D. 1930 s
-
-```
-
 ## examon-kcet-che-hard-230
 
 - Subject / chapter: chemistry / solutions
 - Topic: Molality of a solution
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **A** — $0.50$
 - Solver chose: **@** — None
 - Solver's derived answer: `0 (molarity = molality = 5 mol L-1 = 5 mol kg-1)`
@@ -173,194 +68,11 @@ Last checked 2026-11-04T18:13:10Z.
 
 ```
 
-## examon-kcet-che-hard-267
-
-- Subject / chapter: chemistry / coordination-compounds
-- Topic: Structure, hybridization and magnetic properties
-- Reason: external source contradicts the published key
-- Examon key: **B** — $+3,\ 5$
-- Solver chose: **C** — $+3,\ 1$
-- External source: NCERT Class 12 Chemistry (Unit 8, coordination compounds) and the NCERT Chemistry lab manual experiment on potassium trioxalatoferrate(III)
-- Correct answer per that source: **C** — $+3,\ 1$
-- Why: NCERT's spectrochemical series ranks oxalate above F- and H2O, and for a d5 ion (Fe3+) the inner-orbital d2sp3 case leaves one unpaired electron. The NCERT lab manual measures ferrioxalate at about 1.73 BM, i.e. one unpaired electron. Examon's key (+3, 5) is wrong.
-- Adjudication verdict: **examon_right**
-- Adjudicator: Oxalate 2- gives Fe(III), d5; oxalate is a weak-field ligand so the octahedral complex is high spin with 5 unpaired electrons. Solver's strong-field claim is wrong.
-- Note: Fe(III) d5; oxalate strong field, inner-orbital d2sp3, 1 unpaired electron
-
-    In the complex salt $K_3[Fe(C_2O_4)_3]$, the oxidation state of Fe and the number of unpaired electrons in Fe are respectively:
-
-    A. $+2,\ 4$
-    B. $+3,\ 5$ (key)
-    C. $+3,\ 1$
-    D. $+2,\ 0$
-
-```
-
-## examon-kcet-che-hard-278
-
-- Subject / chapter: chemistry / the-d-and-f-block-elements
-- Topic: Properties of transition elements and inner transition elements
-- Reason: both blind solves disagreed with the published key
-- Examon key: **C** — 3 unpaired electrons
-- Solver chose: **A** — 4 unpaired electrons
-- Adjudication verdict: **solver_right**
-- Adjudicator: n(n+2) = 24 gives n = 4 (4 x 6 = 24), so 4 unpaired electrons; Examon's own solution derives n = 4, contradicting its key of 3.
-- Note: mu = sqrt(n(n+2)) = sqrt(24) gives n = 4 unpaired electrons.
-
-    A transition metal ion has spin-only magnetic moment $\mu = \sqrt{24}\,\text{BM}$. Assuming orbital contribution is negligible, this value mainly arises due to which of the following?
-
-    A. 4 unpaired electrons
-    B. 2 unpaired electrons
-    C. 3 unpaired electrons (key)
-    D. 5 unpaired electrons
-
-```
-
-## examon-kcet-che-hard-300
-
-- Subject / chapter: chemistry / biomolecules
-- Topic: Biomolecule structure and tests
-- Reason: both blind solves disagreed with the published key
-- Examon key: **C** — Glucose; $0.10$ mol
-- Solver chose: **A** — Glucose; $0.20$ mol
-- Adjudication verdict: **solver_right**
-- Adjudicator: 16.2/162 = 0.1 mol glucose; each glucose reduces 2 mol Ag+ in Tollens' reagent, so maximum 0.20 mol reagent reduced.
-- Note: 16.2 g/162 = 0.1 mol units gives 0.1 mol glucose; each glucose reduces 2 mol Tollens, so 0.20 mol.
-
-    A student completely hydrolyses $16.2\,\text{g}$ of starch and then tests the final hydrolysate with Tollens' reagent. Assuming complete conversion and taking the repeating unit of starch as $\mathrm{C_6H_{10}O_5}$, the sugar finally obtained and the maximum moles of Tollens' reagent reduced are respectively:
-
-    A. Glucose; $0.20$ mol
-    B. Fructose; $0.10$ mol
-    C. Glucose; $0.10$ mol (key)
-    D. Sucrose; $0.20$ mol
-
-```
-
-## examon-kcet-che-vhard-005
-
-- Subject / chapter: chemistry / electrochemistry
-- Topic: Nernst equation for a non-standard galvanic cell
-- Reason: both blind solves disagreed with the published key
-- Examon key: **C** — 0.99 V
-- Solver chose: **A** — 0.93 V
-- Adjudication verdict: **solver_right**
-- Adjudicator: Ni + 2Ag+ -> Ni2+ + 2Ag gives Q = [Ni2+]/[Ag+]^2 = 10^4; E = 1.05 - 0.0591/2 x 4 = 0.93 V. Key used unsquared Q.
-- Note: Q = [Ni2+]/[Ag+]^2 = 1/0.0001 = 10^4; E = 1.05 - (0.0591/2)(4) = 0.932 V.
-
-    At 298 K, the galvanic cell Ni|Ni^{2+}(1\,M)||Ag^{+}(0.01\,M)|Ag has $E^\circ_{cell} = 1.05$ V and involves 2 electrons. The cell emf is:
-
-    A. 0.93 V
-    B. 1.11 V
-    C. 0.99 V (key)
-    D. 1.05 V
-
-```
-
-## examon-kcet-che-vhard-008
-
-- Subject / chapter: chemistry / electrochemistry
-- Topic: Nernst equation for a non-standard galvanic cell
-- Reason: both blind solves disagreed with the published key
-- Examon key: **B** — 1.21 V
-- Solver chose: **D** — 1.18 V
-- Adjudication verdict: **solver_right**
-- Adjudicator: Fe + 2Ag+ -> Fe2+ + 2Ag gives Q = 1/(0.1)^2 = 100; E = 1.24 - 0.0591/2 x 2 = 1.18 V. Key used Q = 10.
-- Note: Q = [Fe2+]/[Ag+]^2 = 100; E = 1.24 - (0.0591/2)(2) = 1.181 V.
-
-    At 298 K, the galvanic cell Fe|Fe^{2+}(1\,M)||Ag^{+}(0.1\,M)|Ag has $E^\circ_{cell} = 1.24$ V and involves 2 electrons. The cell emf is:
-
-    A. 1.27 V
-    B. 1.21 V (key)
-    C. 1.24 V
-    D. 1.18 V
-
-```
-
-## examon-kcet-che-vhard-051
-
-- Subject / chapter: chemistry / chemical-kinetics
-- Topic: First-order concentration change over a non-trivial ratio
-- Reason: both blind solves disagreed with the published key
-- Examon key: **A** — 100 min
-- Solver chose: **B** — 60.21 min
-- Adjudication verdict: **solver_right**
-- Adjudicator: t = (2.303/0.02303)log(0.40/0.10) = 100 x 0.6021 = 60.21 min; Examon's own solution says 60.21, key says 100.
-- Note: t=(2.303/0.02303)*log4=100*0.60206=60.21 min
-
-    For a first-order reaction with rate constant $k = 0.02303\,\text{min}^{-1}$, the concentration of a reactant falls from $0.40\,\text{M}$ to $0.10\,\text{M}$. The time required for this change is:
-
-    A. 100 min (key)
-    B. 60.21 min
-    C. 120.41 min
-    D. 30.1 min
-
-```
-
-## examon-kcet-che-vhard-104
-
-- Subject / chapter: chemistry / electrochemistry
-- Topic: Nernst equation for a non-standard galvanic cell
-- Reason: both blind solves disagreed with the published key
-- Examon key: **A** — 0.88 V
-- Solver chose: **D** — 0.82 V
-- Adjudication verdict: **solver_right**
-- Adjudicator: Sn + 2Ag+ gives Q = [Sn2+]/[Ag+]^2 = 10^4; E = 0.94 - (0.0591/2)(4) = 0.82 V. Examon dropped the square on Ag+.
-- Note: Q=[Sn2+]/[Ag+]^2=10^4; E=0.94-0.1182=0.82 V.
-
-    At 298 K, the galvanic cell Sn|Sn^{2+}(1\,M)||Ag^{+}(0.01\,M)|Ag has $E^\circ_{cell} = 0.94$ V and involves 2 electrons. The cell emf is:
-
-    A. 0.88 V (key)
-    B. 1 V
-    C. 0.94 V
-    D. 0.82 V
-
-```
-
-## examon-kcet-che-wave2-01-009
-
-- Subject / chapter: chemistry / alcohols-phenols-and-ethers
-- Topic: Phenol acidity comparison
-- Reason: both blind solves disagreed with the published key
-- Examon key: **A** — (ii) > (iii) > (i) > (iv)
-- Solver chose: **B** — (iii) > (ii) > (i) > (iv)
-- Adjudication verdict: **solver_right**
-- Adjudicator: p-Nitrophenol pKa 7.15 < o-nitrophenol 7.23 (intramolecular H-bond); order is (iii)>(ii)>(i)>(iv), p-cresol weakest.
-- Note: p-nitrophenol > o-nitrophenol (intramolecular H-bond) > phenol > p-cresol.
-
-    Arrange the following in decreasing order of acidity: (i) phenol, (ii) $o$-nitrophenol, (iii) $p$-nitrophenol, (iv) $p$-cresol.
-
-    A. (ii) > (iii) > (i) > (iv) (key)
-    B. (iii) > (ii) > (i) > (iv)
-    C. (i) > (ii) > (iii) > (iv)
-    D. (iv) > (i) > (iii) > (ii)
-
-```
-
-## examon-kcet-che-wave2-02-026
-
-- Subject / chapter: chemistry / thermodynamics
-- Topic: Born–Haber Cycle
-- Reason: both blind solves disagreed with the published key
-- Examon key: **A** — −787 kJ·mol⁻¹
-- Solver chose: **B** — +787 kJ·mol⁻¹
-- Adjudication verdict: **examon_right**
-- Adjudicator: Born-Haber: U = -411 - (108+121+496-349) = -787 kJ/mol for lattice formation; +787 is the dissociation enthalpy.
-- Note: Born-Haber: lattice formation = -787; NCERT tabulates magnitude 787 kJ/mol.
-
-    For NaCl(s): ΔH_f = −411, sublimation of Na = +108, ½·bond-dissociation of Cl₂ = +121, IE of Na = +496, EA of Cl = −349 kJ·mol⁻¹. The lattice energy of NaCl is:
-
-    A. −787 kJ·mol⁻¹ (key)
-    B. +787 kJ·mol⁻¹
-    C. −411 kJ·mol⁻¹
-    D. −620 kJ·mol⁻¹
-
-```
-
 ## examon-kcet-che-wave2-03-004
 
 - Subject / chapter: chemistry / the-d-and-f-block-elements
 - Topic: Zn, Cd, Hg Properties
-- Reason: both blind solves disagreed with the published key
+- Reason: Zn2+, Cd2+ and Hg2+ are d10, so they form no coloured ions (option A is true) AND are diamagnetic with no unpaired d-electrons (option D is true) - the printed item has at least two defensible answers, and the publisher's key (D) even contradicts its own explanation, which claims 'D. Low melting point', an option not present in the list. The item needs rewriting; if the key is kept, D (index 3) is chemically true but A (index 0) is equally true.
 - Examon key: **D** — Paramagnetism due to unpaired d-electrons
 - Solver chose: **?** — None
 - Adjudication verdict: **still_ambiguous**
@@ -380,7 +92,7 @@ Last checked 2026-11-04T18:13:10Z.
 
 - Subject / chapter: chemistry / classification-of-elements-and-periodicity
 - Topic: Diagonal Relationship
-- Reason: both blind solves disagreed with the published key
+- Reason: Two conventions are in play and no textbook settles it: the diagonal relationship is usually explained by comparable size and ionisation enthalpy (the published key), while electronegativity is the other quoted comparison. Nothing here proves the key wrong, so the question stays hidden rather than being published on a contested answer.
 - Examon key: **B** — Ionisation enthalpy and atomic radius
 - Solver chose: **A** — Atomic radius and electronegativity
 - Adjudication verdict: **solver_right**
@@ -400,7 +112,7 @@ Last checked 2026-11-04T18:13:10Z.
 
 - Subject / chapter: chemistry / classification-of-elements-and-periodicity
 - Topic: Periodic Trends
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **C** — B < C < Be < O < N
 - Solver chose: **@** — None
 - Solver's derived answer: `B < Be < C < O < N`
@@ -417,91 +129,11 @@ Last checked 2026-11-04T18:13:10Z.
 
 ```
 
-## examon-kcet-che-wave3-01-035
-
-- Subject / chapter: chemistry / organic-chemistry-basic-principles-and-techniques
-- Topic: Nucleophile Strength
-- Reason: both blind solves disagreed with the published key
-- Examon key: **A** — F⁻
-- Solver chose: **D** — I⁻
-- Adjudication verdict: **examon_right**
-- Adjudicator: In polar aprotic DMSO anions stay unsolvated, so nucleophilicity tracks basicity: F- > Cl- > Br- > I-. I- wins only in protic media.
-- Note: In DMSO (polar aprotic) halides are poorly solvated; I- is most polarizable hence most nucleophilic.
-
-    Strongest nucleophile in a polar aprotic solvent (DMSO) is:
-
-    A. F⁻ (key)
-    B. Cl⁻
-    C. Br⁻
-    D. I⁻
-
-```
-
-## examon-kcet-mat-batch01-037
-
-- Subject / chapter: mathematics / differential-equations
-- Topic: Linear
-- Reason: both blind solves disagreed with the published key
-- Examon key: **A** — $y = \sin x + C\cos x$
-- Solver chose: **B** — $y\sec x = \tan x + C$
-- Adjudication verdict: **examon_right**
-- Adjudicator: IF = sec x, so y sec x = tan x + C, equivalently y = sin x + C cos x; option B is the same equation.
-- Note: IF = e^{integral tan x dx} = sec x; y sec x = integral sec^2 x = tan x + C.
-
-    General solution of $\dfrac{dy}{dx} + y\tan x = \sec x$:
-
-    A. $y = \sin x + C\cos x$ (key)
-    B. $y\sec x = \tan x + C$
-    C. $y\cos x = \tan x + C$
-    D. $y = \sec x + C\tan x$
-
-```
-
-## examon-kcet-mat-batch02-010
-
-- Subject / chapter: mathematics / continuity-and-differentiability
-- Topic: Piecewise Continuity
-- Reason: both blind solves disagreed with the published key
-- Examon key: **C** — $a-b=\dfrac{2}{3}$
-- Solver chose: **A** — $3a-3b=2$
-- Adjudication verdict: **examon_right**
-- Adjudicator: Continuity at 3: 3a+1 = 3b+3, so 3(a-b) = 2, i.e. a-b = 2/3 (option C); option A is the same equation unsimplified.
-- Note: Continuity: 3a+1 = 3b+3, so 3a-3b=2.
-
-    The function $f(x)=\begin{cases}ax+1,&x\le 3\ bx+3,&x>3\end{cases}$ is continuous at $x=3$ if:
-
-    A. $3a-3b=2$
-    B. $3a+3b=2$
-    C. $a-b=\dfrac{2}{3}$ (key)
-    D. $a+b=\dfrac{2}{3}$
-
-```
-
-## examon-kcet-mat-batch03-018
-
-- Subject / chapter: mathematics / determinants
-- Topic: A·adj(A)
-- Reason: both blind solves disagreed with the published key
-- Examon key: **C** — $625$
-- Solver chose: **B** — $125$
-- Adjudication verdict: **solver_right**
-- Adjudicator: A adj A = |A| I_3 = 5 I_3, so det(A adj A) = 5^3 = 125, option B; the published key 625 contradicts its own computation.
-- Note: A adj A=|A|I, so det(A adj A)=|A|^3=125.
-
-    If $A$ is a $3\times 3$ matrix with $|A|=5$, then $\det\big(A\,\operatorname{adj}(A)\big)$ is:
-
-    A. $25$
-    B. $125$
-    C. $625$ (key)
-    D. $5$
-
-```
-
 ## examon-kcet-mat-batch03-019
 
 - Subject / chapter: mathematics / determinants
 - Topic: 3x3 Expansion
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **A** — $-26$
 - Solver chose: **@** — None
 - Solver's derived answer: `10`
@@ -510,7 +142,7 @@ Last checked 2026-11-04T18:13:10Z.
 - Note: Expansion along first row: 24+70-84=10. No option matches.
 
     Evaluate
-$\begin{vmatrix}1 & 2 & 3\ 0 & 4 & 5\ 7 & 0 & 6\end{vmatrix}.$
+$\begin{vmatrix}1 & 2 & 3\\ 0 & 4 & 5\\ 7 & 0 & 6\end{vmatrix}.$
 
     A. $-26$ (key)
     B. $26$
@@ -519,35 +151,11 @@ $\begin{vmatrix}1 & 2 & 3\ 0 & 4 & 5\ 7 & 0 & 6\end{vmatrix}.$
 
 ```
 
-## examon-kcet-mat-batch03-034
-
-- Subject / chapter: mathematics / three-dimensional-geometry
-- Topic: Equation of Line
-- Reason: both blind solves disagreed with the published key
-- Examon key: **C** — $\vec r=(\hat i+\hat j+\hat k)+t(2\hat i-\hat j+\hat k)$
-- Solver chose: **A** — $\vec r=(\hat i+\hat j)+t(2\hat i-\hat j+\hat k)$
-- Adjudication verdict: **solver_right**
-- Adjudicator: The two given lines are coincident (direction 2*(1,-1,1)); only option A passes through a point of that line, (1,1,0), with direction (2,-1,1).
-- Note: Only option A passes through a common point with direction (2,-1,1); given lines are coincident.
-
-    The line passing through the point of intersection of the lines
-$$\vec r=(\hat i+\hat j)+\lambda(\hat i-\hat j+\hat k)$$
-and
-$$\vec r=(2\hat i+\hat k)+\mu(2\hat i-2\hat j+2\hat k)$$
-is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
-
-    A. $\vec r=(\hat i+\hat j)+t(2\hat i-\hat j+\hat k)$
-    B. $\vec r=(\hat i+\hat k)+t(2\hat i-\hat j+\hat k)$
-    C. $\vec r=(\hat i+\hat j+\hat k)+t(2\hat i-\hat j+\hat k)$ (key)
-    D. $\vec r=(2\hat i+\hat k)+t(\hat i-\hat j+\hat k)$
-
-```
-
 ## examon-kcet-mat-batch03-038
 
 - Subject / chapter: mathematics / three-dimensional-geometry
 - Topic: Intercept Form of Plane
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **B** — $\dfrac{x}{4}+\dfrac{y}{6}+\dfrac{z}{8}=1$
 - Solver chose: **@** — None
 - Solver's derived answer: `6x + 4y + 3z = 13`
@@ -568,7 +176,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: mathematics / relations-and-functions
 - Topic: Composition
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **B** — $4$
 - Solver chose: **@** — None
 - Solver's derived answer: `-3`
@@ -589,7 +197,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: mathematics / complex-numbers-and-quadratic-equations
 - Topic: Modulus
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **C** — $\sqrt5$
 - Solver chose: **@** — None
 - Solver's derived answer: `\sqrt{10}`
@@ -610,7 +218,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: mathematics / inverse-trigonometric-functions
 - Topic: Identity
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **A** — $\dfrac{\pi}{2}$
 - Solver chose: **@** — None
 - Solver's derived answer: `2 sin^-1(3/5) = tan^-1(24/7) = 2*36.87 deg = 73.74 deg`
@@ -631,7 +239,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: mathematics / binomial-theorem
 - Topic: Sum of Coefficients
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **B** — $1$
 - Solver chose: **@** — None
 - Solver's derived answer: `-1`
@@ -648,31 +256,11 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 ```
 
-## examon-kcet-mat-batch05-027
-
-- Subject / chapter: mathematics / binomial-theorem
-- Topic: General Term
-- Reason: both blind solves disagreed with the published key
-- Examon key: **A** — $-84$
-- Solver chose: **B** — $84$
-- Adjudication verdict: **solver_right**
-- Adjudicator: General term C(9,r)(-1)^r x^(18-3r); x^0 needs r=6, giving +C(9,6)=84 (option B). Examon's -84 contradicts its own working.
-- Note: General term C(9,r)(-1)^r x^(18-3r); x^0 requires r=6, giving +C(9,6)=84.
-
-    The term independent of $x$ in the expansion of $\left(x^2-\frac{1}{x}\right)^9$ is:
-
-    A. $-84$ (key)
-    B. $84$
-    C. $-126$
-    D. $126$
-
-```
-
 ## examon-kcet-mat-cplx-001
 
 - Subject / chapter: mathematics / complex-numbers-and-quadratic-equations
 - Topic: Powers of i
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **A** — $-1-i$
 - Solver chose: **@** — None
 - Solver's derived answer: `-i`
@@ -693,7 +281,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: mathematics / application-of-derivatives
 - Topic: Tangent with a given slope
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **B** — $2$
 - Solver chose: **@** — None
 - Solver's derived answer: `x = \pm\sqrt{6}`
@@ -714,7 +302,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: mathematics / three-dimensional-geometry
 - Topic: Line geometry in 3D
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **A** — $\dfrac{2}{3}$
 - Solver chose: **@** — None
 - Solver's derived answer: `3/4`
@@ -735,7 +323,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: mathematics / application-of-derivatives
 - Topic: Tangents, normals and extrema
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **A** — $(0,0)$
 - Solver chose: **@** — None
 - Solver's derived answer: `(0, 137/9)`
@@ -756,7 +344,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: mathematics / application-of-derivatives
 - Topic: Tangents, normals and extrema
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **D** — $\left(\dfrac{1}{2},0\right)$
 - Solver chose: **@** — None
 - Solver's derived answer: `(3, 0)`
@@ -777,7 +365,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: mathematics / differential-equations
 - Topic: Differential equations with initial conditions
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **C** — 9
 - Solver chose: **@** — None
 - Solver's derived answer: `8`
@@ -798,7 +386,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: mathematics / vector-algebra
 - Topic: Vector algebra
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **D** — $10$
 - Solver chose: **@** — None
 - Solver's derived answer: `-5`
@@ -819,7 +407,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: mathematics / three-dimensional-geometry
 - Topic: Lines and direction cosines
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **B** — $(3,2,6)$
 - Solver chose: **@** — None
 - Solver's derived answer: `(1+4/sqrt(7), 3-2/sqrt(7), 2+8/sqrt(7)) or (1-4/sqrt(7), 3+2/sqrt(7), 2-8/sqrt(7))`
@@ -840,7 +428,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: mathematics / differential-equations
 - Topic: Differential equations with initial conditions
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **A** — 12
 - Solver chose: **@** — None
 - Solver's derived answer: `16`
@@ -861,7 +449,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: mathematics / vector-algebra
 - Topic: Vector algebra
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **C** — $90^\circ$
 - Solver chose: **@** — None
 - Solver's derived answer: `cos theta = -5/11, theta = 2 arctan(sqrt(14/5.25)) = 117.04 degrees`
@@ -882,7 +470,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: mathematics / three-dimensional-geometry
 - Topic: Lines and direction cosines
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **D** — $-1$
 - Solver chose: **@** — None
 - Solver's derived answer: `k = 0`
@@ -899,31 +487,11 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 ```
 
-## examon-kcet-mat-hard-296
-
-- Subject / chapter: mathematics / three-dimensional-geometry
-- Topic: Lines and direction cosines
-- Reason: both blind solves disagreed with the published key
-- Examon key: **A** — $x=1,\ y=2,\ z\in\mathbb R$
-- Solver chose: **B** — $\dfrac{x-1}{0}=\dfrac{y-2}{0}=\dfrac{z-3}{1}$
-- Adjudication verdict: **solver_right**
-- Adjudicator: Symmetric form of z-parallel line through (1,2,3) is (x-1)/0=(y-2)/0=(z-3)/1; option A is Cartesian, not symmetric.
-- Note: Symmetric form of line parallel to z-axis through (1,2,3) is (x-1)/0 = (y-2)/0 = (z-3)/1.
-
-    A line passes through $(1,2,3)$ and is parallel to the $z$-axis. Which of the following is a correct symmetric form of the line?
-
-    A. $x=1,\ y=2,\ z\in\mathbb R$ (key)
-    B. $\dfrac{x-1}{0}=\dfrac{y-2}{0}=\dfrac{z-3}{1}$
-    C. $\dfrac{x}{1}=\dfrac{y}{2}=\dfrac{z}{3}$
-    D. $x=1+\lambda,\ y=2,\ z=3$
-
-```
-
 ## examon-kcet-mat-mat-002
 
 - Subject / chapter: mathematics / matrices
 - Topic: Special Matrix
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **A** — $A$ is the zero matrix
 - Solver chose: **@** — None
 - Solver's derived answer: `None of the listed statements is necessarily true`
@@ -944,7 +512,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: mathematics / sequences-and-series
 - Topic: GP Sum
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **B** — $\dfrac{5}{2}$
 - Solver chose: **@** — None
 - Solver's derived answer: `21/8`
@@ -965,7 +533,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: mathematics / vector-algebra
 - Topic: Dot Product
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **D** — $90^\circ$
 - Solver chose: **@** — None
 - Solver's derived answer: `cos^{-1}(1/sqrt(12)) ~ 73.2 degrees`
@@ -986,7 +554,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: mathematics / determinants
 - Topic: Concurrency condition for three lines
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **C** — 7
 - Solver chose: **@** — None
 - Solver's derived answer: `13`
@@ -1007,7 +575,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: mathematics / determinants
 - Topic: Concurrency condition for three lines
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **B** — 13
 - Solver chose: **@** — None
 - Solver's derived answer: `19`
@@ -1024,91 +592,11 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 ```
 
-## examon-kcet-mat-vhard-035
-
-- Subject / chapter: mathematics / continuity-and-differentiability
-- Topic: Simultaneous continuity and differentiability of a piecewise function
-- Reason: both blind solves disagreed with the published key
-- Examon key: **D** — 0
-- Solver chose: **A** — 1
-- Adjudication verdict: **solver_right**
-- Adjudicator: Differentiability: left slope m=2(2)+1=5; continuity 2m+c=6 gives c=-4; m+c=1, option A. Key 0 wrong.
-- Note: At x=2: m = 5, c = -4, so m + c = 1
-
-    If $f(x)=\begin{cases}mx+c, & x<2 \ x^2+x, & x\ge 2\end{cases}$ is continuous and differentiable at $x=2$, then $m+c$ equals:
-
-    A. 1
-    B. 5
-    C. 2
-    D. 0 (key)
-
-```
-
-## examon-kcet-mat-vhard-036
-
-- Subject / chapter: mathematics / continuity-and-differentiability
-- Topic: Simultaneous continuity and differentiability of a piecewise function
-- Reason: both blind solves disagreed with the published key
-- Examon key: **A** — 0
-- Solver chose: **B** — -1
-- Adjudication verdict: **solver_right**
-- Adjudicator: Continuity 3m+c=15; differentiability m=8, so c=-9 and m+c=-1 (B). Examon key 0 contradicts its own solution.
-- Note: At x=3: m = 8, c = -9, so m + c = -1
-
-    If $f(x)=\begin{cases}mx+c, & x<3 \ x^2+2x, & x\ge 3\end{cases}$ is continuous and differentiable at $x=3$, then $m+c$ equals:
-
-    A. 0 (key)
-    B. -1
-    C. 8
-    D. -2
-
-```
-
-## examon-kcet-mat-vhard-037
-
-- Subject / chapter: mathematics / continuity-and-differentiability
-- Topic: Simultaneous continuity and differentiability of a piecewise function
-- Reason: both blind solves disagreed with the published key
-- Examon key: **D** — 5
-- Solver chose: **C** — 4
-- Adjudication verdict: **solver_right**
-- Adjudicator: Continuity gives m+c=4; derivative gives m=5, c=-1; so m+c=4 (C). Examon key 5 is wrong.
-- Note: Continuity gives m + c = 4 (m = 5, c = -1)
-
-    If $f(x)=\begin{cases}mx+c, & x<1 \ x^2+3x, & x\ge 1\end{cases}$ is continuous and differentiable at $x=1$, then $m+c$ equals:
-
-    A. 3
-    B. -1
-    C. 4
-    D. 5 (key)
-
-```
-
-## examon-kcet-mat-vhard-054
-
-- Subject / chapter: mathematics / integrals
-- Topic: Definite integral by direct substitution
-- Reason: both blind solves disagreed with the published key
-- Examon key: **C** — 0.896
-- Solver chose: **A** — 1.792
-- Adjudication verdict: **solver_right**
-- Adjudicator: u=x^2+4x+1 gives integral from 1 to 6 of du/u = ln6 = 1.792 (A); 0.896 is ln6/2, wrong.
-- Note: Substitute u=x^2+4x+1, du=(2x+4)dx; integral = ln6 - ln1 = 1.7918.
-
-    The value of $\int_0^1 \dfrac{2x+4}{x^2+4x+1}\,dx$ is:
-
-    A. 1.792
-    B. 1.609
-    C. 0.896 (key)
-    D. 6
-
-```
-
 ## examon-kcet-mat-vhard-166
 
 - Subject / chapter: mathematics / differential-equations
 - Topic: Linear differential equation with an initial condition
-- Reason: both blind solves disagreed with the published key
+- Reason: no_correct_option
 - Examon key: **B** — $\dfrac{7}{2}$
 - Solver chose: **@** — None
 - Solver's derived answer: `3 + (ln 2)/2`
@@ -1125,132 +613,11 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 ```
 
-## examon-kcet-mat-vhard-167
-
-- Subject / chapter: mathematics / differential-equations
-- Topic: Linear differential equation with an initial condition
-- Reason: both blind solves disagreed with the published key
-- Examon key: **A** — $\dfrac{9}{2}$
-- Solver chose: **@** — None
-- Solver's derived answer: `9/2 + (ln 2)/2`
-- Adjudication verdict: **solver_right**
-- Adjudicator: y=4+(2x+1)e^{-2x} gives y(ln2/2)=4+(ln2+1)/2=4.8466 (RK4 confirmed); no option fits, key 9/2 wrong.
-- Note: y = 4 + (2x+1)e^{-2x}; y(ln2/2) = 9/2 + (ln2)/2 = 4.847; option 5 comes from omitting the x factor.
-
-    If $y$ satisfies $\dfrac{dy}{dx}+2y=8+2e^{-2x}$ and $y(0)=5$, then the value of $y\left(\dfrac{\ln 2}{2}\right)$ is:
-
-    A. $\dfrac{9}{2}$ (key)
-    B. $5$
-    C. $\dfrac{11}{2}$
-    D. $4$
-
-```
-
-## examon-kcet-mat-vhard-193
-
-- Subject / chapter: mathematics / straight-lines
-- Topic: Tangent condition for a line and a circle
-- Reason: both blind solves disagreed with the published key
-- Examon key: **D** — 58
-- Solver chose: **C** — 88
-- Adjudication verdict: **solver_right**
-- Adjudicator: Tangency |54-p|/17=2 gives p=20 or 88; greater positive is 88 (C). Examon key 58 is wrong.
-- Note: |54 - p|/17 = 2 gives p = 88 or 20; greater positive value is 88.
-
-    If the line $8x+15y=p$ is tangent to the circle $(x-3)^2+(y-2)^2=4$, then the greater positive value of $p$ is:
-
-    A. 54
-    B. 20
-    C. 88
-    D. 58 (key)
-
-```
-
-## examon-kcet-mat-vhard-194
-
-- Subject / chapter: mathematics / straight-lines
-- Topic: Tangent condition for a line and a circle
-- Reason: both blind solves disagreed with the published key
-- Examon key: **A** — 79
-- Solver chose: **C** — 154
-- Adjudication verdict: **solver_right**
-- Adjudicator: Tangency |79-p|/25=3 gives p=4 or 154; greater positive is 154 (C). Examon key 79 is wrong.
-- Note: Center (1,3), r=3. p = 7+72 ± 3*25 = 79 ± 75, so p = 154 or 4; greater = 154.
-
-    If the line $7x+24y=p$ is tangent to the circle $(x-1)^2+(y-3)^2=9$, then the greater positive value of $p$ is:
-
-    A. 79 (key)
-    B. 4
-    C. 154
-    D. 29
-
-```
-
-## examon-kcet-mat-vhard-195
-
-- Subject / chapter: mathematics / straight-lines
-- Topic: Tangent condition for a line and a circle
-- Reason: both blind solves disagreed with the published key
-- Examon key: **A** — 17
-- Solver chose: **D** — 27
-- Adjudication verdict: **solver_right**
-- Adjudicator: Tangency |22-p|/5=1 gives p=17 or 27; greater positive is 27 (D). Examon key 17 is wrong.
-- Note: Center (2,4), r=1. p = 6+16 ± 1*5 = 22 ± 5, so p = 27 or 17; greater = 27.
-
-    If the line $3x+4y=p$ is tangent to the circle $(x-2)^2+(y-4)^2=1$, then the greater positive value of $p$ is:
-
-    A. 17 (key)
-    B. 23
-    C. 7
-    D. 27
-
-```
-
-## examon-kcet-mat-vhard-196
-
-- Subject / chapter: mathematics / straight-lines
-- Topic: Tangent condition for a line and a circle
-- Reason: both blind solves disagreed with the published key
-- Examon key: **B** — 18
-- Solver chose: **D** — 28
-- Adjudication verdict: **solver_right**
-- Adjudicator: Tangency |18-p|/5=2 gives p=8 or 28; greater positive is 28 (D). Examon key 18 is wrong.
-- Note: Center (3,2), r=2. p = 12+6 ± 2*5 = 18 ± 10, so p = 28 or 8; greater = 28.
-
-    If the line $4x+3y=p$ is tangent to the circle $(x-3)^2+(y-2)^2=4$, then the greater positive value of $p$ is:
-
-    A. 8
-    B. 18 (key)
-    C. 20
-    D. 28
-
-```
-
-## examon-kcet-mat-vhard-197
-
-- Subject / chapter: mathematics / straight-lines
-- Topic: Tangent condition for a line and a circle
-- Reason: both blind solves disagreed with the published key
-- Examon key: **B** — 41
-- Solver chose: **C** — 80
-- Adjudication verdict: **solver_right**
-- Adjudicator: Tangency |41-p|/13=3 gives p=2 or 80; greater positive is 80 (C). Examon key 41 is wrong.
-- Note: Center (1,3), r=3. p = 5+36 ± 3*13 = 41 ± 39, so p = 80 or 2; greater = 80.
-
-    If the line $5x+12y=p$ is tangent to the circle $(x-1)^2+(y-3)^2=9$, then the greater positive value of $p$ is:
-
-    A. 2
-    B. 41 (key)
-    C. 80
-    D. 93
-
-```
-
 ## examon-kcet-mat-wave2-02-008
 
 - Subject / chapter: mathematics / matrices
 - Topic: Idempotent Matrix
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **B** — $I+2A$
 - Solver chose: **@** — None
 - Solver's derived answer: `I`
@@ -1271,7 +638,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: mathematics / matrices
 - Topic: Involutory Matrix
-- Reason: second solve: no correct option
+- Reason: With A^2 = I and A+I invertible the only admissible matrix is A = I, so the expression collapses to the zero matrix; 'A - I' carries that value only because of the forced value, and the item is a mangled version of the classic A^2 = -I question. Not publishable as it stands.
 - Examon key: **C** — $-A$
 - Solver chose: **@** — None
 - Solver's derived answer: `0`
@@ -1288,51 +655,11 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 ```
 
-## examon-kcet-mat-wave2-03-006
-
-- Subject / chapter: mathematics / vector-algebra
-- Topic: Coplanarity — STP
-- Reason: both blind solves disagreed with the published key
-- Examon key: **B** — Non-coplanar (form a parallelepiped of volume $6$)
-- Solver chose: **A** — Coplanar
-- Adjudication verdict: **solver_right**
-- Adjudicator: c = a+b, so scalar triple product is 0 (det=0): vectors are coplanar. Examon's determinant of -6 is an arithmetic error.
-- Note: Scalar triple product a.(b x c) = -5 + 10 - 5 = 0, so vectors are coplanar (volume zero, not 6).
-
-    The vectors $\vec a = \hat i + 2\hat j - \hat k$, $\vec b = 2\hat i - \hat j + 3\hat k$, $\vec c = 3\hat i + \hat j + 2\hat k$ are:
-
-    A. Coplanar
-    B. Non-coplanar (form a parallelepiped of volume $6$) (key)
-    C. Parallel
-    D. Mutually perpendicular
-
-```
-
-## examon-kcet-mat-wave3-01-008
-
-- Subject / chapter: mathematics / integrals
-- Topic: Integration by Parts
-- Reason: both blind solves disagreed with the published key
-- Examon key: **A** — $1$
-- Solver chose: **C** — $e$
-- Adjudication verdict: **solver_right**
-- Adjudicator: Integral = [x ln x - x]_1^e = 0-(-1) = 1, so eI = e (option C); examon's key 1 answers I, not eI.
-- Note: I = [x ln x - x] from 1 to e = 0 - (-1) = 1, so eI = e.
-
-    If $I=\displaystyle \int_1^e \ln x\,dx$, then the value of $eI$ is
-
-    A. $1$ (key)
-    B. $e-1$
-    C. $e$
-    D. $2e-1$
-
-```
-
 ## examon-kcet-mat-wave3-01-017
 
 - Subject / chapter: mathematics / application-of-integrals
 - Topic: Area Between Curves
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **A** — $\pi - \tfrac{2\sqrt{2}}{3}$
 - Solver chose: **@** — None
 - Solver's derived answer: `4 sin^-1(a/2) + a^3/3, a = sqrt((sqrt17 - 1)/2)  (approx 3.3501)`
@@ -1349,31 +676,11 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 ```
 
-## examon-kcet-mat-wave3-01-018
-
-- Subject / chapter: mathematics / application-of-integrals
-- Topic: Area by Symmetry
-- Reason: both blind solves disagreed with the published key
-- Examon key: **B** — $4$
-- Solver chose: **A** — $8$
-- Adjudication verdict: **solver_right**
-- Adjudicator: Region |x|+|y|<=2 is a square of side 2sqrt(2), area 8 (4 quadrant triangles of area 2). Examon's own solution computed 1/2*4*4=8 then wrongly wrote 4.
-- Note: |x|+|y|=2 is a square with vertices (+-2,0),(0,+-2); diagonals 4,4 so area 8.
-
-    Area enclosed by $|x|+|y|=2$ is:
-
-    A. $8$
-    B. $4$ (key)
-    C. $16$
-    D. $2\sqrt{2}$
-
-```
-
 ## examon-kcet-mat-wave3-01-023
 
 - Subject / chapter: mathematics / differential-equations
 - Topic: Homogeneous
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **A** — $\sec\!\left(\dfrac{y}{x}\right)+\tan\!\left(\dfrac{y}{x}\right)=Cx$
 - Solver chose: **@** — None
 - Solver's derived answer: `sin(y/x) = Cx`
@@ -1390,31 +697,11 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 ```
 
-## examon-kcet-mat-wave3-01-027
-
-- Subject / chapter: mathematics / continuity-and-differentiability
-- Topic: Continuity of Piecewise Function
-- Reason: both blind solves disagreed with the published key
-- Examon key: **A** — $-1$
-- Solver chose: **B** — 0
-- Adjudication verdict: **solver_right**
-- Adjudicator: Continuity at x=1: f(1)=1 (x<=1 branch) must equal right limit 1+b, so b=0. Examon's own line '1=1+b hence b=-1' is an algebra slip.
-- Note: Continuity at x=1 requires f(1)=1 and right limit 1+b, hence b=0.
-
-    If $f(x)=\begin{cases}x^2,&x\le 1\ x+b,&x>1\end{cases}$ is continuous at $x=1$, then $b$ equals:
-
-    A. $-1$ (key)
-    B. 0
-    C. 1
-    D. 2
-
-```
-
 ## examon-kcet-mat-wave3-02-024
 
 - Subject / chapter: mathematics / complex-numbers-and-quadratic-equations
 - Topic: Modulus
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **A** — $\dfrac{5}{\sqrt2}$
 - Solver chose: **@** — None
 - Solver's derived answer: `sqrt(10)`
@@ -1431,31 +718,11 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 ```
 
-## examon-kcet-mat-wave3-02-028
-
-- Subject / chapter: mathematics / sequences-and-series
-- Topic: AP-GP-HP Relation
-- Reason: both blind solves disagreed with the published key
-- Examon key: **A** — AP
-- Solver chose: **C** — HP
-- Adjudication verdict: **solver_right**
-- Adjudicator: 1/a,1/b,1/c in AP gives b=2ac/(a+c); then reciprocals of a/(b+c), b/(c+a), c/(a+b) satisfy 2/y=1/x+1/z, so the ratios are in HP, not AP.
-- Note: HP input gives HP output: verified 2/y = 1/x + 1/z numerically; not AP or GP.
-
-    If $a, b, c$ are in HP then $\frac{a}{b+c}, \frac{b}{c+a}, \frac{c}{a+b}$ are in:
-
-    A. AP (key)
-    B. GP
-    C. HP
-    D. No progression
-
-```
-
 ## examon-kcet-mat-wave3-02-040
 
 - Subject / chapter: mathematics / binomial-theorem
 - Topic: Sum of Coefficients
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **C** — $6$
 - Solver chose: **@** — None
 - Solver's derived answer: `n = log2(96) ~ 6.585 (no integer n)`
@@ -1476,7 +743,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: mathematics / three-dimensional-geometry
 - Topic: Angle between Line and Plane
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **A** — $\sin^{-1}\!\left(\dfrac{3}{\sqrt{27}}\right)$
 - Solver chose: **@** — None
 - Solver's derived answer: `\pi/2 (90^\circ)`
@@ -1493,31 +760,11 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 ```
 
-## examon-kcet-mat-wave3-04-002
-
-- Subject / chapter: mathematics / trigonometric-functions
-- Topic: Triple Angle
-- Reason: both blind solves disagreed with the published key
-- Examon key: **B** — $\dfrac{1}{2}$
-- Solver chose: **A** — $\dfrac{3}{2}$
-- Adjudication verdict: **solver_right**
-- Adjudicator: theta=30deg: sin3theta=1, cos2theta=cos60=+1/2, sum=3/2=option A. Examon published solution errs with cos60=-1/2.
-- Note: theta = 30 deg; sin90 + cos60 = 1 + 1/2 = 3/2.
-
-    If $\sin\theta=\dfrac12$ and $\theta$ is acute, then the value of $\sin 3\theta+\cos 2\theta$ is:
-
-    A. $\dfrac{3}{2}$
-    B. $\dfrac{1}{2}$ (key)
-    C. $1$
-    D. $\dfrac{\sqrt3}{2}$
-
-```
-
 ## examon-kcet-mat-wave3-04-012
 
 - Subject / chapter: mathematics / inverse-trigonometric-functions
 - Topic: Identity
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **A** — $\pi/2$
 - Solver chose: **@** — None
 - Solver's derived answer: `2 sin^{-1}(3/5) = sin^{-1}(24/25) \approx 1.287 rad (73.74 deg)`
@@ -1538,7 +785,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: mathematics / relations-and-functions
 - Topic: Composition
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **A** — $12$
 - Solver chose: **@** — None
 - Solver's derived answer: `17`
@@ -1559,7 +806,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: physics / laws-of-motion
 - Topic: Spring Force
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **D** — $0.10\ \text{m}$
 - Solver chose: **@** — None
 - Solver's derived answer: `0.06 m`
@@ -1576,31 +823,11 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 ```
 
-## examon-kcet-phy-batch02-024
-
-- Subject / chapter: physics / work-energy-and-power
-- Topic: Spring PE
-- Reason: both blind solves disagreed with the published key
-- Examon key: **C** — $4\,\text{m/s}$
-- Solver chose: **A** — $2\,\text{m/s}$
-- Adjudication verdict: **solver_right**
-- Adjudicator: v = x sqrt(k/m) = 0.05 sqrt(320/0.2) = 0.05 x 40 = 2 m/s; Examon wrongly substituted x = 0.10 m.
-- Note: v = x sqrt(k/m) = 0.05*sqrt(320/0.2) = 2 m/s.
-
-    A spring of force constant $320\,\text{N/m}$ is compressed by $5\,$cm and then released to project a $0.2\,$kg ball on a smooth horizontal surface. Neglect all losses. The speed of the ball is:
-
-    A. $2\,\text{m/s}$
-    B. $3\,\text{m/s}$
-    C. $4\,\text{m/s}$ (key)
-    D. $5\,\text{m/s}$
-
-```
-
 ## examon-kcet-phy-batch02-040
 
 - Subject / chapter: physics / system-of-particles-and-rotational-motion
 - Topic: Moment of Inertia of Disc
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **B** — $\tfrac{15}{32}MR^2$
 - Solver chose: **@** — None
 - Solver's derived answer: `13/32 MR^2`
@@ -1617,71 +844,11 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 ```
 
-## examon-kcet-phy-batch03-003
-
-- Subject / chapter: physics / moving-charges-and-magnetism
-- Topic: Force between Parallel Wires
-- Reason: both blind solves disagreed with the published key
-- Examon key: **D** — $2.5 \times 10^{-5}\,\text{N/m}$, attractive
-- Solver chose: **A** — $5 \times 10^{-5}\,\text{N/m}$, attractive
-- Adjudication verdict: **solver_right**
-- Adjudicator: F/L = mu0 I1 I2/(2 pi d) = 4pi x 10^-7 x 50/(0.4 pi) = 5 x 10^-5 N/m; same-direction currents attract.
-- Note: F/L = mu0 I1 I2/(2 pi d) = 4pi e-7 x 50/(2 pi x 0.2) = 5e-5 N/m; same-direction currents attract.
-
-    Two long parallel wires 20 cm apart carry currents of 5 A and 10 A in the same direction in air. The force per unit length on each wire is:
-
-    A. $5 \times 10^{-5}\,\text{N/m}$, attractive
-    B. $5 \times 10^{-5}\,\text{N/m}$, repulsive
-    C. $1 \times 10^{-4}\,\text{N/m}$, attractive
-    D. $2.5 \times 10^{-5}\,\text{N/m}$, attractive (key)
-
-```
-
-## examon-kcet-phy-batch03-010
-
-- Subject / chapter: physics / moving-charges-and-magnetism
-- Topic: Force on Current-carrying Wire
-- Reason: both blind solves disagreed with the published key
-- Examon key: **A** — $0.12\,\text{N}$
-- Solver chose: **B** — $0.60\,\text{N}$
-- Adjudication verdict: **solver_right**
-- Adjudicator: F = BIL sin(theta) = 0.6 x 5 x 0.4 x 0.5 = 0.6 N. Examon's own working also yields 0.6 N.
-- Note: F = BIL sin30 = 0.6x0.4x5x0.5 = 0.6 N.
-
-    A straight wire of length $40\,\text{cm}$ carries a current of $5\,\text{A}$ in a uniform magnetic field of magnitude $0.6\,\text{T}$. If the wire makes an angle of $30^\circ$ with the magnetic field, the magnetic force on the wire is:
-
-    A. $0.12\,\text{N}$ (key)
-    B. $0.60\,\text{N}$
-    C. $0.24\,\text{N}$
-    D. $1.20\,\text{N}$
-
-```
-
-## examon-kcet-phy-batch03-016
-
-- Subject / chapter: physics / moving-charges-and-magnetism
-- Topic: Solenoid Cross-section — Field Direction
-- Reason: both blind solves disagreed with the published key
-- Examon key: **A** — along the axis, pointing right
-- Solver chose: **B** — along the axis, pointing left
-- Adjudication verdict: **solver_right**
-- Adjudicator: Top row into page, bottom row out of page: both wires' fields on the axis point left, so internal B points left. Drawn arrow is wrong.
-- Note: Top current into page, bottom out of page: circulation is clockwise seen from right end, so internal field points left.
-
-    The longitudinal cross-section of a long solenoid is such that the current in the top row of wire sections is INTO the page $(\times)$ and in the bottom row is OUT of the page $(\cdot)$. The axis of the solenoid is horizontal. The magnetic field inside the solenoid is:
-
-    A. along the axis, pointing right (key)
-    B. along the axis, pointing left
-    C. radially outward
-    D. zero
-
-```
-
 ## examon-kcet-phy-batch05-009
 
 - Subject / chapter: physics / thermodynamics
 - Topic: First law
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **A** — $40\,\text{J}$
 - Solver chose: **@** — None
 - Solver's derived answer: `0 J (work done by the gas in process II)`
@@ -1698,31 +865,11 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 ```
 
-## examon-kcet-phy-batch05-026
-
-- Subject / chapter: physics / waves
-- Topic: Beats
-- Reason: both blind solves disagreed with the published key
-- Examon key: **C** — $260\,\text{Hz}$
-- Solver chose: **A** — $252\,\text{Hz}$
-- Adjudication verdict: **solver_right**
-- Adjudicator: Wax lowers the 256 Hz fork; beats 4 -> 2 needs the other fork below 256, so 252 Hz. A 260 Hz fork would give more beats.
-- Note: Wax lowers 256 Hz fork; other fork 252 gives beat 4 then 2 (254 vs 252).
-
-    Two tuning forks produce $4$ beats per second when sounded together. If one fork has frequency $256\,\text{Hz}$ and its prongs are slightly loaded with wax, the beat frequency becomes $2$ per second. The frequency of the other fork is:
-
-    A. $252\,\text{Hz}$
-    B. $258\,\text{Hz}$
-    C. $260\,\text{Hz}$ (key)
-    D. $254\,\text{Hz}$
-
-```
-
 ## examon-kcet-phy-cur-001
 
 - Subject / chapter: physics / current-electricity
 - Topic: Ohm's Law
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **A** — $\dfrac{16}{3}\text{ W}$
 - Solver chose: **@** — None
 - Solver's derived answer: `16 W`
@@ -1739,71 +886,11 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 ```
 
-## examon-kcet-phy-hard-001
-
-- Subject / chapter: physics / current-electricity
-- Topic: Series-parallel branch current
-- Reason: both blind solves disagreed with the published key
-- Examon key: **C** — 1.2 A
-- Solver chose: **B** — 3.6 A
-- Adjudication verdict: **solver_right**
-- Adjudicator: Rp=4||12=3 ohm, Rtot=5 ohm, I=4.8 A, Vp=14.4 V; the 4-ohm branch carries 14.4/4=3.6 A, not 1.2 A.
-- Note: 4||12=3 ohm; Rtot=5; I=4.8 A; V=14.4 V; I4=3.6 A.
-
-    A 24 V source is connected to a $2\,\Omega$ resistor in series with a parallel combination of $4\,\Omega$ and $12\,\Omega$. The current through the $4\,\Omega$ branch is:
-
-    A. 6 A
-    B. 3.6 A
-    C. 1.2 A (key)
-    D. 4.8 A
-
-```
-
-## examon-kcet-phy-hard-040
-
-- Subject / chapter: physics / moving-charges-and-magnetism
-- Topic: Field at the centre of a circular loop
-- Reason: both blind solves disagreed with the published key
-- Examon key: **B** — anticlockwise
-- Solver chose: **D** — cannot be determined
-- Adjudication verdict: **solver_right**
-- Adjudicator: Wire in the coil plane gives a centre field in-plane and singular, while the coil field is normal to the plane; cancellation impossible, wire sense unspecified.
-- Note: Centre lies on the wire axis, so the wire field there is undefined; wire current direction unspecified, so coil current sense is not fixed.
-
-    A circular coil has 5 turns and radius $0.20\,\text{m}$. It carries a current of $4\,\text{A}$. A long straight wire carrying $10\,\text{A}$ passes through the centre of the coil in the plane of the coil. The net magnetic field at the centre is zero. The current in the coil must be
-
-    A. clockwise
-    B. anticlockwise (key)
-    C. zero
-    D. cannot be determined
-
-```
-
-## examon-kcet-phy-hard-041
-
-- Subject / chapter: physics / ray-optics-and-optical-instruments
-- Topic: Combination of lenses
-- Reason: both blind solves disagreed with the published key
-- Examon key: **A** — $60\,\text{cm}$ on the right of the combination
-- Solver chose: **B** — $60\,\text{cm}$ on the left of the combination
-- Adjudication verdict: **solver_right**
-- Adjudicator: 1/F=1/20-1/30 so F=+60 cm; 1/v=1/60-1/30=-1/60 gives v=-60 cm, a virtual image 60 cm on the left.
-- Note: F = +60 cm; 1/v = 1/60 - 1/30 = -1/60 so v = -60 cm: virtual image 60 cm on the left (object side).
-
-    Two thin lenses of focal lengths $+20\,\text{cm}$ and $-30\,\text{cm}$ are kept in contact. An object is placed $30\,\text{cm}$ in front of the combination. The image formed is at
-
-    A. $60\,\text{cm}$ on the right of the combination (key)
-    B. $60\,\text{cm}$ on the left of the combination
-    C. $12\,\text{cm}$ on the right of the combination
-    D. at infinity
-
-```
-
 ## examon-kcet-phy-hard-042
 
 - Subject / chapter: physics / ray-optics-and-optical-instruments
 - Topic: Combination of lenses
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **A** — $+5$
 - Solver chose: **@** — None
 - Solver's derived answer: `-1 (real inverted image, 12 cm on far side)`
@@ -1824,7 +911,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: physics / ray-optics-and-optical-instruments
 - Topic: Combination of lenses
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **A** — infinity
 - Solver chose: **@** — None
 - Solver's derived answer: `20 cm behind the lenses`
@@ -1845,7 +932,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: physics / thermodynamics
 - Topic: Carnot efficiency
-- Reason: second solve: no correct option
+- Reason: different_option
 - Examon key: **A** — $50\%$
 - Solver chose: **B** — $60\%$
 - Adjudication verdict: **solver_right**
@@ -1861,31 +948,11 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 ```
 
-## examon-kcet-phy-hard-145
-
-- Subject / chapter: physics / moving-charges-and-magnetism
-- Topic: Radius of a charged particle in a magnetic field
-- Reason: both blind solves disagreed with the published key
-- Examon key: **D** — 10 m
-- Solver chose: **B** — 20 m
-- Adjudication verdict: **solver_right**
-- Adjudicator: r = mv/(qB) = (2e-6*18)/(2e-6*0.9) = 36/1.8 = 20 m (option B). Examon's key 10 m is wrong.
-- Note: r = mv/(qB) = (2e-6 x 18)/(2e-6 x 0.9) = 20 m.
-
-    A particle of mass $2\times 10^{-6}$ kg and charge $2\times 10^{-6}$ C enters a uniform magnetic field of induction $0.9$ T perpendicular to the field with speed $18$ m/s. The radius of the circular path described is:
-
-    A. 18 m
-    B. 20 m
-    C. 0.05 m
-    D. 10 m (key)
-
-```
-
 ## examon-kcet-phy-hard-152
 
 - Subject / chapter: physics / alternating-current
 - Topic: Transformer turns ratio
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **B** — $\dfrac{5}{9}$
 - Solver chose: **@** — None
 - Solver's derived answer: `14/15`
@@ -1906,7 +973,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: physics / alternating-current
 - Topic: Transformer turns ratio
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **A** — 0.50 A
 - Solver chose: **@** — None
 - Solver's derived answer: `0.86 A`
@@ -1927,7 +994,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: physics / oscillations
 - Topic: Maximum speed in SHM
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **A** — $0.16\text{ m s}^{-1}$
 - Solver chose: **@** — None
 - Solver's derived answer: `0.139 m s^-1`
@@ -1948,7 +1015,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: physics / oscillations
 - Topic: Maximum speed in SHM
-- Reason: both blind solves disagreed with the published key
+- Reason: no_correct_option
 - Examon key: **A** — $0.36\text{ m s}^{-1}$
 - Solver chose: **@** — None
 - Solver's derived answer: `0.255 m s^-1`
@@ -1969,7 +1036,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: physics / oscillations
 - Topic: Maximum acceleration in SHM
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **A** — $2.94\text{ m s}^{-2}$
 - Solver chose: **@** — None
 - Solver's derived answer: `5.15 m s^-2`
@@ -1986,31 +1053,11 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 ```
 
-## examon-kcet-phy-hard-198
-
-- Subject / chapter: physics / system-of-particles-and-rotational-motion
-- Topic: Angular acceleration under a constant torque
-- Reason: both blind solves disagreed with the published key
-- Examon key: **D** — 1.2 rad/s$^2$
-- Solver chose: **A** — 2.4 rad/s$^2$
-- Adjudication verdict: **solver_right**
-- Adjudicator: Ring I = MR^2 = 5*0.25 = 1.25 kg m^2; alpha = 3/1.25 = 2.4 rad/s^2 (option A). Examon's I = 2.5 is an arithmetic slip.
-- Note: Ring I = mr² = 1.25 kg m²; alpha = 3/1.25 = 2.4 rad/s².
-
-    A ring of mass 5 kg and radius 0.5 m is acted upon by a constant torque of 3 N m about its symmetry axis. The angular acceleration produced is:
-
-    A. 2.4 rad/s$^2$
-    B. 1.25 rad/s$^2$
-    C. 0.3 rad/s$^2$
-    D. 1.2 rad/s$^2$ (key)
-
-```
-
 ## examon-kcet-phy-hard-247
 
 - Subject / chapter: physics / moving-charges-and-magnetism
 - Topic: Radius of a charged particle in a magnetic field
-- Reason: both blind solves disagreed with the published key
+- Reason: no_correct_option
 - Examon key: **C** — 44 m
 - Solver chose: **@** — None
 - Solver's derived answer: `88 m`
@@ -2027,31 +1074,11 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 ```
 
-## examon-kcet-phy-hard-250
-
-- Subject / chapter: physics / moving-charges-and-magnetism
-- Topic: Radius of a charged particle in a magnetic field
-- Reason: both blind solves disagreed with the published key
-- Examon key: **D** — 42 m
-- Solver chose: **A** — 84 m
-- Adjudication verdict: **solver_right**
-- Adjudicator: r = mv/(qB) = (3e-6*28)/(2e-6*0.5) = 84 m (option A). Examon's key 42 m omitted the B factor.
-- Note: r = mv/qB = 8.4e-5/1.0e-6 = 84 m.
-
-    A particle of mass $3\times 10^{-6}$ kg and charge $2\times 10^{-6}$ C enters a uniform magnetic field of induction $0.5$ T perpendicular to the field with speed $28$ m/s. The radius of the circular path described is:
-
-    A. 84 m
-    B. 168 m
-    C. 0.012 m
-    D. 42 m (key)
-
-```
-
 ## examon-kcet-phy-hard-270
 
 - Subject / chapter: physics / oscillations
 - Topic: Maximum acceleration in SHM
-- Reason: both blind solves disagreed with the published key
+- Reason: no_correct_option
 - Examon key: **B** — $2.43\,\text{m s}^{-2}$
 - Solver chose: **@** — None
 - Solver's derived answer: `2.16 m s^-2`
@@ -2072,7 +1099,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: physics / ray-optics-and-optical-instruments
 - Topic: Combination of a convex and a concave lens
-- Reason: both blind solves disagreed with the published key
+- Reason: no_correct_option
 - Examon key: **D** — At infinity
 - Solver chose: **@** — None
 - Solver's derived answer: `v = -30 cm (virtual image 30 cm on the object's side)`
@@ -2089,34 +1116,11 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 ```
 
-## examon-kcet-phy-pyq25-001
-
-- Subject / chapter: physics / laws-of-motion
-- Topic: Friction — Angle of Repose
-- Reason: external source contradicts the published key
-- Examon key: **C** — $\mu=\tan\theta$
-- Solver chose: **A** — $\mu=\cot\theta$
-- External source: Official KCET 2025 Physics (Code D4) question paper with answer key
-- Correct answer per that source: **A** — $\mu=\cot\theta$
-- Why: Official key: Q1 -> option 1 (mu = cot theta). String at O makes angle theta with the vertical: T2 sin(theta) = Mg, T1 = T2 cos(theta), f = mu Mg -> mu = cot(theta). Examon's key (tan theta) is wrong; the official KEA answer is option A.
-- Adjudication verdict: **solver_right**
-- Adjudicator: Knot at O: inclined string tension T gives T sin(theta) = Mg (holds hanging block), T cos(theta) = T1 = mu Mg; mu = cot(theta).
-- Note: KCET 2025 Q1: knot gives T sin(theta) = Mg and T cos(theta) = mu Mg, hence mu = cot(theta).
-
-    A block $A$ of mass $M$ rests on a rough horizontal floor and is connected by a light string passing over a smooth support at point $O$ to another block $B$ of the same mass $M$ hanging freely. In equilibrium, the string segment attached to block $A$ makes an angle $\theta$ with the horizontal, as shown. The coefficient of static friction between block $A$ and the floor is
-
-    A. $\mu=\cot\theta$
-    B. $\mu=\sin\theta$
-    C. $\mu=\tan\theta$ (key)
-    D. $\mu=\cos\theta$
-
-```
-
 ## examon-kcet-phy-vhard-001
 
 - Subject / chapter: physics / current-electricity
 - Topic: Three-branch node analysis
-- Reason: both blind solves disagreed with the published key
+- Reason: no_correct_option
 - Examon key: **B** — 0.89 A
 - Solver chose: **@** — None
 - Solver's derived answer: `1.00 A`
@@ -2137,7 +1141,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: physics / electric-charges-and-fields
 - Topic: Dipole field-potential relation on axial line
-- Reason: no option carries the correct value
+- Reason: no_correct_option
 - Examon key: **B** — 800 m$^{-1}$
 - Solver chose: **@** — None
 - Solver's derived answer: `8 m^-1`
@@ -2161,7 +1165,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: physics / electric-charges-and-fields
 - Topic: Dipole field-potential relation on axial line
-- Reason: no option carries the correct value
+- Reason: no_correct_option
 - Examon key: **A** — 666.67 m$^{-1}$
 - Solver chose: **@** — None
 - Solver's derived answer: `6.67 m^-1`
@@ -2185,7 +1189,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: physics / electric-charges-and-fields
 - Topic: Dipole field-potential relation on axial line
-- Reason: no option carries the correct value
+- Reason: no_correct_option
 - Examon key: **B** — 571.43 m$^{-1}$
 - Solver chose: **@** — None
 - Solver's derived answer: `5.71 m^-1`
@@ -2209,7 +1213,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: physics / electric-charges-and-fields
 - Topic: Dipole field-potential relation on axial line
-- Reason: no option carries the correct value
+- Reason: no_correct_option
 - Examon key: **D** — 800 m$^{-1}$
 - Solver chose: **@** — None
 - Solver's derived answer: `8 m^-1`
@@ -2233,7 +1237,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: physics / electric-charges-and-fields
 - Topic: Dipole field-potential relation on axial line
-- Reason: no option carries the correct value
+- Reason: no_correct_option
 - Examon key: **B** — 666.67 m$^{-1}$
 - Solver chose: **@** — None
 - Solver's derived answer: `6.67 m^-1`
@@ -2257,7 +1261,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: physics / electric-charges-and-fields
 - Topic: Dipole field-potential relation on axial line
-- Reason: no option carries the correct value
+- Reason: no_correct_option
 - Examon key: **B** — 571.43 m$^{-1}$
 - Solver chose: **@** — None
 - Solver's derived answer: `5.71 m^-1`
@@ -2281,7 +1285,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: physics / electric-charges-and-fields
 - Topic: Dipole field-potential relation on axial line
-- Reason: no option carries the correct value
+- Reason: no_correct_option
 - Examon key: **C** — 800 m$^{-1}$
 - Solver chose: **@** — None
 - Solver's derived answer: `8 m^-1`
@@ -2301,71 +1305,11 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 ```
 
-## examon-kcet-phy-vhard-032
-
-- Subject / chapter: physics / moving-charges-and-magnetism
-- Topic: Velocity selector followed by circular motion
-- Reason: both blind solves disagreed with the published key
-- Examon key: **D** — 1600 C/kg
-- Solver chose: **B** — 3200 C/kg
-- Adjudication verdict: **solver_right**
-- Adjudicator: v = E/B = 240 m/s; q/m = v/(Br) = 240/(0.5*0.15) = 3200 C/kg, option B. Examon's key 1600 forgets factor B.
-- Note: q/m = E/(B^2 r) = 120/(0.25x0.15) = 3200 C/kg, option B.
-
-    A charged particle passes undeflected through crossed electric and magnetic fields of magnitudes 120 V/m and 0.5 T respectively. It then enters a uniform magnetic field of the same induction and moves in a circular path of radius 0.15 m. The ratio $q/m$ for the particle is:
-
-    A. 9 C/kg
-    B. 3200 C/kg
-    C. 480 C/kg
-    D. 1600 C/kg (key)
-
-```
-
-## examon-kcet-phy-vhard-033
-
-- Subject / chapter: physics / moving-charges-and-magnetism
-- Topic: Velocity selector followed by circular motion
-- Reason: both blind solves disagreed with the published key
-- Examon key: **D** — 1166.67 C/kg
-- Solver chose: **C** — 1944.44 C/kg
-- Adjudication verdict: **solver_right**
-- Adjudicator: v = 140/0.6 = 233.3 m/s; q/m = v/(Br) = 233.3/(0.6*0.2) = 1944.44 C/kg, option C. Examon's key 1166.67 omits B.
-- Note: q/m = E/(B^2 r) = 140/(0.36x0.2) = 1944.44 C/kg, option C.
-
-    A charged particle passes undeflected through crossed electric and magnetic fields of magnitudes 140 V/m and 0.6 T respectively. It then enters a uniform magnetic field of the same induction and moves in a circular path of radius 0.2 m. The ratio $q/m$ for the particle is:
-
-    A. 16.8 C/kg
-    B. 972.22 C/kg
-    C. 1944.44 C/kg
-    D. 1166.67 C/kg (key)
-
-```
-
-## examon-kcet-phy-vhard-041
-
-- Subject / chapter: physics / alternating-current
-- Topic: Average power in series LCR circuit
-- Reason: both blind solves disagreed with the published key
-- Examon key: **A** — 605 W
-- Solver chose: **D** — 1210 W
-- Adjudication verdict: **solver_right**
-- Adjudicator: X = 25-5 = 20 ohm, Z^2 = 400+400 = 800; P = 220^2*20/800 = 1210 W, option D. Examon's 605 wrongly used Z=40.
-- Note: Z^2 = 20^2 + 20^2 = 800; P = 220^2 x 20/800 = 1210 W, option D.
-
-    A series LCR circuit has $R = 20\,\Omega$, $X_L = 25\,\Omega$ and $X_C = 5\,\Omega$. When connected to a $220\,\text{V}$ rms source, the average power consumed is:
-
-    A. 605 W (key)
-    B. 2420 W
-    C. 3422.4 W
-    D. 1210 W
-
-```
-
 ## examon-kcet-phy-vhard-122
 
 - Subject / chapter: physics / electric-charges-and-fields
 - Topic: Dipole field-potential relation on axial line
-- Reason: no option carries the correct value
+- Reason: no_correct_option
 - Examon key: **B** — 800 m$^{-1}$
 - Solver chose: **@** — None
 - Solver's derived answer: `8 m^{-1}`
@@ -2389,7 +1333,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: physics / electric-charges-and-fields
 - Topic: Dipole field-potential relation on axial line
-- Reason: no option carries the correct value
+- Reason: no_correct_option
 - Examon key: **B** — 666.67 m$^{-1}$
 - Solver chose: **@** — None
 - Solver's derived answer: `6.67 m^{-1}`
@@ -2413,7 +1357,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: physics / electric-charges-and-fields
 - Topic: Dipole field-potential relation on axial line
-- Reason: no option carries the correct value
+- Reason: no_correct_option
 - Examon key: **C** — 571.43 m$^{-1}$
 - Solver chose: **@** — None
 - Solver's derived answer: `5.71 m^{-1}`
@@ -2437,7 +1381,7 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 - Subject / chapter: physics / laws-of-motion
 - Topic: Banking with friction
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **D** — $30\sqrt{3}$ m/s
 - Solver chose: **@** — None
 - Solver's derived answer: `v_max = √(rg(μ+tanθ)/(1−μtanθ)) = √(900√3) = 30·3^(1/4) ≈ 39.5 m/s`
@@ -2454,31 +1398,11 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
 
 ```
 
-## examon-kcet-phy-wave2-01-006
-
-- Subject / chapter: physics / laws-of-motion
-- Topic: Conical pendulum
-- Reason: both blind solves disagreed with the published key
-- Examon key: **B** — $2\pi\sqrt{\dfrac{1}{10}}\ \text{s}$
-- Solver chose: **A** — $2\pi\sqrt{\dfrac{1}{20}}\ \text{s}$
-- Adjudication verdict: **solver_right**
-- Adjudicator: T=2pi*sqrt(L cos60/g)=2pi*sqrt(0.5/10)=2pi*sqrt(1/20) (A). Examon key contradicts its own working solution.
-- Note: Conical pendulum T = 2π√(L cosθ/g) = 2π√(1×0.5/10) = 2π√(1/20) s.
-
-    A conical pendulum has string length $L=1$ m and makes an angle $\theta=60^\circ$ with the vertical. Taking $g=10\ \text{m s}^{-2}$, its time period is:
-
-    A. $2\pi\sqrt{\dfrac{1}{20}}\ \text{s}$
-    B. $2\pi\sqrt{\dfrac{1}{10}}\ \text{s}$ (key)
-    C. $2\pi\sqrt{\dfrac{1}{5}}\ \text{s}$
-    D. $\pi\sqrt{2}\ \text{s}$
-
-```
-
 ## examon-kcet-phy-wave2-01-012
 
 - Subject / chapter: physics / work-energy-and-power
 - Topic: Variable force F(x) — graph reading
-- Reason: second solve: no correct option
+- Reason: no_correct_option
 - Examon key: **C** — $90$ J
 - Solver chose: **@** — None
 - Solver's derived answer: `W = ½(10+20)(2) + 20(2) + ½(20+10)(2) = 100 J`
@@ -2492,185 +1416,5 @@ is parallel to $2\hat i-\hat j+\hat k$. Its vector equation is
     B. $80$ J
     C. $90$ J (key)
     D. $120$ J
-
-```
-
-## examon-kcet-phy-wave2-01-024
-
-- Subject / chapter: physics / system-of-particles-and-rotational-motion
-- Topic: Angular velocity — θ-t graph reading
-- Reason: both blind solves disagreed with the published key
-- Examon key: **B** — $2.5$
-- Solver chose: **B** — $2.5$
-- Adjudication verdict: **both_wrong**
-- Adjudicator: omega is 10 then 12.5 rad/s, so alpha=2.5/2=1.25 rad/s^2 (mean 0.625); option 2.5 is only delta-omega in rad/s.
-- Note: α = 0 for 0–2 s, 2.5 rad/s² for 2–4 s; mean over 0–4 s is 1.25 (not offered); B only nonzero α shown.
-
-    The angle-time graph for a rotating disc rises linearly from $0$ to $20$ rad between $t=0$ and $t=2$ s, then linearly from $20$ to $45$ rad between $t=2$ and $t=4$ s, and is horizontal from $t=4$ to $t=6$ s. The angular acceleration between $t=0$ and $t=4$ s is (in rad/s²):
-
-    A. $0$
-    B. $2.5$ (key)
-    C. $5$
-    D. $12.5$
-
-```
-
-## examon-kcet-phy-wave2-02-023
-
-- Subject / chapter: physics / moving-charges-and-magnetism
-- Topic: Mass spectrometer
-- Reason: both blind solves disagreed with the published key
-- Examon key: **B** — $2 \times 10^{-26}\,\text{kg}$
-- Solver chose: **A** — $2 \times 10^{-27}\,\text{kg}$
-- Adjudication verdict: **solver_right**
-- Adjudicator: v=E/B0=2e6 m/s; m=qBr/v=(1.6e-19)(0.5)(0.05)/(2e6)=2e-27 kg (A). Examon key double-counted a factor 10.
-- Note: v = E/B0 = 2e6 m/s; m = qBr/v = 2e-27 kg.
-
-    In a Bainbridge mass spectrometer, ions of charge $q = 1.6\times 10^{-19}\,\text{C}$ pass through a velocity selector with $E = 2\times 10^5\,\text{V/m}$ and $B_0 = 0.1\,\text{T}$. They then enter a region of magnetic field $B = 0.5\,\text{T}$ and describe a semicircle of radius $r = 5\,\text{cm}$. The mass of the ion is:
-
-    A. $2 \times 10^{-27}\,\text{kg}$
-    B. $2 \times 10^{-26}\,\text{kg}$ (key)
-    C. $4 \times 10^{-27}\,\text{kg}$
-    D. $4 \times 10^{-26}\,\text{kg}$
-
-```
-
-## examon-kcet-phy-wave2-02-030
-
-- Subject / chapter: physics / alternating-current
-- Topic: Transformer efficiency
-- Reason: both blind solves disagreed with the published key
-- Examon key: **A** — $0.18\,\text{A}$
-- Solver chose: **B** — $0.22\,\text{A}$
-- Adjudication verdict: **solver_right**
-- Adjudicator: Vs=11 V, Pout=44 W, Pin=48.9 W, Ip=48.9/220=0.222 A (B). Examon's own solution also gives 0.22 A.
-- Note: Vs = 11 V, output 44 W, input 48.9 W, Ip = 48.9/220 = 0.22 A.
-
-    A step-down transformer has a turns ratio $N_p : N_s = 20 : 1$. The primary is connected to $220\,\text{V}$ AC and the secondary supplies a current of $4\,\text{A}$ to a resistive load. If the efficiency of the transformer is $90\%$, the primary current is approximately:
-
-    A. $0.18\,\text{A}$ (key)
-    B. $0.22\,\text{A}$
-    C. $0.20\,\text{A}$
-    D. $0.50\,\text{A}$
-
-```
-
-## examon-kcet-phy-wave2-03-008
-
-- Subject / chapter: physics / wave-optics
-- Topic: YDSE Slab Shift
-- Reason: both blind solves disagreed with the published key
-- Examon key: **B** — $5$ mm
-- Solver chose: **A** — $10$ mm
-- Adjudication verdict: **solver_right**
-- Adjudicator: Shift=D(mu-1)t/d = 1*0.5*1e-5/(5e-4)=0.01 m=10 mm (A). Examon key contradicts its own computed 10 mm.
-- Note: Shift = (mu-1)tD/d = 0.5 x 10e-6 / 0.5e-3 = 0.01 m = 10 mm.
-
-    In Young's double-slit experiment, monochromatic light is used. A thin glass slab of refractive index $\mu=1.5$ and thickness $t=10\,\mu$m is placed in front of one slit. If slit separation is $d=0.5$ mm and screen distance is $D=1$ m, the shift of the central fringe is:
-
-    A. $10$ mm
-    B. $5$ mm (key)
-    C. $15$ mm
-    D. $0.5$ mm
-
-```
-
-## examon-kcet-phy-wave2-03-027
-
-- Subject / chapter: physics / electromagnetic-waves
-- Topic: E and B Field Ratio
-- Reason: both blind solves disagreed with the published key
-- Examon key: **A** — $600\,\text{V m}^{-1}$
-- Solver chose: **B** — $6\times10^2\,\text{V m}^{-1}$
-- Adjudication verdict: **examon_right**
-- Adjudicator: E0=cB0=3e8*2e-6=600 V/m (A). Option B (6e2 V/m) is a numerically identical duplicate, so solver's index is also valid.
-- Note: E0 = cB0 = 3e8 x 2e-6 = 6e2 V/m. Option A (600 V/m) is numerically identical duplicate.
-
-    In vacuum, an electromagnetic wave has magnetic field amplitude $B_0=2\times10^{-6}\,\text{T}$. The corresponding electric field amplitude is:
-
-    A. $600\,\text{V m}^{-1}$ (key)
-    B. $6\times10^2\,\text{V m}^{-1}$
-    C. $1.5\times10^{-2}\,\text{V m}^{-1}$
-    D. $6\times10^{14}\,\text{V m}^{-1}$
-
-```
-
-## examon-kcet-phy-wave3-01-003
-
-- Subject / chapter: physics / laws-of-motion
-- Topic: Friction on rough incline (diagram)
-- Reason: both blind solves disagreed with the published key
-- Examon key: **B** — $0.49$ m/s²
-- Solver chose: **C** — $0.98$ m/s²
-- Adjudication verdict: **solver_right**
-- Adjudicator: sin=0.1961, cos=0.9806; a=g(sin-mu_k cos)=10(0.1961-0.0981)=0.98 m/s^2 (C). Examon key halved its own result.
-- Note: tanθ=0.2 gives sinθ=0.1961, cosθ=0.9806; a=10(0.1961-0.1×0.9806)=0.98 m/s².
-
-    A block just begins to slide down a rough incline of angle $\theta$ when $\tan\theta = \mu_s = 0.2$. Once moving, the coefficient of kinetic friction is $\mu_k = 0.1$. What is the acceleration of the block down the incline? Take $g = 10\,\text{m/s}^2$.
-
-    A. $0$ m/s²
-    B. $0.49$ m/s² (key)
-    C. $0.98$ m/s²
-    D. $1.96$ m/s²
-
-```
-
-## examon-kcet-phy-wave3-01-020
-
-- Subject / chapter: physics / work-energy-and-power
-- Topic: Variable force — integration
-- Reason: both blind solves disagreed with the published key
-- Examon key: **D** — $14$ J
-- Solver chose: **C** — $12$ J
-- Adjudication verdict: **solver_right**
-- Adjudicator: W=int_0^2(3x^2+2x)dx=[x^3+x^2]=8+4=12 J (C). Examon key contradicts its own solution.
-- Note: ∫0^2(3x²+2x)dx = [x³+x²]0^2 = 8+4 = 12 J.
-
-    A force $F=(3x^2+2x)$ N acts on a particle along the $x$-axis. The work done by this force in moving the particle from $x=0$ to $x=2$ m is:
-
-    A. $8$ J
-    B. $10$ J
-    C. $12$ J
-    D. $14$ J (key)
-
-```
-
-## examon-kcet-phy-wave3-02-023
-
-- Subject / chapter: physics / moving-charges-and-magnetism
-- Topic: Force Between Parallel Currents
-- Reason: both blind solves disagreed with the published key
-- Examon key: **C** — $2\times 10^{-6}\,\text{N/m}$ (attractive)
-- Solver chose: **A** — $2\times 10^{-4}\,\text{N/m}$ (attractive)
-- Adjudication verdict: **solver_right**
-- Adjudicator: F/L=mu0*I1*I2/(2*pi*d)=4pi*1e-7*100/(0.2*pi)=2e-4 N/m, attractive for same-direction currents (A).
-- Note: F/L = mu0*I1*I2/(2*pi*d) = 2e-4 N/m; same-direction currents attract.
-
-    Two long parallel wires, $0.1\,\text{m}$ apart, each carry $10\,\text{A}$ in the same direction. The force per metre on each wire is:
-
-    A. $2\times 10^{-4}\,\text{N/m}$ (attractive)
-    B. $2\times 10^{-4}\,\text{N/m}$ (repulsive)
-    C. $2\times 10^{-6}\,\text{N/m}$ (attractive) (key)
-    D. $0$
-
-```
-
-## examon-kcet-phy-wave3-04-010
-
-- Subject / chapter: physics / waves
-- Topic: Wave on a stretched string — tension dependence
-- Reason: both blind solves disagreed with the published key
-- Examon key: **A** — $1.98v$
-- Solver chose: **B** — $2.00v$
-- Adjudication verdict: **solver_right**
-- Adjudicator: v'=sqrt(4T/(mu/1.01))=sqrt(4.04)v=2.00998v; closest listed option is 2.00v (marginally over 2.02v), 1.98v is farther.
-- Note: mu'=mu/1.01, v'=sqrt(4x1.01)v=2.00998v. Closest listed is 2.00v (2.02v nearly tied); 1.98v is farther.
-
-    A stretched wire of length $L$ and linear mass density $\mu$ carries a transverse wave of speed $v$ under tension $T$. The wire is now stretched slightly so that its length becomes $1.01L$, while its mass remains unchanged, and the tension is increased to $4T$. Neglect any change in cross-sectional shape except that implied by constant mass. The new wave speed is closest to:
-
-    A. $1.98v$ (key)
-    B. $2.00v$
-    C. $2.02v$
-    D. $4.04v$
 
 ```

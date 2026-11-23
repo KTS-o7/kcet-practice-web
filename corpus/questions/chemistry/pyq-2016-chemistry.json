@@ -1356,15 +1356,21 @@
    3
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "checks": {
    "key_official": true,
    "blind_haiku": 1,
    "verify": "key_confirmed",
    "notes": "Transcription correct. [Co(AA)a2b2] has 3 geometrical isomers, one chiral, so 4 stereoisomers total; key's 'Four' counts optical isomers and is chemically valid.",
-   "solver_agrees": [],
-   "status_reason": "blind solver and key disagree"
+   "solver_agrees": [
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 3,
+    "confidence": "high",
+    "note": "blind resolve confirmed the paper's key"
+   }
   }
  },
  {

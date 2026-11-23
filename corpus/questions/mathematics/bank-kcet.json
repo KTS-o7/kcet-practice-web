@@ -326,7 +326,7 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Powers of i",
   "difficulty": "easy",
@@ -349,7 +349,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 0,
@@ -369,7 +368,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Powers of i cycle mod 4: i^2026=-1, i^2027=-i, i^2028=1, so sum = -i. No option equals -i; keyed -1-i is wrong.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "BROKEN AS PRINTED: any three consecutive powers of i sum to i^(n+1), and with n = 2026 the sum is i^2027 = −i; no listed option equals −i (i^2024 + i^2025 + i^2026 would give i).",
+    "working": "2026 ≡ 2 (mod 4) ⇒ i^2026 = −1, i^2027 = −i, i^2028 = 1 (2028 ≡ 0 mod 4). Sum = −1 − i + 1 = −i. Equivalently i^2026(1 + i + i²) = i^2026·i = i^2027 = −i.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "The sum is -i and no option carries it: powers of i cycle mod 4 with 2026 ≡ 2, 2027 ≡ 3, 2028 ≡ 0, giving -1 - i + 1 = -i, equivalently i^2026(1 + i + i²) = i^2027 = -i. The options -1-i, -1+i, 1-i and i are all different from -i, so the keyed -1-i is wrong; the publisher's own solution reaches -i and then admits no letter matches."
   }
  },
  {
@@ -551,7 +560,7 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Special Matrix",
   "difficulty": "easy",
@@ -574,7 +583,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 0,
@@ -594,7 +602,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Symmetric with zero diagonal need not be zero, skew, idempotent or self-invertible; 3x3 [[0,1,0],[1,0,0],[0,0,0]] refutes every option.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "BROKEN AS PRINTED: every option has a counterexample. Option 1 also contradicts the hypothesis directly since A^T = A means A is symmetric. If the stem had said A^T = -A, then 'A is skew-symmetric' would be the intended answer.",
+    "working": "Take A = [[0,1],[1,0]]: symmetric, zero diagonal, yet A is not the zero matrix and A^2 = I != A (kills options 0 and 2), and A is symmetric, not skew-symmetric (kills option 1). For option 3 take B = [[0,2],[2,0]]: B^{-1} = [[0,1/2],[1/2,0]] != B; and [[0,1,0],[1,0,1],[0,1,0]] is symmetric with zero diagonal yet singular, so no inverse exists. Hence no option must be true.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "A^T = A with zero diagonal forces no listed conclusion: option 1 is refuted by A = [[0,1],[1,0]] (symmetric, zero diagonal, nonzero); option 2 contradicts the hypothesis outright (A^T = A means A is symmetric, not skew-symmetric); A^2 = A is refuted by [[0,2],[2,0]] (A^2 = 4I); and A^-1 = A is refuted by the same matrix (A^-1 = A/4) or by the singular [[0,1,0],[1,0,0],[0,0,0]]. The item would need A^T = -A to make 'skew-symmetric' correct; as printed no option must be true."
   }
  },
  {
@@ -976,7 +994,7 @@
    1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "GP Sum",
   "difficulty": "medium",
@@ -999,7 +1017,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 1,
@@ -1019,7 +1036,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "S_inf = a/(1-r) = 8/3 with a=2 gives r=1/4; S3 = 2 + 1/2 + 1/8 = 21/8, which is not among the options.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "BROKEN AS PRINTED: S3 = 21/8 = 2.625, which is none of 13/6, 5/2, 8/3, 7/3. (Option 3, 7/3, would be the sum of the first three terms if the common ratio were 1/2 instead, in which case the first term would be 4/3.)",
+    "working": "S_inf = a/(1-r) = 8/3 with a = 2 gives 1 - r = 2/(8/3) = 3/4, so r = 1/4. S3 = a(1-r^3)/(1-r) = 2(1 - 1/64)/(3/4) = 2*(63/64)*(4/3) = 21/8 = 2.625, also = 2 + 1/2 + 1/8.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "With a = 2 and S_inf = a/(1-r) = 8/3 we get 1 - r = 3/4, so r = 1/4, and the first three terms are 2, 1/2, 1/8 summing to 21/8 = 2.625. The value 21/8 is not among the options (13/6, 5/2, 8/3, 7/3); the publisher's key 5/2 corresponds to r = 1/5, which does not produce S_inf = 8/3."
   }
  },
  {
@@ -1703,7 +1730,7 @@
    3
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Dot Product",
   "difficulty": "medium",
@@ -1726,7 +1753,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 3,
@@ -1746,7 +1772,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "2a-b = (2,1,-1) and i+k = (1,0,1): dot = 1, cos theta = 1/sqrt(12), theta ~ 73.2 deg; no option 0/45/60/90 fits.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 3,
+   "examon_key": 3,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "BROKEN AS PRINTED: the angle is ~73.22 degrees, not one of 0, 45, 60, 90. The offered option set does fit the variant 'angle between 2a-b and a+b', which equals 60 degrees, suggesting the second vector in the stem was misprinted.",
+    "working": "a = (1,1,0), b = (0,1,1) -> 2a - b = (2,2,0) - (0,1,1) = (2,1,-1). i + k = (1,0,1). Dot = 2*1 + 1*0 + (-1)(1) = 1; |2a-b| = sqrt(4+1+1) = sqrt(6), |i+k| = sqrt(2). cos theta = 1/(sqrt(6)*sqrt(2)) = 1/sqrt(12) = 0.2887 -> theta ~ 73.22 degrees. (Check of the likely variant: dot with a+b = (1,2,1) gives 3, cos = 3/(sqrt(6)*sqrt(6)) = 1/2 -> 60 degrees.)",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "2a - b = 2(1,1,0) - (0,1,1) = (2,1,-1) and i + k = (1,0,1); the dot product is 2 + 0 - 1 = 1, so cos theta = 1/(sqrt(6) sqrt(2)) = 1/sqrt(12), giving theta ~ 73.22 degrees. None of the options (0, 45, 60, 90) equals that; the key 90 degrees is false because the dot product is not zero. The option set instead fits the variant 'angle between 2a - b and a + b' = 60 degrees, so the stem's second vector was misprinted."
   }
  },
  {
@@ -4309,7 +4345,7 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Linear",
   "difficulty": "medium",
@@ -4319,7 +4355,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the published key)",
    "examon_verified": true,
    "examon_audit_confidence": 0.96,
    "examon_audit_model": "gpt-5.4",
@@ -4331,27 +4367,22 @@
    "solver_correct_index": 1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 0,
-    "examon_answer_text": "$y = \\sin x + C\\cos x$",
-    "solver_answer": 1,
-    "solver_answer_text": "$y\\sec x = \\tan x + C$",
-    "solver_correct_text": "",
-    "note": "IF = e^{integral tan x dx} = sec x; y sec x = integral sec^2 x = tan x + C.",
-    "solver_2_answer": 1,
-    "solver_2_answer_text": "$y\\sec x = \\tan x + C$",
-    "solver_2_correct_text": "",
-    "solver_2_note": "IF = e^int(tan x) = sec x; then (y sec x)' = sec^2 x, so y sec x = tan x + C."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 1,
    "adjudication_verdict": "examon_right",
    "adjudication_reason": "IF = sec x, so y sec x = tan x + C, equivalently y = sin x + C cos x; option B is the same equation.",
    "adjudication_correct_index": 0,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": 1,
+    "confidence": "medium",
+    "note": "IF method gives y sec x = tan x + C, the standard textbook form. Caution: option 0 (y = sin x + C cos x) is algebraically the identical solution family, so the printed question has two equivalent correct options; index 1 is the canonical form.",
+    "working": "Linear ODE: P = tan x, Q = sec x. I.F. = e^(∫tan x dx) = e^(ln sec x) = sec x. Multiply: sec x·dy/dx + y sec x tan x = sec²x, i.e. d(y sec x)/dx = sec²x. Integrate: y sec x = tan x + C. Option 1. (Option 0 is the same family: y = cos x(tan x + C) = sin x + C cos x.)",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   }
   }
  },
  {
@@ -4980,7 +5011,7 @@
    2
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Piecewise Continuity",
   "difficulty": "medium",
@@ -4990,7 +5021,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the published key)",
    "examon_verified": true,
    "examon_audit_confidence": 0.98,
    "examon_audit_model": "gpt-5.4",
@@ -5002,27 +5033,22 @@
    "solver_correct_index": 0,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 2,
-    "examon_answer_text": "$a-b=\\dfrac{2}{3}$",
-    "solver_answer": 0,
-    "solver_answer_text": "$3a-3b=2$",
-    "solver_correct_text": "",
-    "note": "Continuity: 3a+1 = 3b+3, so 3a-3b=2.",
-    "solver_2_answer": 0,
-    "solver_2_answer_text": "$3a-3b=2$",
-    "solver_2_correct_text": "",
-    "solver_2_note": "Continuity at 3: 3a+1 = 3b+3, hence 3a-3b = 2."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 0,
    "adjudication_verdict": "examon_right",
    "adjudication_reason": "Continuity at 3: 3a+1 = 3b+3, so 3(a-b) = 2, i.e. a-b = 2/3 (option C); option A is the same equation unsimplified.",
    "adjudication_correct_index": 2,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 2,
+   "examon_key": 2,
+   "resolve": {
+    "correct_index": 0,
+    "confidence": "high",
+    "note": "Continuity at x = 3 requires the left branch value 3a + 1 to equal the right limit 3b + 3, giving 3a - 3b = 2.",
+    "working": "f(3) = 3a + 1 (branch x ≤ 3). lim(x→3+) f(x) = 3b + 3. Set equal: 3a + 1 = 3b + 3 → 3a - 3b = 2. Option 0.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   }
   }
  },
  {
@@ -7419,12 +7445,12 @@
    "$625$",
    "$5$"
   ],
-  "answer": 2,
+  "answer": 1,
   "accepted": [
-   2
+   1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "A·adj(A)",
   "difficulty": "medium",
@@ -7434,7 +7460,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -7447,27 +7473,23 @@
    "solver_correct_index": 1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 2,
-    "examon_answer_text": "$625$",
-    "solver_answer": 1,
-    "solver_answer_text": "$125$",
-    "solver_correct_text": "",
-    "note": "A adj A=|A|I, so det(A adj A)=|A|^3=125.",
-    "solver_2_answer": 1,
-    "solver_2_answer_text": "$125$",
-    "solver_2_correct_text": "",
-    "solver_2_note": "det(A adj A) = |A|^3 = 5^3 = 125."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 1,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "A adj A = |A| I_3 = 5 I_3, so det(A adj A) = 5^3 = 125, option B; the published key 625 contradicts its own computation.",
    "adjudication_correct_index": 1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 2,
+   "examon_key": 2,
+   "resolve": {
+    "correct_index": 1,
+    "confidence": "high",
+    "note": "det(A adj A) = det(A)·det(adj A) = |A|·|A|^(n-1) = 5·25 = 125 for n = 3.",
+    "working": "For an n×n matrix, adj A = |A| A⁻¹, so det(adj A) = |A|·det(A⁻¹) = |A|·|A|⁻¹ = |A|^(n-1) = 5² = 25. Then det(A adj A) = det A · det(adj A) = 5 · 25 = 125. Option 1.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -7496,7 +7518,7 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "3x3 Expansion",
   "difficulty": "medium",
@@ -7519,7 +7541,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 0,
@@ -7539,7 +7560,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Cofactor expansion along first row: 24 + 70 - 84 = 10; none of the options (-26, 26, 38, -38) matches; published solution arithmetic is wrong.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "The determinant evaluates to 10, which is not among the four options (-26, 26, 38, -38); the question as printed has no correct option.",
+    "working": "|1 2 3; 0 4 5; 7 0 6| = 1(4·6 - 5·0) - 2(0·6 - 5·7) + 3(0·0 - 4·7) = 24 + 70 - 84 = 10. Cross-check by Sarrus: (1·4·6 + 2·5·7 + 3·0·0) - (3·4·7 + 2·0·6 + 1·5·0) = 94 - 84 = 10. No option equals 10.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "no option carries the correct value; the question is broken as printed"
   }
  },
  {
@@ -8268,12 +8299,12 @@
    "$\\vec r=(\\hat i+\\hat j+\\hat k)+t(2\\hat i-\\hat j+\\hat k)$",
    "$\\vec r=(2\\hat i+\\hat k)+t(\\hat i-\\hat j+\\hat k)$"
   ],
-  "answer": 2,
+  "answer": 0,
   "accepted": [
-   2
+   0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Equation of Line",
   "difficulty": "medium",
@@ -8283,7 +8314,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.97,
    "examon_audit_model": "gpt-5.4",
@@ -8296,27 +8327,23 @@
    "solver_correct_index": 0,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 2,
-    "examon_answer_text": "$\\vec r=(\\hat i+\\hat j+\\hat k)+t(2\\hat i-\\hat j+\\hat k)$",
-    "solver_answer": 0,
-    "solver_answer_text": "$\\vec r=(\\hat i+\\hat j)+t(2\\hat i-\\hat j+\\hat k)$",
-    "solver_correct_text": "",
-    "note": "Only option A passes through a common point with direction (2,-1,1); given lines are coincident.",
-    "solver_2_answer": 0,
-    "solver_2_answer_text": "$\\vec r=(\\hat i+\\hat j)+t(2\\hat i-\\hat j+\\hat k)$",
-    "solver_2_correct_text": "",
-    "solver_2_note": "Given lines coincide (parallel, share point (1,1,0)); only option A uses a point on that line with direction (2,-1,1)."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "medium",
    "solver_2_correct_index": 0,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "The two given lines are coincident (direction 2*(1,-1,1)); only option A passes through a point of that line, (1,1,0), with direction (2,-1,1).",
    "adjudication_correct_index": 0,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 2,
+   "examon_key": 2,
+   "resolve": {
+    "correct_index": 0,
+    "confidence": "medium",
+    "note": "The point i + j = (1,1,0) lies on both lines (λ = 0 and μ = -1/2), and option 0's direction 2i - j + k matches the required parallelism; the other base points are off the line and option 3 has the wrong direction.",
+    "working": "L1: (1,1,0) + λ(1,-1,1); L2: (2,0,1) + μ(2,-2,2). Note d2 = 2d1 and (2,0,1) = L1(λ=1), so L1 and L2 actually coincide (the 'point of intersection' is not unique) — however (1,1,0) is a common point: L1 at λ=0 and L2 at μ=-1/2 both give (1,1,0). The line through it parallel to (2,-1,1) is r = (i + j) + t(2i - j + k) — option 0. Options 1 and 2 have base points (1,0,1), (1,1,1) not on the line; option 3 has direction (1,-1,1), not parallel to (2,-1,1).",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -8495,7 +8522,7 @@
    1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Intercept Form of Plane",
   "difficulty": "medium",
@@ -8518,7 +8545,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 1,
@@ -8538,7 +8564,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Intercepts 2k,3k,4k with k=13/12 give 6x+4y+3z=13; no option passes through (1,1,1) (all give 13/12, 13/24, 13/48, 13/36).",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "The only plane satisfying both the 2:3:4 intercept ratio and the point (1,1,1) is 6x + 4y + 3z = 13; none of the four options passes through (1,1,1), so the question as printed is broken.",
+    "working": "Let intercepts be a = 2k, b = 3k, c = 4k. Plane: x/(2k) + y/(3k) + z/(4k) = 1. Passing through (1,1,1): (1/k)(1/2 + 1/3 + 1/4) = (1/k)(13/12) = 1 → k = 13/12. So a = 13/6, b = 13/4, c = 13/3, giving x/(13/6) + y/(13/4) + z/(13/3) = 1 → 6x + 4y + 3z = 13. Option check at (1,1,1): option 0 gives 13/12, option 1 gives 13/24, option 2 gives 13/48, option 3 gives 13/36 — none equals 1.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "No option carries the correct plane. Intercepts 2k, 3k, 4k through (1,1,1) force k = 13/12, giving intercepts 13/6, 13/4, 13/3 and hence 6x + 4y + 3z = 13; evaluated at (1,1,1) the four options give 13/12, 13/24, 13/48 and 13/36, none of which is 1. The publisher's own worked solution reaches 6x + 4y + 3z = 13 and then unjustifiably picks an option that fails the point condition."
   }
  },
  {
@@ -10279,7 +10315,7 @@
    1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Composition",
   "difficulty": "medium",
@@ -10302,7 +10338,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 1,
@@ -10322,7 +10357,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "g(f(-2))=g(-1)=0, f(g(1))=f(0)=3, so difference is 0-3=-3; not among options.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "(g∘f)(-2) - (f∘g)(1) = 0 - 3 = -3, which is absent from the options (0, 4, -4, 8); the question as printed has no correct option.",
+    "working": "f(-2) = 2(-2) + 3 = -1 → (g∘f)(-2) = g(-1) = (-1)² - 1 = 0. g(1) = 1 - 1 = 0 → (f∘g)(1) = f(0) = 3. Difference = 0 - 3 = -3. No option matches.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "The value is -3 and no option carries it: (g∘f)(-2) = g(-1) = 0 and (f∘g)(1) = f(0) = 3, so the difference is 0 - 3 = -3, while the options are 0, 4, -4 and 8. The publisher's key of 4 is wrong, and its own worked solution correctly computes -3 before claiming the keyed option anyway, which is mathematically invalid."
   }
  },
  {
@@ -10754,7 +10799,7 @@
    2
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Modulus",
   "difficulty": "easy",
@@ -10777,7 +10822,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 2,
@@ -10797,7 +10841,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "(z-1)/(1+i)=(2+4i)(1-i)/2=3+i, modulus sqrt10=3.162; options give 3.536, 1.581, 2.236, 2.5 - none matches.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 2,
+   "examon_key": 2,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "|z - 1|/|1 + i| = 2√5/√2 = √10, which is not among the options (5/√2 ≈ 3.54, √10/2 ≈ 1.58, √5 ≈ 2.24, 5/2 = 2.5); the question as printed has no correct option.",
+    "working": "z - 1 = 2 + 4i → |z - 1| = √(2² + 4²) = √20 = 2√5. |1 + i| = √2. Ratio = 2√5/√2 = √(20/2) = √10 ≈ 3.162. Direct check: (2 + 4i)/(1 + i) = (2 + 4i)(1 - i)/2 = (6 + 2i)/2 = 3 + i, whose modulus is √10. No option equals √10.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "The modulus is √10 and no option carries it: |z-1| = |2+4i| = 2√5 and |1+i| = √2, so the ratio is 2√5/√2 = √10 ≈ 3.162, confirmed directly since (2+4i)/(1+i) = 3+i. The options evaluate to 5/√2 ≈ 3.536, √10/2 ≈ 1.581, √5 ≈ 2.236 and 5/2 = 2.5, so the keyed √5 is wrong and the publisher's explanation (which simply computes |z| = 5) does not address the question."
   }
  },
  {
@@ -11484,7 +11538,7 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Identity",
   "difficulty": "easy",
@@ -11507,7 +11561,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 0,
@@ -11527,7 +11580,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "sin^-1(3/5)=cos^-1(4/5)=36.87 deg, sum=73.74 deg=arctan(24/7); not pi/2, pi/3, pi/4 or pi.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "BROKEN AS PRINTED: sin α = 3/5 gives cos α = 4/5, and cos β = 4/5 gives β = α (both acute), so α + β = 2α ≈ 73.74°, which is none of π/2, π/3, π/4, π. The stem looks like it meant β = sin⁻¹(4/5), which would give π/2.",
+    "working": "α = sin⁻¹(3/5) ⇒ cos α = 4/5, tan α = 3/4. β = cos⁻¹(4/5) ⇒ sin β = 3/5, tan β = 3/4 ⇒ β = α. α + β = 2α; tan 2α = 2(3/4)/(1 − 9/16) = (3/2)/(7/16) = 24/7 ⇒ α + β = tan⁻¹(24/7) ≈ 1.287 rad ≈ 73.74°.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "As printed the sum is not π/2: since cos α = √(1 - 9/25) = 4/5, the angle β = cos⁻¹(4/5) equals α = sin⁻¹(3/5) = 36.87°, so α + β = 2α ≈ 73.74° = tan⁻¹(24/7) ≈ 1.287 rad, matching none of π/2, π/3, π/4, π. The key's π/2 comes from misapplying sin⁻¹x + cos⁻¹x = π/2 to two different arguments; the stem was presumably meant to read β = sin⁻¹(4/5)."
   }
  },
  {
@@ -12011,7 +12074,7 @@
    1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Sum of Coefficients",
   "difficulty": "medium",
@@ -12036,7 +12099,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 1,
@@ -12056,7 +12118,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Sum of coefficients = P(1) = (2*1-3)^5+(1-1)^4 = -1+0 = -1; no option lists -1.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "BROKEN AS PRINTED: the sum of coefficients of a polynomial is its value at x = 1, giving (2−3)⁵ + (1−1)⁴ = −1 + 0 = −1, which is not among 0, 1, 15, 16. If the second term were (x+1)⁴ the answer would be 15.",
+    "working": "Σ coeffs of (2x−3)⁵ = (2·1−3)⁵ = (−1)⁵ = −1 (check: 32 − 240 + 720 − 1080 + 810 − 243 = −1). Σ coeffs of (x−1)⁴ = (1−1)⁴ = 0 (1 − 4 + 6 − 4 + 1 = 0). Total = −1 + 0 = −1.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "no option carries the correct value; the question is broken as printed"
   }
  },
  {
@@ -12080,12 +12152,12 @@
    "$-126$",
    "$126$"
   ],
-  "answer": 0,
+  "answer": 1,
   "accepted": [
-   0
+   1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "General Term",
   "difficulty": "medium",
@@ -12095,7 +12167,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.98,
    "examon_audit_model": "gpt-5.4",
@@ -12108,27 +12180,23 @@
    "solver_correct_index": 1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 0,
-    "examon_answer_text": "$-84$",
-    "solver_answer": 1,
-    "solver_answer_text": "$84$",
-    "solver_correct_text": "",
-    "note": "General term C(9,r)(-1)^r x^(18-3r); x^0 requires r=6, giving +C(9,6)=84.",
-    "solver_2_answer": 1,
-    "solver_2_answer_text": "$84$",
-    "solver_2_correct_text": "",
-    "solver_2_note": "General term C(9,r)(-1)^r x^(18-3r); x-power zero at r=6, giving C(9,6) = 84."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 1,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "General term C(9,r)(-1)^r x^(18-3r); x^0 needs r=6, giving +C(9,6)=84 (option B). Examon's -84 contradicts its own working.",
    "adjudication_correct_index": 1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": 1,
+    "confidence": "high",
+    "note": "The general term is C(9,r)(−1)ʳx^(18−3r); the exponent vanishes for r = 6, giving C(9,6)(−1)⁶ = 84.",
+    "working": "T(r+1) = C(9,r)(x²)^(9−r)(−1/x)^r = C(9,r)(−1)^r x^(18−3r). Independent of x ⇒ 18 − 3r = 0 ⇒ r = 6. Value = C(9,6)(−1)^6 = 84·1 = 84.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -14683,7 +14751,7 @@
    1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Idempotent Matrix",
   "difficulty": "medium",
@@ -14706,7 +14774,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 1,
@@ -14726,7 +14793,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "A^2=A, A^3=A gives (I+A)^3 = I+3A+3A+A = I+7A, so (I+A)^3-7A = I; no option lists I.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "As printed, none of the four options is correct: the expression equals I. Option I-4A would be right only if A were nilpotent (A^2 = 0), not idempotent.",
+    "working": "A^2 = A implies A^3 = A. Binomial expansion (I and A commute): (I+A)^3 = I + 3A + 3A^2 + A^3 = I + 3A + 3A + A = I + 7A. Hence (I+A)^3 - 7A = I. Verified numerically with A = diag(1,0): (I+A)^3 = diag(8,1), minus 7A = diag(1,1) = I. No listed option (I-4A, I+2A, I+A, I-2A) equals I.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "With A^2 = A we get A^3 = A, so (I+A)^3 = I + 3A + 3A^2 + A^3 = I + 7A and (I+A)^3 - 7A = I for every idempotent A (verified numerically for A = diag(1,0) and A = I: the result is I in both cases). The identity matrix I is not among the printed options I-4A, I+2A, I+A, I-2A, none of which equals I unless A = 0, which the hypothesis does not force. The keyed I+2A and the explanation's I-A are both wrong."
   }
  },
  {
@@ -14929,7 +15006,7 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
+   "flag_reason": "With A^2 = I and A+I invertible the only admissible matrix is A = I, so the expression collapses to the zero matrix; 'A - I' carries that value only because of the forced value, and the item is a mangled version of the classic A^2 = -I question. Not publishable as it stands.",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 2,
@@ -14949,7 +15026,16 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "A^2=I with A+I invertible forces A=I, so (A-I)(A+I)^-1 = 0, and option D (A-I) equals 0; examon's -A is wrong.",
    "adjudication_correct_index": 3,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 2,
+   "examon_key": 2,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "medium",
+    "note": "Broken as printed: with A^2 = I, invertibility of A+I forces A = I, and then the expression is the zero matrix, which is not among the options. The option A would be correct if the stem said A^2 = -I.",
+    "working": "(A-I)(A+I) = A^2 - I = 0. If A+I is invertible, multiplying on the right by (A+I)^{-1} gives A - I = 0, so A = I, and then (A-I)(A+I)^{-1} = 0 (e.g. A = diag(1,-1) has A+I = diag(2,0) singular, so the expression is undefined there). None of A, I, -A, A-I equals the zero matrix. (For comparison, if A^2 = -I then (A-I)(A+I)^{-1} = A.)",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   }
   }
  },
  {
@@ -16131,12 +16217,12 @@
    "Parallel",
    "Mutually perpendicular"
   ],
-  "answer": 1,
+  "answer": 0,
   "accepted": [
-   1
+   0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Coplanarity — STP",
   "difficulty": "medium",
@@ -16146,7 +16232,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -16159,27 +16245,23 @@
    "solver_correct_index": 0,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 1,
-    "examon_answer_text": "Non-coplanar (form a parallelepiped of volume $6$)",
-    "solver_answer": 0,
-    "solver_answer_text": "Coplanar",
-    "solver_correct_text": "",
-    "note": "Scalar triple product a.(b x c) = -5 + 10 - 5 = 0, so vectors are coplanar (volume zero, not 6).",
-    "solver_2_answer": 0,
-    "solver_2_answer_text": "Coplanar",
-    "solver_2_correct_text": "",
-    "solver_2_note": "b x c = (-5,5,5); a.(b x c) = 0, so vectors are coplanar (no volume 6)."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 0,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "c = a+b, so scalar triple product is 0 (det=0): vectors are coplanar. Examon's determinant of -6 is an arithmetic error.",
    "adjudication_correct_index": 0,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": 0,
+    "confidence": "high",
+    "note": "The scalar triple product is zero, so the volume of the parallelepiped is 0, not 6; the vectors are coplanar.",
+    "working": "a = (1,2,-1), b = (2,-1,3), c = (3,1,2). b x c = (-1*2 - 3*1, 3*3 - 2*2, 2*1 - (-1)*3) = (-5, 5, 5). a . (b x c) = 1(-5) + 2(5) + (-1)(5) = -5 + 10 - 5 = 0. Volume = |a.b x c| = 0, so the vectors are coplanar. They are not parallel and a.b = 2 - 2 - 3 = -3 != 0, so not mutually perpendicular either.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -19276,12 +19358,12 @@
    "$e$",
    "$2e-1$"
   ],
-  "answer": 0,
+  "answer": 2,
   "accepted": [
-   0
+   2
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Integration by Parts",
   "difficulty": "medium",
@@ -19291,7 +19373,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -19304,27 +19386,23 @@
    "solver_correct_index": 2,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 0,
-    "examon_answer_text": "$1$",
-    "solver_answer": 2,
-    "solver_answer_text": "$e$",
-    "solver_correct_text": "",
-    "note": "I = [x ln x - x] from 1 to e = 0 - (-1) = 1, so eI = e.",
-    "solver_2_answer": 2,
-    "solver_2_answer_text": "$e$",
-    "solver_2_correct_text": "",
-    "solver_2_note": "I = [x ln x - x] from 1 to e = (e-e) - (0-1) = 1, so eI = e."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 2,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Integral = [x ln x - x]_1^e = 0-(-1) = 1, so eI = e (option C); examon's key 1 answers I, not eI.",
    "adjudication_correct_index": 2,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": 2,
+    "confidence": "high",
+    "note": "Integration by parts gives I = 1 exactly, so eI = e.",
+    "working": "I = int_1^e ln x dx = [x ln x - x]_1^e = (e*1 - e) - (1*0 - 1) = 0 - (-1) = 1. Therefore eI = e*1 = e.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -19758,7 +19836,7 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Area Between Curves",
   "difficulty": "medium",
@@ -19780,7 +19858,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 0,
@@ -19800,7 +19877,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Area = 4 asin(a/2)+a^3/3 with a=sqrt((sqrt17-1)/2) equals 3.3500; options give 2.199, 4.084, 3.509, 1.571.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "medium",
+    "note": "Broken as printed: none of the four options equals the actual area (~3.3500). The options look like they were written for a different region (they involve 2*sqrt(2)/3, which would require the intersection at x = +/-sqrt(2)).",
+    "working": "Intersection of y = x^2 with x^2 + y^2 = 4: x^2 + x^4 = 4 -> with u = x^2, u^2 + u - 4 = 0 -> u = (sqrt(17)-1)/2 = 1.561553, so a = sqrt(u) = 1.249621. Area = int_{-a}^{a} [sqrt(4-x^2) - x^2] dx = 2[(a/2)*sqrt(4-a^2) + 2*arcsin(a/2) - a^3/3]. Since sqrt(4-a^2) = a^2 here, this = a^3/3 + 4*arcsin(a/2) = 0.650435 + 4(0.675392) = 3.3500 (confirmed by polar form: 2*int_0^{pi/2} R^2 dtheta with R = min(2, sin t/cos^2 t)). Options: pi - 2sqrt2/3 = 2.1988, pi + 2sqrt2/3 = 4.0844, 2pi/3 + sqrt2 = 3.5086, pi/2 = 1.5708. None matches.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "The publisher's own worked solution reaches the right intersection y0 = (sqrt(17)-1)/2 but then asserts the area is pi - 2 sqrt2/3, which is false; the actual area is ~3.3500, and 2 sqrt2/3 would require the (wrong) intersection x = ±sqrt(2). Integrating between the true intersections gives 3.350005, and the options give 2.1988, 4.0844, 3.5086 and 1.5708 - none equals the area. The item is broken as printed."
   }
  },
  {
@@ -19824,12 +19911,12 @@
    "$16$",
    "$2\\sqrt{2}$"
   ],
-  "answer": 1,
+  "answer": 0,
   "accepted": [
-   1
+   0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Area by Symmetry",
   "difficulty": "medium",
@@ -19839,7 +19926,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -19852,27 +19939,23 @@
    "solver_correct_index": 0,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 1,
-    "examon_answer_text": "$4$",
-    "solver_answer": 0,
-    "solver_answer_text": "$8$",
-    "solver_correct_text": "",
-    "note": "|x|+|y|=2 is a square with vertices (+-2,0),(0,+-2); diagonals 4,4 so area 8.",
-    "solver_2_answer": 0,
-    "solver_2_answer_text": "$8$",
-    "solver_2_correct_text": "",
-    "solver_2_note": "|x|+|y|=2 is a diamond with vertices (2,0),(0,2),(-2,0),(0,-2); area = half of 4 times 4 = 8."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 0,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Region |x|+|y|<=2 is a square of side 2sqrt(2), area 8 (4 quadrant triangles of area 2). Examon's own solution computed 1/2*4*4=8 then wrongly wrote 4.",
    "adjudication_correct_index": 0,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": 0,
+    "confidence": "high",
+    "note": "|x| + |y| = 2 is a rhombus with vertices at (+/-2,0) and (0,+/-2), so its area is 8.",
+    "working": "In each quadrant the curve is the straight line x + y = 2 (e.g. first quadrant), so the region is a rhombus with diagonals along the axes, each of length 4. Area = (1/2)*d1*d2 = (1/2)*4*4 = 8.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -20108,7 +20191,7 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Homogeneous",
   "difficulty": "medium",
@@ -20131,7 +20214,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 0,
@@ -20151,7 +20233,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "y=vx gives x dv/dx = tan v, so cot v dv = dx/x and ln|sin v| = ln|x|+C, i.e. sin(y/x)=Cx. Option A sec v+tan v=Cx is not equivalent.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "Broken as printed: none of the four options is the general solution. Option A (sec(y/x)+tan(y/x)=Cx) would be the solution of dy/dx = y/x + cos(y/x), not of the given equation.",
+    "working": "Homogeneous: put v = y/x, y = vx, dy/dx = v + x dv/dx. Then v + x dv/dx = v + tan v -> x dv/dx = tan v -> cot v dv = dx/x -> ln|sin v| = ln|x| + C -> sin(y/x) = Cx. Numerical check: for y = x*asin(Cx), dy/dx = asin(Cx) + Cx/sqrt(1-C^2x^2) equals y/x + tan(y/x) identically; each of the four options fails the substitution test.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "The substitution v = y/x gives x dv/dx = tan v, hence cot v dv = dx/x and ln|sin v| = ln|x| + C, i.e. the general solution is sin(y/x) = Cx (verified by substitution). The keyed option A, sec(y/x) + tan(y/x) = Cx, is a different relation - it is the solution of dy/dx = y/x + cos(y/x) - and is not equivalent to sin v = Cx; Examon's own solution text actually ends at 'sin v = Cx' before asserting the option form. None of the four options carries the correct general solution."
   }
  },
  {
@@ -20325,12 +20417,12 @@
    "1",
    "2"
   ],
-  "answer": 0,
+  "answer": 1,
   "accepted": [
-   0
+   1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Continuity of Piecewise Function",
   "difficulty": "medium",
@@ -20340,7 +20432,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -20352,27 +20444,23 @@
    "solver_correct_index": 1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 0,
-    "examon_answer_text": "$-1$",
-    "solver_answer": 1,
-    "solver_answer_text": "0",
-    "solver_correct_text": "",
-    "note": "Continuity at x=1 requires f(1)=1 and right limit 1+b, hence b=0.",
-    "solver_2_answer": 1,
-    "solver_2_answer_text": "0",
-    "solver_2_correct_text": "",
-    "solver_2_note": "Continuity at x=1 needs left limit 1^2 = 1 = 1 + b, hence b = 0."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 1,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Continuity at x=1: f(1)=1 (x<=1 branch) must equal right limit 1+b, so b=0. Examon's own line '1=1+b hence b=-1' is an algebra slip.",
    "adjudication_correct_index": 1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": 1,
+    "confidence": "high",
+    "note": "Continuity at x = 1 requires the right-hand limit 1 + b to equal f(1) = 1, giving b = 0.",
+    "working": "f(1) = 1^2 = 1 (since 1 <= 1). Right limit = lim_{x->1+} (x + b) = 1 + b. Continuity: 1 = 1 + b -> b = 0. (Left limit = 1 matches automatically.)",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -22218,7 +22306,7 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Modulus",
   "difficulty": "easy",
@@ -22241,7 +22329,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 0,
@@ -22261,7 +22348,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "(z-1)/(1+i) = (2+4i)/(1+i) = 3+i exactly, modulus sqrt(20)/sqrt(2) = sqrt(10). 5/sqrt2, sqrt13/2, sqrt10/2, 5/2 all differ.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "Broken as printed: the modulus is sqrt(10), which is not listed. Option A (5/sqrt2) is the trap |z|/|1+i| and option C (sqrt(10)/2) is the correct value off by a factor of 2.",
+    "working": "z - 1 = 2 + 4i. |z-1| = sqrt(4+16) = sqrt(20) = 2sqrt5; |1+i| = sqrt2. Hence |(z-1)/(1+i)| = 2sqrt5/sqrt2 = sqrt10 (directly: (2+4i)/(1+i) = (2+4i)(1-i)/2 = (6+2i)/2 = 3 + i, whose modulus is sqrt(9+1) = sqrt10). Options: 5/sqrt2 = 3.5355, sqrt13/2 = 1.8028, sqrt10/2 = 1.5811, 5/2 = 2.5; none equals sqrt10 = 3.1623.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "z - 1 = 2 + 4i and (2 + 4i)/(1 + i) = 3 + i exactly (multiply by the conjugate (1 - i) and divide by 2), so the modulus is sqrt(10) ~ 3.1623. The keyed 5/sqrt(2) is the trap value |z|/|1+i| (it ignores the -1), while sqrt(13)/2, sqrt(10)/2 and 5/2 are all different from sqrt(10). No option carries the correct value, so the item is broken as printed."
   }
  },
  {
@@ -22438,12 +22535,12 @@
    "HP",
    "No progression"
   ],
-  "answer": 0,
+  "answer": 2,
   "accepted": [
-   0
+   2
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "AP-GP-HP Relation",
   "difficulty": "medium",
@@ -22453,7 +22550,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.88,
    "examon_audit_model": "gpt-5.4",
@@ -22465,27 +22562,23 @@
    "solver_correct_index": 2,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 0,
-    "examon_answer_text": "AP",
-    "solver_answer": 2,
-    "solver_answer_text": "HP",
-    "solver_correct_text": "",
-    "note": "HP input gives HP output: verified 2/y = 1/x + 1/z numerically; not AP or GP.",
-    "solver_2_answer": 2,
-    "solver_2_answer_text": "HP",
-    "solver_2_correct_text": "",
-    "solver_2_note": "HP gives 2ac = b(a+c); then (b+c)/a + (a+b)/c = 2(a+c)/b, so reciprocals are in AP."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 2,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "1/a,1/b,1/c in AP gives b=2ac/(a+c); then reciprocals of a/(b+c), b/(c+a), c/(a+b) satisfy 2/y=1/x+1/z, so the ratios are in HP, not AP.",
    "adjudication_correct_index": 2,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": 2,
+    "confidence": "high",
+    "note": "HP condition 2ac = b(a+c) makes the reciprocals of the three fractions an AP, so the fractions themselves are in HP.",
+    "working": "Let x = a/(b+c), y = b/(c+a), z = c/(a+b). Need 2/y = 1/x + 1/z, i.e. 2(a+c)/b = (b+c)/a + (a+b)/c = [c(b+c) + a(a+b)]/(ac). Multiplying by abc: 2ac(a+c) = b(a^2 + ab + bc + c^2). Using the HP condition b(a+c) = 2ac, LHS = b(a+c)^2 = b(a^2 + 2ac + c^2) = b(a^2 + ab + bc + c^2) since 2ac = b(a+c) => 2ac = ab + bc. Hence the identity holds, so x,y,z are in HP. Check with a=6,b=4,c=3 (1/a,1/b,1/c = 1/6,1/4,1/3 in AP): x,y,z = 6/7, 4/9, 3/10; 2/y = 9/2 and 1/x + 1/z = 7/6 + 10/3 = 9/2. Equal, so HP.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -23069,7 +23162,7 @@
    2
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Sum of Coefficients",
   "difficulty": "medium",
@@ -23095,7 +23188,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 2,
@@ -23115,7 +23207,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Coefficient sum equals value at x=1: (1+1)^n+(1-1)^n = 2^n = 96, so n = log2(96) = 6.585, not an integer. Option 6 gives 64, option 7 gives 128.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 2,
+   "examon_key": 2,
+   "resolve": {
+    "correct_index": 2,
+    "confidence": "low",
+    "note": "BROKEN AS PRINTED: the coefficient sum equals 2^n and 96 is not a power of two, so n is not an integer; the intended computation (2^n + 2^{n-1} = 3·2^{n-1} = 96) gives n = 6.",
+    "working": "Sum of coefficients of a polynomial P is P(1): P(1) = (1+1)^n + (1-1)^n = 2^n + 0 = 2^n. Strictly 2^n = 96 has no integer solution (n = log_2 96 ≈ 6.585), so the printed stem admits none of the options. The only option consistent with 96 is the standard variant in which (1+x)^n contributes 2^n and the even part of (1-x)^n contributes 2^{n-1}: 2^n + 2^{n-1} = 3·2^{n-1} = 96 => 2^{n-1} = 32 => n = 6. Options 4,5,6,7 give 24, 48, 96, 192.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "no option carries the correct value; the question is broken as printed"
   }
  },
  {
@@ -23760,7 +23862,7 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Angle between Line and Plane",
   "difficulty": "medium",
@@ -23787,7 +23889,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 0,
@@ -23807,7 +23908,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Line direction (1,2,2) equals the plane normal (1,2,2), so the line is perpendicular to the plane: angle 90 deg. Option A is sin^-1(3/sqrt27) = sin^-1(0.577) = 35.3 deg.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": 0,
+    "confidence": "low",
+    "note": "BROKEN AS PRINTED: the direction vector (1,2,2) is exactly the plane's normal, so the line is perpendicular to the plane and the angle is 90 deg, which is not listed; option A is the intended key from the source problem (which used |n| = sqrt(3) with a dot product of 3).",
+    "working": "Direction d = (1,2,2), |d| = 3; normal n = (1,2,2), |n| = 3. sin(theta) = |d.n|/(|d||n|) = (1 + 4 + 4)/(3·3) = 9/9 = 1 => theta = 90 deg (line normal to the plane). None of the options equals 90 deg. Option A, sin^{-1}(3/sqrt(27)), is obtained with |d||n| = 3·sqrt(27)... precisely with |d| = 3, |n| = sqrt(3) and d.n = 3 (the usual slip for the printed numbers), so A is the intended key.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "no option carries the correct value; the question is broken as printed"
   }
  },
  {
@@ -25239,12 +25350,12 @@
    "$1$",
    "$\\dfrac{\\sqrt3}{2}$"
   ],
-  "answer": 1,
+  "answer": 0,
   "accepted": [
-   1
+   0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Triple Angle",
   "difficulty": "medium",
@@ -25254,7 +25365,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.98,
    "examon_audit_model": "gpt-5.4",
@@ -25268,27 +25379,23 @@
    "solver_correct_index": 0,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 1,
-    "examon_answer_text": "$\\dfrac{1}{2}$",
-    "solver_answer": 0,
-    "solver_answer_text": "$\\dfrac{3}{2}$",
-    "solver_correct_text": "",
-    "note": "theta = 30 deg; sin90 + cos60 = 1 + 1/2 = 3/2.",
-    "solver_2_answer": 0,
-    "solver_2_answer_text": "$\\dfrac{3}{2}$",
-    "solver_2_correct_text": "",
-    "solver_2_note": "sin theta = 1/2 acute gives theta = 30°; sin 3theta = 1, cos 2theta = 1/2, sum = 3/2."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 0,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "theta=30deg: sin3theta=1, cos2theta=cos60=+1/2, sum=3/2=option A. Examon published solution errs with cos60=-1/2.",
    "adjudication_correct_index": 0,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": 0,
+    "confidence": "high",
+    "note": "sin 3theta = 1 and cos 2theta = 1/2 for theta = 30 deg, so the sum is 3/2.",
+    "working": "sin theta = 1/2 with theta acute gives theta = 30 deg, cos theta = sqrt(3)/2. sin 3theta = 3 sin theta - 4 sin^3 theta = 3/2 - 4/8 = 1. cos 2theta = 1 - 2 sin^2 theta = 1 - 2(1/4) = 1/2. Sum = 1 + 1/2 = 3/2.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -25770,7 +25877,7 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Identity",
   "difficulty": "easy",
@@ -25793,7 +25900,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 0,
@@ -25813,7 +25919,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "cos^-1(4/5)=arcsin(3/5)=theta, so sum=2theta~73.74deg, absent from options; Examon's pi/2 reasoning misreads stem as cos^-1(3/5).",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": 0,
+    "confidence": "medium",
+    "note": "BROKEN AS PRINTED: with theta = sin^{-1}(3/5) one has cos^{-1}(4/5) = theta, so the expression is 2theta = 73.74 deg, which is not listed; the intended item is the standard identity sin^{-1}x + cos^{-1}x = pi/2 (x = 4/5), whose key is pi/2.",
+    "working": "theta = sin^{-1}(3/5) => sin theta = 3/5, and since theta is acute cos theta = 4/5, so cos^{-1}(4/5) = theta = 36.87 deg. Then cos^{-1}(4/5) + theta = 2theta = 2 tan^{-1}(3/4) ≈ 1.287 rad ≈ 73.74 deg, which matches none of the options (pi/2, pi/4, 0, pi). The intended form is sin^{-1}x + cos^{-1}x = pi/2: with x = 4/5 (i.e. theta = sin^{-1}(4/5), or equivalently using cos^{-1}(3/5) with theta = sin^{-1}(3/5)), the sum is exactly pi/2.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "With theta = sin^{-1}(3/5) (acute), cos theta = 4/5, so cos^{-1}(4/5) = theta exactly and the sum is 2 theta = 2 tan^{-1}(3/4) ~ 1.2870 rad = 73.74 degrees. The identity sin^{-1}u + cos^{-1}u = pi/2 does not apply here because the two arguments are different (4/5 vs 3/5); Examon's own worked solution silently replaces 4/5 by 3/5 to reach its keyed pi/2. The correct value 73.74 degrees is not among pi/2, pi/4, 0, pi."
   }
  },
  {
@@ -26394,7 +26510,7 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Composition",
   "difficulty": "easy",
@@ -26417,7 +26533,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 0,
@@ -26437,7 +26552,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "g(f(2)) = g(5) = 24 and f(g(2)) = f(3) = 7, so the difference is 17. Examon's '24-12' used a wrong value for f(g(2)); 17 is absent.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": 1,
+    "confidence": "low",
+    "note": "BROKEN AS PRINTED: with g(x) = x^2 - 1 the value is 17, which is not offered; option 16 is what one obtains from the intended form g(x) = x^2 (or from dropping the '-1' in both substitutions).",
+    "working": "Printed: (g o f)(2) = g(f(2)) = g(5) = 5^2 - 1 = 24; (f o g)(2) = f(g(2)) = f(3) = 2(3) + 1 = 7; difference = 24 - 7 = 17, absent from the options {12, 16, 8, 4}. With the intended g(x) = x^2 (no '-1'): (g o f)(2) = 25, (f o g)(2) = f(4) = 9, difference = 25 - 9 = 16, which is option B. (Dropping '-1' in both substitutions gives the same 25 - 9 = 16.)",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "Direct evaluation gives (g o f)(2) = g(5) = 25 - 1 = 24 and (f o g)(2) = f(3) = 2(3) + 1 = 7, so the difference is 17, which is absent from {12, 16, 8, 4}. Examon's worked solution itself computes 24 and 7 and then subtracts 12, an arithmetic slip; its explanation even uses g(2) = 4 (dropping the -1), which is inconsistent with its own solution. The item is broken as printed."
   }
  },
  {
@@ -29280,7 +29405,7 @@
    1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Tangent with a given slope",
   "difficulty": "medium",
@@ -29303,7 +29428,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 1,
@@ -29323,7 +29447,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Tangent at a is y = (2a+1)x + 1 - a^2; y-intercept -5 forces a^2 = 6, so a = +-sqrt(6). Option a=2 gives intercept -3, not -5.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "BROKEN AS PRINTED: the tangent at x = a meets the y-axis at height 1 − a², so 1 − a² = −5 gives a = ±√6, which is not among 1, 2, −2, 3; the condition also admits two points of contact, so the printed question is both off-key and ambiguous.",
+    "working": "y = x² + x + 1 ⇒ y' = 2x + 1; tangent at x = a: y = (2a+1)(x − a) + a² + a + 1 = (2a+1)x + 1 − a². Y-intercept = 1 − a². Setting 1 − a² = −5 ⇒ a² = 6 ⇒ a = ±√6 (≈ ±2.449).",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "The y-intercept of the tangent at x = a is 1 - a², so 1 - a² = -5 gives a² = 6 and a = ±√6 ≈ ±2.449, none of the options 1, 2, -2, 3 (for a = 2 the intercept is -3, not -5). The condition even admits two points of contact; the publisher's explanation is invalid since it equates the derivative to 5 instead of using the intercept."
   }
  },
  {
@@ -32222,7 +32356,7 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Line geometry in 3D",
   "difficulty": "hard",
@@ -32245,7 +32379,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 0,
@@ -32265,7 +32398,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Direction (2,2,2sqrt2) has magnitude 4: cos a = cos b = 1/2, cos g = sqrt2/2, so cos a cos b + cos^2 g = 3/4, not offered.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "BROKEN AS PRINTED: the direction cosines are (1/2, 1/2, 1/√2), so the expression is 1/4 + 1/2 = 3/4, which is absent from the options. With the point (2,2,2) the answer would be 2/3 and with (1,1,2) it would be 5/6, so the printed point looks corrupted.",
+    "working": "r = (2, 2, 2√2), |r| = √(4 + 4 + 8) = 4. cos α = 2/4 = 1/2, cos β = 1/2, cos γ = 2√2/4 = √2/2 = 1/√2. cos α cos β + cos²γ = (1/2)(1/2) + (1/√2)² = 1/4 + 1/2 = 3/4.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "The value is 3/4 and no option carries it: the direction ratios (2, 2, 2√2) have magnitude 4, so cos α = cos β = 1/2 and cos γ = √2/2, giving 1/4 + 1/2 = 3/4, which is not among 2/3, 1, 4/3, 5/6. The publisher's own solution also computes 3/4, so the keyed 2/3 is wrong (2/3 would arise from the point (2,2,2))."
   }
  },
  {
@@ -34417,7 +34560,7 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Tangents, normals and extrema",
   "difficulty": "medium",
@@ -34440,7 +34583,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 0,
@@ -34460,7 +34602,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "2x+5=9 gives point (2,15); normal is x+9y=137, so no option satisfies it; y-axis intercept (0,137/9). Key (0,0) false.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "BROKEN AS PRINTED: slope 9 fixes the contact point at (2, 15) and the normal is x + 9y = 137, which contains none of (0,0), (1,0), (2,1), (0,1) (their x + 9y values are 0, 1, 11, 9).",
+    "working": "y = x² + 5x + 1 ⇒ y' = 2x + 5. Tangent slope 9 ⇒ 2x + 5 = 9 ⇒ x = 2, y = 4 + 10 + 1 = 15. Normal slope = −1/9 ⇒ 9(y − 15) = −(x − 2) ⇒ x + 9y = 137. Testing options: (0,0) → 0; (1,0) → 1; (2,1) → 11; (0,1) → 9.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "Slope 9 fixes the contact point at (2, 15) and the normal there is x + 9y = 137, which contains none of (0,0), (1,0), (2,1), (0,1) (their x + 9y values are 0, 1, 11, 9); the normal's y-intercept is (0, 137/9). The keyed (0,0) is false, and the publisher's explanation merely stops at x = 2 without ever checking the normal."
   }
  },
  {
@@ -34842,7 +34994,7 @@
    3
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Tangents, normals and extrema",
   "difficulty": "hard",
@@ -34868,7 +35020,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 3,
@@ -34888,7 +35039,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Tangent slope 2 at (1,1), normal slope -1/2 meets x-axis at (3,0), absent from options; (1/2,0) is the tangent intercept.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 3,
+   "examon_key": 3,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "BROKEN AS PRINTED: the normal to y = x² at (1,1) is y = 3/2 − x/2 and meets the x-axis at (3,0), which is missing from the options. Note (1/2, 0) is where the tangent, not the normal, meets the x-axis.",
+    "working": "At x = 1 the point is (1,1) and y' = 2x = 2, so the normal slope is −1/2: y − 1 = −(1/2)(x − 1) ⇒ y = 3/2 − x/2. Setting y = 0 gives x = 3, i.e. the intersection is (3, 0).",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "no option carries the correct value; the question is broken as printed"
   }
  },
  {
@@ -35924,7 +36085,7 @@
    2
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Differential equations with initial conditions",
   "difficulty": "hard",
@@ -35947,7 +36108,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 2,
@@ -35967,7 +36127,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Integrating y=3x^2-4x+C; (1,3) forces C=4, so y(2)=8, not among options 7,5,9,3. Key 9 wrong.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 2,
+   "examon_key": 2,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "BROKEN AS PRINTED: integrating and using y(1) = 3 gives C = 4 and hence y(2) = 8, which is not among 7, 5, 9, 3 (y(2) = 8 needs C = 4; C = 1, 3, 5 would give 5, 7, 9).",
+    "working": "dy/dx = 6x − 4 ⇒ y = 3x² − 4x + C. Passing through (1,3): 3 − 4 + C = 3 ⇒ C = 4. y(2) = 3(4) − 8 + 4 = 8.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "Integrating dy/dx = 6x - 4 gives y = 3x^2 - 4x + C; the condition (1,3) forces 3 = 3 - 4 + C so C = 4, and y(2) = 12 - 8 + 4 = 8. The correct value 8 appears in none of the options (7, 5, 9, 3), so the item is broken as printed; the publisher's key '9' would need C = 5."
   }
  },
  {
@@ -36659,7 +36829,7 @@
    3
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Vector algebra",
   "difficulty": "hard",
@@ -36682,7 +36852,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 3,
@@ -36702,7 +36871,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "(a+b).(a-b)=|a|^2-|b|^2=5-10=-5, not listed (-4 closest); key 10 is |b|^2, wrongly signed.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 3,
+   "examon_key": 3,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "BROKEN AS PRINTED: (a+b)·(a−b) = |a|² − |b|² = 5 − 10 = −5, which is absent from the options (−4, 0, 6, 10).",
+    "working": "a + b = (2+1)i + (1−3)j = 3i − 2j; a − b = (2−1)i + (1+3)j = i + 4j. Dot product = 3(1) + (−2)(4) = 3 − 8 = −5. Equivalently |a|² − |b|² = (4 + 1) − (1 + 9) = −5.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "(a+b).(a-b) = a.a - b.b = |a|^2 - |b|^2 = (4 + 1) - (1 + 9) = 5 - 10 = -5. The value -5 is not among the options (-4, 0, 6, 10); the publisher's key '10' is just |b|^2, a dropped minus sign, and -4 is a near-miss typo."
   }
  },
  {
@@ -37339,7 +37518,7 @@
    1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Lines and direction cosines",
   "difficulty": "hard",
@@ -37363,7 +37542,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 1,
@@ -37383,7 +37561,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Distance=|λ|√21; 6 forces λ=±2√21/7, no listed option; key (3,2,6) sits at distance √21. Solver's λ=2/√7 is a slip.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "BROKEN AS PRINTED: no listed option is 6 units from (1,3,2); the options correspond to lambda = 2, 1, 3, -1 (distances 2*sqrt(21), sqrt(21), 3*sqrt(21), sqrt(21)). The likely intended answer is (5,1,10) (lambda = 2), obtained if |d| is wrongly taken as 3 instead of sqrt(21).",
+    "working": "Line: P(lambda) = (1,3,2) + lambda(2,-1,4); |d| = sqrt(4+1+16) = sqrt(21) ~ 4.583. Distance from (1,3,2) = |lambda|*sqrt(21) = 6 -> lambda = +-6/sqrt(21) = +-2*sqrt(21)/7 ~ +-1.3093, giving the two points above. Option distances from (1,3,2): (5,1,10) -> sqrt(84) ~ 9.165; (3,2,6) -> sqrt(21) ~ 4.583; (7,0,14) -> sqrt(189) ~ 13.748; (-1,4,-2) -> sqrt(21) ~ 4.583. None equals 6.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "no option carries the correct value; the question is broken as printed"
   }
  },
  {
@@ -41357,7 +41545,7 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Differential equations with initial conditions",
   "difficulty": "hard",
@@ -41380,7 +41568,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 0,
@@ -41400,7 +41587,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Integrating y=x^4-x^2+C; (1,4) forces C=4, so y(2)=16, absent from options. Key 12 wrongly drops C.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "BROKEN AS PRINTED: the correct value y(2) = 16 is absent from the options (12, 10, 8, 6). 12 would result only if the constant of integration were wrongly taken as 0, i.e. if the initial condition (1,4) were ignored.",
+    "working": "dy/dx = 4x^3 - 2x -> y = x^4 - x^2 + C. Passing through (1,4): 4 = 1 - 1 + C -> C = 4. Hence y(2) = 2^4 - 2^2 + 4 = 16 - 4 + 4 = 16, which matches none of 12, 10, 8, 6.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "Integrating dy/dx = 4x^3 - 2x gives y = x^4 - x^2 + C; (1,4) forces 4 = 1 - 1 + C so C = 4, and y(2) = 16 - 4 + 4 = 16. The correct value 16 is in none of the options (12, 10, 8, 6); the publisher's key '12' is exactly the answer obtained by wrongly discarding C."
   }
  },
  {
@@ -41733,7 +41930,7 @@
    2
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Vector algebra",
   "difficulty": "medium",
@@ -41756,7 +41953,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 2,
@@ -41776,7 +41972,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Perpendicularity gives λ=-1/2; cosθ=(21/4-14)/(77/4)=-35/77=-5/11, θ≈117.04°, so not 90° and no option fits.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 2,
+   "examon_key": 2,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "medium",
+    "note": "BROKEN AS PRINTED: 90 degrees would need |a| = |b| in addition to a.b = 0, but |a|^2 = 21/4 != 14 = |b|^2. The option set (0, 45, 90, 60) matches the intended textbook shortcut 'a perpendicular b implies (a+b) perpendicular (a-b)', which is false in general; the true angle is ~117 degrees.",
+    "working": "a.b = 2(1) + lambda(-2) + (-1)(3) = -1 - 2lambda = 0 -> lambda = -1/2. Then a+b = (3, -5/2, 2), a-b = (1, 3/2, -4). (a+b).(a-b) = 3 - 15/4 - 8 = -35/4; |a+b|^2 = |a-b|^2 = 9 + 25/4 + 4 = 77/4 (equal because a.b = 0). cos theta = (-35/4)/(77/4) = -5/11 -> theta ~ 117.04 degrees. (Equivalently (a+b).(a-b) = |a|^2 - |b|^2 = 21/4 - 14 = -35/4 != 0.)",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "Perpendicularity gives a.b = 2 - 2lambda - 3 = -1 - 2lambda = 0, so lambda = -1/2; then |a|^2 = 21/4 and |b|^2 = 14, so (a+b).(a-b) = 21/4 - 14 = -35/4 != 0 and cos theta = (-35/4)/(77/4) = -5/11, theta ~ 117.04 degrees. The key's 90 degrees comes from the false shortcut that perpendicular a and b force a+b perpendicular to a-b (true only if |a| = |b|); 117.04 degrees is not among the options, so the item is broken."
   }
  },
  {
@@ -42312,7 +42518,7 @@
    3
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Lines and direction cosines",
   "difficulty": "hard",
@@ -42335,7 +42541,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 3,
@@ -42355,7 +42560,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Dot product (1,2,-2).(2,-1,k)=2-2-2k=0 forces k=0, absent from options -3,3,1,-1. Key -1 wrong.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 3,
+   "examon_key": 3,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "BROKEN AS PRINTED: perpendicularity forces k = 0, which is not among -3, 3, 1, -1 (the correct option 0 is missing from the list).",
+    "working": "Perpendicular lines require the dot product of the direction ratios to vanish: (1,2,-2).(2,-1,k) = 1*2 + 2*(-1) + (-2)k = 2 - 2 - 2k = -2k = 0 -> k = 0. None of the four options equals 0.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "Perpendicular direction ratios require (1,2,-2).(2,-1,k) = 2 - 2 - 2k = -2k = 0, hence k = 0. The value 0 is missing from the options (-3, 3, 1, -1), so the item is broken as printed; the publisher's key '-1' fails the dot-product condition (-2(-1) = 2 != 0)."
   }
  },
  {
@@ -42379,12 +42594,12 @@
    "$\\dfrac{x}{1}=\\dfrac{y}{2}=\\dfrac{z}{3}$",
    "$x=1+\\lambda,\\ y=2,\\ z=3$"
   ],
-  "answer": 0,
+  "answer": 1,
   "accepted": [
-   0
+   1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Lines and direction cosines",
   "difficulty": "hard",
@@ -42394,7 +42609,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": false,
    "examon_audit_confidence": 0.97,
    "examon_audit_model": "gpt-5.4",
@@ -42411,27 +42626,23 @@
    "solver_correct_index": 1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 0,
-    "examon_answer_text": "$x=1,\\ y=2,\\ z\\in\\mathbb R$",
-    "solver_answer": 1,
-    "solver_answer_text": "$\\dfrac{x-1}{0}=\\dfrac{y-2}{0}=\\dfrac{z-3}{1}$",
-    "solver_correct_text": "",
-    "note": "Symmetric form of line parallel to z-axis through (1,2,3) is (x-1)/0 = (y-2)/0 = (z-3)/1.",
-    "solver_2_answer": 1,
-    "solver_2_answer_text": "$\\dfrac{x-1}{0}=\\dfrac{y-2}{0}=\\dfrac{z-3}{1}$",
-    "solver_2_correct_text": "",
-    "solver_2_note": "Line through (1,2,3) parallel to z-axis: symmetric form (x-1)/0 = (y-2)/0 = (z-3)/1, option B."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 1,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Symmetric form of z-parallel line through (1,2,3) is (x-1)/0=(y-2)/0=(z-3)/1; option A is Cartesian, not symmetric.",
    "adjudication_correct_index": 1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": 1,
+    "confidence": "high",
+    "note": "A line parallel to the z-axis has direction ratios (0,0,1); the standard symmetric form therefore carries zero denominators in the x and y terms. Option 0 describes the same line but is not a symmetric form, and option 3 wrongly keeps z fixed at 3.",
+    "working": "Point (1,2,3), direction ratios proportional to (0,0,1). Symmetric form (x-x1)/a = (y-y1)/b = (z-z1)/c gives (x-1)/0 = (y-2)/0 = (z-3)/1.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -43816,7 +44027,7 @@
    2
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Concurrency condition for three lines",
   "difficulty": "hard",
@@ -43839,7 +44050,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 2,
@@ -43859,7 +44069,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "First two lines meet at (1,2); substituting into 3x+5y-k=0 gives 3+10-k=0 so k=13, absent from options.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 2,
+   "examon_key": 2,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "BROKEN AS PRINTED: concurrency forces k = 13, which is missing from the options 6, 5, 7, 4. Note that 13 does appear in the option list of the sibling concurrency item in this batch.",
+    "working": "Intersection of x + 2y = 5 and 3x + y = 5: multiply the first by 3 -> 3x + 6y = 15, subtract the second -> 5y = 10 -> y = 2, x = 1, so the common point is (1,2). The third line 3x + 5y - k = 0 must pass through it: 3(1) + 5(2) - k = 0 -> k = 13. (Determinant check: |1 2 -5; 3 1 -5; 3 5 -k| = 5k - 65 = 0 -> k = 13.)",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "The first two lines meet at (1,2) (check: 1 + 4 - 5 = 0 and 3 + 2 - 5 = 0), so concurrency requires 3(1) + 5(2) - k = 0, giving k = 13. The value 13 is absent from the options (6, 5, 7, 4); the determinant check |1 2 -5; 3 1 -5; 3 5 -k| = 5k - 65 = 0 also gives k = 13, so the key '7' is wrong."
   }
  },
  {
@@ -43939,7 +44159,7 @@
    1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Concurrency condition for three lines",
   "difficulty": "hard",
@@ -43962,7 +44182,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "second solve: no correct option",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 1,
@@ -43982,7 +44201,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "First two lines meet at (3,2); 5x+2y-k=0 gives 15+4-k=0 so k=19, not in options 11,13,15,17.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": -1,
+    "confidence": "high",
+    "note": "BROKEN AS PRINTED: concurrency forces k = 19, which is missing from the options 11, 13, 15, 17. (For k = 13 the constant -12 of the second line would have to be -14, and for k = 17 the constants would have to be -19 and -14.)",
+    "working": "Intersection of 3x + 4y = 17 and 2x + 3y = 12: 3*(first) -> 9x + 12y = 51, 4*(second) -> 8x + 12y = 48, subtract -> x = 3, then 6 + 3y = 12 -> y = 2, so the common point is (3,2). The third line 5x + 2y - k = 0 must pass through it: 5(3) + 2(2) - k = 0 -> k = 19. (Determinant check: |3 4 -17; 2 3 -12; 5 2 -k| = -k + 19 = 0 -> k = 19.)",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "The first two lines meet at (3,2) (check: 9 + 8 - 17 = 0 and 6 + 6 - 12 = 0), so concurrency requires 5(3) + 2(2) - k = 0, giving k = 19. The value 19 is absent from the options (11, 13, 15, 17); the determinant |3 4 -17; 2 3 -12; 5 2 -k| = 19 - k = 0 confirms k = 19, so the key '13' is wrong."
   }
  },
  {
@@ -44412,12 +44641,12 @@
    "2",
    "0"
   ],
-  "answer": 3,
+  "answer": 0,
   "accepted": [
-   3
+   0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Simultaneous continuity and differentiability of a piecewise function",
   "difficulty": "hard",
@@ -44427,7 +44656,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -44440,27 +44669,23 @@
    "solver_correct_index": 0,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 3,
-    "examon_answer_text": "0",
-    "solver_answer": 0,
-    "solver_answer_text": "1",
-    "solver_correct_text": "",
-    "note": "At x=2: m = 5, c = -4, so m + c = 1",
-    "solver_2_answer": 0,
-    "solver_2_answer_text": "1",
-    "solver_2_correct_text": "",
-    "solver_2_note": "Continuity: 2m+c=6; differentiability: m=2(2)+1=5, so c=-4 and m+c=1, option A."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 0,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Differentiability: left slope m=2(2)+1=5; continuity 2m+c=6 gives c=-4; m+c=1, option A. Key 0 wrong.",
    "adjudication_correct_index": 0,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 3,
+   "examon_key": 3,
+   "resolve": {
+    "correct_index": 0,
+    "confidence": "high",
+    "note": "Continuity at x=2 gives 2m+c=6 and differentiability gives m=5, so c=-4 and m+c=1.",
+    "working": "Continuity at x=2: left limit 2m+c must equal right value 2^2+2=6, so 2m+c=6. Differentiability at x=2: left derivative m, right derivative d/dx(x^2+x)=2x+1 -> 5, so m=5. Then c=6-2(5)=-4. m+c=5-4=1.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -44484,12 +44709,12 @@
    "8",
    "-2"
   ],
-  "answer": 0,
+  "answer": 1,
   "accepted": [
-   0
+   1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Simultaneous continuity and differentiability of a piecewise function",
   "difficulty": "hard",
@@ -44499,7 +44724,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -44512,27 +44737,23 @@
    "solver_correct_index": 1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 0,
-    "examon_answer_text": "0",
-    "solver_answer": 1,
-    "solver_answer_text": "-1",
-    "solver_correct_text": "",
-    "note": "At x=3: m = 8, c = -9, so m + c = -1",
-    "solver_2_answer": 1,
-    "solver_2_answer_text": "-1",
-    "solver_2_correct_text": "",
-    "solver_2_note": "Continuity: 3m+c=15; differentiability: m=2(3)+2=8, so c=-9 and m+c=-1, option B."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 1,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Continuity 3m+c=15; differentiability m=8, so c=-9 and m+c=-1 (B). Examon key 0 contradicts its own solution.",
    "adjudication_correct_index": 1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": 1,
+    "confidence": "high",
+    "note": "At x=3: 3m+c=15 and m=8, giving c=-9, hence m+c=-1.",
+    "working": "Continuity at x=3: 3m+c = 3^2+2(3) = 15. Differentiability: left derivative m, right derivative 2x+2 -> 8, so m=8. Then c=15-24=-9. m+c=8-9=-1.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -44556,12 +44777,12 @@
    "4",
    "5"
   ],
-  "answer": 3,
+  "answer": 2,
   "accepted": [
-   3
+   2
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Simultaneous continuity and differentiability of a piecewise function",
   "difficulty": "hard",
@@ -44571,7 +44792,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -44584,27 +44805,23 @@
    "solver_correct_index": 2,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 3,
-    "examon_answer_text": "5",
-    "solver_answer": 2,
-    "solver_answer_text": "4",
-    "solver_correct_text": "",
-    "note": "Continuity gives m + c = 4 (m = 5, c = -1)",
-    "solver_2_answer": 2,
-    "solver_2_answer_text": "4",
-    "solver_2_correct_text": "",
-    "solver_2_note": "Continuity: m+c=4; differentiability: m=2(1)+3=5, so c=-1 and m+c=4, option C."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 2,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Continuity gives m+c=4; derivative gives m=5, c=-1; so m+c=4 (C). Examon key 5 is wrong.",
    "adjudication_correct_index": 2,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 3,
+   "examon_key": 3,
+   "resolve": {
+    "correct_index": 2,
+    "confidence": "high",
+    "note": "At x=1: continuity gives m+c=4 directly (and differentiability gives m=5, c=-1, consistent).",
+    "working": "Continuity at x=1: m+c = 1^2+3(1) = 4. Differentiability: left derivative m, right derivative 2x+3 -> 5, so m=5, c=4-5=-1. m+c=4.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -45428,12 +45645,12 @@
    "0.896",
    "6"
   ],
-  "answer": 2,
+  "answer": 0,
   "accepted": [
-   2
+   0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Definite integral by direct substitution",
   "difficulty": "hard",
@@ -45443,7 +45660,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.98,
    "examon_audit_model": "gpt-5.4",
@@ -45456,27 +45673,23 @@
    "solver_correct_index": 0,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 2,
-    "examon_answer_text": "0.896",
-    "solver_answer": 0,
-    "solver_answer_text": "1.792",
-    "solver_correct_text": "",
-    "note": "Substitute u=x^2+4x+1, du=(2x+4)dx; integral = ln6 - ln1 = 1.7918.",
-    "solver_2_answer": 0,
-    "solver_2_answer_text": "1.792",
-    "solver_2_correct_text": "",
-    "solver_2_note": "Integrand is d/dx ln(x^2+4x+1); integral = ln 6 - ln 1 = 1.7918, option A."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 0,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "u=x^2+4x+1 gives integral from 1 to 6 of du/u = ln6 = 1.792 (A); 0.896 is ln6/2, wrong.",
    "adjudication_correct_index": 0,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 2,
+   "examon_key": 2,
+   "resolve": {
+    "correct_index": 0,
+    "confidence": "high",
+    "note": "Numerator is exactly the derivative of the denominator, so the integral is ln(x^2+4x+1) evaluated from 0 to 1 = ln 6.",
+    "working": "d/dx(x^2+4x+1) = 2x+4, so integrand = d/dx[ln(x^2+4x+1)]. Integral = ln(1+4+1) - ln(1) = ln 6 = 1.7918...  ~ 1.792.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -51088,7 +51301,7 @@
    1
   ],
   "images": [],
-  "status": "flagged",
+  "status": "dropped",
   "in_syllabus": true,
   "topic": "Linear differential equation with an initial condition",
   "difficulty": "hard",
@@ -51111,7 +51324,6 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
    "disagreement": {
     "kind": "no_correct_option",
     "examon_answer": 1,
@@ -51131,7 +51343,17 @@
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "y=3+xe^{-x} with C=0 gives y(ln2)=3+(ln2)/2=3.3466 (RK4 confirmed); no option fits, key 7/2 wrong.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": 0,
+    "confidence": "medium",
+    "note": "Intended solution is y = 3 + C e^{-x} with C = 0 from y(0)=3, giving y(ln 2) = 3. Flaw: the exact ODE solution also has the resonant term x e^{-x}, so the exact value is 3 + (ln 2)/2 = 3.3466, which is not listed.",
+    "working": "IF = e^x: d/dx(y e^x) = (3+e^{-x})e^x = 3e^x + 1, so y e^x = 3e^x + x + C, i.e. y = 3 + (x+C)e^{-x}. y(0)=3 gives C=0, so y(ln 2) = 3 + (ln 2)(1/2) = 3.3466 exactly. The option set {2.5, 3, 3.5, 4} is centred on 3, which is the value obtained from the intended (resonance-term-omitted) form y = 3 + C e^{-x}, C=0 -> y(ln 2) = 3. Selecting 3 as intended answer.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "status_reason": "The resonant forcing e^{-x} must be handled by a particular integral x e^{-x}, so the publisher's own solution form y = 3 + C e^{-x} (which yields their stated '3') is wrong, and the keyed 7/2 is wrong too. The exact value y(ln 2) = 3 + (ln 2)/2 ~ 3.3466 is not among {3, 7/2, 4, 5/2}, so no option carries the correct value. Note the publisher's own worked solution ends at 3 + (ln 2)/2 and then illegitimately asserts 'the keyed option corresponds to 7/2'."
   }
  },
  {
@@ -51160,7 +51382,7 @@
    0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Linear differential equation with an initial condition",
   "difficulty": "hard",
@@ -51170,7 +51392,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the published key)",
    "examon_verified": true,
    "examon_audit_confidence": 0.98,
    "examon_audit_model": "gpt-5.4",
@@ -51183,27 +51405,22 @@
    "solver_correct_index": -1,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "no_correct_option",
-    "examon_answer": 0,
-    "examon_answer_text": "$\\dfrac{9}{2}$",
-    "solver_answer": -1,
-    "solver_answer_text": null,
-    "solver_correct_text": "9/2 + (ln 2)/2",
-    "note": "y = 4 + (2x+1)e^{-2x}; y(ln2/2) = 9/2 + (ln2)/2 = 4.847; option 5 comes from omitting the x factor.",
-    "solver_2_answer": 0,
-    "solver_2_answer_text": "$\\dfrac{9}{2}$",
-    "solver_2_correct_text": "",
-    "solver_2_note": "Exact y = 4 + 2xe^{-2x} + e^{-2x} gives 4.5 + (ln 2)/2 = 4.847; option 9/2 matches key dropping e^{-2x} forcing."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "low",
    "solver_2_correct_index": 0,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "y=4+(2x+1)e^{-2x} gives y(ln2/2)=4+(ln2+1)/2=4.8466 (RK4 confirmed); no option fits, key 9/2 wrong.",
    "adjudication_correct_index": -1,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": 0,
+    "confidence": "medium",
+    "note": "Intended solution is y = 4 + C e^{-2x} with C = 1 from y(0)=5, giving 4 + e^{-ln 2} = 4.5. Flaw: the exact solution has the resonant term 2x e^{-2x}, so the exact value is 4 + (ln 2 + 1)/2 = 4.8466, which is not listed.",
+    "working": "IF = e^{2x}: d/dx(y e^{2x}) = (8+2e^{-2x})e^{2x} = 8e^{2x} + 2, so y e^{2x} = 4e^{2x} + 2x + C, i.e. y = 4 + (2x + C)e^{-2x}. y(0)=5 gives C=1, so at x = (ln 2)/2, e^{-2x} = 1/2 and y = 4 + (ln 2 + 1)/2 = 4.8466 exactly. The option set {4, 4.5, 5, 5.5} is centred on 4.5, which is the value from the intended form y = 4 + C e^{-2x} (C=1) -> 4 + 1/2 = 9/2. Selecting 9/2 as intended answer.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   }
   }
  },
  {
@@ -52481,12 +52698,12 @@
    "88",
    "58"
   ],
-  "answer": 3,
+  "answer": 2,
   "accepted": [
-   3
+   2
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Tangent condition for a line and a circle",
   "difficulty": "hard",
@@ -52496,7 +52713,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -52509,27 +52726,23 @@
    "solver_correct_index": 2,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 3,
-    "examon_answer_text": "58",
-    "solver_answer": 2,
-    "solver_answer_text": "88",
-    "solver_correct_text": "",
-    "note": "|54 - p|/17 = 2 gives p = 88 or 20; greater positive value is 88.",
-    "solver_2_answer": 2,
-    "solver_2_answer_text": "88",
-    "solver_2_correct_text": "",
-    "solver_2_note": "Distance from (3,2): |54-p|/17 = 2 gives p = 20 or 88; greater value 88, option C."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 2,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Tangency |54-p|/17=2 gives p=20 or 88; greater positive is 88 (C). Examon key 58 is wrong.",
    "adjudication_correct_index": 2,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 3,
+   "examon_key": 3,
+   "resolve": {
+    "correct_index": 2,
+    "confidence": "high",
+    "note": "Tangency: distance from centre (3,2) to 8x+15y=p equals the radius 2, giving |54-p| = 34, so p = 20 or 88.",
+    "working": "Centre (3,2), radius 2, sqrt(8^2+15^2) = sqrt(289) = 17. |8(3)+15(2)-p|/17 = 2 -> |54-p| = 34 -> p = 88 or p = 20. Greater positive value = 88.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -52553,12 +52766,12 @@
    "154",
    "29"
   ],
-  "answer": 0,
+  "answer": 2,
   "accepted": [
-   0
+   2
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Tangent condition for a line and a circle",
   "difficulty": "hard",
@@ -52568,7 +52781,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -52581,27 +52794,23 @@
    "solver_correct_index": 2,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 0,
-    "examon_answer_text": "79",
-    "solver_answer": 2,
-    "solver_answer_text": "154",
-    "solver_correct_text": "",
-    "note": "Center (1,3), r=3. p = 7+72 ± 3*25 = 79 ± 75, so p = 154 or 4; greater = 154.",
-    "solver_2_answer": 2,
-    "solver_2_answer_text": "154",
-    "solver_2_correct_text": "",
-    "solver_2_note": "Distance from (1,3): |79-p|/25 = 3 gives p = 4 or 154; greater value 154, option C."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 2,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Tangency |79-p|/25=3 gives p=4 or 154; greater positive is 154 (C). Examon key 79 is wrong.",
    "adjudication_correct_index": 2,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": 2,
+    "confidence": "high",
+    "note": "Tangency: |7(1)+24(3)-p|/25 = 3, giving |79-p| = 75, so p = 4 or 154; the greater is 154.",
+    "working": "Centre (1,3), radius 3, sqrt(7^2+24^2) = sqrt(625) = 25. |7+72-p|/25 = 3 -> |79-p| = 75 -> p = 154 or p = 4. Greater positive value = 154.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -52625,12 +52834,12 @@
    "7",
    "27"
   ],
-  "answer": 0,
+  "answer": 3,
   "accepted": [
-   0
+   3
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Tangent condition for a line and a circle",
   "difficulty": "hard",
@@ -52640,7 +52849,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -52653,27 +52862,23 @@
    "solver_correct_index": 3,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 0,
-    "examon_answer_text": "17",
-    "solver_answer": 3,
-    "solver_answer_text": "27",
-    "solver_correct_text": "",
-    "note": "Center (2,4), r=1. p = 6+16 ± 1*5 = 22 ± 5, so p = 27 or 17; greater = 27.",
-    "solver_2_answer": 3,
-    "solver_2_answer_text": "27",
-    "solver_2_correct_text": "",
-    "solver_2_note": "Distance from (2,4): |22-p|/5 = 1 gives p = 17 or 27; greater value 27, option D."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 3,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Tangency |22-p|/5=1 gives p=17 or 27; greater positive is 27 (D). Examon key 17 is wrong.",
    "adjudication_correct_index": 3,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 0,
+   "examon_key": 0,
+   "resolve": {
+    "correct_index": 3,
+    "confidence": "high",
+    "note": "Tangency: |3(2)+4(4)-p|/5 = 1, giving |22-p| = 5, so p = 17 or 27; the greater is 27.",
+    "working": "Centre (2,4), radius 1, sqrt(3^2+4^2) = 5. |6+16-p|/5 = 1 -> |22-p| = 5 -> p = 27 or p = 17. Greater positive value = 27.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -52697,12 +52902,12 @@
    "20",
    "28"
   ],
-  "answer": 1,
+  "answer": 3,
   "accepted": [
-   1
+   3
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Tangent condition for a line and a circle",
   "difficulty": "hard",
@@ -52712,7 +52917,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -52725,27 +52930,23 @@
    "solver_correct_index": 3,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 1,
-    "examon_answer_text": "18",
-    "solver_answer": 3,
-    "solver_answer_text": "28",
-    "solver_correct_text": "",
-    "note": "Center (3,2), r=2. p = 12+6 ± 2*5 = 18 ± 10, so p = 28 or 8; greater = 28.",
-    "solver_2_answer": 3,
-    "solver_2_answer_text": "28",
-    "solver_2_correct_text": "",
-    "solver_2_note": "Distance from (3,2): |18-p|/5 = 2 gives p = 8 or 28; greater value 28, option D."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 3,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Tangency |18-p|/5=2 gives p=8 or 28; greater positive is 28 (D). Examon key 18 is wrong.",
    "adjudication_correct_index": 3,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": 3,
+    "confidence": "high",
+    "note": "Tangency: |4(3)+3(2)-p|/5 = 2, giving |18-p| = 10, so p = 8 or 28; the greater is 28.",
+    "working": "Centre (3,2), radius 2, sqrt(4^2+3^2) = 5. |12+6-p|/5 = 2 -> |18-p| = 10 -> p = 28 or p = 8. Greater positive value = 28.",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {
@@ -52769,12 +52970,12 @@
    "80",
    "93"
   ],
-  "answer": 1,
+  "answer": 2,
   "accepted": [
-   1
+   2
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "topic": "Tangent condition for a line and a circle",
   "difficulty": "hard",
@@ -52784,7 +52985,7 @@
   "checks": {
    "extract_match": true,
    "key_sources": 1,
-   "solver": "minimax-m3.1-flash (blind solve 1)",
+   "solver": "minimax-m3.1-flash (blind resolve confirmed the corrected answer)",
    "examon_verified": true,
    "examon_audit_confidence": 0.99,
    "examon_audit_model": "gpt-5.4",
@@ -52797,27 +52998,23 @@
    "solver_correct_index": 2,
    "verified_at": "2026-11-04T18:12:45Z",
    "first_pass_verdict": "disagree",
-   "flag_reason": "both blind solves disagreed with the published key",
-   "disagreement": {
-    "kind": "different_option",
-    "examon_answer": 1,
-    "examon_answer_text": "41",
-    "solver_answer": 2,
-    "solver_answer_text": "80",
-    "solver_correct_text": "",
-    "note": "Center (1,3), r=3. p = 5+36 ± 3*13 = 41 ± 39, so p = 80 or 2; greater = 80.",
-    "solver_2_answer": 2,
-    "solver_2_answer_text": "80",
-    "solver_2_correct_text": "",
-    "solver_2_note": "Distance from (1,3): |41-p|/13 = 3 gives p = 2 or 80; greater value 80, option C."
-   },
    "solver_2": "minimax-m3.1-flash (blind solve 2)",
    "solver_2_confidence": "high",
    "solver_2_correct_index": 2,
    "adjudication_verdict": "solver_right",
    "adjudication_reason": "Tangency |41-p|/13=3 gives p=2 or 80; greater positive is 80 (C). Examon key 41 is wrong.",
    "adjudication_correct_index": 2,
-   "adjudicated_at": "2026-11-04T18:12:46Z"
+   "adjudicated_at": "2026-11-04T18:12:46Z",
+   "published_key": 1,
+   "examon_key": 1,
+   "resolve": {
+    "correct_index": 2,
+    "confidence": "high",
+    "note": "Tangency gives |41-p| = 39, so p = 2 or 80; the greater positive value is 80.",
+    "working": "Circle: centre (1,3), radius 3. Distance from centre to line 5x+12y-p=0 is |5(1)+12(3)-p|/sqrt(5^2+12^2) = |41-p|/13. Set = 3: |41-p| = 39 -> p = 41-39 = 2 or p = 41+39 = 80. Greater positive value = 80 (option index 2).",
+    "resolved_at": "2026-11-10T15:35:54Z"
+   },
+   "examon_key_was_wrong": true
   }
  },
  {

@@ -524,20 +524,34 @@
    "quadrupled",
    "halved"
   ],
-  "answer": 1,
+  "answer": 0,
   "accepted": [
-   1
+   0
   ],
   "images": [],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "checks": {
    "key_official": false,
    "blind_haiku": 0,
    "verify": "disputed",
    "notes": "Key page k0-14 reads 14.(ii) doubled (read correctly), but rate constant depends only on temperature, so it stays the same (option i). Transcription verified against p-05.",
-   "solver_agrees": [],
-   "status_reason": "blind solver and key disagree"
+   "key_override": {
+    "reason": "The rate constant depends only on temperature, so doubling [B] leaves k unchanged and merely doubles the rate; the correct option is 'the same' (i). The printed key (ii) 'doubled' describes the rate, not k; transcription verified against the paper page image.",
+    "published_key": [
+     1
+    ]
+   },
+   "solver_agrees": [
+    "haiku",
+    "sonnet",
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 0,
+    "confidence": "high",
+    "note": "blind resolve confirmed the corrected answer"
+   }
   }
  },
  {

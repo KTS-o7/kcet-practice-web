@@ -293,15 +293,21 @@
   "images": [
    "tp-ncert-math-11-ch06-026.png"
   ],
-  "status": "flagged",
+  "status": "verified",
   "in_syllabus": true,
   "checks": {
    "key_official": false,
    "blind_haiku": 1,
    "verify": "disputed",
    "notes": "Key (read correctly from k0-06: 26. A) says |x|<5, but Fig 6.7 shows a shaded band with solid, undashed edges at -5 and 5, which conventionally means |x|<=5 (B). Transcription verified exact. Printed NCERT key is A, likely treating the graph loosely; flag for human decision.",
-   "solver_agrees": [],
-   "status_reason": "blind solver and key disagree"
+   "solver_agrees": [
+    "resolve"
+   ],
+   "resolve": {
+    "choice": 0,
+    "confidence": "high",
+    "note": "blind resolve confirmed the paper's key"
+   }
   }
  },
  {
